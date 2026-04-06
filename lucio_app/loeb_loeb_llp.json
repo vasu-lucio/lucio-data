@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Loeb & Loeb LLP",
+    "website": "https://loeb.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 512,
+    "firm_description": "Loeb & Loeb LLP is a multi-service law firm with offices in Los Angeles, New York, Chicago, Nashville, Washington, D.C., San Francisco, Beijing and Hong Kong. We deliver strategic solutions to complex deals and high-profile disputes, and offer practical guidance on cutting-edge issues.",
+    "notable_facts": [
+      "Founded in 1909",
+      "Offices in Los Angeles, New York, Chicago, Nashville, Washington, D.C., San Francisco, Beijing and Hong Kong",
+      "Annual revenue of $100.0M-$500.0M"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Mitchell S. Nussbaum",
+        "title": "Co-Chair, Loeb & Loeb LLP",
+        "email": null,
+        "phone": "+1.212.407.4159",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Arash Khalili",
+          "title": "Co-Chair, Loeb & Loeb LLP",
+          "email": null,
+          "phone": "+1.310.282.2282",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Beck",
+          "title": "Partner and Chairman Emeritus, Loeb & Loeb LLP",
+          "email": "mbeck@loeb.com",
+          "phone": "310-282-2000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

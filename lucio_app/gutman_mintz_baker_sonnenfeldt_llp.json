@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Gutman, Mintz, Baker & Sonnenfeldt LLP",
+    "website": "https://gmbspc.com/",
+    "city": "New Hyde Park",
+    "practice_areas": [
+      "Property/land-lord tenant proceedings",
+      "Debt recovery",
+      "Bankruptcy",
+      "Supreme Court matters",
+      "Hearings in Administrative tribunals",
+      "Real estate law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gutman, Mintz, Baker & Sonnenfeldt is a law firm specializing in various areas of litigation, including real estate and debt recovery. The firm serves real estate management firms, housing companies, and not-for-profit corporations.",
+    "notable_facts": [],
+    "technology_signals": [
+      "Utilizes advanced legal technologies to streamline case management and enhance communication with clients"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc Sanzeri",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Keilbach",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hotan Rohparvar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Arianna Gonzalez-abreu",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katie Nolan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Moses Ginsberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tamra Pelleman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren Shevit",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

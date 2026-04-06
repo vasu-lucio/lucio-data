@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Subin Law",
+    "website": "https://www.subinlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury Law",
+      "Motor Vehicle Accidents",
+      "Premises Liability",
+      "Wrongful Death",
+      "Trucking Accidents",
+      "Police Misconduct",
+      "Construction Accidents",
+      "Burn Injuries",
+      "Ceiling Collapse Injuries"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Subin Law is a personal injury law firm in New York City dedicated to securing compensation for injury victims. They are known for their skilled litigators and have a strong reputation in the New York legal community.",
+    "notable_facts": [
+      "The firm has recovered over $3 billion for its clients.",
+      "They receive referrals from other law firms who do not practice in New York City.",
+      "The firm has been operating since 1954."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Eric D. Subin",
+        "title": "Lead Trial Attorney",
+        "email": null,
+        "phone": "(212) LAW 1954",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Frank M. Melendez",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Simon M. Hannanian",
+          "title": "Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc S. Subin",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Pfluger",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

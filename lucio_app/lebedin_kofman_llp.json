@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Lebedin Kofman LLP",
+    "website": "https://www.lebedinkofman.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Criminal Defense",
+      "DWI & DUI Defense",
+      "Domestic Violence",
+      "Federal Crimes",
+      "Fraud",
+      "Identity Theft Crimes",
+      "Sex Crimes",
+      "Vehicular Crimes",
+      "Title IX Defense",
+      "Civil Rights Litigation",
+      "Malicious Prosecution",
+      "Excessive Force",
+      "Debt Settlement",
+      "Family Law",
+      "High Net Worth Divorce",
+      "Child Custody",
+      "Business Law",
+      "Consumer Law",
+      "Student Loan Law",
+      "Consumer Bankruptcy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lebedin Kofman LLP is a boutique law firm providing high-quality legal services. They offer 24/7 availability and focus on giving clients personalized attention.",
+    "notable_facts": [
+      "Offers free attorney consultations via phone, video conferencing, or in person",
+      "Located in front of the charging bull on Broadway"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Arthur Lebedin",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": "646-663-4430",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Russ Kofman",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": "646-663-4430",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Leinoff",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Gorman",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Perez",
+          "title": "Criminal Defense Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alyson Luftig",
+          "title": "Debt Settlement",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

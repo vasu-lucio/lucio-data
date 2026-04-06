@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Phelan Phelan & Danek LLP",
+    "website": "https://ppdlawoffice.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Construction Law",
+      "Medical Malpractice",
+      "Professional Malpractice",
+      "Negligence Defense",
+      "Insurance Defense",
+      "Products Liability",
+      "Commercial Law",
+      "Arbitration",
+      "Mediation",
+      "Labor Law",
+      "Employment Law",
+      "Civil Appeals",
+      "Personal Injury",
+      "Help For Employers And Professionals"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Phelan, Phelan, & Danek, LLP combines the personal service one would expect of a small firm, with the experience ordinarily associated with much larger firms. From the largest client, to the smallest case, our team will do everything it can to achieve your objectives.",
+    "notable_facts": [
+      "Initial consultations with an attorney are offered free of charge.",
+      "The firm employs 5 people and has an annual revenue of $21.7M."
+    ],
+    "technology_signals": [
+      "microsoft",
+      "microsoft office",
+      "microsoft word",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John J. Phelan",
+          "title": "Senior Partner, Founding Partner",
+          "email": null,
+          "phone": "(518) 640-6900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Katrina N Vollmer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack Phelan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/jack-phelan-a649bba6"
+        },
+        {
+          "name": "Robin Bartlett Phelan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marie Flynn Danek",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

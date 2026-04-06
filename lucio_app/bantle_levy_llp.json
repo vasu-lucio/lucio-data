@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Bantle & Levy LLP",
+    "website": "https://civilrightsfirm.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Employee Rights",
+      "Discrimination",
+      "Civil Rights",
+      "C-Suite, Executive Representation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bantle & Levy LLP has been a leading advocate for employees who have faced discrimination and sexual harassment in the workplace for over two decades. Our team is dedicated to advancing the human rights of people who have been targeted based on their age, gender, national origin, race, sexual orientation, or other part of their identity.",
+    "notable_facts": [
+      "Award-Winning New York City Attorneys"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lee Bantle",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Levy",
+          "title": "Partner",
+          "email": "levy@civilrightsfirm.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sherie Buell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Krauss",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Natalie Chew",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ali Libertella",
+          "title": "Legal Fellow",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Veronica L. Davis",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bantle-&-levy-llp",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

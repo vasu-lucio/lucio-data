@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Kevin Kerveng Tung P.C.",
+    "website": "https://www.kktlawfirm.com/",
+    "city": "Flushing",
+    "practice_areas": [
+      "Litigation",
+      "Landlord-Tenant",
+      "Patent Litigation",
+      "Securities Law Compliance"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Kevin Kerveng Tung P.C. (KKT) is a law firm serving the New York metropolitan area and New Jersey. The firm's practice areas range from landlord-tenant cases to high-end patent litigation and securities law compliance practice.",
+    "notable_facts": [
+      "Founded in 1999",
+      "Multicultural team of attorneys",
+      "MetLife Hyatt Legal Plans participant law firm"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin Kerveng Tung",
+        "title": "Attorney",
+        "email": "[[email&#160;protected]]",
+        "phone": "+1.7189394633",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Kevin K. Tung",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

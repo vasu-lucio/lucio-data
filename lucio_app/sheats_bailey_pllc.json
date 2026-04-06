@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Sheats & Bailey, PLLC",
+    "website": "https://www.theconstructionlaw.com/",
+    "city": "Liverpool",
+    "practice_areas": [
+      "Construction Law",
+      "Commercial Litigation",
+      "Industrial Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sheats & Bailey, PLLC is a law firm specializing in commercial and industrial construction law, representing various parties involved in the construction process throughout the United States and Canada.",
+    "notable_facts": [
+      "Represents clients across the United States and Canada.",
+      "Offers training and seminars for construction professionals.",
+      "Experienced in mediation, arbitration, litigation, and appeals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Edward J. Sheats Jr.",
+          "title": "Founder and Senior Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason B. Bailey",
+          "title": "Partner",
+          "email": null,
+          "phone": "315-676-7314",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

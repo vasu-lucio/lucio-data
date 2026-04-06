@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Miller McNamara & Taylor LLP",
+    "website": "https://www.mmt-law.com/",
+    "city": null,
+    "practice_areas": [
+      "Civil Litigation",
+      "Business Litigation",
+      "Employment Litigation",
+      "Estate Planning",
+      "Estate Administration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Miller McNamara & Taylor LLP is a law firm specializing in representing individuals and entities in complex civil litigation. We also provide estate planning and estate administration services to existing clients.",
+    "notable_facts": [
+      "The attorneys at MM&T have over 150 years of experience combined."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joel M. Taylor",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John O. Miller, III",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Francis J. McNamara",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

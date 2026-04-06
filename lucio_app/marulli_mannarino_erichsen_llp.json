@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Marulli, Mannarino & Erichsen, LLP",
+    "website": "https://www.marullilaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury Defense",
+      "Motor Vehicle Accident",
+      "General and Product Liability",
+      "Insurance Coverage",
+      "Special Risks and Environmental Law",
+      "Appellate Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Marulli, Mannarino & Erichsen, LLP is a Medical Malpractice / Personal Injury Defense firm in downtown Manhattan which has represented healthcare providers in professional malpractice claims. The firm has a separate area of focus on the representation of municipal mass transit entities and corporations.",
+    "notable_facts": [
+      "Founded in 1995",
+      "Represents the spectrum of healthcare providers in professional malpractice claims",
+      "Represents municipal mass transit entities and corporations"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gerry Marulli",
+        "title": "Partner",
+        "email": "gmarulli@mmelaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard Mannarino",
+          "title": "Partner",
+          "email": "rmannarino@mmelaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Erichsen",
+          "title": "Partner",
+          "email": "Ferichsen@mmelaw.com",
+          "phone": "212-553-3200",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

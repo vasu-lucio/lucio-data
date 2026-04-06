@@ -1,0 +1,50 @@
+{
+  "firm_data": {
+    "firm_name": "Brown & Associates, PLLC",
+    "website": null,
+    "city": "Charlotte",
+    "practice_areas": [],
+    "lawyer_count": 1,
+    "firm_description": "Brown & Associates, PLLC is a full service law firm consisting of attorneys licensed in North Carolina and South Carolina, serving clients in the Charlotte-Metro area and surrounding counties.",
+    "notable_facts": [
+      "The firm was founded in 1999.",
+      "The firm provides an atmosphere of close relationships between staff and clients so the details of your case are understood better and you'll have the comfort of knowing that your case will not be handed off to another attorney within the firm.",
+      "The firm provides services such as acting as outside general counsel, assisting a company with contract administration, guiding a husband or wife through sensitive family law matters, establishing a trust, or defending against criminal prosecution."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

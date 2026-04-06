@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Rower LLC",
+    "website": "https://www.rowerllc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Matrimonial & Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rower LLC is a New York law firm dedicated to matrimonial and family law, offering strategic solutions, fierce advocacy, and compassionate support.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alyssa Rower",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Yukie Shea",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kara M. Bellew",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louisa DeRose",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leslie Stewart Sullivan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dilpreet Rai",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

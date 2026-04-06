@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Stempel Catterson LoFrumento Carlson Biondo LLP",
+    "website": "https://www.matrimoniallawgroupny.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Family Law",
+      "Matrimonial Law",
+      "Divorce & Separation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Stempel, Catterson, LoFrumento, Carlson, Biondo, LLP is a law firm focused on matrimonial law. They are experienced in all aspects of matrimonial law and advocate for their clients.",
+    "notable_facts": [
+      "The firm was founded by Vincent F. Stempel, Michael F. Lofrumento, Amanda L. Carlson, and John Biondo.",
+      "Vincent F. Stempel has been listed in The Best Lawyers in America since 2006.",
+      "Michael F. Lofrumento has been named a Super Lawyer since 2014.",
+      "Amanda L. Carlson has been named a Top Rated Family Law Attorney by Super Lawyers and one of New York's Rising Stars by Super Lawyers since 2014."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vincent F. Stempel",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-226-2222 ext. 15",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael F. Lofrumento",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-325-1801",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda L. Carlson",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-226-2222 ext. 17",
+          "linkedin_url": null
+        },
+        {
+          "name": "John Biondo",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-226-2222 ext. 23",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

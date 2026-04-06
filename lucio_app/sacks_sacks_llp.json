@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Sacks & Sacks LLP",
+    "website": "https://sacks-sacks.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Accidents",
+      "Employment Law",
+      "Criminal Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sacks & Sacks is a New York law firm. One branch of the firm focuses on obtaining compensation and damages for construction workers injured on the job, while another focuses on employment law and commercial litigation.",
+    "notable_facts": [
+      "Secured over two dozen verdicts and settlements in excess of $10 million for construction worker clients.",
+      "Drafted amendments to the New York Labor Law in 1969 to expand protections for construction workers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Evan Sacks",
+        "title": "Senior Partner",
+        "email": null,
+        "phone": "212-964-5570",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ira Sacks",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melvin Sacks",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stanley Sacks",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan Sack",
+          "title": "Founding Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

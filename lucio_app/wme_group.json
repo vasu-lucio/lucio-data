@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "WME Group",
+    "website": "https://wmegrp.com/",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "WME Group represents talent, intellectual property and brands and produces content through talent agency WME, global marketing agency 160over90, brand licensing agency IMG Licensing, and nonscripted content business Pantheon Media Group.",
+    "notable_facts": [
+      "WME represents artists, content creators and talent across books, digital media, fashion, film, food, music, sports, television, and theater.",
+      "160over90 is a global marketing agency that connects brands to people, places and moments.",
+      "Pantheon Media produces content across live events, factual entertainment, premium documentaries, true crime, sports and more.",
+      "IMG\u2019s Licensing division manages the licensing programs of brands, media franchises, events, trademarks, and talent."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Seth Krauss",
+          "title": "Chief Administrative Officer & Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bill Fullerton",
+          "title": "SVP, Global Controller & Chief Accounting Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bill Taub",
+          "title": "Senior Vice President Of Cybersecurity",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dominic Cowell",
+          "title": "VP, Head of Global Infrastructure",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaspinder Singh",
+          "title": "SVP, Global Applications & Financial Systems",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

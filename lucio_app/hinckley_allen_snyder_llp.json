@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Hinckley Allen",
+    "website": "https://hinckleyallen.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Construction & Public Contracts",
+      "Litigation",
+      "Corporate & Business Transactions",
+      "Real Estate",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 170,
+    "firm_description": "Hinckley Allen is a full-service business law firm dedicated to delivering exceptional results for its clients. With more than 170 attorneys across offices in Connecticut, Florida, Illinois, Massachusetts, New Hampshire, New York, and Rhode Island, the firm represents leading regional, national, and global businesses in their most critical legal and business matters.",
+    "notable_facts": [
+      "Hinckley Allen was founded in 1906.",
+      "The firm has affiliations with USLaw and Globalaw, extending its reach nationally and globally.",
+      "Hinckley Allen expanded into Florida through a merger with South Florida firm Ferencik Libanoff Brandt Bustamante & Goldstein in February 2024."
+    ],
+    "technology_signals": [
+      "iManage",
+      "Google Maps",
+      "Yoast SEO",
+      "jQuery CDN",
+      "Modernizr",
+      "Microsoft Word",
+      "Google Tag Manager",
+      "HSTS"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Patrick A. Rogers",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mark O\u2019Leary",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Noble F. Allen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle R. Peirce",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsey Peterson Black",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

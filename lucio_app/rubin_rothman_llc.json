@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Rubin & Rothman, LLC",
+    "website": "https://rubinrothman.com/",
+    "city": "Islandia",
+    "practice_areas": [
+      "Creditor's Rights",
+      "Debt Collection",
+      "Foreclosure Proceedings",
+      "Bankruptcy Representation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rubin & Rothman, LLC is a New York, New Jersey, Connecticut, and Massachusetts creditor's rights law firm that works with people to start a path forward to financial recovery. They treat consumers with professionalism and respect and work to reach reasonable resolutions on behalf of their clients.",
+    "notable_facts": [
+      "The firm employs 99 people and has an annual revenue of $5.0M-$25.0M.",
+      "They practice throughout the states of New York, New Jersey, Pennsylvania, Connecticut, Massachusetts, New Hampshire, Rhode Island, Maine, and Vermont."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Alona Lukats",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/rubin-rothman/person/alona-lukats"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joanna Pohlman",
+          "title": "Director Of Client Services",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/rubin-rothman/person/joanna-pohlman"
+        },
+        {
+          "name": "Keith Rothman",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/rubin-rothman/person/keith-rothman"
+        },
+        {
+          "name": "Jeffrey Cohen",
+          "title": "Controller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,58 @@
+{
+  "firm_data": {
+    "firm_name": "Bochner PLLC",
+    "website": "https://www.bochner.law/",
+    "city": "New York City",
+    "practice_areas": [
+      "Intellectual Property",
+      "Corporate Law",
+      "Litigation",
+      "Mergers & Acquisitions",
+      "Business Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bochner PLLC is an international practice serving clients of all sizes, advising on operational issues, negotiating deals, and handling litigation. The firm focuses on building value, mitigating risk, and securing long-term success for its clients.",
+    "notable_facts": [
+      "Recognized by Legal 500 as New York City Elite for Intellectual Property in 2026",
+      "Andrew D. Bochner named to IAM Strategy 300: The World\u2019s Leading IP Strategists 2025",
+      "Recognized in Chambers USA: Spotlight 2026 for Intellectual Property"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew D. Bochner",
+        "title": "Managing Partner",
+        "email": "andrew@bochner.law",
+        "phone": "+1 212.930.8220",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/the-modern-inventor",
+    "linkedin_size": "501-1000"
+  },
+  "email": {}
+}

@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Kaufman Dolowich LLP",
+    "website": "https://kaufmandolowich.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Labor and Employment",
+      "Directors and Officers Liability",
+      "Professional Liability",
+      "Commercial Litigation",
+      "Insurance Coverage and Litigation",
+      "Data Privacy and Cybersecurity",
+      "Consumer Financial Services",
+      "Real Estate",
+      "General Liability",
+      "Construction Law"
+    ],
+    "lawyer_count": 296,
+    "firm_description": "Kaufman Dolowich LLP is a leading national law firm representing clients across a wide range of industries in key practice areas. Headquartered on Long Island, N.Y., the firm advises national and global clients of all sizes.",
+    "notable_facts": [
+      "Kaufman Dolowich is a seven-time Mansfield Certified law firm, recognized for its commitment to inclusive employment practices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Arif Virji",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Ivan J. Dolowich",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kristin Dejesus",
+        "title": "Chief Operating Officer",
+        "email": "kdejesus@kaufmandolowich.com",
+        "phone": "(516) 283-8742",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin M. Mattessich",
+          "title": "General Counsel",
+          "email": "kmattessich@kaufmandolowich.com",
+          "phone": "(646) 599-9419",
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine S. Catlos",
+          "title": "Partner, Chief Diversity & Inclusion Officer, CIPP, US, CIPM",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

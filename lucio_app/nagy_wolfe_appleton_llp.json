@@ -1,0 +1,133 @@
+{
+  "firm_data": {
+    "firm_name": "Nagy Wolfe Appleton LLP",
+    "website": "https://www.nagylaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "General Commercial Litigation",
+      "Contract and Tort Disputes",
+      "Securities Law",
+      "Banking Law",
+      "Intellectual Property",
+      "Internal and Government Investigations",
+      "Art Law",
+      "Deal Litigation",
+      "Blockchain and Cryptocurrency",
+      "Insurance Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Nagy Wolfe Appleton LLP is a firm of elite trial lawyers with a history of delivering successful results in high-stakes disputes. We fight to win, and our track record reflects our success.",
+    "notable_facts": [
+      "The firm frequently uses alternative fee arrangements.",
+      "The firm represents a wide range of clients from financial institutions to individuals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Tibor L. Nagy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory N. Wolfe",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tracy O. Appleton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Arian Soroush",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katie Schuff",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Moosmann",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Goldenberg",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ben Cornfeld",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Gauthier",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick McGee",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "New York Lawyers for the Public Interest",
+    "website": "https://nylpi.org/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Rights",
+      "Health Justice",
+      "Disability Justice",
+      "Immigrant Justice",
+      "Environmental Justice"
+    ],
+    "lawyer_count": 28,
+    "firm_description": "New York Lawyers for the Public Interest (NYLPI) is a non-profit law firm that combines the power of law, organizing, and the private bar to make lasting change where it\u2019s needed most, fighting for more than 40 years to protect civil rights and achieve lived equality for communities in need.",
+    "notable_facts": [
+      "Founded in 1976",
+      "Pioneered the practice of community lawyering in New York"
+    ],
+    "technology_signals": [
+      "amp",
+      "impact",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "McGregor Smyth",
+        "title": "Executive Director",
+        "email": "nylpi@nylpi.org",
+        "phone": "1-212-244-4664",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marinda van Dalen",
+          "title": "Director of Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daryl Samuel",
+          "title": "Director of Human Resources and Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marnie Berk",
+          "title": "Director of Pro Bono Programs",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Biben",
+          "title": "Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

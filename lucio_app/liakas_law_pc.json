@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Liakas Law, P.C.",
+    "website": "https://www.liakaslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Construction Accidents",
+      "Motor Vehicle Accidents",
+      "Medical Malpractice",
+      "Civil Rights",
+      "Labor Law"
+    ],
+    "lawyer_count": 31,
+    "firm_description": "Liakas Law, P.C. is a personal injury law firm dedicated to protecting the rights of the injured. They focus on serious, life-altering injuries and advocate for governmental and industrial safety changes.",
+    "notable_facts": [
+      "The firm has won over $675 million for its clients.",
+      "They specialize in complex personal injury litigation.",
+      "They have prompted safety changes through litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dean N. Liakas",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stephen J. Liakas",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nicholas Liakas",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sagar Chadha",
+          "title": "Senior Partner, Chair of the Labor Law Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Wolk",
+          "title": "Partner, Chair of the Trial Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

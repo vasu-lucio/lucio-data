@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Kucker Marino Winiarsky & Bittens, LLP",
+    "website": "https://kuckermarino.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real estate",
+      "Commercial transactions",
+      "Contract negotiations",
+      "Civil litigation",
+      "Administrative law"
+    ],
+    "lawyer_count": 47,
+    "firm_description": "Kucker Marino Winiarsky & Bittens, LLP is a full-service real estate law firm in Manhattan, the boroughs, and surrounding communities. KMWB was founded in 1984 with a practice concentrated in real estate matters, commercial transactions, contract negotiations, civil litigation and administrative law.",
+    "notable_facts": [
+      "Founded in 1984",
+      "Long-standing relationships with many clients",
+      "Reputation for crafting innovative solutions"
+    ],
+    "technology_signals": [
+      "Microsoft",
+      "Microsoft Word",
+      "LinkedIn",
+      "Indeed",
+      "Well",
+      "AMP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alan Kucker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Marino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/jimmarino1"
+        },
+        {
+          "name": "Nativ Winiarsky",
+          "title": "Partner",
+          "email": "NWiniarsky@kuckermarino.com",
+          "phone": "(212) 869-5030",
+          "linkedin_url": "https://www.linkedin.com/in/nwiniarsky"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew Bittens",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

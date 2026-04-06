@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Allen Matkins Leck Gamble Mallory & Natsis LLP",
+    "website": "https://allenmatkins.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Real Estate",
+      "Litigation",
+      "Corporate",
+      "Tax",
+      "Labor and Employment",
+      "Land Use",
+      "Environmental"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Allen Matkins has worked with clients for more than 45 years, offering legal solutions with the global reach of a large firm, combined with the lean efficiency of a smaller team. The firm has deep roots in real estate, and has grown to include prominent litigation, corporate, tax, labor and employment, land use, and environmental practices.",
+    "notable_facts": [
+      "Founded with deep roots in real estate.",
+      "Offers holistic legal solutions with the global reach of a large firm, combined with the lean efficiency of a smaller team.",
+      "Has an unparalleled network of contacts and connections in business and government."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey R. Patterson",
+        "title": "Managing Partner and Chief Legal Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Larry Kleinberg",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Henry Ho",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elias Cervantes",
+          "title": "Director of Finance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabrielle L. Fischer",
+          "title": "Chief Administrative Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/allen-matkins"
+  },
+  "email": {}
+}

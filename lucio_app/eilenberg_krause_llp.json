@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Eilenberg and Krause, LLP",
+    "website": "https://www.eeklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Law",
+      "Corporate Law",
+      "General Business Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Eilenberg and Krause, LLP specializes in securities law, corporate law and general business law. Their expertise, relatively small size and focus on cost control enables them to provide a service that is characterized by uniform high quality, personal service, and cost-effectiveness.",
+    "notable_facts": [
+      "Represented issuers and investors in over $3 billion of transactions.",
+      "Clients range from start-ups and small businesses to large, publicly-traded companies.",
+      "Financing transactions are a significant part of their practice."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Adam Eilenberg",
+          "title": null,
+          "email": null,
+          "phone": "(212)986-9700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sheldon Krause",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Keith Moskowitz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Henkoff",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wesley Paul",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William R. Dauber",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward B. Chastain",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lida Volgina",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

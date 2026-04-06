@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Pryor Cashman LLP",
+    "website": "https://www.pryorcashman.com/",
+    "city": "New York City",
+    "practice_areas": [],
+    "lawyer_count": 180,
+    "firm_description": "Pryor Cashman is a premier, midsized law firm headquartered in New York City with offices in Los Angeles and Miami. They provide a full range of services to meet the complex legal needs of institutions, mid-market businesses, bold emerging entities, entrepreneurs, and individuals.",
+    "notable_facts": [
+      "David C. Rose assumed the role of Managing Partner on February 1, 2025.",
+      "Pryor Cashman has offices in New York, Miami, and Los Angeles.",
+      "Ronald H. Shechtman served as the firm's managing partner since 2007 and then became co-chairman and co-general counsel of the firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David C. Rose",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ronald H. Shechtman",
+          "title": "Co-Chairman and Co-General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gideon Cashman",
+          "title": "Founding Partner, Co-Chairman and Co-General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

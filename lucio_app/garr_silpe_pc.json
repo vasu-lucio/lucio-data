@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "GARR SILPE, P.C.",
+    "website": "https://garrsilpe.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Divorce",
+      "Family Law",
+      "Child Custody",
+      "Child Support",
+      "Equitable Distribution of Property",
+      "Paternity Agreements",
+      "Prenuptial and Post-nuptial Agreements",
+      "Matrimonial Appeals"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Garr Silpe, P.C. is a premier divorce and family law firm that possesses extensive trial, settlement, and mediation experience in a wide range of matrimonial and family law matters. The firm represents many high net worth individuals in highly contested, litigated, and non-litigated matters.",
+    "notable_facts": [
+      "Recognized as one of the best law firms in the country by U.S. News and World Report since 2010.",
+      "Lawyers listed in various editions of \u201cSuper Lawyers\u201d and \u201cBest Lawyers in America\u201d since 2006.",
+      "Experienced in handling all aspects of matrimonial and family law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ira E. Garr",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Steven M. Silpe",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jordana Barish",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsay Miller",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacqueline P. Itani",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emily R. Rubin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Allyn & Fortuna LLP",
+    "website": "https://www.allynfortuna.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Administrative & Regulatory Law",
+      "Commercial Litigation",
+      "Corporate Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Allyn & Fortuna LLP provides legal representation for business clients in New York and New Jersey, focusing on commercial litigation, administrative and regulatory law, and employment law for employers.",
+    "notable_facts": [
+      "The firm was established in New York City in 1990 and expanded to New Jersey in 1995.",
+      "The firm serves Fortune 500 companies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Nicholas Fortuna",
+        "title": "Managing Partner",
+        "email": "info@allynfortuna.com",
+        "phone": "212.213.8844",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paula Lopez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Allyn",
+          "title": null,
+          "email": "info@allynfortuna.com",
+          "phone": "212.213.8844",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/allyn-&-fortuna-llp"
+  },
+  "email": {}
+}

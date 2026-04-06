@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Wood, Smith, Henning & Berman LLP",
+    "website": "https://wshblaw.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Business Litigation",
+      "Commercial Litigation",
+      "Construction",
+      "General Liability Defense",
+      "Transportation",
+      "Products Liability",
+      "Environmental",
+      "Toxic Tort",
+      "Employment",
+      "Professional Liability",
+      "Medical Malpractice",
+      "Subrogation",
+      "Insurance",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 505,
+    "firm_description": "Wood, Smith, Henning & Berman LLP is a law firm that collaborates with clients to find solutions to complex cases, offering world-class representation for clients ranging from individuals to Fortune 500 corporations. They deliver the resources and experience of a large firm while maintaining outstanding, personal client service.",
+    "notable_facts": [
+      "Founded in 1997",
+      "Recognized by Law360 as one of the 250 largest law firms in the nation in 2015",
+      "Offers services across a comprehensive range of practice areas"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jack Pemberton",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Wood",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Smith",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Henning",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Berman",
+          "title": "Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kamela Devole",
+          "title": "Office Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Hernandez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Anderson Kill P.C.",
+    "website": "https://andersonkill.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Insurance Recovery",
+      "Employment",
+      "Construction",
+      "Corporate",
+      "Finance",
+      "Litigation",
+      "Wills and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Anderson Kill has provided straight-forward solutions for more than five decades. The firm\u2019s attorneys work together, leveraging creativity and legal and business acumen to deliver cost-effective resolutions to clients\u2019 problems.",
+    "notable_facts": [
+      "Founded in 1969",
+      "Offers focus on industries like Construction, Energy & Renewables, Financial Services, Restaurant, Retail & Hospitality, and Media, Sports & Entertainment",
+      "Tackles legal issues such as AI, Biometrics, Climate Change, Cybersecurity, Sexual Abuse"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert M. Horkovich",
+        "title": "Firm Managing Shareholder",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm tackles the newest and most-pressing issues such as AI."
+      },
+      "additional_contacts": [
+        {
+          "name": "Diana Shafter Gliedman",
+          "title": "Executive Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William G. Passannante",
+          "title": "Executive Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

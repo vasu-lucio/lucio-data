@@ -1,0 +1,113 @@
+{
+  "firm_data": {
+    "firm_name": "Vedder Price",
+    "website": "https://www.vedder.com/",
+    "city": "Chicago",
+    "practice_areas": [],
+    "lawyer_count": 400,
+    "firm_description": "Vedder Price is a business-focused law firm with a global reach and a proud tradition of maintaining long-term client relationships. With over 400 lawyers and professionals, they serve sophisticated clients of all sizes and in virtually all industries.",
+    "notable_facts": [
+      "Founded in 1952",
+      "Has 9 offices located in Chicago, New York, Washington, DC, London, San Francisco, Los Angeles, Singapore, Dallas and Miami."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael A. Nemeroff",
+        "title": "President and CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/vedder-price-p-c"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Albert E. Jenner, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James N. Ackerman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Aaron",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert V. Abendroth",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Armin J. Friedman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David J. Gibbons",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert L. Foote",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "David Baker",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephanie Collett Sparks",
+          "title": "Litigation Shareholder, Dallas",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "David",
+    "to_title": "Chief Operating Assistant",
+    "to_email": null,
+    "subject": "AI for Vedder Price \u2014 built for firms like yours",
+    "body": "Hi David,\n\nVedder Price's 9-office global footprint and 400+ lawyers give you BigLaw reach, but managing that complexity across Chicago, London, Singapore, and beyond requires the operational efficiency that boutique platforms actually deliver.\n\nI lead business at Lucio, an AI platform built for firms navigating exactly this challenge\u2014maintaining long-term client relationships while competing on scale. We recently raised $5M, and firms managing similar geographic and staffing complexity have chosen us over Harvey because we focus on precision, client trust, and operational reality.\n\nHaving completed successful pilots on the East Coast, we're now reaching out to regional powerhouses. I'd be happy to grab 20 minutes to share how\u2014as ex-lawyers ourselves\u2014we're helping similar firms streamline operations without sacrificing the quality that built your reputation since 1952.\n\nWorth a quick call?\n\nVasu\nLucio"
+  }
+}

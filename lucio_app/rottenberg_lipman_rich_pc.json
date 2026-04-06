@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Rottenberg Lipman Rich",
+    "website": "https://www.rlrpclaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "AI Law",
+      "Art Law",
+      "Cooperative & Condominium Law",
+      "Corporate, Commercial & Business Law",
+      "Employment Law",
+      "Intellectual Property & Internet Law",
+      "Litigation & Alternative Dispute Resolution",
+      "Matrimonial & Family Law",
+      "Outside General Counsel",
+      "Real Estate Law",
+      "Wills, Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Since 1991, clients have relied on Rottenberg Lipman Rich to assemble the right team of lawyers to offer and implement appropriate legal strategies that address clients\u2019 unique business realities and personal circumstances, efficiently and cost-effectively.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark M. Rottenberg",
+        "title": "Managing Member",
+        "email": "mrottenberg@rlrpclaw.com",
+        "phone": "212.661.3080",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Aileen A. Murphy",
+        "title": "Chief Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Harry W. Lipman",
+          "title": "Member",
+          "email": "hlipman@rlrpclaw.com",
+          "phone": "212.661.3080",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles S. Rich",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

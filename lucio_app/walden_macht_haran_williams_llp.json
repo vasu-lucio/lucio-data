@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Walden Macht Haran & Williams LLP",
+    "website": "https://wmhwlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "White collar defense and investigations",
+      "Complex commercial disputes",
+      "Monitorships",
+      "Corporate compliance",
+      "Employment litigation",
+      "Securities enforcement",
+      "Trust-and-estates matters"
+    ],
+    "lawyer_count": 45,
+    "firm_description": "Walden Macht Haran & Williams LLP is a New York-based boutique law firm focusing on white collar defense and investigations, complex commercial disputes, monitorships, and corporate compliance. The firm's partners have held numerous senior positions in the public and the private sphere and have the breadth and depth of experience to advise in connection with the most pressing matters.",
+    "notable_facts": [
+      "The firm was founded in February 2015.",
+      "The firm has a 45-person team, with 19 partners.",
+      "The firm was recognized as a Top 15 firm for diverse representation in their attorney and equity partner ranks by Law360 Diversity Snapshot 2022."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Sean Haran",
+        "title": "Chair",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Milt Williams",
+        "title": "2026 Chair",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jeffrey Udell",
+        "title": "General Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jim Walden",
+          "title": "Partner",
+          "email": "jwalden@wmhwlaw.com",
+          "phone": "212 335 2031",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Miller",
+          "title": "Head of the Firm\u2019s Philadelphia Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Georgia Winston",
+          "title": "2027 Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

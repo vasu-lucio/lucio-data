@@ -1,0 +1,120 @@
+{
+  "firm_data": {
+    "firm_name": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC",
+    "website": "https://raslegalgroup.com/",
+    "city": "Boca Raton",
+    "practice_areas": [
+      "Creditors\u2019 Rights",
+      "Real Estate",
+      "Foreclosure",
+      "Bankruptcy",
+      "Litigation",
+      "Loss Mitigation",
+      "Deed-in-Lieu",
+      "Evictions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Robertson, Anschutz, Schneid, Crane & Partners, PLLC is a full-service law firm that provides legal and operational services to the financial sector. They provide creditors\u2019 rights and real estate legal services.",
+    "notable_facts": [
+      "Expanded to 18 locations in 18 states",
+      "Founded in 2010",
+      "Presence in Puerto Rico, Netherlands, and India"
+    ],
+    "technology_signals": [
+      "Advanced proprietary technology streamlines legal processes",
+      "Customizable dashboards",
+      "Proprietary case management system"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "David J. Schneid",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "561-241-6901",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "John Crane",
+        "title": "Partner, managing attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Ryan Fogel",
+        "title": "Director Of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard Wurman",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edson R",
+          "title": "Vice President Of Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Troy Freedman",
+          "title": "Managing Litigation Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mindy A Clarke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Maselli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Genevieve Johnson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Konick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott A Brown",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

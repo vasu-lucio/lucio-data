@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Fleischman Bonner & Rocco LLP",
+    "website": "https://www.fbrllp.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Complex Litigation",
+      "Securities Litigation",
+      "Merger and Acquisition Disputes",
+      "Investment and Accounting Fraud",
+      "Labor and Employment Matters",
+      "Rights of the Victims of Terrorism"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Fleischman Bonner & Rocco LLP is an elite firm specializing in high-stakes, complex litigation, known for its talent, creativity, and flexibility. The firm's partners have extensive experience in handling complex commercial litigation for corporate clients and individuals.",
+    "notable_facts": [
+      "Partners have more than 25 years of experience.",
+      "The firm was founded by long-standing colleagues.",
+      "Partners have been named New York Super Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Keith M. Fleischman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James P. Bonner",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick L. Rocco",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan M. Davies",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tyler E. Van Put",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julia Sandler",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

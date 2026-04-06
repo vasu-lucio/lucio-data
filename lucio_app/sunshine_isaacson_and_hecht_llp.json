@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Sunshine, Isaacson & Hecht, LLP",
+    "website": "https://sihattorneys.com/",
+    "city": "Jericho",
+    "practice_areas": [
+      "Oil Spills",
+      "Divorce and Family Law",
+      "Commercial Litigation",
+      "Property Damage",
+      "Personal Injury",
+      "Child Custody"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sunshine, Isaacson & Hecht, LLP is a dedicated team of attorneys who specialize in matrimonial and family law, also handling oil spill property damage claims and complex commercial litigation. They strive for fair outcomes while respecting clients\u2019 dignity and relationships.",
+    "notable_facts": [
+      "Joshua B. Hecht has been featured in various media outlets and publications and has been on the Super Lawyers list for four consecutive years.",
+      "Jason A. Isaacson was recently nominated and accepted to the Super Lawyers list as a Rising Star.",
+      "The firm has a formidable reputation within the legal field thanks to their unwavering commitment to client satisfaction."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey A. Sunshine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-a-sunshine-7174941a"
+        },
+        {
+          "name": "Jason A. Isaacson",
+          "title": "Partner",
+          "email": "jisaacson@sihllp.com",
+          "phone": "(516) 352-2100",
+          "linkedin_url": "https://www.linkedin.com/in/jason-isaacson-jd-mba-8441438"
+        },
+        {
+          "name": "Joshua B. Hecht",
+          "title": "Partner",
+          "email": "jhecht@sihllp.com",
+          "phone": "(516) 352-2100",
+          "linkedin_url": "https://www.linkedin.com/in/joshua-b-hecht-544b3b20"
+        },
+        {
+          "name": "Dylan T. Coyne",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/dylan-coyne-22463b147"
+        },
+        {
+          "name": "Christopher M. Zitz",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/christopher-zitz-jd-983a0027"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

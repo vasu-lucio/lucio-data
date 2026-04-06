@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Sobo & Sobo",
+    "website": "https://sobolaw.com/",
+    "city": "Middletown, NY",
+    "practice_areas": [
+      "Personal Injury",
+      "Motor Vehicle Accidents",
+      "Slip and Fall Accidents",
+      "Construction Accidents",
+      "Defective Drugs & Devices",
+      "Premises Liability",
+      "Real Estate & Probate",
+      "Pedestrian Accidents",
+      "Social Security Disability",
+      "Workers\u2019 Compensation",
+      "Medical Malpractice",
+      "Wrongful Death"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sobo & Sobo is a personal injury law firm that represents accident victims throughout New York, New Jersey, Connecticut, Pennsylvania, Illinois, Ohio, and Wisconsin. They have experience in handling personal injury matters with a track record of successful settlements and verdicts.",
+    "notable_facts": [
+      "98% success rate with accepted cases",
+      "Established in 1969",
+      "Offices in NY, NJ, CT, PA, IL, OH and WI"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory M. Sobo",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/greg-sobo"
+      },
+      "co_managing_partner": {
+        "name": "Michael D. Wolff",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary M. Sobo",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeana Pinto",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig S. Fine",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

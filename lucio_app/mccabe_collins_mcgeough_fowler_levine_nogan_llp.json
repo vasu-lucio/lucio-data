@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "McCabe, Collins, McGeough, Fowler, Levine & Nogan LLP",
+    "website": "https://www.mcmflaw.com/",
+    "city": "Carle Place",
+    "practice_areas": [
+      "Automobile Accidents",
+      "Premises Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "McCabe, Collins, McGeough & Fowler, LLP is an \"av\" rated full service new york law firm representing individuals, businesses, corporations, municipalities, public authorities and insurance carriers throughout the state. They regularly appear in the supreme courts in all counties as well as in the federal, civil, district, and city courts situated therein.",
+    "notable_facts": [
+      "The firm was formed in 1970 by Stephen M. McCabe.",
+      "The firm has satellite offices located in Erie and Albany counties."
+    ],
+    "technology_signals": [
+      "QuickBooks"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stephen M. McCabe",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian J. McGeough",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David T. Fowler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick M. Murphy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas J. Nogan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael S. Levine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

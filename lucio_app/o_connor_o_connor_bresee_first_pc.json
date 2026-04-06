@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "O Connor, O Connor, Bresee & First, PC",
+    "website": "https://www.1stlaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Bankruptcy",
+      "Litigation",
+      "Personal Injury",
+      "Insurance Defense",
+      "Appellate Practice"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "O Connor, O Connor, Bresee & First, PC is a law firm with offices in Albany, New York and Burlington, Vermont. The firm's lawyers practice in areas including bankruptcy, litigation and personal injury.",
+    "notable_facts": [
+      "The firm has two offices in the U.S.",
+      "The firm was founded in 1994 (per SignalHire)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Terence OConnor",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis A. First",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen A Barclay",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Molly C Casey",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael P Cavanagh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

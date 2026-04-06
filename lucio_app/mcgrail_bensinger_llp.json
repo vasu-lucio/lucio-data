@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "McGrail & Bensinger LLP",
+    "website": "https://mcgrailbensinger.com/",
+    "city": "New York",
+    "practice_areas": [
+      "General Corporate",
+      "Commercial Litigation/ADR",
+      "Debtor/Creditor",
+      "Tax",
+      "Intellectual Property",
+      "Real Estate",
+      "Trusts & Estates",
+      "Corporate/M&A",
+      "Bankruptcy/Corporate Restructuring"
+    ],
+    "lawyer_count": 16,
+    "firm_description": "McGrail & Bensinger is a Manhattan-based law firm dedicated to providing its clients with quality, personalized service. Our attorneys have worked at some of the largest law firms in the world, clerked for federal judges, taught at international law schools, and lectured on a variety of topics.",
+    "notable_facts": [
+      "Ranked as National Tier 2 for Bankruptcy and Creditor Debtor Rights / Insolvency and Reorganization Law by Best Law Firms",
+      "Ranked as National Tier 2 for Litigation - Bankruptcy by Best Law Firms",
+      "Ranked in Chambers USA 2026 Spotlight Guide for Corporate/Commercial and Litigation: General Commercial"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David C. McGrail",
+        "title": "Managing Partner",
+        "email": "dmcgrail@mcgrailbensinger.com",
+        "phone": "+1 646 285 8476",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Menachem M. Bensinger",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tricia Avidano",
+          "title": "Legal Recruiting and Marketing Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Ephraim Glatt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Hager",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

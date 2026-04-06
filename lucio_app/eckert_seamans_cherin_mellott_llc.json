@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Eckert Seamans Cherin & Mellott, LLC",
+    "website": "https://eckertseamans.com/",
+    "city": "Pittsburgh",
+    "practice_areas": [
+      "Litigation",
+      "Corporate and Business Law",
+      "Intellectual Property",
+      "Labor and Employment Relations",
+      "Aviation",
+      "Hospitality",
+      "Bankruptcy and Creditors' Rights",
+      "Employee Benefits",
+      "Environmental Law",
+      "Construction",
+      "Public Finance",
+      "Real Estate",
+      "Tax",
+      "Estates",
+      "Transportation"
+    ],
+    "lawyer_count": 360,
+    "firm_description": "Eckert Seamans Cherin & Mellott LLC is a national law firm with over 360 attorneys located in offices throughout the eastern United States. They provide legal services and have a client focus, committed principles, and pro bono & community service.",
+    "notable_facts": [
+      "Founded in 1958",
+      "Partners with SCG Legal, a global network of over 145 independent law firms",
+      "Provides thousands of hours of pro bono legal services annually"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Scott D. Cessar",
+        "title": "Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mark A. Peterson",
+        "title": "Chief Operating Officer / Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Myra Kilgore",
+          "title": "Chief Human Resources Officer",
+          "email": "info@eckertseamans.com",
+          "phone": "1-412-566-6000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew T. Goffe",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

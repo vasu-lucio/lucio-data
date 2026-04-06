@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Sugarman Law Firm, LLP",
+    "website": "https://sugarmanlaw.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Architects, Engineers, and Design Professionals",
+      "Municipal Law",
+      "Construction Litigation",
+      "Labor Law Violations",
+      "Personal Injury Law",
+      "Product Liability Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sugarman Law Firm, LLP is a law firm that provides legal services in various practice areas. They have been in operation since 1909 and have a team of attorneys serving Syracuse, Buffalo, and Auburn.",
+    "notable_facts": [
+      "Founded in 1909",
+      "Offices in Syracuse, Buffalo, and Auburn",
+      "Ranked by Best Law Firms\u00ae in 2024 for Medical Malpractice Law, Personal Injury Law and Product Liability Law"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Sugarman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David P. McCormack",
+          "title": "Principal",
+          "email": "dmccormack@sugarman.com",
+          "phone": "(617) 542-1000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

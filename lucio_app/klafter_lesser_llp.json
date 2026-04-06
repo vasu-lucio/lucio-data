@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Klafter Lesser LLP",
+    "website": "https://klafterlesser.com/",
+    "city": "Rye Brook",
+    "practice_areas": [
+      "Contingency Fee Litigation",
+      "Consumer Advocacy",
+      "Wage and Hour Litigation",
+      "Securities Litigation",
+      "Corporate Governance",
+      "Labor & Employment",
+      "Litigation: Securities"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Klafter Lesser, LLP is a firm that focuses on bringing high-level representation to contingency fee litigation, fighting and prevailing against top defense law firms. They are committed to providing the resources necessary to obtain the best result possible for their clients.",
+    "notable_facts": [
+      "The firm has generated well over $1 billion in recoveries for their clients.",
+      "The firm's attorneys have over 150 combined years of practice.",
+      "Klafter Lesser LLP is ranked in Chambers USA: Spotlight Guide 2026 for Labor & Employment and Litigation: Securities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jeffrey A. Klafter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth R. Lesser",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jane M. Gill",
+          "title": "Finance Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

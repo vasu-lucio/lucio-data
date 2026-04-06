@@ -1,0 +1,54 @@
+{
+  "firm_data": {
+    "firm_name": "Mullen Associates PLLC",
+    "website": null,
+    "city": "Bath",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": null,
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Aaron Mullen",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/aaron-mullen-44693339"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": null,
+          "title": "Legislator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

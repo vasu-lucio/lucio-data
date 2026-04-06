@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Jacobowitz Newman Tversky LLP",
+    "website": "https://jntllp.com/",
+    "city": "Cedarhurst",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Bankruptcy",
+      "Dispute Resolution",
+      "Real Estate",
+      "Nursing Homes",
+      "Employment",
+      "Insurance",
+      "Construction"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Jacobowitz Newman Tversky LLP is a law firm that provides sophisticated legal representation, drawing from big firm experience while giving clients the personal experience of a boutique law firm. They advise clients on a wide range of complex transactions.",
+    "notable_facts": [
+      "Evan M. Newman is the Village Attorney of the Village of Cedarhurst where the firm's headquarters are located."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Evan M. Newman",
+        "title": "Managing Partner",
+        "email": "en*****@****lp.com",
+        "phone": "516-545-0343 ext. 102",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Samuel A. Tversky",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-221-9611",
+          "linkedin_url": null
+        },
+        {
+          "name": "Moshe Jacobowitz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Fischman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mordechai Biegeleisen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aviva Francis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

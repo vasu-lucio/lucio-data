@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Sitaras & Associates, PLLC",
+    "website": "https://sitaraslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Corporate Transactions",
+      "Construction Law",
+      "Real Estate",
+      "Employment Matters",
+      "Dispute Resolution"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Sitaras & Associates, PLLC is a boutique law firm based in New York that advises and represents businesses and individuals in litigation, dispute resolution, and business deals. The firm offers legal counsel to corporates, businesses, founders, and entrepreneurs.",
+    "notable_facts": [
+      "The firm was founded in 2014.",
+      "Sitaras & Associates, PLLC represents clients in the United States and abroad, with affiliations to lawyers and firms in Athens, Greece, and Milan, Italy."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "George Sitaras",
+        "title": "Founder and Owner",
+        "email": "george@sitaraslaw.com",
+        "phone": "212.430.6410 ext. 1190",
+        "linkedin_url": "https://www.linkedin.com/in/george-sitaras-8547166b"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gerasimos Liberatos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

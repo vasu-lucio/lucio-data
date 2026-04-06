@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Enea, Scanlan & Sirignano, LLP",
+    "website": "https://www.esslawfirm.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Elder Law",
+      "Medicaid Planning",
+      "Wills, Trusts & Estates",
+      "Guardianships",
+      "Special Needs Planning",
+      "Probate & Estate Administration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Enea, Scanlan & Sirignano, LLP, serves clients throughout the Hudson Valley and Downstate New York, focusing on elder law, estate planning, and long-term care planning. Their attorneys assist clients in preserving legacies, protecting wealth, and addressing issues related to aging.",
+    "notable_facts": [
+      "The firm has over 150 combined years of legal experience.",
+      "The firm has offices in White Plains and Somers, New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anthony J. Enea",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "914-269-2367",
+        "linkedin_url": "https://www.linkedin.com/in/anthony-j-enea-19b17070"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lauren C. Enea",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-269-2367",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard S. Scanlan",
+          "title": null,
+          "email": null,
+          "phone": "914-200-4978",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara E. Meyers",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stella King",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

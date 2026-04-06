@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Russo, Karl, Widmaier & Cordano PLLC",
+    "website": "https://www.rkwclaw.com/",
+    "city": "Hauppauge",
+    "practice_areas": [
+      "Personal Injury",
+      "Civil Litigation",
+      "Criminal Defense",
+      "DWI Defense",
+      "Wills, Trusts and Estates",
+      "Medicaid",
+      "Commercial and Residential Real Estate",
+      "Family Law",
+      "Immigration Law",
+      "Corporate And Not-For-Profit Law",
+      "Appeals And Post-Judgment Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Russo, Karl, Widmaier & Cordano PLLC is an established law firm with a reputation for excellence, providing legal counsel in diverse legal matters. They combine a commitment to service with a passion for protecting the rights of their clients.",
+    "notable_facts": [
+      "The firm is known for representing a number of not-for-profit organizations, including Hope House Ministries, United Veterans Beacon House and Long Island Coalition for the Homeless."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles C. Russo",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kurt P. Widmaier",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard T. Cordano",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren E. Murray",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert P. Guido",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

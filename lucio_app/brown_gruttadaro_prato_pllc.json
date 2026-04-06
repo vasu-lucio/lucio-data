@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Brown, Gruttadaro & Prato, PLLC",
+    "website": "https://bgplawfirm.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Professional Liability",
+      "Health Care Law",
+      "Corporate and Business Litigation",
+      "General Liability",
+      "Estate Administration and Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Brown, Gruttadaro & Prato, PLLC is a law firm.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dennis Gruttadaro",
+          "title": "Member",
+          "email": "dgruttadaro@bgplawfirm.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas M. Prato",
+          "title": "Member",
+          "email": "tprato@bgplawfirm.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Brown",
+          "title": "Founding Partner",
+          "email": "dbrown@bgplawfirm.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dara R. Pavia",
+          "title": "Partner",
+          "email": "dpavia@bgplawfirm.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hali S. Buckley",
+          "title": "Partner",
+          "email": "hbuckley@bgplawfirm.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Cowan, DeBaets, Abrahams & Sheppard LLP",
+    "website": "https://cdas.com/",
+    "city": "New York",
+    "practice_areas": [
+      "entertainment",
+      "media",
+      "arts",
+      "technology",
+      "intellectual property law",
+      "transactional services",
+      "copyright",
+      "trademark",
+      "litigation"
+    ],
+    "lawyer_count": 63,
+    "firm_description": "Cowan, DeBaets, Abrahams & Sheppard LLP provides legal counsel to leading media and entertainment clients, from individual creators, to corporations, associations and non-profit organizations. They understand their clients\u2019 businesses and are committed to offering them individual attention that includes in-depth industry knowledge, as well as focused legal advice.",
+    "notable_facts": [
+      "The firm has been providing legal counsel for more than 25 years.",
+      "The firm's attorneys represent clients across a broad range of practice areas in the entertainment, media, arts, and technology industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kenneth N. Swezey",
+        "title": "Managing Partner",
+        "email": "kswezey@cdas.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stuart Goldfarb",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nancy E. Wolff",
+          "title": "Partner",
+          "email": "nwolff@cdas.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott J. Sholder",
+          "title": "Partner, Co-chair Litigation Practice Group",
+          "email": "ssholder@cdas.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Halperin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas Jacobs",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

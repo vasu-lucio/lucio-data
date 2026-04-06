@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Hancock Estabrook, LLP",
+    "website": "https://www.hancocklaw.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Business and Corporate Law",
+      "Civil Litigation",
+      "Healthcare",
+      "Education",
+      "Real Estate",
+      "Tax",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hancock Estabrook, LLP is one of Upstate New York\u2019s leading law firms. They represent clients in a number of different industries, offering counsel and representation on a wide array of legal topics.",
+    "notable_facts": [
+      "Founded in 1889.",
+      "Continuously maintained offices in downtown Syracuse since its founding.",
+      "Partners have served as judges and public officers, including a New York State Commissioner of Taxation, a New York State Attorney General and a United States Congressman.",
+      "Named a Best Company to work for in New York in 2024"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Timothy P. Murphy",
+        "title": "Managing Partner",
+        "email": "tmurphy@hancocklaw.com",
+        "phone": "315.565.4544",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph T. Mancuso",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John G. Powers",
+          "title": "Partner",
+          "email": "jpowers@hancocklaw.com",
+          "phone": "315.565.4547",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

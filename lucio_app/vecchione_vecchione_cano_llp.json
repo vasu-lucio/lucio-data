@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Vecchione, Vecchione & Cano, LLP",
+    "website": "https://www.vecchionelaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Workers\u2019 Compensation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Vecchione, Vecchione & Cano, LLP is a New York-based law firm specializing in workers' compensation cases. They represent employers, carriers, and third-party administrators.",
+    "notable_facts": [
+      "The firm has decades of experience in litigating Workers\u2019 Compensation cases.",
+      "Michael F. Vecchione successfully argued the Zamora case in front of the Court of Appeals, saving clients significant sums of money.",
+      "Gina Marie Cano was a Keynote Speaker at the New York State Self Insured Conference in 2017."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael F. Vecchione",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "516-741-7575",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Francis J. Vecchione",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gina Marie Cano",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

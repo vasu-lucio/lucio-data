@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Grant McCarthy Group, LLC",
+    "website": "http://www.gmgconsulting.com",
+    "city": "White Plains",
+    "practice_areas": [
+      "Tax Consulting",
+      "State Tax",
+      "Local Tax",
+      "Tax Planning",
+      "Tax Compliance",
+      "Tax Advisory",
+      "Financial Advisory",
+      "Business Consulting",
+      "Tax Preparation",
+      "Tax Strategy",
+      "Tax Resolution",
+      "Financial Planning",
+      "Government Relations",
+      "Regulatory Compliance",
+      "Tax Credits",
+      "Incentive Consulting",
+      "Economic Consulting",
+      "Strategic Advisory"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Grant McCarthy Group, LLC is dedicated to client service and has built its firm on four key pillars: insight, value, trust, and integrity. They assist clients in navigating a complex state and local tax landscape.",
+    "notable_facts": [
+      "The firm's annual revenue was $15 million in 2025.",
+      "The firm was founded in 2003.",
+      "The firm has offices in White Plains, New York; San Francisco, California and Pittsburgh, Pennsylvania."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rich Schmidt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Diane Reach",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary Grant",
+          "title": "Attorney",
+          "email": null,
+          "phone": "914-798-9901",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Robert Larson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Bishop Gebicki",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

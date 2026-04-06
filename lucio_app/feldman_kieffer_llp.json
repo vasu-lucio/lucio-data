@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Feldman Kieffer",
+    "website": "https://feldmankieffer.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Corporate Law",
+      "Employment Counsel",
+      "Environmental and Toxic Tort",
+      "General Counseling",
+      "Healthcare Audit Defense & Compliance",
+      "Healthcare Law",
+      "Intellectual Property",
+      "International Law",
+      "Litigation",
+      "Nursing Home Litigation",
+      "Professional Liability",
+      "White Collar Criminal Defense"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Feldman Kieffer is a New York law firm with longstanding offices in the markets that matter today. They offer innovative solutions to challenging situations and represent clients throughout New York.",
+    "notable_facts": [
+      "Included in Martindale Hubbell\u2019s exclusive Bar Register of Preeminent Lawyers",
+      "Founded in 1992",
+      "AV rating by Martindale-Hubbell"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Adam C. Ferrandino",
+        "title": "Partner",
+        "email": "info@feldmankieffer.com",
+        "phone": "(716) 852-5875",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew S. Feldman",
+          "title": "Partner",
+          "email": "info@feldmankieffer.com",
+          "phone": "(716) 852-5875",
+          "linkedin_url": null
+        },
+        {
+          "name": "Al Anthony Mercado",
+          "title": "Firm Principal",
+          "email": null,
+          "phone": "(716) 852-5875",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Feldman",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": "(716) 852-5875",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher E. Wilkins",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": "(716) 852-5875",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

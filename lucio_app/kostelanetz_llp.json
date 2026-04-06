@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Kostelanetz LLP",
+    "website": "https://kostelanetz.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Tax Controversy",
+      "Tax Fraud Defense",
+      "White-Collar Criminal Defense",
+      "Trust and Estate Planning",
+      "Transactional Tax Planning",
+      "Government Investigations",
+      "Commercial Litigation",
+      "Government Procurement and Contracting"
+    ],
+    "lawyer_count": 78,
+    "firm_description": "Kostelanetz LLP is a law firm with a global reputation for clients facing high-stakes controversies and negotiations with government agencies. Their attorneys have experience in tax controversy, tax fraud defense, white-collar criminal defense, trust and estate planning, and government investigations.",
+    "notable_facts": [
+      "Many attorneys have served as former senior officials within the DOJ, IRS, SEC, and other federal and state prosecutors\u2019 offices.",
+      "Recognized by Chambers USA and Best Lawyers."
+    ],
+    "technology_signals": [
+      "HubSpot Analytics",
+      "JSON-LD",
+      "jQuery",
+      "HubSpot",
+      "WPBakery",
+      "RankMath SEO"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Boris Kostelanetz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard Corcoran",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bryan C. Skarlatos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Caroline D. Ciraolo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan L. Brackney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

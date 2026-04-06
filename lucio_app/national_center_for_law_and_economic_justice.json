@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "National Center for Law and Economic Justice",
+    "website": "http://www.nclej.org",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Rights/ Racial Justice",
+      "Disability Rights",
+      "Low-Wage Workers",
+      "Meeting Basic Needs",
+      "Litigation",
+      "Policy Advocacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The National Center for Law and Economic Justice (NCLEJ) was founded in 1965. It uses law to improve the lives of the most disadvantaged members of our society.",
+    "notable_facts": [
+      "Founded in 1965 during the civil rights movement."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jason D. Williamson",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dennis Parker",
+          "title": "Executive Director",
+          "email": null,
+          "phone": "+4-********16",
+          "linkedin_url": null
+        },
+        {
+          "name": "Saima Akhtar",
+          "title": "Senior Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gina Mannix",
+          "title": "Program Director/Senior Attorney",
+          "email": null,
+          "phone": "+7-********13",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey I. Shinder",
+          "title": "Treasurer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandra Wald",
+          "title": "Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

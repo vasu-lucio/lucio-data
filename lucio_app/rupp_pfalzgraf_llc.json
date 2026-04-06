@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Rupp Pfalzgraf LLC",
+    "website": "https://rupppfalzgraf.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "AI Law, Compliance & Emerging Technology",
+      "Business Litigation",
+      "Business Law"
+    ],
+    "lawyer_count": 75,
+    "firm_description": "Rupp Pfalzgraf LLC, established in 2000, is a full-service law firm headquartered in Buffalo, NY. The firm employs more than 70 attorneys across seven offices throughout New York State.",
+    "notable_facts": [
+      "Recognized by Best Lawyers of America, Super Lawyers, Business First's Legal Elite, and Business First's 40 Under 40 and 30 Under 30.",
+      "Honoured for unique culture, including recognition by Business First as a Most Admired Company, and more than 16 times as one of Western New York's Best Places to Work."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Pfalzgraf, Jr.",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Tony Rupp",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Rupp Pfalzgraf launched an AI Law, Compliance & Emerging Technology practice to help organizations navigate the quickly evolving landscape of AI."
+      },
+      "additional_contacts": [
+        {
+          "name": "William Demarest III",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

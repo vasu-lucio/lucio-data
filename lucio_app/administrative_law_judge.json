@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "National Association of Administrative Law Judiciary",
+    "website": "https://www.naalj.org/",
+    "city": "Indianapolis",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The National Association of Administrative Law Judiciary (NAALJ) is an organization for administrative law judges. It provides resources, events, and networking opportunities for its members.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Carrie Ingram",
+        "title": "President",
+        "email": "president@naalj.org",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "NAALJ has a session regarding AI for ALJs."
+      },
+      "additional_contacts": [
+        {
+          "name": "Evan McGinley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine MacDonald",
+          "title": "Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Weeks",
+          "title": "Treasurer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/journal-of-the-national-association-of-administrative-law-judiciary"
+  },
+  "email": {}
+}

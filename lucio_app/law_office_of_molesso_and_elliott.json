@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Onello & Mello P.C.",
+    "website": "https://omiplaw.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patent Prosecution",
+      "Trademark Prosecution",
+      "Copyright Registration",
+      "Patent Opinions",
+      "Technology Agreements"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Onello & Mello P.C. is an intellectual property law firm dedicated to transforming innovative ideas into valuable assets. They offer comprehensive solutions to develop and protect a competitive edge for startups and established enterprises.",
+    "notable_facts": [
+      "Established in 2001.",
+      "Global connections with partners and counsel in key foreign jurisdictions.",
+      "Utilizes advanced software for docketing, IDS creation, citation tracking, and annuities management."
+    ],
+    "technology_signals": [
+      "Uses advanced software for IP management.",
+      "Secure, cloud-based servers for data safety and recovery.",
+      "Tech-forward client services."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony P. Onello, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David M. Mello",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "(617) 994-4959",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

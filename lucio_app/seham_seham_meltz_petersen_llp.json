@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Seham, Seham, Meltz & Petersen, LLP",
+    "website": "https://ssmplaw.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Labor & Employment Law",
+      "Transportation",
+      "Energy",
+      "Real Estate",
+      "Corporate",
+      "Family Law",
+      "Immigration Law",
+      "Litigation",
+      "Arbitration",
+      "Air21",
+      "Airline Safety Issues"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Seham Seham Meltz & Petersen, LLP, provides representation in all aspects of Labor & Employment Law, Transportation, Energy, Real Estate, Corporate, Family and Immigration Law. The firm is committed to cost-effective professional services and preventative advice.",
+    "notable_facts": [
+      "Represents real estate entities, energy corporations, ship owners, ship brokers, freight forwarders and maritime trade associations."
+    ],
+    "technology_signals": [
+      "lexisnexis",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Samuel Seham",
+          "title": "Partner",
+          "email": "samuel.seham@gmail.com",
+          "phone": "914-997-1346",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lucas K Middlebrook",
+          "title": "Partner",
+          "email": "LMiddlebrook@ssmplaw.com",
+          "phone": "914-997-1346",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lee R. A. Seham",
+          "title": "Lecturer",
+          "email": "LSeham@ssmplaw.com",
+          "phone": "914-997-1346",
+          "linkedin_url": null
+        },
+        {
+          "name": "George Diamantopoulos",
+          "title": "Federal and State Litigation",
+          "email": "GDiaman@ssmplaw.com",
+          "phone": "914-997-1346",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Meeker",
+          "title": "USCG Compliance",
+          "email": "mmeeker@ssmplaw.com",
+          "phone": "914-997-1346",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stanley J. Silverstone",
+          "title": "Insurance Litigation",
+          "email": "ssilverstone@ssmplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

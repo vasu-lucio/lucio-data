@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Jaffe & Velazquez, LLP",
+    "website": "https://www.jvattorneys.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Business Law",
+      "Insurance Law",
+      "Will, Trust & Estate Law",
+      "Real Estate Law",
+      "Tort Law",
+      "Collections",
+      "Entertainment Law",
+      "Immigration Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jaffe & Velazquez, LLP is a full-service law firm based in New York City providing expert legal services to clients throughout the New York metro area including New Jersey and Long Island. For over three decades, their New York attorneys have achieved successful outcomes for thousands of clients.",
+    "notable_facts": [
+      "Located on Wall Street",
+      "Offers complimentary consultations",
+      "Takes a collaborative approach to managing legal matters"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "R. Diego Velazquez",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael D. Jaffe",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

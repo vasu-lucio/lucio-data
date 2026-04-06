@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Herrick, Feinstein LLP",
+    "website": "https://herrick.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy and business reorganization",
+      "Commercial litigation",
+      "Corporate law",
+      "Employment law",
+      "Government relations",
+      "Insurance",
+      "Intellectual property",
+      "Real estate",
+      "Sports law",
+      "Tax and personal planning"
+    ],
+    "lawyer_count": 198,
+    "firm_description": "Herrick provides a full range of legal services to businesses and individuals around the world. The firm's singular focus on clients' objectives challenges them to adapt and evolve as lawyers, advisors and business strategists.",
+    "notable_facts": [
+      "Founded in 1928",
+      "Member of TAGLaw\u00ae international legal alliance",
+      "Recognized by Best Lawyers\u00ae and Chambers USA"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carolyn R. Caufield",
+          "title": "Partner; Chair, Private Clients Department",
+          "email": "ccaufield@herrick.com",
+          "phone": "(212) 592-1480",
+          "linkedin_url": null
+        },
+        {
+          "name": "Theresa Fortin Balducci",
+          "title": "Partner",
+          "email": "tjbalducci@herrick.com",
+          "phone": "(212) 592-1481",
+          "linkedin_url": null
+        },
+        {
+          "name": "William R. Fried",
+          "title": "Partner",
+          "email": "wfried@herrick.com",
+          "phone": "(212) 592-1684",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christina M. Mason",
+          "title": "Partner",
+          "email": "cmason@herrick.com",
+          "phone": "(212) 592-1479",
+          "linkedin_url": null
+        },
+        {
+          "name": "Casey E. Murphy",
+          "title": "Associate",
+          "email": "cmurphy@herrick.com",
+          "phone": "(212) 592-1579",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

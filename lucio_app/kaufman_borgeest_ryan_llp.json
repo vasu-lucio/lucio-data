@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Kaufman Borgeest & Ryan LLP",
+    "website": "https://kbrlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Professional Liability",
+      "Insurance Coverage",
+      "Employment Practices Litigation",
+      "Healthcare Law",
+      "General Liability",
+      "Nursing Home and Long Term Care",
+      "Appellate Practice",
+      "Product Liability Defense",
+      "Environmental, Toxic and Mass Torts",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 130,
+    "firm_description": "Kaufman Borgeest & Ryan LLP is a law firm providing legal services to domestic and international clients. The firm has over 130 attorneys practicing out of 9 offices in New York, New Jersey, Connecticut and California.",
+    "notable_facts": [
+      "Founded in 1997",
+      "Offices in New York, New Jersey, Connecticut, and California",
+      "Dedicated to providing the highest quality legal services"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Margolies",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip Artusa",
+          "title": "Partner",
+          "email": "partusa@kbrlaw.com",
+          "phone": "914.449.1082",
+          "linkedin_url": "https://www.kbrlaw.com/attorneys/"
+        },
+        {
+          "name": "Alexander Sikoscow",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rocco P Matra",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Oldis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

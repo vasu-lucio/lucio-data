@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Blodnick, Fazio & Clark",
+    "website": "https://www.bfclaws.com/",
+    "city": "Babylon",
+    "practice_areas": [
+      "Corporate Law",
+      "Divorce Law",
+      "Real Estate",
+      "Estate Litigation",
+      "Bankruptcy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Blodnick, Fazio & Clark is a Long Island law firm offering legal services to both large corporations and individuals. They assist clients with issues such as foreclosure defense, commercial landlord-tenant disputes, bankruptcy, family law, and commercial litigation.",
+    "notable_facts": [
+      "The firm was formed in 2010 through a merger of the individual law firms of Edward K. Blodnick and Thomas R. Fazio.",
+      "The firm has locations in Babylon & Garden City."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Edward K. Blodnick",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas R. Fazio",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James E. Clark",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leslie Martin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M. Fink",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Humza W. Arshad",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/blodnick-fazio-&-associates-pc"
+  },
+  "email": {}
+}

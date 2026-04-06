@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "FisherBroyles, LLP",
+    "website": "https://fisherbroyles.com/",
+    "city": "Atlanta",
+    "practice_areas": [
+      "General Corporate",
+      "Litigation",
+      "Intellectual Property",
+      "Tax",
+      "Real Estate"
+    ],
+    "lawyer_count": 203,
+    "firm_description": "FisherBroyles was the first and is among the largest distributed law firms in the world. Our distributed model was built to eliminate the inefficiencies and overhead that burden traditional firms.",
+    "notable_facts": [
+      "Founded in 2002",
+      "First distributed law firm to be ranked by The American Lawyer as one of the 200 largest law firms by revenue",
+      "Has partners in 31 global markets"
+    ],
+    "technology_signals": [
+      "Law Firm 2.0\u00ae model prioritizes efficiency and value",
+      "Distributed model leverages advanced technologies alongside experienced legal judgment"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "James M. Fisher II",
+        "title": "Founder & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Kevin Broyles",
+        "title": "Managing Partner",
+        "email": "[[email protected]]",
+        "phone": "+1.770.846.0278",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Judy Cochran",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm redesigns legal workflows to leverage advanced technologies alongside experienced legal judgment."
+      },
+      "additional_contacts": [
+        {
+          "name": "Jacqueline Schimmel",
+          "title": "Deputy General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

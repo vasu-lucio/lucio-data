@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "KREISBERG MAITLAND MENDELBERG & O\u2019HEARN, LLP",
+    "website": "https://www.kmlaw.net/",
+    "city": "New York",
+    "practice_areas": [
+      "Criminal Defense",
+      "Theft Crimes",
+      "Federal Crimes",
+      "Violent Crimes",
+      "DWI",
+      "Public Assistance & Government Benefits Fraud",
+      "Record Sealing",
+      "Sex Crimes",
+      "Drug Crimes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "KREISBERG MAITLAND MENDELBERG & O\u2019HEARN, LLP is a criminal defense law firm committed to aggressively protecting the rights and freedoms of their clients. They have 125+ years of experience helping clients tell their side of the story and have been successful in helping our them obtained reduced sentences or even have them thrown out altogether.",
+    "notable_facts": [
+      "Offer free consultations",
+      "Serve the Bronx, Brooklyn, and surrounding areas"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey L. Kreisberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Maitland",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jill Mendelberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean O'Hearn",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-629-4970",
+          "linkedin_url": "https://www.linkedin.com/in/jean-o-hearn-a2277714"
+        },
+        {
+          "name": "Chelsea Cheyenne Hill",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

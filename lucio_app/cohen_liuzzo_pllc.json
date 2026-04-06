@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen Liuzzo PLLC",
+    "website": "https://cohenliuzzo.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Affordable Housing Law"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Cohen Liuzzo is a law firm committed to advancing affordable housing and community development. They specialize in helping developers and organizations navigate the complexities of affordable housing financing.",
+    "notable_facts": [
+      "The firm specializes in tax-exempt bonds, low-income housing tax credits, and funding mechanisms.",
+      "They have closed affordable housing transactions in over 30 states.",
+      "Founded in 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Eleor Cohen",
+        "title": "Managing Partner",
+        "email": "ecohen@cohenliuzzo.com",
+        "phone": "646-722-1421",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Peter J. Liuzzo",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Brenna Quade",
+        "title": "Operations Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony Bargnesi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Kugler",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary J. Manasia",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

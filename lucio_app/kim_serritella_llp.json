@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Kim & Serritella LLP",
+    "website": "https://www.kandslaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Crypto & Blockchain Law",
+      "Investor Litigation",
+      "Commercial Litigation",
+      "Business Transactions"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Kim & Serritella LLP is a boutique law firm based in New York City, focused on the rapidly evolving cryptocurrency space, high-stakes commercial litigation, and complex business transactions. They deliver big-firm experience with boutique-level attention, serving clients ranging from early-stage startups to multinational corporations across New York, New Jersey, and beyond.",
+    "notable_facts": [
+      "The firm was founded in 2020.",
+      "The firm has a K&S Pro Bono Practice Center.",
+      "The firm's attorneys are fluent in emerging technologies, from blockchain to AI."
+    ],
+    "technology_signals": [
+      "Expertise in crypto and blockchain law",
+      "Tech-savvy legal team fluent in emerging technologies"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Hee-Jean Kim",
+          "title": "Partner",
+          "email": "hkim@kandslaw.com",
+          "phone": "(212) 986-1662",
+          "linkedin_url": null
+        },
+        {
+          "name": "James R. Serritella",
+          "title": "Partner",
+          "email": "jserritella@kandslaw.com",
+          "phone": "(212) 960-8345",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm's attorneys are fluent in emerging technologies, from blockchain to AI."
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

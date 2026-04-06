@@ -1,0 +1,49 @@
+{
+  "firm_data": {
+    "firm_name": "The Legal Project",
+    "website": "https://legalproject.org/",
+    "city": "Schenectady",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The Legal Project is a non-profit organization that provides legal services to the underserved communities in New York's Capital Region.",
+    "notable_facts": [
+      "Offers volunteer opportunities for attorneys.",
+      "Provides community resources."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Margie Sheehan",
+        "title": "Executive Director",
+        "email": null,
+        "phone": "518-435-1770",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

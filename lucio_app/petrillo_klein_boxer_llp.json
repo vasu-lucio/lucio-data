@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Petrillo Klein + Boxer LLP",
+    "website": "https://www.pkbllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Criminal Defense: White-Collar",
+      "Ethics and Professional Responsibility Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Petrillo Klein + Boxer LLP is a firm dedicated to partner-led client service at the highest level of professional commitment and quality. They regularly represent clients facing high stakes investigations and litigation.",
+    "notable_facts": [
+      "The firm has a record of obtaining exceptional outcomes for clients in high-stakes financial and business disputes and government enforcement and regulatory matters.",
+      "Chambers USA 2025 quotes say the firm has extensive experience in white-collar investigations and enforcement actions, as well as related civil litigation and that the team are thorough, dedicated and have incredible intellectual manpower and are focused and thoroughly prepared."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nelson A. Boxer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Klein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Guy Petrillo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin R. Puvalowski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam H. Schuman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

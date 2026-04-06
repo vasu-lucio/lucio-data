@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Wexler & Kaufman, PLLC",
+    "website": "https://wlklegal.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Wexler & Kaufman, PLLC is a full-service law firm focused on representing individuals, investors and foreign nationals in the purchase, sale and leasing of residential, commercial and mixed use properties. The firm adds value by becoming intimately involved with the real estate transaction far in advance of the contract phase.",
+    "notable_facts": [
+      "Attorneys have earned the respect of professionals in the real estate industry and have developed a network of professionals with expertise in various areas of law, tax, finance and real estate development.",
+      "WLK was founded with an entrepreneurial spirit in mind."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Brett Wexler",
+          "title": "Co-Founding Partner",
+          "email": "bwexler@wlklegal.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc Kaufman",
+          "title": "Co-Founding Partner",
+          "email": "mkaufman@wlklegal.com",
+          "phone": "516-242-2404",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Russel Weinrib",
+          "title": "Esq.",
+          "email": "rweinrib@wlklegal.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacqueline Newmark",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

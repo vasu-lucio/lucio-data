@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Morgan & Morgan",
+    "website": "https://www.forthepeople.com/",
+    "city": "Orlando, FL",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": 1000,
+    "firm_description": "Morgan & Morgan is America's Largest Personal Injury Law Firm, dedicated to fighting for the people, not the powerful. With a team of over 1,000 attorneys, the firm has recovered $30 billion for its clients.",
+    "notable_facts": [
+      "The firm was founded in 1988 by John and Ultima Morgan.",
+      "Morgan & Morgan has 140 offices nationwide.",
+      "The firm is licensed in all 50 states."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John Morgan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ultima Morgan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Chaim Fried",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/morgan-morgan/org-chart/chaim-fried"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mike Morgan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Morgan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Morgan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

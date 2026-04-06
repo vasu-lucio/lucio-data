@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Bressler, Amery & Ross, P.C.",
+    "website": "https://www.bressler.com/",
+    "city": "Florham Park",
+    "practice_areas": [
+      "Business Law",
+      "Litigation",
+      "Financial Institutions",
+      "Senior and Vulnerable Investor Law"
+    ],
+    "lawyer_count": 150,
+    "firm_description": "Bressler, Amery & Ross is a preeminent, full-service law firm driven to raise the bar and exceed client expectations in a full range of business and litigation services. Through a network of attorneys across multiple offices, they represent clients on a local, regional, national, and cross-border basis.",
+    "notable_facts": [
+      "The firm has expanded its geographic presence.",
+      "The firm has a dedicated in-house Trial Support Department.",
+      "Bressler has joined the American Bar Association\u2019s Well-Being Pledge & Campaign",
+      "Bressler Receives NJSBA 2025 Pillar of Justice Award for Exemplary Pro Bono Work Supporting Veterans"
+    ],
+    "technology_signals": [
+      "The firm has a dedicated in-house Trial Support Department comprised of technology professionals.",
+      "The firm uses Epiq\u2019s Discovery or Relativity Platforms (collectively referred to as \u201cEpiq\u201d) and WestLaw\u2019s CoCounsel, acceptable industry standard tools that may be used by all Parties as long as data produced by the Producing Party is not used to train AI systems or platforms."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Frederick K. Schoenbrodt, II",
+        "title": "Committee Chair",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Joshua D. Jones",
+        "title": "Management Committee Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm uses Epiq\u2019s Discovery or Relativity Platforms (collectively referred to as \u201cEpiq\u201d) and WestLaw\u2019s CoCounsel, acceptable industry standard tools that may be used by all Parties as long as data produced by the Producing Party is not used to train AI systems or platforms."
+      },
+      "additional_contacts": [
+        {
+          "name": "Diana C. Manning",
+          "title": "Management Committee Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Korb, Jr.",
+          "title": "Management Committee Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hope C. Zelinger",
+          "title": "Management Committee Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian F. Amery",
+          "title": "Firm Founding Principal and Chairman Emeritus",
+          "email": null,
+          "phone": "973.966.9670",
+          "linkedin_url": null
+        },
+        {
+          "name": "Logan S. Fisher",
+          "title": "Chief Financial Officer & Principal",
+          "email": null,
+          "phone": "973.660.4472",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

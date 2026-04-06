@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Ernstrom & Dreste, LLP",
+    "website": "https://ernstromdreste.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Construction Law",
+      "Surety Law",
+      "Complex Commercial Litigation"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Ernstrom & Dreste, LLP is a boutique law firm specializing in Construction Law, Surety Law, and Complex Commercial Litigation, providing trusted legal counsel and services to construction and surety companies and related entities.",
+    "notable_facts": [
+      "The firm was founded in 1992.",
+      "The firm's experience and in-depth knowledge of construction and surety law is recognized nationally.",
+      "E&D founding member Bill Ernstrom received the AGC NYS Distinguished Service Award in 2022."
+    ],
+    "technology_signals": [
+      "adobe acrobat",
+      "adobe",
+      "juris",
+      "ada",
+      "west"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Brian Streicher",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/ernstrom-%26-dreste-llp"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Martha Connolly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Dreste",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Peartree",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Geary",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bill Ernstrom",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

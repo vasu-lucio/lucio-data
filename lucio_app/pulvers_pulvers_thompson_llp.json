@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Pulvers, Pulvers & Thompson, LLP",
+    "website": "https://pulversthompson.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pulvers, Pulvers & Thompson, LLP is a law firm in New York specializing in personal injury and medical malpractice cases. They are dedicated to providing successful representation for clients seeking maximum compensation for their injuries.",
+    "notable_facts": [
+      "The firm was founded in 1940.",
+      "Marc Thompson has been with the firm since 1975."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marc R. Thompson",
+        "title": "Senior Partner",
+        "email": null,
+        "phone": "212-355-8000",
+        "linkedin_url": "https://www.linkedin.com/in/marc-thompson-83a16128"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Harlan B. Thompson",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-355-8000",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Thompson",
+          "title": "Senior Calendar Clerk",
+          "email": null,
+          "phone": "212-355-8000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Lawrence Perry Biondi, P.C.",
+    "website": null,
+    "city": "White Plains",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The Law Offices of Lawrence Perry Biondi, P.C. is a law firm located in White Plains, NY.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence P. Biondi",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(914) 946-5093",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dominick Rendina",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Ronald Mandel",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rosemarie Tofano",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason William Moussourakis",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julio Cesar Roman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

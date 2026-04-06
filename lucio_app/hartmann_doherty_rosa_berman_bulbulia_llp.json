@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Hartmann Doherty Rosa Berman & Bulbulia LLP",
+    "website": "https://hdrbb.com/",
+    "city": "Hackensack",
+    "practice_areas": [
+      "Litigation",
+      "Corporate",
+      "Employment",
+      "Criminal Defense",
+      "Real Estate",
+      "Private Lending Group",
+      "Trusts & Estates",
+      "Elder Law & Special Needs Planning",
+      "Matrimonial & Family",
+      "Government",
+      "Land Use"
+    ],
+    "lawyer_count": null,
+    "firm_description": "HDRB&B is a full service law firm providing creative, committed, and cost-effective legal services to both corporate and individual clients in New Jersey, New York, and Florida. They represent clients in complex commercial litigation, white-collar criminal prosecutions, government investigations, class action defense, employment law counseling & litigation, corporate transactions, commercial real estate transactions, trusts & estates planning, estate litigation, and matrimonial law.",
+    "notable_facts": [
+      "The firm has offices in New Jersey, New York, and Florida.",
+      "HDRB&B attorneys have earned the respect of the legal community and are recognized for their skill and experience by colleagues, adversaries and judges.",
+      "16 HDRB&B Attorneys Selected to New Jersey Super Lawyers\u00ae Lists (Mar 24, 2026)",
+      "HDRB&B Ranked by Best Law Firms\u00ae 2026 in 11 Practice Areas (Nov 08, 2025)",
+      "Bergen Magazine Selects 14 HDRB&B Attorneys to \u201cTop Lawyers\u201d List (Nov 04, 2025)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Paul S. Doherty, III",
+        "title": "Managing Partner, Department Chair, Corporate",
+        "email": "pdoherty@hdrbb.com",
+        "phone": "201.441.9056",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kurt Hartmann",
+          "title": "Department Chair, Real Estate",
+          "email": "khartmann@hdrbb.com",
+          "phone": "201.649.8088",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark A. Berman",
+          "title": "Department Chair, Litigation & Criminal Defense",
+          "email": "mberman@hdrbb.com",
+          "phone": "201.649.8015",
+          "linkedin_url": null
+        },
+        {
+          "name": "Naim D. Bulbulia",
+          "title": "Department Chair, Trusts & Estates",
+          "email": "nbulbulia@hdrbb.com",
+          "phone": "201.649.8061",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Goldenberg",
+          "title": "Department Chair, Private Lending Group",
+          "email": "rgoldenberg@hdrbb.com",
+          "phone": "201.649.8064",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

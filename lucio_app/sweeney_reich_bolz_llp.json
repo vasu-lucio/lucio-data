@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Sweeney Reich & Bolz LLP",
+    "website": "https://queenscountyprobate.com/",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Litigation",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Sweeney, Reich & Bolz LLP provides the highest quality legal advice and representation to our clients in the Greater New York City Area, with a focus on Estate Litigation, Child Victim's Act Litigation and Commercial Litigation. One of our founding partners, Gerard J. Sweeney, serves as Counsel to the Public Administrator of Queens County.",
+    "notable_facts": [
+      "One of the founding partners, Gerard J. Sweeney, serves as Counsel to the Public Administrator of Queens County."
+    ],
+    "technology_signals": [
+      "Uses Microsoft Word"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gerard J Sweeney",
+          "title": "Founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael H Reich",
+          "title": "Founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank A Bolz III",
+          "title": "Founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Angelini",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher F Bolz",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

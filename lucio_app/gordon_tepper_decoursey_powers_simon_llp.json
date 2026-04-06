@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Gordon, Tepper, DeCoursey, Powers & Simon, LLP",
+    "website": "https://www.gtdlaw.com/",
+    "city": "Saratoga Springs",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Matrimonial Law",
+      "Child Custody"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gordon, Tepper, DeCoursey, Powers & Simon, LLP is a family law firm serving the Albany, Schenectady, and Saratoga region. Their attorneys handle divorce, separation, child custody, and related family court matters.",
+    "notable_facts": [
+      "Attorneys are rated as 'Super Lawyers' and featured in 'The Best Lawyers in America'.",
+      "The firm was founded in 1997.",
+      "Eric Tepper was selected as the 2025 Family Law Lawyer of the Year for the Albany area by Best Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric A. Tepper",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/eric-tepper-a7265644"
+        },
+        {
+          "name": "Lawrence M. Gordon",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer S. Powers",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole Helmer Simon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

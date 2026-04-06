@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Manatt, Phelps & Phillips, LLP",
+    "website": "https://manatt.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 739,
+    "firm_description": "Manatt, Phelps & Phillips, LLP is a law firm that provides legal services, advocacy, and business strategies under one roof. They are a multidisciplinary, integrated national professional services firm known for quality and an extraordinary commitment to clients.",
+    "notable_facts": [
+      "Founded in 1965",
+      "Annual revenue of $382.1M",
+      "Unique integrated legal and consulting model"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Donna L. Wilson",
+        "title": "Chief Executive Officer and Managing Partner",
+        "email": "DLWilson@manatt.com",
+        "phone": "310.312.4144",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kristan Morrell",
+        "title": "Chief Operating Officer",
+        "email": "KMorrell@manatt.com",
+        "phone": "202.585.6520",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William S. Bernstein",
+          "title": "Partner",
+          "email": "WBernstein@manatt.com",
+          "phone": "212.830.7282",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Bromley",
+          "title": "Partner",
+          "email": "JBromley@manatt.com",
+          "phone": "310.312.4134",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sharon B. Bauman",
+          "title": "Chief Legal Officer",
+          "email": "SBauman@manatt.com",
+          "phone": "415.291.7425",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

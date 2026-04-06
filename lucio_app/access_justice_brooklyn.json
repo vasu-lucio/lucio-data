@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Access Justice Brooklyn",
+    "website": "https://www.accessjusticebrooklyn.org/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Civil Legal Services",
+      "Housing",
+      "Family Stability",
+      "Subsistence Income",
+      "Elder Law",
+      "Family Law",
+      "Economic Justice",
+      "Homeowner Assistance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Access Justice Brooklyn partners with compassionate pro bono attorneys to provide high-quality, civil legal services that help ensure equal access to the legal system. The organization\u2019s approach prioritizes the most basic, essential elements and experiences of human life, including housing, family stability, and subsistence income.",
+    "notable_facts": [
+      "Access Justice Brooklyn is a charity partner of the 2026 TD Five Boro Bike Tour.",
+      "Provides civil legal services to low-income Brooklynites, especially in marginalized communities.",
+      "Offers training and supervision to volunteers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lilia Toson",
+        "title": "President & Chief Executive Officer",
+        "email": null,
+        "phone": "(718) 624-3894",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Melissa A. Starr",
+          "title": "Chief Strategy Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Teresa Daly",
+          "title": "Director of Grants & Compliance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne O\u2019Grady",
+          "title": "Pro Bono Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/access-justice-brooklyn",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

@@ -1,0 +1,145 @@
+{
+  "firm_data": {
+    "firm_name": "Zdarsky, Sawicki & Agostinelli LLP",
+    "website": "https://www.zsa.cc/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business Litigation",
+      "Contract Law",
+      "Banking Law",
+      "Construction Law",
+      "Insurance",
+      "Partnership Law",
+      "Corporate Matters",
+      "White Collar Criminal Defense",
+      "Personal Injury",
+      "State and Federal Indian Law",
+      "Domestic Relations",
+      "Real Estate Development",
+      "General Business Practice",
+      "Civil Litigation",
+      "Criminal Litigation",
+      "Trials and Appeals",
+      "Commercial Transactions",
+      "Real Estate Transactions",
+      "Medical Malpractice",
+      "Oil and Gas",
+      "Employment and Labor Law",
+      "Family Law and Divorce",
+      "Negligence",
+      "Products Liability",
+      "Intellectual Property",
+      "RICO",
+      "International Trade",
+      "Bankruptcy Law",
+      "Tax Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Zdarsky, Sawicki & Agostinelli LLP is a general practice law firm with a concentration in business litigation and maintains an active real estate development, corporate and general business practice. The firm's attorneys have appeared as counsel of record and argued cases in all levels of courts of the State of New York and in United States District Courts, the United States Court of Appeals, and the United States Supreme Court.",
+    "notable_facts": [
+      "The firm was founded in 1990 as a spinoff of the litigation practice group from another firm.",
+      "The firm has a Peer Review Rating \u2122 of AV Pre-eminent for their ability and ethics.",
+      "Several attorneys in the firm have served as mediators and arbitrators in commercial disputes."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph E. Zdarsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/joseph-e-zdarsky-26903215"
+        },
+        {
+          "name": "K. Michael Sawicki",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Guy J. Agostinelli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerald T. Walsh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark J. Schlant",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick A. Dudley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas P. Fitch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Gutowski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. Bobbett",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

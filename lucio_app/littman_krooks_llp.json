@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Littman Krooks LLP",
+    "website": "https://www.littmankrooks.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Estate Planning & Administration",
+      "Estate Litigation",
+      "Corporate & Securities Law",
+      "Elder Law",
+      "Medicaid Planning",
+      "Hospitality & Brand Transactions",
+      "Guardianship",
+      "Special Needs Planning",
+      "Mergers & Acquisitions",
+      "Special Education Advocacy",
+      "Special Needs Trusts",
+      "Secondary Market Transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Littman Krooks applies comprehensive legal knowledge and experience to protect your interests, while providing you with personal attention and responsive communication. They offer sophisticated counsel tailored to your needs in areas such as corporate and securities law, elder law, estate planning, special needs planning, and special education advocacy.",
+    "notable_facts": [
+      "Named a Best Law Firm.",
+      "Offers services to businesses & corporations, and families & individuals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bernard A. Krooks",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitchell C. Littman",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Ingrid A. Castillo",
+        "title": "Firm Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Valarie Russo",
+          "title": "Client Relations Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joel Krooks",
+          "title": "Partner",
+          "email": null,
+          "phone": "(914) 684-2100",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

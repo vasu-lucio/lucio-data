@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Barrows Levy PLLC",
+    "website": "https://www.barrowslevy.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Divorce",
+      "Family Law",
+      "Real Estate Law",
+      "Business Law & Commercial Litigation",
+      "Estate Planning",
+      "Criminal Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Barrows Levy PLLC is a New York law firm providing quality legal services to clients in New York City and Long Island, focusing on family law and other legal matters. The firm offers extensive knowledge in Divorce and Family Law, Estate Planning, Elder Law, Probate and Administration Proceedings, Real Estate, Business Law, Litigation, Appellate Law, Personal Injury, Workers\u2019 Compensation and Medical Device Regulation.",
+    "notable_facts": [
+      "Locations in Garden City, Melville, and New York City",
+      "Over 95+ years of combined legal experience",
+      "Over 4,000+ cases handled"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Itamar Levy",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/itamar-levy-926b36128"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Colin Barrows",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Diana Szabo",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Grosso",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley Fischer",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alyssa Marie Regina",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barrows-levy-pllc",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

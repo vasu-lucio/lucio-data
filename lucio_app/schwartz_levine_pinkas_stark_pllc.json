@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Schwartz Levine Pinkas Stark PLLC",
+    "website": "https://www.slpslaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate Law",
+      "Transactional Real Estate"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Schwartz Levine Pinkas Stark PLLC is a law firm of experienced attorneys committed to client service and winning strategies in transactional real estate. They help promote successful resolutions to their clients\u2019 most complex and challenging legal matters.",
+    "notable_facts": [
+      "The firm was founded in 2020.",
+      "The firm focuses on transactional real estate law.",
+      "The firm represents both domestic and foreign clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Sandy Todd Schwartz",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/sandy-schwartz-47780b7"
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles R. Stark",
+          "title": "Co-Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/charles-r-stark-esq-b7865a3"
+        },
+        {
+          "name": "Ross M. Levine",
+          "title": "Founding Partner",
+          "email": "Ross@slpslaw.com",
+          "phone": "(646) 518-7273 x 102",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edan E. Pinkas",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katrina E. Hanna",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Riad Malek",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy Holmes",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jamie Kaufman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Nixon",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

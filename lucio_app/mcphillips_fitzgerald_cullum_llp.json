@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "McPhillips, Fitzgerald & Cullum, LLP",
+    "website": "https://mfcllp.com/",
+    "city": "Glens Falls",
+    "practice_areas": [
+      "Corporate",
+      "General Practice",
+      "Litigation",
+      "Real Estate",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "McPhillips, Fitzgerald & Cullum, LLP has served clients longer than any other law firm in the Greater Glens Falls region. A proud and long standing tradition of hard work, straightforward dealing and loyalty to clients makes the firm a cornerstone of the Southern Adirondack legal community.",
+    "notable_facts": [
+      "Established in 1911",
+      "Serves clients in the Greater Glens Falls region"
+    ],
+    "technology_signals": [
+      "Westlaw",
+      "Juris",
+      "Microsoft"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "James E Cullum",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Edward P. Fitzgerald",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William E Fitzgerald",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John E Fitzgerald Jr",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Courtney M Haskins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Dwyer Lescault",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis J O'Connor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy S Shuler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

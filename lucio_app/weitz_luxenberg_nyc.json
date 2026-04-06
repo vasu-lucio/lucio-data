@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Weitz & Luxenberg",
+    "website": "https://www.weitzlux.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Asbestos",
+      "Drugs & Devices",
+      "Environmental",
+      "Consumer Protection",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Weitz & Luxenberg is a nationwide law firm specializing in legal services tailored to clients who have been wrongfully injured. With almost four decades of experience in mass tort and personal injury litigation, they have recovered more than $26 billion in verdicts and settlements for clients nationwide.",
+    "notable_facts": [
+      "Recovered more than $26 billion in verdicts and settlements for clients nationwide.",
+      "Leader in asbestos and mesothelioma litigation with approximately $13 billion in asbestos verdicts and settlements in 44,000 cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Perry Weitz",
+          "title": "Co-Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Arthur Luxenberg",
+          "title": "Co-Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles M. Ferguson",
+          "title": "Partner and Practice Group Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen Relkin",
+          "title": "Partner and Practice Group Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robin L. Greenwald",
+          "title": "Partner and Practice Group Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

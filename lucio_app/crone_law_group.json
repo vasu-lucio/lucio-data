@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Crone Law Group",
+    "website": "https://cronelawgroup.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Law",
+      "Regulation",
+      "Corporate Finance",
+      "Capital Markets",
+      "Litigation",
+      "Mergers & Acquisitions",
+      "Commercial Contracts",
+      "Commercial Real Estate",
+      "Immigration Law",
+      "Tax Law",
+      "Intellectual Property",
+      "Patent Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Crone Law Group is an international law firm headquartered in New York, focusing on a wide range of practice areas including securities law, corporate finance, and mergers & acquisitions. They maintain a flexible environment to provide high-quality legal services with reasonable rates and tailored service.",
+    "notable_facts": [
+      "The firm has offices in New York, Atlanta, Los Angeles, Reno, and Beijing.",
+      "They offer multilingual capabilities in Hebrew, Russian, French, Farsi, Mandarin, and Cantonese.",
+      "The firm represents domestic and foreign publicly traded corporations, emerging companies, and entrepreneurs & investors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark E. Crone",
+        "title": "Managing Partner",
+        "email": "mcrone@cronelawgroup.com",
+        "phone": "917.398.5081",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Liang Shih",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joe Laxague",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Aboudi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charlotte Westfall",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Vladeck, Raskin & Clark, P.C.",
+    "website": "https://vladeck.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Labor Law",
+      "Discrimination Law",
+      "Criminal Defense",
+      "Disability Rights"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Vladeck, Raskin & Clark, P.C. is an employment law firm protecting and advancing workers\u2019 rights. The firm also handles criminal defense and disability rights cases.",
+    "notable_facts": [
+      "Founded in 1949.",
+      "Nationally recognized as a preeminent employment law firm.",
+      "Represents employees at every level in various industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anne L. Clark",
+        "title": "Managing Partner",
+        "email": "aclark@vladeck.com",
+        "phone": "212-403-7300",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Lisa Bolton",
+        "title": "Director Of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan J. Walsh",
+          "title": "Partner",
+          "email": "swalsh@vladeck.com",
+          "phone": "212-403-7300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maia Goodell",
+          "title": "Partner",
+          "email": "mgoodell@vladeck.com",
+          "phone": "212-403-7300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Debra L. Raskin",
+          "title": "Partner Emerita",
+          "email": "draskin@vladeck.com",
+          "phone": "212-403-7300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne C. Vladeck",
+          "title": "Partner Emerita",
+          "email": "avladeck@vladeck.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

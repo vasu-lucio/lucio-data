@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Uptime Legal",
+    "website": "https://www.uptimelegal.com/",
+    "city": "Minneapolis, MN",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Uptime Legal helps law firms across North America manage and grow their firms through cloud services, legal technology, and marketing. They offer solutions to build innovative products and deliver exceptional service to law firms.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Dennis Dimka",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Erin Pickar",
+        "title": "President & COO",
+        "email": null,
+        "phone": "(888) 767-7447",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mike Dewdney",
+          "title": "Director of Cloud & IT",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Reymann",
+          "title": "Director of Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aaron Eittreim",
+          "title": "Executive Vice President of Sales",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Calin Yablonski",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

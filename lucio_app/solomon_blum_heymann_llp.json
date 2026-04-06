@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Solomon Blum Heymann LLP",
+    "website": "https://www.solblum.com/",
+    "city": "New York",
+    "practice_areas": [
+      "International Commercial Law",
+      "Trusts and Estates",
+      "Tax Law",
+      "Litigation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Solomon Blum Heymann LLP is an international commercial law firm based in New York City, with offices in the U.S. Virgin Islands. They provide comprehensive transactional and litigation services for businesses, estates, individuals, and corporate clients worldwide.",
+    "notable_facts": [
+      "Has offices in New York City and the U.S. Virgin Islands",
+      "Affiliated with the International Business Law Consortium in Salzburg, Austria, and the Interlegal network of law firms based in The Hague",
+      "Founded in 1996"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Louis Blum",
+          "title": "International Tax and Business Lawyer",
+          "email": null,
+          "phone": "(212) 267-7600",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Heymann",
+          "title": "International Trust, Estate, Business Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert A. Solomon",
+          "title": "Corporate and Securities Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Luca Cantelli",
+          "title": "International Trust and Estate Planning Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Greg Ferguson",
+          "title": "Transactional and Real Estate Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

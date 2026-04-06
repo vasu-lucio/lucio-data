@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Welch, Donlon & Czarples PLLC",
+    "website": "https://www.corningelmiralawyer.com/",
+    "city": "Corning, NY",
+    "practice_areas": [
+      "Personal Injury",
+      "Motor Vehicle Accidents",
+      "Construction Site Accidents",
+      "Nursing Home Neglect",
+      "Toxic Exposure",
+      "Dangerous Products",
+      "Prescription Drug Litigation",
+      "Asbestos Litigation",
+      "Gas Line Explosions",
+      "Hunting Accidents",
+      "Dog Bites",
+      "Medical Malpractice",
+      "Slip and Fall Accidents",
+      "Insurance Coverage Issues"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Welch, Donlon & Czarples PLLC is a personal injury law firm serving the states of New York and Pennsylvania. They focus on consumer advocacy and plaintiff\u2019s personal injury and insurance coverage litigation.",
+    "notable_facts": [
+      "Michael Donlon has obtained some of the largest personal injury recoveries in the region.",
+      "Michael Donlon is a certified lifetime member of The Million Dollar Advocates Forum.",
+      "The firm offers free consultations/case evaluations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Donlon",
+          "title": "Trial Attorney and Owner",
+          "email": "michael@WDCinjurylaw.com",
+          "phone": "607-936-8057",
+          "linkedin_url": "https://www.linkedin.com/in/michael-a-donlon-8b29aa51"
+        },
+        {
+          "name": "Anna Czarples",
+          "title": "Esq.",
+          "email": "inbox@wdcinjurylaw.com",
+          "phone": "607-936-8057",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Welch",
+          "title": "Esq.",
+          "email": "inbox@wdcinjurylaw.com",
+          "phone": "607-936-8057",
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan Collins",
+          "title": "Esq.",
+          "email": "inbox@wdcinjurylaw.com",
+          "phone": "607-936-8057",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brenda Brewster",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

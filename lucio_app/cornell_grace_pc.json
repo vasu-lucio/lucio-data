@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Cornell Grace, P.C.",
+    "website": "https://www.cornellgrace.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Construction Litigation",
+      "Insurance Litigation",
+      "Municipal Liability Litigation",
+      "Educational Institution and School Liability",
+      "Contracts and Business Counsel",
+      "Commercial Litigation",
+      "Product Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cornell Grace, P.C. provides high-quality legal representation while maintaining the hands-on, personal service of a boutique law firm. They regularly litigate cases in trial and appellate courts at the state and federal level.",
+    "notable_facts": [
+      "The firm handles multi-million dollar construction related claims, especially those involving alleged violations of the New York State Labor Law and New York Industrial Code.",
+      "They place great emphasis on obtaining risk transfers for their clients.",
+      "The firm provides wide ranging counsel, legal drafting and risk management services to clients in areas such as construction, education, and municipal liability."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Janet O'Connor Cornell",
+          "title": "Partner",
+          "email": "jcornell@cornellgrace.com",
+          "phone": "212-233-1100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Keith D. Grace",
+          "title": "Partner",
+          "email": "kgrace@cornellgrace.com",
+          "phone": "212-233-1100",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "George P. Cornell",
+          "title": "Partner",
+          "email": "gcornell@cornellgrace.com",
+          "phone": "212-233-1100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Meneses",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

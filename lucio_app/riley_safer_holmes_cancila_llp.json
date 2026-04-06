@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Riley Safer Holmes & Cancila LLP",
+    "website": "https://rshc-law.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Litigation",
+      "Transactional",
+      "Energy & Utilities",
+      "Insurance Litigation",
+      "Commercial Disputes & Litigation",
+      "Appellate Practice",
+      "Antitrust & Competition",
+      "Product Liability & Mass Torts",
+      "Class Actions",
+      "Risk, Reputation & Crisis Management",
+      "Education",
+      "Compliance Program Counseling, Design & Assessment",
+      "White Collar, Investigations & Compliance"
+    ],
+    "lawyer_count": 130,
+    "firm_description": "Riley Safer Holmes & Cancila LLP is a national law firm of litigators, trial lawyers, and transactional attorneys. The firm's lawyers handle challenging, complex, and high-stakes legal issues for a range of clients, from individuals to large international corporations.",
+    "notable_facts": [
+      "The firm was founded in 2016.",
+      "RSHC has offices in Chicago, San Francisco, New York, and Ann Arbor.",
+      "RSHC was noted by the Chambers Diversity & Inclusion Awards as \u201ca true diversity and inclusion pioneer for the profession.\u201d"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert Riley",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Fischer",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Cancila",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Aguilar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Julien",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Esseks, Hefter, Angel, Di Talia & Pasca, LLP",
+    "website": "https://ehalaw.com/",
+    "city": "Riverhead",
+    "practice_areas": [
+      "Civil Litigation",
+      "Real Estate",
+      "Land Use Planning",
+      "Estate Planning",
+      "Business Planning"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Esseks, Hefter, Angel, Di Talia & Pasca, LLP is a general practice law firm on the East End of Long Island, New York, providing legal representation to individuals, businesses, estates, municipalities, and not-for-profit institutions.",
+    "notable_facts": [
+      "One of the preeminent general practice law firms on the East End of Long Island.",
+      "Has received the highest \"AV\" peer review rating from Martindale Hubbell."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William Esseks",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marcia Hefter",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephen R. Angel",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carmela M. Di Talia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony C. Pasca",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kim A. Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

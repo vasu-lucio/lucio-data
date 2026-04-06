@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Joseph Law Group, P.C.",
+    "website": "https://josephlawpc.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Divorce",
+      "Family Law"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Joseph Law Group, P.C. is a Long Island boutique matrimonial law firm committed to providing clients with exceptional legal representation in matrimonial and family law. They focus on achieving fair and equitable resolutions while minimizing financial and emotional damage.",
+    "notable_facts": [
+      "James P. Joseph will serve as President of the Nassau County Bar Association in the 2025-2026 fiscal year.",
+      "The firm caters to a wide clientele, including business owners, doctors, lawyers and other professionals, civil servants, W-2 wage earners, executives, members of the finance industry, homemakers, people with a modest net worth to ultra-high-net-worth individuals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "James P. Joseph",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph J. Bracconier III",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacqueline M. Caputo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas A. Elliot",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole E. Imperatore",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tracy A. Hawkes",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,116 @@
+{
+  "firm_data": {
+    "firm_name": "Sayles & Evans",
+    "website": "http://www.saylesevans.com/",
+    "city": "Elmira",
+    "practice_areas": [
+      "Real Estate & Land Use",
+      "Employment & Labor Relations",
+      "Trusts & Estates",
+      "Taxes",
+      "Litigation",
+      "Business & Commercial",
+      "Banking & Finance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sayles & Evans is a general practice law firm located in Elmira, NY. They have been providing legal advice and services in many areas of commercial and personal law for 140 years.",
+    "notable_facts": [
+      "The firm was established in 1875.",
+      "The firm has one of the largest legal teams in the area.",
+      "They provide legal advice and services to clients throughout the US."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John A. Reynolds",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frederick Collin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John B. Stanchfield",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven E. Agan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John R. Alexander",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aaron T. Alsheimer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara D. Ciccotti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberlee Balok Middaugh",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

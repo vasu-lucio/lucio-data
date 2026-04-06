@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Weiss, Wexler and Wornow PC",
+    "website": "https://wwandwlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Workers\u2019 Compensation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Weiss, Wexler & Wornow, P.C., is a New York City based law firm which provides legal expertise and counseling on an extensive array of workers\u2019 compensation matters. Our firm enjoys a reputation for excellence, independence and integrity within the community of workers\u2019 compensation professionals.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Darryl S. Wornow",
+        "title": "Managing Partner",
+        "email": "dwornow@wwandwlaw.com",
+        "phone": "(212) 227-0347",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank Weiss",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce E. Wexler",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ronald S. Einziger",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jerry A. Cohn",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Donna M. Salvo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

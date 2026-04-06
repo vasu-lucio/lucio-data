@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Awad & Baker Law",
+    "website": "https://www.awadbakerlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Construction Site Accidents",
+      "Personal Injury",
+      "Dangerous Building Conditions",
+      "Wrongful Death",
+      "Municipal Liability",
+      "Nursing Home Negligence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Awad Baker Law is a New York personal injury law firm dedicated to ensuring the best results for clients. With over 135 combined years of trial and appellate experience in personal injury.",
+    "notable_facts": [
+      "Rated Best Lawyers 2025",
+      "Over 140 cases with million-dollar settlements",
+      "Recognized in The Wall Street Journal as one of the Most Influential Lawyers in America by lawyers of Distinction (Joseph P. Awad)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph P. Awad",
+          "title": "Founder and Senior Partner",
+          "email": "jawad@awadbaker.com",
+          "phone": "(516) 716-4444",
+          "linkedin_url": "https://www.linkedin.com/in/joseph-awad-a0283511"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James E. Baker",
+          "title": "Partner",
+          "email": "jbaker@awadbaker.com",
+          "phone": "(516) 716-4444",
+          "linkedin_url": null
+        },
+        {
+          "name": "Veronica Sewnarine",
+          "title": "Partner, Managing Medical Malpractice Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandria Awad",
+          "title": "Senior Trial & Appellate Attorney",
+          "email": "aawad@awadbaker.com",
+          "phone": "(516) 716-4444",
+          "linkedin_url": "https://www.linkedin.com/attorneys/alexandria-awad"
+        },
+        {
+          "name": "Christian Coppinger",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amina Ali",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

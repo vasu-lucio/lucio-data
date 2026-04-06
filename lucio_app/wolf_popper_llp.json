@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Wolf Popper LLP",
+    "website": "http://www.wolfpopper.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Litigation",
+      "Consumer Fraud",
+      "Corporate Transactional and Derivative Litigation",
+      "Health Care matters",
+      "Digital Assets",
+      "Environmental Litigation",
+      "International Commercial Litigation and Arbitration."
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wolf Popper LLP is a nationally recognized law firm with decades of experience advocating for investors, consumers, and businesses in complex matters across the United States and internationally. The firm combines deep legal knowledge with a commitment to achieving meaningful outcomes for its clients.",
+    "notable_facts": [
+      "Wolf Popper was among the first law firms in the United States to develop the field of class action securities litigation.",
+      "The firm has recovered billions of dollars for its clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Emily Madoff",
+        "title": "Managing Partner",
+        "email": "emadoff@wolfpopper.com",
+        "phone": "(212) 451-9622",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carl L. Stine",
+          "title": "Senior Partner",
+          "email": "cstine@wolfpopper.com",
+          "phone": "(212) 451-9631",
+          "linkedin_url": null
+        },
+        {
+          "name": "Carlos E. L\u00f3pez L\u00f3pez",
+          "title": "Senior Partner",
+          "email": "clopez@wolfpopperpr.com",
+          "phone": "(212) 451-9614",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia I. Avery",
+          "title": "Senior Partner",
+          "email": "pavery@wolfpopper.com",
+          "phone": "(212) 451-9619",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert C. Finkel",
+          "title": "Senior Partner",
+          "email": "rfinkel@wolfpopper.com",
+          "phone": "(212) 451-9620",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

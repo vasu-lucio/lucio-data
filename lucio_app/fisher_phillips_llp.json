@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Fisher Phillips (Fisher & Phillips LLP)",
+    "website": "https://fisherphillips.com/",
+    "city": "atlanta",
+    "practice_areas": [
+      "labor and employment"
+    ],
+    "lawyer_count": 800,
+    "firm_description": "Fisher Phillips is an international labor and employment firm providing practical business solutions for employers\u2019 workplace legal problems. They regularly advise and counsel clients on issues surrounding wage and hour, employment discrimination and harassment, litigation, workplace safety, immigration, trade secrets and non-competes, and more.",
+    "notable_facts": [
+      "Founded in 1943",
+      "Has 47 offices",
+      "Recently acquired Elarbee Thompson"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John M. Polson",
+        "title": "Chairman & Managing Partner",
+        "email": null,
+        "phone": "949.798.2130",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Dave Lentz",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": "404.240.4251",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The new partners focus their practices on critical areas of workplace law including AI, Data and Analytics, Consumer Privacy, Global Mobility, Immigration, International Employment, Labor Relations, Litigation and Class/Collective Actions, Privacy and Cyber, Wage and Hour, Workplace Investigations, Workplace Safety and Catastrophe Management."
+      },
+      "additional_contacts": [
+        {
+          "name": "Christine E. Howard",
+          "title": "Executive Partner, Management Committee",
+          "email": null,
+          "phone": "813.769.7503",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Steele",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": "404.240.5858",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard R. Meneghello",
+          "title": "Chief Content Officer",
+          "email": null,
+          "phone": "503.205.8044",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean Cleveland",
+          "title": "General Counsel",
+          "email": null,
+          "phone": "813-769-7459",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

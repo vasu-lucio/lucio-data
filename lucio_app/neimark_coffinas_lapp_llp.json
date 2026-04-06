@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Neimark Coffinas & Lapp LLP",
+    "website": "https://www.ncl.law/",
+    "city": "New City",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Auto Accidents",
+      "Trucking Accidents",
+      "Motorcycle Accidents",
+      "Slip and Fall",
+      "Trip and Fall",
+      "Construction Accidents",
+      "Products Liability",
+      "LASIK Lawsuits",
+      "Nursing Home Injuries"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Neimark Coffinas & Lapp LLP is Rockland County's preeminent personal injury law firm dedicated to personal injury and medical malpractice. They fight for their clients' rights in and out of court to help them receive the full compensation they deserve.",
+    "notable_facts": [
+      "Serving Rockland County, Orange County and the Hudson Valley for over 50 years.",
+      "The firm has secured tens of millions of dollars in compensation for their clients.",
+      "Free legal consultations are available 24/7."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marshall Neimark",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "George Gustav Coffinas",
+          "title": null,
+          "email": "ggc(a)coffinas.com",
+          "phone": "(845) 638-3012",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Philip Neimark",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ira Harley Lapp",
+          "title": null,
+          "email": null,
+          "phone": "(845) 638-3012",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa J. Stone",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen Diane Lazarus",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

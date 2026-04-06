@@ -1,0 +1,49 @@
+{
+  "firm_data": {
+    "firm_name": "Robinson+Cole",
+    "website": "https://www.rc.com",
+    "city": "Hartford",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Robinson+Cole is a law firm.",
+    "notable_facts": [
+      "J. Michael Wirvin was elected as the next Managing Partner, effective March 1, marking the first time the firm has had a Managing Partner based outside of Hartford, CT.",
+      "The firm has a 180-year history."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "J. Michael Wirvin",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

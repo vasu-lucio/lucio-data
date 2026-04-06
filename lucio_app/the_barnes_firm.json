@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "The Barnes Firm",
+    "website": "https://www.thebarnesfirm.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": 74,
+    "firm_description": "The Barnes Firm is a personal injury law firm focusing exclusively on accident cases. They assist individuals injured in accidents due to someone else's negligence, helping them obtain compensation for medical expenses, lost wages, and pain and suffering.",
+    "notable_facts": [
+      "Over 150,000 accident cases handled",
+      "$2.5 Billion recovered",
+      "Over 500 combined years of experience",
+      "Free consultations",
+      "No fee unless you get paid"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steve Barnes",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rich Barnes",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mory Ahmadi",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Amico",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mason Aria",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

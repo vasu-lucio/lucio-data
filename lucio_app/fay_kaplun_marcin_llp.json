@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Fay Kaplun & Marcin, LLP",
+    "website": "https://www.fkmiplaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Patent Prosecution",
+      "Trademark Prosecution",
+      "Copyright",
+      "Licensing",
+      "Litigation"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Fay Kaplun & Marcin, LLP is an intellectual property law firm specializing in patent, trademark, copyright and related issues. The firm offers services in prosecution, counseling, litigation and licensing.",
+    "notable_facts": [
+      "The firm was established in anticipation of its 20th anniversary and launched a redesigned website in May 2020.",
+      "Fay Kaplun & Marcin, LLP uses 8 technology products and services including Squarespace, Open Graph, and RSS."
+    ],
+    "technology_signals": [
+      "Squarespace",
+      "Open Graph",
+      "RSS"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patrick J. Fay",
+          "title": "Partner",
+          "email": "pfay@fkmiplaw.com",
+          "phone": "212-619-6000 ext. 202",
+          "linkedin_url": null
+        },
+        {
+          "name": "Oleg F. Kaplun",
+          "title": "Partner",
+          "email": "okaplun@fkmiplaw.com",
+          "phone": "212-619-6000 ext. 203",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Marcin",
+          "title": "Partner",
+          "email": "mmarcin@fkmiplaw.com",
+          "phone": "212-619-6000 ext. 204",
+          "linkedin_url": null
+        },
+        {
+          "name": "John R. (rick) witcher",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Gianetta",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

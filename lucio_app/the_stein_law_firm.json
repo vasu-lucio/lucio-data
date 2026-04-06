@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "The Stein Law Firm, PLLC",
+    "website": "https://steinlawpllc.com/",
+    "city": "Concord",
+    "practice_areas": [
+      "Litigation",
+      "Appellate Law",
+      "Personal Injury Litigation",
+      "Criminal Defense",
+      "Products Liability",
+      "Contested Estate Matters",
+      "Probate Litigation",
+      "Advocacy Training",
+      "Litigation Support"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "The Stein Law Firm, PLLC is a small, boutique law firm in Concord, New Hampshire. Our attorneys are leaders in their areas of practice and have been recognized on numerous occasions by their peers.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard Stein",
+          "title": null,
+          "email": "rstein@steinlawpllc.com",
+          "phone": "603.228.1109",
+          "linkedin_url": "https://www.linkedin.com/company/the-stein-law-firm-pllc"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

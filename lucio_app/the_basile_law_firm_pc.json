@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "The Basile Law Firm P.C.",
+    "website": "https://www.thebasilelawfirm.com/",
+    "city": "Jericho",
+    "practice_areas": [
+      "Securities Litigation",
+      "Business Law",
+      "Corporate Restructuring"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Basile Law Firm P.C. is recognized in the public markets as one of the nation's foremost securities litigation firms defending small public companies in complex financial litigation across the country. The firm focuses on helping public companies unwind bad financial deals.",
+    "notable_facts": [
+      "Represents numerous NASDAQ, NYSE and OTC Markets small to middle-market public companies.",
+      "Has offices in New York, Dallas Texas and Naples Florida.",
+      "Represents more public companies in convertible debt litigation than any other firm in the country."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark R. Basile",
+        "title": "Principle Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/the-basile-law-firm-p-c/org-chart/mark-r-basile-esq"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Rene L. Basile",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Donna Basile",
+          "title": "Business Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Agapija Cruz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher M. Basile",
+          "title": "Partner, Accounting",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Esther S. Noh",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

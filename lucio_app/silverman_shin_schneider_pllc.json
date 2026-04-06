@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Silverman Shin & Schneider PLLC",
+    "website": "https://silverfirm.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Civil Litigation",
+      "Arbitration",
+      "Corporate and Securities Law",
+      "Insurance Law",
+      "Mergers and Acquisitions",
+      "Corporate Finance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Silverman Shin & Schneider PLLC is a full-service law firm with offices in New York City and New Jersey. They leverage experience by working across practice areas to meet their clients\u2019 goals.",
+    "notable_facts": [
+      "The firm has broad expertise in multiple disciplines.",
+      "They represent corporate, institutional and individual clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Shin",
+          "title": "Partner",
+          "email": "jshin@silverfirm.com",
+          "phone": "(646) 822-1165",
+          "linkedin_url": "https://www.linkedin.com/in/john-shin-a2771b233"
+        },
+        {
+          "name": "Andrew Achiron",
+          "title": "Partner",
+          "email": "aachiron@silverfirm.com",
+          "phone": "(646) 822-1168",
+          "linkedin_url": null
+        },
+        {
+          "name": "Henry Achiron",
+          "title": null,
+          "email": "hachiron@silverfirm.com",
+          "phone": "(646) 822-1152",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay Bloomfield",
+          "title": "Partner",
+          "email": "jbloomfield@silverfirm.com",
+          "phone": "(646) 216-2406",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Costello",
+          "title": "Partner",
+          "email": "pcostello@silverfirm.com",
+          "phone": "(646) 822-1153",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

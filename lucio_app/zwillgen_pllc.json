@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "ZwillGen PLLC",
+    "website": "https://www.zwillgen.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Privacy & Global Data Protection",
+      "Information Security",
+      "Artificial Intelligence",
+      "Law Enforcement & Surveillance",
+      "Cybersecurity",
+      "Marketing & E-Commerce",
+      "Vendor Contracting",
+      "Alternative Data",
+      "Gaming and Gambling",
+      "Complex Investigations and Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "ZwillGen is a boutique law firm focused on privacy, cybersecurity, AI, and technology law, providing strategic legal counsel to innovative companies. The firm is known for its practical judgment and subject-matter focus.",
+    "notable_facts": [
+      "Ranked Tier 1 in Legal 500\u2019s DC Cybersecurity & Data Protection rankings.",
+      "Founded in 2010.",
+      "Offices in Washington, DC, New York, Chicago, and San Francisco, with on-the-ground support in the UK."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marc Zwillinger",
+        "title": "Founder & Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Bart Huff",
+        "title": "Chief Executive Officer \u2013 ZGSSSenior Counsel \u2013 ZwillGen",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Brenda Leong",
+        "title": "Director, AI Division",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "ZwillGen has an AI Division and partnered with Luminos to create the ZwillGen Law Library, automating AI risk assessments and testing."
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeff Landis",
+          "title": "Shareholder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacey Brandenburg",
+          "title": "Shareholder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

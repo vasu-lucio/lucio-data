@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Shaw, Perelson, May & Lambert, LLP",
+    "website": "https://www.shawperelson.com/",
+    "city": "Poughkeepsie",
+    "practice_areas": [
+      "School Law",
+      "Labor Relations Law",
+      "General Education Law",
+      "Special Education/ Pupil Personnel Services",
+      "Litigation",
+      "Tax Certioraris",
+      "Construction Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Shaw, Perelson, May & Lambert, L.L.P. is a law firm representing New York public school districts, municipalities in labor relations matters, and public libraries, with offices in Dutchess and Westchester Counties. Our lawyers have more than forty years of experience representing clients in the full spectrum of school law and labor relations law issues.",
+    "notable_facts": [
+      "The firm has offices in Dutchess and Westchester Counties.",
+      "The firm is a sustaining legal partner with the New York State School Boards Association.",
+      "Partners in the firm have a long history of leadership in the New York Association of School Attorneys.",
+      "Several partners have served as adjunct professors in graduate schools of education at SUNY New Paltz, Bank Street College of Education, Long Island University School of Education, Manhattanville College and Pace University School of Education."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David S. Shaw",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Margo L. May",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael K. Lambert",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Beth L. Harris",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M. Latino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julie M. Shaw",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,18 @@
+# Secrets & credentials — never commit these
+gmail_credentials.json
+gmail_token.json
+
+# Local database
+outreach.db
+
+# PDF attachment
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store

@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "MoloLamken LLP",
+    "website": "http://mololamken.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Disputes",
+      "Investigations",
+      "Civil Litigation",
+      "Criminal Litigation",
+      "Regulatory Matters",
+      "Appeals"
+    ],
+    "lawyer_count": null,
+    "firm_description": "MoloLamken is a law firm focused exclusively on representing clients in complex disputes and investigations. Our clients are based throughout the world.",
+    "notable_facts": [
+      "Recognized as a leading firm by Legal 500.",
+      "The firm's lawyers possess intellect, creativity, and tenacity.",
+      "Represents both plaintiffs and defendants."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steven F. Molo",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "212.607.8170",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey A. Lamken",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "202.556.2010",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joshua D. Bloom",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "212.607.8156",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anden Chow",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "212.607.8177",
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan Cunniff Church",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "312.450.6716",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Davis Ndanusa Ikhlas & Saleem LLP",
+    "website": "https://www.dnislaw.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Civil law",
+      "Criminal justice",
+      "Estate planning",
+      "Immigration",
+      "Personal injury",
+      "Real estate law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Davis, Ndanusa, Ikhlas, & Saleem LLP has 80 years of experience practicing law in both state and federal courts and is committed to providing every client with the highest quality of legal counsel. They are known for their client-centered approach and deep expertise.",
+    "notable_facts": [
+      "The firm serves clients in Brooklyn, NY, and throughout Nassau County.",
+      "The firm's multilingual team serves speakers of English, Hindi, Arabic, Punjabi, and Spanish."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mohammad A. Saleem",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mustapha Ndanusa",
+          "title": "Law Partner",
+          "email": "mndanusa@dnislaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tarik Davis",
+          "title": "Law Partner",
+          "email": "tdavis@dnislaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Muhammad Ikhlas",
+          "title": "Law Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

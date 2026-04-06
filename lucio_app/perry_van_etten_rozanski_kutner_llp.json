@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Perry, Van Etten, Rainis & Kutner, LLP",
+    "website": "https://pvrklaw.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Insurance Defense Litigation",
+      "New York State Labor Law",
+      "Medical Malpractice",
+      "Premises Liability",
+      "Construction Defects",
+      "Property Damage",
+      "Products Liability",
+      "Automobile and Trucking"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Perry, Van Etten, Rainis & Kutner, LLP is a defense litigation firm that specializes in various areas including New York State Labor Law, Medical Malpractice, and Insurance Defense litigation. They maintain offices in New York State and New Jersey, representing insurers, insured, and self-insured entities.",
+    "notable_facts": [
+      "The firm was formed through the merger of Perry Van Etten, Rozanski & Kutner, LLP and Lawrence, Worden, Rainis & Bard, PC effective January 1, 2025.",
+      "The firm has been acknowledged as \"AV\" rated.",
+      "The firm has an expanding New Jersey office."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Douglas P. Perry",
+          "title": "Attorney At Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey K. Van Etten",
+          "title": "Attorney At Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Rainis",
+          "title": "Attorney At Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth J. Kutner",
+          "title": "Attorney At Law",
+          "email": "kjkutner@pvrklaw.com",
+          "phone": "631-414-7930",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Shay",
+          "title": "Attorney At Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

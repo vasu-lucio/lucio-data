@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Heslin Rothenberg Farley & Mesiti P.C.",
+    "website": "https://hrfmlaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Patent Law",
+      "Trademark Law",
+      "Copyright Law",
+      "Trade Secrets",
+      "Licensing",
+      "Litigation"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Heslin Rothenberg Farley & Mesiti P.C. is the largest law firm in upstate New York devoted exclusively to intellectual property law, handling all aspects of acquiring and enforcing intellectual property rights, both domestic and foreign.",
+    "notable_facts": [
+      "Founded in 1970",
+      "More than 25 attorneys and patent agents",
+      "More than 60 total professional staff",
+      "Serves clients from startups to Fortune 100 companies"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert E. Heslin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John W. Boger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victor Cardona",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Hulihan",
+          "title": "Partner",
+          "email": null,
+          "phone": "518-452-5600",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

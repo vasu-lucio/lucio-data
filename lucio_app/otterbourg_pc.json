@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Otterbourg PC",
+    "website": "www.otterbourg.com",
+    "city": "New York",
+    "practice_areas": [
+      "Banking",
+      "Bankruptcy",
+      "Corporate",
+      "Litigation",
+      "Real Estate",
+      "Asset Backed Finance",
+      "Chapter 11",
+      "Creditors Rights",
+      "Cross-Border",
+      "Acquisitions",
+      "Arbitration",
+      "Capital Markets",
+      "Compliance",
+      "Corporate Governance"
+    ],
+    "lawyer_count": 62,
+    "firm_description": "Otterbourg PC is a law firm based in New York, New York representing leading commercial businesses and financial institutions. The firm provides a wide range of legal services to the business, commercial and financial community.",
+    "notable_facts": [
+      "Otterbourg PC has one location in the U.S.",
+      "The firm was founded in 1909.",
+      "Otterbourg was named Bankruptcy Group of the Year by Law360 in 2026"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Anne Benz",
+        "title": "Director Human Resources and Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Luftig",
+          "title": "controller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Adelsberg",
+          "title": "Controller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leonard Cristino",
+          "title": "Director Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Miller",
+          "title": "Partner - Banking & Finance Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Barocas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

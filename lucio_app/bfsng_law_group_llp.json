@@ -1,0 +1,115 @@
+{
+  "firm_data": {
+    "firm_name": "BFSNG Law Group LLP",
+    "website": "https://bfslawfirm.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Legal Services",
+      "Bankruptcy Law",
+      "Divorce and Family Law",
+      "Education Law",
+      "Real Estate Transactions",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "BFSNG Law Group LLP is a full-service Long Island law firm providing clients with the highest caliber of legal services in a cost-effective manner. The firm handles various cases including bankruptcy, matrimonial, family law, real estate, education, and litigation matters.",
+    "notable_facts": [
+      "Offices located in Suffolk County, Nassau County, and Brooklyn",
+      "Employs 10 people",
+      "Annual revenue of $10.0M"
+    ],
+    "technology_signals": [
+      "Leap Legal",
+      "Microsoft Office",
+      "LinkedIn",
+      "Microsoft",
+      "AMP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Pryor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Goodman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew S. Nachamie",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Heath S. Berger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary C. Fischoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven E. Shumer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joel G. Wexler",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bfsng-law-group-llp",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices Of John J. Bello, Jr.",
+    "website": "https://www.lawyer.com/firm/law-offices-of-john-j-bello-jr-ny.html",
+    "city": "New York",
+    "practice_areas": [
+      "General Practice",
+      "Real Estate",
+      "Employment",
+      "Health Care",
+      "Business",
+      "Negligence Law",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Law Offices Of John J. Bello, Jr. is a law firm located in New York, New York. They offer free consultations.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Corinne Renee Mahoney",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Rebecca Loyd",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julio E. Urrutiaminguela",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Mcbride",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J. Bello, Jr.",
+          "title": "Lawyer",
+          "email": null,
+          "phone": "516-365-9191",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

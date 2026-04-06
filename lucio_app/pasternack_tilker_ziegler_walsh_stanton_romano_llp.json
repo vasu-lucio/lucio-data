@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Pasternack Tilker Ziegler Walsh Stanton & Romano, LLP",
+    "website": "https://workerslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Social Security Disability",
+      "Personal Injury",
+      "Civil Service Disability Pension",
+      "Union Member Issues"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pasternack Tilker Ziegler Walsh Stanton & Romano, LLP is a New York law firm providing legal services for workers' compensation, social security disability, personal injury, and other related areas. They have over nine decades of experience in defending the rights of New Yorkers.",
+    "notable_facts": [
+      "Served over 100,000 clients",
+      "Obtained billions in awards and settlements",
+      "Established in 1930"
+    ],
+    "technology_signals": [
+      "MySQL",
+      "jQuery",
+      "SoundManager",
+      "PHP",
+      "Nginx",
+      "Apache"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Edgar Romano",
+        "title": "Managing Senior Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Maria Hodzic",
+        "title": "Director, Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Shawn Bryant",
+          "title": "Director, Human Resources",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Ziegler",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barbara Tilker",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Catherine Stanton",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "McCullough, Goldberger & Staudt, LLP",
+    "website": "https://mgslawyers.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Land Use & Environmental Law",
+      "Litigation",
+      "Municipal Law",
+      "Banking Law",
+      "Transactional Real Estate",
+      "Trusts & Estates",
+      "Construction Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "McCullough, Goldberger & Staudt, LLP is a diversified law firm practicing in the areas of Land Use & Environmental Law, Litigation, Municipal Law, Banking Law, Transactional Real Estate, Trusts & Estates, and Construction Law. The firm was established in 1984.",
+    "notable_facts": [
+      "Established in 1984 by the merger of Taylor, McCullough & Geoghegan with Fredericks, Goldberger & Liberman.",
+      "The firm employs 15 people and has an annual revenue of $8.9M."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Seth M. Mandelbaum",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patricia Wetmore Gurahian",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles A. Goldberger",
+          "title": "Senior Counsel",
+          "email": "cgoldberger@mgslawyers.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Staudt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Linda B. Whitehead",
+          "title": "Partner",
+          "email": "lwhitehead@mgslawyers.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M. Wrabel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank S. McCullough, Jr.",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

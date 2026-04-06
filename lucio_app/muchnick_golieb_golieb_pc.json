@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Muchnick, Golieb & Golieb P.C.",
+    "website": "https://www.mggpclaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Domestic and International Tax Planning",
+      "Trusts & Estates",
+      "Transactional Law",
+      "Corporate Law",
+      "Real Estate Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Muchnick, Golieb & Golieb P.C. is a boutique law firm in New York City specializing in federal, state and international tax, trusts and estate planning, and corporate, transactional and real estate law. They serve a diverse group of clients, ranging from individuals to international corporations.",
+    "notable_facts": [
+      "The firm traces its roots back for more than three generations and 100 years.",
+      "The firm's clients choose them over \"BigLaw\" firms for innovative, hands-on guidance tailored to their needs."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Howard Muchnick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Golieb",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zack Kuperwaser",
+          "title": "Partner",
+          "email": "zkuperwaser@mggpclaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meg Golieb Axelrod",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Changyun (Charles) Pan",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

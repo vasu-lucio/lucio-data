@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Menz Bonner Komar & Koenigsberg LLP",
+    "website": "https://www.mbkklaw.com/",
+    "city": "Red Bank",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Arbitration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Menz Bonner Komar & Koenigsberg LLP (MBK&K) is a litigation law firm serving clients in complex commercial litigation and arbitration matters for over twenty years. The firm's mission is to cost-effectively resolve complicated business disputes.",
+    "notable_facts": [
+      "Partners all began their careers at large New York City law firms.",
+      "The firm was established in 2003."
+    ],
+    "technology_signals": [
+      "Technology-driven litigation law firm"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John R. Menz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patrick D. Bonner, Jr.",
+          "title": "Partner",
+          "email": "pbonner@mbkklaw.com",
+          "phone": "732-933-2757",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael S. Komar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David A. Koenigsberg",
+          "title": "Of Counsel",
+          "email": "dkoenigsberg@mbkklaw.com",
+          "phone": "914-949-0222",
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa K. Driscoll",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsay Weibel",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William J. Hagan",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

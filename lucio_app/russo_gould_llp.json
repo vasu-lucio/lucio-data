@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Russo & Gould LLP",
+    "website": "https://www.russogould.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Litigation",
+      "Insurance Matters",
+      "Child Victims Act & Sexual Misconduct Coverage & Defense",
+      "Commercial Litigation",
+      "Construction Accident Liability",
+      "Construction Defect",
+      "Criminal Defense Practice",
+      "Employment Litigation",
+      "Environmental Complex Tort Litigation",
+      "First Party Benefits Defense",
+      "General Property and Casualty Liability",
+      "Insurance Coverage Litigation",
+      "Life, Health and Disability Litigation",
+      "Medical Malpractice / Nursing Home Defense",
+      "Product Liability",
+      "Professional Liability/ E&O/ D&O",
+      "Transportation Liability- Personal and Commercial Auto"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Russo & Gould LLP is a civil litigation firm that defends corporations and individuals across a wide spectrum of civil liability and insurance matters. Founded in 1996 by experienced civil trial attorneys, Russo & Gould LLP provides trusted legal counsel and representation on a wide range of civil liability and insurance matters in New York, Buffalo, New Jersey, Pennsylvania and Connecticut.",
+    "notable_facts": [
+      "Established reputation within the judiciary, legal community and insurance industry.",
+      "Recognized in New York and New Jersey Super Lawyers and Best\u2019s Recommended Insurance Lawyers.",
+      "Attorneys recognized among top legal leaders in the New York Metropolitan Area by the Wall Street Journal and New York Law Journal."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alan S. Russo",
+          "title": "Partner",
+          "email": "arusso@russogould.com",
+          "phone": "212-482-0001 x 120",
+          "linkedin_url": null
+        },
+        {
+          "name": "David S. Gould",
+          "title": "Partner",
+          "email": "dgould@russogould.com",
+          "phone": "212-482-0001 x 131",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Florina Altshiler",
+          "title": "Partner",
+          "email": "faltshiler@russogould.com",
+          "phone": "212-482-0001 x 311",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandra L. Alvarez",
+          "title": "Partner",
+          "email": "aalvarez@russogould.com",
+          "phone": "212-482-0001 x 162",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marie A. Castronuovo",
+          "title": "Partner",
+          "email": "mcastronuovo@russogould.com",
+          "phone": "212-482-0001 x 125",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

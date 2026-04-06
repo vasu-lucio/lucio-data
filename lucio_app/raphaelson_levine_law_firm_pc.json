@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Raphaelson & Levine Law Firm, P.C.",
+    "website": "https://raphaelsonlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Motor Vehicle Accidents",
+      "Mass Transit Accidents",
+      "Construction Accidents",
+      "Slip and Fall Injuries",
+      "Defective Product Injuries",
+      "Toxic Torts",
+      "Medical Negligence",
+      "Truck Accidents",
+      "Pedestrian Injuries",
+      "MTA Accidents"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Raphaelson & Levine Law Firm, P.C. is a boutique, partner-led personal injury firm exclusively focused on serious injury litigation in New York City and Long Island. The firm has helped thousands of New York plaintiffs secure the economic resources they need to treat their injuries, support their families and rebuild their lives after a serious injury.",
+    "notable_facts": [
+      "Founded in 1992",
+      "Has three locations in Manhattan, Queens, and Long Island",
+      "Multilingual intake team (English, Espa\u00f1ol, \u666e\u901a\u8bdd) available 24/7/365",
+      "99% satisfaction rate among past clients"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Howard Raphaelson",
+          "title": "Partner, Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew Levine",
+          "title": "Partner, Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.raphaelsonlaw.com/attorney/andrew-levine"
+        },
+        {
+          "name": "Joseph Taylor",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alicia Brown",
+          "title": "Comptroller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Etheredge",
+          "title": "Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

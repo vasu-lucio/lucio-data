@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Tom Anelli & Associates, PC",
+    "website": "https://www.dwitom.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "DWI Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tom Anelli & Associates, P.C. is a New York State DWI defense firm. They focus solely on assisting those charged with DWI and DWI-related crimes.",
+    "notable_facts": [
+      "Tom Anelli is certified as a field instructor of Field Sobriety Testing and a NHTSA certified practitioner.",
+      "Tom Anelli is the author of the New York Edition of The DUI Book: A Citizen\u2019s Guide to Understanding DWI \u2013 DWI Litigation in America."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Tom Anelli",
+        "title": "CEO/FOUNDER",
+        "email": null,
+        "phone": "800-394-1100",
+        "linkedin_url": "https://www.linkedin.com/in/tom-anelli-9b4b1729"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "James Firenze",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brandon Hellwig",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Prue",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Martinez",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

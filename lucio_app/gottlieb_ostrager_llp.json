@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Gottlieb Ostrager LLP",
+    "website": "https://www.golawllp.com/",
+    "city": "Westchester",
+    "practice_areas": [
+      "Commercial Collection Litigation",
+      "Insurance Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gottlieb Ostrager LLP is a law firm with offices in Westchester and Long Island, New York that practices in commercial collection litigation and insurance litigation throughout New York State. The attorneys at Gottlieb Ostrager LLP are committed to meeting the needs of clients by getting results in a professional, cost efficient manner.",
+    "notable_facts": [
+      "The firm was built on the foundation of a friendship begun between the two founding partners in middle school."
+    ],
+    "technology_signals": [
+      "Utilizes a sophisticated, state-of-the-art technology platform to efficiently process, monitor and manage claims"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Warren S. Gottlieb",
+          "title": "Co-founding Partner",
+          "email": "WGottlieb@golawllp.com",
+          "phone": "914 909-4646 x 401",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Ostrager",
+          "title": "Co-founding Partner",
+          "email": "email@email.com",
+          "phone": "631-652-6873",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laura Weiss",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Tobia",
+          "title": "Client Relations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

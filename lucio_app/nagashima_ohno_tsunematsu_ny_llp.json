@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Nagashima Ohno & Tsunematsu NY LLP",
+    "website": "https://www.noandt.com/en/",
+    "city": "New York",
+    "practice_areas": [
+      "Mergers and Acquisition",
+      "Minority Investments",
+      "Joint Ventures",
+      "Strategic Alliances",
+      "Private Equity",
+      "Intellectual Property",
+      "Labor and Employment",
+      "Real Estate",
+      "Banking and Finance",
+      "Securitization",
+      "Capital Market",
+      "Dispute Resolutions",
+      "Insolvency",
+      "TMT",
+      "Space",
+      "Entertainment",
+      "Regulated Businesses"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Nagashima Ohno & Tsunematsu was established in 2000 with the philosophy of addressing legal issues arising out of the increasingly complex global business community by combining the individual talents of our lawyers to offer legal services of the highest quality. Nagashima Ohno & Tsunematsu NY LLP (\u201cNO&T NY\u201d) succeeded Masuda International, founded by Mr. Junji Masuda in 1992.",
+    "notable_facts": [
+      "Established on September 1, 2010, Nagashima Ohno & Tsunematsu NY LLP (\u201cNO&T NY\u201d) succeeded Masuda International, founded by Mr. Junji Masuda in 1992."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Hironobu Tsukamoto",
+        "title": "Co-Head of Office",
+        "email": null,
+        "phone": "+1-212-258-3333",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ryo Okubo",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1-212-258-3333",
+          "linkedin_url": null
+        },
+        {
+          "name": "Fumihide Sugimoto",
+          "title": "Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hiroki Inoue",
+          "title": "Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Soichiro Fujiwara",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

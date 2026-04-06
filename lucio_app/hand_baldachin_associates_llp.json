@@ -1,0 +1,115 @@
+{
+  "firm_data": {
+    "firm_name": "Hand Baldachin & Associates LLP",
+    "website": "https://www.hballp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Fashion & Lifestyle",
+      "Intellectual Property",
+      "Media & Technology",
+      "Mergers & Acquisitions",
+      "Outside General Counsel",
+      "Retail Leasing",
+      "Venture Capital"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "HBA is a full service, boutique law firm with global reach based in New York City. Our clients include founders, creators and investors driving change across media, technology, fashion, retail and lifestyle businesses.",
+    "notable_facts": [
+      "The firm focuses on deals across several industries including: media; sports and entertainment; fashion and lifestyle brands; publishing as well as technology and healthcare including life sciences.",
+      "HBA combines the sophistication and expertise of a traditional Wall Street law firm with the responsiveness and focus of a boutique."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mike Cavanaugh",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alan Baldachin",
+          "title": "Partner",
+          "email": "info@hballp.com",
+          "phone": "212-956-9541",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathey Guo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas Hand",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Michaels",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Peken",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Pieri",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc Reiner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Scott",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

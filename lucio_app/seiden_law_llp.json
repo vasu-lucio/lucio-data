@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Seiden Law LLP",
+    "website": "https://seidenlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "International Litigation",
+      "Arbitration",
+      "Judgment Enforcement",
+      "Cross-Border Disputes & Transactions",
+      "Economic Sanctions",
+      "Complex Commercial Litigation",
+      "US and International Arbitration",
+      "Trials & Appeals",
+      "Investigations & White Collar",
+      "Anti-Terrorism Litigation",
+      "Pro Bono Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Seiden Law LLP is a global law firm headquartered in Manhattan specializing in high stakes litigation, arbitration, judgment enforcement, cross-border disputes & transactions, and economic sanctions. They work on behalf of companies, governments, high-net-worth individuals and defrauded investors and creditors.",
+    "notable_facts": [
+      "The firm has a global reach.",
+      "Seiden Law has won multiple trials in US courts in the past two years, including against top global law firms.",
+      "The firm's team is diverse and multi-lingual, speaking Chinese, Spanish, German, Russian, French, Hebrew, Korean, Italian, Portuguese, and Arabic."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert Seiden",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "+1 212 523 0669",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Allen Glenn",
+        "title": "Director of Finance & Administration",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Stolper",
+          "title": "Partner, Chief Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Blecher",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren J. Elliot",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dov Gold",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amiad Kushner",
+          "title": "Partner, Head of Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel McGillycuddy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jake Nachmani",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

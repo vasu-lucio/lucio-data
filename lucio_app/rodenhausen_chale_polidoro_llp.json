@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Rodenhausen Chale & Polidoro LLP",
+    "website": "http://www.rodenhausenchale.com/",
+    "city": null,
+    "practice_areas": [
+      "Land Use and Zoning",
+      "Environmental Law",
+      "Municipal and Public Authority Law",
+      "Not-for-Profit Corporation Law",
+      "Conservation and Preservation",
+      "Bond Counsel"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rodenhausen Chale & Polidoro LLP is a firm of experienced and highly focused attorneys ready to work hard to help you achieve your goals, with a wide-ranging practice focused on land use, environmental, municipal and municipal finance law.",
+    "notable_facts": [
+      "Negotiated the New York City Watershed Agreement.",
+      "Formed the East of Hudson Watershed Corporation.",
+      "Successfully defended the New Paltz wetlands law from constitutional challenge.",
+      "Successfully argued the Supreme Court Middlefield case giving towns the right to ban fracking through their zoning laws."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christine M. Chale",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victoria L. Polidoro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Janis M. Gomez Anderson",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cassondra Britton",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

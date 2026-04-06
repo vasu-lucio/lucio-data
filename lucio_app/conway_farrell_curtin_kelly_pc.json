@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Conway, Farrell, Curtin & Kelly, P.C.",
+    "website": "https://conwayfarrell.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate Practice",
+      "Construction Law",
+      "General Liability",
+      "Insurance Law",
+      "Real Estate",
+      "School, Foster Care, Religious and Not-For-Profit Corp."
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Conway, Farrell, Curtin & Kelly, P.C. is a law firm that represents clients in the New York metropolitan area since 1948. The firm provides clients with innovative, practical legal advice that is cost-effective and tailored to meet each client\u2019s needs.",
+    "notable_facts": [
+      "Established in 1948",
+      "Offices in Wall Street and Rockville Centre, Long Island",
+      "Represents Fortune 50 companies, municipalities, and educational institutions"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Darrell John",
+        "title": "Managing Partner",
+        "email": "djohn@conwayfarrell.com",
+        "phone": "212-993-9346",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Caitlin McDonough",
+        "title": "Managing Partner",
+        "email": "cmcdonough@conwayfarrell.com",
+        "phone": "212-993-9355",
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "James Conway",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jim Flood",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Cindy Varrecchia",
+          "title": "Managing Partner",
+          "email": "cvarrecchia@conwayfarrell.com",
+          "phone": "212-993-9351",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

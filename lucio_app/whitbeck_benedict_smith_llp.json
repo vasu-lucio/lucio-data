@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Whitbeck Benedict & Smith LLP",
+    "website": "https://wbsllp.com/",
+    "city": "Hudson, New York",
+    "practice_areas": [
+      "Real Estate Transactions & Real Property",
+      "Land Use & Zoning",
+      "Permitting & Regulatory Compliance",
+      "Municipal & Public Authority Law",
+      "Civil Litigation",
+      "Wills, Trust & Estates",
+      "Business Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Whitbeck Benedict & Smith LLP (formerly Rapport Meyers LLP) represents individuals, businesses, government entities, and community organizations throughout the Hudson Valley. Since 1936, the firm has maintained a diverse, sophisticated practice, assisting clients with transactions, litigation, and administrative proceedings.",
+    "notable_facts": [
+      "The firm was founded in 1936.",
+      "The firm serves clients throughout the Hudson Valley.",
+      "The firm provides legal services for public entities, large corporate entities, and individuals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Virginia D. Benedict",
+        "title": "Managing Partner",
+        "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carl G. Whitbeck, Jr.",
+          "title": "Senior Counsel",
+          "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Corinne R. Smith",
+          "title": "Partner",
+          "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

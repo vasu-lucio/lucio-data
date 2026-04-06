@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "The Bongiorno Law Firm, PLLC",
+    "website": "https://thebongiornolawfirm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Construction Accidents",
+      "Car Accidents",
+      "Slip and Fall",
+      "Trip and Fall",
+      "Premises Liability",
+      "Medical Malpractice",
+      "Motorcycle Injuries",
+      "Nursing Home Negligence",
+      "Dog Bites",
+      "Sexual Harassment",
+      "Sexual Abuse"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Bongiorno Law Firm, PLLC, has spent decades helping New Yorkers rebuild after serious injuries. Their team protects client's rights, guides them through the legal process, and fights for the justice they deserve.",
+    "notable_facts": [
+      "Over $500 Million Recovered for Accident Victims",
+      "Attorneys bring over a century of combined courtroom experience",
+      "Firm was founded in 1988"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Brandon Cruz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter Bongiorno",
+          "title": "Partner / Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://thebongiornolawfirm.com/lawyer/peter-bongiorno/"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard M. Bongiorno",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/richard-bongiorno-a35591aa"
+        },
+        {
+          "name": "John Miras",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keri Lynn Timlin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard J. Bongiorno",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

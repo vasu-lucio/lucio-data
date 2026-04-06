@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Seelig Law Offices, LLC",
+    "website": "https://pseeliglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Social Security Disability",
+      "Disability Pensions",
+      "Discrimination Matters",
+      "Personal Injury",
+      "Employment Law",
+      "Matrimonial/Divorce Matters",
+      "World Trade Center Disability",
+      "Long Term Private Disability Insurance Cases",
+      "Pension Claims",
+      "Car Accidents",
+      "Slip and Falls",
+      "Medical Malpractice",
+      "Negligence Claims",
+      "Real Estate Matters",
+      "Criminal Law Cases",
+      "Contract Formation and Disputes",
+      "Business Immigration",
+      "Family Law",
+      "Workers' Compensation"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Seelig Law Offices, LLC is a New York City law firm assisting clients with Social Security Disability, Disability Pensions, Discrimination Matters, Personal Injury, Employment Law and much more. The attorneys of Seelig Law Offices, LLC assist clients with Social Security Disability, Civil Service Disability, Pension Claims, Personal Injury, Workers' Compensation, Employment Law, Immigration, Criminal Cases, Family Law, Medical Malpractice and Real Estate Matters throughout New York City including Manhattan, Queens, Brooklyn, Bronx and Staten Island.",
+    "notable_facts": [
+      "Founded in 2011",
+      "Offers free, no obligation consultation for clients who want to discuss information regarding disability benefits"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Philip Seelig",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Seelig",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/richardseelig"
+        },
+        {
+          "name": "Joshua Gohari",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

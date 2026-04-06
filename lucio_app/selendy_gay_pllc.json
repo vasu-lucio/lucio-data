@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Selendy Gay PLLC",
+    "website": "https://www.selendygay.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust",
+      "Appellate",
+      "Bankruptcy and Insolvency",
+      "Complex Commercial Disputes",
+      "Corporate Governance and Shareholder Rights",
+      "Cross-Border Disputes",
+      "Insurance",
+      "Private Equity, Venture Capital, and Hedge Funds",
+      "Corporate Defense and Investigations",
+      "Securities and Structured Finance"
+    ],
+    "lawyer_count": 139,
+    "firm_description": "Selendy Gay's practice is dedicated to excellence in commercial litigation, investigations, appellate advocacy, and arbitration. Through critical thinking and collaboration, they offer an unmatched plaintiffs\u2019 practice combined with a premier defense practice.",
+    "notable_facts": [
+      "Recovered $40+ Billion for clients",
+      "Named \"Litigators of the Week\" by The American Lawyer for securing approximately $811 million for the former shareholders of Auris Health.",
+      "The firm was founded in 2018."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jennifer Selendy",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/faith-gay-5287065"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Faith Gay",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/faith-gay-5287065"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Temidayo Aganga-Williams",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria Ginzburg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

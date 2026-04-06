@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Borchert & LaSpina, P.C.",
+    "website": "https://www.borchertandlaspina.com/",
+    "city": "Whitestone",
+    "practice_areas": [
+      "Real Estate",
+      "Mortgage Foreclosure",
+      "Commercial Litigation",
+      "Personal Injury",
+      "Elder Law",
+      "Real Estate Litigation",
+      "Appellate Practice",
+      "Estate Planning"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Borchert & LaSpina, P.C. is a respected law firm based in Queens, New York providing personal service tailored to legal needs. The firm's attorneys practice in multiple areas of law, including real estate, mortgage foreclosure, commercial litigation, personal injury, and elder law.",
+    "notable_facts": [
+      "The firm has over 100 years of combined trusted legal experience.",
+      "Borchert & LaSpina, P.C. has its origins in the 1940s.",
+      "The firm has an A.V. rating bestowed on it by Martingale-Hubbell Law Directory."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory M. LaSpina",
+        "title": "Partner",
+        "email": "glaspina@blpcny.com",
+        "phone": "718.767.3333",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason Sackoor",
+          "title": "Partner",
+          "email": "jsackoor@blpcny.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward A. Vincent",
+          "title": "Partner",
+          "email": "evincent@blpcny.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert W. Frommer",
+          "title": "Partner",
+          "email": "rfrommer@blpcny.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Helmut Borchert",
+          "title": "Senior Counsel (Of Counsel)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://dk.linkedin.com/company/borchert-&-laspina-p.c."
+  },
+  "email": {}
+}

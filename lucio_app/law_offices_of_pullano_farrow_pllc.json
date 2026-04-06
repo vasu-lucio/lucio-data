@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Pullano & Farrow PLLC",
+    "website": "https://lawpf.com/",
+    "city": "East Rochester",
+    "practice_areas": [
+      "Corporate Law",
+      "Labor & Employment",
+      "Health Care",
+      "Trusts & Estates",
+      "Litigation"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Law Offices of Pullano & Farrow PLLC is a full-service law firm focusing its practice on general corporate matters, trusts & estates, and healthcare business issues. The firm was founded in 2013 to deliver top-quality legal representation to clients locally, regionally, and across the country.",
+    "notable_facts": [
+      "The firm was founded in 2013.",
+      "The firm has 20 employees.",
+      "The firm focuses on a collaborative, team-based approach."
+    ],
+    "technology_signals": [
+      "recognize",
+      "medium",
+      "amp",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patrick Pullano",
+          "title": "Attorney",
+          "email": "ppullano@lawpf.com",
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/patrick-pullano-3905299"
+        },
+        {
+          "name": "Langston McFadden",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/langston-mcfadden-80975616"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Quinn McCabe LLP",
+    "website": "https://quinnmccabe.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Real Estate",
+      "Construction",
+      "Corporate Services",
+      "Project Contract Services",
+      "Litigation and Dispute Resolution Services",
+      "General Counseling Services"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Quinn McCabe LLP is a law firm serving the design, development, and construction industries, offering strategic legal advice to its clients. The firm's attorneys advise clients on how to minimize risk and maximize potential for each of their projects.",
+    "notable_facts": [
+      "Founded in 2006 by Matthew S. Quinn and Christopher P. McCabe",
+      "The firm's attorneys work side by side with owners, developers, architects, engineers, construction managers, contractors and other design and construction professionals.",
+      "Quinn McCabe has an unmatched combination of legal expertise and deep knowledge of the design and construction process."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Matthew S. Quinn",
+          "title": "Founding Partner",
+          "email": "mquinn@QMlegal.com",
+          "phone": "212-447-5510",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher P. McCabe",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Simon Block",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Henry Krukas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric A Thorsen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Sanford Heisler Sharp McKnight, LLP",
+    "website": "https://sanfordheisler.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Discrimination",
+      "Sexual Harassment",
+      "Wage and Hour Violations",
+      "Whistleblower Claims",
+      "Sexual Violence",
+      "401(k)/Pension Mismanagement",
+      "Financial Services Litigation",
+      "Civil Rights",
+      "Class Actions"
+    ],
+    "lawyer_count": 87,
+    "firm_description": "Sanford Heisler Sharp McKnight, LLP is a law practice committed to representing clients in claims against powerful entities, focusing on civil rights and employee-side civil litigation. The firm has achieved significant results for clients in and outside the courtroom, with recognition from leaders across the legal community.",
+    "notable_facts": [
+      "The firm was founded in 2004.",
+      "The firm has offices across the country and lawyers who can represent clients in every jurisdiction in the U.S.",
+      "The firm has a diverse team, with over half of its attorneys being women and 41% being people of color."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David H. Tracey",
+        "title": "Firm Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Saba Bireda",
+        "title": "Co-Managing Partner of the Washington, DC Office",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Alec Konstantin",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Greene",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

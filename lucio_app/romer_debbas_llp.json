@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Romer Debbas LLP",
+    "website": "https://romerdebbas.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate Law",
+      "Real Estate Finance",
+      "Commercial Real Estate",
+      "Residential Real Estate",
+      "Litigation",
+      "Business & Corporate",
+      "Trusts & Estates",
+      "Affordable Housing",
+      "Agency Lending",
+      "Co-op/Condo Board Representation",
+      "Immigration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Romer Debbas, LLP is a full-service real estate law firm representing domestic and international clients ranging from individuals to prominent institutions. The firm focuses on both commercial and residential real estate, real estate finance, entity and trust formation, and real estate related litigation.",
+    "notable_facts": [
+      "Romer Debbas is consistently ranked by The Real Deal as one of New York City\u2019s top real estate law firms based on volume.",
+      "The firm is also ranked by U.S. News & World Report as one of the top real estate law firms in the country.",
+      "Several of the firm's attorneys have been named in Super Lawyers, Best Lawyers, U.S. News & World Report, Crain\u2019s Notable Leaders in Real Estate, Crain\u2019s Notable Leaders in Law, AV Rated by Martindale Hubbleand Leaders in the Law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael J. Romer",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/michaelromer"
+      },
+      "co_managing_partner": {
+        "name": "Pierre E. Debbas",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Guy Arad",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Tadros Awad",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

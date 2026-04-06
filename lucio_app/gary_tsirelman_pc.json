@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Gary Tsirelman, P.C.",
+    "website": null,
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Estate",
+      "Accident & Injury",
+      "Lawsuit & Dispute",
+      "Health Care"
+    ],
+    "lawyer_count": 1,
+    "firm_description": "Gary Tsirelman, P.C. is a law firm in Brooklyn, NY.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gary Tsirelman",
+        "title": "Business Owner",
+        "email": null,
+        "phone": "718-438-1200",
+        "linkedin_url": "https://www.linkedin.com/in/gary-tsirelman-0b934a155"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Darya Klein",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jung Frederick Pryjma",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stefan Michael Belinfanti",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Susan Marie Brice",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

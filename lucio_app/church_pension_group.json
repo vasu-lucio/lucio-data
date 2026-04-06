@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Church Pension Group",
+    "website": "http://www.cpg.org",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The Church Pension Group (CPG) provides benefits, services, and solutions to The Episcopal Church.",
+    "notable_facts": [
+      "CPG's leaders bring a broad range of expertise and a deep connection to The Episcopal Church.",
+      "The Church Pension Fund Board of Trustees serves as CPG's governing body."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Frank P. Armstrong",
+        "title": "EVP, COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mary Kate Wold",
+          "title": "CEO & President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julian Chung",
+          "title": "Executive Vice President, Chief Legal Officer & Corporate Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen M. Taggart",
+          "title": "EVP, CFO & Treasurer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Hood",
+          "title": "EVP, Chief Investment Officer & MD",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia S. Favreau",
+          "title": "EVP & Chief Communications Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Cellino Law",
+    "website": "https://www.cellinolaw.com/",
+    "city": "Manhattan",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accidents",
+      "Slip and Fall Accidents",
+      "Workplace Injuries",
+      "Rideshare Accidents",
+      "Pedestrian Accidents",
+      "Bicycle Accidents",
+      "Truck Accidents",
+      "Motorcycle Accidents",
+      "Catastrophic Injuries"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cellino Law is a personal injury law firm serving accident victims throughout New York, Connecticut, New Jersey, and Pennsylvania. The firm has roots dating back to 1956.",
+    "notable_facts": [
+      "Ross Cellino, Sr. started practicing law in 1956 and founded Cellino & Likoudis in 1958.",
+      "Cellino Law has 9 office locations.",
+      "Ross Cellino now heads Cellino Law which focuses his practice on personal injury."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ross Cellino",
+        "title": "Senior Trial Attorney / Partner",
+        "email": null,
+        "phone": "888-888-8888",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ross Cellino, Sr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Timothy Cellino",
+          "title": "Attorney at Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Annmarie Cellino",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brigitte Cellino",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeanna Cellino",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

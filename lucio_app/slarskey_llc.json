@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Slarskey LLC",
+    "website": "https://www.slarskey.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Alternative Dispute Resolution",
+      "Plaintiff-Side Class Action"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Slarskey LLC is a New York-based litigation boutique focused on high-stakes, high-impact disputes for clients ranging from emerging companies to global institutions. The firm is highly regarded for its work in commercial litigation and alternative dispute resolution.",
+    "notable_facts": [
+      "Founded in 2014",
+      "The firm has a thriving plaintiff-side class action practice",
+      "The firm emphasizes that litigation can be an asset that adds value rather than an expensive burden"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Slarskey",
+          "title": "Partner",
+          "email": "dslarskey@slarskey.com",
+          "phone": "646.893.6082",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Emma Beach",
+        "title": "Director of Operations",
+        "email": "ebeach@slarskey.com",
+        "phone": "646.347.3031",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Renee Bea",
+          "title": "Partner",
+          "email": "rbea@slarskey.com",
+          "phone": "646.893.1700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Fried",
+          "title": "Partner",
+          "email": "efried@slarskey.com",
+          "phone": "646.893.6083",
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Hollander",
+          "title": "Partner",
+          "email": "ahollander@slarskey.com",
+          "phone": "646.893.0482",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ricky Weingarten",
+          "title": "Partner",
+          "email": "rweingarten@slarskey.com",
+          "phone": "646.347.3033",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

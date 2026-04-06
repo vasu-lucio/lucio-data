@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Nave Law Firm",
+    "website": "https://naveteam.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Education Law",
+      "DWI",
+      "Guns & Firearms",
+      "Traffic Offenses",
+      "Criminal Defense",
+      "License Matters",
+      "Civil Litigation",
+      "Divorce",
+      "Family Law",
+      "Traffic Ticket"
+    ],
+    "lawyer_count": 22,
+    "firm_description": "Nave Law Firm is a local, focused, affordable, and personal representation firm that offers a wide variety of legal services. They are dedicated to everyday people's problems and relentless focus on service, and they advocate for people, their community, and a better tomorrow.",
+    "notable_facts": [
+      "Founded in 2018",
+      "The Legal Management Committee brings together elected attorney leaders and appointed non-attorney executives to guide the firm\u2019s strategic direction",
+      "Offer 24/7 access to their team"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dennis Nave",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Sean Kelsey",
+        "title": "Chief Executive Officer",
+        "email": "skelsey@naveteam.com",
+        "phone": "+1-866-792-7800",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Bisson",
+          "title": "Chief Legal Operating Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aim\u00e9e Tarin",
+          "title": "Chief Impact Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

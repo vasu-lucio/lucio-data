@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Scolaro Fetter Grizanti & McGough, P.C.",
+    "website": "https://scolaro.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Agricultural Legal Services",
+      "Business & Tax Legal Counsel",
+      "Employee Benefits & Executive Compensation",
+      "Estate Planning, Trusts & Estate Administration",
+      "Family Law",
+      "Commercial Real Estate & Land Use Law",
+      "Business Law",
+      "Estate Planning",
+      "Tax Law",
+      "Corporate Law",
+      "Mergers and Acquisitions Law",
+      "Timber Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Scolaro Fetter Grizanti & McGough, P.C. is a law firm providing tax, business, litigation, and estate planning services in Syracuse, NY. The firm was established in 1979 and offers legal support encompassing tax, estate, and business law.",
+    "notable_facts": [
+      "Established in 1979",
+      "The firm's Tax, Business, Employee Benefit and Estate and Trust departments are among the largest in the area."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey M. Fetter",
+        "title": "President",
+        "email": "jfetter@scolaro.com",
+        "phone": "(315) 477-6256",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel J. Fetter",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony J. Grizanti",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stewart M. McGough",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alyssa M. Christian",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

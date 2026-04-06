@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "McDonnell Adels & Klestzick, PLLC",
+    "website": "https://www.maklawpc.com/",
+    "city": "Garden City",
+    "practice_areas": [],
+    "lawyer_count": 15,
+    "firm_description": "McDonnell Adels & Klestzick, PLLC emphasizes client service and interests, offering extensive experience in trial and appellate courts, thorough knowledge of the law, common sense, and good judgment. They strive to reach fair settlements and aggressively litigate when necessary.",
+    "notable_facts": [
+      "The firm has been at the forefront of the battle against insurance fraud for over a quarter of a century.",
+      "They have obtained some of the most significant decisions in the field of insurance fraud."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Evan W. Klestzick",
+        "title": "Senior Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Patrick J. McDonnell",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Adels",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Edward M. Ryan",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stuart M. Flamen",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Hanratty",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

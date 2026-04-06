@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Purrington Moody Weil",
+    "website": "http://www.pmw-legal.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Investment fund formation and management",
+      "Raising and deploying capital"
+    ],
+    "lawyer_count": 37,
+    "firm_description": "Purrington Moody Weil is dedicated to serving the legal needs of the most sophisticated investment funds and institutional investors in the world. They manage and minimize legal risk for their clients so they can maximize their financial returns.",
+    "notable_facts": [
+      "The firm was founded in 2000.",
+      "They specialize in serving investment funds and institutional investors.",
+      "They have offices in New York and North Carolina."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Nick Purrington",
+          "title": null,
+          "email": "npurrington@pmw-legal.com",
+          "phone": "336.510.5881",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Moody",
+          "title": null,
+          "email": "dmoody@pmw-legal.com",
+          "phone": "212.431.7010",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tess Weil",
+          "title": null,
+          "email": "tweil@pmw-legal.com",
+          "phone": "212.431.1934",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Harrison Hall",
+          "title": "Partner",
+          "email": "hhall@pmw-legal.com",
+          "phone": "336.235.0454",
+          "linkedin_url": null
+        },
+        {
+          "name": "Meredith L. Jewitt",
+          "title": "Partner",
+          "email": "mjewitt@pmw-legal.com",
+          "phone": "212.431.1318",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

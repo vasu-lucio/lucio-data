@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Kevin P. Westerman",
+    "website": "https://opengovny.com/attorney?company=LAW+OFFICES+OF+KEVIN+P.+WESTERMAN",
+    "city": "Elmsford",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Law Offices of Kevin P. Westerman is a New York State Registered Attorney located in Elmsford, NY.",
+    "notable_facts": [
+      "Kevin Patrick Westerman has 29 years of experience.",
+      "The firm has two locations: Elmsford and White Plains, NY."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin Patrick Westerman",
+          "title": "Lawyer",
+          "email": null,
+          "phone": "(914) 409-0163",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

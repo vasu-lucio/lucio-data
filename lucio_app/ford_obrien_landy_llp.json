@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Ford O'Brien Landy LLP",
+    "website": "https://www.fordobrien.com/",
+    "city": "New York",
+    "practice_areas": [
+      "White-Collar Criminal Defense",
+      "Commercial Litigation",
+      "Regulatory Investigation & Defense",
+      "Digital Asset Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ford O'Brien Landy LLP is a litigation boutique with offices in New York, Austin, and Miami. They focus their practice on representing clients in high-stakes commercial disputes, and defending clients that are subject to regulatory investigative, and enforcement proceedings as well as prosecution for white-collar crimes.",
+    "notable_facts": [
+      "Attorneys have successfully navigated clients through many high-profile financial, securities fraud, and cross-border matters.",
+      "Victories have included a full acquittal after a federal criminal trial of a hedge fund CFO."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam C. Ford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Aaron Ford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Noah D. Genel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ren\u00e9e L. Jarusinsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Landy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin J. O\u2019Brien",
+          "title": "Partner",
+          "email": "kobrien@fordobrien.com",
+          "phone": "212-444-4892",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

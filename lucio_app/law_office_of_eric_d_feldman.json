@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Office Of Eric D. Feldman",
+    "website": null,
+    "city": "Melville",
+    "practice_areas": [
+      "General Practice"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "The Law Office Of Eric D. Feldman is a law firm in Melville, NY.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric D Feldman",
+          "title": "General Practice",
+          "email": null,
+          "phone": "631-501-3023",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dominic Paul Zafonte",
+          "title": "General Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

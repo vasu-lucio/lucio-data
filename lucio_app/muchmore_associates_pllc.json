@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Muchmore & Associates PLLC",
+    "website": "https://muchmorelaw.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Real Estate",
+      "Construction",
+      "Business Partnerships",
+      "Employment",
+      "Insurance",
+      "Appeals",
+      "Arbitration"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Muchmore & Associates PLLC is a commercial litigation boutique based in New York. We represent businesses and their owners in litigation, arbitration, and appeals.",
+    "notable_facts": [
+      "Founded in 2014",
+      "Represents clients in litigation, arbitration, and appeals",
+      "Negotiates contracts and resolves disputes without litigation"
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew Muchmore",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sophie Q Wang",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

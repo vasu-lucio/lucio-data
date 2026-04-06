@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Bartlett LLP",
+    "website": "https://www.bartlettllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Tort",
+      "Insurance",
+      "Commercial Matters",
+      "Litigation",
+      "Trial",
+      "Appeals"
+    ],
+    "lawyer_count": 35,
+    "firm_description": "Bartlett LLP, founded in 1991, has a reputation for excellence in litigation, trial, and appeals of tort, insurance, and commercial matters. The firm has approximately 35 lawyers in five offices covering all federal and state courts throughout the States of New York, New Jersey, and Florida and represents clients nationally.",
+    "notable_facts": [
+      "Represents clients nationally.",
+      "Has over 100 reported decisions at the appellate level.",
+      "Founded in 1991."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lou Tassan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert F. Elliott",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric N. Bailey",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth T. Bierman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Susan B. Boland",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bartlettllp"
+  },
+  "email": {}
+}

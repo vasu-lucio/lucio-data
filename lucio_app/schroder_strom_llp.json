@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "SCHRODER & STROM, LLP",
+    "website": "nytaxreview.com",
+    "city": "Garden City",
+    "practice_areas": [
+      "Real Estate Tax",
+      "Commercial Property Tax Appeals",
+      "Residential Property Tax Appeals"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Schroder & Strom, LLP is a law firm based in Garden City, New York, specializing in commercial and residential property tax appeals, representing clients throughout New York State and nationwide. They provide real estate tax counsel and litigation for various commercial properties and represent developers and tenants.",
+    "notable_facts": [
+      "Founded in 2000",
+      "Represents clients ranging from national real estate developers to individual homeowners",
+      "Specializes in real estate tax counsel and litigation for commercial properties"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony Forzaglia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "linkedin.com/company/schroder-%26-strom-llp"
+        },
+        {
+          "name": "Christopher Byrnes",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Strom",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(516) 742-7430",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Todd Schroder",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(516) 850-8880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Carl Packard",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Clay Mohlenhoff",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Patrick Spellman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

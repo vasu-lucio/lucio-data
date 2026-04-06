@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Sher Tremonte LLP",
+    "website": "https://shertremonte.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Commercial Disputes",
+      "High-Stakes Investigations",
+      "White Collar Regulatory and Criminal Matters"
+    ],
+    "lawyer_count": 44,
+    "firm_description": "Sher Tremonte LLP provides highly skilled representation to individuals and companies in complex business litigation, internal investigations and white collar regulatory and criminal matters. Sher Tremonte is dedicated to achieving successful outcomes through meticulous preparation, thoughtful counseling and vigorous advocacy.",
+    "notable_facts": [
+      "Founded in 2011",
+      "Recognized by Chambers USA as having a \u201creally strong bench\u2026of exceptional lawyers\u201d",
+      "Frequently called on by boards and executives from across the market"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Justin Sher",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Tremonte",
+          "title": "Partner & Co-founder",
+          "email": "mtremonte@shertremonte.com",
+          "phone": "+1 212 202 2603",
+          "linkedin_url": "https://www.linkedin.com/in/michael-tremonte-5979694/"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Noam Biale",
+          "title": "Partner",
+          "email": "nbiale@shertremonte.com",
+          "phone": "+1 212 300 2445",
+          "linkedin_url": "https://www.linkedin.com/in/noam-biale-768b42a/"
+        },
+        {
+          "name": "Mark Cuccaro",
+          "title": "Partner",
+          "email": "mcuccaro@shertremonte.com",
+          "phone": "+1 212 202 2628",
+          "linkedin_url": "https://www.linkedin.com/in/mark-cuccaro-8194a05/"
+        },
+        {
+          "name": "Justin J. Gunnell",
+          "title": "Partner",
+          "email": "jgunnell@shertremonte.com",
+          "phone": "+1 212 202 2614",
+          "linkedin_url": "https://www.linkedin.com/in/justin-gunnell-94494214/"
+        },
+        {
+          "name": "Douglas R. Jensen",
+          "title": "Partner",
+          "email": "djensen@shertremonte.com",
+          "phone": "+1 212 300 7504",
+          "linkedin_url": "https://www.linkedin.com/in/douglas-jensen-59404a9/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

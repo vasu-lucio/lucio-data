@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "Zelenitz, Shapiro & D\u2019Agostino, P.C.",
+    "website": "https://zsdlaw.com/",
+    "city": "Briarwood",
+    "practice_areas": [
+      "Elder Law",
+      "Nursing Home Abuse",
+      "Family Law",
+      "Personal Injury",
+      "Landlord/Tenant",
+      "Criminal Defense",
+      "Real Estate"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Zelenitz, Shapiro & D\u2019Agostino, P.C. is a general litigation firm that focuses on elder law, nursing home abuse, family law, personal injury, landlord/tenant, criminal defense, and real estate. The lawyers at Zelenitz, Shapiro & D'Agostino, P.C. care about their clients and the quality of their legal work.",
+    "notable_facts": [
+      "Founded in 1998",
+      "Located in the greater metropolitan New York City area",
+      "Handle all types of legal issues, such as personal injury claims, general civil and commercial litigation, real estate transactions and litigation, domestic relations, landlord \u2013 tenant legal matters, bankruptcy and criminal defense."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bradley M. Zelenitz",
+        "title": "Partner",
+        "email": null,
+        "phone": "(718) 523-1111",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David A. Shapiro",
+          "title": "Partner",
+          "email": "Info@zsdlaw.com",
+          "phone": "(718) 523-1111",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

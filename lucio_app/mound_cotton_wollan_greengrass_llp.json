@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Mound Cotton Wollan & Greengrass LLP",
+    "website": "https://moundcotton.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Coverage and Litigation",
+      "Reinsurance",
+      "Healthcare Professional Liability",
+      "Construction",
+      "General Commercial Litigation",
+      "Corporate/Insurance Regulatory",
+      "Business, Securities, and Commodities",
+      "Director & Officer/Professional Liability"
+    ],
+    "lawyer_count": 94,
+    "firm_description": "Mound Cotton Wollan & Greengrass LLP is a law firm in New York City that offers preeminent legal services in a wide array of practice areas. Founded in 1933, the firm is known for its insurance, reinsurance, and commercial litigation practices.",
+    "notable_facts": [
+      "Founded in 1933",
+      "Headquartered in New York's Financial District",
+      "Offers legal services in insurance, reinsurance, and commercial litigation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Matt Bruck",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Wayne R. Glaubinger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lloyd A. Gura",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip C. Silverberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Costantino P. Suriano",
+          "title": "Partner, Executive Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christina Jackson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jodi S. Tesser",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

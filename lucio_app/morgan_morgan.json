@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Morgan & Morgan, P.A.",
+    "website": "https://forthepeople.com/",
+    "city": "Orlando",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": 1000,
+    "firm_description": "Morgan & Morgan, P.A. is America's Largest Personal Injury Law Firm, providing legal services for individuals with personal injury. With over 1,000 lawyers, the firm offers 24/7 free consultation and has recovered over $25 billion for its clients.",
+    "notable_facts": [
+      "Offices across 50 states + Washington D.C.",
+      "Founded in 1988",
+      "Recovered $25 Billion dollars for clients"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dan Morgan",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John B. Morgan",
+          "title": "Founder & Attorney",
+          "email": "johnmorgan@forthepeople.com",
+          "phone": "(407) 420-1414",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ultima Morgan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mike Morgan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

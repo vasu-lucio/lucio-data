@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "CRONIN & CRONIN LAW FIRM, PLLC",
+    "website": "https://cronintaxlaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Tax Certiorari Law",
+      "Real Estate Law"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Cronin & Cronin Law Firm, PLLC is a Legal Services company focused on property tax reduction. The firm provides personal attention to address the individual needs of each client's case.",
+    "notable_facts": [
+      "The firm was founded by Brad W. Cronin.",
+      "The firm employs 12 people.",
+      "The firm represents New York developers, property owners, national corporations, REITs and retail chains."
+    ],
+    "technology_signals": [
+      "Uses Microsoft"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Brad W. Cronin",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": "(516) 747-2220",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Cara P. Cronin",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "(516) 747-2220",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean M. Cronin",
+          "title": "Founding p",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

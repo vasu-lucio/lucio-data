@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Rickner Moskovitz LLP",
+    "website": "https://www.rmcivilrights.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Rights",
+      "Police Misconduct",
+      "Wrongful Convictions",
+      "Prison Litigation",
+      "Free Speech",
+      "Religious Freedom",
+      "Workplace Discrimination"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rickner Moskovitz LLP is a New York and New Jersey civil rights law firm fighting for people harmed by police misconduct, workplace discrimination, free speech violations, religious freedom violations, and unconstitutional prison conditions\u2014pursuing justice for every client.",
+    "notable_facts": [
+      "The firm's cases have been featured in respected publications.",
+      "The firm has won record-breaking verdicts and life-changing settlements for clients.",
+      "The firm was founded to protect civil rights through aggressive litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rob Rickner",
+        "title": "Principal",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Joshua S. Moskovitz",
+        "title": "Principal",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephanie Panousieris",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara Wolkensdorfer",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leslie Umanzor",
+          "title": "Supervising Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kymberly Roberts",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gipsy Fernandez",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

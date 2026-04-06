@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Abrams, Gorelick, Friedman & Jacobson LLP",
+    "website": "https://agfjlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Litigation",
+      "Trials and Appeals",
+      "Coverage Matters",
+      "Reinsurance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Abrams, Gorelick, Friedman & Jacobson, LLP is a law firm that provides comprehensive legal solutions to transportation companies nationwide. They proactively and aggressively advocate for their clients.",
+    "notable_facts": [
+      "AV-rated by Martindale-Hubbell",
+      "Listed in A.M. Best's Guide to Insurance Attorneys",
+      "Member of the Harmonie Group"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael E. Gorelick",
+          "title": "Senior Counsel",
+          "email": "mgorelick@agfjlaw.com",
+          "phone": "212-422-1200 ext 226",
+          "linkedin_url": null
+        },
+        {
+          "name": "Glenn A. Jacobson",
+          "title": "Partner",
+          "email": "gjacobson@agfjlaw.com",
+          "phone": "212-422-1200 ext 222",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. Friedman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Rita Ndoci",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/abrams-gorelick-friedman-&-jacobson-llp",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

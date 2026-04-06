@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Kiernan Trebach LLP",
+    "website": "https://www.kiernantrebach.com/",
+    "city": "Washington, D.C.",
+    "practice_areas": [
+      "Aging Services",
+      "Appellate Litigation",
+      "Business Disputes",
+      "Class Actions and Collective Actions",
+      "Construction & Construction Defects",
+      "Employment",
+      "Entertainment, Sports & Recreation",
+      "Environmental",
+      "Food & Beverage Liability",
+      "General Litigation & ADR",
+      "Healthcare",
+      "Hospitality",
+      "Insurance Coverage",
+      "Premises Liability",
+      "Product Liability",
+      "Professional Liability",
+      "Retail Liability",
+      "Subrogation",
+      "Transportation",
+      "Workers' Compensation"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "Kiernan Trebach is a mid-sized law firm with offices throughout the Northeast, Mid-Atlantic and Southeast regions of the United States \u2013 from Maine to Florida. They are widely respected for their effective defense of clients, ranging from Fortune 100 companies to individuals and small business owners.",
+    "notable_facts": [
+      "Kiernan Trebach began in 1989 with a single office in Washington, D.C.",
+      "The firm has matured into a firm of more than 100 attorneys.",
+      "Kiernan Trebach was named D.C. Defense Lawyers\u2019 Association 2025 Law Firm of the Year."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Heather Deane",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kevin McCarthy",
+        "title": "Chief Financial & Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alan Block",
+          "title": "Firm Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Smith",
+          "title": "Firm Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Chefitz",
+          "title": "Partner, General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis Wakeman",
+          "title": "Director of Information Systems",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

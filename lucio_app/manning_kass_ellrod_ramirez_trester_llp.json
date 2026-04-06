@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Manning Kass",
+    "website": "https://www.manningkass.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Business Litigation",
+      "Corporate and Commercial Transactions",
+      "Intellectual Property",
+      "Sports, Recreation, and Attractions Law",
+      "Professional Liability"
+    ],
+    "lawyer_count": 160,
+    "firm_description": "Manning Kass is a full-service national law firm pairing traditional values with cost-effective, collaborative, and flexible case management. The firm assigns a lean team of attorneys to match each client's specific needs.",
+    "notable_facts": [
+      "Rebranded from Manning & Kass, Ellrod, Ramirez, Trester LLP in December 2022.",
+      "The firm was founded in 1994.",
+      "Has seven offices across the country."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven D. Manning",
+        "title": "Founding Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Dennis B. Kass",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony J. Ellrod",
+          "title": "Founding Partner",
+          "email": "AEllrod@manningkass.com",
+          "phone": "(213) 624-6900",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Mizrahi Kroub LLP",
+    "website": "https://www.mizrahikroub.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Employment Law",
+      "Fair Credit Reporting Act",
+      "Americans with Disabilities Act",
+      "Mass Torts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mizrahi Kroub LLP is a full-service, plaintiff-side law firm based in New York City\u2019s Financial District, dedicated to protecting the rights of employees, average consumers, and disabled individuals. The firm focuses on recovering both monetary compensation and non-monetary relief for clients.",
+    "notable_facts": [
+      "The firm was founded in 2021.",
+      "Mizrahi Kroub has successfully litigated large class-action lawsuits against some of the largest corporations in the United States.",
+      "The firm has over 50+ years of collective experience in the legal profession."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph H. Mizrahi",
+          "title": "Partner",
+          "email": "jmizrahi@mizrahikroub.com",
+          "phone": "(212) 595-6200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Y. Kroub",
+          "title": "Partner",
+          "email": "ekroub@mizrahikroub.com",
+          "phone": "(212) 595-6200",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Louis M. Leon",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ingrid M. Fernandez",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Valeria Fernandez",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. Bernard",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

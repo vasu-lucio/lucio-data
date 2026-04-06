@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Ginarte O'Dwyer Gonzalez Gallardo & Winograd LLP",
+    "website": "https://www.ginarte.com/",
+    "city": "Newark",
+    "practice_areas": [
+      "Personal Injury",
+      "Construction Accidents",
+      "Workers\u2019 Compensation",
+      "Car Accidents",
+      "Truck Accidents",
+      "Premises Cases",
+      "Medical Malpractice",
+      "Social Security Disability",
+      "Employment Discrimination"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ginarte Gonzalez Winograd L.L.P. represents clients throughout the New York and New Jersey metro area. Their team of attorneys concentrates on a variety of legal matters, including personal injury, construction accidents, workers\u2019 compensation, and more.",
+    "notable_facts": [
+      "The firm has over 150 years of combined experience among its attorneys.",
+      "The firm has a 100-plus person support staff.",
+      "The firm has seven convenient offices in the New York and New Jersey metro area."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph Ginarte",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Gallardo",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Analia Campbell",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

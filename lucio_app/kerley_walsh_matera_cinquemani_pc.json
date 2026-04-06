@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Kerley Walsh Matera & Cinquemani P.C.",
+    "website": "https://kerleywalsh.com/",
+    "city": "Seaford",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury",
+      "Appeals"
+    ],
+    "lawyer_count": 55,
+    "firm_description": "Kerley Walsh Matera & Cinquemani P.C. is a law firm specializing in medical malpractice, personal injury, and appeals. They have been serving clients since 1987.",
+    "notable_facts": [
+      "Brian P. Kerley has been selected as one of the New York Area's 'Best Lawyers' published in New York Magazine.",
+      "Firm founded in 1987."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey G. Walsh",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kathy O'Neill",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian P. Kerley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/brian-kerley-145b9564"
+        },
+        {
+          "name": "Glenn J. Matera",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rosemary Cinquemani",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brett Milgrim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather L. Aquino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

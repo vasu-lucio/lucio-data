@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Zukerman Gore Brandeis & Crossman, LLP",
+    "website": "https://www.zukermangore.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Mergers and Acquisitions",
+      "Commercial Litigation",
+      "Private Equity",
+      "Commercial Real Estate",
+      "Commercial Finance Transactions",
+      "Securities Law",
+      "Trust and Estate Planning",
+      "Strategic Investments",
+      "Corporate Governance",
+      "Employment and ERISA Matters",
+      "General Corporate Law"
+    ],
+    "lawyer_count": 31,
+    "firm_description": "Zukerman Gore Brandeis & Crossman, LLP has earned a reputation for acting decisively to address our clients\u2019 needs, developing strategic and creative solutions to challenging legal and business problems, and consistently providing cost-efficient, practical, and timely advice. They provide responsive, solution-oriented, practical, and full-service legal advice.",
+    "notable_facts": [
+      "Founded in 1988",
+      "The firm has a commitment to diversity.",
+      "Many clients have relied on the firm as outside general counsel."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nicole Frisina",
+        "title": "Controller & Manager, Office",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Clifford Brandeis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Horner",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michele Bowman",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Raquel Ziegler",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Taylor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Park",
+          "title": "Corporate Restructuring Bankruptcy Mergers & Acquisitions Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

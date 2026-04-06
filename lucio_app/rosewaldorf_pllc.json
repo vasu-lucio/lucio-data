@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "RoseWaldorf PLLC",
+    "website": "https://www.rosewaldorf.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Product Warranty Defense",
+      "Lemon Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "RoseWaldorf represents multi-national companies, including manufacturers, distributors, and other businesses, with a special focus on representing the automotive industry in product warranty and lemon law matters. With offices on the East and West Coasts, RoseWaldorf has nationwide reach with a singular mission\u2014defending product warranties.",
+    "notable_facts": [
+      "The firm's lawyers are all multi-state licensed to best serve their clients efficiently in high-volume litigation efforts.",
+      "RoseWaldorf regularly represents clients in 21 states.",
+      "The firm has handled appeals in the highest courts of six states, as well as numerous intermediate appellate courts in a number of jurisdictions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Keith B. Rose",
+          "title": "Managing Member, RoseWaldorf PLLC; Managing Partner, RoseWaldorf LLP",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Serene Wheeler",
+        "title": "Human Resources/Office Man",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jon B. Waldorf",
+          "title": "Partner",
+          "email": null,
+          "phone": "518-869-9200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Gregg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark W. Skanes",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

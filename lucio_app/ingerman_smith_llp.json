@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Ingerman Smith, LLP",
+    "website": "http://www.ingermansmith.com/",
+    "city": "Hauppauge",
+    "practice_areas": [
+      "Education Law",
+      "Special Education",
+      "Labor and Employment Law",
+      "Commercial Law",
+      "Litigation",
+      "Trusts and Estates",
+      "Municipal Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ingerman Smith, L.L.P., is the pre-eminent Education, General Municipal, and Labor Law firm in Long Island and throughout Westchester, Putnam, and Rockland counties. The firm provides strategic legal solutions tailored to the unique needs of school districts, colleges, municipalities, and businesses.",
+    "notable_facts": [
+      "Founded in 1937",
+      "Provides legal representation with integrity, expertise, and dedication."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mary Anne Sadowski",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Percy Ingerman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bernard Smith",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Neil M. Block",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Colleen Dowd",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

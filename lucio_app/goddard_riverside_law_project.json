@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Goddard Riverside Law Project",
+    "website": "https://www.goddard.org/grcc/programs/goddardlawproject/",
+    "city": "New York",
+    "practice_areas": [
+      "Housing Law",
+      "Tenant Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Goddard Riverside Law Project provides free legal services and tenant-organizing support to low-income residents on the west side of Manhattan in order to preserve affordable housing and improve living conditions. The project assists tenants with solving a wide array of housing-related problems, including eviction, harassment, rent overcharge, illegal lockouts, lack of essential services such as heat and hot water and other poor building conditions.",
+    "notable_facts": [
+      "Provides free legal representation in Housing Court for SRO tenants and apartment tenants.",
+      "Co-hosts monthly housing clinics sponsored by City Councilmember Gale Brewer."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dan Evans",
+        "title": "Director",
+        "email": "devans@goddard.org",
+        "phone": "(212) 799-9638",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Andrea Cain Lawson",
+        "title": "Chief Operating Officer/Compliance Officer",
+        "email": "acain@goddard.org",
+        "phone": "(212) 873-6600, x. 1002",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Roderick L. Jones",
+          "title": "President",
+          "email": "rjones@goddard.org",
+          "phone": "(212) 873-6600, x. 1001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Karenne Berry",
+          "title": "Chief Program Officer",
+          "email": "kberry@goddard.org",
+          "phone": "212-873-6600 ext 1007",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Klidas",
+          "title": "Chief Financial Officer",
+          "email": "mklidas@goddard.org",
+          "phone": "(212) 873-6600",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

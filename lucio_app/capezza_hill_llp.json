@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Capezza Hill",
+    "website": "https://capezzahill.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Complex Litigation and Personal Injury",
+      "Government and Health Care Investigations",
+      "White Collar and Criminal Defense",
+      "Cybersecurity, Data Privacy, and Anti-Money Laundering Compliance",
+      "State Agencies and Employees",
+      "Whistleblower Claims"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Capezza Hill is a boutique litigation firm that was founded on a handshake at a little league game by two trial attorneys with decades of experience in government and private practice. They represent individual, corporate, and institutional clients in a wide array of legal matters.",
+    "notable_facts": [
+      "Founded by attorneys with experience in the Department of Justice, Securities and Exchange Commission, and Federal Judiciary.",
+      "The firm engages in all aspects of litigation including pre-litigation dispute resolution and investigations, hearings, trials, and appeals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas A. Capezza",
+          "title": "Partner",
+          "email": null,
+          "phone": "518.478.6065",
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin W. Hill",
+          "title": "Partner",
+          "email": null,
+          "phone": "518.478.6065",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lee Greenstein",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allee N. von Stackelberg",
+          "title": "Associate",
+          "email": null,
+          "phone": "518.478.6065",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Ainsworth Gorkin",
+    "website": "https://www.ainsworthgorkin.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Civil Litigation",
+      "Breach of Contract",
+      "Real Estate Litigation",
+      "Partnership Disputes",
+      "Foreclosure Defense",
+      "Business Counseling",
+      "Alternative Finance Guidance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ainsworth Gorkin is a boutique law firm providing strategic legal counsel and litigation services to businesses in New York and New Jersey. They offer practical insight, transparent processes, and creative solutions to complicated issues.",
+    "notable_facts": [
+      "The firm was founded in 2019 by Levi Ainsworth and Shaya Gorkin.",
+      "They exclusively represent businesses and their owners.",
+      "The firm focuses on efficient and cost-effective resolutions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Levi Ainsworth",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/shaya-gorkin-800a5b45"
+        },
+        {
+          "name": "Shaya Gorkin",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Yehuda C. Morgenstern",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ainsworth-gorkin-pllc",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

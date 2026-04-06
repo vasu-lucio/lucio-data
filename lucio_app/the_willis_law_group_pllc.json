@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "The Willis Law Group, PLLC",
+    "website": "https://thewillislawgroup.com/",
+    "city": "Garland, TX",
+    "practice_areas": [
+      "Real Estate Law",
+      "Construction Law",
+      "Personal Injury",
+      "Professional Services",
+      "Commercial Litigation",
+      "Employment & Labor",
+      "Environmental Litigation",
+      "Investment Fraud",
+      "Government",
+      "Business Transactions",
+      "Rig/Oil Well Disasters",
+      "Insurance Coverage",
+      "Workers Compensation"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "The Willis Law Group, PLLC is a defense firm that puts clients first and provides targeted solutions in legal matters. They offer large-firm expertise with small-firm personal service and believe in proficiency, results, and cost-effectiveness.",
+    "notable_facts": [
+      "Founded in 2012",
+      "Acquired Mintzer Sarowitz Zeris Ledva & Meyers, L.L.P.",
+      "Team of over 100 attorneys"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kirk Willis",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Arnaldo Fernandes",
+        "title": "Head of IT | Chief Information Security Officer (CISO)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Connie Schroeder",
+          "title": "Marketing Manager",
+          "email": "cschroeder@thewillislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carin Paris Evans",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bret Walsh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

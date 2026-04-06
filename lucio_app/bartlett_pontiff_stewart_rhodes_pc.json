@@ -1,0 +1,119 @@
+{
+  "firm_data": {
+    "firm_name": "Bartlett, Pontiff, Stewart & Rhodes, P.C.",
+    "website": "https://www.bpsrlaw.com/",
+    "city": "Glens Falls",
+    "practice_areas": [
+      "Estate Planning",
+      "Estate & Trust Administration",
+      "Tax Law",
+      "Elder Law",
+      "Corporate & Commercial Law",
+      "Labor Law",
+      "Education Law",
+      "Municipal Law & Finance",
+      "Not-for-Profit Law",
+      "General Litigation",
+      "Civil Rights & Discrimination Law",
+      "Personal Injury",
+      "Real Property Law",
+      "Environmental Law",
+      "Insurance Defense",
+      "Landlord/Tenant Law",
+      "Zoning & Land Use"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bartlett, Pontiff, Stewart, & Rhodes, P.C. is a highly respected law firm with a strong tradition of providing excellent legal services to clients both big and small. The growth of the law firm has allowed Bartlett, Pontiff, Stewart, & Rhodes, P.C. to be known as one of the largest law firms in the Capital District and in northeastern New York.",
+    "notable_facts": [
+      "Established in the 1940s.",
+      "Has deep roots in the community.",
+      "Attorneys are active in local organizations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard J. Bartlett",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alan R. Rhodes",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Mcmillen",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "J. Lawrence Paltrowitz",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Malcolm B. O\u2019hara",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia E. Watkins",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://bpsrlaw.com/location/patricia-e-watkins/"
+        },
+        {
+          "name": "Benjamin R. Pratt, Jr",
+          "title": "Principal",
+          "email": null,
+          "phone": "518-832-6468",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

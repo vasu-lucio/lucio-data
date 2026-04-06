@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Hill, Betts & Nash LLP",
+    "website": "https://www.hillbetts.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Admiralty and Maritime Law",
+      "Commodity and International Trade",
+      "Product Liability",
+      "Trucking",
+      "Environmental and Property Damage",
+      "General Corporate and Business Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hill, Betts & Nash LLP is a New York City boutique law firm specializing in admiralty and general maritime law, representing clients in the transportation and logistics industry since 1898. The firm also handles matters relating to commodity and international trade, product liability, trucking, environmental and property damage.",
+    "notable_facts": [
+      "The firm was founded in 1898 as Hunt, Hill, & Betts.",
+      "Hill, Betts & Nash LLP represented clients in matters related to the sinking of the RMS Titanic and RMS Lusitania.",
+      "The firm's office in the North Tower of the World Trade Center was destroyed in the September 11, 2001 attacks."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory W. O\u2019Neill",
+        "title": "Esq. \u2013 Managing Partner",
+        "email": null,
+        "phone": "(212) 839-7000",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Leavitt Hunt",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Hill",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George W. Betts",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark A. Lowe",
+          "title": "Esq. \u2013 Partner",
+          "email": null,
+          "phone": "(212) 839-7000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Ryan",
+          "title": "Esq. \u2013 Partner Emeritus",
+          "email": null,
+          "phone": "(212) 839-7000",
+          "linkedin_url": null
+        },
+        {
+          "name": "James D. Kleiner",
+          "title": "Esq. \u2013 Partner",
+          "email": null,
+          "phone": "(212) 839-7000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

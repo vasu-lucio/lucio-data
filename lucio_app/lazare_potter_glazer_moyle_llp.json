@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Lazare Potter Glazer & Moyle LLP",
+    "website": "https://lpgmlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Corporate, Securities and Business Transactions",
+      "Insurance",
+      "Securities and Financial Services Litigation",
+      "Employment",
+      "Bankruptcy and Creditors\u2019 Rights",
+      "Franchise and Distribution",
+      "Intellectual Property",
+      "Special Assets, Workouts and Distressed Real Estate",
+      "Real Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lazare Potter Glazer & Moyle LLP provides strategic, pragmatic and innovative advice. The firm's attorneys apply their years of experience at New York\u2019s largest law firms and prosecutors\u2019 offices to a boutique setting, providing efficient and effective representation.",
+    "notable_facts": [
+      "LPGM is dedicated to positioning its clients for success, whether in negotiations, transactions, arbitrations or the courtroom.",
+      "LPGM attorneys have experience at New York\u2019s largest law firms and prosecutors\u2019 offices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Yale Glazer",
+          "title": "Partner",
+          "email": "yglazer@lpgmlaw.com",
+          "phone": "(212) 784-3291",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen M. Lazare",
+          "title": "Partner",
+          "email": "slazare@lpgmlaw.com",
+          "phone": "(212) 784-2401",
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Potter",
+          "title": "Partner",
+          "email": "dpotter@lpgmlaw.com",
+          "phone": "(212) 784-2402",
+          "linkedin_url": null
+        },
+        {
+          "name": "James F. Moyle",
+          "title": "Partner",
+          "email": "jmoyle@lpgmlaw.com",
+          "phone": "212-784-2407",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew M. Premisler",
+          "title": "Partner",
+          "email": "apremisler@lpgmlaw.com",
+          "phone": "(212) 784-3292",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

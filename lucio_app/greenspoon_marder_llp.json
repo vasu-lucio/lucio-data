@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Greenspoon Marder LLP",
+    "website": "https://www.gmlaw.com/",
+    "city": "Fort Lauderdale",
+    "practice_areas": [
+      "Real Estate",
+      "Hospitality",
+      "Cannabis Law",
+      "Litigation",
+      "Corporate"
+    ],
+    "lawyer_count": 225,
+    "firm_description": "Greenspoon Marder LLP is a full-service national law firm with over 225 attorneys across the United States. The firm has been at the forefront of the state\u2019s real estate and hospitality industries, contributing to projects that have fueled billions in economic activity.",
+    "notable_facts": [
+      "Founded in 1981",
+      "Ranked in Chambers USA 2025 Guide in multiple practice groups",
+      "One of the first in the nation to provide dedicated legal services to cannabis businesses"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rebecca Bratter",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Gerald Greenspoon",
+        "title": "Co-Managing Director",
+        "email": "[[email protected]]",
+        "phone": "(954) 267-8000",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jen Fante",
+        "title": "Chief Operating Officer and Chief Financial Officer",
+        "email": "[[email protected]]",
+        "phone": "(754) 200-7090",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael E. Marder",
+          "title": "Co-Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

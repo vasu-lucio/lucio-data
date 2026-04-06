@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Mark Music & Media Law, P.C.",
+    "website": "https://www.markmml.com",
+    "city": "Beverly Hills",
+    "practice_areas": [
+      "Entertainment Law",
+      "Music Law",
+      "Media Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mark Music & Media Law, P.C. provides advocacy, creativity and protection for artists, executives, writers, producers and entertainment-oriented businesses in a rapidly evolving environment, primarily revolving around the entertainment industry.",
+    "notable_facts": [
+      "Represents companies, private equity, new artists, legacy artists and creative people at all levels.",
+      "Advises, consults, drafts and negotiates every form of entertainment contract."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Elizabeth Gregory",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Ferreria",
+          "title": "Attorney, Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Hafitz",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Blake Leeper",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katelyn Wicks",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leon Morabia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

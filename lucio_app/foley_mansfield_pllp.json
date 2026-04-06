@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Foley Mansfield",
+    "website": "https://foleymansfield.com/",
+    "city": "Minneapolis",
+    "practice_areas": [
+      "Toxic Tort",
+      "Product Liability",
+      "Premises Liability",
+      "Commercial Litigation",
+      "Transactional Law",
+      "Mediation & Arbitration",
+      "Employment Litigation",
+      "Insurance Defense",
+      "Construction Law"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "Foley Mansfield is a national defense law firm that provides comprehensive client solutions backed by a wide range of experience and industry knowledge. With over 100 attorneys in 13 U.S. cities, Foley Mansfield is committed to maintaining national reach while providing local service to our clients.",
+    "notable_facts": [
+      "Founded in 1989",
+      "Has 13 offices across the United States",
+      "Provides legal expertise, creative solutions and extensive trial experience across multiple jurisdictions"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kyle Mansfield",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stephen Foley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexa Newton",
+          "title": "Office Managing Partner, St. Louis",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark D. Sayre",
+          "title": "Office Managing Partner, Los Angeles and Walnut Creek",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Lamm Bachman",
+          "title": "Partner, Chair of the Mediation & Arbitration practice group and co-chair of the Employment & Litigation practice group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

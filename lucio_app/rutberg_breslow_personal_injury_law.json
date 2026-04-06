@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Rutberg Breslow Personal Injury Law",
+    "website": "https://www.rutbergbreslow.com/",
+    "city": "Poughkeepsie",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accidents",
+      "Trucking Accidents",
+      "Wrongful Death",
+      "Premises Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rutberg Breslow Personal Injury Law is a personal injury firm dedicated to advocating for individuals and families who have suffered due to negligence. They focus solely on personal injury law, providing legal representation for victims throughout New York.",
+    "notable_facts": [
+      "The firm was founded by Marty Rutberg in 1999.",
+      "Larry Breslow joined in ownership in 2014.",
+      "The firm has offices in Poughkeepsie, Monticello, Utica, Middletown, and Albany.",
+      "The firm only represents people injured or killed through negligence and never defends those who cause tragedy."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Martin P. Rutberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence A. Breslow",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carmine J. Carolei",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julie E. Iacobucci",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William J. Thonus",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer L. Langley",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerald A. Vergilis",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

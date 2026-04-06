@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Costello, Cooney & Fearon, PLLC",
+    "website": "https://ccf-law.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Commercial Transactions",
+      "Litigation",
+      "Creditors\u2019 Rights",
+      "Financial Compliance and Bankruptcy",
+      "Criminal Law",
+      "Family Law",
+      "Healthcare",
+      "Municipalities & Education",
+      "Real Estate & Land Use",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 38,
+    "firm_description": "Costello, Cooney & Fearon, PLLC is a law firm that provides legal counsel to a diverse group of clients in Syracuse, New York. They offer services in various areas including commercial transactions & litigation, creditors\u2019 rights, and criminal law.",
+    "notable_facts": [
+      "Founded in 1896",
+      "Located in Syracuse, New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John R. Langey",
+        "title": "Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Paul G. Ferrara",
+        "title": "Chief Operations Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Elizabeth A. Hoffman",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Gascon",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel R. Rose",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert J. Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher M. Militello",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

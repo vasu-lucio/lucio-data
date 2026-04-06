@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Weltz Kakos Gerbi Wolinetz Volynsky LLP",
+    "website": "https://weltz.law/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Arbitration",
+      "Securities Litigation",
+      "Commercial Litigation",
+      "Real Estate",
+      "Estate Planning",
+      "Estate Administration"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Weltz Kakos Gerbi Wolinetz Volynsky LLP (Weltz Law) is a New York based securities law firm. They represent investors that have been victims of broker malfeasance, and also provide clients with a full range of real estate, estate planning, and estate administration matters.",
+    "notable_facts": [
+      "The attorneys at Weltz Law have over 30 years of collective experience.",
+      "Before forming Weltz Law, some partners focused on representing investment professionals in securities litigation/investigations and FINRA arbitrations.",
+      "The firm represents clients nationwide."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Irwin Weltz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eleni Kakos",
+          "title": "Partner",
+          "email": null,
+          "phone": "877-905-7671",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabriel Gerbi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Scot Wolinetz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Volynsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Ciaccio",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

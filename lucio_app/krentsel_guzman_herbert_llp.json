@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Krentsel Guzman Herbert, LLP.",
+    "website": "https://kglawteam.com/",
+    "city": "Manhattan",
+    "practice_areas": [
+      "PFAS Forever Chemical Litigation",
+      "Nursing Home Abuse",
+      "Birth Injury",
+      "Wrongful Death",
+      "Medical Negligence",
+      "Worksite Accidents"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Krentsel Guzman Herbert, LLP. is a law firm based in Manhattan. Their highly skilled team of attorneys work to ensure victims are justly compensated.",
+    "notable_facts": [
+      "The firm secured a $50.7 Million settlement in a pedestrian knockdown case.",
+      "The firm secured a $15 Million settlement in a medical malpractice birth injury case.",
+      "The firm secured a $10 Million settlement in a wrongful death case."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jeffrey A. Guzman",
+          "title": "Founding Member",
+          "email": "jguzman@kglawteam.com",
+          "phone": "1.212.227.2900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven E. Krentsel",
+          "title": "Founding Member",
+          "email": "skrentsel@kglawteam.com",
+          "phone": "1.212.227.2900",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason T. Herbert",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Panarella",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas W. Dell\u2019Anno",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

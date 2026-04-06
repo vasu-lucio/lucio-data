@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Peknic, Peknic & Schaefer LLC",
+    "website": "https://pekniclaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate Law",
+      "Real Estate",
+      "Criminal Law",
+      "Personal Injury",
+      "Insurance Defense",
+      "Matrimonial Law",
+      "Wills, Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Peknic, Peknic & Schaefer LLC is a Nassau Queens Law Firm in New York.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Charles Peknic",
+        "title": "Partner",
+        "email": null,
+        "phone": "516-432-9400 ext. 115",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Peknic",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-432-9400 ext. 114",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Schaefer",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-432-9400 ext. 113",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Bruzzese",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-432-9400 ext. 112",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Chojnacki",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-432-9400 ext. 111",
+          "linkedin_url": null
+        },
+        {
+          "name": "Catherine Papandrew",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-432-9400 ext. 121",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

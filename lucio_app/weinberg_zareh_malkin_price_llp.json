@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Weinberg Zareh Malkin Price LLP",
+    "website": "https://wzmplaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Transactions",
+      "Litigation",
+      "Employment Law",
+      "Regulatory Compliance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Weinberg Zareh Malkin Price LLP is a boutique business law firm focusing on business transactions, litigation, employment law, and regulatory compliance. Their mission is to bring tailored practical solutions to complex legal matters.",
+    "notable_facts": [
+      "Partners have at least 20 years\u2019 experience, with substantial time at top law firms.",
+      "Partners have served as in-house counsel or otherwise have run businesses outside of law firm life."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Seth Weinberg",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Omid Zareh",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laurie Malkin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Price",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adrienne Woods",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Zaremba Brown PLLC",
+    "website": "https://www.zarembabrown.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Site Accidents",
+      "Trucking Accidents",
+      "Serious Injury Cases"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Zaremba Brown is one of New York's leading injury and accident law firms. They limit their practice to construction site accidents, trucking accidents and other serious injury cases, focusing on the representation of the men and women of New York's Building Trade Unions.",
+    "notable_facts": [
+      "Recovered more than $150,000,000 in just the past few years",
+      "Partners have been selected by Super Lawyers",
+      "Partners selected as members of the Top 100 Trial Lawyers in the US by the National Trial Lawyers",
+      "Partners sit on the executive committee for the Board of Directors for NYSTLA and vice-chair that organization's Labor Law committee for construction site accidents."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John D. Zaremba",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Brown",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nahin Chowdhury",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gianni Contessa",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Calabrese",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

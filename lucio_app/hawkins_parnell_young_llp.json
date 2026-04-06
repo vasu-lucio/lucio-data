@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Hawkins Parnell & Young, LLP",
+    "website": "https://hpylaw.com/",
+    "city": "Atlanta",
+    "practice_areas": [
+      "Litigation",
+      "Personal Injury"
+    ],
+    "lawyer_count": 121,
+    "firm_description": "Hawkins Parnell & Young LLP is a national defense litigation firm that works with clients to develop a winning defense strategy and bring cases to verdict in all 50 states. They have litigated cases in all 50 states and have attorneys located in 17 cities.",
+    "notable_facts": [
+      "Founded in 1963",
+      "Has litigated cases in all 50 states",
+      "250-strong litigation team"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Peter R. York",
+        "title": "Co-Managing Partner, Executive Committee",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Matt Hudson",
+        "title": "Director of Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alvin Knox",
+          "title": "CFO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David C. Marshall",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/hawkins-parnell-young/org-chart/david-c-marshall"
+        },
+        {
+          "name": "Evelyn Davis",
+          "title": "Senior Partner",
+          "email": "edavis@hpylaw.com",
+          "phone": "404-614-7571",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

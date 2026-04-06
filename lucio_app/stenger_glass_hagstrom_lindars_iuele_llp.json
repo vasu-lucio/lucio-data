@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Stenger, Glass, Hagstrom, Lindars & Iuele LLP",
+    "website": "https://www.stengerglass.com/",
+    "city": "Poughkeepsie",
+    "practice_areas": [
+      "Personal Injury",
+      "Family Law",
+      "Estate Planning",
+      "General Litigation",
+      "Tax Certiorari",
+      "Civil Litigation",
+      "Appellate Advocacy",
+      "Land Use",
+      "Municipal Law",
+      "Criminal Law",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Stenger, Glass, Hagstrom, Lindars & Iuele LLP is a law firm in Dutchess County, New York, recognized as one of The Hudson Valley\u2019s Top Lawyers by Hudson Valley Magazine every year since 2023. The firm offers legal services in areas such as personal injury, family law, estate planning, and general litigation.",
+    "notable_facts": [
+      "Recognized as one of The Hudson Valley\u2019s Top Lawyers by Hudson Valley Magazine every year since 2023.",
+      "One of the largest law firms in Dutchess County."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kenneth M. Stenger",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-298-2000 x107",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica J. Glass",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen E. Hagstrom",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-298-2000 x133",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ian C. Lindars",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A.J. Iuele",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-298-2000 x121",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Smith, Gambrell & Russell, LLP",
+    "website": "https://sgrlaw.com/",
+    "city": "Atlanta",
+    "practice_areas": [
+      "Corporate Transactions",
+      "Litigation",
+      "Intellectual Property",
+      "Aviation",
+      "Banking",
+      "Real Estate",
+      "Insurance/Reinsurance",
+      "Construction",
+      "Employment Law",
+      "International",
+      "Employee Benefits and Executive Compensation"
+    ],
+    "lawyer_count": 350,
+    "firm_description": "Smith Gambrell Russell is a full-service, international law firm that advises regional, national, and global businesses on a wide range of legal matters. The Firm's nearly 350 attorneys provide legal counsel in more than 50 specialized practice areas.",
+    "notable_facts": [
+      "Founded in 1893",
+      "Has 14 domestic and international offices"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Stephen Forte",
+        "title": "Managing Partner and Chairman of the Executive Committee",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alexander Smith",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victor Smith",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas Hong",
+          "title": "Managing Partner of Atlanta Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "E. Smythe Gambrell",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

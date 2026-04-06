@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Sichenzia Ross Ference Carmel LLP",
+    "website": "http://srfc.law/",
+    "city": "New York City",
+    "practice_areas": [
+      "Corporate and Securities Law",
+      "Litigation and Arbitration",
+      "Trusts and Estates",
+      "Tax Law"
+    ],
+    "lawyer_count": 70,
+    "firm_description": "Sichenzia Ross Ference Carmel LLP (SRFC) is a nationally recognized law firm of about 70 attorneys with corporate, securities, litigation, trusts and estates and tax practices, serving clients from all over the world. Their mission is to solve their clients\u2019 most complicated legal problems and achieve their business goals in an expeditious, commercial and innovative manner.",
+    "notable_facts": [
+      "SRFC is one of the most active law firms in the United States in securities transactions.",
+      "The firm was founded in 1998.",
+      "SRFC has a market-leading Corporate and Securities Department."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David Blumenthal",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gregory Sichenzia",
+          "title": "Partner",
+          "email": "gsichenzia@srfc.law",
+          "phone": "(212) 930-9700, Ext. 207",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc Ross",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Ference",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas Rose",
+          "title": "Co-Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Cappelli",
+          "title": "Managing Partner \u2013 Corporate and Securities Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ross Carmel",
+          "title": "Named Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

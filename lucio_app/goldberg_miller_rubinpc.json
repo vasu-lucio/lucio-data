@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Goldberg, Miller & Rubin",
+    "website": "https://gmrlawfirm.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Civil Litigation",
+      "Motor Vehicle and Truck Liability",
+      "Hospital Defense",
+      "General Liability",
+      "Healthcare and Insurance Fraud",
+      "Plaintiff/Personal Injury",
+      "Toxic Tort and Asbestos Litigation",
+      "Workers\u2019 Compensation",
+      "Auto Liability",
+      "Premise Liability",
+      "Products Liability",
+      "Bad Faith/Coverage"
+    ],
+    "lawyer_count": 50,
+    "firm_description": "Goldberg, Miller & Rubin is a Philadelphia-based civil defense attorney with offices in Pennsylvania, New York and New Jersey. The firm handles motor vehicle and truck liability, hospital defense, general liability, healthcare and insurance fraud, plaintiff/personal injury, toxic tort and asbestos litigation, and workers\u2019 compensation cases.",
+    "notable_facts": [
+      "The firm has built a solid foundation in civil litigation with several hundred defense verdicts and hundreds more defense arbitration awards.",
+      "GMR has extensive expertise defending auto liability, premise liability, toxic tort, products liability, bad faith/coverage and healthcare fraud cases.",
+      "The Firm is recognized for successfully prosecuting complex civil RICO claims with multi-million dollar verdicts and managing a large, multinational company\u2019s asbestos litigation for more than three decades."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Richard Castagna",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Cy Goldberg",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jason W. Rubin",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eamon C. Merrigan",
+          "title": "Chief Information Security Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lori C. Miller",
+          "title": "CEO & Partner",
+          "email": "lmiller@gmrlawfirm.com",
+          "phone": "215.735.3994",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

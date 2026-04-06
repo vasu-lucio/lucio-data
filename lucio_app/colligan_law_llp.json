@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Colligan Law LLP",
+    "website": "https://colliganlaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business Law",
+      "High-Growth Ventures & Technology",
+      "Litigation",
+      "Forestry, Timber & Natural Resource Law",
+      "Commercial Property Law"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Colligan Law LLP is a firm that provides legal services for businesses and business owners. Our clients include established businesses, startup companies, entrepreneurs, venture capitalists, angel investors and cutting-edge technology companies.",
+    "notable_facts": [
+      "Focused on growth company, startups and entrepreneurial representation.",
+      "Founded in 2013."
+    ],
+    "technology_signals": [
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "David J. Colligan",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "716.885.4662",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Moscati",
+          "title": "Founding Partner",
+          "email": "info@colliganlaw.com",
+          "phone": null,
+          "linkedin_url": "https://cl.linkedin.com/company/colligan-law-llp"
+        },
+        {
+          "name": "Alexander D. Vilardo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fred Gawronski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Margot V. Knab",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erick Kraemer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Pelkey",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

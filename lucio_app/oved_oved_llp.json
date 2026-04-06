@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Oved & Oved LLP",
+    "website": "https://oved.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Corporate",
+      "Real Estate",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Oved & Oved LLP is a full service, multidisciplinary law firm located in Manhattan\u2019s Tribeca neighborhood. The firm emphasizes putting people first, offering strategic advice and formulating creative solutions in a timely and cost-effective fashion.",
+    "notable_facts": [
+      "Tribeca\u2019s largest law firm",
+      "Secured and negotiated multi-million dollar settlements and transactions"
+    ],
+    "technology_signals": [
+      "WordPress",
+      "Twitter Emoji (Twemoji)",
+      "jQuery Migrate",
+      "SoundManager",
+      "Slider Revolution",
+      "WP Engine",
+      "Bootstrap",
+      "Apache"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Terrence Oved",
+        "title": "Managing Partner",
+        "email": "terry@ovedlaw.com",
+        "phone": "+1-212-226-2376",
+        "linkedin_url": "https://www.linkedin.com/in/terrence-oved-99ba791a/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew Urgenson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Reilly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Darren Oved",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

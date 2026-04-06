@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Poles, Tublin, Stratakis & Gonzalez, LLP",
+    "website": "https://polestublin.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Maritime Law",
+      "Real Estate",
+      "Corporate Law",
+      "Estate Matters",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Poles, Tublin, Stratakis & Gonzalez, LLP is a general practice law firm established in 1957, with an emphasis in admiralty law and maritime transactions, real estate transactions and litigation, and estate and probate matters. The firm has consistently provided legal advice geared to business-oriented results, but is always ready to pursue all legal remedies available in the advocacy of its clients\u2019 positions.",
+    "notable_facts": [
+      "Established in 1957",
+      "Known for handling admiralty cases, ship finance transactions, commercial real estate transactions, and related litigation",
+      "Represents foreign investors in U.S. real estate"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John Poles",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mel Tublin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Patestides",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christ Stratakis",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John C. Stratakis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rodrigo A. Gonzalez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathan C. Gaudio",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

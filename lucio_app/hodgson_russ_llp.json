@@ -1,0 +1,60 @@
+{
+  "firm_data": {
+    "firm_name": "Hodgson Russ LLP",
+    "website": "https://hodgsonruss.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "U.S. Law"
+    ],
+    "lawyer_count": 230,
+    "firm_description": "Hodgson Russ is an Am Law 200 firm representing clients across the U.S., Canada, and Europe with their evolving U.S. legal needs. Our attorneys handle your matters with perspective, insight, and sophisticated solutions.",
+    "notable_facts": [
+      "One of the Top 200 law firms in America, the Am Law 200",
+      "Over 230 attorneys and over 250 support staff",
+      "Over 90 practice groups in all major areas of U.S. law"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Nathan W. G. Berti",
+        "title": "Managing Partner",
+        "email": "nberti@hodgsonruss.com",
+        "phone": "646.218.7516",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Benjamin M. Zuffranieri Jr.",
+        "title": "Co-Chair of the Firm, Partner",
+        "email": "bzuffran@hodgsonruss.com",
+        "phone": "716.848.1469",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mairi Stewart",
+        "title": "Chief Operating Officer",
+        "email": "mstewart@hodgsonruss.com",
+        "phone": "416.595.2684",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carol A. Fitzsimmons",
+          "title": "Co-Chair of the Firm, Partner",
+          "email": "cfitzsim@hodgsonruss.com",
+          "phone": "716.848.1477",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Stradley Ronon Stevens & Young, LLP",
+    "website": "https://stradley.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Corporate & Securities",
+      "Education",
+      "Employment & Labor",
+      "Financial Services",
+      "Food & Beverage",
+      "Government & Public Affairs",
+      "Health Law",
+      "Intellectual Property",
+      "Investment Management",
+      "Litigation",
+      "Nonprofit & Religious Organizations",
+      "Real Estate",
+      "Regulation & Compliance",
+      "Tax",
+      "Trusts, Estates & Personal Planning"
+    ],
+    "lawyer_count": 200,
+    "firm_description": "Stradley Ronon Stevens & Young, LLP is a law firm that provides pragmatic, value-driven legal counsel to private and public companies. The firm offers a comprehensive range of services in corporate, finance, regulatory, and litigation.",
+    "notable_facts": [
+      "Founded in 1926 in Philadelphia.",
+      "Recognized industry leader in investment management.",
+      "Affiliated with Meritas, an international network of independent litigation and transactional law firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael D. O'Mara",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Marissa Parker",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James H. Jenkins",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brett C. Don",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin R. Boyle",
+          "title": "Partner and Chairman Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

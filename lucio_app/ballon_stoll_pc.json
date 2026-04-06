@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Ballon Stoll P.C.",
+    "website": "https://www.ballonstoll.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Immigration",
+      "Real Estate",
+      "Litigation",
+      "Corporate",
+      "Taxes",
+      "Trust & Estate",
+      "Arbitration",
+      "Bankruptcy",
+      "Labor and Employment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ballon Stoll P.C. provides expert legal guidance in diverse areas of law. As one of the oldest and most respected law firms in New York, they continue to set the standards for legal excellence.",
+    "notable_facts": [
+      "90+ years of expertise",
+      "Highest immigration visa approval rates"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Vano I. Haroutunian",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Marshall B. Bellovin",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Grant E. Pollack",
+        "title": "Chair, IP & Technology Law Practice Group",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark B. Stillman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert A. Klipstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Avram Turkel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leon B. Borstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert M. Jaffe",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael H. Du Boff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Danielle C. Rosenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ballon-stoll-pc",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

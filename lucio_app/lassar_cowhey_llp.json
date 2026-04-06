@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Lassar & Cowhey LLP",
+    "website": "https://www.lclawllp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Estate Planning",
+      "Trusts",
+      "Wealth Transfers",
+      "Corporate Transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lassar & Cowhey LLP provides legal services to high-net-worth individuals, intergenerational families, business owners, and entrepreneurs. They focus on estate planning, trusts, and related areas.",
+    "notable_facts": [
+      "The firm was recognized for its exceptional legal talent.",
+      "They have offices in New York City, Long Island, and New Jersey.",
+      "They advise families and fiduciaries throughout the administration process from probate to final distribution."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Stephen D. Lassar",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Janis L. Cowhey",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amie Gartenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephenie Yeh Chan",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Crystal Levy",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sonya Hong",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

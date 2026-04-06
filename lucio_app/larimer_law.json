@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Larimer Law",
+    "website": "https://larimer-law.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "eDiscovery",
+      "Information Governance",
+      "Data Privacy Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Larimer Law delivers legal services, consulting solutions, and thought leadership in eDiscovery, information governance and data privacy law. With offices in Rochester and Buffalo, New York, they serve corporate clients and law firms of all sizes and from a wide range of US and International jurisdictions.",
+    "notable_facts": [
+      "Larimer Law has a sister company, Guru Discovery, for data processing and analytics services.",
+      "The firm was founded in 2013.",
+      "Larimer Law is known for its ability to scale teams to meet project needs."
+    ],
+    "technology_signals": [
+      "Expertise in electronic discovery and document review services",
+      "Data retention and forensics",
+      "Experience with Global Data Protection Regulation (GDPR)"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "John D. Larimer",
+        "title": "Founder & Managing Attorney",
+        "email": "john.larimer@larimer-law.com",
+        "phone": "585-851-0340",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence Bice",
+          "title": "Sr. Counsel & Director of Litigation Services",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Castaldo",
+          "title": "Discovery Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather DiStefano",
+          "title": "Discovery Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

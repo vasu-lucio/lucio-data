@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "JustCause",
+    "website": "https://www.justcauseny.org/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Legal Support",
+      "Justice Advocacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "JustCause is passionate about advocating for justice and empowering individuals to access the legal support they deserve.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mary Beth Conway",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Brian Jacek",
+        "title": "Deputy Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Gwen Hargrave",
+        "title": "Operations Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tina M. Foster",
+          "title": "Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

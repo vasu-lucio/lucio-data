@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Marans Newman Tsolis & Nazinitsky LLC",
+    "website": "https://mntnlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Commercial Real Estate Law",
+      "Residential Real Estate Law",
+      "Real Estate Project Development Law",
+      "Financial and Commercial Leasing"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Marans Newman Tsolis & Nazinitsky, LLC (MNTN) is a service-first transactional real estate law firm, providing legal advice with a business perspective to enable our clients in achieving their business plans as effectively and efficiently as possible. MNTN represents developers and owners throughout the entire project life cycle.",
+    "notable_facts": [
+      "MNTN has represented developers and owners for over 30 years.",
+      "MNTN currently represents owners of over 75 projects comprised of 2,000+ units valued in the aggregate at over $2 billion."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard M. Newman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stavroula Tsolis",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Ian Nazinitsky",
+          "title": "Attorney",
+          "email": "jnazinitsky(a)mwnlaw.com",
+          "phone": "(646) 568-6153",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kelly Lynn Kleiner",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(646) 609-8837",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Pivovarov",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Catherine Ka Bo Lee",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

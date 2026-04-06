@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Pechman Law Group, PLLC",
+    "website": "https://pechmanlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor and Employment Law",
+      "Discrimination",
+      "Wage Theft",
+      "Harassment",
+      "Employment Contracts",
+      "Prevailing Wage",
+      "Overtime Cases"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Pechman Law Group represents workers and businesses in workplace disputes. They specialize in labor and employment law, handling discrimination, wage theft, harassment, employment contracts, prevailing wage, and overtime cases.",
+    "notable_facts": [
+      "Represents both employees and management, providing a unique perspective on workplace dynamics.",
+      "Recognized by U.S. News\u2019 Best Law Firms as a Tier 1 law firm in Employment Law for Individuals and Labor Law for Management."
+    ],
+    "technology_signals": [
+      "Westlaw",
+      "Microsoft"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Louis Pechman",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/pechman-law-group-pllc"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Doreen L. Pechman",
+          "title": "Human Resources Consultant",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Galen C. Baynes",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lina Paulino",
+          "title": "Administrative Coordinator and a Senior Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Scaffidi & Associates",
+    "website": "https://scaffidilaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury",
+      "Real Estate",
+      "Business Law",
+      "Corporate Litigation",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Scaffidi & Associates is a New York City-based law firm with a reputation for tenacious litigation and skilled negotiation, providing comprehensive legal services to individuals and businesses throughout the greater New York City area, Connecticut, and New Jersey. The firm focuses on medical malpractice, personal injury, real estate, and business law.",
+    "notable_facts": [
+      "The firm has recovered over three-quarters of a billion dollars for their clients.",
+      "Roy Scaffidi has been recognized as one of the top trial lawyers in New York City and the country.",
+      "The firm has an unparalleled reputation for understanding and analyzing medicine in complicated cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Roy F. Scaffidi",
+        "title": "Senior Partner",
+        "email": null,
+        "phone": "212-593-2155",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Marino",
+          "title": "Attorney at Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin B. Lynch",
+          "title": "Attorney at Law \u2022 Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony J. Scaffidi",
+          "title": "Attorney at Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James F. Scaffidi",
+          "title": "Attorney at Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victor Guzman",
+          "title": "Attorney at Law \u2022 Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

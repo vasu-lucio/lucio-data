@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Reitler Kailas & Rosenblatt LLP",
+    "website": "https://www.reitlerlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Venture Capital and Private Equity",
+      "Fund Formation",
+      "Mergers and Acquisitions",
+      "Securities Offerings and Capital Markets",
+      "Real Estate and Hospitality",
+      "Maritime and Commercial Litigation",
+      "Intellectual Property",
+      "Executive Compensation",
+      "Domestic and International Taxation",
+      "Corporate Governance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Reitler is a New York-based full service boutique law firm that delivers responsive, high quality legal services to sophisticated business clients. Reitler possesses leading capabilities in venture capital and private equity financing's, fund formation, mergers and acquisitions, securities offerings and capital markets, real estate and hospitality, as well as maritime and commercial litigation.",
+    "notable_facts": [
+      "Founded in 1995"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Leo Kailas",
+          "title": "Heads Litigation Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

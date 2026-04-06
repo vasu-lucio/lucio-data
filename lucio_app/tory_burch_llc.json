@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Tory Burch LLC",
+    "website": "http://www.toryburch.com",
+    "city": "New York",
+    "practice_areas": [
+      "Retail Apparel and Fashion"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tory Burch is an American luxury lifestyle brand founded in New York in 2004. The collection includes ready-to-wear, handbags, shoes, accessories, beauty and home.",
+    "notable_facts": [
+      "The brand has grown into a global business with 400 stores across North America, Europe, the Middle East, Latin America, Asia and Australia.",
+      "Tory Burch started her company with a clear purpose: to build a global luxury brand and a foundation that would advance women\u2019s economic power.",
+      "The Tory Burch Foundation was established in 2009 to provide women entrepreneurs in the United States with access to capital, education and community."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Tory Burch",
+          "title": "Founder, Designer & Executive Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/toryburch"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lindsey Andreozzi",
+          "title": "Director, Senior Legal Counsel - Labor & Employment",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/tory-burch/org-chart/lindsey-andreozzi"
+        },
+        {
+          "name": "Kristen Hone",
+          "title": "Director, Partner Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/tory-burch/org-chart/kristen-hone"
+        },
+        {
+          "name": "Abby Graves",
+          "title": "Employment Counsel, Sr. Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

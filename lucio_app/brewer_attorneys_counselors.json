@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Brewer, Attorneys & Counselors",
+    "website": "https://brewerattorneys.com/",
+    "city": "Dallas",
+    "practice_areas": [
+      "Complex commercial litigation",
+      "Dispute resolution"
+    ],
+    "lawyer_count": 57,
+    "firm_description": "Brewer, Attorneys & Counselors has earned a reputation as one of the most successful law firms in the United States practicing exclusively in the field of complex commercial litigation and dispute resolution. With offices in New York and Dallas, the firm represents a wide spectrum of industry leaders \u2013 from entrepreneurs to Fortune 500 corporations \u2013 facing the most challenging of legal issues.",
+    "notable_facts": [
+      "Founded in 1984",
+      "Pioneered the utilization of offshore professionals and paraprofessionals to reduce the costs associated with high-stakes litigation services.",
+      "The firm has gained national attention for their handling of matters in a variety of fields, including commercial litigation, insurance, environmental law, antitrust, intellectual property, hospitality, securities, and more."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William Brewer",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "John Bickel",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michael Mccormack",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Xinni Zhang",
+          "title": "Chief Of Staff",
+          "email": "recruiting@brewerattorneys.com",
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/brewerattorneys%26counselors"
+        },
+        {
+          "name": "Will Brewer IV",
+          "title": "Partner",
+          "email": "wbb@brewerattorneys.com",
+          "phone": "212.527.3024",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

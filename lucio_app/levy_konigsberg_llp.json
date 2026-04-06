@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Levy Konigsberg LLP",
+    "website": "https://www.levylaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Mesothelioma & Asbestos",
+      "Lead Poisoning",
+      "Pharmaceutical Law",
+      "Sexual Abuse",
+      "Whistleblower & Qui Tam",
+      "Medical Malpractice & Construction Accidents"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Levy Konigsberg\u2019s team of experienced attorneys has worked for more than 30 years to protect the rights of individuals and groups whose lives have been damaged or cut short by the negligence and wrongdoing of others. The firm has amassed scores of verdicts in the millions and hundreds of millions of dollars, resulting in some of the largest damage awards of their kind and yielding an impressive array of landmark decisions.",
+    "notable_facts": [
+      "Recovered more than $3 billion for clients",
+      "Represented victims of the Flint Water Crisis",
+      "Successfully represented those affected by asbestos-contaminated talc products manufactured by Johnson & Johnson",
+      "Won millions of dollars in cases against Johnson & Johnson relating to asbestos in baby powder"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Tobi A. Russeck",
+        "title": "Managing Partner \u2013 Philadelphia",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stanley J. Levy",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan J. Konigsberg",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.levylaw.com/our-team/alan-j-konigsberg/"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jerome H. Block",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Clark Binkley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

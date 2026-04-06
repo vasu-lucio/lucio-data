@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "GREY & GREY, PLLC",
+    "website": "https://greyandgrey.com/",
+    "city": "Farmingdale",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Personal Injury",
+      "Social Security Disability",
+      "Long-Term Disability",
+      "Disability Retirement",
+      "Longshore and Harbor Workers\u2019 Compensation",
+      "Jones Act",
+      "September 11th Victim Compensation Fund"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Grey & Grey, LLP is a law firm that represents workers who are injured on or off the job. The firm handles claims for workers\u2019 compensation, Social Security Disability, disability retirement, and personal injury.",
+    "notable_facts": [
+      "Founded in 1967",
+      "Provides training for union leadership and members",
+      "Attorneys serve on government task forces and advocate for injured workers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert E. Grey",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sanjai Doobay",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andra Fraiberg-Vetro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian P. O'Keefe",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel A. Dutton",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

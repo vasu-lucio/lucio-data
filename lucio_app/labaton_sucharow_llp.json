@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Labaton Keller Sucharow",
+    "website": "https://labaton.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Litigation",
+      "Corporate Governance",
+      "Shareholder Rights Litigation",
+      "Consumer Protection",
+      "Data Privacy Litigation",
+      "Alternative Dispute Resolution"
+    ],
+    "lawyer_count": 90,
+    "firm_description": "Labaton Keller Sucharow has successfully recovered billions of dollars championing the rights of wronged investors and consumers. The Firm specializes in representing clients in U.S. and Non-U.S. securities litigation, corporate governance and shareholder rights litigation, and consumer protection and data privacy litigation, as well as alternative dispute resolution.",
+    "notable_facts": [
+      "Founded in 1963",
+      "Offices in New York, Delaware, London, and Washington, D.C.",
+      "Provides global securities portfolio monitoring and advisory services to more than 300 institutional investors with collective assets under management in excess of $4.5 trillion."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan Gardner",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael P. Canty",
+          "title": "Partner, General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Naomi Stroock",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy Greenbaum",
+          "title": "Chief Investigative Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carol C. Villegas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

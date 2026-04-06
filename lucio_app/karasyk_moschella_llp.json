@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Karasyk & Moschella, LLP",
+    "website": "https://kmattorneys.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Union Representation",
+      "Representation of Law Enforcement and Civil Service Members",
+      "Criminal Defense",
+      "Civil Litigation",
+      "Real Estate",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Karasyk & Moschella, LLP provides innovative, aggressive, and highly competent representation in several key areas. They represent a wide range of individual, union and commercial clients in a wide range of legal issues, including criminal and civil litigation.",
+    "notable_facts": [
+      "Counsel for the unions representing all of the Detectives and Lieutenants of the New York City Police Department, the New York City Correction Officers Benevolent Association",
+      "Often represent New York City fire officers, probation and parole officers, federal agents and other government employees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sonya G. Chazin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.law360.com/firms/karasyk-moschella/attorneys/sonya-g-chazin"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

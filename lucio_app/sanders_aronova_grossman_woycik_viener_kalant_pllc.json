@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Sanders Grossman Aronova PLLC",
+    "website": "https://sgafirm.com/",
+    "city": "Garden City, NY",
+    "practice_areas": [
+      "No-Fault Collections",
+      "Workers\u2019 Compensation",
+      "Lien Collections"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sanders Grossman Aronova is an insurance litigation firm. The firm specializes in medical collections, consumer debt, liens, and workers compensation collections.",
+    "notable_facts": [
+      "Formerly known as Baker Sanders and Sanders Barshay Grossman.",
+      "The firm has a state-of-the-art infrastructure."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Douglas Sanders",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-218-3028",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc Grossman",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-218-3028",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ester Aronova",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-218-3028",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Neuwirth",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Cespedes",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

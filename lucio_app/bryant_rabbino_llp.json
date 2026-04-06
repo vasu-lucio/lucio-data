@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Bryant Rabbino LLP",
+    "website": "https://www.bryantrabbino.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Capital Markets & Finance",
+      "Real Estate",
+      "MWBE Certifications And MWBE Joint Ventures",
+      "Mergers & Acquisitions",
+      "Employee Benefits & Executive Compensation",
+      "Business Entity Formation, Governance, MWBE Structuring and Certification",
+      "General Corporate"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Bryant Rabbino LLP is a transactional law firm comprised of seasoned, diverse attorneys who represent sophisticated clients on complex matters. They offer top-notch services at competitive rates through their team of experienced, highly qualified attorneys.",
+    "notable_facts": [
+      "The Firm was originally formed on January 1, 2009 and was reorganized into Bryant Rabbino LLP on August 1, 2012.",
+      "Bryant Rabbino shifts focus to JFK Terminal Six after advising on4.55 billion green bond offerings for JFK New Terminal One"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Seth Bryant",
+        "title": "Managing Partner",
+        "email": "info@bryantrabbino.com",
+        "phone": "212-967-1800",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anne Adams Rabbino",
+          "title": "Partner",
+          "email": "arabbino@bryantrabbino.com",
+          "phone": "212.967.1800 ext 139",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aram Muradyan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sani A. Williams",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adrian Armoo",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

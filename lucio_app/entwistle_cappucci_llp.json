@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Entwistle & Cappucci LLP",
+    "website": "https://entwistle-law.com/",
+    "city": "Austin",
+    "practice_areas": [
+      "Securities Litigation",
+      "Commercial Litigation",
+      "Antitrust",
+      "Corporate Finance",
+      "Internal Investigations"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Entwistle & Cappucci LLP is a law firm representing public and private institutional investors in complex securities and commercial litigations. The firm also handles corporate finance and transactional matters, internal investigations, and general corporate matters.",
+    "notable_facts": [
+      "Recovered $126.3 million for investors in In re Alta Mesa Resources, Inc. Securities Litigation.",
+      "Recovered more than $1.1B for clients in In re Royal Ahold N.V. Securities and ERISA Litigation.",
+      "Successfully worked with the SIPA Trustee and regulators to negotiate the 100 percent recovery by customers of all net equity losses in the MF Global litigation."
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew J. Entwistle",
+        "title": "Managing Partner",
+        "email": "info@entwistle-law.com",
+        "phone": "212-894-7200",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vincent R. Cappucci",
+          "title": "Senior Partner, Chair of Securities Litigation Department",
+          "email": "info@entwistle-law.com",
+          "phone": "212-894-7200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert N. Cappucci",
+          "title": "Partner",
+          "email": "info@entwistle-law.com",
+          "phone": "212-894-7200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Arthur Nealon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harold Mcguire",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Margulis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Beemer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Green Kaminer Min & Rockmore LLP",
+    "website": "https://www.gkmrlaw.com",
+    "city": "New York City",
+    "practice_areas": [
+      "Matrimonial",
+      "International Family Law",
+      "International Child Abduction",
+      "Agreements",
+      "Family Law",
+      "Post Judgment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Green Kaminer Min and Rockmore LLP provides sophisticated family law representation for clients in Manhattan, throughout New York, nationally and internationally. They are known for their breadth and depth of experience with complex, multi-faceted cases as well as our compassionate, results-driven approach.",
+    "notable_facts": [
+      "The firm's lawyers have appeared before U.S. district courts, the U.S. Court of Appeals for the Second Circuit and local family law courts.",
+      "They are fully capable of handling both domestic and international family law cases in various courtrooms.",
+      "The firm has locations in New York City and Garden City, NY."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nancy M. Green",
+          "title": "Partner",
+          "email": "ngreen@gkmrlaw.com",
+          "phone": "212-681-6400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maggie Kaminer",
+          "title": "Partner",
+          "email": "212-921-5525",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Min",
+          "title": "Partner",
+          "email": "212-257-1944",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allison Rockmore",
+          "title": "Partner",
+          "email": "516-858-2115",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Banuchis",
+          "title": "Partner",
+          "email": "212-235-1786",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ilysa M. Magnus",
+          "title": "Partner",
+          "email": "212-681-6400",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bijitha \u201cGigi\u201d Varghese",
+          "title": "Partner",
+          "email": "212-921-5527",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

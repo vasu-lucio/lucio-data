@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Weidenbaum & Harari, LLP",
+    "website": "https://www.whfirm.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Construction"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Weidenbaum & Harari, a Manhattan-based law firm, focuses on serving the legal needs of the real estate and construction industries. They built their business through referrals from prior clients, leading NYC-area real estate brokers, building owners, contractors, and construction suppliers who appreciate their legal intelligence, hands-on approach, and creative solutions.",
+    "notable_facts": [
+      "The firm was founded by Barry Weidenbaum and Jack Harari.",
+      "They have successfully closed thousands of real estate transactions.",
+      "The firm emphasizes teamwork, trust, and honesty."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jack Harari",
+        "title": "Managing Partner",
+        "email": "jack@whfirm.com",
+        "phone": "212-832-7400 x4120",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Quinn M. Ramsay",
+        "title": "Office Manager",
+        "email": "info@whfirm.com",
+        "phone": "212-832-7400 x4117",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry Weidenbaum",
+          "title": "Of Counsel",
+          "email": "bjw@whfirm.com",
+          "phone": "212-832-7400 x4130",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eugene Sarantis",
+          "title": "Partner",
+          "email": "eugene@whfirm.com",
+          "phone": "212-832-7400 x4129",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Zadjelovich",
+          "title": "Partner",
+          "email": "michael@whfirm.com",
+          "phone": "212-832-7400 x4118",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Baron",
+          "title": "Partner",
+          "email": "jeffrey@whfirm.com",
+          "phone": "212-832-7400 x4127",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

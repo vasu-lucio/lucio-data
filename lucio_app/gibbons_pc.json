@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "FBT Gibbons LLP",
+    "website": "https://www.gibbonslaw.com/",
+    "city": "Newark",
+    "practice_areas": [
+      "Business & Commercial Litigation",
+      "Corporate",
+      "Employment & Labor Law",
+      "Financial Restructuring & Creditors\u2019 Rights",
+      "Manufacturing",
+      "Life Sciences",
+      "Finance",
+      "Energy"
+    ],
+    "lawyer_count": 800,
+    "firm_description": "FBT Gibbons LLP is a mid-market legal powerhouse with nearly 800 attorneys across 25 offices nationwide, formed through the combination of Frost Brown Todd and Gibbons. The firm is dedicated to exceeding client expectations by focusing on their growth and success.",
+    "notable_facts": [
+      "The firm was formed by the combination of Frost Brown Todd and Gibbons.",
+      "Gibbons was recognized as a 'Litigation Practice of the Year' by the New Jersey Law Journal five times.",
+      "The firm has been certified as a great workplace by the Great Place to Work\u00ae organization."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Peter J. Torcicollo",
+        "title": "Managing Director",
+        "email": null,
+        "phone": "+1 973 596 4500",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John S. Gibbons",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John S. Mairo",
+          "title": "Chair, Financial Restructuring & Creditors\u2019 Rights Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Peter",
+    "to_title": "Managing Director",
+    "to_email": null,
+    "subject": "AI for FBT Gibbons \u2014 built for firms managing complex litigation at scale",
+    "body": "Hi Peter,\n\nWith nearly 800 attorneys across 25 offices handling everything from business litigation to financial restructuring, FBT Gibbons operates at a scale where efficiency isn't just nice to have\u2014it's essential to staying competitive.\n\nI lead business at Lucio, an AI platform built for mid-market law firms managing BigLaw-level complexity with leaner operational teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and actually freeing up your best attorneys from document review and research.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd love to spend 20 minutes with you showing how firms like yours are using AI to handle higher case volumes without the proportional overhead.\n\nWorth a brief conversation?\n\nVasu\nLucio"
+  }
+}

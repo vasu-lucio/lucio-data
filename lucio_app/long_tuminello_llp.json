@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Long Tuminello, LLP",
+    "website": "https://www.longtuminellolaw.com/",
+    "city": "Bay Shore",
+    "practice_areas": [
+      "Criminal Law",
+      "Family Law",
+      "Civil Litigation",
+      "Bankruptcy",
+      "Real Estate",
+      "Professional Discipline",
+      "Matrimonial Law",
+      "Commercial Law",
+      "Construction Law",
+      "Corporate Law",
+      "Probate Law",
+      "Estate Planning Law"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Long Tuminello, LLP is a full-service law firm providing legal services to the Long Island community for nearly forty years. They offer legal counsel to individuals and businesses in various practice areas.",
+    "notable_facts": [
+      "The firm utilizes a team approach to leverage attorney strengths.",
+      "The firm provides free initial consultations.",
+      "The firm's attorneys include a former President of the Suffolk County Bar Association and members of various legal committees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John E. Long Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry M. Tuminello",
+          "title": "Member",
+          "email": null,
+          "phone": "631-666-2500",
+          "linkedin_url": null
+        },
+        {
+          "name": "David H. Besso",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Svendsen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Panasci",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle Aulivola",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

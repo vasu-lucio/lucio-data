@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Harter Secrest & Emery LLP",
+    "website": "https://hselaw.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Litigation",
+      "Corporate",
+      "Employee Benefits",
+      "Environmental and Land Use",
+      "Health Care",
+      "Higher Education",
+      "Immigration",
+      "Intellectual Property",
+      "Labor and Employment",
+      "Real Estate",
+      "Trusts and Estates Law"
+    ],
+    "lawyer_count": 120,
+    "firm_description": "Harter Secrest & Emery LLP is a full-service business law firm providing legal services to clients ranging from individuals and family-owned businesses to Fortune 100 companies and major regional institutions. The firm is a recognized leader in a variety of legal areas and is consistently recognized by industry ranking programs.",
+    "notable_facts": [
+      "Founded in 1894",
+      "Offices in Buffalo, Rochester, Albany, Corning, and New York City, New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Craig S. Wittlin",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "585.231.1260",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kristie Ball",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": "585.231.1284",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lucille Dadd",
+          "title": "Chief Legal Talent and Development Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy L. Hemenway",
+          "title": "Partner-in-Charge \u2013 Buffalo",
+          "email": null,
+          "phone": "716.844.3737",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy J. Kellogg",
+          "title": "Partner-in-Charge \u2013 Albany",
+          "email": null,
+          "phone": "518.434.4377",
+          "linkedin_url": null
+        },
+        {
+          "name": "C. Christopher Murillo",
+          "title": "Partner-in-Charge \u2013 New York",
+          "email": null,
+          "phone": "585.231.1396",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

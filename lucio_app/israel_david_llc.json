@@ -1,0 +1,119 @@
+{
+  "firm_data": {
+    "firm_name": "Israel David LLC",
+    "website": "https://davidllc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Shareholder Lawsuits",
+      "Securities Lawsuits",
+      "Class Action Lawsuits"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Israel David LLC is an elite litigation boutique, exclusively focused on high-stakes business disputes, shareholder and securities lawsuits and class action lawsuits. The firm has assembled a group of trial lawyers with the experience, tenacity and creativity to help clients navigate and win their most challenging cases.",
+    "notable_facts": [
+      "Routinely represents both plaintiffs and defendants.",
+      "Risk sharing with clients is a cornerstone of their practice.",
+      "The firm's founding partner successfully handled some of the largest shareholder & securities class action lawsuits in American history."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Adam M. Harris",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Israel David",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.350.8850",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Cianci",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hayley Elizabeth Lowe",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Cauchi",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hannah Belitz",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Barbecho",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Madeline Sheffield",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adia Davis",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Kahn",
+          "title": "Financial Analyst",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

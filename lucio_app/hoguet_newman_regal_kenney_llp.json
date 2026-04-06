@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Hoguet Newman Regal & Kenney, LLP",
+    "website": "https://hnrklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Insurance Recovery",
+      "Employment Law",
+      "White Collar Defense",
+      "Construction Disputes",
+      "Financial Services Litigation",
+      "Securities Litigation",
+      "Bank Litigation"
+    ],
+    "lawyer_count": 28,
+    "firm_description": "Hoguet Newman Regal & Kenney, LLP is a commercial litigation boutique dedicated to representing clients faced with sophisticated and demanding legal issues. The firm's lawyers utilize their decades of big firm litigation experience to effectively represent clients.",
+    "notable_facts": [
+      "Founded in 1996",
+      "Recognized for excellence in commercial litigation, insurance recovery, and employment law",
+      "Represents policyholders only in insurance recovery litigation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Fred Newman",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura B. Hoguet",
+          "title": "Founding Partner",
+          "email": "lhoguet@hnrklaw.com",
+          "phone": "212-689-8808",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John P Curley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bradley Nash",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Damian Cavaleri",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Helene Hechtkopf",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J Kenney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

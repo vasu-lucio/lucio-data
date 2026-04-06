@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Fanizzi & Barr, P.C.",
+    "website": "https://www.fanizziandbarr.com/",
+    "city": "Niagara Falls",
+    "practice_areas": [
+      "Personal Injury",
+      "Auto Accidents",
+      "Construction Injury",
+      "Product Liability",
+      "Slip and Fall Accidents",
+      "Dog Attacks",
+      "Sexual Abuse Cases"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Fanizzi & Barr, P.C. is a personal injury law firm located in Niagara Falls and Buffalo, New York. The firm specializes in various personal injury cases, including automobile accidents, construction accidents, product liability, slip and fall accidents, and dog attacks.",
+    "notable_facts": [
+      "The firm was founded on October 1, 2010.",
+      "Fanizzi & Barr was nicknamed \u201cNiagara\u2019s Injury Attorneys.\u201d",
+      "The firm has two locations: Niagara Falls and Buffalo."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Andrew D. Fanizzi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul K. Barr",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tina Kasperek",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

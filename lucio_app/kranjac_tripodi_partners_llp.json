@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Kranjac Tripodi & Partners LLP",
+    "website": "http://www.ktpllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Mergers and Acquisitions",
+      "Securities",
+      "General Corporate",
+      "Commercial Litigation",
+      "Employment Litigation",
+      "Legal Malpractice",
+      "Assisted Reproductive Technology",
+      "Real Estate Transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kranjac Tripodi & Partners LLP is a law firm with global reach, focusing on understanding business across different cultures and countries.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mario M. Kranjac",
+          "title": "Partner",
+          "email": "mkranjac@ktpllp.com",
+          "phone": "646-216-2400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Tripodi",
+          "title": "Partner",
+          "email": "jtripodi@ktpllp.com",
+          "phone": "646-216-2400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael E. Cavanaugh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jodi Johnson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Piergiorgio Maselli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

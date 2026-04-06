@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Pomerantz LLP",
+    "website": "https://pomlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Securities Litigation",
+      "Portfolio Monitoring",
+      "Corporate Governance",
+      "Consumer Litigation",
+      "Antitrust",
+      "ERISA class action litigation"
+    ],
+    "lawyer_count": 69,
+    "firm_description": "Pomerantz LLP is the oldest law firm in the world dedicated to representing defrauded investors. Founded in 1936, the firm champions shareholder and consumer rights and has shaped the law through landmark decisions.",
+    "notable_facts": [
+      "The firm was founded in 1936 by Abe Pomerantz.",
+      "Pomerantz has recovered billions of dollars on behalf of defrauded investors.",
+      "The firm has offices in New York City, Chicago, Los Angeles, London, Paris and Tel Aviv."
+    ],
+    "technology_signals": [
+      "PomTrack portfolio monitoring system"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jeremy A. Lieberman",
+        "title": "Managing Partner",
+        "email": "jalieberman@pomlaw.com",
+        "phone": "646-581-9971",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Abe Pomerantz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Pafiti",
+          "title": "PartnerHead of Client Services",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicolas Tatin",
+          "title": "Director-BusinessDevelopment Consultant for France,Benelux, Monaco and Switzerland",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

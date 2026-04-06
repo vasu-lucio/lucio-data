@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Gersowitz Libo & Korek, P.C.",
+    "website": "https://lawyertime.com",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Accident",
+      "Ride",
+      "Electrocution",
+      "Travel",
+      "Automobile"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Gersowitz Libo & Korek, P.C. is a personal injury law firm based in New York City that fights for the rights of individuals, recovering tens of millions of dollars for clients in New York and New Jersey.",
+    "notable_facts": [
+      "Recognized as one of the leading personal injury law firms in the area.",
+      "The firm was recognized by the National Law Journal for achieving the #1 and #4 top verdicts in the country for an $18 million settlement and a $12 million settlement respectively."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Edward H. Gersowitz",
+        "title": "Co-Founder",
+        "email": "info@lawyertime.com",
+        "phone": "212-385-4410",
+        "linkedin_url": "https://www.lawyertime.com/edward-h-gersowitz/"
+      },
+      "co_managing_partner": {
+        "name": "Andrew L. Libo",
+        "title": "Co-Founder",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeff S. Korek",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/gersowitz-libo-%26-korek-p.c."
+        },
+        {
+          "name": "Michael A. Fruhling",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer K. Fink",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacey T. Sokol",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brielle C. Goldfaden",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicolas Bagley",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James H. Bartolomei",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

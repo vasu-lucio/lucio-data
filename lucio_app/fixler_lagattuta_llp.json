@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Fixler & LaGattuta, LLP",
+    "website": "https://www.fixlerlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury Defense",
+      "Professional Liability Defense",
+      "Property Damage Claims"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fixler & LaGattuta, LLP is a law firm concentrating on the defense of personal injury, professional liability and property damage claims. The Firm provides quality legal representation utilizing the partners' combined litigation and transactional experience to minimize its clients\u2019 legal and indemnity costs, while maximizing all available benefits afforded them by the law.",
+    "notable_facts": [
+      "The firm maintains offices in downtown Manhattan.",
+      "The firm offers seminars on recent trends and their impact on risk management and loss control."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason L. Fixler",
+          "title": "Partner",
+          "email": "jfixler@fixlerlaw.com",
+          "phone": "212.785.9800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul F. LaGattuta III",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.785.9800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Luigi Tollis",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 785-9800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Jacob Pincus",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 785-9800",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

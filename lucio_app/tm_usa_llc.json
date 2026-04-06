@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "T&M USA, LLC",
+    "website": "https://tmusallc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Security",
+      "Investigations",
+      "Executive Protection",
+      "Secure Travel Services",
+      "Consulting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "T&M USA, LLC is a global security consulting company that provides executive protection, secure travel services, and investigations. They offer customized approaches to safety, intelligence, cyber, and investigative needs.",
+    "notable_facts": [
+      "Founded in 1981",
+      "Headquartered in New York, with a presence in Israel",
+      "Acquired T&M UK HOLDINGS LTD and T&M PROTECTION RESOURCES HOLDINGS ITALY SRL"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Meryl Lutsky",
+        "title": "Chief Operating Officer & General Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael J. Mansfield",
+          "title": "President",
+          "email": "mmansfield@tmusallc.com",
+          "phone": "212.916.8854",
+          "linkedin_url": null
+        },
+        {
+          "name": "George Sax",
+          "title": "Chief Security Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Martin Gleeson",
+          "title": "Deputy General Counsel & Chief Compliance Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/martin-gleeson-797b8416a"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

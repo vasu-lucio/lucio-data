@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Empire Justice Center",
+    "website": "https://empirejustice.org/",
+    "city": "Albany",
+    "practice_areas": [
+      "Civil Rights",
+      "Community Reinvestment Act",
+      "Crime Victims",
+      "Domestic Violence",
+      "Foreclosure Prevention",
+      "Public Benefits",
+      "Health",
+      "Immigration",
+      "LGBTQ Rights",
+      "Tax Advocacy Program",
+      "Police Reform Project",
+      "School Discrimination",
+      "Social Security/SSI",
+      "Student Debt Counseling",
+      "Tenant Advocacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Empire Justice is a non-profit law firm dedicated to changing the law for all New Yorkers, especially those who need its protection most. Through a 360-degree approach that includes litigation, education, and policy advocacy, we use the law to make access to justice more equitable.",
+    "notable_facts": [
+      "Since 1973, Empire Justice Center has helped protect and strengthen the rights of millions of New Yorkers.",
+      "The firm utilizes a 360-degree approach encompassing litigation, education, and policy advocacy."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kristin Brown",
+          "title": "President & CEO",
+          "email": null,
+          "phone": "(518) 462-6831",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jill Paperno",
+          "title": "Chief Strategy Officer",
+          "email": null,
+          "phone": "(585) 454-4060",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex Dery Snider",
+          "title": "Policy and Communications Director",
+          "email": null,
+          "phone": "(518) 935-2843",
+          "linkedin_url": null
+        },
+        {
+          "name": "AJ Durwin",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": "(585) 454-4060",
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Woods",
+          "title": "Supervising Senior Attorney",
+          "email": null,
+          "phone": "(518) 462-6831",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

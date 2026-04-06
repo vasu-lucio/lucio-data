@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Dewey Pegno & Kramarsky LLP",
+    "website": "https://dpklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex commercial litigation",
+      "Securities matters",
+      "Internal investigations",
+      "Government investigations",
+      "Dispute resolution"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Dewey Pegno & Kramarsky LLP is a litigation boutique that specializes in complex commercial and securities matters, as well as internal and government investigations. The firm has an established record of successfully representing businesses and individuals in complex civil litigation and arbitration.",
+    "notable_facts": [
+      "Founded in 1998 by lawyers from Cravath, Swaine & Moore LLP and Kaye Scholer LLP.",
+      "Recommended as a leading law firm for New York General Commercial Litigation by Chambers & Partners.",
+      "Recognized by Best Lawyers and U.S. News & World Report\u2019s Best Law Firms in New York City Litigation - Securities, Tier 3.",
+      "Named twice by The National Law Journal to its Litigation Boutiques Hot List."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David S. Pegno",
+        "title": "Partner",
+        "email": "dpegno@dpklaw.com",
+        "phone": "212-943-9000 x 103",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sean K. Mullen",
+          "title": "Partner",
+          "email": "smullen@dpklaw.com",
+          "phone": "212-943-9000 x 109",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas E.L. Dewey",
+          "title": "Partner",
+          "email": "tdewey@dpklaw.com",
+          "phone": "212-943-9000 x 105",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen M. Kramarsky",
+          "title": "Partner",
+          "email": "skramarsky@dpklaw.com",
+          "phone": "212-943-9000 x 104",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ariel P. Cannon",
+          "title": "Partner",
+          "email": "acannon@dpklaw.com",
+          "phone": "212-943-9000 x 128",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

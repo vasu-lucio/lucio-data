@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Devitt Spellman Barrett, LLP",
+    "website": "https://devittspellmanlaw.com/",
+    "city": "Smithtown",
+    "practice_areas": [
+      "Municipal Law",
+      "Insurance Defense",
+      "Corporate",
+      "DUI-DWI",
+      "Insurance",
+      "Litigation",
+      "Car Accident",
+      "Personal Injury",
+      "Traffic",
+      "Labor Law",
+      "Employment",
+      "Constitutional Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Devitt Spellman Barrett, LLP represents insurers and their insureds in actions involving construction and New York State labor law claims, negligence including automobile liability, premises liability, product liability, liquor liability, municipal liability for roadway design and maintenance, sidewalk liability as well as contract and insurance coverage issues. The firm also defends municipalities and school districts in various claims.",
+    "notable_facts": [
+      "Represents towns, villages and school districts in Suffolk County.",
+      "Experienced in Section 1983 Municipal Civil Rights actions.",
+      "Handles complex consent decrees and settlement agreements."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William J. Barrett",
+          "title": "Retired Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin M. Spellman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://engage.firmprospects.com/public/attorneys/BOr1RaYw/devitt-spellman-barrett-llp/kevin-m-spellman"
+        },
+        {
+          "name": "John M. Shields",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://engage.firmprospects.com/public/attorneys/1w3Gn74w/devitt-spellman-barrett-llp/john-m-shields"
+        },
+        {
+          "name": "Andre Nicholas Poulis",
+          "title": "Lawyer",
+          "email": null,
+          "phone": "631-724-8833",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Stuart Condon",
+          "title": "Lawyer",
+          "email": null,
+          "phone": "631-724-8833",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Merchant & Gould P.C.",
+    "website": "https://merchantgould.com/",
+    "city": "Minneapolis",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Patent Law",
+      "Trademark Law",
+      "Copyright Law",
+      "Licensing Agreements",
+      "Trade Secret Litigation"
+    ],
+    "lawyer_count": 221,
+    "firm_description": "Merchant & Gould P.C. is an intellectual property law firm specializing in patent, trademark, and copyright law, as well as licensing agreements and trade secret litigation. They represent a diverse range of clients, from individual inventors to Fortune 500 companies.",
+    "notable_facts": [
+      "Founded in 1900",
+      "221 employees",
+      "Annual revenue of $16 million"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian H. Batzli",
+          "title": "Partner",
+          "email": "BBatzli@MerchantGould.com",
+          "phone": "612.336.4755",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael A. Erbele",
+          "title": "Partner",
+          "email": "MErbele@MerchantGould.com",
+          "phone": "612.336.4670",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kerry Timbers",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Tittemore",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce Sunstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

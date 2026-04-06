@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Chadbourne & Parke LLP",
+    "website": "chadbourne.com",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Chadbourne & Parke combined with Norton Rose Fulbright on July 1, 2017. The combination significantly strengthens the client offerings as well as the practice and industry capabilities of the newly expanded global firm.",
+    "notable_facts": [
+      "Founded in 1902",
+      "Operates in 7 countries",
+      "Combined with Norton Rose Fulbright on July 1, 2017"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Philip Goodman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Friedrich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Ingerman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rob Colby",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chaim Wachsberger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

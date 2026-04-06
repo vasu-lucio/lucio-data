@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Freehill Hogan & Mahar LLP",
+    "website": "https://www.freehill.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Maritime Law",
+      "Trucker and Motor Carrier Liability",
+      "Premises Liability",
+      "Mass Tort",
+      "Defense of Occupational Disease Cases",
+      "Maritime Environmental Criminal Defense",
+      "White Collar Criminal Defense",
+      "Terminal Liability",
+      "Commercial Litigation",
+      "Commodities Sales Contracts",
+      "Workers\u2019 Compensation",
+      "Defense Base Act",
+      "Defense of Asbestos and Toxic Tort Cases",
+      "Sanctions Compliance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Freehill Hogan & Mahar LLP is a global law firm focused on transportation, international trade, insurance, and personal injury defense. They have produced practical solutions and successful results for their clients for over seventy years.",
+    "notable_facts": [
+      "Founded in 1952",
+      "The firm has 17 current partners who have an average of over 20 years each with the firm.",
+      "The firm is well-known for taking a commercial view of problems and seeking reasonable commercial solutions for their clients."
+    ],
+    "technology_signals": [
+      "well",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter Gutowski",
+          "title": "Partner",
+          "email": "gutowski@freehill.com",
+          "phone": "212-381-3008",
+          "linkedin_url": null
+        },
+        {
+          "name": "Yaakov Adler",
+          "title": "Partner",
+          "email": "adler@freehill.com",
+          "phone": "212-381-3026",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Dehart",
+          "title": "Partner",
+          "email": "dehart@freehill.com",
+          "phone": "212-381-3022",
+          "linkedin_url": null
+        },
+        {
+          "name": "John Karpousis",
+          "title": "Partner",
+          "email": "karpousis@freehill.com",
+          "phone": "212-381-3020",
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin T. Nastro",
+          "title": "Partner",
+          "email": "nastro@freehill.com",
+          "phone": "212-381-3033",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

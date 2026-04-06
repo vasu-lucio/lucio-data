@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Kobre & Kim LLP",
+    "website": "https://kobrekim.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Disputes",
+      "Investigations",
+      "International Fraud",
+      "Misconduct",
+      "Cross-Border Disputes",
+      "Financial Disputes",
+      "Commercial Disputes",
+      "Insolvency Disputes",
+      "Government Enforcement",
+      "Regulatory Investigations",
+      "Judgment Enforcement",
+      "Intellectual Property Litigation"
+    ],
+    "lawyer_count": 332,
+    "firm_description": "Kobre & Kim is a conflict-free global law firm focused exclusively on disputes and investigations, particularly those involving international fraud and misconduct. The firm is aggressive and trial-ready, focusing on the heart of a dispute, and operates out of offices in the Americas, Asia-Pacific, the Caribbean, and EMEA.",
+    "notable_facts": [
+      "The firm was founded in 2003.",
+      "Kobre & Kim employs English solicitors and barristers, Hong Kong solicitors, offshore lawyers, and U.S. trial lawyers.",
+      "The firm has experience with simultaneous proceedings in U.S. and non-U.S. courts, as well as offshore jurisdictions and international dispute resolution centers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steven G. Kobre",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael S. Kim",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Michael Friedman",
+        "title": "Chief Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary I. Singer",
+          "title": "Chief Strategy Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rajesh Ankalkoti",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ra\u00fal Monroig",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

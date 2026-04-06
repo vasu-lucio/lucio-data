@@ -1,0 +1,119 @@
+{
+  "firm_data": {
+    "firm_name": "Rosenberg & Gluck, LLP",
+    "website": "https://lilawyer.com",
+    "city": "Holtsville",
+    "practice_areas": [
+      "Auto Accidents",
+      "Truck Accidents",
+      "Bicycle Accidents",
+      "Dog Bites",
+      "Construction Accidents",
+      "Medical Malpractice",
+      "Nursing Home Abuse",
+      "Premises Liability",
+      "Wrongful Death",
+      "Dangerous Drugs"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rosenberg & Gluck, LLP is a personal injury law firm serving Suffolk County, Nassau County, and the Boroughs. They concentrate solely on recovering compensation for victims of accidents, malpractice, and dangerous products.",
+    "notable_facts": [
+      "The firm was established in 1996 by Ted Rosenberg and Michael Gluck.",
+      "They offer a free consultation to discuss your accident.",
+      "The firm's attorneys blend more than 100 years of experience in prosecuting personal injury claims."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ted Rosenberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Gluck",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Bligh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin Hargis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Famiglietti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary A. Pagliarello",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel P. Cronin Jr.",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Devlin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

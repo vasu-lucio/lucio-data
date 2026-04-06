@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Schulte Roth & Zabel LLP",
+    "website": "https://srz.com",
+    "city": "New York",
+    "practice_areas": [
+      "Investment Management",
+      "Corporate and Transactional Matters",
+      "Securities Regulatory Compliance"
+    ],
+    "lawyer_count": 365,
+    "firm_description": "Schulte Roth & Zabel LLP (SRZ) comprises legal advisers and commercial problem-solvers who combine exceptional experience, industry insight, integrated intelligence and commercial creativity to help clients raise and invest assets and protect and expand their businesses. The firm has offices in New York, Washington, DC and London.",
+    "notable_facts": [
+      "Focus on private capital.",
+      "Advises clients on investment management, corporate and transactional matters.",
+      "Provides counsel on securities regulatory compliance, enforcement and investigative issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David Efron",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Brian Schare",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard Piotrowicz",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Barton",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A. M.",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

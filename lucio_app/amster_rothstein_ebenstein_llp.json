@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Amster Rothstein & Ebenstein LLP",
+    "website": "https://arelaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property"
+    ],
+    "lawyer_count": 35,
+    "firm_description": "Amster Rothstein & Ebenstein LLP is a modern law firm at the leading-edge of intellectual property services. Since 1953, the firm has focused exclusively on representing clients in all facets of intellectual property law both domestically and internationally.",
+    "notable_facts": [
+      "Founded in 1953",
+      "Focused exclusively on intellectual property law",
+      "Represents clients in a broad spectrum of industries"
+    ],
+    "technology_signals": [
+      "Handles intellectual property in blockchain and artificial intelligence"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Richard Mandaro",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michael Lafferty",
+        "title": "Director Of Information Technology And Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Douglas A Miro",
+          "title": "Intellectual Property Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Achkar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chester Rothstein",
+          "title": "Intellectual Property Partner - Trademarks, Copyrights, Design Patents",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/amster-rothstein-&-ebenstein/",
+    "linkedin_size": "51-200"
+  },
+  "email": {}
+}

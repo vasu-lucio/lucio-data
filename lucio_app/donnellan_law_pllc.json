@@ -1,0 +1,48 @@
+{
+  "firm_data": {
+    "firm_name": "Donnellan Law, PLLC",
+    "website": null,
+    "city": "Ballston Spa",
+    "practice_areas": [
+      "Divorce & Family Law"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Donnellan Law, PLLC is a divorce & family law firm located in Ballston, Spa, NY. The attorneys at Donnellan Law, PLLC understand that divorce & family law matters can be challenging, emotional, and overwhelming and work proactively with clients to create a personal \u201clegal roadmap.\u201d",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

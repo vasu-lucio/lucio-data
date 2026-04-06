@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Akerman LLP",
+    "website": "https://akerman.com/",
+    "city": "Miami",
+    "practice_areas": [
+      "Bankruptcy and Reorganization",
+      "Consumer Financial Services",
+      "Data and Technology",
+      "Corporate",
+      "Government Strategies",
+      "Healthcare",
+      "Intellectual Property",
+      "Labor and Employment",
+      "Litigation",
+      "Real Estate",
+      "Tax"
+    ],
+    "lawyer_count": 700,
+    "firm_description": "Akerman LLP is an Am Law 100 firm with more than 700 lawyers across the United States, providing legal advocacy and guidance for industries from technology to construction. The firm delivers results across a range of practice areas and is known for its culture of innovation.",
+    "notable_facts": [
+      "Akerman posted record revenue of $627M in 2025.",
+      "Akerman was named 'Law Firm of the Year' for Leveraged Buyouts and Private Equity Law by Best Lawyers' 2026 'Best Law Firms' Guide.",
+      "Akerman ranks among PitchBook's Top Busiest Law Firms in M&A, PE.",
+      "Akerman is named among Vault Law\u2019s 100 Most Prestigious Law Firms."
+    ],
+    "technology_signals": [
+      "Akerman and USC Gould School of Law launch flagship Law+AI Initiative to bridge legal scholarship and commercial innovation."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Scott A. Meyers",
+        "title": "Chairman and CEO",
+        "email": "scott.meyers@akerman.com",
+        "phone": "+1 312 634 5701",
+        "linkedin_url": "https://www.linkedin.com/in/scott-meyers-7194b71"
+      },
+      "co_managing_partner": {
+        "name": "Luis A. Perez",
+        "title": "Co-Office Managing Partner",
+        "email": "luis.perez@akerman.com",
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/luis-a-perez-hernandez-29630822/"
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Azfar Shamsi",
+        "title": "Chief Information Officer",
+        "email": "azfar.shamsi@akerman.com",
+        "phone": "+1 312 870 8088",
+        "linkedin_url": "https://www.linkedin.com/in/shamsi/"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Akerman and USC Gould School of Law launched a Law+AI Initiative."
+      },
+      "additional_contacts": [
+        {
+          "name": "David Ristaino",
+          "title": "Chief Operating Officer",
+          "email": "david.ristaino@akerman.com",
+          "phone": "+1 305 982 5554",
+          "linkedin_url": "https://www.linkedin.com/in/david-ristaino-55054611"
+        },
+        {
+          "name": "Neisen Kasdin",
+          "title": "Co-Office Managing Partner",
+          "email": "neisen.kasdin@akerman.com",
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/NeisenKasdin/"
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Azfar",
+    "to_title": "Chief Information Officer",
+    "to_email": "azfar.shamsi@akerman.com",
+    "subject": "AI for Akerman \u2014 scaling legal ops across 700+ lawyers",
+    "body": "Hi Azfar,\n\nI noticed Akerman just launched the Law+AI Initiative with USC Gould and posted record $627M revenue\u2014you're clearly moving fast on both innovation and growth. Managing tech infrastructure across 700+ lawyers and 11 practice areas while staying competitive on AI is exactly the challenge we solve.\n\nI lead business at Lucio, an AI platform built for law firms navigating BigLaw-scale demands. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and operational efficiency that actually scale.\n\nGiven Akerman's AI ambitions and your ops complexity, I'd love to show you how we're helping similar firms automate the right work\u2014without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
+}

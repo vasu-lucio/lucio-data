@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "John J. Fromen, Attorneys at Law, P.C.",
+    "website": "https://fromenlaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Products Liability",
+      "Federal Trial Practice",
+      "Medical Malpractice",
+      "Litigation",
+      "Civil Rights",
+      "Car Accident Lawyers",
+      "Truck Accident Lawyers",
+      "Rideshare Accident Lawyers",
+      "Pedestrian Accident Lawyers",
+      "Motorcycle Accident Lawyers",
+      "Drunk Driving Accident Lawyers",
+      "Wrongful Death Lawyers",
+      "Construction Accident Lawyers",
+      "Slip & Fall Lawyers",
+      "Dog Bite Lawyers",
+      "Work Injury Lawyers",
+      "Product Liability Lawyers"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fromen Injury Law has fought for those in need for over 60 years. They handle car crashes, slip and falls, and accidents caused by someone else\u2019s wrongdoing.",
+    "notable_facts": [
+      "Sponsor of the Western New York High School Club Hockey League.",
+      "Partnered with Hope Rises to celebrate first responders in Western New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Christina Fetzer",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/fromeninjurylaw"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas J. Grillo",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J. Fromen, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

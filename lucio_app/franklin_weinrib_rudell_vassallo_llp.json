@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Franklin, Weinrib, Rudell & Vassallo, P.C.",
+    "website": "https://www.fwrv.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Entertainment Law",
+      "Authors and Literary Publishing",
+      "Branded Entertainment",
+      "Copyright",
+      "Corporate",
+      "Defamation",
+      "Digital Media",
+      "Documentaries",
+      "Executive Employment Agreements",
+      "Home Entertainment",
+      "Licensing, Merchandising & Celebrity Endorsements",
+      "Motion Pictures",
+      "Music",
+      "Performing Arts",
+      "Privacy & Publicity Rights",
+      "Television",
+      "Theater"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Franklin, Weinrib, Rudell & Vassallo, P.C. is a law firm specializing in entertainment law. They offer legal services in areas such as motion pictures, television, music, theater, and literary publishing.",
+    "notable_facts": [
+      "Established in 1965",
+      "Martindale-Hubbell Peer AV Preeminent Rating",
+      "Ranked in Chambers USA Guide 2025 for Media & Entertainment: Advisory"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kenneth Weinrib",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elliot H Brown",
+          "title": "Senior Statespeople",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

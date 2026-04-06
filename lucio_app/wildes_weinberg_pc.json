@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Wildes & Weinberg, P.C.",
+    "website": "https://www.wildeslaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Immigration and Nationality Law",
+      "Business Visas & EB-5",
+      "Family Immigration",
+      "Consular Practice",
+      "O & P Visas",
+      "Asylum & Litigation",
+      "I-9 Compliance"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Wildes & Weinberg, P.C., is a law firm concentrating in the Immigration and Nationality field, growing out of the practice of Leon Wildes, Esq., a distinguished immigration practitioner in New York City. The firm is known for its prompt and efficient service and individualized attention to its clients' problems.",
+    "notable_facts": [
+      "Leon Wildes successfully represented John Lennon in his deportation proceedings.",
+      "The firm has been serving clients for over 65 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Wildes",
+        "title": "Managing Partner",
+        "email": "michael@wildeslaw.com",
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/michael-wildes-6a6bb74/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Leon Wildes",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven Weinberg",
+          "title": "Senior Partner Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

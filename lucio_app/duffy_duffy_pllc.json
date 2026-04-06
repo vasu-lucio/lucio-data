@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Duffy & Duffy, PLLC",
+    "website": "https://duffyduffylaw.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Nursing Home Abuse",
+      "Personal Injury",
+      "Birth Injury",
+      "Brain Injury",
+      "Hospital Negligence",
+      "Car Accidents",
+      "Mass Tort"
+    ],
+    "lawyer_count": 27,
+    "firm_description": "Duffy & Duffy, PLLC is a premier New York law firm specializing in medical malpractice, nursing home abuse, and personal injury with offices in Long Island and New York City. They concentrate in medical malpractice and general personal injury claims on behalf of injured parties only.",
+    "notable_facts": [
+      "The firm was started in 2001 by James Duffy and his son Michael.",
+      "They have handled complex claims in both the State and Federal Courts on behalf of their clients and on referrals from other attorneys.",
+      "All initial appointments and meetings are free of charge and their fee is based on a \"contingency\" arrangement."
+    ],
+    "technology_signals": [
+      "QuickBooks"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Michael E. Duffy",
+        "title": "Managing Partner and General Counsel",
+        "email": "mduffy@duffyduffylaw.com",
+        "phone": "516-394-4200",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "James Duffy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jessica Lockhart",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ammad Sheikh",
+          "title": "Senior Vice President Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Duffy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cliff Argintar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

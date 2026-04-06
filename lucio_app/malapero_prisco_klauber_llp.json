@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Malapero Prisco & Klauber LLP",
+    "website": "https://malaperoprisco.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate Practice",
+      "Construction & Labor Law Litigation",
+      "Insurance Policy Coverage",
+      "Comprehensive Insurance Defense",
+      "Automobile Liability",
+      "Premises Liability Defense",
+      "Products Liability Defense",
+      "Property Damage/Subrogation",
+      "Workers' Compensation Litigation",
+      "Environmental & Toxic Tort Law",
+      "Professional Liability Defense"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Malapero Prisco & Klauber is a law firm that serves New York and New Jersey with years of litigation experience and a commitment to cost-effective defense strategies. The firm has extensive experience in the defense of Labor Law and construction accident litigation, insurance coverage, general insurance defense including motor vehicle, premises liability and products liability, property damage/subrogation and Workers\u2019 Compensation defense services.",
+    "notable_facts": [
+      "Martindale-Hubbell\u00a9 AV\u00ae rated \u2122 law firm",
+      "Practices in New York and New Jersey, including the United States Supreme Court"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Raymond J. Malapero",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "212.661.7300",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew L. Klauber",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.661.7300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd Powell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tracy Frankel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

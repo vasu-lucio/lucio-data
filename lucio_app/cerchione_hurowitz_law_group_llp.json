@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Cerchione Hurowitz Law Group LLP",
+    "website": "https://cerchionehurowitz.law/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "Cerchione Hurowitz Law Group LLP is a law practice representing injured individuals with clarity, accessibility, and litigation-ready resources. The firm is built on decades of New York City personal injury experience.",
+    "notable_facts": [
+      "Employs 7 people.",
+      "Founded in January 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory T. Cerchione",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Charles J. Hurowitz",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/charles-hurowitz-43abb392"
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lee Michael Huttner",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Mingino",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Arnie Baum",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

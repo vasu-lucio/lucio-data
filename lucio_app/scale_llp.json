@@ -1,0 +1,117 @@
+{
+  "firm_data": {
+    "firm_name": "Scale LLP",
+    "website": "https://scalefirm.com/",
+    "city": "Silicon Valley",
+    "practice_areas": [
+      "Corporate & Securities",
+      "Litigation & Regulatory",
+      "Intellectual Property",
+      "General Counsel Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Scale LLP is a full-service, national modern law firm founded by former tech company general counsel that leverages a tech-forward, distributed platform to reduce overhead and increase efficiency for clients and team.",
+    "notable_facts": [
+      "The firm was founded by former tech company general counsel.",
+      "Scale uses a tech-forward, distributed platform.",
+      "Scale integrates AI and automation into daily practice \u2013 streamlining work and accelerating response time."
+    ],
+    "technology_signals": [
+      "Tech-forward platform",
+      "AI integration",
+      "Automation"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "David Reidy",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Adam Forest",
+          "title": "Founding Partner",
+          "email": "adam@scalefirm.com",
+          "phone": "415.735.5933",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Scale integrates AI and automation into daily practice \u2013 streamlining work and accelerating response time."
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Detwiler",
+          "title": "Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Elliott",
+          "title": "Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. \u201cBob\u201d Gans",
+          "title": "Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles R. \u201cChuck\u201d Kraus",
+          "title": "Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristen Smith-Dayley",
+          "title": "Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cary Ullman",
+          "title": "Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jamie Wells",
+          "title": "Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

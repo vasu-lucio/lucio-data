@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Hoffman Warnick LLC",
+    "website": "https://hoffmanwarnick.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patent Prosecution",
+      "Trademarks & Copyrights",
+      "Transactions & Licensing"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hoffman Warnick is singularly dedicated to intellectual property law. Formed in 1999, they built their firm on an important goal: to resolve each of their clients\u2019 intellectual property needs through customized service in the most responsive yet cost-effective manner.",
+    "notable_facts": [
+      "Obtain in excess of 400 patents for clients annually.",
+      "Employs 3 former USPTO Examiners.",
+      "Clients include small start-ups, mid-sized companies, Fortune 100 companies, and colleges and universities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael F. Hoffman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "518-449-0044",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Spencer K. Warnick",
+        "title": "Member",
+        "email": null,
+        "phone": "518-449-0044",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Franklin S. Abrams",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Henn",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Trevor C. Jackson",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

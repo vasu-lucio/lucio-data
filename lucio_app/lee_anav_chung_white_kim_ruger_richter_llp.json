@@ -1,0 +1,117 @@
+{
+  "firm_data": {
+    "firm_name": "Lee Anav Chung White Kim Ruger & Richter LLP",
+    "website": "https://www.lacwkrr.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Complex Business and Corporate Litigation",
+      "Cross-Border Litigation and ADR",
+      "Intellectual Property Enforcement and Defense",
+      "Matrimonial and Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "LEE ANAV CHUNG WHITE KIM RUGER & RICHTER LLP is a boutique national law firm committed to providing its clients with sound legal advice and representation in complex legal matters. They shun \"cookie-cutter\" solutions and litigation strategies that amount to \"throwing money at the problem,\" instead relying on the collective expertise and experience of their attorneys to deliver sophisticated and business-savvy solutions in a cost-effective manner.",
+    "notable_facts": [
+      "Ranked in Best Law Firms by U.S. News & World Report and Best Lawyers in 2020"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jay J. Chung",
+          "title": "Partner",
+          "email": "jaychung@lacwkrr.com",
+          "phone": "(213)785-1322",
+          "linkedin_url": null
+        },
+        {
+          "name": "Harry H. W. Kim",
+          "title": "Partner",
+          "email": "harrykim@lacwkrr.com",
+          "phone": "(213) 785-1323",
+          "linkedin_url": null
+        },
+        {
+          "name": "Hansin (Scott) Kim",
+          "title": "Partner",
+          "email": "hskim@lacwkrr.com",
+          "phone": "(213) 455-5983",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bub-Joo S. Lee",
+          "title": "Partner",
+          "email": "bjslee@lacwkrr.com",
+          "phone": "(213) 785-1321",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard M. Ruger",
+          "title": "Partner",
+          "email": "richardruger@lacwkrr.com",
+          "phone": "(213) 321-0802",
+          "linkedin_url": null
+        },
+        {
+          "name": "Judith E. White",
+          "title": "Partner",
+          "email": "judywhite@lacwkrr.com",
+          "phone": "+1 (212) 271-0664",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dohee Kim",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1 (212) 271-0664",
+          "linkedin_url": null
+        },
+        {
+          "name": "Naephil (Naf) Kwun",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1 (212) 271-0664",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aimee L. Richter",
+          "title": "Partner",
+          "email": "aimeerichter@lacwkrr.com",
+          "phone": "+1 (212) 271-0664",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

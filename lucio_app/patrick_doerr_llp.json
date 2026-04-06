@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "PATRICK DOERR LLP",
+    "website": "https://www.patrickdoerr.com/",
+    "city": null,
+    "practice_areas": [
+      "Major Disputes & Litigation",
+      "Intellectual Property",
+      "Corporate & General Counsel",
+      "Entertainment, Film, Streaming, Music & Theater",
+      "Artists, Icons & Creators",
+      "High-Net Worth Disputes",
+      "Fashion, Beauty & Luxury",
+      "Business",
+      "Technology",
+      "Entertainment & Media",
+      "Fashion & Design",
+      "Live Events & Venues",
+      "Private Client"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Patrick Doerr LLP is a modern law firm that advises, advocates, builds, and collaborates with clients on major disputes and transactions worldwide and helps develop and protect brands and intellectual property.",
+    "notable_facts": [
+      "The firm focuses on industries driving tomorrow such as technology, entertainment & media, fashion & design and live events & venues.",
+      "The firm combines IP expertise with an understanding of fashion's commercial realities"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Patrick",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Mark Doerr",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Timothy Chow",
+        "title": "Managing Director & Senior Advisor",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Rando",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/patrick-doerr-45365b7"
+        },
+        {
+          "name": "Mitchell Stein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carr Davis",
+          "title": "Of Counsel, Chair of IP Monetization & Diligence Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Monifa Hall",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Berger",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

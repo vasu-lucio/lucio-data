@@ -1,0 +1,113 @@
+{
+  "firm_data": {
+    "firm_name": "Beldock Levine & Hoffman LLP",
+    "website": "https://blhny.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Rights",
+      "Employment Law",
+      "Art and Entertainment Law",
+      "Family and Matrimonial Law",
+      "Mental Health Law",
+      "Criminal Defense",
+      "Real Estate",
+      "Estate Planning and Administration"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Beldock Levine & Hoffman LLP is a boutique law firm in New York City that provides legal services in areas such as civil rights, employment, art and entertainment, family law, mental health law, criminal defense, non-profit formation and maintenance, real estate, and estate planning and administration. The firm was responsible for the ground-breaking class action, Floyd v. City of New York, which successfully overturned the NYPD\u2019s decade-long unconstitutional stop-and-frisk policy.",
+    "notable_facts": [
+      "Represented plaintiffs in the Central Park Five case.",
+      "Represented over 1,800 individuals falsely arrested during the 2004 Republican National Convention.",
+      "The firm was formed in 1964."
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Myron Beldock",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Herbst",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Henry Dlugacz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Rankin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kay Thompson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Moore",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Dippold",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/beldock-levine-&-hoffman"
+  },
+  "email": {}
+}

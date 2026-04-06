@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Stone Studin Young & Nigro Law Group, LLP",
+    "website": "https://www.ssynlaw.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Business Law",
+      "Divorce & Family Law",
+      "Corporate & Business Law",
+      "Commercial Litigation",
+      "Divorce & Equitable Distribution",
+      "Child Custody and Modification",
+      "Startups, Entrepreneurs & Investors",
+      "Business Divorce & Owner Disputes",
+      "Divorce Mediation",
+      "Pre and Post Nuptial",
+      "Commercial Litigation",
+      "Corporate and Real Estate Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Stone Studin Young & Nigro Law Group, LLP blends family law and business law to protect clients, whether they\u2019re contemplating a marriage or contemplating a divorce. The firm assists with routine business matters, contract negotiation, and litigation, as well as asset division, child custody, and spousal support in family law.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jill Stone",
+          "title": "ESQ.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Studin Young",
+          "title": "ESQ.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.ssynlaw.com/the-team/melissa-studin-young/"
+        },
+        {
+          "name": "Stacey Nigro",
+          "title": "ESQ.",
+          "email": "snigro@ssynlaw.com",
+          "phone": "516-679-4300",
+          "linkedin_url": "https://www.ssynlaw.com/the-team/stacey-nigro/"
+        },
+        {
+          "name": "Jenna Razzano",
+          "title": "ESQ.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gina Provenzano",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

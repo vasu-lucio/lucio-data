@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Reichman Jorgensen Lehman Feldberg LLP",
+    "website": "https://www.reichmanjorgensen.com/",
+    "city": "Redwood Shores",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Intellectual Property",
+      "White Collar Disputes"
+    ],
+    "lawyer_count": 48,
+    "firm_description": "Reichman Jorgensen Lehman and Feldberg LLP is a majority women-owned national trial firm that handles high-stakes commercial litigation, intellectual property, and white collar disputes. The firm's attorneys are diverse, exceptionally credentialed, and passionate about trial advocacy.",
+    "notable_facts": [
+      "Majority women-owned firm",
+      "No billable hours",
+      "The firm has offices in Silicon Valley, New York, Washington, D.C., Atlanta, and Austin."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jennifer Estremera",
+        "title": "Partner",
+        "email": "jestremera@reichmanjorgensen.com",
+        "phone": "(650) 623-1407",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Diane Miller",
+        "title": "Chief Operating Officer",
+        "email": "dmiller@reichmanjorgensen.com",
+        "phone": "(650) 623-1418",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Courtland L. Reichman",
+          "title": "Partner",
+          "email": "creichman@reichmanjorgensen.com",
+          "phone": "(650) 623-1402",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah O. Jorgensen",
+          "title": "Partner",
+          "email": "sjorgensen@reichmanjorgensen.com",
+          "phone": "(650) 623-1403",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine E. Lehman",
+          "title": "Partner",
+          "email": "clehman@reichmanjorgensen.com",
+          "phone": "(202) 894-7311",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael S. Feldberg",
+          "title": "Partner",
+          "email": "mfeldberg@reichmanjorgensen.com",
+          "phone": "(212) 381-4970",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

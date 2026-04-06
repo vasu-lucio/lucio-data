@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "SALZANO ETTINGER & LAMPERT LLP",
+    "website": "https://www.selwlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Sports & Entertainment",
+      "Matrimonial & Family Law",
+      "Intellectual Property",
+      "Criminal Defense",
+      "Corporate",
+      "Business Litigation",
+      "Alternative Dispute Resolution"
+    ],
+    "lawyer_count": null,
+    "firm_description": "SALZANO ETTINGER & LAMPERT LLP is a New York-based law firm providing legal services in areas such as sports and entertainment, matrimonial and family law, and criminal defense. They are known for delivering exceptional results and counsel.",
+    "notable_facts": [
+      "The firm has two office locations: one in New York and one in Atlantic City.",
+      "The firm has served over 4,000 satisfied clients",
+      "The firm was founded by Frank Salzano, Arthur D. Ettinger, and Jason Lampert"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank Salzano",
+          "title": "Founding Partner",
+          "email": "FSalzano@selwlaw.com",
+          "phone": "(212) 417-0429",
+          "linkedin_url": null
+        },
+        {
+          "name": "Arthur D. Ettinger",
+          "title": "Founding Partner",
+          "email": "AEttinger@selwlaw.com",
+          "phone": "(212) 375-6744",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Lampert",
+          "title": "Founding Partner",
+          "email": "JLampert@selwlaw.com",
+          "phone": "(212) 417-0437",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

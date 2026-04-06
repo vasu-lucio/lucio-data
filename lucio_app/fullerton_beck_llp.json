@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Fullerton Beck LLP",
+    "website": "https://www.fullertonbeck.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "General Liability",
+      "Insurance Defense",
+      "Construction Accident",
+      "Municipal Law",
+      "Commercial Disputes",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fullerton Beck provides strategic, responsive legal defense for insurers and their insureds. Their litigation model is rooted in efficiency, transparency, and practical results, also benefiting self-insured clients.",
+    "notable_facts": [
+      "The firm was founded to provide strategic legal defense for insurers and their insureds.",
+      "They offer tailored legal support for self-insured entities.",
+      "They have a 24-Hour Emergency Response Team for accident cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Eileen R. Fullerton",
+        "title": "Managing Partner",
+        "email": "efullerton@fullertonbeck.com",
+        "phone": "914-305-8635",
+        "linkedin_url": "https://www.linkedin.com/in/eileen-fullerton-8a064516"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Katrine Aliha Beck",
+          "title": "Partner",
+          "email": "kbeck@fullertonbeck.com",
+          "phone": "914-305-8636",
+          "linkedin_url": "https://www.linkedin.com/in/katrine-beck-esq-7780a55"
+        },
+        {
+          "name": "Eileen Reynolds Becker",
+          "title": "Managing Partner, Connecticut",
+          "email": "ebecker@fullertonbeck.com",
+          "phone": "203-234-6385",
+          "linkedin_url": "https://www.linkedin.com/in/eileen-reynolds-becker-6969499"
+        },
+        {
+          "name": "Jason Aaron",
+          "title": "Managing Partner \u2013Long Island",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Susan A. Scaria",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

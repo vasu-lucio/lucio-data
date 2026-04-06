@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Siegel & Coonerty, LLP",
+    "website": "https://siegelandcoonerty.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Construction Accidents",
+      "Car Accidents",
+      "Slip & Fall Accidents",
+      "Traumatic Brain Injury",
+      "Premises Liability"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Siegel & Coonerty, LLP is a New York personal injury law firm with decades of experience. They are dedicated to representing individuals who sustained serious bodily injury as a result of accidents and errors in medical care.",
+    "notable_facts": [
+      "The firm was founded in 2011.",
+      "They have recovered millions for personal injury survivors.",
+      "They offer free consultations."
+    ],
+    "technology_signals": [
+      "Uses indeed"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Sean Coonerty",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "646-553-4545",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nancy Tuthill",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andy Siegel",
+          "title": "Partner",
+          "email": null,
+          "phone": "646-553-1333",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Peters",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Rellis",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Butler",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

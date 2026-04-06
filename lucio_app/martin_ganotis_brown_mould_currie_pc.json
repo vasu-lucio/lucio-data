@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Martin, Ganotis, Brown, Mould & Currie, P.C.",
+    "website": "https://www.mgbmclaw.com/",
+    "city": "DeWitt",
+    "practice_areas": [
+      "Medical Malpractice Law",
+      "Health Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Martin, Ganotis, Brown, Mould & Currie, P.C. is the oldest firm in Upstate New York with a practice devoted exclusively to the defense of medical professionals and institutions. For more than 60 years, our firm has served and continues to serve as the premier Upstate New York law firm with a practice devoted to the defense of medical professionals and institutions in medical malpractice actions.",
+    "notable_facts": [
+      "The firm was created as the Upstate New York office of Martin, Clearwater & Bell in 1964.",
+      "The firm's attorneys have successfully defended through trial cases involving virtually every medical specialty and all degrees of complexity and severity.",
+      "The firm represents individuals in matters involving professional discipline initiated by various government agencies including the New York State Department of Health and the Office of Professional Medical Conduct."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William F. Martin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles E. Patton",
+          "title": "Attorney",
+          "email": "Cpatton@mgbmclaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Kelly",
+          "title": "Attorney",
+          "email": "mkelly@mgbmclaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark L. Dunn",
+          "title": "Attorney",
+          "email": "mdunn@mgbmclaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

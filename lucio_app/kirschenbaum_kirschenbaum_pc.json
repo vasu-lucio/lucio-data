@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Kirschenbaum & Kirschenbaum, P.C.",
+    "website": "https://kirschenbaumesq.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Alarm Law",
+      "Healthcare Law",
+      "General Practice",
+      "Litigation",
+      "Defense Services",
+      "Bankruptcy",
+      "Trusts and Estates",
+      "Matrimonial",
+      "Real Estate",
+      "Collections",
+      "Corporate",
+      "Family Law"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Kirschenbaum & Kirschenbaum, P.C., founded in 1977, is a mid-size general practice law firm on Long Island. The firm provides legal advice and services, maintaining diversity in its practice and representing various clients in different industries.",
+    "notable_facts": [
+      "Kenneth Kirschenbaum is a renowned expert in the Security Industry and developed the 'industry contracts'.",
+      "Jennifer Kirschenbaum is a recognized expert in healthcare law.",
+      "K&K's healthcare department represents healthcare practitioners in regulatory compliance, licensure, insurance matters, investigations, patient issues and all contracts."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jennifer Kirschenbaum",
+        "title": "Managing Partner",
+        "email": "jennifer@kirschenbaumesq.com",
+        "phone": "516-747-6700",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Ken Kirschenbaum",
+        "title": "Managing Partner",
+        "email": "ken@kirschenbaumesq.com",
+        "phone": "516-747-6700",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Maureen Beil",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-747-6700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacy Spector",
+          "title": "Partner",
+          "email": "sspector@kirschenbaumesq.com",
+          "phone": "516-747-6700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

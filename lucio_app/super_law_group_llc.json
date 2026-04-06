@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Super Law Group, LLC",
+    "website": "https://superlawgroup.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Environmental Law",
+      "Clean Water Act",
+      "Clean Air Act",
+      "Safe Drinking Water Act",
+      "Endangered Species Act",
+      "Environmental Protection",
+      "Power Plants / Energy Law"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Super Law Group is a law firm dedicated to environmental protection, representing public interest organizations, community groups, and individuals in their efforts to preserve water quality and other natural resources. They are well known for their Clean Water Act enforcement cases and expertise in the regulation of power plants.",
+    "notable_facts": [
+      "Represents public interest organizations, community groups, and individuals.",
+      "Specializes in Clean Water Act enforcement cases and power plant regulations.",
+      "Founded in 2008."
+    ],
+    "technology_signals": [
+      "amp",
+      "well",
+      "spring",
+      "impact"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Edan Rotenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julia Kathryn Muench",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Reed Super",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andie Altchiler",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Doug Chermak",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aianna Siembab",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

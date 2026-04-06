@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Bogal & Kahn LLP",
+    "website": "https://bogalkahn.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Real Estate",
+      "Structured Finance",
+      "Bankruptcy"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Bogal & Kahn LLP is a law firm offering corporate, real estate, structured finance, and bankruptcy services. They advise both startups as well as mature companies, advising on formation issues, joint ventures, financings and debt offerings, asset sales, and bankruptcy-related matters.",
+    "notable_facts": [
+      "The firm's attorneys have experience at leading global law firms and as company founders and internal counsel.",
+      "They have experience in complex transactions and general corporate matters, particularly all areas of real estate finance.",
+      "The firm has experience in structured finance and financial restructuring matters."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Tom Bogal",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ilana Kahn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bogal-&-kahn-llp"
+  },
+  "email": {}
+}

@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Parabellum Capital",
+    "website": "https://www.parabellumcap.com",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation Finance",
+      "Commercial Litigation",
+      "Arbitration",
+      "Business Disputes",
+      "Contract Disputes",
+      "Investment Disputes",
+      "Fraud",
+      "Fiduciary Duty",
+      "Intellectual Property Infringement",
+      "Trade Secrets",
+      "Antitrust",
+      "Unfair Competition",
+      "Bankruptcy",
+      "Special Situations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Parabellum Capital is a litigation finance firm that provides capital to law firms and corporate clients for commercial litigation and arbitration. They offer financing solutions for single cases and portfolios, emphasizing alignment and transparency.",
+    "notable_facts": [
+      "Ranked as a litigation finance leader by Chambers & Partners, Law Dragon, Leaders League, and Who's Who Legal.",
+      "Founded in 2012.",
+      "SEC-registered investment adviser and member of the International Legal Finance Association."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "David Icikson",
+        "title": "Chief Operating Officer, Head of Investor Relations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Howard Shams",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aaron Katz",
+          "title": "Chief Investment Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tamara Conway",
+          "title": "Chief Compliance Officer, Deputy General counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Thompson",
+          "title": "Managing Director\u2014IP INVESTMENTS, GENERAL Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Will Weisman",
+          "title": "Director\u2014Commercial Litigation, Corporate Counsel",
+          "email": "wweisman@parabellumcap.com",
+          "phone": "(212) 204-7912",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

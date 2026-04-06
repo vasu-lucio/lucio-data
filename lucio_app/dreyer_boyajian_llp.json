@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Dreyer Boyajian LLP",
+    "website": "https://www.dreyerboyajian.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Personal Injury",
+      "Class Action",
+      "Medical Malpractice",
+      "Workplace Hazard",
+      "White Collar Criminal Defense",
+      "Construction Accidents",
+      "Automobile Accident",
+      "Defective Products",
+      "Truck Accidents",
+      "Mass Torts",
+      "Brain and Spinal Cord Injuries",
+      "Wrongful Death"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Dreyer Boyajian LLP is a law firm based in Albany, New York, specializing in serious personal injury, class action, medical malpractice, workplace hazard, and white collar criminal defense cases. They have recovered well over $100 million in verdicts and settlements for their clients.",
+    "notable_facts": [
+      "Trial attorneys have recovered well over $100 million in verdicts and settlements.",
+      "The firm has been recognized by Best Lawyers in America\u00ae and Super Lawyers\u00ae Magazine.",
+      "The firm has been at the forefront of legal representation in Albany and throughout New York State for over 35 years."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Donald W. Boyajian",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William J. Dreyer",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James R. Peluso",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J. Dowd",
+          "title": "Read Bio",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Murry Brower",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin Quinn Davis",
+          "title": "Read Bio",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David P. Johnson",
+          "title": "Read Bio",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

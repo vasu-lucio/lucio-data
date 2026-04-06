@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Goldfarb & Fleece LLP",
+    "website": "https://www.gflegal.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Leasing",
+      "Finance",
+      "Acquisition",
+      "Sale",
+      "Condominiums",
+      "Cooperatives",
+      "Real Estate Offering Plans",
+      "Construction Law",
+      "Communications Law",
+      "Sale-Leaseback Transactions"
+    ],
+    "lawyer_count": 22,
+    "firm_description": "Goldfarb & Fleece LLP is a preeminent New York City real estate law firm. For over 90 years, they have provided sophisticated counsel in commercial real estate transactions throughout the United States with a focus on the New York City metropolitan area.",
+    "notable_facts": [
+      "Real estate practice has been the specialty of Goldfarb & Fleece since its inception in 1929.",
+      "The firm represents numerous real estate developers and investors, public companies in their real estate matters, and REITs and owners of shopping centers.",
+      "The firm is known for handling complex transactions using a creative, yet practical, approach, at competitive rates."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sidney A. Migdon",
+          "title": "Member",
+          "email": null,
+          "phone": "917-814-3796",
+          "linkedin_url": null
+        },
+        {
+          "name": "Neal A. Weinstein",
+          "title": "Member",
+          "email": null,
+          "phone": "917-997-6145",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa F. Siegel",
+          "title": "Member",
+          "email": null,
+          "phone": "917-814-3796",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc J. Becker",
+          "title": "Member",
+          "email": null,
+          "phone": "917-920-3345",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald E. Burton",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

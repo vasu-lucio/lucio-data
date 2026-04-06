@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Rottenstreich Farley Bronstein Fisher Potter Hodas LLP",
+    "website": "https://www.rfbllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Divorce",
+      "Family Law",
+      "Matrimonial Law",
+      "White Collar Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rottenstreich Farley Bronstein Fisher Potter Hodas is a law firm specializing in high-net-worth divorce and family law cases, often involving white-collar litigation. It was founded in 2023 from the merger of two matrimonial law firms, one in New York and one in Palm Beach, Florida.",
+    "notable_facts": [
+      "The firm has been recognized as a top firm nationally in divorces where \"big money\" is in play.",
+      "The firm's team includes former government prosecutors, trial lawyers, commercial litigators, and trust and estate experts.",
+      "The firm handles complex financial holdings, including foreign and domestic trusts and offshore assets."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dan Rottenstreich",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "212.956.8300",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Zachary R. Potter",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "561.832.1005",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kristi Pallante",
+        "title": "Chief Operating Officer/Financial Analyst",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter E. Bronstein",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John O. Farley",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "212.956.8300",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Freid Klawon and Conners",
+    "website": "https://www.freidklawonandconners.com/",
+    "city": "Williamsville",
+    "practice_areas": [
+      "Real Estate",
+      "Probate & Administration",
+      "Estate Planning",
+      "Personal Injury",
+      "Landlord & Tenant",
+      "Business Matters",
+      "Social Security Disability",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Freid Klawon and Conners is a full service, general practice law firm located in Williamsville, New York. Our firm's experienced attorneys and legal professionals are dedicated to delivering positive results for our clients in a wide range of practice areas.",
+    "notable_facts": [
+      "The firm emphasizes building lasting relationships with clients.",
+      "They offer services for first-time homebuyers, business owners, estate planning, and injury victims."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam Bryce Conners",
+          "title": "Attorney",
+          "email": "abc(a)fk-law.com",
+          "phone": "(716) 565-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley Christina Glosser",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "IAKOVOU & XANTHOPOULOS LAW GROUP, PLLC",
+    "website": "https://www.ix-legal.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Transactions",
+      "General Counsel",
+      "Personal Injury",
+      "Real Estate",
+      "Business Law",
+      "Labor & Employment",
+      "Immigration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "IX Legal is a New York City-based, multidisciplinary law firm. IX Legal's services fall within 3 broad-based practice areas are Litigation, Transactions, and General Counsel.",
+    "notable_facts": [
+      "Founded in 2019",
+      "Formerly known as Koutsoudakis & Iakovou Law Group, PLLC"
+    ],
+    "technology_signals": [
+      "Juris",
+      "Medium",
+      "AMP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Iakovou",
+        "title": "Founder, Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kalpana Nagampalli",
+          "title": "Partner",
+          "email": "kalpana.nagampalli(a)gmail.com",
+          "phone": "(212) 404-8644",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Tannousis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary Kummings",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thais Saad",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Christakis",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

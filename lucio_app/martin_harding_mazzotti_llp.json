@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Harding Mazzotti, LLP",
+    "website": "https://www.1800law1010.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Harding Mazzotti, LLP is a personal injury law firm with multiple locations throughout New York and Vermont. Their attorneys have recovered over $1 billion in settlements for their clients.",
+    "notable_facts": [
+      "Recovered over $1 billion in settlements",
+      "Has six offices and 10 appointment centers",
+      "Offers a \u201cNo Fee Policy\u201d"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Paul Harding",
+        "title": "Managing Partner",
+        "email": "Paul.Harding@1800LAW1010.com",
+        "phone": "518-724-2240",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bruce L. Martin",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Victor Mazzotti",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rosemarie Riddell Bogdan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip S. Mazzotti",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

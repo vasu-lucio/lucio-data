@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Eiseman Levine Lehrhaupt & Kakoyiannis, P.C.",
+    "website": "https://eisemanlevine.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Real Estate",
+      "Litigation",
+      "Corporate Matters",
+      "Bankruptcy",
+      "Real Estate",
+      "Securities",
+      "Antitrust and Competition",
+      "Arbitration",
+      "Banking",
+      "Broker-Dealer"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Eiseman Levine Lehrhaupt & Kakoyiannis, P.C. is a law firm based in New York, New York. The firm specializes in commercial real estate, litigation, and corporate matters.",
+    "notable_facts": [
+      "Established in 1992",
+      "Located at 805 Third Avenue, 10th Floor, New York, NY 10022"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jonathan Eiseman",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric R. Levine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wayne R Lehrhaupt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Kakoyiannis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Duffy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

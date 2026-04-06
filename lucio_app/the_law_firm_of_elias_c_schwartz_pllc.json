@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Firm of Elias C. Schwartz PLLC",
+    "website": "https://www.constructionlawny.com/",
+    "city": "Great Neck",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The Law Firm of Elias C. Schwartz, PLLC is a boutique law firm offering quality service and personal attention at a fair price. They have offices in Great Neck, New York and Boca Raton, Florida.",
+    "notable_facts": [
+      "Founded in 1985",
+      "Offices in Great Neck, New York and Boca Raton, Florida"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Elias C. Schwartz",
+        "title": "Managing Member",
+        "email": "Schwartz@ecslaw.com",
+        "phone": "(516) 487-0175",
+        "linkedin_url": "https://www.linkedin.com/in/elias-schwartz-3781ba10"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle C. Englander",
+          "title": "Senior Attorney",
+          "email": "Englander@ecslaw.com",
+          "phone": "(516) 487-0175",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer J. Bock",
+          "title": "Senior Attorney",
+          "email": "Bock@ecslaw.com",
+          "phone": "(516) 487-0175",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa A. Schwartz",
+          "title": "Associate",
+          "email": "LSchwartz@ecslaw.com",
+          "phone": "(516) 487-0175",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberly Jacobs",
+          "title": "Associate",
+          "email": "Jacobs@ecslaw.com",
+          "phone": "(516) 487-0175",
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Tobio",
+          "title": "Associate",
+          "email": "Tobio@ecslaw.com",
+          "phone": "(516) 487-0175",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

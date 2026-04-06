@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Magavern Magavern Grimm LLP",
+    "website": "https://magavern.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Administrative Law",
+      "Appellate Practice",
+      "Article 81 Guardianships",
+      "Business Law",
+      "Canadian Commerce",
+      "Civil Litigation",
+      "Commercial Law",
+      "Corporate Law",
+      "Elder Law",
+      "Employment Law",
+      "Estates & Trusts Law",
+      "Health Care Law",
+      "International Law",
+      "Legal Ethics",
+      "Litigation",
+      "Mediation and Arbitration",
+      "Municipal Law",
+      "Personal Injury",
+      "Real Estate Law",
+      "Tax Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Magavern Magavern Grimm LLP is one of Western New York\u2019s oldest and most respected law firms, serving Buffalo and the surrounding region since 1826. Our legacy is built on a foundation of integrity, expertise, and a deep commitment to our clients\u2019 success.",
+    "notable_facts": [
+      "Serving Buffalo and Western New York since 1826"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard A. Grimm III",
+          "title": "Partner",
+          "email": "rgrimm@magavern.com",
+          "phone": "(716) 309-2721",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward J. Markarian",
+          "title": "Partner",
+          "email": "emarkarian@magavern.com",
+          "phone": "(716) 510-6965",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean J. MacKenzie",
+          "title": "Partner",
+          "email": "smackenzie@magavern.com",
+          "phone": "(716) 754-3100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward J. Murphy",
+          "title": "Partner",
+          "email": "emurphy@magavern.com",
+          "phone": "(716) 856-3500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Emily H. O'Reilly",
+          "title": "Partner",
+          "email": "eoreilly@magavern.com",
+          "phone": "(716) 309-2726",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

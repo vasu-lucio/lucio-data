@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Lipsitz, Ponterio & Comerford, LLC",
+    "website": "https://lipsitzponterio.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Mesothelioma",
+      "Personal Injury",
+      "Asbestos Disease",
+      "Lung Cancer",
+      "Defective Products",
+      "Construction Accidents",
+      "Medical Malpractice",
+      "Workers\u2019 Compensation",
+      "Automobile Accidents",
+      "Wrongful Death"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lipsitz, Ponterio & Comerford, LLC is a law firm that focuses on representing individuals and families affected by mesothelioma, lung cancer, and other asbestos-related diseases, as well as those who have suffered catastrophic personal injuries. They are driven by their clients and guided by their roots, striving to build personal relationships to achieve justice for their clients' injuries.",
+    "notable_facts": [
+      "The firm has secured over one billion dollars in verdicts and settlements.",
+      "They have represented clients in cases involving mesothelioma, lung cancer, and other asbestos-related diseases since 1985.",
+      "Ten of their attorneys have been recognized in The Best Lawyers in America\u00ae 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John N. Lipsitz",
+          "title": "Founding Partner",
+          "email": "jnl@lipsitzponterio.com",
+          "phone": "716.849.0701",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael A. Ponterio",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John P. Comerford",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mathew J. Morton",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary J. Woods",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

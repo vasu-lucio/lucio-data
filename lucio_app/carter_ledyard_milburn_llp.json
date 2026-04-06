@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Carter Ledyard & Milburn LLP",
+    "website": "https://clm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Employment",
+      "Corporate",
+      "Securities",
+      "Mergers and Acquisitions",
+      "Broker-Dealer",
+      "Hedge Funds",
+      "Private Equity",
+      "Intellectual Property",
+      "Environmental",
+      "Technology",
+      "Investment Regulation",
+      "Antitrust",
+      "Trusts and Estates",
+      "Art Law",
+      "Maritime",
+      "ERISA",
+      "Tax-Exempt Organizations",
+      "Real Estate",
+      "Tax",
+      "Bankruptcy"
+    ],
+    "lawyer_count": 105,
+    "firm_description": "Carter Ledyard & Milburn LLP is a general practice law firm headquartered in New York City\u2019s Financial district since 1854. They provide personal and intelligent representation marked by skill, new ideas, and efficiency.",
+    "notable_facts": [
+      "Founded in 1854",
+      "Presence in Turkey and Mexico",
+      "Ratio of partners to associates is about one to one"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan Trafimow",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Don Hawthorne",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Boxer",
+          "title": "Co-Chair of the Litigation practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Madelyn K White",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andris Vizbaras",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melinda Fellner",
+          "title": "Chair, Tax Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Goetz Platzer LLP",
+    "website": "https://goetzplatzer.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Construction",
+      "Litigation",
+      "Real Estate",
+      "Corporate",
+      "Bankruptcy",
+      "Trusts + Estates",
+      "Labor",
+      "Intellectual Property, Media + Technology",
+      "Commercial & Real Estate Finance",
+      "Commercial Litigation",
+      "Commercial Finance",
+      "Corporate Restructuring",
+      "Equipment Leasing",
+      "Appellate Advocacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Goetz Platzer empowers its clients in construction, real estate, litigation and other industries to cut through the complexity and make informed, fearless decisions that turn obstacles into opportunities. The firm has cultivated a commanding reputation as a litigation powerhouse and loyal advisor that partners with businesses of all sizes across a wide spectrum of industries.",
+    "notable_facts": [
+      "The firm was founded in 1967.",
+      "Goetz Platzer has a transparent culture and focuses on relationships."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Aaron Boyajian",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Cliff Katz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alison Arden Besunder",
+          "title": "Equity Partner, Chair, Trusts & Estates Planning and Fiduciary Litigation Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Donald J. Carbone",
+          "title": "Equity Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Linda Gates",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Gise",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

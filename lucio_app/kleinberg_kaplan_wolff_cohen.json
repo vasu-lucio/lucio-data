@@ -1,0 +1,136 @@
+{
+  "firm_data": {
+    "firm_name": "Kleinberg, Kaplan, Wolff & Cohen, P.C.",
+    "website": "https://www.kkwc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Private Funds",
+      "Real Estate",
+      "Investor Activism",
+      "Business Restructuring and Reorganization",
+      "Emerging Companies & Venture Capital",
+      "Mergers & Acquisitions",
+      "Securities and Corporate Finance",
+      "Special Situations and Credit",
+      "Commercial and Corporate Litigation",
+      "Creditors' Rights and Bankruptcy Litigation",
+      "Employment Litigation",
+      "Investment Fund Litigation",
+      "Partnership Disputes and Corporate Breakups",
+      "Real Estate Litigation",
+      "Regulatory Defense",
+      "Risk Management",
+      "Trusts & Estates Litigation",
+      "Derivatives",
+      "Digital Assets and Cryptocurrency",
+      "Executive Compensation",
+      "Family Office",
+      "Hedge Funds",
+      "Investment Management",
+      "Private Capital",
+      "Real Estate Funds",
+      "Acquisitions and Sales",
+      "Development",
+      "Distressed Real Estate Assets",
+      "Financing",
+      "Joint Venture",
+      "Leasing",
+      "Medical Office Buildings",
+      "Business Advice and Planning",
+      "High Net Worth Individual Planning",
+      "Private Equity Funds",
+      "Transactional",
+      "Estate Planning and Administration",
+      "International Trusts & Estates Planning",
+      "Nonprofit and Tax-Exempt Organizations",
+      "Planning for Business Succession",
+      "Planning for Fund Managers",
+      "Tax Controversy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kleinberg Kaplan provides business counsel to entrepreneurs, investors and other industry leaders. With a national and international reputation for representation of private funds, the firm serves an impressive roster of clients, including investment funds and companies at all stages of their life cycles, as well as a wide variety of real estate investors, family offices and high-net-worth individuals.",
+    "notable_facts": [
+      "The firm does not hire associates directly out of law school.",
+      "The firm was founded in 1971."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew M. Chonoles",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "212.880.9870",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Fred Kleinberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Myron Kaplan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Norris Wolff",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jim Cohen",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jason Mulgrew",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": "212.880.9846",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jamie Krempa",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy Goldman",
+          "title": "Director of Business Development",
+          "email": null,
+          "phone": "212.880.9813",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

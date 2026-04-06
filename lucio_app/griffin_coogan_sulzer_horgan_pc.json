@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "GRIFFIN, COOGAN, BLOSE & SULZER, PC",
+    "website": "https://gcshlaw.com/",
+    "city": "Bronxville",
+    "practice_areas": [
+      "legal services",
+      "estate planning",
+      "valuation law",
+      "property taxation",
+      "real estate law",
+      "tax litigation"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "GRIFFIN, COOGAN, BLOSE & SULZER, PC is a Law Practice company headquartered in Bronxville, New York, United States. They focus on representing property owners in tax certiorari and valuation related issues throughout New York State.",
+    "notable_facts": [
+      "The firm has 3 offices in the United States, all located in Bronxville, NY.",
+      "The firm's monthly website visits are 1,402."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William E. Sulzer",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael F. Horgan, Jr.",
+          "title": "Member",
+          "email": "mfh(a)gcshlaw.com",
+          "phone": "(914) 961-1300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin M. Brady, Jr.",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew S. Clifford",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria C. Cavallo",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

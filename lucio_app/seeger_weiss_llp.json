@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Seeger Weiss LLP",
+    "website": "https://www.seegerweiss.com/",
+    "city": "Ridgefield Park",
+    "practice_areas": [
+      "Class Action Attorneys",
+      "Data & Security Breach Litigation",
+      "Antitrust",
+      "Environmental Litigation",
+      "Commercial Litigation",
+      "Drug Injury",
+      "Whistleblower Claims",
+      "Securities Fraud",
+      "Product Liability",
+      "Mass Torts"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Seeger Weiss is a plaintiffs' law firm representing clients all over the United States. Since its founding in 1999, it has led history-making and record-setting cases on behalf of individuals, organizations, and states and local municipalities that have been injured or defrauded on an individual or mass scale.",
+    "notable_facts": [
+      "Known for multidistrict mass torts and class actions.",
+      "Represented over 10,000 individuals, companies, and governments across the U.S.",
+      "Led the National Prescription Opiate Litigation and 3M Combat Arms Earplug Products Liability Litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher A. Seeger",
+          "title": "Partner",
+          "email": "cseeger@seegerweiss.com",
+          "phone": "973-639-9100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen A. Weiss",
+          "title": "Partner",
+          "email": "sweiss@seegerweiss.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Parvin K. Aminolroaya",
+          "title": "Partner",
+          "email": "paminolroaya@seegerweiss.com",
+          "phone": "973-639-9100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ben Barnett",
+          "title": "Partner",
+          "email": "bbarnett@seegerweiss.com",
+          "phone": "215-564-2300",
+          "linkedin_url": null
+        },
+        {
+          "name": "David R. Buchanan",
+          "title": "Partner",
+          "email": "dbuchanan@seegerweiss.com",
+          "phone": "973-639-9100",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

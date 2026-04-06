@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Herbsman Hafer Weber & Frisch, LLP",
+    "website": "https://musiclaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Entertainment",
+      "Technology",
+      "Intellectual Property",
+      "Trademark",
+      "Copyright",
+      "Visual Arts",
+      "Commercial Disputes & Litigation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Herbsman Hafer Weber & Frisch, LLP is involved in an evolving marketplace of technology and the law in connection with transactional matters and numerous, high-profile precedential litigations in the entertainment and intellectual property fields. The firm has a diverse client base that includes Emmy, Grammy, Oscar and Tony Award-winning clients as well as gold and platinum recording artists and members of the Rock and Roll Hall of Fame.",
+    "notable_facts": [
+      "The firm was founded in 1985.",
+      "The firm has a robust international practice, protecting clients in numerous countries around the world."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonas E. Herbsman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/jonas-herbsman-2853a96"
+        },
+        {
+          "name": "J. Jeffrey Hafer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dorothy M. Weber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

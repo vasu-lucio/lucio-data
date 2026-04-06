@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Beveridge & Diamond PC",
+    "website": "https://bdlaw.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Environmental Law",
+      "Litigation",
+      "Natural Resources",
+      "Sustainability"
+    ],
+    "lawyer_count": 175,
+    "firm_description": "Beveridge & Diamond is a top-ranked environmental and litigation firm. They offer strategic advice, regulatory compliance counseling, transaction and project development support, and representation in litigation and alternative dispute resolution.",
+    "notable_facts": [
+      "Named 2026 Environmental Law Firm of the Year by Best Law Firms\u00ae",
+      "Ranks as a top-tier environmental regulatory and litigation firm by Chambers and The Legal 500",
+      "Achieved Mansfield Rule Plus Certification six years in a row"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marc Goldstein",
+        "title": "Firmwide Managing Principal",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nadia Wagner",
+        "title": "Chief Administrative Officer (cao)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "In the coming term, Marc Goldstein will continue to focus on implementing the Firm\u2019s Strategic Plan, including evaluating the quickly evolving marketplace for legal talent, the implications for artificial intelligence in legal practice, and creating a sustainable model for law firm leadership."
+      },
+      "additional_contacts": [
+        {
+          "name": "Kathy Szmuszkovicz",
+          "title": "Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Carns",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "K. Courtney Ricketts",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/beveridge-&-diamond-pc",
+    "linkedin_size": "201-500"
+  },
+  "email": {}
+}

@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Malaby & Bradley LLC",
+    "website": "http://www.malabylaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Premises Liability Defense",
+      "General Liability",
+      "Construction and Construction Defects",
+      "Commercial Litigation",
+      "Appellate Practice",
+      "White Collar Criminal Defense",
+      "Trial Practice Group",
+      "Toxic Tort Exposure Litigation",
+      "Products Liability Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Malaby & Bradley LLC is a law firm with results-driven litigators. They offer a wide range of services, including premises liability defense, general liability, and commercial litigation.",
+    "notable_facts": [
+      "Robert Malaby is a leader in New York Asbestos Litigation.",
+      "Appointed to the New York City Asbestos Litigation Case Management Order Committee",
+      "Serves as Defense Liaison for the New York City Asbestos Litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert C. Malaby",
+        "title": "Partner, Founder",
+        "email": "rcmalaby@malabylaw.com",
+        "phone": "212.791.0285",
+        "linkedin_url": "https://www.linkedin.com/in/robert-malaby-590b0b14a"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Cori L. Malaby",
+          "title": "Partner",
+          "email": "cmalaby@malabylaw.com",
+          "phone": "212.791.0285",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maryellen Connor",
+          "title": "Partner",
+          "email": "mconnor@malabylaw.com",
+          "phone": "212.791.0285",
+          "linkedin_url": null
+        },
+        {
+          "name": "David P. Schaffer",
+          "title": "Partner",
+          "email": "dpschaffer@malabylaw.com",
+          "phone": "212.791.0285",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard L. Mendelsohn",
+          "title": "Partner",
+          "email": "rlmendelsohn@malabylaw.com",
+          "phone": "212.791.0285",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

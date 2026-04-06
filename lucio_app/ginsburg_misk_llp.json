@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "GINSBURG & MISK LLP",
+    "website": "https://gmlawyers.net/",
+    "city": "Queens Village",
+    "practice_areas": [
+      "Commercial litigation",
+      "Real estate litigation",
+      "Estate litigation",
+      "Corporate law",
+      "Transactional real estate",
+      "Commercial leasing",
+      "Creative financing",
+      "Private \u201chard money\u201d lending",
+      "Personal injury",
+      "Malpractice",
+      "Insurance matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "GINSBURG & MISK LLP provides large firm work quality with small firm attention and cost sensitivity. They represent businesses and individuals in both straightforward and more complex commercial, construction and real estate disputes in all New York State and Federal Courts, and also handle business, real estate and private \u201chard money\u201d loan transactions, and represent plaintiffs in personal injury, malpractice and insurance matters.",
+    "notable_facts": [
+      "The firm has been serving clients throughout the five boroughs of NYC, Long Island and Westchester for more than thirty years.",
+      "Ginsburg & Misk LLP is often referred to as the \u201cgo to\u201d outer borough firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Hal Ginsburg",
+          "title": "Of Counsel",
+          "email": "Hginsburg@GMLawyers.net",
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/hal-ginsburg-a58870133"
+        },
+        {
+          "name": "Joseph Misk",
+          "title": "Partner",
+          "email": "Jmisk@GMLawyers.net",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerard Misk",
+          "title": "Partner",
+          "email": "Gmisk@GMLawyers.net",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Gillette",
+          "title": "Of Counsel",
+          "email": "Jgillette@GMLawyers.net",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Clarke",
+          "title": "Partner",
+          "email": "CClarke@GMLawyers.net",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

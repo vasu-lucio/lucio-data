@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Harry Jho LLC",
+    "website": "https://harryjho.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Prime Brokerage",
+      "OTC Derivatives",
+      "Securities Finance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Harry Jho LLC is a law firm specializing in prime brokerage, ISDA-documented OTC derivatives and securities finance. The Firm is a trusted advisor for banks, hedge funds and industry groups seeking to manage their trading agreements and counterparty risk.",
+    "notable_facts": [
+      "Advised every single new entrant in the equity prime brokerage industry in the last 10 years in the launch of their business.",
+      "Long-time representation of the International Swaps and Derivatives Association, Inc. (ISDA).",
+      "Drafted the documentation and led the working groups that produced the current industry-standard Master Confirmation Agreements used for the flow trading of equity swap and options products in the US and Europe."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Harry Jho",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Karl Fey",
+        "title": "COO & Managing Analyst",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Todd Blanke",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1-917-38XXXXX",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence Wu",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1-212-69XXXXX",
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel Song",
+          "title": "System Administrator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

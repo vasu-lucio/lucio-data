@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Stonberg, Hickman & Pavloff, LLP",
+    "website": "https://shplawyers.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Defense Litigation",
+      "Insurance Coverage",
+      "Premises Liability",
+      "Labor Law",
+      "Product Liability",
+      "Trucking Accidents",
+      "Auto Accidents",
+      "Construction Defects",
+      "Data Privacy"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Stonberg, Hickman & Pavloff is a full-service defense litigation and insurance coverage firm serving clients in the State and Federal Courts in New York and New Jersey. They provide high-quality legal representation to their clients on a cost effective basis.",
+    "notable_facts": [
+      "The firm was founded in 2023.",
+      "The firm was formerly known as Stonberg Moran."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin Hickman",
+        "title": "Managing Partner",
+        "email": "Kevin.Hickman@shplawyers.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Stonberg",
+          "title": null,
+          "email": "Mike.Stonberg@shplawyers.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sherri Pavloff",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

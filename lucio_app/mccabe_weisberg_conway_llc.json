@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "McCabe, Weisberg & Conway, LLC",
+    "website": "https://www.mwc-law.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Foreclosure",
+      "Bankruptcy",
+      "Loss Mitigation",
+      "Evictions",
+      "REO Services",
+      "Litigation",
+      "Title Claim Services"
+    ],
+    "lawyer_count": 68,
+    "firm_description": "McCabe, Weisberg & Conway, LLC is a regional law firm representing mortgage lenders, banks, mortgage servicers, and financial institutions in Pennsylvania, New York, New Jersey, Delaware, Maryland, Florida, Virginia, and the District of Columbia. The firm provides legal representation to the mortgage banking industry.",
+    "notable_facts": [
+      "The firm has been in operation for over 40 years.",
+      "McCabe, Weisberg & Conway is a women-owned firm."
+    ],
+    "technology_signals": [
+      "Customized case management software for file tracking",
+      "Detailed and customizable status reports",
+      "Integration capability with third-party software"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Carie Anne Deal",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laura O'sullivan",
+          "title": "President, Shareholder",
+          "email": null,
+          "phone": "1-215-790-1010",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Pence Shrm",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

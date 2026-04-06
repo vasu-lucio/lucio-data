@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Morrison Cohen LLP",
+    "website": "https://www.morrisoncohen.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Artificial Intelligence",
+      "Digital Assets",
+      "Financial Services & Fintech",
+      "Healthcare & Wellness",
+      "Hospitality",
+      "Independent Sponsors",
+      "Industrial & Manufacturing",
+      "Luxury Brands",
+      "Nonprofit",
+      "Professional Services",
+      "Real Estate",
+      "Retail & Consumer Products",
+      "Technology"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Morrison Cohen gives you the best of all worlds: the range of experience of a full-service law firm, the personalized, senior-level attention of a boutique firm and the exceptional legal acumen of accomplished practitioners. They deliver end-to-end, business-oriented solutions that optimize outcomes for their clients.",
+    "notable_facts": [
+      "Achieved Diversity Lab's Midsize Mansfield Certification.",
+      "Ranked in the Top 150 Under 150 Best Midsize Law Firms in 2025.",
+      "Ranked in Band 2 for Crypto-Assets Disputes and in Band 3 for FinTech Legal: Blockchain & Cryptocurrencies by Chambers FinTech Guide 2025.",
+      "Ranked in the Top 25 for Firm Culture, Diversity, Wellness and Associate/Partner Relations in 2025 by Vault.",
+      "Named \"Great Firm to Work 2024\" and \u201cBest Managed Firm 2023\u201d at the Ames & Gough Law Firm Excellence Awards"
+    ],
+    "technology_signals": [
+      "Digital Assets Litigation Tracker monitors key developments in cryptocurrency and blockchain disputes."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Steven M. Cooperman",
+        "title": "Managing Partner",
+        "email": "scooperman@morrisoncohen.com",
+        "phone": "212.735.8876",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jenni Eastman",
+        "title": "Chief Operating Officer",
+        "email": "jeastman@morrisoncohen.com",
+        "phone": "212.735.8871",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Y. David Scharf",
+          "title": "Partner & Chair of the Executive Committee; Chair, Government Strategies & Controversies",
+          "email": "dscharf@morrisoncohen.com",
+          "phone": "212.735.8604",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Jenni",
+    "to_title": "Chief Operating Partner",
+    "to_email": "jeastman@morrisoncohen.com",
+    "subject": "AI for Morrison Cohen \u2014 built for firms balancing boutique attention with full-service scope",
+    "body": "Hi Jenni,\n\nMorrison Cohen's recognition as a Top 150 Under 150 firm with Band 2 rankings in crypto disputes tells me you're navigating complex, emerging practice areas without the overhead of BigLaw. That's exactly where we see friction most.\n\nI lead business at Lucio, an AI platform built for boutique firms facing institutional demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices like yours: precision in specialized work, client trust, and efficiency without sacrificing judgment.\n\nHaving completed successful pilots on the East Coast, we're expanding to New York and would love to show you how we're helping similar firms compete\u2014and win\u2014on quality, not just headcount.\n\nWorth a brief conversation?\n\nVasu\nLucio"
+  }
+}

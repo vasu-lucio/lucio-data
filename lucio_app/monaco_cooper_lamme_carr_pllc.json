@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Monaco Cooper Lamme & Carr, PLLC",
+    "website": "https://mclclaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Business & Corporate",
+      "Litigation & Appeals",
+      "Personal Injury",
+      "Real Estate & Real Property"
+    ],
+    "lawyer_count": 26,
+    "firm_description": "Monaco Cooper Lamme & Carr, PLLC is rooted in small firm values and provides outstanding, client-focused legal services, tailoring strategies to meet specific client needs in areas like business transactions, corporate risk management, and litigation.",
+    "notable_facts": [
+      "Founded in 2020",
+      "Located in the Capital Region of New York",
+      "Built around experienced attorneys in highly specialized practices"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Mackenzie C. Monaco",
+          "title": "Partner",
+          "email": "mmonaco@mclclaw.com",
+          "phone": "518-675-7739",
+          "linkedin_url": "https://www.linkedin.com/in/mackenzie-monaco-37976427"
+        },
+        {
+          "name": "Adam H. Cooper",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob F. Lamme",
+          "title": "Partner",
+          "email": "jlamme@mclclaw.com",
+          "phone": "518-675-7740",
+          "linkedin_url": "https://www.linkedin.com/in/jacob-lamme-esq-7a174941"
+        },
+        {
+          "name": "Brian D. Carr",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laura M. Gulfo",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Norah M. Murphy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

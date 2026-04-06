@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "The Grun Law Group, P.C.",
+    "website": null,
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": null,
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Howard Grun",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 973-3330",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ari Reuben Grun",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 973-3333",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stanley Kaufman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Elizabeth Mcarthur",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

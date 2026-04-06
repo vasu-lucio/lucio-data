@@ -1,0 +1,123 @@
+{
+  "firm_data": {
+    "firm_name": "Mauro Lilling Naparty LLP",
+    "website": "http://www.mlnappeals.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Civil Law",
+      "Federal Practice",
+      "Appellate Practice",
+      "Civil Appeals",
+      "Federal Civil Practice",
+      "Admiralty and Maritime Law",
+      "Amicus Support",
+      "Business Law",
+      "Construction Law",
+      "Entertainment Law",
+      "Estate Law",
+      "Health Care",
+      "Health Care Litigation",
+      "Insurance Coverage",
+      "Insurance Defense",
+      "Automobile Insurance Defense",
+      "Commercial Insurance Defense",
+      "Casualty Insurance Defense",
+      "Automobile Liability Defense",
+      "Fire Insurance Defense",
+      "First and Third Party Insurance Defense",
+      "General Liability Defense",
+      "Insurance Coverage Defense",
+      "Matrimonial Law",
+      "Premises Liability",
+      "Premises Liability Defense",
+      "Negligence",
+      "Negligence Defense",
+      "Products Liability",
+      "Professional Liability",
+      "Medical Malpractice",
+      "Medical Malpractice Defense",
+      "Medical Negligence",
+      "Toxic Torts",
+      "Public Law",
+      "Punitive Damages",
+      "Real Property"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Mauro Lilling Naparty LLP is the largest firm in the Northeast dedicated to Litigation Strategy and Appellate Advocacy. A full-service appellate advisor, MLN provides support, guidance, and strategy at any stage of litigation.",
+    "notable_facts": [
+      "Founded in 1992",
+      "The firm's overall rate of success on appeal is over 70 percent, far exceeding the national average."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Caryn L. Lilling",
+          "title": "Partner",
+          "email": "clilling@mlnappeals.com",
+          "phone": "516.487.5800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew W. Naparty",
+          "title": "Partner",
+          "email": "mnaparty@mlnappeals.com",
+          "phone": "516.487.5800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathryn M. Beer",
+          "title": "Partner",
+          "email": "kbeer@mlnappeals.com",
+          "phone": "516.487.5800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Bobkin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Leiter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/mauro-lilling-naparty-llp/org-chart/eric-leiter"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

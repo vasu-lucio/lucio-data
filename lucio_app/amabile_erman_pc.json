@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Amabile & Erman, P.C.",
+    "website": "https://amabile-erman.com/",
+    "city": null,
+    "practice_areas": [
+      "Medical Malpractice",
+      "Dental Malpractice",
+      "Products Liability",
+      "Construction Accidents",
+      "Industrial Accidents",
+      "Toxic Torts",
+      "Automobile Cases",
+      "General Liability",
+      "Professional Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Amabile & Erman, P.C. is a full-service litigation firm that has been providing legal services for over four decades. They primarily focus on defending clients in various liability actions.",
+    "notable_facts": [
+      "Founded in 1982",
+      "The firm has been retained by professional liability insurance companies, general liability insurance companies, hospitals, physicians, dentists, allied health personnel, and general/sub-contractors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank Amabile",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carl M. Erman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephanie M. Berger",
+          "title": "Partner",
+          "email": "sberger@amabile-erman.com",
+          "phone": "(718) 889-3770",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Bienstock",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan S. Erman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/amabile-&-erman-p-c-"
+  },
+  "email": {}
+}

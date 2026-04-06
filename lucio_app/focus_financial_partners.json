@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Focus Financial Partners",
+    "website": "https://www.focusfinancialpartners.com/",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Focus Financial Partners is a partnership of independent, fiduciary wealth management firms.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Zinovy Iosovich",
+        "title": "Chief Information & Security Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Gopal Subramanian",
+        "title": "Chief Data & AI Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gregory Woods",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Nathanson",
+          "title": "Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Salvatore Papa",
+          "title": "Head of Legal, Compliance and Regulatory",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Bragar Eagel & Squire, P.C.",
+    "website": "https://bespc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Litigation",
+      "Real Estate",
+      "Bankruptcy",
+      "Commercial Law",
+      "Shareholders\u2019 Rights",
+      "Derivative Actions",
+      "Federal Securities Claims",
+      "Consumer Class Actions",
+      "Antitrust",
+      "General Commercial Litigation"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Bragar Eagel & Squire, P.C. is a law firm specializing in litigation cases including securities, real estate, bankruptcies, and commercial law. The firm focuses its practice on corporate law litigation, including shareholders\u2019 rights, derivative actions, and federal securities claims.",
+    "notable_facts": [
+      "Active practice in the Delaware Court of Chancery.",
+      "Attorneys have achieved significant successes before the Delaware Supreme Court.",
+      "Represent investors and consumers in complex litigations on a national and local scale."
+    ],
+    "technology_signals": [
+      "lexisnexis",
+      "westlaw",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Melissa Fortunato",
+          "title": "Partner",
+          "email": "fortunato@bespc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence P. Eagel",
+          "title": "Shareholder",
+          "email": "eagel@bespc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brandon Walker",
+          "title": "Shareholder",
+          "email": "walker@bespc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marion Passmore",
+          "title": "Partner",
+          "email": "passmore@bespc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ligaya Hernandez",
+          "title": "Partner",
+          "email": "hernandez@bespc.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bragar-eagel-&-squire-p.c."
+  },
+  "email": {}
+}

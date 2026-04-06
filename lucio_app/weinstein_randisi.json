@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Weinstein & Randisi",
+    "website": "https://randisilaw.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Estate Planning",
+      "Elder Law",
+      "Estate Administration",
+      "Probate Administration",
+      "Trust Administration",
+      "Asset Protection Planning",
+      "Medicaid Planning",
+      "Veterans Benefits",
+      "Litigation",
+      "Motor Vehicle Accidents",
+      "Personal Injury",
+      "Slip-and-Falls"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Weinstein & Randisi is an estate planning and elder law firm that provides personalized estate plans tailored to the needs of clients. They offer services such as estate administration, probate administration, trust administration, elder law, asset protection planning, nursing home, medicaid planning, veterans benefits, litigation, motor vehicle accidents, personal injury, slip-and-falls, and more.",
+    "notable_facts": [
+      "The firm has been serving clients for more than 50 years.",
+      "Weinstein & Randisi was founded in 2011.",
+      "The firm has 3 office locations across the United States."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew R. Randisi",
+          "title": "Member",
+          "email": "arandisi@randisilaw.com",
+          "phone": "18007681780",
+          "linkedin_url": "https://www.martindale.com/attorney/andrew-r-randisi-2903656/"
+        },
+        {
+          "name": "Elizabeth Randisi",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Virginia Perry Pschierer",
+          "title": "Client",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Santiago Casiano Jr",
+          "title": "Client",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tom Reid",
+          "title": "Client",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

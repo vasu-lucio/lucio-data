@@ -1,0 +1,122 @@
+{
+  "firm_data": {
+    "firm_name": "Siri & Glimstad LLP",
+    "website": "https://sirillp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Class Actions",
+      "Employment Law",
+      "FOIA",
+      "Immigration",
+      "Medical Malpractice",
+      "Vaccine Exemptions",
+      "Vaccine Injury"
+    ],
+    "lawyer_count": 70,
+    "firm_description": "Siri & Glimstad LLP has offices across the country and represents individuals and corporations in federal and state courts nationwide. Utilizing decades of experience at major global law firms, the attorneys at Siri & Glimstad tackle each dispute with a sophisticated, strategic approach.",
+    "notable_facts": [
+      "Represents clients in federal and state courts nationwide.",
+      "The firm was founded in 2011.",
+      "The firm employs 70 people."
+    ],
+    "technology_signals": [
+      "Microsoft",
+      "Microsoft 365",
+      "Microsoft Office",
+      "WordPress",
+      "iManage",
+      "Webflow",
+      "HubSpot",
+      "LexisNexis",
+      "Clio",
+      "Buildout",
+      "Well",
+      "Juris",
+      "Visa"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Aaron Siri",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/aaron-siri-83212023"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Brad Linberg",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kent Williams",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mason Barney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Connett",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alison Haskins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William Sweetnam",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Walker Moller",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Brehm",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

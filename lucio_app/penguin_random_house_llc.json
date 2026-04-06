@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Penguin Random House",
+    "website": "http://www.us.penguingroup.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Legal and Compliance",
+      "Publishing Law",
+      "Intellectual Property Law",
+      "First Amendment Law",
+      "Corporate Law",
+      "Commercial Contracts",
+      "M&A",
+      "Licensing",
+      "Data Protection/Privacy",
+      "General Corporate Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Penguin Random House's Legal and Compliance Team ensures that all publishing activities adhere to legal standards and internal policies. They provide legal counsel, manage risk, oversee contracts, and ensure regulatory compliance to protect the company's interests and maintain its ethical standards in the literary world.",
+    "notable_facts": [
+      "Penguin Random House is a major book publisher.",
+      "The Legal and Compliance Team manages risk and oversees contracts.",
+      "The firm ensures regulatory compliance to protect the company's interests."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jeff Abraham",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anke Steinecke",
+          "title": "EVP, Chief Legal Officer & General Counsel U.S.",
+          "email": "a*******@penguinrandomhouse.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaci Updike",
+          "title": "CRO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeff Weber",
+          "title": "Deputy CRO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Manuel Sansigre",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "State Tax Law LLC",
+    "website": "https://statetax.law",
+    "city": "New York",
+    "practice_areas": [
+      "State and Local Tax",
+      "Tax Law",
+      "Tax Litigation"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "State Tax Law LLC provides tax advice and representation to clients, including Fortune 50 companies, midcaps, and startup businesses, across various industries. The firm specializes in state tax litigation, advice, planning, and policy, offering a national multistate perspective on complex tax matters.",
+    "notable_facts": [
+      "Founded in 2023",
+      "Represents businesses in financial services, technology, media, pharmaceutical, manufacturing, energy, real estate, transportation, and retail industries",
+      "Offers services in state tax litigation, advice, planning, and policy"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc Simonetti",
+          "title": "Partner",
+          "email": null,
+          "phone": "914.452.0013",
+          "linkedin_url": null
+        },
+        {
+          "name": "John Wertz",
+          "title": "Partner",
+          "email": "john.wertz@statetax.law",
+          "phone": "(914) 452-0008",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lynn Kutney",
+          "title": "Executive Assistant",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shelby Castillo",
+          "title": "Billing Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elma Radoncic",
+          "title": "Marketing and Business Development Specialist",
+          "email": null,
+          "phone": "914.452.0035",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

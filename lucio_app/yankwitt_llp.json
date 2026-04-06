@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Yankwitt LLP",
+    "website": "https://www.yankwitt.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Alternative Dispute Resolution",
+      "Appellate Practice",
+      "Bankruptcy Litigation",
+      "Business Litigation",
+      "Criminal Defense & Investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Yankwitt LLP is a litigation firm in Westchester County that handles civil and complex criminal matters in state and federal courts throughout the region. They represent businesses and high-net-worth individuals across a broad range of disputes.",
+    "notable_facts": [
+      "Named a Best Place to Work: Law Firms by The Best Companies Group for the second consecutive year in 2024.",
+      "Recognized as a top commercial litigation firm in New York by Chambers USA for the fifth consecutive year in 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Russell Yankwitt",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.yankwitt.com/attorneys/russell-m-yankwitt/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Esther Rose",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

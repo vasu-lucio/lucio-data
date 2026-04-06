@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Lowey Dannenberg, P.C.",
+    "website": "https://lowey.com/",
+    "city": "White Plains, NY",
+    "practice_areas": [
+      "Antitrust",
+      "Commodities",
+      "Health Care",
+      "Securities",
+      "Whistleblower",
+      "Data Breach",
+      "Privacy Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lowey Dannenberg has represented investors and major corporations in complex litigation since 1967, recovering billions of dollars on their behalf. The firm is a national firm representing institutional and individual investors, who suffered financial losses resulting from corporate fraud and malfeasance in violation of federal securities and antitrust laws.",
+    "notable_facts": [
+      "Ranked #1 Law Firm based on Antitrust Settlements in 2023 by ISS Securities Class Action Services (ISS SCAS).",
+      "Recovered billions of dollars on behalf of clients."
+    ],
+    "technology_signals": [
+      "Christian Levis manages the firm's e-discovery infrastructure and leverages analytics and technology assisted review.",
+      "The firm has a data breach and privacy practice group."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vincent Briganti",
+          "title": "Chairman",
+          "email": "vbriganti@lowey.com",
+          "phone": "914-733-7239",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christian Levis",
+          "title": "Partner, Chair of Data Privacy",
+          "email": "clevis@lowey.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sitso Bediako",
+          "title": "Partner",
+          "email": "sbediako@lowey.com",
+          "phone": "914-733-7213",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea Farah",
+          "title": "Partner",
+          "email": "afarah@lowey.com",
+          "phone": "914-733-7256",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Fiorilla",
+          "title": "Partner",
+          "email": "afiorilla@lowey.com",
+          "phone": "914-733-7266",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

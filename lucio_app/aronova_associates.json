@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Aronova and Associates",
+    "website": "https://aronovaassociates.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Personal Injury",
+      "Construction Accidents",
+      "Social Security Disability",
+      "Disability Pension"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Aronova and Associates is a New York based workers' compensation and personal injury law firm recognized for providing personalized legal services, enhanced by its multilingual resources. They strive to maximize financial compensation for their clients under New York State law.",
+    "notable_facts": [
+      "Offers legal representation in multiple languages including Spanish, Punjabi, Russian, Hindi, Turkish, Korean, and Urdu.",
+      "Has multiple locations throughout New York City including Manhattan, Brooklyn, Queens, and Garden City.",
+      "Ester Aronova is a partner in three law firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ester Aronova",
+        "title": "Managing Partner",
+        "email": "info@aronovaassociates.com",
+        "phone": "+1 (516) 640-3900",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexis Barros",
+          "title": "Marketing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/aronovaassociates"
+  },
+  "email": {}
+}

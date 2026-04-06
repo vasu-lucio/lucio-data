@@ -1,0 +1,118 @@
+{
+  "firm_data": {
+    "firm_name": "Klestadt Winters Jureller Southard & Stevens, LLP",
+    "website": "https://klestadt.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy & Reorganization",
+      "Commercial Litigation",
+      "Business Transactions and Finance"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Klestadt Winters Jureller Southard & Stevens, LLP is a boutique firm with a diverse commercial law practice dedicated to providing superior legal services at competitive rates. The firm routinely represents clients involved in creditors\u2019 rights disputes both in and out of bankruptcy, including corporate debt restructuring, distressed business transactions, and complex commercial litigation.",
+    "notable_facts": [
+      "Founded in 1995",
+      "Represents clients in creditors\u2019 rights disputes",
+      "Client base includes debtors-in-possession, official committees, ad hoc committees, trustees, secured creditors, unsecured trade creditors, landlords, real estate developers, franchisees, and equipment lessors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tracy Klestadt",
+          "title": "Partner",
+          "email": "tklestadt@klestadt.com",
+          "phone": "917-607-6520",
+          "linkedin_url": "https://www.linkedin.com/in/tracy-klestadt-3bb13010"
+        },
+        {
+          "name": "Ian Winters",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Jureller, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Southard",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fred Stevens",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brendan Scott",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen Aiello",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren Kiss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie Sweeney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

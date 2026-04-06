@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Scott+Scott Attorneys at Law LLP",
+    "website": "https://scott-scott.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust + Competition",
+      "Securities Litigation",
+      "Consumer Litigation",
+      "Corporate Governance + Shareholder Rights"
+    ],
+    "lawyer_count": 140,
+    "firm_description": "Scott+Scott is an international law firm known for its expertise in representing corporate clients, institutional investors, businesses, and individuals harmed by anticompetitive conduct or other forms of wrongdoings, including securities law and shareholder violations. Their advocacy has resulted in significant monetary settlements on behalf of their clients, along with other forms of relief.",
+    "notable_facts": [
+      "The firm was founded in 1975.",
+      "Scott+Scott operates in 5 countries, including the Netherlands, United Kingdom, Germany, and Spain.",
+      "Scott+Scott ranked among leading firms in Top 50 Cases with Settlements Reaching Final Approval 2009-2023."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Scott",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jonathan Swerdloff",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Shil Patel",
+          "title": "Litigation Support Director - Europe",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sindhu Daniel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Perez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

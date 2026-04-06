@@ -1,0 +1,117 @@
+{
+  "firm_data": {
+    "firm_name": "Beys Liston & Mobargha LLP",
+    "website": "https://blmllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate Litigation",
+      "Alternative Dispute Resolution",
+      "Judgment Enforcement",
+      "Subpoena Compliance",
+      "Internal Investigations",
+      "Government and Regulatory Agency Actions",
+      "White Collar Criminal Defense",
+      "Business and Securities Litigation",
+      "Complex Commercial Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Founded in 2010, Beys Liston & Mobargha brings together a distinctive combination of large-firm and government backgrounds, litigation expertise, and substantive business experience. The firm provides high-quality work and individualized attention, at reasonable cost.",
+    "notable_facts": [
+      "The firm frequently uses alternative fee arrangements.",
+      "The firm focuses on litigation, white\u2013collar criminal and government enforcement defense, internal investigations, and dispute resolution."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael P. Beys",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua D. Liston",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nader Mobargha",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alison Moss",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Lippman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Catherine Conniff",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara Robbin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tamar Kanefsky",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/beys-liston-mobargha"
+  },
+  "email": {}
+}

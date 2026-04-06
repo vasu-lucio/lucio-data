@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Loeb, Block & Partners, LLP",
+    "website": "https://loebblock.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Tax-efficient structuring",
+      "Corporate and finance matters",
+      "International and U.S. estate and succession planning",
+      "Global regulatory and tax compliance",
+      "Personal and business matters"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Loeb Block is an international private client boutique firm representing ultra-high net worth individuals, families, and family offices worldwide. They offer services such as tax returns, succession planning, tax-efficient structure, corporate governance plans, and more.",
+    "notable_facts": [
+      "Founded in the late 1930s",
+      "Represents a diverse set of ultra-high net worth individuals, families, and family offices"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ren\u00e9 Loeb",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles J. Block",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leonard Wacksman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Navin Pal",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/loeb-block-partners-llp"
+        },
+        {
+          "name": "David J. Leibman",
+          "title": "Partner",
+          "email": "dleibman@loebblock.com",
+          "phone": "212 755-1777",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua P. Weiss",
+          "title": "Partner",
+          "email": "jweiss@loebblock.com",
+          "phone": "212 755-1777",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

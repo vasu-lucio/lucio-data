@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Blustein, Shapiro, Frank & Barone, LLP",
+    "website": "https://mid-hudsonlaw.com/",
+    "city": "Goshen",
+    "practice_areas": [
+      "Business Law",
+      "Wealth Preservation",
+      "Litigation",
+      "Real Estate Transactions",
+      "Municipal Law",
+      "Estate Planning",
+      "Elder Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Blustein, Shapiro, Frank & Barone, LLP is known throughout the Hudson Valley and Catskills regions for providing one-stop diversified legal services. Over their 25-year history, the firm has earned a reputation for providing stellar legal advice and obtaining favorable results for individuals, businesses, governments, institutions, and families.",
+    "notable_facts": [
+      "The firm's attorneys have been named to the Upstate New York Super Lawyers list and the Times Herald-Record's Community's Choice Awards list multiple times.",
+      "The firm has offices in Goshen and Monticello, NY."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William A. Frank",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael S. Blustein",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard J. Shapiro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gardiner S. Barone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Diana L. Puglisi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barbara A. Garigliano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan R. Conroy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William E. Duquette",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Susie C. Sohn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

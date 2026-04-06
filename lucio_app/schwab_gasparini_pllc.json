@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Schwab & Gasparini PLLC",
+    "website": "https://www.schwabgasparini.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Municipal Liability",
+      "General Civil Litigation",
+      "Wrongful Death",
+      "Premises Liability",
+      "Governmental and Constitutional Claims",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schwab & Gasparini PLLC is a commercial litigation firm that provides clients with big firm services with small firm responsiveness and accessibility. They utilize legal analytics and a team approach to provide efficient legal representation.",
+    "notable_facts": [
+      "Founded in 2007 by lawyers from larger litigation law firms in New York.",
+      "The firm has four offices: Syracuse, White Plains, Hudson Valley, and Albany."
+    ],
+    "technology_signals": [
+      "Uses legal analytics and metrics.",
+      "Utilizes the latest in legal technology.",
+      "Access to real-time juror information during selection, medical record searching and processing, social media investigation and data management."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew J. Schwab",
+        "title": "Managing Member (Partner)",
+        "email": "aschwab@schwabgasparini.com",
+        "phone": "(315) 422-1333",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Louis U. Gasparini",
+          "title": "Managing Partner",
+          "email": "lgasparini@schwabgasparini.com",
+          "phone": "(914) 304-4353",
+          "linkedin_url": null
+        },
+        {
+          "name": "Carolyn A. Loftus",
+          "title": "Attorney",
+          "email": "cloftus@schwabgasparini.com",
+          "phone": "(914) 304-4353",
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy G. Tuttle",
+          "title": "Attorney",
+          "email": "ttuttle@schwabgasparini.com",
+          "phone": "(914) 304-4353",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael G. Delvecchio",
+          "title": "Attorney",
+          "email": "MDelVecchio@schwabgasparini.com",
+          "phone": "(914) 304-4353",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

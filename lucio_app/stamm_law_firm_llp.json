@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Stamm Law Firm LLP",
+    "website": "https://stammlaw.com/",
+    "city": "Williamsville",
+    "practice_areas": [
+      "Personal injury litigation",
+      "Medical malpractice litigation",
+      "Estate planning",
+      "Elder law",
+      "Asset protection",
+      "Corporate and business law",
+      "Medicaid assistance",
+      "Real estate transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Stamm Law Firm LLP is a family-owned law firm in Buffalo, New York that focuses on personal injury litigation, medical malpractice litigation, estate planning, elder law, asset protection, corporate and business law, medicaid assistance, and real estate transactions. They provide personalized attention to their clients and understand the importance of an attorney-client relationship.",
+    "notable_facts": [
+      "Founded in 1972",
+      "Employs 7 people",
+      "Annual revenue of $4.1M"
+    ],
+    "technology_signals": [
+      "facebook",
+      "linkedin",
+      "twitter",
+      "youtube",
+      "instagram",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael A Bolas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bradley J. Stamm",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian G. Stamm",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew A. Borden",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa A. Stadler",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

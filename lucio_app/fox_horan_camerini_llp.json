@@ -1,0 +1,121 @@
+{
+  "firm_data": {
+    "firm_name": "Fox Horan & Camerini LLP",
+    "website": "https://foxhorancamerini.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "General Practice",
+      "Litigation",
+      "Real Estate",
+      "Tax"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Fox Horan & Camerini LLP is a law firm based in New York City that guides clients through complex, often multinational legal matters. The firm represents public and private companies and high-net-worth individuals on legal matters in the United States and abroad.",
+    "notable_facts": [
+      "Founded in 1968",
+      "Has presence in Chile and Nicaragua",
+      "Many attorneys are bilingual"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Donald Fox",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Horan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Twombly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tom\u00e1s Mar\u00eda Casalins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "R Andrew Shore",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dario Nolasco",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Ferriere",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Rivkin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Annie Borello Fiorilla Di Santa Croce",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

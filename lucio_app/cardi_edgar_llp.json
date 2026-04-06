@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Cardi & Edgar LLP",
+    "website": "https://cardiedgarlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Matrimonial & Family Law",
+      "Criminal Defense",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cardi & Edgar LLP is a law firm serving clients in the New York City and the New York tri-state area, focusing on matrimonial and family law, criminal defense, and civil litigation with an emphasis upon commercial and employment disputes. They provide well-informed and sophisticated legal counsel using a strategic and holistic approach.",
+    "notable_facts": [
+      "Founded in 2013 by Dawn M. Cardi and Chad L. Edgar",
+      "Located at 99 Madison Avenue, 8th Floor, NYC"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Dawn M. Cardi",
+          "title": null,
+          "email": "dcardi(a)cardiedgarlaw.com",
+          "phone": "212.481.7770",
+          "linkedin_url": null
+        },
+        {
+          "name": "Chad L. Edgar",
+          "title": null,
+          "email": null,
+          "phone": "212.481.7770",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nina Stupnick Epstein",
+          "title": null,
+          "email": null,
+          "phone": "212.481.7770",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle Miriam Younger",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Renee Campbell Fancher",
+          "title": null,
+          "email": null,
+          "phone": "212.481.7770",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

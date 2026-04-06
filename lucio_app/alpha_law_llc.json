@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "AlphaLaw",
+    "website": "https://alphalaw.io/",
+    "city": "Seattle",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "AlphaLaw is a Legal Services company providing AI-powered personal injury solutions to help individuals experience the future of personal injury claims. They offer instant case analysis, 24/7 AI-powered support, higher settlement rates, and free initial consultation.",
+    "notable_facts": [
+      "Founded in 2024",
+      "Headquartered in Seattle, Washington with presence in India",
+      "Employs 5 people"
+    ],
+    "technology_signals": [
+      "AI-powered legal case management",
+      "Intelligent document and evidence handling",
+      "Real-time dashboards for case progress and firm analytics",
+      "Automated workflows"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "AlphaLaw is an AI platform for the injury law market, offering AI-powered legal case management."
+      },
+      "additional_contacts": [
+        {
+          "name": "Sage Khanuja",
+          "title": "Founding Advisor",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/alphalaw-io"
+        },
+        {
+          "name": "Frederick Pinto",
+          "title": "LLM",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Afilalo",
+          "title": "MD, MSc",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/alphalaw-io"
+  },
+  "email": {}
+}

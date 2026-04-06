@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Lerner, Arnold & Winston, LLP",
+    "website": "lawpartnersllp.com",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Lerner, Arnold & Winston, LLP is a Law Practice company headquartered in New York, New York.",
+    "notable_facts": [
+      "Employs 4 people",
+      "Yearly Growth: +25.0%"
+    ],
+    "technology_signals": [
+      "c",
+      "impact",
+      "juris",
+      "well",
+      "microsoft"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amanda Peterson",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": "212-686-4655",
+          "linkedin_url": "linkedin.com/company/lerner-arnold-winston-llp"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

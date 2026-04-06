@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Levi & Korsinsky, LLP",
+    "website": "https://zlk.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice",
+      "Securities Litigation",
+      "Consumer Protection"
+    ],
+    "lawyer_count": 51,
+    "firm_description": "Levi & Korsinsky, LLP is a leading plaintiffs\u2019 law firm that has recovered billions of dollars for defrauded investors in global securities litigation and has been at the forefront protecting consumers. The firm is dedicated to fighting for aggrieved shareholders and consumers, and obtaining redress from those who have harmed them.",
+    "notable_facts": [
+      "The firm has recovered billions of dollars for defrauded investors.",
+      "The firm has over 80 years of combined partner experience.",
+      "The firm has over 120 lawyers and support staff nationwide."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Eduard Korsinsky",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph E. Levi",
+          "title": "Founding Partner",
+          "email": "[[email protected]]",
+          "phone": "212-363-7500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Apton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory Potrepka",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Porritt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Reich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Tepper",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shannon Hopkins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Tripodi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

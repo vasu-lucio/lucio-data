@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Schnitter Ciccarelli Mills PLLC",
+    "website": "https://www.scm-law.com/",
+    "city": null,
+    "practice_areas": [
+      "Insurance Defense",
+      "Coverage Litigation",
+      "Premises Liability",
+      "Construction Site Accidents",
+      "General Negligence",
+      "Motor Vehicle Accidents",
+      "Toxic Torts",
+      "Appeals"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schnitter Ciccarelli Mills was formed with the goal of providing uncompromising representation to all our clients throughout New York State. With a focus on insurance defense and coverage litigation, we have experience in all aspects of civil litigation.",
+    "notable_facts": [
+      "Reputation as trial attorneys",
+      "Experience in civil litigation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph M. Schnitter",
+          "title": "Partner",
+          "email": "jschnitter@scm-law.com",
+          "phone": "716-204-1861",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia S. Ciccarelli",
+          "title": "Partner",
+          "email": "pciccarelli@scm-law.com",
+          "phone": "716-204-1862",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan J. Mills",
+          "title": "Partner",
+          "email": "rmills@scm-law.com",
+          "phone": "716-204-1863",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

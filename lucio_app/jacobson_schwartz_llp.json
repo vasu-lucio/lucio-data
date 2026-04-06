@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Jacobson & Schwartz, LLP",
+    "website": "https://www.bcgsearch.com/bestlawfirms/KrYAM/Jacobson-and-Schwartz-LLP/rankings",
+    "city": "Jericho",
+    "practice_areas": [
+      "Construction",
+      "Insurance",
+      "Insurance Coverage",
+      "Litigation",
+      "Litigation - General (consumer)",
+      "Litigation - Insurance",
+      "Litigation - Mass Torts",
+      "Real Estate",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Jacobson & Schwartz, LLP is a New York-based law firm specializing in insurance company litigation, serving the Metropolitan New York City area, as well as Long Island and Westchester Counties.",
+    "notable_facts": [
+      "The firm has an AV-rating.",
+      "The firm is listed in Best's Recommended Insurance Attorneys as insurance company litigation specialists in New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jack Schwartz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/jack-schwartz-3b084615"
+        },
+        {
+          "name": "Gary Robert Schwartz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael N. Gould",
+          "title": null,
+          "email": null,
+          "phone": "516-536-0900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa E. Hechler",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Seth Marcus",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

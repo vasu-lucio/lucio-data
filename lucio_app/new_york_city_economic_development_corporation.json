@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "New York City Economic Development Corporation",
+    "website": "https://edc.nyc",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Economic Development",
+      "Infrastructure Development"
+    ],
+    "lawyer_count": null,
+    "firm_description": "New York City Economic Development Corporation is a non-profit corporation whose stated mission is to promote economic growth in New York City, especially through real estate development.",
+    "notable_facts": [
+      "Focuses on driving economic growth through real estate development.",
+      "Partnerships enhance the city's economic landscape."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Meredith J. Jones",
+          "title": "EVP & General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/edc-nyc/org-chart/meredith-j-jones"
+        },
+        {
+          "name": "Spencer Hobson",
+          "title": "Executive Vice President & Treasurer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cecilia Kushner",
+          "title": "EVP, Planning Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Kimball",
+          "title": "President & CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Clark",
+          "title": "VP & Director of Business Development",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

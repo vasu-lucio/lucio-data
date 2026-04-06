@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Liston Abramson",
+    "website": "https://www.listonabramson.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Intellectual Property",
+      "White Collar Defense",
+      "Commercial Litigation",
+      "Internal Investigations",
+      "Criminal Referrals",
+      "Business Disputes & Strategy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Liston Abramson is a litigation boutique based in New York City with an international practice. Our team has decades of experience in winning on behalf of our clients, in and outside of the courtroom.",
+    "notable_facts": [
+      "The firm is known for its thriving IP litigation practice.",
+      "They handle patent enforcement and defense across the US for companies and individuals around the world."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ronald Abramson",
+          "title": "Partner",
+          "email": "ron.abramson@listonabramson.com",
+          "phone": "212-257-1643",
+          "linkedin_url": "https://www.linkedin.com/in/ron-abramson-8b764b6"
+        },
+        {
+          "name": "Catherine A. Christian",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Berlandi Nussbaum & Reitzas LLP",
+    "website": "https://bnrllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "ADR",
+      "Banking & Structured Finance",
+      "Congressional and Governmental Investigations",
+      "Mergers & Acquisitions",
+      "Media & Entertainment",
+      "Litigation",
+      "Private Equity and Venture Capital",
+      "Election Law",
+      "Healthcare",
+      "Intellectual Property",
+      "Real Estate",
+      "Tax"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Berlandi Nussbaum & Reitzas LLP is a full-service law firm that offers a wide variety of legal expertise. The firm's attorneys are hardworking, fiercely loyal and compassionate people, and each bring a different set of skills to the table.",
+    "notable_facts": [
+      "Founded in 2011",
+      "Maintains offices in Midtown Manhattan, White Plains, and Pawling, NY",
+      "Offers a variety of creative payment alternatives to clients"
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Sarah Choi",
+        "title": "COO",
+        "email": "social@bnrllp.com",
+        "phone": "(212) 804-6329",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian L. Berlandi",
+          "title": "Co-Founder / Partner",
+          "email": "bberlandi@bnrllp.com",
+          "phone": "212.804.6329 x 501",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay Nussbaum",
+          "title": "Co-Founder/Partner",
+          "email": "jnussbaum@bnrllp.com",
+          "phone": "212.804.6329 x 502",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua T. Reitzas",
+          "title": "Co-Founder / Partner",
+          "email": "jreitzas@bnrllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel F. Leary",
+          "title": "Partner",
+          "email": "dleary@bnrllp.com",
+          "phone": "212.804.6329 x 523",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/berlandi-nussbaum-&-reitzas-llp"
+  },
+  "email": {}
+}

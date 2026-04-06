@@ -1,0 +1,34 @@
+# Secrets & credentials
+.env
+*.env
+gmail_credentials.json
+gmail_token.json
+key_swap.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Spreadsheet source data
+*.xlsx
+*.csv

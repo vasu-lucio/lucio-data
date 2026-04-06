@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Dalli & Marino, LLP",
+    "website": "https://dallimarino.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Law Practice",
+      "Nursing Home Abuse",
+      "Personal Injury",
+      "Medical Malpractice",
+      "Construction Accidents"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Dalli & Marino, LLP is a New York law firm specializing in personal injury and nursing home abuse cases. They have recovered millions of dollars for their clients since 1996, representing victims of nursing home abuse, medical malpractice, and construction accidents.",
+    "notable_facts": [
+      "The firm was founded in 1996.",
+      "They represent clients in New York, New Jersey, and Connecticut.",
+      "They focus on providing personal service and legal representation to obtain compensation for injured people.",
+      "Annual revenue of $9.45 million."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Salvatore Marino",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "John Dalli",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Freeman",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeanne Ramasso",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony M. Chionchio",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

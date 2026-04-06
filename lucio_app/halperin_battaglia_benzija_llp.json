@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Halperin Battaglia Benzija, LLP",
+    "website": "https://www.halperinlaw.net/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy",
+      "Debtor-Creditor Rights",
+      "Insolvency and Reorganization Law",
+      "Commercial Litigation",
+      "Insurance Litigation",
+      "Foreclosures",
+      "Contracts",
+      "General Corporate Law",
+      "Corporate Services"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Halperin Battaglia Benzija, LLP is a dynamic firm dedicated to providing its clients with quality legal services at highly competitive rates. The firm\u2019s primary practice area is bankruptcy, including out-of-court restructurings, chapter 11 reorganization and liquidation cases, debtor-creditor litigation and transactional advice.",
+    "notable_facts": [
+      "Named a Tier 1 law firm in New York City for Bankruptcy, Debtor Creditor Rights/Insolvency and Reorganization Law by Best Lawyers in America\u00ae.",
+      "Represents clients in claims and cases ranging in value from relatively small amounts to hundreds of millions of dollars."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alan D. Halperin",
+        "title": "Founding and Senior Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher J. Battaglia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Walter Benzija",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.halperinlaw.net/attorney/walter-benzija/"
+        },
+        {
+          "name": "Debra J. Cohen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neal W. Cohen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

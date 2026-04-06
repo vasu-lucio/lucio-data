@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Ugalde & Rzonca, LLP",
+    "website": "https://hurtatworknyc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Workers Compensation",
+      "Social Security Benefits",
+      "Workers Compensation Defense for Uninsured Employers",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ugalde & Rzonca, LLP is a law firm founded to protect the rights of people injured at work and to defend the disabled. They handle Workers Compensation and Social Security Disability cases, providing personal attention to each client.",
+    "notable_facts": [
+      "The firm was founded in 2010.",
+      "They have multiple fully staffed offices.",
+      "They offer free legal counseling from their of counsel personal injury attorneys.",
+      "They speak Spanish, Russian, Polish, Chinese, Hindi, Punjabi, and Bengali.",
+      "The firm has an established Workers Compensation and Social Security benefits department working side by side, allowing them to help clients obtain additional income."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Francisco Ugalde",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tadeusz Rzonca",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carolyn Rose",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel P. Hechtman",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Siddiquah Chaudhury",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

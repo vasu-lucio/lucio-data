@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Riemer & Braunstein LLP",
+    "website": "https://www.riemerlaw.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Real Estate Finance",
+      "Commercial Finance",
+      "Tax Credit/Community Development Finance",
+      "Loan Restructuring & Workouts",
+      "Real Estate/Business/Tax Law",
+      "Litigation",
+      "Bankruptcy",
+      "Land Use/Land Use Litigation",
+      "Trusts & Estates/Probate Litigation"
+    ],
+    "lawyer_count": 102,
+    "firm_description": "Riemer & Braunstein is a boutique finance firm representing major financial institutions in real estate and commercial finance transactions. It also serves as a local, full-service law firm meeting the needs of banks, corporations, and businesses.",
+    "notable_facts": [
+      "The firm has over 90 years of history.",
+      "Offices are located in Boston, Burlington, New York City, Chicago, Miami, and Newport Beach, California."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin Lyons",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Tim Horn",
+        "title": "Director of Services",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry Braunstein",
+          "title": "Chief Operating Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ron Braunstein",
+          "title": "Managing Partner New York",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacy Goldstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Lefkowitz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Nash",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Murtagh",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis McKenna",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Bernstein Litowitz Berger & Grossmann LLP",
+    "website": "https://blbglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate Governance",
+      "Shareholder Rights",
+      "Securities Litigation",
+      "Employment Discrimination",
+      "Civil Rights",
+      "Consumer Protection"
+    ],
+    "lawyer_count": 123,
+    "firm_description": "Bernstein Litowitz Berger & Grossmann LLP is a leading law firm advising institutional investors on issues related to corporate governance, shareholder rights, and securities litigation. Since its founding in 1983, BLB&G has recovered over $40 billion for investors.",
+    "notable_facts": [
+      "The firm has obtained many of the largest securities fraud recoveries in history.",
+      "BLB&G has prosecuted seminal cases in which it has achieved precedent-setting corporate governance reforms.",
+      "The firm is widely recognized by the media and industry observers for its legal excellence and achievements."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Max W. Berger",
+          "title": "Partner",
+          "email": "max@blbglaw.com",
+          "phone": "212.554.1403",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Reid Horovitz",
+        "title": "Chief Operating Officer",
+        "email": "reid.horovitz@blbglaw.com",
+        "phone": "212.554.1432",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony Calvano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Lebovitch",
+          "title": "Co-Department Head",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Avi Josefson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Li Yu",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bernstein-litowitz-berger-&-grossmann-llp"
+  },
+  "email": {}
+}

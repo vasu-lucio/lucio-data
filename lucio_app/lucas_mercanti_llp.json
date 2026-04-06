@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Lucas & Mercanti, LLP",
+    "website": "https://www.lmiplaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Patents",
+      "Trademarks",
+      "Copyrights",
+      "Trade Secrets",
+      "IP Litigation",
+      "Post-Grant Reviews",
+      "Unfair Competition"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lucas & Mercanti LLP is an intellectual property law firm providing practical advice and assertive advocacy in patents, trademarks and unfair competition, copyrights, litigation and post-grant reviews. The firm represents companies of all sizes \u2013 from start-ups to multi-national conglomerates, as well as individuals and academic and research institutions.",
+    "notable_facts": [
+      "The firm can trace its founding to the 1930s.",
+      "The firm provides comprehensive services, including managing global IP portfolios and advising in licensing and merger agreements.",
+      "The firm has a strong international network of IP law firms and agents.",
+      "The firm's attorneys have strong technical backgrounds.",
+      "The firm can communicate with many clients in their native language, including French, German, Japanese, Korean and Spanish."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Donald C. Lucas",
+          "title": null,
+          "email": "dcl@lmiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael N. Mercanti",
+          "title": "Partner",
+          "email": "mnm@lmiplaw.com",
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/michaelmercanti"
+        },
+        {
+          "name": "Peter J. Phillips",
+          "title": null,
+          "email": "pjphillips@lmiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Klaus P. Stoffel",
+          "title": null,
+          "email": "kstoffel@lmiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Lee D\u2019Amore",
+          "title": null,
+          "email": "eld@lmiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shintaro Yamada",
+          "title": null,
+          "email": "syamada@lmiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

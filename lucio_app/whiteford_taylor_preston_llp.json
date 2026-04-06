@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Whiteford, Taylor & Preston LLP",
+    "website": "https://www.whitefordlaw.com/",
+    "city": "Baltimore",
+    "practice_areas": [
+      "Administrative Law",
+      "Regulatory Compliance & Enforcement",
+      "Appellate Practice",
+      "Business and Corporate",
+      "Business Litigation",
+      "Business Solutions, Restructuring & Financial Litigation",
+      "Construction and Real Estate Litigation",
+      "Environmental",
+      "Government Contracts",
+      "Intellectual Property & Technology",
+      "Intellectual Property Litigation",
+      "Labor & Employment",
+      "Labor and Employment Litigation",
+      "Mass Tort and Class Action Litigation",
+      "Mergers & Acquisitions",
+      "Personal Injury Litigation",
+      "Political Law Compliance",
+      "Products Liability, Toxic Exposure & Environmental Litigation",
+      "Public Finance",
+      "Real Estate",
+      "Securities",
+      "Tax",
+      "Tort & Insurance Litigation",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Whiteford provides a comprehensive range of sophisticated, cost-effective business law and litigation services to clients ranging from innovative start-ups to middle-market companies to global enterprises. Their growing Mid-Atlantic footprint includes various offices in Delaware, D.C., Florida, Kentucky, Maryland, New York, North Carolina and Virginia.",
+    "notable_facts": [
+      "Founded in 1933",
+      "Has offices in Delaware, D.C., Florida, Kentucky, Maryland, New Jersey, New York, North Carolina and Virginia.",
+      "Member of two international networks of law firms (Pangea Net and Lexwork)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kimberly A King",
+          "title": "Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rafiq Gharbi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Claudia Lopez-knapp",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Kimmitt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

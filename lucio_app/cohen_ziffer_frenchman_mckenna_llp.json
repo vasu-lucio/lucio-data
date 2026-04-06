@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen Ziffer Frenchman & McKenna LLP",
+    "website": "https://www.cohenziffer.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Recovery"
+    ],
+    "lawyer_count": 36,
+    "firm_description": "Cohen Ziffer Frenchman & McKenna is built on the reputations and experience of nationally recognized lawyers who have represented policyholders for more than 20 years. They guide policyholders through their highest-value insurance recovery disputes.",
+    "notable_facts": [
+      "The firm was founded in 2021.",
+      "The firm focuses on representing policyholders in insurance recovery disputes.",
+      "The firm's lawyers have a long tenure of working together."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robin Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Ziffer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.cohenziffer.com/team/adam-ziffer/"
+        },
+        {
+          "name": "Ken Frenchman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keith McKenna",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

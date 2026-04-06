@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Filippatos PLLC",
+    "website": "https://www.filippatoslaw.com/",
+    "city": "Manhattan",
+    "practice_areas": [
+      "Discrimination",
+      "Harassment",
+      "Retaliation",
+      "Employment Law",
+      "Litigation",
+      "ADR"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Filippatos PLLC is a New York-based law firm that focuses on employment law, litigation, and ADR, advocating for employee rights and against workplace discrimination, harassment, and retaliation. The firm is committed to fairness and a client-centered approach, tailoring its services to specific needs.",
+    "notable_facts": [
+      "The firm was founded in 2020.",
+      "Parisis G. Filippatos has personally led litigations and negotiations that have resulted in the recovery of over $70 Million for his clients collectively.",
+      "Filippatos PLLC was featured in the New York Times Magazine on February 18, 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Tanvir H. Rahman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Erica T. Healey-Kagan",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Parisis G. Filippatos",
+          "title": "Founding Partner",
+          "email": "pgf@filippatoslaw.com",
+          "phone": "(914) 984-1111",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Carole Belfiore",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ananda Chaudhuri",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

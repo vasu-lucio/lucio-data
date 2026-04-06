@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Hogan Lovells",
+    "website": "https://www.hoganlovells.com/en",
+    "city": "Washington, D.C.",
+    "practice_areas": [
+      "International Trade",
+      "Corporate",
+      "Finance",
+      "Energy",
+      "Regulatory",
+      "IP",
+      "Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hogan Lovells is a global law firm that provides legal solutions to businesses and institutions worldwide. They offer expertise in major industries and commercial centers.",
+    "notable_facts": [
+      "Hogan Lovells was formed through the merger of Hogan & Hartson and Lovells.",
+      "The firm has more than 45 offices across the globe."
+    ],
+    "technology_signals": [
+      "ELTEMATE's Regulatory Pilot transforming global regulatory compliance with AI is mentioned on their website."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Miguel A. Zaldivar, Jr.",
+        "title": "Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Michael Davison",
+        "title": "Deputy CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Nelson T. Hartson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank J. Hogan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Lovell",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Paul Gilford",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm mentions an AI Healthcare Coalition and an AI Hub."
+      },
+      "additional_contacts": [
+        {
+          "name": "Janice M. Hogan",
+          "title": "Global Regulatory & IP Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Paul",
+    "to_title": "Chief Information Officer",
+    "to_email": null,
+    "subject": "AI for Hogan Lovells \u2014 built for global regulatory scale",
+    "body": "Hi Paul,\n\nI noticed Hogan Lovells is already exploring AI for regulatory compliance through your work with ELTEMATE's Regulatory Pilot. With 45 offices globally and deep Regulatory and IP practices, you're managing complexity most firms can't handle.\n\nI lead business at Lucio, an AI platform built for law firms managing BigLaw-scale demands with leaner operations. We recently raised $5M, and firms across 9 jurisdictions have chosen us because we focus on precision, client trust, and real efficiency\u2014not just hype.\n\nAs ex-lawyers, we've built specifically for firms like Hogan Lovells that need AI to amplify expertise across jurisdictions without compromising quality. Given your regulatory footprint, there's likely a meaningful opportunity here.\n\nWorth 20 minutes to explore?\n\nVasu\nLucio"
+  }
+}

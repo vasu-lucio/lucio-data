@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "Lewis & Lewis, P.C.",
+    "website": "https://lewislaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Personal Injury",
+      "Workers\u2019 Compensation",
+      "Social Security Disability",
+      "Criminal Law",
+      "DWI/DWAI"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Lewis & Lewis, P.C. is a personal injury law firm serving Western New York families for over seventy years, focusing on accident victims and injured workers. They are the largest combined Workers' Compensation and Personal Injury firm in Western New York, with offices in Buffalo, Niagara Falls, Batavia, Jamestown, and Olean.",
+    "notable_facts": [
+      "Founded in 1944",
+      "Collected over $300 million in settlements and verdicts for clients",
+      "Five offices located in Western New York"
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence Lewis",
+          "title": "President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/lewis-%26-lewis-p.c."
+        }
+      ]
+    }
+  },
+  "email": {}
+}

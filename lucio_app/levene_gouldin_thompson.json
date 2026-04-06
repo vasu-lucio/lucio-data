@@ -1,0 +1,123 @@
+{
+  "firm_data": {
+    "firm_name": "Levene Gouldin & Thompson, LLP",
+    "website": "https://lgtlegal.com/",
+    "city": "Vestal",
+    "practice_areas": [
+      "Appellate Practice",
+      "Business Law",
+      "Criminal Defense",
+      "Elder Law & Special Needs",
+      "Family Law",
+      "Guardianship",
+      "Health Law",
+      "Insurance Defense & Medical Malpractice",
+      "Labor and Employment Law",
+      "Litigation",
+      "Oil &Gas",
+      "Personal Injury",
+      "Real Estate",
+      "Tax Practice",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Levene Gouldin & Thompson, LLP has been providing prompt, practical, results-oriented services and a commitment to the civic affairs for more than nine decades. The attorneys at the firm have always emphasized the personal approach when dealing with clients.",
+    "notable_facts": [
+      "Founded in 1927",
+      "Acquired Schlather, Stumbar, Parks & Salk",
+      "Offices in Vestal, Ithaca, & Whitney Point, NY and Montrose, PA"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Scott R. Kurkoski",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Lisa Bodnar",
+        "title": "Director Of Administration",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey Loew",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Mcnamara",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aubrey Hetznecker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chelsea Aiosa",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Giannone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren Kiley Saleeby",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dorian Ames",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cindy Manchester",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

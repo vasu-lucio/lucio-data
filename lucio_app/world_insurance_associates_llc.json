@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "World Insurance Associates LLC",
+    "website": "https://worldinsurance.com/",
+    "city": "Iselin",
+    "practice_areas": [
+      "Business Insurance",
+      "Employee Benefits",
+      "Retirement Plan Consulting",
+      "Payroll & HR Services",
+      "Personal Insurance",
+      "Private Client",
+      "Wealth Management",
+      "Risk Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "World Insurance Associates LLC (World) is an insurance brokerage that offers a range of insurance products and services, including business insurance, employee benefits, and personal insurance. They focus on delivering exceptional client experiences and building real relationships with their clients.",
+    "notable_facts": [
+      "A Top 100 insurance brokerage.",
+      "Has advisors in dozens of niche markets, including self-storage facilities [eu-assets.contentstack.com](https://eu-assets.contentstack.com/v3/assets/bltf0a690941f58b2e5/bltd533658d2f625897/689266373fbf048b29eaedff/Facility_Operation_Guidebook_2025.pdf)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Andrea Paris",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rich Eknoian",
+          "title": "Chief Executive Officer and Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Corrigan",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Renae Flanders",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean Wiskowski",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

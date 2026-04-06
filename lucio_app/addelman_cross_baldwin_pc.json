@@ -1,0 +1,113 @@
+{
+  "firm_data": {
+    "firm_name": "Addelman Cross & Baldwin, PC",
+    "website": "https://www.acbfirm.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Law Practice",
+      "Accounting",
+      "Law",
+      "Trucking & Transportation",
+      "Professional Malpractice",
+      "Medical Malpractice",
+      "Dental Malpractice",
+      "Attorney Malpractice",
+      "Employment Law",
+      "Commercial Litigation",
+      "Licensure Investigations/Board Actions",
+      "Municipal Liability",
+      "Police Liability",
+      "Insurance Defense/Self-Insured Litigation",
+      "Errors and Omissions Liability",
+      "Insurance Agent/Broker Liability",
+      "Products Liability",
+      "Construction Accident/Labor Law",
+      "Motor Vehicle Liability",
+      "Premises Liability",
+      "Sports and Recreation",
+      "Accountancy Services",
+      "Tax Advice",
+      "Secretarial Services",
+      "Business Advisory",
+      "Corporate Finance"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Addelman Cross & Baldwin, PC is a law firm based in Buffalo, New York, providing legal services with a detail-oriented approach, focusing on clients' goals to achieve successful resolutions.",
+    "notable_facts": [
+      "The firm employs 5 people.",
+      "The firm was founded in Buffalo, New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kara M. Addelman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara N. Karch Cross",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jesse B. Baldwin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katie England",
+          "title": "Law Clerk",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Quinn Adams",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/addelman-cross-baldwin-pc"
+  },
+  "email": {}
+}

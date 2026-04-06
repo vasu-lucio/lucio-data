@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Cruser, Mitchell, Novitz, Sanchez, Gaston & Zimet, LLP",
+    "website": "https://law.usnews.com/law-firms/cruser-mitchell-novitz-sanchez-gaston-&-zimet-llp-5905",
+    "city": "Peachtree Corners",
+    "practice_areas": [
+      "Insurance",
+      "Labor and Employment",
+      "Litigation",
+      "Personal Injury",
+      "Real Estate"
+    ],
+    "lawyer_count": 95,
+    "firm_description": "Cruser, Mitchell, Novitz, Sanchez, Gaston & Zimet, LLP is a law firm based in Peachtree Corners, Georgia. With 11 locations in the U.S., the firm practices law in many practice areas including insurance, labor and employment, litigation, personal injury and real estate.",
+    "notable_facts": [
+      "The firm has 11 locations in the U.S."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rondiene E. Novitz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Marc Zimet",
+        "title": "Managing Partner - California",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bill Mitchell",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel Liebowitz",
+          "title": "Managing Partner - Florida",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy Mitchell",
+          "title": "Managing Partner - Washington Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

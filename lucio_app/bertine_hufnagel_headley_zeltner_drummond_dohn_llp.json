@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Bertine, Hufnagel, Headley, Zeltner, Drummond & Dohn, LLP",
+    "website": "https://bertinehufnagel.com/",
+    "city": "Scarsdale",
+    "practice_areas": [
+      "Wills/Trusts and Estate Planning",
+      "Estate, Gift and Income Taxation",
+      "Commercial and Corporate",
+      "Elder Law",
+      "Real Estate",
+      "State, Federal and Local Courts and Arbitration/Mediation",
+      "Landlord/Tenant",
+      "Real Estate Disputes - Residential",
+      "Commercial",
+      "Litigation: Trusts and Estates",
+      "Purchases and Sales of Businesses and Professional Practices",
+      "Shareholder Agreements and Operating Agreements",
+      "Partnership Matters",
+      "Commercial and Corporate Transactions: Formation of Business Entities",
+      "Residential Real Estate, Condominiums and Cooperatives: Purchases, Sales, & Financing",
+      "Financing",
+      "Acquisition and Sales",
+      "Commercial Real Estate: Leasing",
+      "Guardianships",
+      "Elder Law, Medicaid and Asset Protection Planning, Special Needs Planning",
+      "Probate, Trusts and Estate Administration",
+      "Wills, Trusts, Estate Planning and Taxation"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Bertine Hufnagel is one of the oldest law firms in Westchester County representing a broad range of individuals and businesses. The firm is committed to the zealous representation of their clients, the fulfillment of their professional responsibilities, and maintaining the highest level of competency in the areas they practice.",
+    "notable_facts": [
+      "Established in 1929",
+      "General practice law firm"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James P. Reduto",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-472-7700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kelly M. Welch",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-472-7700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Margo R. Sterling",
+          "title": "Associate",
+          "email": null,
+          "phone": "914-472-7700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter P. Zeltner",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": "914-472-7700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank M. Headley, Jr.",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": "914-472-7700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

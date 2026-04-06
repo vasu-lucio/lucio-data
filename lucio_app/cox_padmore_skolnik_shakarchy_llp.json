@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Cox Padmore Skolnik & Shakarchy LLP",
+    "website": "https://cpsslaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Business Law",
+      "Litigation",
+      "Real Estate",
+      "Family Law",
+      "Intellectual Property",
+      "Employment Law",
+      "Criminal Defense",
+      "Estate Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cox Padmore Skolnik & Shakarchy LLP is a legal partner providing insightful, result-oriented representation. The firm crafts practical solutions to address high-stakes legal challenges and is known for legal excellence and ethical advocacy.",
+    "notable_facts": [
+      "The firm has offices in New York City, Long Island, New Jersey, and Denver.",
+      "The firm serves clients both domestically and internationally, including government bodies, multinational corporations, and private investors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joshua Glikman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Ingber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stefan B Kalina",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laleh Hawa",
+          "title": "Special counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Solomon J Borg",
+          "title": "Of counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

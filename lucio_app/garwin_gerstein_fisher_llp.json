@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Garwin Gerstein & Fisher LLP",
+    "website": "https://garwingerstein.com/",
+    "city": null,
+    "practice_areas": [
+      "Antitrust",
+      "Complex Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Garwin Gerstein & Fisher LLP (GGF) is a law firm specializing in representing plaintiffs in various types of complex litigation. The Firm\u2019s primary focus is on representing antitrust plaintiffs whose businesses have been adversely affected by price-fixing cartels and monopolies.",
+    "notable_facts": [
+      "Established more than 80 years ago",
+      "Recovered over $2.5 billion on behalf of its clients",
+      "Recognized for its ground-breaking work challenging illegal agreements between brand and generic pharmaceutical companies"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bruce E. Gerstein",
+        "title": "Managing Partner",
+        "email": "bgerstein@garwingerstein.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan M. Gerstein",
+          "title": "Partner",
+          "email": "jgerstein@garwingerstein.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Noah H. Silverman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Litvin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Deborah A. Elman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel E. Bonderoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David B. Rochelson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,58 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Office of Jennifer Adams",
+    "website": "https://www.lawyer.com/firm/the-law-office-of-jennifer-adams.html",
+    "city": "New Hyde Park",
+    "practice_areas": [
+      "Business",
+      "Lawsuit & Dispute",
+      "Employment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Office of Jennifer Adams is located in New Hyde Park, New York and focuses on Business, Lawsuit & Dispute, and Employment law.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jenny Adams",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

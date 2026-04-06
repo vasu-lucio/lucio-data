@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "BodnarMilone LLP",
+    "website": "http://www.bodnarmilone.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Child Custody",
+      "Child Support",
+      "Matrimonial Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "BodnarMilone\u2019s practice is devoted to working closely with its clients to resolve issues related to family and matrimonial law, preferably through negotiated settlement or the collaborative methodology, if possible; however, where that is not possible, the firm vigorously litigates. The firm is highly regarded by the Bench and Bar alike for its level of expertise and professionalism, attention to detail, integrity, and responsiveness.",
+    "notable_facts": [
+      "Attorneys have attained professional distinctions such as Super Lawyers and Best Lawyers.",
+      "Several attorneys are Fellows of the American Academy of Matrimonial Lawyers.",
+      "Attorneys have served as officers or members of the Board of Managers of the New York Chapter of the American Academy of Matrimonial Lawyers.",
+      "Attorneys have served as past Chairs of the New York State Bar Association Family Law Section and/or the Westchester County Bar Association Family Law Section."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Katherine A. Chesnut",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John P. Frucco",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erik Kristensen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Henry S. Berman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ivana Peric",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lydia Anne Milone",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bodnar-milone-llp"
+  },
+  "email": {}
+}

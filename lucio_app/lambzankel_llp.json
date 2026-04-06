@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "LambZankel, LLP",
+    "website": "https://www.lambzankel.com/",
+    "city": null,
+    "practice_areas": [
+      "Banking",
+      "Corporate Business Law",
+      "Family Office & High-Net-Worth Individuals",
+      "Intellectual Property",
+      "Litigation",
+      "Not-For-Profit",
+      "Real Estate",
+      "Taxation",
+      "Wills, Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "LambZankel, LLP is a full-service law firm providing strategic legal counsel across diverse industries. We deliver trusted, results-driven representation with a client-first approach.",
+    "notable_facts": [
+      "Firm evolved from Cahn & Wishod in 1982.",
+      "The firm has a rich history in the legal profession, highlighted by four former Presidents of the Suffolk County Bar Association and one President of the New York State Bar Association."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "P. L. Lamb",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey A. Zankel",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Dvoskin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle S. Feldman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

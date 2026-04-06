@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Lambda",
+    "website": "https://lambdalabs.com/",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Lambda is an AI-only company founded by ML engineers in 2012 which builds modular AI factories for labs training and deploying the next generation of superintelligence.",
+    "notable_facts": [
+      "Founded in 2012 by Michael and Stephen Balaban.",
+      "Focuses on AI workloads and infrastructure."
+    ],
+    "technology_signals": [
+      "Provides AI computing platforms and infrastructure",
+      "Specializes in deep learning servers and workstations",
+      "Offers GPU cloud and high-performance computing platforms"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael Balaban",
+          "title": "Co-Founder and CTO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephen Balaban",
+          "title": "Co-Founder and CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Brooks IV",
+          "title": "Founding Team & VP, Revenue",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

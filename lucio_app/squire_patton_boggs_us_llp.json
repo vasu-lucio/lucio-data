@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Squire Patton Boggs",
+    "website": "https://squirepattonboggs.com/",
+    "city": "Cleveland, Ohio",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 1500,
+    "firm_description": "Squire Patton Boggs is a full-service international law firm that provides insight at the point where law, business, and government meet, giving a voice, supporting ambitions, and achieving successful outcomes. With a multidisciplinary team of over 1,500 lawyers in over 40 offices across four continents.",
+    "notable_facts": [
+      "Founded in 1886",
+      "Operates in 33 countries"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William B. Sanders",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Patton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John H. Watson, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Squire Patton Boggs has an AI Law & Policy Hub. The AI Law & Policy Leadership includes:"
+      },
+      "additional_contacts": [
+        {
+          "name": "David S. Elkins",
+          "title": "Partner, Global Intellectual Property & Technology Practice Group Leader",
+          "email": "david.elkins@squirepb.com",
+          "phone": "+1 650 843 3378",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "David",
+    "to_title": "Partner, Global Intellectual Property & Technology Practice Group Leader",
+    "to_email": "david.elkins@squirepb.com",
+    "subject": "AI for Squire Patton Boggs \u2014 scaling across 40 offices",
+    "body": "Hi David,\n\nWith 1,500 lawyers spanning 40 offices across four continents, Squire Patton Boggs operates at a scale where AI becomes essential\u2014not just for efficiency, but for consistency across jurisdictions. Your AI Law & Policy Hub shows you're already thinking ahead on this.\n\nI lead business at Lucio, an AI platform built for firms that need precision, client trust, and seamless workflows across geographies. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we understand how global practices actually work.\n\nGiven your leadership in IP & Technology, I'd love to show you how we're helping firms like yours leverage AI without compromising the bespoke service your clients expect.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
+}

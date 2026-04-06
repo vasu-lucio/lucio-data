@@ -1,0 +1,124 @@
+{
+  "firm_data": {
+    "firm_name": "Bongiorno, Montiglio, Mitchell & Palmieri, PLLC",
+    "website": "https://bmmplaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Automobile Liability",
+      "Commercial Litigation",
+      "Construction Site Accidents",
+      "Municipal Liability",
+      "New York Labor Law",
+      "Premises Liability",
+      "Products Liability",
+      "School District Liability",
+      "Toxic Tort and Environmental",
+      "Trucking / Commercial Transportation",
+      "Construction Defect",
+      "Labor Law / Construction Site Accidents",
+      "Dealership Liability",
+      "Nursing Home / Healthcare Litigation",
+      "Commercial / Residential Premises Liability",
+      "Strict Products Liability",
+      "Complex Civil Litigation",
+      "Harassment/Discrimination Claims",
+      "Insurance Law",
+      "Legal Malpractice",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bongiorno, Montiglio, Mitchell & Palmieri, PLLC, provides quality legal services to their clients in a cost-efficient manner, taking a no-nonsense approach to the effective handling of each file on an individual basis.",
+    "notable_facts": [
+      "The firm's attorneys have maintained impeccable reputations with attorneys and jurists alike for their zealous representation of their clients.",
+      "The firm has an impressive track record of defense verdicts."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Angelo J. Bongiorno",
+          "title": "Partner",
+          "email": "Angelo.bongiorno@bmmplaw.com",
+          "phone": "(516) 620-3222",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas A. Montiglio",
+          "title": "Partner",
+          "email": "Thomas.Montiglio@bmmplaw.com",
+          "phone": "(516) 620-0673",
+          "linkedin_url": null
+        },
+        {
+          "name": "William J. Mitchell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neil J. Palmieri",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexys M. Mantione",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony M. Grisanti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura Palmieri",
+          "title": "Of Counsel",
+          "email": "Laura.Palmieri@bmmplaw.com",
+          "phone": "(516) 620-5992",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bongiorno-montiglio-palmieri-pllc",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

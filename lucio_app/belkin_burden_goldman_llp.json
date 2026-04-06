@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Belkin Burden Goldman, LLP",
+    "website": "https://www.bbgllp.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Real Estate Law",
+      "Administrative Proceedings",
+      "Anti-Harassment and Certificates of No Harassment",
+      "Appellate Litigation",
+      "Bankruptcy and Creditors\u2019 Rights",
+      "Commercial Lease Attorneys",
+      "Commercial Real Estate Litigation",
+      "Construction Law",
+      "Co-op and Condo Practice",
+      "Due Diligence",
+      "Human Rights",
+      "Landlord and Tenant Disputes",
+      "Land Use and Zoning",
+      "Local Law 97",
+      "Loft Law",
+      "Tax Exemptions and Zoning Incentives",
+      "Transactions and Financing"
+    ],
+    "lawyer_count": 60,
+    "firm_description": "Belkin Burden Goldman, LLP is a full-service real estate firm offering sophisticated legal counsel to developers, investors, landlords, property owners, property managers, and cooperative and condominium boards. Their team provides advocacy and strategic guidance across all facets of real estate law.",
+    "notable_facts": [
+      "Established in 1989",
+      "Listed as a top-ranked law firm for Real Estate Litigation in New York by Chambers and Partners 2025",
+      "Represents over 300 boards of directors and managers in NYC's cooperative and condominium law practice"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Daniel T. Altman",
+        "title": "Co-Managing Partner",
+        "email": "daltman@bbgllp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Sherwin Belkin",
+          "title": "Partner",
+          "email": "sbelkin@bbgllp.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Derrick A. Hensel",
+        "title": "Chief Operating Officer",
+        "email": "dhensel@bbgllp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey L. Goldman",
+          "title": "Co-Managing Partner",
+          "email": "jgoldman@bbgllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Deborah Goldman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/belkin-burden-goldman-llp"
+  },
+  "email": {}
+}

@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Bennett Schechter Arcuri & Will LLP",
+    "website": "https://bsawlaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Transportation",
+      "Insurance Defense",
+      "Family Law",
+      "Toxic Tort",
+      "Corporate Law",
+      "Wills & Estates",
+      "Real Estate",
+      "Litigation"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Bennett Schechter Arcuri & Will LLP is a law firm based in Buffalo, NY that provides various legal services including transportation, insurance, family law, toxic tort, defense litigation, and corporate law. The firm was founded in 2013.",
+    "notable_facts": [
+      "The firm's Trucking & Transportation Law Practice Group is chaired by Joel Schechter and Pauline Will.",
+      "Joel Schechter is a past member of the TIDA Board of Directors and a TIDA Past President (2013-2015)."
+    ],
+    "technology_signals": [
+      "Tech Stack: Microsoft, Juris, Microsoft Office, Legal Files, Well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joel B Schechter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/bennett-schechter-arcuri-%26-will-llp"
+        },
+        {
+          "name": "Pauline Costanzo Will",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristin L Arcuri",
+          "title": "Founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James W Bennett",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Mullins",
+          "title": "Partner (Attorney)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bennett-schechter-arcuri-&-will-llp",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

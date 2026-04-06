@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Gorlick, Kravitz & Listhaus, P.C.",
+    "website": "https://gkllaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor Law",
+      "ERISA",
+      "Family Law",
+      "Immigration Law",
+      "Employment Law",
+      "Real Estate",
+      "Litigation",
+      "Business Transactions"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Gorlick, Kravitz & Listhaus, P.C. is a union side Labor and ERISA law firm located in New York City. The firm strives to make a big difference in the lives of clients.",
+    "notable_facts": [
+      "Founded in 1994",
+      "Represents multi-employer unions and their benefit funds",
+      "Serves as Legal Services providers for eligible members of two local labor unions, Local 78 and Local 79"
+    ],
+    "technology_signals": [
+      "linkedin",
+      "well",
+      "c",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Katelyn M. Moloney",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Stacey Brown",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bruce L. Listhaus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis Lyons",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Gorlick",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

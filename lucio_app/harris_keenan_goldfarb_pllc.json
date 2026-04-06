@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Harris, Keenan & Goldfarb PLLC",
+    "website": "https://www.800painlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accidents",
+      "Medical Malpractice",
+      "Construction Accidents",
+      "Bicycle Accidents",
+      "Birth Injury",
+      "Lyft Accident",
+      "Hit and Run Accident",
+      "Drunk Driver Accident"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Harris Keenan & Goldfarb has been on the side of New Yorkers since 1996. They fight hard for people hurt in accidents or by someone else\u2019s carelessness and have a long history of looking out for their clients.",
+    "notable_facts": [
+      "The firm has won over $500 million in verdicts and settlements for their clients.",
+      "The firm was founded in 1996."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alison R. Keenan",
+          "title": "Partner",
+          "email": "info@hkglaw.com",
+          "phone": "800-PAIN-LAW",
+          "linkedin_url": null
+        },
+        {
+          "name": "Blake Goldfarb",
+          "title": "Partner",
+          "email": "info@hkglaw.com",
+          "phone": "800-PAIN-LAW",
+          "linkedin_url": "https://www.linkedin.com/in/blake-goldfarb-92b29614"
+        },
+        {
+          "name": "Robert \u201cBobby\u201d Steinberg",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Irwin Weinstein",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Steinberg",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

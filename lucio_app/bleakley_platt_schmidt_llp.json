@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Bleakley Platt & Schmidt, LLP",
+    "website": "https://bpslaw.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Civil Litigation",
+      "Appellate Work",
+      "Trusts and Estates",
+      "Commercial Finance",
+      "Real Estate Transactions",
+      "Corporate Law",
+      "Health Law",
+      "Labor and Employment Law",
+      "Government",
+      "Healthcare",
+      "Insurance",
+      "Litigation"
+    ],
+    "lawyer_count": 39,
+    "firm_description": "Bleakley Platt & Schmidt, LLP was founded in 1937 and has over 85 years as one of the preeminent law firms in White Plains, Westchester County and the Hudson Valley. The firm's range of knowledge enables them to effectively represent a diverse group of clients in virtually all aspects of civil and commercial law.",
+    "notable_facts": [
+      "The firm was founded in 1937.",
+      "The firm has a tradition of public service.",
+      "Many attorneys have experience at large national law firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert Braumuller",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Susan E. Galv\u00e3o",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William P. Harrington",
+          "title": "Chairman, Executive Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter N. Bassano",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan A. Murphy",
+          "title": "Executive Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

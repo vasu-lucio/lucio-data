@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office of Ralph C. Lorigo",
+    "website": "https://lorigo.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business Law",
+      "Criminal Law",
+      "Medicaid Law",
+      "Personal Injury Law",
+      "Estates Probate and Trusts",
+      "Wills",
+      "Real Estate",
+      "Bankruptcy",
+      "DWI",
+      "Marital and Family Law"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "The Law Office of Ralph C. Lorigo was established over 35 years ago in the Town of West Seneca. Ralph Lorigo established his office as a general practice law firm, with a goal of providing exceptional legal services to each and every client.",
+    "notable_facts": [
+      "Offers free consultations, as well as evening and weekend hours",
+      "Has been in practice for over 35 years"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ralph C. Lorigo",
+        "title": "Attorney",
+        "email": "rlorigo@lorigo.com",
+        "phone": "(716) 824-7200",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "R Vario",
+          "title": "Attorney",
+          "email": "rvario@lorigo.com",
+          "phone": "+1 844-339-6334",
+          "linkedin_url": null
+        },
+        {
+          "name": "F Jacobson",
+          "title": "Attorney",
+          "email": "fjacobson@lorigo.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "M Baquiline",
+          "title": "Attorney",
+          "email": "mbaquiline@lorigo.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "R Battista",
+          "title": "Attorney",
+          "email": "rbattista@lorigo.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "J Minear",
+          "title": "Attorney",
+          "email": "jminear@lorigo.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Valli Kane & Vagnini, LLP",
+    "website": "https://newyorkemploymentlawattorneys.com",
+    "city": "Garden City",
+    "practice_areas": [
+      "Employment Law",
+      "Civil Rights Law",
+      "Overtime Law",
+      "Sexual Harassment",
+      "Discrimination",
+      "Labor Law"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Valli Kane & Vagnini, LLP is a law firm focusing on employment discrimination and labor law problems. They represent clients throughout the United States in various employment and labor disputes.",
+    "notable_facts": [
+      "Firm founded in 2005",
+      "Located in Garden City, New York"
+    ],
+    "technology_signals": [
+      "c",
+      "impact",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Valli, Jr",
+          "title": "Partner",
+          "email": null,
+          "phone": "516203XXXX",
+          "linkedin_url": null
+        },
+        {
+          "name": "James Vagnini",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara Wyn Kane",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Berman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander M White",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

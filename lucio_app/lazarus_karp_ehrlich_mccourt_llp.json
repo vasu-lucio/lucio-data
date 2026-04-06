@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Lazarus Karp Ehrlich McCourt, LLP",
+    "website": "https://www.lazkarp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Landlord-tenant",
+      "Commercial and residential leasing",
+      "Cooperative and condominium matters",
+      "Rent regulations",
+      "Administrative law",
+      "General litigation",
+      "Real estate transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lazarus Karp Ehrlich McCourt, LLP provides legal representation in areas of landlord-tenant practice, commercial and residential leasing, cooperative and condominium matters, rent regulations, administrative law, and general litigation. They also handle real estate transactions.",
+    "notable_facts": [
+      "Chad Karp has been featured on ABC Eyewitness News discussing New York City Housing Court and landlord-tenant issues.",
+      "Robert Ehrlich was appointed to the NYC Rent Guidelines Board."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Chad L. Karp",
+        "title": "Managing Partner",
+        "email": "ckarp@lazkarp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence C. McCourt",
+          "title": "Partner",
+          "email": "lmccourt@lazkarp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert C. Ehrlich",
+          "title": "Partner",
+          "email": "rehrlich@lazkarp.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

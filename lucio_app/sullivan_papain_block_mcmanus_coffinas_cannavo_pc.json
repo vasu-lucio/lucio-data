@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Sullivan Papain Block McManus Coffinas & Cannavo P.C.",
+    "website": "https://www.triallaw1.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury",
+      "Wrongful Death Attorney",
+      "Motor Vehicle Accidents",
+      "9/11-Related Illnesses",
+      "Firefighter Law",
+      "Construction & Work Injuries",
+      "Product Liability"
+    ],
+    "lawyer_count": 36,
+    "firm_description": "Sullivan Papain Block McManus Coffinas & Cannavo P.C. is a New York City personal injury firm specializing in all areas of personal injury. They have dedicated litigation support teams within each department and are experienced in representing people exposed to asbestos, lead and other environmental hazards, as well as unsafe drugs and medical devices, and aviation and maritime accidents.",
+    "notable_facts": [
+      "Recovered over $2 billion in the last 10 years.",
+      "General Counsel to the Uniformed Firefighters Association of New York for more than 40 years.",
+      "Represented the State of New York in its litigation against major tobacco companies, helping the state obtain a historic $25 Billion recovery.",
+      "Represented 363 injured firefighters and families of firefighters who lost their lives on 9/11, pro bono, securing more than $265 Million for them in the original September 11 Victim Compensation Fund (VCF).",
+      "Represented 537 firefighters, pro bono, obtaining more than $350 million in awards for them in the current VCF."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Thomas J. McManus",
+        "title": "Managing Member & Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert G. Sullivan",
+          "title": "Member & Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Papain",
+          "title": "Member & Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eleni Coffinas",
+          "title": "Member & Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vito A. Cannavo",
+          "title": "Member & Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

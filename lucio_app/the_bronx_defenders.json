@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "The Bronx Defenders",
+    "website": "https://www.bronxdefenders.org/",
+    "city": "Bronx, NY",
+    "practice_areas": [
+      "Criminal Defense",
+      "Civil Legal Services",
+      "Family Defense",
+      "Immigration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Bronx Defenders is a public defender office utilizing a holistic defense model, fighting in and beyond the courtroom to challenge systems of oppression and secure justice, dignity, and freedom for the people of the Bronx.",
+    "notable_facts": [
+      "The Bronx Defenders was founded in 1997.",
+      "They serve nearly 20,000 Bronx residents each year."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Juval O. Scott",
+          "title": "Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robyn Mar",
+          "title": "Chief Practice Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "http://www.bronxdefenders.org/staff/robyn-mar/"
+        },
+        {
+          "name": "Earl Ward",
+          "title": "Board Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aurora Maoz",
+          "title": "Forensic Practice Group Director, Criminal Defense Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.bronxdefenders.org/staff/aurora-maoz-forensic-practice-group-director-criminal-defense-practice/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

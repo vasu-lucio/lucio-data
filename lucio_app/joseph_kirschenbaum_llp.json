@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Joseph & Kirschenbaum LLP",
+    "website": "https://www.jhllp.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Employment Law",
+      "Discrimination Law",
+      "Wage & Hour Claims",
+      "Sexual Harassment",
+      "Family Medical Leave Act Violations",
+      "Whistleblower & Sarbanes Oxley Claims",
+      "Civil Rights",
+      "Workers' Compensation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Joseph & Kirschenbaum LLP is a New York employment law firm dedicated to championing the rights of workers, advocating on behalf of those who have suffered on-the-job discrimination, harassment, retaliation, and abusive wage and hour practices.",
+    "notable_facts": [
+      "The firm has recovered more than $140 million for clients.",
+      "The firm was founded in 1997."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "D. Maimon Kirschenbaum",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Charles Joseph",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-688-5640",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Denise Schulman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Josef Nussbaum",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lucas Buzzard",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leah Seliger",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike DiGiulio",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

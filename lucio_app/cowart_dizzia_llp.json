@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Cowart Dizzia LLP",
+    "website": "https://www.cowartdizzia.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Healthcare Law",
+      "Regulatory & Compliance",
+      "Operations & Receivables Management",
+      "Finance & Transactional"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Cowart Dizzia LLP is a national, full-service health care law firm that exclusively services institutional long-term care providers. Our mission is to serve our clients with the highest level of counsel and build lasting relationships.",
+    "notable_facts": [
+      "The firm exclusively services institutional long-term care providers.",
+      "Cowart Dizzia LLP is a virtual, cloud-based, multi-jurisdictional practice focused on regulatory healthcare counseling."
+    ],
+    "technology_signals": [
+      "Virtual firm model",
+      "Cloud-based practice"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Trisha Cowart",
+          "title": "Co-founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gina Dizzia",
+          "title": "Co-founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Sweeney",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philice Cohen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Suzan Arden",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Quatela Chimeri PLLC",
+    "website": "https://www.qclaw.com/",
+    "city": "Long Island",
+    "practice_areas": [
+      "Matrimonial & Family",
+      "Business & Commercial",
+      "Appellate Practice",
+      "Civil Litigation",
+      "White Collar, Criminal, & Regulatory Defense",
+      "Federal Practice",
+      "Municipal Practice",
+      "Labor & Employment",
+      "Technology",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Quatela Chimeri PLLC is a boutique law firm well-recognized as a premier business litigation and family law practice serving Long Island and the Greater New York Area. The firm consists of seasoned attorneys who specialize in various practice areas, providing strategic advocacy to protect clients' interests and financial longevity.",
+    "notable_facts": [
+      "The firm is one of the few premier appellate advocacy firms on Long Island.",
+      "They offer a focused and holistic approach to legal specialties.",
+      "The firm has served Long Island residents for more than 25 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph A. Quatela",
+        "title": "Managing Partner",
+        "email": "Click here",
+        "phone": "631-482-9700",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher J. Chimeri",
+          "title": "Partner",
+          "email": "Click here",
+          "phone": "631-482-9700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Covello",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole J. Brodsky",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander E. Sendrowitz",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

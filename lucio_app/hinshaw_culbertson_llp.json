@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Hinshaw & Culbertson LLP",
+    "website": "https://hinshawlaw.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Insurance",
+      "Financial Services",
+      "Business Advisory",
+      "Transactional Services",
+      "Litigation",
+      "Dispute Resolution",
+      "Regulatory Compliance"
+    ],
+    "lawyer_count": 780,
+    "firm_description": "Hinshaw & Culbertson LLP is a U.S.-based law firm with offices nationwide. The firm\u2019s national reputation spans the insurance industry, the financial services sector, professional services, and other highly regulated industries.",
+    "notable_facts": [
+      "Founded in 1934",
+      "Acquired Barger & Wolen (2014-10-01)",
+      "Acquired Rockford consulting business (2012-04-01)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert T. Shannon",
+        "title": "Firm Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Tracy Elmblad",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Julie Amos",
+          "title": "Chief Marketing & Business Development Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jim Barbaria",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara Cook",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Belinda Garrett, SPHR, SCP",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter D. Sullivan",
+          "title": "Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

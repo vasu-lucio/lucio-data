@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Oppenheim + Zebrak Law, LLP",
+    "website": "https://www.oandzlaw.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Intellectual Property",
+      "Copyright",
+      "Trademark",
+      "Content Protection",
+      "Artificial Intelligence",
+      "Litigation"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Oppenheim + Zebrak Law is a litigation boutique at the intersection of technology and intellectual property. They focus on content protection, addressing the challenges of artificial intelligence, online platforms, and new business models.",
+    "notable_facts": [
+      "Represented publishing industry in reaching historic $1.5 billion settlement with Anthropic in AI copyright infringement case",
+      "Recognized by Chambers USA and Managing IP as Leaders in Intellectual Property and Copyright Law"
+    ],
+    "technology_signals": [
+      "Focus on AI-related legal challenges",
+      "Practice includes DMCA safe-harbors, notices, and subpoenas"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Matt Oppenheim",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Scott Zebrak",
+        "title": "Co-Founding Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Katheryn Enters",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeff Kane",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

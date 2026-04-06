@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Foran Glennon Palandech Ponzi & Rudloff",
+    "website": "http://fgppr.com/",
+    "city": "Chicago",
+    "practice_areas": [],
+    "lawyer_count": 94,
+    "firm_description": "Foran Glennon offers specialized legal representation and consultation to a wide variety of clients. They are committed to understanding and meeting your goals and objectives to consistently achieve the desired results.",
+    "notable_facts": [
+      "The firm has offices across two continents.",
+      "Foran Glennon Commemorated 25 Years of Legal Excellence in February 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Donna Halac",
+        "title": "Director Of IT",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles Rocco",
+          "title": "Managing Partner - NYC",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Winter",
+          "title": "Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marisa Maldonado",
+          "title": "Senior Litigation Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Schwartz",
+          "title": "Director of Finance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

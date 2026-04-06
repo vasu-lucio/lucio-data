@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Miller, Leiby & Associates, P.C.",
+    "website": "https://millerleiby.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate law",
+      "Corporate Finance",
+      "Litigation",
+      "Start-ups",
+      "Real Estate",
+      "Insurance & Coverage",
+      "Auto Dealership Representation",
+      "Administrative law",
+      "Commercial and Business Litigation"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Miller, Leiby & Associates, P.C. offers sophisticated legal strategies and personalized responsiveness to its clients. They provide practical solutions for business, contractual, litigation, and transactional matters.",
+    "notable_facts": [
+      "The firm employs 8 people.",
+      "Jeffrey Miller has been recognized as a Super Lawyer."
+    ],
+    "technology_signals": [
+      "smokeball",
+      "ups",
+      "c",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey R. Miller",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-miller-7799b04"
+        },
+        {
+          "name": "Oana Brebenel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Doron Leiby",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Curtis",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Lewittes",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

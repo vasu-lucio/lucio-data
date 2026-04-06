@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Reavis Page Jump LLP",
+    "website": "http://rpjlaw.com",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation and dispute resolution",
+      "Employment and labor",
+      "Entertainment and media",
+      "Intellectual property",
+      "Corporate",
+      "Real estate and infrastructure",
+      "Non-profit and education",
+      "Trusts and estates"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Reavis Page Jump LLP is a law firm founded by a diverse group of accomplished attorneys who formerly practiced with some of the world\u2019s largest and most recognized law firms and have realized the benefits\u2014to our clients and ourselves\u2014of operating in a smaller firm setting. The hands-on management and collegial environment at Reavis Page Jump LLP enhance the quality of service provided to our clients, to serve them more efficiently and collaboratively and with an exceptionally high level of attention.",
+    "notable_facts": [
+      "The firm\u2019s attorneys are distinguished by their service and backgrounds in the industries in which they practice.",
+      "RPJ is a certified Women's Business Enterprise.",
+      "Recognized as one of Nation's Best Law Firms by Best Lawyers for work in Entertainment Law-Motion Pictures and Television, Employment Law, and Litigation."
+    ],
+    "technology_signals": [
+      "Linkedin Insight Tag",
+      "JSON-LD",
+      "jQuery",
+      "OWL Carousel",
+      "Modernizr",
+      "Lightbox",
+      "Google Maps",
+      "Google Analytics"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Helen D. (Heidi) Reavis",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John A. Beranbaum",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

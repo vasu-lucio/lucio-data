@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Gitto & Niefer, LLP",
+    "website": "https://www.gittolaw.com/",
+    "city": "Binghamton",
+    "practice_areas": [
+      "Workers\u2019 Compensation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gitto & Niefer, LLP provides experienced attorneys in workers\u2019 compensation representation in New York and Pennsylvania, appearing before the New York State Workers\u2019 Compensation Board since 1986. The firm focuses on handling a high volume of cases efficiently and effectively on behalf of self-insured employers and insurance carriers.",
+    "notable_facts": [
+      "Partners have experience in bringing precedent-setting cases to the appellate level on issues of statewide concern in New York.",
+      "The firm's work is primarily on behalf of self-insured employers and insurance carriers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Donald R. Gitto",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David L. Niefer",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Kathryn Gitto",
+        "title": "Director Finance/HR",
+        "email": "comp@gittolaw.com",
+        "phone": "(607) 723-0600",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patrick Brien Timothy Guy",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shane Eaton Armstrong",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Mark Luce",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edmond Frank Morreall",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Higgins Snyder",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Mark Carlton",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

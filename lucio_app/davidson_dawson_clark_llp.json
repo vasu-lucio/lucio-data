@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Davidson, Dawson & Clark LLP",
+    "website": "https://davidsondawson.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trusts & Estates",
+      "Wills",
+      "Wealth Transfer",
+      "Tax Planning",
+      "Philanthropy",
+      "Personal Planning",
+      "Business succession planning",
+      "Prenuptial and postnuptial agreements"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Davidson, Dawson & Clark LLP is a trusts and estates firm in the New York metropolitan area. For more than 70 years they have assisted clients and their families with wealth transfer, tax planning and philanthropy.",
+    "notable_facts": [
+      "Recognized as one of the leading Trusts and Estates firms in the New York metropolitan area.",
+      "The firm's strength derives from its depth of experience and its singular focus on Trusts and Estates.",
+      "Many of their lawyers are members of the American College of Trust & Estate Counsel and are rated \u201cAV Pre\u00ebminent\u201d by the Martindale-Hubbell legal directory."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David S. Lee",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/david-s-lee-33773a65"
+        },
+        {
+          "name": "Claire F. Obrien",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Mainetti & Mainetti, P.C.",
+    "website": "https://mainetti.law/",
+    "city": "Kingston",
+    "practice_areas": [
+      "Personal Injury",
+      "Motorcycle Accidents",
+      "Commercial Truck Accidents",
+      "Car Accidents",
+      "Labor Law",
+      "Medical Malpractice",
+      "Dog Bite Injuries",
+      "Slip/Trip and Fall"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Mainetti & Mainetti, P.C. is a personal injury law firm focused on litigating accident cases. The firm also handles cases involving labor law, medical malpractice, and dog bite injuries.",
+    "notable_facts": [
+      "Founded in 2018",
+      "Offices in Kingston and Poughkeepsie, NY",
+      "Motto: \"We Push Back\""
+    ],
+    "technology_signals": [
+      "Microsoft",
+      "Microsoft Office",
+      "AMP",
+      "C",
+      "Well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michelle Brewer",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alfred Mainetti",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-600-0000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael A. Mainetti",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-600-0000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander E. Mainetti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Kavanagh",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Pugliese",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

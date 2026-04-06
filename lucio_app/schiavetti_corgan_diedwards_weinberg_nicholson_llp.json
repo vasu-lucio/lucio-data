@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Schiavetti, Corgan, DiEdwards, Weinberg & Nicholson, LLP",
+    "website": "https://schiavettilaw.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Medical Malpractice Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schiavetti, Corgan, DiEdwards, Weinberg & Nicholson, LLP is a law firm specializing in medical malpractice defense. They represent hospital clients in the New York metropolitan area.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Anthony L. Schiavetti",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John J. Corgan",
+          "title": "Partner",
+          "email": "jcorgan@schiavettilaw.com",
+          "phone": "(914) 946-0400 Ext. 4234",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerald D. DiEdwards",
+          "title": "Partner",
+          "email": "gdiedwards@schiavettilaw.com",
+          "phone": "(914) 946-0400 Ext. 4236",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

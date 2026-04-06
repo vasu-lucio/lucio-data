@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Chaffin Luhana LLP",
+    "website": "https://chaffinluhana.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Product Liability",
+      "Mass Tort"
+    ],
+    "lawyer_count": 52,
+    "firm_description": "Chaffin Luhana LLP is a plaintiffs-only national trial firm dedicated to representing individuals and families in serious personal injury and mass tort cases. The firm was founded on the mission of Doing Good by Doing Right\u2122.",
+    "notable_facts": [
+      "The firm has recovered over $1 billion for clients.",
+      "Chaffin Luhana has offices in Connecticut, New York, Pennsylvania, and West Virginia.",
+      "The firm has received 1,500+ five-star reviews."
+    ],
+    "technology_signals": [
+      "Early adoption of artificial intelligence",
+      "Litigation finance strategies"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Eric Chaffin",
+        "title": "Founding/Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/eric-chaffin-38320910"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Roopal Luhana",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Roopal Luhana",
+          "title": "Trial Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

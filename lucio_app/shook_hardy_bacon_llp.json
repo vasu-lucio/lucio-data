@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Shook, Hardy & Bacon L.L.P.",
+    "website": "https://shb.com/",
+    "city": "Kansas City",
+    "practice_areas": [
+      "Product Liability",
+      "Mass Tort",
+      "Complex Litigation",
+      "Intellectual Property",
+      "Environmental and Toxic Tort",
+      "Employment Litigation",
+      "Commercial Litigation",
+      "Government Enforcement and Compliance",
+      "Public Policy"
+    ],
+    "lawyer_count": 600,
+    "firm_description": "Shook, Hardy & Bacon L.L.P. is a top-ranked trial and litigation firm serving health, science, and technology companies. For more than a century, the firm has defended companies in their most substantial national and international products liability, mass tort and complex litigation matters.",
+    "notable_facts": [
+      "Expanded to 18 offices, including Atlanta, Boston, Hartford, Los Angeles, New York City and St. Louis.",
+      "The firm\u2019s analyst program continues to attract professionals with high-level degrees in scientific and technical fields.",
+      "Shook\u2019s total pro bono hours increased by more than 30%."
+    ],
+    "technology_signals": [
+      "Promotes cutting-edge technology and the use of artificial intelligence to advance the interests of clients"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Bart Eppenauer",
+        "title": "Managing Partner",
+        "email": "beppenauer@shb.com",
+        "phone": "206.344.7699",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Promotes cutting-edge technology and the use of artificial intelligence to advance the interests of clients"
+      },
+      "additional_contacts": [
+        {
+          "name": "Madeleine M. McDonough",
+          "title": "Chair, Shook, Hardy & Bacon",
+          "email": "mmcdonough@shb.com",
+          "phone": "202.639.5600",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul A. Williams",
+          "title": "Co-Chair, General Liability Litigation Practice Group",
+          "email": "pwilliams@shb.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Rosenthal",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Finke",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

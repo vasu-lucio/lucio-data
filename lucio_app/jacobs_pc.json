@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Jacobs P.C.",
+    "website": "https://www.jacobspc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Bankruptcy",
+      "Business Divorce",
+      "In-Court and Out-of-Court Restructuring",
+      "Corporate Reorganization"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jacobs P.C. is a boutique law firm specializing in business, bankruptcy, and commercial litigation. They are known for finding creative, direct, and expedient solutions to complex and high-profile issues.",
+    "notable_facts": [
+      "The firm emphasizes building long-lasting relationships and caring deeply about client needs.",
+      "They have over 100 years of combined experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Leo Jacobs",
+        "title": "CEO and Founder",
+        "email": "leo@jacobspc.com",
+        "phone": null,
+        "linkedin_url": "https://linkedin.com/in/leoyakubov/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam Sherman",
+          "title": null,
+          "email": "Adam@jacobspc.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

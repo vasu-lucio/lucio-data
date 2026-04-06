@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Friedman Vartolo LLP",
+    "website": "https://friedmanvartolo.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Foreclosure",
+      "Litigation",
+      "Bankruptcy",
+      "Evictions",
+      "Real Estate Transactions",
+      "Title Curatives"
+    ],
+    "lawyer_count": 209,
+    "firm_description": "Friedman Vartolo, founded in 2016, provides tailored legal services to lenders, servicers, and property owners across multiple states. The firm focuses on collaboration, innovation, and diligence to deliver these services.",
+    "notable_facts": [
+      "Founded in 2016",
+      "Provides services in Connecticut, Florida, Maryland, Massachusetts, New Jersey, New York, and Pennsylvania.",
+      "Offers boutique attention with big-firm capacity."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Adam J. Friedman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(212) 471-5100 Extension: 2000",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Ralph L. Vartolo",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(212) 471-5100 Extension: 2001",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

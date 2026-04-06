@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Drachman Katz LLP",
+    "website": "https://drachmankatz.com/",
+    "city": "Richmond Hill",
+    "practice_areas": [
+      "PIP/No-fault Arbitration",
+      "Revenue Recovery",
+      "Healthcare Law"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Drachman Katz LLP is a law firm specializing in PIP/No-fault arbitration and revenue recovery for Ambulatory Surgical Centers, Hospitals, and large medical practices in the NY/NJ region. They focus on maximizing practice revenue through improved structure, policies, coding, and billing.",
+    "notable_facts": [
+      "Recovered over $100 million in denied claims",
+      "Pioneering online client portal with HIPAA protection"
+    ],
+    "technology_signals": [
+      "Uses Salesforce CRM",
+      "Online client portal",
+      "HIPAA-protected file sharing"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Rachel Drachman",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": "718.407.2411",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David Katz",
+        "title": "Founding Partner",
+        "email": "connect@drachmankatz.com",
+        "phone": "718.407.2411",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Neal Shmidman",
+        "title": "COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrea Robalino",
+          "title": "Legal support No-fault department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

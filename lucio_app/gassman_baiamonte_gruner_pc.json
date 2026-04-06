@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Gassman Baiamonte Gruner, P.C.",
+    "website": "https://www.nydivlaw.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Matrimonial Law",
+      "Marital Agreements",
+      "Equitable Distribution",
+      "Child Custody and Support",
+      "Divorce Appeals and Modifications",
+      "Collaborative Law"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Gassman Baiamonte Gruner, P.C., has established itself as Greater New York's premier matrimonial and family law firm and is one of the most respected and sought-after matrimonial law firms serving Long Island's (Nassau County and Suffolk County) and the greater New York Metropolitan area. Our team of experienced and skilled attorneys have devoted themselves exclusively to the highly specialized fields of matrimonial and family law.",
+    "notable_facts": [
+      "Established in 1968",
+      "Focuses exclusively on matrimonial and family law"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Stephen Gassman",
+        "title": "Senior Partner",
+        "email": "sgassman(a)gbbtlaw.com",
+        "phone": "(516) 228-9181",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rosalia Baiamonte",
+          "title": "Partner",
+          "email": "rbaiamonte(a)gbgmatlaw.com",
+          "phone": "(516) 228-9181",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua B. Gruner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dari L. Last",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Byron C. Chou",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Bodner",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adina L. Phillips",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Evleth",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

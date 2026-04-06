@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Pierro, Connor & Strauss, LLC",
+    "website": "https://www.pierrolaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Estate Planning",
+      "Elder Law",
+      "Trust and Estate Administration",
+      "Medicaid Planning",
+      "Business Planning",
+      "Tax Planning",
+      "Estate Litigation",
+      "Special Needs Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pierro, Connor & Strauss, LLC offers individualized Estate Planning, Trust and Estate Administration and Litigation, and Elder Law services to private clients, their families and family owned businesses. The firm's mission is to empower clients to achieve their goals, protect their families and navigate through complex problems encountered by each generation.",
+    "notable_facts": [
+      "Serving clients across New York State with flagship locations in Manhattan and the Capital Region.",
+      "The firm has been in service for over 40 years.",
+      "The firm was founded in February 1999 by Louis W. Pierro."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Aaron E. Connor",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.pierrolaw.com/attorneys/aaron-connor/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Louis W. Pierro",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Frank E. Hemming III",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter J. Strauss",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.pierrolaw.com/attorneys/peter-j-strauss/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

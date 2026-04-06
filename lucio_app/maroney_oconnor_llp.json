@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Maroney O'Connor LLP",
+    "website": "http://www.maroneyoconnorllp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Civil Defense",
+      "Insurance Defense",
+      "Construction Site Accidents",
+      "Product Liability",
+      "Premises Liability",
+      "Professional Liability",
+      "Transportation Incidents",
+      "Third Party Grave Injury Cases"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Maroney O\u2019Connor LLP is a New York civil defense law firm committed to providing client service with an emphasis on practical and cost-effective legal services. The firm focuses its practice on providing quality legal services to insurance companies, municipalities and self-insured corporations.",
+    "notable_facts": [
+      "Represents clients throughout New York State.",
+      "Serves clients nationwide as national coordinating counsel.",
+      "Formed in August 2005.",
+      "Has served as U.S. and North America Coordinating Defense Counsel for product claims"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas J. Maroney",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew O'Connor",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Demetrios Stratis",
+          "title": "Law Clerk",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Darian Bryan",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brandon Santiago",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

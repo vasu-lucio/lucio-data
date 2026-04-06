@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Chaves Perlowitz Luftig LLP",
+    "website": "http://www.cpllawfirm.com",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Estate Planning",
+      "Commercial Lending",
+      "Residential Purchase/Sale"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Chaves Perlowitz Luftig LLP is a law firm specializing in a diverse range of real estate and financial services, offering expert legal guidance in areas such as residential and commercial buying and selling, banking and lending, commercial leasing, and estate planning.",
+    "notable_facts": [
+      "The firm was founded in 1997.",
+      "The firm has offices in Manhattan and Hackensack, NJ.",
+      "The firm utilizes advanced technologies to streamline processes and enhance client communication"
+    ],
+    "technology_signals": [
+      "Apache",
+      "DoubleClick",
+      "DoubleClick Conversion",
+      "Google Dynamic Remarketing",
+      "Google Font API",
+      "Google Tag Manager",
+      "Microsoft Office 365",
+      "Mobile Friendly",
+      "Outlook",
+      "Remote",
+      "TikTok",
+      "WordPress.org",
+      "YouTube",
+      "reCAPTCHA"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Alan J. Perlowitz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/alan-j-perlowitz"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Edward Pierce",
+        "title": "Chief Administrative Officer ( CAO) & Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew Luftig",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

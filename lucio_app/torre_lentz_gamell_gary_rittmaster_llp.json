@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Torre, Lentz, Gamell, Gary & Rittmaster, LLP",
+    "website": "https://www.tlggr.com/",
+    "city": "Jericho",
+    "practice_areas": [
+      "Surety",
+      "Fidelity",
+      "Construction",
+      "Commercial Litigation",
+      "Bankruptcy",
+      "Insurance Coverage",
+      "Contract",
+      "Engineering and Architectural"
+    ],
+    "lawyer_count": null,
+    "firm_description": "TLGGR is a boutique law firm that combines the resources of a large firm with the personal attention of a small firm, specializing in areas such as construction bonds, contract disputes, and suretyship.",
+    "notable_facts": [
+      "Formed in 2001 by former partners of Stockman, Wallach, Lentz and Gamell, LLP and Tunstead, Schechter & Torre.",
+      "Main office is located in Jericho, Long Island, New York, with satellite offices in New York City and Princeton, New Jersey."
+    ],
+    "technology_signals": [
+      "Maintains a state-of-the-art in-house computerized litigation support system and staff for handling complex, document-intensive cases."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven H. Rittmaster",
+          "title": "Partner",
+          "email": "srittmaster@tlggr.com",
+          "phone": "516-240-8900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin M. Gary",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Wager",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

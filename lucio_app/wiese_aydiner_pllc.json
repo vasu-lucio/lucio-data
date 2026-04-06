@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Wiese & Aydiner, PLLC",
+    "website": "https://walawny.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Personal Injury",
+      "Attorney Discipline & Ethics",
+      "Appeals",
+      "Medical Malpractice",
+      "Workers' Compensation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wiese & Aydiner, PLLC, serves accident victims of New York City and Long Island, with over 40 years of combined experience. They have a proven track record of successful results, with millions recovered for their clients.",
+    "notable_facts": [
+      "Over 40 years of combined experience",
+      "Millions recovered for clients",
+      "Perfect rating of 5.0 on 91 Google reviews"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew Wiese",
+        "title": "Partner",
+        "email": "info@walawny.com",
+        "phone": "(212) 471-5108",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Si Aydiner",
+        "title": "Partner",
+        "email": "info@walawny.com",
+        "phone": "(212) 471-5108",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Renata Vizental",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Christoulakis",
+          "title": "Law Clerk",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

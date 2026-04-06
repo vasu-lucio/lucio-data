@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Zimmet Law Group P.C.",
+    "website": "https://zimmetlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Family Law",
+      "Estate Planning",
+      "Real Estate",
+      "Commercial Litigation",
+      "Business & Corporate Law"
+    ],
+    "lawyer_count": 27,
+    "firm_description": "Zimmet Law Group, P.C. is a general practice law firm in midtown Manhattan committed to achieving excellence in the representation of their clients by providing a spectrum of legal services to both individuals and corporate clients.",
+    "notable_facts": [
+      "Founded in 2013",
+      "Offices in New York and New Jersey, with a presence in the Philippines"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Brian J. Zimmet",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(212) 922-1330",
+        "linkedin_url": "https://www.linkedin.com/company/zimmet-law-group-p.c."
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle Geng",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Venky Anandarangam",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Janet Chen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristin K. Cheney",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

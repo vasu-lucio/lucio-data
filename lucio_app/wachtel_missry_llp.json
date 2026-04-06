@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Wachtel Missry LLP",
+    "website": "https://wmllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Corporate",
+      "Litigation",
+      "Family Law",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Wachtel Missry has provided service to clients in a broad range of practice areas for over 35 years. Their firm\u2019s extensive experience in the fields of Real Estate, Corporate, Litigation, Family Law and Intellectual Property allows them to provide clients with unique and inventive solutions.",
+    "notable_facts": [
+      "The firm has a reputation for excellence and innovation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Morris Missry",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William B. Wachtel",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Allan J. Weiss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eli D. Dweck",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Weintraub",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey T. Strauss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

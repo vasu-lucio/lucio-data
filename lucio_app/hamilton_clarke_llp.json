@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Hamilton Clarke, LLP",
+    "website": "https://www.hamiltonclarkellp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "White Collar Defense",
+      "Investigations",
+      "Civil Rights",
+      "Commercial Litigation",
+      "Employment Discrimination",
+      "Criminal Defense",
+      "Corporate & Transactional"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hamilton Clarke is an elite boutique law firm that represents clients in high-stakes Corporate and Shareholder Activism, Commercial and Civil Litigation, and White Collar and Criminal Defense matters. HC brings sophistication, experience, and relentlessness to each matter.",
+    "notable_facts": [
+      "Clients include Fortune 500 companies, technology companies, startups, leading hedge and private funds, c-suite executives, board of directors and special committees, and high profile celebrities, politicians and professional athletes.",
+      "The firm was founded by attorneys from The Bronx Defenders and The Legal Aid Society of New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Phillip C. Hamilton",
+        "title": "Managing Partner",
+        "email": "Hamilton@HCLLPLaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Lance A. Clarke",
+        "title": "Managing Partner",
+        "email": "Clarke@HCLLPLaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Brooks E. Scott",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bejal Shah",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacey J. Clarke",
+          "title": "Firm Administrator & Executive Director of Community Engagement",
+          "email": "sc@hcllplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

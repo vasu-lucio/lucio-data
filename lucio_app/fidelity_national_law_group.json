@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Fidelity National Law Group",
+    "website": "https://www.fnfgo.com",
+    "city": "Seattle",
+    "practice_areas": [
+      "Litigation",
+      "Commercial Bankruptcy",
+      "Insurance",
+      "Commercial Real Estate",
+      "Contract",
+      "Personal Injury",
+      "Consumer Bankruptcy",
+      "State Appellate Practice",
+      "Car Accident",
+      "Lawsuit & Dispute"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fidelity National Law Group provides legal services in various areas including litigation and commercial real estate. The firm is connected to Fidelity National Financial.",
+    "notable_facts": [
+      "Fidelity National Law Group is associated with Fidelity National Financial (FNF).",
+      "The firm has offices in multiple locations, including Seattle, Washington and Plano, Texas."
+    ],
+    "technology_signals": [
+      "Criteo",
+      "Underscore.js",
+      "OpenX",
+      "WP Rocket",
+      "PWA",
+      "jQuery UI",
+      "WordPress Popular Posts",
+      "jQuery Migrate",
+      "Cloudflare",
+      "Redis",
+      "jQuery",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael L. Gravelle",
+          "title": "Executive Vice President, General Counsel & Corporate Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Trachtenberg",
+          "title": "Vice-President/Senior Trial Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary R. Urquhart",
+          "title": "Executive Vice President, General Counsel, Fidelity National Title Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Monika Vyas Scott",
+          "title": "Vice President - Trial Counsel (fidelity National Law Group)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Butler",
+          "title": "VP - Executive Sales/counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

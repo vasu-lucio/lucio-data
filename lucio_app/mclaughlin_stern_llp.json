@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "McLaughlin & Stern, LLP",
+    "website": "https://mclaughlinstern.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate Law",
+      "Securities",
+      "Mergers and Acquisitions",
+      "Hedge Funds",
+      "Corporate Finance",
+      "Litigation",
+      "Alternative Dispute Resolution",
+      "Employment Law",
+      "Trusts and Estates",
+      "Real Estate",
+      "Intellectual Property",
+      "Bankruptcy and Reorganization",
+      "Tax",
+      "Family and Matrimonial Law",
+      "Health Care Law",
+      "Personal Injury Litigation",
+      "Wrongful Death Litigation",
+      "Art Law",
+      "Environmental Law",
+      "Maritime Law",
+      "International Law",
+      "Class Action",
+      "Fair Labor Standards"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "McLaughlin & Stern, established in 1898, is a full-service law firm dedicated to providing the highest quality legal counsel and representation cost-efficiently. The firm provides a diverse range of sophisticated legal services to businesses and individuals.",
+    "notable_facts": [
+      "Established in 1898",
+      "Has offices in New York, Connecticut, and Florida.",
+      "Provides services in China, India and other emerging markets"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Geoffry R. Handler",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nelson Canter",
+          "title": "Partner - Chair - Insurance Subrogation Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Schuster",
+          "title": "Chairman Of Corporate-securities Department, Chairman Of China Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Barrie",
+          "title": "Partner And Co-chair, Tax Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis Wiley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew E. Tomback",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

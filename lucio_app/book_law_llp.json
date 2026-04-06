@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Book Law LLP",
+    "website": "https://booklawllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Litigation",
+      "Mediation",
+      "Corporate Training",
+      "Internal Corporate Investigations"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Book Law LLP represents the interests of employers by providing employment law services for a wide range of industries. They specialize in litigation, mediation, corporate training, and internal corporate investigations.",
+    "notable_facts": [
+      "Founded in 2023",
+      "Located in New York, NY and Teaneck, NJ",
+      "Represents Employers, Employees and Organizations in all areas of Employment Law"
+    ],
+    "technology_signals": [
+      "lawmatics",
+      "netdocuments",
+      "microsoft",
+      "clio",
+      "microsoft excel",
+      "asana",
+      "quickbooks",
+      "quickbooks online",
+      "microsoft office",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Mordechai \u201cMordy\u201d Book",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chaim Book",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sheryl Galler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca Nathanson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Heighington",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/book-law-llp"
+  },
+  "email": {}
+}

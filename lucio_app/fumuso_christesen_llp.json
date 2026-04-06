@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Fumuso Christesen LLP",
+    "website": "https://www.fumusochristesen.com/",
+    "city": "Hauppauge",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "General Liability Defense",
+      "Appellate Practice",
+      "Professional Licensure and Disciplinary Defense",
+      "Municipal Law",
+      "Real Estate",
+      "Wills and Trusts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fumuso Christesen LLP is recognized in the fields of Medical Malpractice Defense, General Liability Defense, Appellate Practice and Professional Licensure and Disciplinary Defense. The firm offers legal services to insurance companies; hospitals, nursing homes and long-term care facilities; physicians and other healthcare professionals; municipalities; social service agencies; corporations and individual clients.",
+    "notable_facts": [
+      "Selected By New York Magazine As One Of New York\u2019s Top Law Firms",
+      "Recognized by jurists, peers, Bar Associations, medical professionals, medical facilities, and insurance companies",
+      "One of the Most Established and Successful Insurance Defense Law Firms In The New York Metropolitan Area"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alan J. Fumuso",
+          "title": "Founding Partner",
+          "email": "afumuso@110-law.com",
+          "phone": "(631) 232-0200",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Scott G. Christesen",
+          "title": "Partner",
+          "email": "schristesen@110-law.com",
+          "phone": "(631) 232-0200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Bradley Karp",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christian A. Fumuso",
+          "title": "Partner",
+          "email": "cfumuso@110-law.com",
+          "phone": "(631) 232-0200",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

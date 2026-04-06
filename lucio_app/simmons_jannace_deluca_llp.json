@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Simmons Jannace DeLuca, LLP",
+    "website": "https://sjdfirm.com/",
+    "city": "Hauppauge",
+    "practice_areas": [
+      "Litigation",
+      "Corporate and Real Estate",
+      "Labor and Employment",
+      "General Liability Defense",
+      "Commercial Litigation",
+      "Business Counseling",
+      "Banking",
+      "Bankruptcy",
+      "Creditor\u2019s Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Simmons Jannace DeLuca, LLP is a full-service law firm practicing throughout the tri-state area. They focus on resolving conflicts in a cost-efficient and effective way.",
+    "notable_facts": [
+      "The firm has achieved the highest peer review rating by Martindale-Hubbell.",
+      "Clients include numerous large companies, including Target, Costco, NYU Langone, TJX, Kimco, Macerich, Wegmans.",
+      "The firm was founded in 1996."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sal F. DeLuca",
+          "title": "Partner",
+          "email": "sdeluca@sjdfirm.com",
+          "phone": "(631) 873-4888",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

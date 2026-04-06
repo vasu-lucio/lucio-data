@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Counsel Press",
+    "website": "http://counselpress.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate Services",
+      "Litigation Support",
+      "E-Filing",
+      "Service of Process",
+      "Dispute Management",
+      "Legal Research",
+      "Legal Drafting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Counsel Press, established in 1938, is a national provider of appellate services and technology-enabled litigation support, offering expertise in state and federal appellate courts across all 50 states, including the U.S. Supreme Court.",
+    "notable_facts": [
+      "Largest and most experienced appellate services provider in the nation.",
+      "Trusted partner of 100% of the Am Law 100 firms.",
+      "Built on 80 years of Counsel Press legacy.",
+      "Acquired Record Press and Appellate Innovations in August 2025.",
+      "Provides end-to-end litigation support."
+    ],
+    "technology_signals": [
+      "Technology-enabled legal services platform.",
+      "Expert-designed litigation tech using software and AI tools.",
+      "Dispute management platform for case organization and compliance."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Scott Thompson",
+        "title": "Chief Executive Officer & President",
+        "email": null,
+        "phone": "800-4-APPEAL",
+        "linkedin_url": "https://www.linkedin.com/company/counsel-press-llc/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Maria Piperis",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Denes",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Vandegrift",
+          "title": "Chief Sales Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Pompa",
+          "title": "Chief Technology Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

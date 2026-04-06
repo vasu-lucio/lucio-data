@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Haley Weinblatt & Calcagni, LLP",
+    "website": "https://www.hwclaw.com/",
+    "city": "Islandia",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Haley Weinblatt & Calcagni, LLP is a law firm located in Islandia, New York. Their website is currently under construction.",
+    "notable_facts": [
+      "The firm was incorporated on April 11, 1996."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ashley M. Valla",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/ashleyvalla"
+        },
+        {
+          "name": "Anne Weinblatt",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/anne-weinblatt-2b879a17"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

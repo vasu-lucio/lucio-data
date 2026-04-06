@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Bronstein, Gewirtz & Grossman, LLC",
+    "website": "https://bgandg.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Fraud",
+      "Shareholder Derivative Suits",
+      "Class Actions",
+      "Investor Claims",
+      "Securities Litigation",
+      "Consumer Class Actions",
+      "Mass Torts"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Bronstein, Gewirtz & Grossman, LLC represents investors in securities fraud class actions and shareholder derivative suits. The firm has recovered hundreds of millions of dollars for investors nationwide.",
+    "notable_facts": [
+      "Recognized as one of the nation\u2019s leading plaintiff\u2019s law firms by ISS Securities Class Action Services.",
+      "Close to 30 years of experience fighting for investor and consumer rights.",
+      "Represents clients on a fully contingent basis."
+    ],
+    "technology_signals": [
+      "Well-defined tech stack (unspecified)."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peretz Bronstein",
+          "title": "Partner",
+          "email": "[email protected]",
+          "phone": "212-697-6484",
+          "linkedin_url": null
+        },
+        {
+          "name": "Neil D. Grossman",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-697-6484",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathan Miller",
+          "title": "Professional Staff",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yitzchak E. Soloveichik",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-697-6484",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eitan Kimelman",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-697-6484",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

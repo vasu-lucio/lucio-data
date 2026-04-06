@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Virginia & Ambinder, LLP",
+    "website": "https://vandallp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor Law",
+      "Employment Law",
+      "Pension Law",
+      "Employee Benefits"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Virginia & Ambinder, LLP is a law firm committed to representing workers, employees, labor unions, and employee benefits plans. They assist employees who have been victims of unlawful discrimination or harassment in the workplace, or who have been underpaid or mistreated by their employers.",
+    "notable_facts": [
+      "Founded in 1994",
+      "Over 100 years of combined experience among attorneys",
+      "Represents clients in New York, New Jersey, and surrounding metropolitan area"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Lloyd R. Ambinder",
+          "title": "Partner",
+          "email": "lambinder@vandallp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles R. Virginia III",
+          "title": "Partner",
+          "email": "cvirginia@vandallp.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Eva Keating",
+        "title": "Director of Operations",
+        "email": "ekeating@vandallp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jina Park",
+          "title": "Office Manager",
+          "email": "jpark@vandallp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alanna Sakovits",
+          "title": "Partner",
+          "email": "asakovits@vandallp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adrianna Grancio",
+          "title": "Partner",
+          "email": "agrancio@vandallp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "LaDonna Lusher",
+          "title": "Partner",
+          "email": "llusher@vandallp.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

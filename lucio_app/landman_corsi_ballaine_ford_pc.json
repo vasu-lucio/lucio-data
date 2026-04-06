@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Landman Corsi Ballaine & Ford P.C.",
+    "website": "https://lcbf.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Litigation",
+      "Appellate Advocacy",
+      "Bankruptcy",
+      "Civil Rights, Municipal and Constitutional Law",
+      "Commercial and Business Litigation",
+      "Construction Litigation and Counseling",
+      "Employment Litigation and Counseling",
+      "General Litigation",
+      "Insurance and Reinsurance Litigation and Counseling",
+      "Mass Tort Litigation",
+      "Products Liability Litigation",
+      "Professional Liability Litigation",
+      "Rail, Bus & Other Transportation Litigation",
+      "Toxic Tort Litigation",
+      "Trial Advocacy"
+    ],
+    "lawyer_count": 77,
+    "firm_description": "Landman Corsi Ballaine & Ford P.C. is a civil litigation firm, serving clients throughout the country from offices in New York, New Jersey, Pennsylvania and Delaware. They strive to achieve for their clients the best and most cost-efficient resolution of their legal disputes and, where possible, to avoid legal claims in the first place.",
+    "notable_facts": [
+      "The firm was founded in 1995.",
+      "The firm has offices in New York, New Jersey, Pennsylvania, and Delaware.",
+      "The firm's annual revenue is $5.9 million."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John A. Bonventre",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Amanda Celentano",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tina Bhatt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald E. Joseph",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent Mehnert",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Kornblau",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

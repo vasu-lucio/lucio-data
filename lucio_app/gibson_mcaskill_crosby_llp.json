@@ -1,0 +1,121 @@
+{
+  "firm_data": {
+    "firm_name": "Gibson McAskill & Crosby LLP",
+    "website": "https://gmclaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Personal Injury"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "Gibson McAskill & Crosby LLP has one office in the U.S. and is headquartered in Buffalo, New York. With 24 lawyers, Gibson McAskill & Crosby LLP lawyers practice in areas including corporate, litigation and personal injury.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian P. Crosby",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "(716) 314-6335",
+          "linkedin_url": null
+        },
+        {
+          "name": "R. Donald Finn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen M. Sweet",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "C. Christopher Bridge",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Norman B. Viti, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert G. Scumaci",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy J. Graber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sally J. Broad",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa M. Morton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda C. Rossi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

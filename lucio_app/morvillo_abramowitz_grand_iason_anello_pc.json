@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Morvillo Abramowitz Grand Iason & Anello PC",
+    "website": "https://www.maglaw.com",
+    "city": "New York City",
+    "practice_areas": [
+      "White Collar Criminal Defense",
+      "Regulatory Enforcement",
+      "Commercial Disputes",
+      "Securities Litigation"
+    ],
+    "lawyer_count": 49,
+    "firm_description": "Morvillo Abramowitz Grand Iason & Anello PC is a premier litigation boutique based in New York, specializing in white collar defense, regulatory enforcement, business, and securities litigation since 1973. The firm is recognized for its exceptional service and team-oriented approach.",
+    "notable_facts": [
+      "The firm has extensive trial experience.",
+      "Many of its lawyers have prior experience in government service.",
+      "The firm represents both individual and institutional clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Maryana Kodner",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Elkan Abramowitz",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.880.9500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert J. Anello",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.880.9520",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence Iason",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.880.9420",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen Cappelli",
+          "title": "Director, Human Resources",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

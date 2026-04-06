@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Taus, Cebulash and Landau LLP",
+    "website": "https://tcllaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust",
+      "Consumer Protection",
+      "Class Action Litigation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Taus, Cebulash & Landau, LLP is a litigation firm with a focus on complex antitrust and consumer protection class actions. They are dedicated to providing the highest quality legal representation to their clients and class members.",
+    "notable_facts": [
+      "Established in 2009",
+      "The firm has been involved in over a dozen antitrust class actions in which they represent purchasers of pharmaceutical products.",
+      "TCL is co-lead counsel in an antitrust litigation against pharmaceutical manufacturer Pfizer that recently settled."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry S. Taus",
+          "title": "Partner",
+          "email": "btaus@tcllaw.com",
+          "phone": "212.931.0704",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brett Cebulash",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Landau",
+          "title": "Partner",
+          "email": "klandau@tcllaw.com",
+          "phone": "212.931.0704",
+          "linkedin_url": null
+        },
+        {
+          "name": "Archana Tamoshunas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Miles Greaves",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

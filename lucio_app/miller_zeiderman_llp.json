@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "MILLER ZEIDERMAN LLP",
+    "website": "https://mzwnylaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Child Custody",
+      "Support",
+      "Prenuptial and Postnuptial Agreements",
+      "International Child Abduction"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Miller Zeiderman LLP is a New York City and Westchester County family law firm providing personalized representation in divorce, child custody, and other family law matters. They have over 100 years of combined experience practicing family law in New York.",
+    "notable_facts": [
+      "The firm has locations in New York City, White Plains, and Nassau County.",
+      "The firm's attorneys have established relationships with legal professionals in New York City and Westchester County.",
+      "The firm was founded in 2013."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Faith Miller",
+        "title": "Managing Partner",
+        "email": "fgm@mzw-law.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Lisa Zeiderman",
+        "title": "Managing Partner",
+        "email": "lz@mzw-law.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin P. Connolly",
+          "title": "Partner",
+          "email": "kpc@mzw-law.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tiffany E. Gallo",
+          "title": "Partner",
+          "email": "teg@mzw-law.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer M. Jackman",
+          "title": "Partner",
+          "email": "jmj@mzw-law.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley Kersting",
+          "title": "Partner",
+          "email": "ak@mzw-law.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Siobhan T. O\u2019Grady",
+          "title": "Partner",
+          "email": "sto@mzw-law.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emily C. Walsh",
+          "title": "Partner",
+          "email": "ecw@mzw-law.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

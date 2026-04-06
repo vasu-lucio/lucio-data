@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Darger Errante Yavitz & Blau LLP",
+    "website": "http://deybllp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Asbestos Litigation",
+      "General Litigation & Investigations",
+      "Personal Injury",
+      "Product Liability & Toxic Tort",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Darger Errante Yavitz & Blau LLP (DEYB) is a litigation firm that represents clients in complex mass tort claims, product liability cases, and business disputes. The firm is two-thirds women-owned and has received recognition in Forbes Magazine, New York Magazine, and U.S. News & World Report.",
+    "notable_facts": [
+      "Two-thirds women-owned firm",
+      "Named Best Boutique Litigation firm in the USA",
+      "Serves as New York City Defense Liaison Counsel in asbestos litigation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Wilcox Darger",
+          "title": "Partner",
+          "email": "jdarger@deybllp.com",
+          "phone": "212.452.5360",
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Blau",
+          "title": "Partner",
+          "email": "cblau@deybllp.com",
+          "phone": "212.452.5379",
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent A. Errante, Jr.",
+          "title": "Founding Partner Emeritus",
+          "email": "verrante@deybllp.com",
+          "phone": "212.452.5380",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

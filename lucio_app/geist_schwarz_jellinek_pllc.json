@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Geist Schwarz & Jellinek, PLLC",
+    "website": "https://www.gsj-law.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Real Estate",
+      "Corporate",
+      "Trusts & Estates",
+      "Co-op & Condo",
+      "Criminal Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Geist Schwarz & Jellinek, PLLC is a boutique law firm specializing in Real Estate, Corporate, Trusts & Estates, Co-op & Condominium, and Criminal law. We pride ourselves on establishing long-lasting relationships by listening to our clients and meeting their needs.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gerald K. Geist",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew D. Schwarz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Russ F. Jellinek",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Korsinsky & Klein, LLP",
+    "website": "https://kklawfirm.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Estate Planning",
+      "Elder Law",
+      "Real Estate Law"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Korsinsky & Klein, LLP provides legal services in estate planning, elder law, and real estate law to New Yorkers. They have been helping clients for over 20 years.",
+    "notable_facts": [
+      "The firm has an annual revenue of $39.3 million.",
+      "They also provide services in New Jersey and Connecticut"
+    ],
+    "technology_signals": [
+      "QuickBooks",
+      "Well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph Klein",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-257-0199",
+          "linkedin_url": "https://www.linkedin.com/company/korsinsky-klein-llp"
+        },
+        {
+          "name": "Michael Korsinsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Avi Lew",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth J Renov",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Kurz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

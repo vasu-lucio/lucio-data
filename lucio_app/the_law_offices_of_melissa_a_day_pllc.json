@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Offices of Melissa A. Day, PLLC",
+    "website": "https://thelomad.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Appellate Law",
+      "Subrogation",
+      "Personal Injury Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Offices of Melissa A. Day, PLLC is a workers\u2019 compensation defense firm committed to representing organizations with a focus on claim-based partnerships centered around collaboration, communication, and honesty.",
+    "notable_facts": [
+      "The firm was named a finalist for Best Places to Work Buffalo in 2021.",
+      "The firm has been listed as one of the Largest Buffalo Law Firms and Largest Women-Owned Businesses in Buffalo multiple years."
+    ],
+    "technology_signals": [
+      "Early proponents of the board\u2019s exciting new virtual technology."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Melissa A. Day",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/melissa-a-day-58709b17"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James B. Cousins",
+          "title": "Supervising Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian K. Prince",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leonardo Lampret",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vicki L. Buehler",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

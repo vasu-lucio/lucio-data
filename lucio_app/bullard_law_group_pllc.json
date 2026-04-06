@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Bullard Law Group PLLC",
+    "website": "https://bullardlawgroup.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Real Estate",
+      "Corporate Matters",
+      "Financing"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Bullard Law Group PLLC is a New York law firm that provides sophisticated legal representation to clients in real estate transactions, corporate matters, and financing. They represent national brands, regional franchisees, and local businesses.",
+    "notable_facts": [
+      "Founded in 2013",
+      "Represents clients in the Tri-State/Metropolitan area and throughout the United States",
+      "Experienced in residential, retail, restaurant, multi-family buildings, shopping centers, residential, development and owner/user occupied properties"
+    ],
+    "technology_signals": [
+      "Microsoft Word",
+      "Microsoft"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Edward Bullard Jr",
+        "title": "Firm Founder, Senior Partner",
+        "email": "ebullard@bullardpllc.com",
+        "phone": "(516) 368-8830",
+        "linkedin_url": "https://www.linkedin.com/company/bullard-law-group-pllc"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

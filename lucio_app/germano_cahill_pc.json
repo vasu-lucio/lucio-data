@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Germano & Cahill, P.C.",
+    "website": "https://www.germanocahill.com/",
+    "city": "Holbrook",
+    "practice_areas": [
+      "Appeal",
+      "Business and Corporate",
+      "Contract",
+      "Employment",
+      "Environmental",
+      "Government",
+      "Litigation",
+      "Mediation and Arbitration",
+      "Personal Injury",
+      "Real Estate"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Germano & Cahill, P.C. is a Holbrook Law Firm.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "G. William Germano",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Cahill",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meghan Healy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Doris B. Bilotti",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marie E. Knapp",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,126 @@
+{
+  "firm_data": {
+    "firm_name": "Cole, Sorrentino, Hurley, Hewner & Gambino, P.C.",
+    "website": "https://www.colesorrentino.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Real Estate",
+      "Divorce Law",
+      "Child Custody",
+      "Child Support",
+      "Family Law",
+      "Business Law",
+      "Civil Litigation",
+      "IRS and Tax Issues",
+      "Personal Injury",
+      "Wills, Trusts, & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The experienced, full-service law firm of Cole, Sorrentino, Hurley, Hewner & Gambino, P.C., was founded over 45 years ago upon the principle that a lawyer\u2019s primary function is to protect the client\u2019s rights\u00a0and resolve legal problems in the most efficient manner possible. We\u2019re proud to\u00a0assist clients throughout Western New York, with offices in Buffalo, Hamburg, Cheektowaga, Niagara Falls, and Batavia.",
+    "notable_facts": [
+      "Founded over 45 years ago",
+      "Offices in Buffalo, Hamburg, Cheektowaga, Niagara Falls, and Batavia",
+      "Offers free initial consultation in personal injury matters"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas F. Hewner",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard H. Cole",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Donna L. Haslinger",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vivian P. Roche\u2019",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keith R. Rosso",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tasha D. Frazie",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Teresa M. Cappiello",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tyler I. Wood",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc A. Cang\u00e9",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

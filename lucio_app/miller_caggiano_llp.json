@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Miller & Caggiano, LLP",
+    "website": "https://millercaggiano.com/",
+    "city": "Bohemia",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Social Security Disability",
+      "Retirement System",
+      "Negligence",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Miller & Caggiano, LLP is a law firm dedicated to assisting injured and disabled workers with the legal process associated with disability claims. They advocate for clients dealing with insurance companies and appearing before various boards and administrations.",
+    "notable_facts": [
+      "The firm was created out of a deep-rooted desire to assist injured and disabled workers.",
+      "Partners had vast experience with organized labor before embarking on their legal careers.",
+      "The firm represents workers from all walks of life, unionized or not."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Todd Miller",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory Caggiano",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "David Longo",
+        "title": "Chief Executive Officer & Chief People Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle Ocasio",
+          "title": "Controller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

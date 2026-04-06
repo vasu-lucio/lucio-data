@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Robbins Geller Rudman & Dowd LLP",
+    "website": "https://rgrdlaw.com/",
+    "city": "San Diego",
+    "practice_areas": [
+      "Securities Fraud",
+      "Antitrust",
+      "Breach of Fiduciary Duty",
+      "Consumer Fraud",
+      "Privacy Cases",
+      "Complex Litigation",
+      "Corporate Mergers and Acquisitions",
+      "Shareholder Derivative",
+      "Whistleblower",
+      "Insurance Class Actions"
+    ],
+    "lawyer_count": 200,
+    "firm_description": "Robbins Geller Rudman & Dowd LLP is a leading complex class action firm representing plaintiffs in securities fraud, antitrust, breach of fiduciary duty, consumer fraud, and privacy cases. The Firm's attorneys have obtained many of the largest securities, antitrust, consumer, and privacy class action recoveries in history.",
+    "notable_facts": [
+      "Ranked #1 on the 2022 ISS Securities Class Action Services Top 50 Report for recovering over $1.75 billion for investors in 2022.",
+      "Obtained the largest securities class action recovery ever \u2013 $7.2 billion \u2013 in In re Enron Corp. Sec. Litig.",
+      "With 200 lawyers in 10 offices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Chad Johnson",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Darren J. Robbins",
+          "title": "Partner",
+          "email": null,
+          "phone": "619-231-1058",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul J. Geller",
+          "title": "Founding Partner",
+          "email": "PGeller@rgrdlaw.com",
+          "phone": "561-750-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel H. Rudman",
+          "title": "Founding Partner",
+          "email": "SRudman@rgrdlaw.com",
+          "phone": "631-367-7100",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mathew Andrews",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

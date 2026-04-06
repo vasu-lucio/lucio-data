@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Horn Wright, LLP",
+    "website": "http://www.hornwright.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Civil Rights",
+      "Police Brutality",
+      "Commercial Litigation",
+      "Sexual Abuse",
+      "Business Transactions",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Horn Wright, LLP, is a law firm with resources found only in large law firms and a proprietary structure. They assist clients with various legal problems, including personal injury, civil rights, and commercial litigation.",
+    "notable_facts": [
+      "Named Best Law Firm in Long Island for 2025",
+      "Has multiple offices throughout New York, New Jersey, New Hampshire, Maine, and Vermont"
+    ],
+    "technology_signals": [
+      "Google Ads",
+      "Facebook Pixel",
+      "Simpli.fi",
+      "Google Tag Manager"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles H. Horn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ron F. Wright",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin S. Stamper",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pablo A. Fernandez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rich Pawelczyk",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

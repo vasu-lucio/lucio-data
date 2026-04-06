@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "Osler, Hoskin & Harcourt LLP",
+    "website": "https://www.osler.com/en/",
+    "city": "Toronto",
+    "practice_areas": [
+      "Business Law"
+    ],
+    "lawyer_count": 500,
+    "firm_description": "Osler is a leading business law firm practicing internationally from offices across Canada and New York. The firm is recognized for providing business-critical advice and counsel in key industry sectors, and in transactions and litigation for some of the world\u2019s largest enterprises.",
+    "notable_facts": [
+      "Osler was founded in 1862.",
+      "The firm has offices in Toronto, Calgary, Montr\u00e9al, Ottawa, Vancouver and New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Douglas Bryce",
+        "title": "National Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/douglas-bryce-54445826/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Osler published an article on 'how Canada should approach AI regulation' [osler.com](https://www.osler.com/en/)."
+      },
+      "additional_contacts": [
+        {
+          "name": "George Antonopoulos",
+          "title": "Partner",
+          "email": null,
+          "phone": "416-362-2111",
+          "linkedin_url": "https://www.linkedin.com/in/george-antonopoulos-72b6711a/"
+        },
+        {
+          "name": "Mauryah Mclaughlin",
+          "title": "Partner",
+          "email": null,
+          "phone": "416-362-2111",
+          "linkedin_url": "https://www.linkedin.com/in/mauryah-mclaughlin-b9405a1a/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

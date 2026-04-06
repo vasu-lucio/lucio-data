@@ -1,0 +1,116 @@
+{
+  "firm_data": {
+    "firm_name": "Lachtman Cohen & Belowich LLP",
+    "website": "https://lcb-law.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Business Transactions",
+      "Real Estate Transactions",
+      "Complex Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lachtman Cohen & Belowich LLP is a New York and Connecticut law firm that represents a diverse clientele of corporations, sophisticated entrepreneurs, and individuals in business and real estate transactions and complex civil litigation. We are a firm of seasoned practitioners that have the credentials, experience, and legal and business acumen to offer our clients top quality legal services as well as the resources, staffing and personal attention to meet their needs.",
+    "notable_facts": [
+      "Founded in 2024"
+    ],
+    "technology_signals": [
+      "juris",
+      "onedrive",
+      "sharefile",
+      "microsoft 365",
+      "adobe",
+      "microsoft"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Dayna Cohen",
+        "title": "Office Manager & Mediation Coordinator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian S. Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian T. Belowich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David R. Lachtman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory A. Blue",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary J. Gorham",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James K. Landau",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hon. Joan B. Lefkowitz (Ret.)",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephan A. Rapaglia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

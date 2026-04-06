@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "O'Connor, Karlitz & McLaughlin, PLLC.",
+    "website": "https://www.okmlegal.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Criminal Defense",
+      "Injury",
+      "Insurance Coverage",
+      "Product Liability/Toxic Torts",
+      "Trucking Litigation",
+      "Vertical Transportation Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "O\u2019Connor, Karlitz & McLaughlin, PLLC. is a boutique law firm comprised of experienced trial attorneys and seasoned counselors who strive to build long-term relationships with their clients. They handle both defense and plaintiff matters.",
+    "notable_facts": [
+      "The firm is known in Westchester County as a leading Criminal Defense Firm.",
+      "They are one of the leading Personal Injury Law Firms, handling both defense and plaintiff matters in NY State.",
+      "Large corporations employ them as their defense attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas O. O\u2019Connor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joanna I. Karlitz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen P. McLaughlin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stefanie A. Bashar",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katie Farley",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

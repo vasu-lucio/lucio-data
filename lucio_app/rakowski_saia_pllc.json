@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Rakowski & Saia, PLLC",
+    "website": "https://rakowski-saia.com/",
+    "city": "Cheektowaga",
+    "practice_areas": [
+      "Real Estate Law",
+      "Wills",
+      "Trusts",
+      "Estates",
+      "Estate Planning",
+      "Elder Law",
+      "Medicaid Planning",
+      "Small Business Formation",
+      "Commercial Loans"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rakowski & Saia, PLLC is a general practice law firm concentrating in Real Estate Law, Wills, Trusts, Estates, Estate Planning, Elder Law and Medicaid Planning, and Small Business Formation. They strive to provide clients with the highest possible level of service at reasonable rates.",
+    "notable_facts": [
+      "Most new clients come via referrals from other satisfied clients.",
+      "The firm has a loyal and dedicated staff, with some having been with the firm for a combined total of over 45 years.",
+      "Ranked as a Tier 2 firm in Buffalo for Real Estate Law by Best Law Firms in 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael S. Rakowski",
+          "title": "Attorney",
+          "email": null,
+          "phone": "716-799-8686",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nancy W. Saia",
+          "title": "Of Counsel",
+          "email": "info@rakowskisaia.com",
+          "phone": "716-799-8686",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley L. Swan",
+          "title": "Esq.",
+          "email": null,
+          "phone": "716-799-8686",
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura L. Jabrucki",
+          "title": "Attorney",
+          "email": null,
+          "phone": "716-799-8686",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tracy L. Heims",
+          "title": "Attorney",
+          "email": null,
+          "phone": "716-799-8686",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kaitlin G. Jacobbi",
+          "title": "Attorney",
+          "email": null,
+          "phone": "716-799-8686",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen F. Lipsitz",
+          "title": "Attorney",
+          "email": null,
+          "phone": "716-799-8686",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

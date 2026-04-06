@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Knobbe Martens",
+    "website": "https://knobbe.com/",
+    "city": "Irvine",
+    "practice_areas": [
+      "Intellectual Property",
+      "Technology Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Knobbe Martens is a national intellectual property and technology law firm. They counsel clients around the globe in the complete spectrum of industries, technologies and practice areas.",
+    "notable_facts": [
+      "Founded in 1962",
+      "One of the largest IP-focused law firms in the U.S.",
+      "Has nearly 300 professionals across 7 offices"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Inzer Ni",
+          "title": "IP Litigation Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Barnes",
+          "title": "Partner",
+          "email": "brian.barnes@knobbe.com",
+          "phone": "949-760-0404",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ben Shiroma",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Makoto Tsunozaki",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adeel Akhtar",
+          "title": "Partner",
+          "email": "adeel.akhtar@knobbe.com",
+          "phone": "415-954-4114",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

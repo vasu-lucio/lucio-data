@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "McElroy, Deutsch, Mulvaney & Carpenter, LLP",
+    "website": "http://www.mdmlaw.com/",
+    "city": "Morristown",
+    "practice_areas": [
+      "Litigation",
+      "Labor & Employment",
+      "Bankruptcy/Restructuring",
+      "Real Estate",
+      "Insurance",
+      "Environmental",
+      "Construction",
+      "Corporate Transactions",
+      "White Collar Crime",
+      "Corporate Compliance"
+    ],
+    "lawyer_count": 175,
+    "firm_description": "McElroy, Deutsch, Mulvaney & Carpenter, LLP is a diverse practice with lawyers who place the client first, offering a full range of legal services.",
+    "notable_facts": [
+      "Established in 1983",
+      "Has approximately 175 lawyers in thirteen offices in nine states",
+      "Recognized by Chambers USA in Bankruptcy/Restructuring, Labor & Employment, and Litigation: General Commercial"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Edward B. Deutsch",
+        "title": "Managing Partner and Member of the Executive Committee",
+        "email": null,
+        "phone": "973-425-8710",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Michael J. Marone",
+        "title": "Managing Partner-Elect and Member of the Executive Committee",
+        "email": null,
+        "phone": "973-425-8722",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Joseph Barretti",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": "973-348-5378",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph P. LaSala",
+          "title": "Partner and Member of the Executive Committee",
+          "email": null,
+          "phone": "973-425-8749",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lucille J. Karp",
+          "title": "General Counsel",
+          "email": null,
+          "phone": "973-425-8727",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

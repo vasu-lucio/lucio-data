@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Rimon P.C.",
+    "website": "https://rimonlaw.com/",
+    "city": null,
+    "practice_areas": [
+      "Arbitration and Mediation",
+      "Artificial Intelligence",
+      "Bankruptcy, Creditors\u2019 Rights and Restructuring",
+      "Cannabis Law",
+      "CFIUS and National Security",
+      "Competition, Antitrust and Consumer Law",
+      "Construction",
+      "Corporate and Business Transactions",
+      "Data Privacy and Cybersecurity",
+      "Education, Universities and Endowments",
+      "Emerging Companies and Venture Capital",
+      "Employment Law",
+      "Energy Transactions",
+      "Entertainment, Sports and Media",
+      "Environmental, Social and Governance",
+      "Fine Art and Cultural Property",
+      "Fintech, Cryptocurrencies and Blockchain",
+      "Financial Services",
+      "Financing",
+      "Global Fraud, Investigations and Asset Recovery",
+      "Global Private Credit",
+      "Government and Government Contracts",
+      "Immigration Law",
+      "Intellectual Property",
+      "International Trade and Custom Laws",
+      "Investment Management",
+      "Life Sciences",
+      "Litigation",
+      "Major Projects",
+      "Mergers and Acquisitions",
+      "Non-Profit Organisations",
+      "Private Equity",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rimon is a full service elite law firm with over 200 attorneys in 50 offices globally \u2013 spanning five continents and 11 countries. The firm represents over 6,000 sophisticated clients, including companies, investors, family offices, high-net-worth individuals, government agencies and non-profit organisations in relation to their complex transactions and disputes.",
+    "notable_facts": [
+      "Recognized as International Corporate Law Firm of the Year by Global Business Insight (2021).",
+      "Has 37 offices across five continents.",
+      "Recognized by the Financial Times as one of North America\u2019s most innovative law firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Juan Z\u00fa\u00f1iga",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Rimon Managing Partner Juan Zuniga Featured in Law.com on AI and the Billable Hour."
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Moradzadeh",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

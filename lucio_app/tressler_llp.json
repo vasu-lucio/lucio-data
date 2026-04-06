@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Tressler LLP",
+    "website": "https://www.tresslerllp.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Insurance Law",
+      "Litigation",
+      "Appellate",
+      "Transportation & Aviation Law",
+      "Government Law",
+      "Labor & Employment Law",
+      "HOA & Condo Law",
+      "Commercial Litigation",
+      "Corporate Transactions",
+      "Intellectual Property Law",
+      "Defense Litigation",
+      "Condominium and Common Interest Community Association Law"
+    ],
+    "lawyer_count": 138,
+    "firm_description": "Tressler LLP is an award-winning law firm with ten offices across six states, offering creative and cost-effective legal solutions. The firm has litigated cases in all 50 states and maintains a strong commitment to client service.",
+    "notable_facts": [
+      "Tressler LLP has ten offices located in six states \u2013 California, Illinois, Missouri, New Jersey, New York, and Pennsylvania.",
+      "Tressler is a Certified Great Place to Work\u00a9 in the U.S.A."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark Banovetz",
+        "title": "Partner and Member of Tressler\u2019s Executive Committee",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jill L. Jennings",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anna Hanson",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Keuker",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine Wilson",
+          "title": "Director of Human Resources",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

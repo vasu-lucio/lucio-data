@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Open Society Foundations",
+    "website": "https://opensocietyfoundations.org/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The Open Society Foundations work to build vibrant and inclusive democracies whose governments are accountable to their people. They give thousands of grants every year to groups and individuals in over 120 countries that work on the issues we focus on\u2014promoting tolerance, transparency, and open debate.",
+    "notable_facts": [
+      "Founded by George Soros in 1979.",
+      "One of the largest philanthropic organizations in the world.",
+      "Annual revenue of $2.1B.",
+      "Operates in 41 countries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "George Soros",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Leela Ramdhani",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Binaifer Nowrojee",
+          "title": "President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura Silber",
+          "title": "VP, Advocacy and Communications",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leonard Benardo",
+          "title": "EVP, Programs",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samantha Stokes-Baydur",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

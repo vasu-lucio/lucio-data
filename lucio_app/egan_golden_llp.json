@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Egan & Golden, LLP",
+    "website": "https://egangolden.com/",
+    "city": "Undetermined",
+    "practice_areas": [
+      "Matrimonial & Family Law",
+      "Municipal Law",
+      "Banks & Lenders",
+      "Business & Corporate",
+      "Criminal Defense",
+      "Plaintiff's Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Egan & Golden, LLP understands clients\u2019 issues and crafts thoughtful and successful resolutions. The firm maintains a strong commitment to the communities in which they serve.",
+    "notable_facts": [
+      "The firm was founded on experience, efficiency, innovation, and loyalty."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian T. Egan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Garabedian",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harvey B. Besunder",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael DiLeo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Golden",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

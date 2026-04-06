@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Bortstein Legal Group",
+    "website": "https://www.blegalgroup.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Technology",
+      "Market Data",
+      "Digital Content",
+      "Privacy",
+      "Cyber-security",
+      "Outsourcing",
+      "Vendor Contracts",
+      "Corporate Real Estate"
+    ],
+    "lawyer_count": 38,
+    "firm_description": "Bortstein Legal Group is a leader in the areas of technology, market data, digital content, privacy, cyber-security, outsourcing, vendor contracts and corporate real estate. Our global team negotiates thousands of customer-side IT, cloud, IP licensing, market data, digital content, artificial intelligence/machine learning and outsourcing transactions each year.",
+    "notable_facts": [
+      "Founded in 2008",
+      "Offices in New York, London and Toronto",
+      "Extensive knowledge of global laws and regulations"
+    ],
+    "technology_signals": [
+      "Technology Law Firm"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Beth Anisman",
+        "title": "Co-Founder and Managing Partner",
+        "email": "banisman@blegalgroup.com",
+        "phone": "(646) 240-4871",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Larry Bortstein",
+          "title": "Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Meredith Clair",
+          "title": "Head of Real Estate Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Brence",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julian Conway",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bortstein-legal-group"
+  },
+  "email": {}
+}

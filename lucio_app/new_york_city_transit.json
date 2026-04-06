@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "New York City Transit Authority",
+    "website": "https://www.mta.info",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The New York City Transit Authority (NYCT) is a public authority that operates public transportation in New York City.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Janno Lieber",
+          "title": "Chair and CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Annicaro",
+          "title": "Senior Vice President, New York City Transit Department of Buses/MTA Bus Company",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Quemuel Arroyo",
+          "title": "Chief Accessibility Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel Cheng",
+          "title": "Attorney",
+          "email": null,
+          "phone": "718-694-4157",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bonnie Harper",
+          "title": "Assistant General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

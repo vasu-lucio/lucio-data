@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Glavin PLLC",
+    "website": "https://glavinpllc.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Complex civil and commercial litigation",
+      "White collar criminal defense",
+      "Government enforcement and regulatory issues",
+      "Internal investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Glavin PLLC is a premier boutique law firm headquartered in New York City. They specialize in complex civil and commercial litigation, white collar criminal defense, government enforcement and regulatory issues and internal investigations.",
+    "notable_facts": [
+      "Founded in 2021",
+      "The team includes three former prosecutors",
+      "The firm is recognized by Chambers USA in Litigation: White-Collar Crime & Government Investigations in New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rita Glavin",
+        "title": "Principal",
+        "email": "Email",
+        "phone": "646.693.5505",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Trystan Phifer O\u2019Leary",
+        "title": "Executive Director",
+        "email": "Email",
+        "phone": "646.693.5505",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lee S. Gayer",
+          "title": "Of Counsel",
+          "email": "Email",
+          "phone": "646.693.5505",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Halpern",
+          "title": "Associate",
+          "email": "Email",
+          "phone": "646.693.5505",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander Holland",
+          "title": "Associate",
+          "email": "Email",
+          "phone": "646.693.5505",
+          "linkedin_url": null
+        },
+        {
+          "name": "Leo Korman",
+          "title": "Associate",
+          "email": "Email",
+          "phone": "646.693.5505",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

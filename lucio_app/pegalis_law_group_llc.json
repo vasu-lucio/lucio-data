@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Pegalis Law Group, LLC",
+    "website": "https://pegalislawgroup.com/",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury",
+      "Birth Injury",
+      "Cerebral Palsy",
+      "Erb's Palsy",
+      "Failure to Diagnose Cancer",
+      "Hospital Liability",
+      "Doctor Negligence",
+      "Women's Health Issues"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Pegalis Law Group, LLC is a New York law firm focusing on individuals seriously injured due to avoidable medical errors, particularly in areas like women's health, birth injuries, and misdiagnosed illnesses. They advocate for patient safety and have secured significant verdicts and settlements in New York.",
+    "notable_facts": [
+      "Founded in 1972",
+      "Named to the 2025 'Best Law Firm' List by Best Lawyers",
+      "Obtained some of the largest verdicts and settlements in NY history for birth trauma, misdiagnosed cancers, and surgical errors"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steven E. Pegalis",
+          "title": "Founder",
+          "email": "spegalis@pegalislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Annamarie Bondi-Stoddard",
+          "title": "Of Counsel",
+          "email": "ABS@pegalislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James B. Baydar",
+          "title": "Partner",
+          "email": "jbaydar@pegalislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert V. Fallarino",
+          "title": "Attorney",
+          "email": "rfallarino@pegalislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Josh H. Kardisch",
+          "title": "Attorney",
+          "email": "jkardisch@pegalislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Isabel C. Mira",
+          "title": "Attorney",
+          "email": "imira@pegalislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary M. Nielsen",
+          "title": "Of Counsel",
+          "email": "gnielsen@pegalislawgroup.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

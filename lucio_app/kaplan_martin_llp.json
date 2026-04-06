@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Kaplan Martin LLP",
+    "website": "https://kaplanmartin.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate litigation",
+      "Civil and commercial litigation",
+      "Corporate boards and governance",
+      "Defamation",
+      "Discrimination and sexual misconduct",
+      "Education, Title VI and Title IX, and sports-related litigation",
+      "Employment",
+      "Intellectual property and trade secret litigation",
+      "Investigations and crisis management",
+      "Securities litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kaplan Martin LLP is a civil and commercial litigation, investigations, and strategic advisory law firm. We combine decades of collective experience and expertise to litigate the most challenging cases for individuals, corporations, and other for-profit and not-for-profit entities on both sides of the \u201cv.\u201d",
+    "notable_facts": [
+      "Our lawyers have an unparalleled track record of successfully litigating some of the most high-profile and consequential issues of the last 30 years, including landmark legislative and Supreme Court victories for marriage equality and many dozens of successful jury trials, arbitrations, and out-of-court settlements for a diverse array of clients.",
+      "Kaplan Martin advises corporate boards, C-Suite executives, and senior leaders in navigating their most sensitive and complicated legal issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Roberta A. Kaplan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy S. Martin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M. Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen V. Holloman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitra Hormozi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

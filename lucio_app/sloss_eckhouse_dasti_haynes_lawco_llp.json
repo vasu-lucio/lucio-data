@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Sloss Eckhouse Dasti Haynes LawCo.",
+    "website": "https://www.slosslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Entertainment Law",
+      "Media Law",
+      "New Media",
+      "Film",
+      "Television"
+    ],
+    "lawyer_count": 23,
+    "firm_description": "A full-service transactional law firm providing counsel to individuals and companies throughout the entertainment and media industries. They represent clients working on both studio and independently financed projects.",
+    "notable_facts": [
+      "Firm was founded in 1993.",
+      "The firm represents writers, directors, actors, producers, musicians, composers and authors, as well as production companies, financiers, music publishing companies, sales agents, and motion picture and television studios."
+    ],
+    "technology_signals": [
+      "AWS",
+      "Webpack",
+      "Google Font API",
+      "Backbone.js",
+      "HSTS"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jacqueline Eckhouse",
+        "title": "Partner",
+        "email": "Email Jacqueline",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John Sloss",
+          "title": "FOUNDER & PARTNER",
+          "email": "Email John",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jerry L. Dasti",
+          "title": "PARTNER",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

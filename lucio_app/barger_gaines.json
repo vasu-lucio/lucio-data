@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Barger & Gaines Education Law Firm",
+    "website": "https://www.bargergaines.com/",
+    "city": "Irvington",
+    "practice_areas": [
+      "Special Education Law",
+      "Anti-Bullying",
+      "Guardianship",
+      "Private Schools",
+      "School Discipline",
+      "Criminal Law",
+      "Employment Discrimination",
+      "Advocacy"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Barger & Gaines Education Law Firm's primary service is to represent children to secure appropriate services. The attorneys at Barger & Gaines have extensive experience in education law and in handling a variety of matters, including special education law, bullying, student discipline, and discrimination.",
+    "notable_facts": [
+      "Represents children to secure appropriate services",
+      "Extensive experience in education law",
+      "Serves clients nationwide"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Paul N. Barger",
+          "title": "Partner",
+          "email": "info@bargergaines.com",
+          "phone": "914-902-5918",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lori Gaines",
+          "title": "Partner",
+          "email": "info@bargergaines.com",
+          "phone": "908-242-3635",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Phyllis Lombardi",
+        "title": "Client Relations & Operations Specialist",
+        "email": "info@bargergaines.com",
+        "phone": "914-902-5918",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Giulia Frasca",
+          "title": "Senior Counsel",
+          "email": "info@bargergaines.com",
+          "phone": "914-902-5918",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Tudisco",
+          "title": "Senior Counsel",
+          "email": "info @bargergaines.com",
+          "phone": "914-902-5918",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Swift",
+          "title": "Counsel & Practice Manager",
+          "email": "info@bargergaines.com",
+          "phone": "914-902-5918",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alyssa Drazin",
+          "title": "Counsel",
+          "email": "info@bargergaines.com",
+          "phone": "908-242-3635",
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca Kirschner",
+          "title": "Counsel",
+          "email": "info@bargergaines.com",
+          "phone": "914-902-5918",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/meritage-group"
+  },
+  "email": {}
+}

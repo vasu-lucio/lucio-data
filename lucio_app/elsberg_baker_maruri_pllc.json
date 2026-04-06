@@ -1,0 +1,116 @@
+{
+  "firm_data": {
+    "firm_name": "Elsberg Baker & Maruri PLLC",
+    "website": "https://elsberglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 33,
+    "firm_description": "Elsberg Baker & Maruri is an elite commercial litigation firm comprised of the country\u2019s leading business trial lawyers. Our attorneys are consistently on the cutting edge of major commercial litigation and have acted as lead trial counsel in some of the most defining and precedent-setting business trials of this century.",
+    "notable_facts": [
+      "Launched in February 2024 with six founding partners.",
+      "Attorneys were previously with Quinn Emanuel and Selendy Gay Elsberg."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Elsberg",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rollo Baker",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Silpa Maruri",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Duke",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vivek Tata",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jared Ruocco",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Colleen O'neill",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexandra Sadinsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Campbell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joanna Desposati",
+          "title": "Legal Recruiting Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Womble Bond Dickinson (US) LLP",
+    "website": "https://womblebonddickinson.com",
+    "city": "Winston-Salem",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 1000,
+    "firm_description": "Womble Bond Dickinson is an international law firm with offices in the US & UK, including London & Silicon Valley, serving clients across every business sector. Our 39 offices on both sides of the Atlantic provide a breadth of legal experience and services to meet our clients\u2019 needs, without losing the intimacy of being deeply connected to our local communities.",
+    "notable_facts": [
+      "The firm has 31 US offices spanning from Boston to Atlanta and Houston to Silicon Valley.",
+      "Womble Bond Dickinson is a member of Lex Mundi.",
+      "The firm was founded in 2017."
+    ],
+    "technology_signals": [
+      "Cloud migration of DMS to iManage Cloud",
+      "Development of Peppermint Technology\u2019s CRM"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Merrick Benn",
+        "title": "Chair and CEO-Elect",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Chad Ergun",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Sam Dixon",
+        "title": "Chief Innovation Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Sam Dixon was involved with the firm\u2019s innovation initiatives for the past decade, including most recently as head of innovation and chair of the UK AI steering group. He also works closely with the firm's IT and risk teams to put in place the frameworks and tools needed to address the opportunities and risks presented by generative AI."
+      },
+      "additional_contacts": [
+        {
+          "name": "Bill Koch",
+          "title": "Chief Knowledge and Innovation Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

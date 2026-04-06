@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "McCalla Raymer Leibert Pierce, LLP",
+    "website": "https://mccalla.com/",
+    "city": "Roswell",
+    "practice_areas": [
+      "Foreclosure",
+      "Bankruptcy",
+      "Eviction",
+      "Litigation",
+      "Commercial Origination",
+      "Workout Transactions",
+      "Title Curative/Litigation",
+      "Closing Services",
+      "REO",
+      "Residential Closings"
+    ],
+    "lawyer_count": null,
+    "firm_description": "McCalla Raymer Leibert Pierce, LLP is a full-service Residential and Commercial Real Estate Legal Services firm representing large to small financial institutions and Investors. They offer services in foreclosure, bankruptcy, litigation, and evictions.",
+    "notable_facts": [
+      "The firm has offices in 16 states across 4 regions.",
+      "The firm was founded in 1975.",
+      "The firm utilizes proprietary tracking and processing technology."
+    ],
+    "technology_signals": [
+      "Proprietary tracking and processing technology"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Marty M. Stone",
+        "title": "Managing Partner and Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Carl McGehee",
+        "title": "President",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Douglas Holloman",
+          "title": "Director of Infrastructure and Engineering, IT",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Denham",
+          "title": "Director of Software Development",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Tith",
+          "title": "Director of IT Innovation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

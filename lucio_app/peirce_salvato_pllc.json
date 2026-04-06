@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Peirce & Salvato PLLC",
+    "website": "https://www.peircesalvato.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "General Liability",
+      "Premises Liability",
+      "Labor Law Liability",
+      "Products Liability",
+      "SIU & Insurance Fraud",
+      "Defamation",
+      "Municipal Defense",
+      "Copyright & Trademark Infringement",
+      "Professional Liability",
+      "Land Use",
+      "Construction Defects",
+      "Coverage Questions & Opinions",
+      "Commercial Litigation",
+      "Motor Vehicle Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Peirce & Salvato PLLC is a law firm specializing in complex insurance defense claims and litigation. Founded in 1990, the predecessor firm, Robert A Peirce & Associates, provided high-quality legal services in all state, federal, and appellate courts throughout New York.",
+    "notable_facts": [
+      "The firm was founded in 1990 as Robert A Peirce & Associates.",
+      "The firm has offices in Westchester, New York; Greenwich, Connecticut; Buffalo, New York; Cleveland, Ohio; and Erie, Pennsylvania."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert A. Peirce",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard A Salvato",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc A. Rousseau",
+          "title": "Attorney",
+          "email": "marc.a.rousseau@peircesalvato.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alessandra L. Cortina",
+          "title": "Attorney",
+          "email": "alessandra.l.cortina@peircesalvato.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel T. Hughes",
+          "title": "Attorney",
+          "email": "daniel.t.hughes@peircesalvato.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

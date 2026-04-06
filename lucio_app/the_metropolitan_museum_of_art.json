@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "The Metropolitan Museum of Art",
+    "website": "https://www.metmuseum.org/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The Metropolitan Museum of Art is the largest art museum in the United States, presenting over 5,000 years of art from around the world. The Museum operates at two sites in New York City: The Met Fifth Avenue and The Met Cloisters.",
+    "notable_facts": [
+      "Max Hollein is the Marina Kellen French Director and Chief Executive Officer.",
+      "Paul Pineau was appointed as General Counsel and Secretary in 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Max Hollein",
+        "title": "Marina Kellen French Director and Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paul Pineau",
+          "title": "General Counsel and Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea Bayer",
+          "title": "Deputy Director for Collections and Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "H. Sujin Kim",
+          "title": "Deputy General Counsel And Assistant Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/the-metropolitan-museum-of-art/org-chart/h-sujin-kim"
+        },
+        {
+          "name": "Rebecca Murray",
+          "title": "Deputy General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/the-metropolitan-museum-of-art/org-chart/rebecca-murray"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

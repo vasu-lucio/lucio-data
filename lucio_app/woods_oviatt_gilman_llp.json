@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Woods Oviatt Gilman LLP",
+    "website": "https://www.woodsoviattgilman.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Business Law",
+      "Estate Planning",
+      "Real Estate",
+      "Litigation",
+      "Labor and Employment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Woods Oviatt Gilman LLP is a full service law firm headquartered in Rochester, NY with offices in Buffalo, NY and Albany, NY. They represent a broad spectrum of clients and are a member of Meritas, a Global Alliance of Business Law Firms.",
+    "notable_facts": [
+      "Founded in 1852",
+      "Offices in Rochester, Buffalo, and Albany, New York",
+      "Member of Meritas, a Global Alliance of Business Law Firms"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "M. B.",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "L. D.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A. B.",
+          "title": "President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A. C.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A. E.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A. E.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

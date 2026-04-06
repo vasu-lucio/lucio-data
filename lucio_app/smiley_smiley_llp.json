@@ -1,0 +1,116 @@
+{
+  "firm_data": {
+    "firm_name": "Smiley & Smiley Law, LLP",
+    "website": "https://www.smileylaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury",
+      "Product Liability",
+      "Medical Malpractice",
+      "Construction Accidents",
+      "Wrongful Death",
+      "Insurance Coverage & Risk Management",
+      "Declaratory Judgment Litigation",
+      "Claims Management and Negotiation",
+      "Insurance Policy Review",
+      "Contract and Lease Review/Drafting",
+      "Risk Assessment and Analysis",
+      "Disclaimer Challenges"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Smiley & Smiley, LLP, has spent over five decades standing by New York families, helping clients recover financial compensation following catastrophic injuries, wrongful deaths, and life-altering accidents. The firm was founded in 1968 by Attorney Guy Smiley.",
+    "notable_facts": [
+      "Firm founded in 1968",
+      "Guy Smiley remains actively involved in representing clients",
+      "Andrew Smiley joined the firm in 1996 and became a partner in 2000",
+      "Rosa Feeney joined as partner in 2023 and chairs the Insurance Coverage and Risk Division",
+      "Jason Friedman has been part of the Smiley family for over 25 years"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Guy I. Smiley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew J. Smiley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason D. Friedman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rosa M. Feeney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael S. Solomon",
+          "title": "Senior Trial Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia E. Doran",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jocelyn M. Seitter",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

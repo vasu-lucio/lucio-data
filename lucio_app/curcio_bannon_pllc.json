@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Curcio & Bannon, PLLC",
+    "website": "https://www.cpcurciolaw.com/",
+    "city": "Middletown",
+    "practice_areas": [
+      "Professional Malpractice",
+      "Products Liability",
+      "Labor Law",
+      "Toxic Torts",
+      "Premises Liability",
+      "General Negligence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Curcio & Bannon, PLLC specializes in the defense of professional malpractice, products liability, Labor Law, and toxic torts as well as premises liability and general negligence actions. The firm was founded with the singular goal in mind of providing its clients and principals with peace of mind in the defense of their personal injury cases.",
+    "notable_facts": [
+      "The firm has over 40 years of experience.",
+      "Curcio & Bannon, PLLC is a member of RIMS (Risk and Insurance Management Society)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Craig P. Curcio",
+        "title": null,
+        "email": "cpc@cpcurciolaw.com",
+        "phone": "(845) 692-7000",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Ryan Bannon",
+        "title": null,
+        "email": "cb@cpcurciolaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert T. Dore",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis K. Szarka",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric M. Valentin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chandel M. Rispin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patryk Zalewski",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas J. Skrobola",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

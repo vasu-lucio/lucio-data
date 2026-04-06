@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Stein Adler Dabah & Zelkowitz LLP",
+    "website": "https://www.steinadlerlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Commercial Litigation",
+      "Real Estate Litigation",
+      "Employment",
+      "Business Counseling & Transactions",
+      "Private Wealth Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Stein Adler Dabah & Zelkowitz LLP is a client-focused and results-oriented law firm. They provide legal counsel in areas such as real estate, commercial litigation, and private wealth services.",
+    "notable_facts": [
+      "Recognized by Chambers USA as a Leading Real Estate Law Firm.",
+      "Offers value-based fee arrangements including blended rates, contingency fees, and success fees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan L. Adler",
+        "title": "Founding Partner & Managing Partner",
+        "email": "jadler@steinadlerlaw.com",
+        "phone": "347.378.1926",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam J. Stein",
+          "title": "Founding Partner",
+          "email": "astein@steinadlerlaw.com",
+          "phone": "347.378.1917",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Dabah",
+          "title": "Founding Partner",
+          "email": "mdabah@steinadlerlaw.com",
+          "phone": "347.378.1831",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office of Michelle Siegel",
+    "website": "https://msiegelaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Special Education Law"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "The Law Office of Michelle Siegel is committed to serving clients with integrity, compassion, and support, assisting families in navigating IEP meetings and securing funding for necessary services. They represent children between the ages of 2 and 21 that reside in New York City.",
+    "notable_facts": [
+      "Assists families with navigating IEP meetings.",
+      "Secures funding for necessary services and specialized programs (tuition).",
+      "Represents children between the ages of 2 and 21 in New York City.",
+      "Provides services to families with a range of financial means and strives to serve as many low income families as possible."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michelle Siegel",
+        "title": null,
+        "email": "michellesiegel@msiegelaw.com",
+        "phone": "(646) 530 \u2013 2130",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jared Stein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

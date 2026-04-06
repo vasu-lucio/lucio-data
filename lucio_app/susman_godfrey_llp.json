@@ -1,0 +1,60 @@
+{
+  "firm_data": {
+    "firm_name": "Susman Godfrey L.L.P.",
+    "website": "https://www.susmangodfrey.com/",
+    "city": "Houston",
+    "practice_areas": [
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Susman Godfrey is a national litigation firm known for handling high-stakes cases. They specialize in trials and represent both plaintiffs and defendants across various industries.",
+    "notable_facts": [
+      "The firm was named the nation\u2019s #1 litigation boutique in Vault Survey in 2014.",
+      "They utilize success-based fee agreements.",
+      "They have a 'one lawyer, one vote' policy."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steve Susman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Schumann Burghart LLP",
+    "website": "https://sbuslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate Law",
+      "Business Transactions",
+      "Litigation",
+      "Employment Law",
+      "Product Liability",
+      "Mergers & Acquisitions",
+      "International Corporate Transactions",
+      "U.S. Export Control and U.S. Sanction Laws",
+      "Mediation, Arbitration and Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schumann Burghart LLP is a corporate law firm specializing in representing German-speaking companies in the US, advising approximately 180 such companies and managing over 150 of their subsidiaries across all 50 US states.",
+    "notable_facts": [
+      "The firm advises German-speaking companies in the US.",
+      "All attorneys are admitted to practice law in both Germany and the US.",
+      "The firm works in close cooperation with the German chambers of commerce and the Austrian International Chamber of Commerce in the US."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Moritz Schumann",
+          "title": "Attorney at law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christian Burghart",
+          "title": "Attorney at law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandra Alvarez",
+          "title": "Attorney at law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Buschmann",
+          "title": "Attorney at law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dr. Annamaria Hachmeister",
+          "title": "Attorney at law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elisabeth M. Kovac",
+          "title": "Attorney at law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Heiko Meyenschein",
+          "title": "Attorney at law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

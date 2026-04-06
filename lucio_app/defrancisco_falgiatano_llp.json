@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "DeFrancisco & Falgiatano Personal Injury Lawyers",
+    "website": "https://defranciscolaw.com/",
+    "city": "East Syracuse",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Car Accidents",
+      "Truck Accidents",
+      "Motorcycle Accidents",
+      "Construction Accidents",
+      "Wrongful Death"
+    ],
+    "lawyer_count": null,
+    "firm_description": "DeFrancisco & Falgiatano Personal Injury Lawyers is a law firm specializing in representing people who are seriously injured, with extensive experience in handling a broad range of personal injury cases throughout upstate New York.",
+    "notable_facts": [
+      "The firm has obtained well over $100 million in personal injury awards.",
+      "Lawyers are members of the Million Dollar and Multi-Million Dollar Advocates Forums.",
+      "The firm has multiple offices conveniently located throughout upstate New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeff D. DeFrancisco",
+          "title": "Partner & Attorney",
+          "email": null,
+          "phone": "833-200-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles L. Falgiatano",
+          "title": "Esq.",
+          "email": null,
+          "phone": "833-200-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa M. Robinson",
+          "title": "Esq.",
+          "email": null,
+          "phone": "833-200-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna S. Badalian",
+          "title": "Esq.",
+          "email": null,
+          "phone": "833-200-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "James L. Donigan",
+          "title": "Esq.",
+          "email": null,
+          "phone": "833-200-2000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

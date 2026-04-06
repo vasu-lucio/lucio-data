@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Advocates LLP",
+    "website": "https://www.advocatesllp.com/",
+    "city": "London, ON",
+    "practice_areas": [
+      "Construction litigation",
+      "Professional negligence litigation",
+      "Corporate, commercial & business litigation",
+      "Mediation & arbitration",
+      "Litigation and dispute resolution"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Advocates LLP is a boutique firm of litigation lawyers chosen for their years of experience and knowledge in their specific areas of practice, restricting its practice to litigation and dispute resolution. They provide effective strategies for the resolution of complex disputes, leveraging integrated computer technology to deliver results quickly and efficiently.",
+    "notable_facts": [
+      "Pioneered the use of integrated computer technology in legal practice",
+      "Offers a focused and cost-effective approach to specific types of complex legal problems",
+      "Acts as mediators and arbitrators to help resolve disputes"
+    ],
+    "technology_signals": [
+      "Integrated computer technology",
+      "Voice recognition software",
+      "Computerized legal research",
+      "Law firm management and accounting software",
+      "Integrated electronic document imaging",
+      "Integrated electronic transcript and document management"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Eric Grigg",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jim LeBer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kyle MacLean",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tyler M\u00e4kinen",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Felicia Lozon",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://in.linkedin.com/company/advocates-llp",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

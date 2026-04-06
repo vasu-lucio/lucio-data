@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Krauss Shaknes Tallentire & Messeri LLP",
+    "website": "https://www.kstmlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Matrimonial and Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "KSTM is dedicated exclusively to the practice of matrimonial and family law. Their attorneys are leaders in their field and have been involved in some of the highest-profile matrimonial law disputes in New York State and Connecticut.",
+    "notable_facts": [
+      "Advises high-net-worth and celebrity clients in sensitive and complex family matters.",
+      "Represents clients in highly contested interstate and international custody disputes, including proceedings under the UCCJEA and The Hague Convention on the Civil Aspects of International Child Abduction.",
+      "Attorneys have achieved landmark victories in federal district and appellate courts, creating significant new law protecting the interests of parents and children suffering from domestic violence."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Caroline Krauss",
+          "title": "Founding Partner",
+          "email": "ckrauss@kstmlaw.com",
+          "phone": "212.228.5552",
+          "linkedin_url": null
+        },
+        {
+          "name": "Heidi Tallentire",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Malissa Osei",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitch Levitin",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sydney Lim",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

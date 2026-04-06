@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "The Cochran Firm",
+    "website": "https://cochranfirm.com/",
+    "city": "Dothan",
+    "practice_areas": [
+      "Personal Injury",
+      "Truck Accidents",
+      "Auto Accidents",
+      "Medical Malpractice",
+      "Civil Rights",
+      "Criminal Defense",
+      "Wrongful Death",
+      "Product Liability",
+      "Drug Liability",
+      "Fraud",
+      "Environmental Pollution",
+      "Complex and Commercial Litigation",
+      "Class Action",
+      "Mass Torts",
+      "Nursing Home Abuse"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Cochran Firm is a national personal injury and criminal defense law firm founded by legendary attorney Johnnie L. Cochran, Jr. With regional offices across the country, the firm has developed a reputation for tireless and effective legal representation.",
+    "notable_facts": [
+      "Founded in 1998",
+      "Has obtained billions of dollars in verdicts, settlements, and judgments",
+      "Won 10 verdicts in excess of $100 million each"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Hezekiah Sistrunk, Jr.",
+        "title": "President & National Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Johnnie L. Cochran, Jr.",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jerome Tew",
+        "title": "Director of Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Channa Lloyd",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": "1-334-793-1555",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tal Braddock",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": "1-334-793-1555",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bryan Pope",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Evans",
+          "title": "Partner and Co-Director National Medical Malpractice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

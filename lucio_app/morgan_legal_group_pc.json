@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Morgan Legal Group P.C.",
+    "website": "https://morganlegalny.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal and business asset protection",
+      "Trust & estate planning",
+      "Wealth preservation",
+      "Elder law",
+      "Retirement planning",
+      "Wills and probate administration",
+      "Commercial litigation",
+      "Consumer and commercial real estate transactions"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Morgan Legal Group P.C. provides legal representation in various areas, including asset protection, trust and estate planning, and commercial litigation. They focus on personalized attention for each client, unlike many large assembly-line law firms.",
+    "notable_facts": [
+      "Founded in 2017",
+      "Has offices in New York, Colombia, and Bangladesh",
+      "Founding member Russel Morgan received Certification in Maritime Law and International Contract Law from Lloyd's of London.",
+      "The firm's revenue range is USD 1,000,000 - USD 5,000,000"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Russel Morgan",
+          "title": "Founding Member",
+          "email": "contact@morganlegalny.com",
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/morgan-legal-group"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Shakib Ahmed",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Guy Chirico",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Gathings",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kay Uswatte",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

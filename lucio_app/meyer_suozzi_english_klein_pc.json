@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Meyer, Suozzi, English & Klein, P.C.",
+    "website": "http://msek.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Business",
+      "Litigation & Dispute Resolution",
+      "Personal"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Meyer, Suozzi, English & Klein, P.C. is a distinguished provider of legal services, with a reputation for integrity, insight and excellent client service. With offices in Garden City, New York City and Washington, D.C., the firm\u2019s attorneys are committed to their clients, community and public affairs.",
+    "notable_facts": [
+      "The firm was founded in 1960 by John F. \u201cJack\u201d English.",
+      "The firm has 18 practice groups."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John F. \u201cJack\u201d English",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard A. Brook",
+          "title": "Shareholder and General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan Marder",
+          "title": "Shareholder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael D. Napolitano",
+          "title": "Shareholder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

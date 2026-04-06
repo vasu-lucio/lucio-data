@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Connors & Ferris, LLP",
+    "website": "https://connorsandferris.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Social Security Disability",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Connors & Ferris, LLP is one of New York's largest law firms focusing its practice exclusively on representing injured workers in workers' compensation and social security disability claims. Connors & Ferris, LLP have offices conveniently located in Buffalo and Rochester, New York.",
+    "notable_facts": [
+      "Founded in 2001",
+      "Offices in Buffalo and Rochester, New York"
+    ],
+    "technology_signals": [
+      "Developed software to catalogue, store, and retrieve claim information efficiently.",
+      "Utilizes E-case paperless system from the New York State Workers\u2019 Comp Board."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gregory Connors",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Ferrazzi Ferris",
+          "title": "Founding Partner",
+          "email": "tom@connorsandferris.com",
+          "phone": "+1 212-624-2667",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher Mesh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander Osborne",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael O\u2019Connor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Doering",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

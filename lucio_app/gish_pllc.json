@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Gish PLLC",
+    "website": "https://www.gishpllc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patents",
+      "Trade Secrets",
+      "Copyrights",
+      "Trademarks",
+      "False Advertising",
+      "Contracts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gish PLLC is an intellectual property law firm specializing in complex cases involving patents, trade secrets, copyrights, trademarks, false advertising, and contracts. They represent startups and multinational corporations, delivering results at a fraction of the cost of Big Law.",
+    "notable_facts": [
+      "Attorneys are former Big Law litigators.",
+      "Almost every member of the team holds a technical degree.",
+      "Offices in New York and San Francisco.",
+      "The firm offers cutting-edge IP litigation and counseling."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew Gish",
+        "title": "Managing Partner",
+        "email": "agish@gishpllc.com",
+        "phone": "212.518.7380",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ray Bilderbeck",
+          "title": "Partner",
+          "email": "rbilderbeck@gishpllc.com",
+          "phone": "212.518.7942",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher DeCoro, Ph.D.",
+          "title": "Partner",
+          "email": "cdecoro@gishpllc.com",
+          "phone": "212.518.2890",
+          "linkedin_url": null
+        },
+        {
+          "name": "Elise Edlin",
+          "title": "Partner",
+          "email": "eedlin@gishpllc.com",
+          "phone": "925.548.9601",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Gerson",
+          "title": "Partner",
+          "email": "cgerson@gishpllc.com",
+          "phone": "212.518.2882",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

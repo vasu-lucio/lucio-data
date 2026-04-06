@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Bailey Duquette P.C.",
+    "website": "https://www.baileyduquette.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate Law",
+      "Litigation",
+      "Antitrust",
+      "Employment",
+      "Executive Compensation",
+      "Investigations and Regulatory Matters",
+      "Intellectual Property",
+      "Real Estate",
+      "Estate Planning",
+      "Taxation",
+      "Privacy"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Bailey Duquette P.C. is a boutique law firm specializing in corporate transactions and complex litigation. The firm provides thorough and reliable legal counsel with the accessibility and partner attention of a smaller firm.",
+    "notable_facts": [
+      "The firm was founded in 2013.",
+      "The firm has a New York sensibility, nationwide reach, and global mindset."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marc B. Duquette",
+        "title": "Managing Attorney",
+        "email": "marc@baileyduquette.com",
+        "phone": "+1 212.658.1946 Ext. 201",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James D. Bailey",
+          "title": "Litigation, Antitrust",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Miles Cowan",
+          "title": "Corporate, M&A, Financing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey S. Geron",
+          "title": "Corporate, M&A, Private Equity, Venture Capital",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bailey-duquette-p-c-"
+  },
+  "email": {}
+}

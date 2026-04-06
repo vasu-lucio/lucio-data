@@ -1,0 +1,123 @@
+{
+  "firm_data": {
+    "firm_name": "Motley Rice LLC",
+    "website": "https://motleyrice.com/",
+    "city": "Mt. Pleasant",
+    "practice_areas": [
+      "Asbestos Exposure",
+      "Catastrophic Injury",
+      "Securities Fraud",
+      "Consumer Fraud",
+      "Environmental Hazards",
+      "Medical Drugs and Device Defects",
+      "Transportation Disasters and Defects"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Motley Rice LLC is one of the nation's largest plaintiffs' litigation firms. Motley Rice attorneys gained recognition for their pioneering work on behalf of asbestos and mesothelioma victims, the historic litigation against the tobacco industry and the representation of the 9/11 families in their groundbreaking lawsuit against terrorist financiers.",
+    "notable_facts": [
+      "Founded in 2003",
+      "Pioneering work on behalf of asbestos and mesothelioma victims",
+      "Represented the 9/11 families in their lawsuit against terrorist financiers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ron Motley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joe Rice",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Janet Niekamp",
+        "title": "Director, Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chip Corts",
+          "title": "Chief Pilot",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jodi Westbrook Flowers",
+          "title": "Equity Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fidelma Fitzpatrick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike Daly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Previn Warren",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harold Gadsden",
+          "title": "Chief Engineer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Linda Singer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

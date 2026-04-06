@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "McMahon, Martine & Gallagher, LLP",
+    "website": "https://mmglawyers.com",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Litigation",
+      "Personal Injury"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "McMahon, Martine & Gallagher, LLP, founded in 1958, is a general litigation firm providing premier legal representation in New York, New Jersey, and Pennsylvania.",
+    "notable_facts": [
+      "Founded in 1958",
+      "Offices in Brooklyn and Trenton"
+    ],
+    "technology_signals": [
+      "ups",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Aoife Reid",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Timothy Gallagher",
+        "title": "Owner, Co-Managing Partner, Trial Lawyer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patrick Brophy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Reiser",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jameson Connor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Martine",
+          "title": "Office managing partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

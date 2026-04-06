@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "RD Management LLC",
+    "website": "https://www.rdmanagement.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Mixed-use",
+      "Retail",
+      "Office",
+      "Residential",
+      "Hospitality",
+      "Self-storage",
+      "Senior/student housing",
+      "Industrial",
+      "Government sectors",
+      "Leasing",
+      "Property Management",
+      "Construction & Development",
+      "Accounting & Financial",
+      "Legal",
+      "IT Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "RD Management is a real estate development and management organization that owns and operates a portfolio of assets throughout the United States and Puerto Rico. They specialize in development, redevelopment, and acquisitions in key markets and maintain in-house expertise.",
+    "notable_facts": [
+      "Consistently ranked among the nation\u2019s largest, privately held real-estate development and management organizations",
+      "Owns and operates a portfolio of 150+ assets",
+      "Has more than 55 years of experience"
+    ],
+    "technology_signals": [
+      "Craft CMS",
+      "Open Graph",
+      "Microsoft 365",
+      "Google Fonts API",
+      "Element UI",
+      "reCAPTCHA"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Robert P. Murray",
+        "title": "Executive Vice President & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Richard J. Birdoff",
+        "title": "Executive Chairman & Co-CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Roger Hirschhorn",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Carroll",
+          "title": "Co-CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Hayes",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Storey Hess",
+          "title": "Vice President of Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brigadier General (Ret.) Alfred T. Rossi",
+          "title": "Senior Vice-President of Development",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

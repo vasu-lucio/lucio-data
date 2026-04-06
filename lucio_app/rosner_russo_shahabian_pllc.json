@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Rosner Russo Shahabian PLLC",
+    "website": "https://rrslaw.com/",
+    "city": "Farmingdale",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rosner Russo Shahabian PLLC is a personal injury law firm in Long Island, New York, dedicated to representing accident victims and their families. They focus on communication and accessibility, providing clients with direct access to their attorneys.",
+    "notable_facts": [
+      "The firm was founded in 2019.",
+      "The firm's attorneys have over fifty years of combined experience.",
+      "They have obtained numerous high six- and seven-figure awards and settlements for clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Allen J. Rosner",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/allen-j-rosner-0b449732"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas Russo",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": "(516) 287-9712",
+          "linkedin_url": null
+        },
+        {
+          "name": "Devon Mintzes",
+          "title": null,
+          "email": null,
+          "phone": "(516) 376-0000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Cole Schotz P.C.",
+    "website": "https://www.coleschotz.com/",
+    "city": "Hackensack, NJ",
+    "practice_areas": [
+      "Real Estate",
+      "Bankruptcy & Corporate Restructuring",
+      "Corporate Transactions",
+      "Litigation"
+    ],
+    "lawyer_count": 220,
+    "firm_description": "Cole Schotz P.C. is a U.S. law firm with offices in New Jersey, New York, Delaware, Maryland, Florida, Texas and the District of Columbia. The firm provides legal services to businesses, large and small, as well as select individuals.",
+    "notable_facts": [
+      "The firm is approaching its 100th anniversary in 2026.",
+      "Cole Schotz has expanded its physical presence with new offices in D.C. and Miami.",
+      "The firm's strategic plan promises to yield positive results and they strengthened their corporate department by adding 10 new attorneys in the past eight months."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Randi W. Kochman",
+        "title": "Co-Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/randi-kochman-503b631b"
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Chief Accounting Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Warren A. Usatine",
+          "title": "Co-Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel Weiner",
+          "title": "Co-Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Glenn R. Kazlow",
+          "title": "General Counsel & Administrative Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles M. Ottenweller",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

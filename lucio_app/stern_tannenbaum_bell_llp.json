@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Stern Tannenbaum & Bell LLP",
+    "website": "https://sterntannenbaum.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Estate Planning",
+      "Administration",
+      "Dispute Resolution"
+    ],
+    "lawyer_count": 1,
+    "firm_description": "STERN TANNENBAUM & BELL LLP was founded in March 2007 with the goal of providing the highest quality legal services in the most efficient and cost-effective way. Our Firm\u2019s smaller, more collegial setting allows us to provide individualized attention to all clients at sensible rates.",
+    "notable_facts": [
+      "The firm is dedicated to pro bono service and civic and community activities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stewart J. Stern",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan R. Bell",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

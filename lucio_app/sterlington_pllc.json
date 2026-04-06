@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Sterlington PLLC",
+    "website": "https://www.sterlingtonlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "M&A",
+      "Private Equity",
+      "Executive Compensation",
+      "Private Wealth",
+      "Litigation",
+      "International",
+      "Corporate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sterlington is a full service law firm that combines legal & commercial excellence with modern ways of practicing. They offer strategic advice and financial modelling, with commercial awareness.",
+    "notable_facts": [
+      "Ranked 3rd US PE M&A for Targets by Mergermarket in FY2025.",
+      "Advised management on Vantage Data Centers\u2019 $9.2b cross-border expansion and equity investment.",
+      "Advised the Aligned Data Centers management team on its $40b sale to a consortium of investors including BlackRock\u2019s Global Infrastructure Partners."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher S. Harrison",
+          "title": "Partner, M&A",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeremy L. Goldstein",
+          "title": "Partner, Executive Compensation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Cooper",
+          "title": "Partner and Head, Private Wealth",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Courtney Rockett",
+          "title": "Partner, Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Sherman",
+          "title": "Partner and Vice Chair, Strategic Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

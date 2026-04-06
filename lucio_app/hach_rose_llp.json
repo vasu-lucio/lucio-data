@@ -1,0 +1,116 @@
+{
+  "firm_data": {
+    "firm_name": "Hach & Rose, LLP",
+    "website": "https://unionlawfirm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hach & Rose, LLP is a New York City-based law firm specializing in personal injury cases, dedicated to protecting the rights of accident victims and securing financial compensation for their losses.",
+    "notable_facts": [
+      "The firm has recovered over one billion dollars for its clients in jury verdicts and settlements.",
+      "Hach & Rose has been featured in New York Law Journal\u2019s Verdicts and Settlements Hall of Fame: Motor Vehicles magazine seven times.",
+      "The firm provides free, nationwide, no-obligation consultations and multilingual services."
+    ],
+    "technology_signals": [
+      "smartadvocate",
+      "microsoft office",
+      "microsoft",
+      "microsoft outlook",
+      "recogniz"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gregory Hach",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Rose",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Lyons",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Blyth",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Ilchert",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Roth",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Cellante",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Corey Morgenstern",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

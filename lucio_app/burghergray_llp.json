@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "BurgherGray LLP",
+    "website": "https://burghergray.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate Transactional",
+      "Business Litigation",
+      "M&A, Divestitures & Joint Ventures",
+      "Capital Markets & Finance",
+      "Investment Management",
+      "Corporate & Commercial Transactions",
+      "Financial Restructuring & Bankruptcy",
+      "Intellectual Property & Technology",
+      "Real Estate & Community Development",
+      "Cybersecurity & Data Privacy",
+      "General Business Litigation",
+      "Appellate Litigation",
+      "Complex Civil Litigation",
+      "Consumer Class Action Litigation",
+      "Consumer Finance Litigation",
+      "Government Investigations & Enforcement"
+    ],
+    "lawyer_count": null,
+    "firm_description": "BurgherGray LLP is a dynamic corporate law firm comprised of highly experienced and diverse attorneys that counsel clients ranging from early-stage companies to Fortune 100 companies on a range of complex business litigation and transactional matters. They deliver BigLaw sophistication with small firm creativity and responsiveness.",
+    "notable_facts": [
+      "Formed in 2006",
+      "Offices in New York and Washington, D.C.",
+      "Attorneys have experience in large corporate law firms and in-house legal departments"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Terry A. Taffe",
+        "title": "Chief Information Officer",
+        "email": "info@burghergray.com",
+        "phone": "646.513.3231",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin Hylton",
+          "title": "Marketing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

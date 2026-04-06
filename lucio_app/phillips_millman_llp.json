@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Phillips & Millman, LLP",
+    "website": "http://www.pmlawny.com/",
+    "city": "Stony Point",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Criminal Law",
+      "Real Estate",
+      "Estate Planning",
+      "Bankruptcy",
+      "Vehicle/Traffic Violations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Phillips & Millman PLLC is the New York metropolitan area's premier law firm, specializing in personal injury, medical malpractice, criminal law, real estate, estate planning, bankruptcy, vehicle/traffic violations, and other legal matters. The law firm is led by Jeffrey T. Millman and Frank J. Phillips, both former assistant district attorneys, and covers cases in the tri-state region with decades of experience.",
+    "notable_facts": [
+      "The firm's attorneys are former assistant district attorneys.",
+      "The firm represents clients in New York, New Jersey, and Connecticut."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey T. Millman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank J. Phillips",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

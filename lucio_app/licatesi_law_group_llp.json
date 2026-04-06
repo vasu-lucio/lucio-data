@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Licatesi Law Group, LLP",
+    "website": "https://www.licatesilaw.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Complex Litigation",
+      "No-fault insurance disputes",
+      "Defective Products Liability",
+      "Slip-and-Falls",
+      "Construction Site Accidents",
+      "Automobile Accidents",
+      "Catastrophic Injury Cases"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Licatesi Law Group, LLP, established in 1981, is a Long Island law firm with offices in Uniondale and Brooklyn, serving clients throughout the five boroughs of New York City, as well as Nassau and Suffolk counties. The firm focuses on personal injury cases, medical malpractice, and no-fault insurance disputes.",
+    "notable_facts": [
+      "Established in 1981",
+      "Recovered over $100 million for clients",
+      "More than 40 years of experience",
+      "Offices in Uniondale and Brooklyn",
+      "AV Preeminent Rating from Martindale-Hubbell"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael A. Licatesi",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "516-227-2662",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony Joseph Licatesi",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": "516-227-2662",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Ortoli Rosenstadt LLP",
+    "website": "https://orllp.legal/",
+    "city": "New York",
+    "practice_areas": [
+      "International Commercial Law",
+      "Capital Markets",
+      "Private Equity",
+      "Cross-Border M&A",
+      "Real Estate",
+      "Licensing",
+      "International Trusts and Estates",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ortoli Rosenstadt LLP was founded in 2006 as a full-service, boutique international law firm. They have a wide range of practice areas and are creative problem-solvers who are keenly focused on their clients and their needs.",
+    "notable_facts": [
+      "The firm was founded in 2006.",
+      "The firm has offices in New York and Singapore.",
+      "Attorneys at the firm speak nine different languages."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard Ortoli",
+          "title": "Co-founder",
+          "email": "ro@orllp.legal",
+          "phone": "+1 212 829-8935",
+          "linkedin_url": "https://www.linkedin.com/in/richard-ortoli-707345145"
+        },
+        {
+          "name": "William Rosenstadt",
+          "title": "Co-founder",
+          "email": "wsr@orllp.legal",
+          "phone": "+1 212 829-8937",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc S. Gottlieb",
+          "title": "Partner",
+          "email": "msg@orllp.legal",
+          "phone": "+1 212-829-8943",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aldo Panunzio",
+          "title": "Partner",
+          "email": "ap@orllp.legal",
+          "phone": "+1 212 829-8956",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul H. Pincus",
+          "title": "Partner",
+          "email": "php@orllp.legal",
+          "phone": "+1 212 829-8931",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Gale Gale & Hunt, LLC",
+    "website": "https://gghlawoffice.com/",
+    "city": "Fayetteville, New York",
+    "practice_areas": [
+      "Litigation",
+      "Appellate",
+      "Malpractice"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Gale Gale & Hunt LLC has one office in the U.S. and is headquartered in Fayetteville, New York. With 12 lawyers, Gale Gale & Hunt LLC lawyers practice in areas including litigation.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Matthew J. VanBeveren",
+        "title": "Managing Partner",
+        "email": "mvanbeveren@gghlawoffice.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jo Ann Stuhler",
+        "title": "Office Manager",
+        "email": "jstuhler@gghlawoffice.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Catherine A. Gale",
+          "title": "Founder, Senior Counsel",
+          "email": "cgale@gghlawoffice.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin T. Hunt",
+          "title": "Partner",
+          "email": "khunt@gghlawoffice.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

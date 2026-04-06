@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Milman Labuda Law Group PLLC",
+    "website": "https://milmanlabudalaw.com/",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Labor Relations & Employment Law",
+      "Real Estate and Corporate Transactions",
+      "Commercial and Business Litigation",
+      "Banking Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Milman Labuda Law Group PLLC is dedicated to providing high-quality legal services to clients in a timely, cost-effective, and personalized manner. They cover labor relations and employment law, real estate and corporate transactions, and commercial and business litigation.",
+    "notable_facts": [
+      "The firm traces its origins back to 1962.",
+      "The firm represents a diverse range of clients throughout the United States."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert Milman",
+        "title": "Founder/ Managing Partner/ Co-Chair of Employment and Labor",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard Milman",
+          "title": "Founder/ Partner/ Co-Chair of Employment and Labor",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Labuda",
+          "title": "Founder/ Partner/ Chair of Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Perry Heidecker",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Mule",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

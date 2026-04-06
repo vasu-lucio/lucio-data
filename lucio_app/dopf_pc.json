@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "DOPF, P.C.",
+    "website": "https://dopfnyc.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Construction Litigation",
+      "Medical Malpractice Litigation",
+      "Medical Device Litigation",
+      "Trucking Litigation",
+      "Nursing Malpractice Litigation",
+      "Insurance Litigation",
+      "Environmental Litigation",
+      "Property Damage Litigation",
+      "Professional Liability Litigation",
+      "Product Liability Litigation",
+      "Hotel / Premises Litigation"
+    ],
+    "lawyer_count": 23,
+    "firm_description": "DOPF, P.C. is a defense litigation firm in New York, handling a wide range of personal injury defense work. They are known for their willingness to bring cases to trial and verdict.",
+    "notable_facts": [
+      "Ranked by U.S. News and World Report as a Tier 1 Medical Malpractice Law Best Law Firm for 2017.",
+      "Partners Glenn Dopf and Joseph Cammarosano have been named to New York Magazine's list of \"Best Lawyers.\""
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Glenn W. Dopf",
+        "title": "Partner",
+        "email": "gwd@dopfnyc.com",
+        "phone": "917-572-3690",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Martin B. Adams",
+          "title": "Partner",
+          "email": "madams@dopfnyc.com",
+          "phone": "212-330-0210",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara K. Curcillo",
+          "title": "Partner",
+          "email": "tcurcillo@dopfnyc.com",
+          "phone": "212-330-0277",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronnie M. Grill",
+          "title": "Partner",
+          "email": "rgrill@dopfnyc.com",
+          "phone": "212-330-0278",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc J. Lust",
+          "title": "Partner",
+          "email": "mlust@dopfnyc.com",
+          "phone": "212-330-0228",
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary J. Lyon",
+          "title": "Partner",
+          "email": "Zlyon@dopfnyc.com",
+          "phone": "212-330-0283",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

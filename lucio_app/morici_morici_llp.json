@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Morici & Morici, LLP",
+    "website": "https://moricilaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law",
+      "Corporate Law",
+      "Litigation",
+      "Estate Planning & Administration"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Morici & Morici, LLP is a mid-sized dynamic firm that focuses on all aspects of real estate, general corporate law, and litigation. They provide full-service legal counsel in an efficient, personalized, and cost-effective manner throughout the new York metropolitan area.",
+    "notable_facts": [
+      "Founded in 1974",
+      "Partners are affiliated with a title company",
+      "Represents wealthiest and most prominent families in New York City"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael D. Morici",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Morici",
+          "title": "Partner, Chair of Litigation Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerard Morici",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kamila Potrapeluk",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Abigail Cotler Esq.",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

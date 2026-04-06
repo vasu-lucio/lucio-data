@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Lehach Filippa, LLP",
+    "website": "https://lehachfilippa.com/",
+    "city": "New York",
+    "practice_areas": [
+      "immigration law",
+      "artist visas",
+      "citizenship",
+      "asylum",
+      "greencards"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lehach Filippa is an immigration law firm for creative professionals, preparing temporary visas and applications for permanent residence. The firm's attorneys are licensed in New York and handle cases before U.S. Immigration Courts and USCIS Offices.",
+    "notable_facts": [
+      "Founded in 2011",
+      "Focuses solely on immigration law for individuals and companies in the creative fields",
+      "Team speaks multiple languages including English, Spanish, Mandarin, Korean and Arabic"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael Lehach",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alejandro Filippa",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Silvia Gacina",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ridmila Sudasinghe",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Xixi Liu",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

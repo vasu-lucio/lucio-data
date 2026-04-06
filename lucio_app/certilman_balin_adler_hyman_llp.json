@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Certilman Balin Adler & Hyman, LLP",
+    "website": "https://certilmanbalin.com/",
+    "city": "East Meadow",
+    "practice_areas": [
+      "Real estate",
+      "Real property tax certiorari and condemnation",
+      "Cooperative and condominium",
+      "Land use",
+      "Environmental law",
+      "Corporate/securities",
+      "Litigation",
+      "Commercial lending",
+      "Labor relations/employment law",
+      "Bankruptcy and debtor/creditor rights",
+      "Nonprofit/tax exempt and religious organizations",
+      "Trusts and estates",
+      "Elder law",
+      "Telecommunications law",
+      "Criminal law"
+    ],
+    "lawyer_count": 116,
+    "firm_description": "Certilman Balin Adler & Hyman, LLP is Long Island\u2019s second largest full-service law firm with offices in Nassau and Suffolk Counties. Its 15 practice areas include real estate law and elder law.",
+    "notable_facts": [
+      "Founded in 1965",
+      "Has offices in Nassau and Suffolk Counties in New York, and a presence in Turkey",
+      "Mojgan Masuomi joined as Chief Marketing Officer in Dec 2025",
+      "Howard M. Stein became Managing Partner in 2023, succeeding Bernard Hyman who served for 34 years"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Howard M. Stein",
+        "title": "Managing Partner And Co-chair Of The Real Estate Group",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Brendan Deriggi",
+        "title": "Co Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bernard Hyman",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mojgan Masuomi",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

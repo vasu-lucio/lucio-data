@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Saul Ewing LLP",
+    "website": "https://www.saul.com",
+    "city": "Philadelphia",
+    "practice_areas": [],
+    "lawyer_count": 425,
+    "firm_description": "Saul Ewing is a full-service, national law firm with more than 400 attorneys and a team of top-notch business professionals, all working together to deliver practical, proactive advice and excellent client service. Our diversity of thought, focus on innovation, cross-serving practices, and culture of coaching create a collegial and supportive environment that inspires us to deliver inspired solutions.",
+    "notable_facts": [
+      "Has 18 offices across the United States.",
+      "In 2023, combined with Freeman Freeman & Smiley."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jason M. St. John",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kelly B. Enache",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alfred W. Coleman",
+          "title": "Transactional Department Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey S. Goodfried",
+          "title": "Litigation Department Vice Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

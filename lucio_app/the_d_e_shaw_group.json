@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "The D. E. Shaw Group",
+    "website": "https://www.shaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Investment Management",
+      "Technology Development",
+      "Computational Finance",
+      "Litigation Investing"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The D. E. Shaw group is a global investment and technology development firm. It was founded in 1988 and has more than 3,000 people around the globe.",
+    "notable_facts": [
+      "The firm was founded in 1988 with $28 million in capital.",
+      "The firm has more than $85 billion in assets under management (as of 2026-03-17)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David E. Shaw",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anne Dinning",
+          "title": "Managing Director and Chair of the Executive Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Max Stone",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eddie Fishman",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexis Halaby",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Johnson",
+          "title": "Litigation Investing Team Lead",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Robert Tsigler, PLLC",
+    "website": "https://www.tsiglerlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Criminal Defense",
+      "Immigration Law",
+      "Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Offices of Robert Tsigler, PLLC is dedicated to protecting the rights of clients in New York. They handle criminal defense, divorce, and immigration cases.",
+    "notable_facts": [
+      "The firm has 3 offices and 35 staff members.",
+      "They utilize a \"10-Attorney Roundtable\" strategy for complex cases."
+    ],
+    "technology_signals": [
+      "Google Call Conversion Tracking",
+      "Cloudflare CDN",
+      "Open Graph",
+      "Google Workspace",
+      "Twemoji",
+      "particles.js",
+      "ZURB Foundation",
+      "WP-PageNavi"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Robert Tsigler",
+        "title": "Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "M. Z.",
+          "title": "Senior Associate Attorney And Director Of Immigration Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

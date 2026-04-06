@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Stockton, Barker & Mead, LLP",
+    "website": "http://www.sbmfirm.com",
+    "city": "Troy",
+    "practice_areas": [
+      "Uninsured Employers",
+      "Estate Planning & Administration",
+      "Workers\u2019 Compensation Defense"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Stockton, Barker & Mead, LLP is a full-service law firm operating in New York that was founded in 1994. The firm's priority is the client.",
+    "notable_facts": [
+      "Founded in 1994",
+      "Handles thousands of cases throughout New York"
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Matthew R. Mead",
+        "title": "Managing Partner",
+        "email": "mmead@sbmfirm.com",
+        "phone": "(518) 435-1919",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert S. Stockton",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(518) 435-1919",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mederic J. Ethier III",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William M. Pausley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John B. Paniccia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

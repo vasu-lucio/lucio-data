@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Watson Farley & Williams",
+    "website": "https://wfw.com/",
+    "city": "London",
+    "practice_areas": [
+      "Energy",
+      "Infrastructure",
+      "Transport",
+      "Capital Markets",
+      "Construction",
+      "Corporate and M&A",
+      "Dispute Resolution",
+      "Public International Law",
+      "Finance",
+      "Real Estate",
+      "Regulatory and Competition"
+    ],
+    "lawyer_count": 650,
+    "firm_description": "Watson Farley & Williams is an international law firm with expertise and industry insight across the energy, infrastructure and transport sectors. They advise on complex, high-value transactions and disputes, combining legal analysis with commercial awareness.",
+    "notable_facts": [
+      "Founded in 1982 as a ship and aviation finance boutique.",
+      "The firm has 19 offices across the globe.",
+      "Committed to sustainability and inclusion."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lindsey Keeble",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "+44 20 7814 8227",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "George Paleokrassas",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": "+30 210 455 7301",
+          "linkedin_url": null
+        },
+        {
+          "name": "Damian Adams MBE",
+          "title": "Partner",
+          "email": null,
+          "phone": "+44 2071 552845",
+          "linkedin_url": null
+        },
+        {
+          "name": "John Ahern",
+          "title": "Partner",
+          "email": null,
+          "phone": "+44 20 3314 6336",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

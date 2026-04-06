@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Gallardo Levin Reiter & Rogers, LLP",
+    "website": "https://glrrlaw.com/",
+    "city": "Jericho",
+    "practice_areas": [
+      "Professional Liability",
+      "Personal Injury",
+      "Employment Discrimination",
+      "Civil Rights Claims",
+      "Medical Malpractice",
+      "Healthcare Litigation"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Gallardo Levin Reiter & Rogers, LLP is a law firm focusing on the defense of professionals, including medical professionals, attorneys, insurance agents/brokers, and officers/directors. They also handle significant personal injury actions, employment discrimination claims, civil rights claims, and medical malpractice and related healthcare litigation.",
+    "notable_facts": [
+      "Rated \u201cPreeminent\u201d (AV) by peers",
+      "Founded in 2004"
+    ],
+    "technology_signals": [
+      "Uses Isotope, HSTS, Animate.css, CodeIgniter, GoDaddy, FitVids.js, Magnific Popup, jQuery.scrollTo"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Domingo R. Gallardo",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-931-1800",
+          "linkedin_url": "https://www.linkedin.com/in/domingo-gallardo-93639018"
+        },
+        {
+          "name": "Michele R. Levin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/michele-levin-87398518"
+        },
+        {
+          "name": "June D. Reiter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher T. Rogers",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Renton D. Persaud",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

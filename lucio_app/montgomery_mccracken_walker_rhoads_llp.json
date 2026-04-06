@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Montgomery McCracken Walker & Rhoads LLP",
+    "website": "https://www.mmwr.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Litigation",
+      "Intellectual Property",
+      "Bankruptcy and Financial Restructuring",
+      "Corporate Transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Montgomery McCracken Walker & Rhoads LLP is a law firm that provides legal services and collaborates with trusted advisors, offering a multidisciplinary approach and insights to their clients. They represent clients in complex litigation, intellectual property, bankruptcy and financial restructuring, and corporate transactions.",
+    "notable_facts": [
+      "Founded in 1912",
+      "The firm employs an agile staffing model.",
+      "Firmly rooted in Pennsylvania, New York, New Jersey, and Delaware, they counsel clients and litigate in courts throughout the United States and abroad.",
+      "Owen J. Roberts, who achieved national prominence as a United States Supreme Court Justice, was one of the founders."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steve Pachman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Owen J. Roberts",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jose Vidal",
+        "title": "COO and CFO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kathryn Agrawal",
+          "title": "Director of Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Henderson",
+          "title": "Director Of Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

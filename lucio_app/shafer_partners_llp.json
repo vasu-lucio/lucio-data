@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Shafer Partners LLP",
+    "website": "https://shaferpartners.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Liability",
+      "Corporate Counsel",
+      "Employment Practices Liability",
+      "Environmental / Toxic Tort",
+      "General Liability",
+      "Insurance Coverage",
+      "Professional Liability",
+      "Security Company Liability",
+      "Transportation Liability",
+      "Alternative Dispute Resolution",
+      "Appellate Practice",
+      "Attorney Malpractice Defense",
+      "Automobile Liability",
+      "Autonomous Vehicles",
+      "Chiropractic Malpractice Defense",
+      "Civil Rights",
+      "Construction Defect",
+      "Cyber Liability and Data Privacy",
+      "Directors & Officers Liability",
+      "Drone Liability",
+      "Labor and Employment Defense",
+      "Municipal Liability",
+      "Nursing Home Defense",
+      "Personal Injury Defense",
+      "Premises Liability",
+      "Products Liability",
+      "Trucking and Commercial Transportation Defense",
+      "Workers\u2019 Compensation Defense"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Shafer Partners LLP is a law firm with an office in New York, NY. They have been representing companies large and small for more than 20 years.",
+    "notable_facts": [
+      "The firm has received Martindale-Hubbell\u2019s\u00ae highest rating of AV\u00ae Peer Review Rated.",
+      "A.M. Best has also placed Shafer Partners in its Directory of Recommended Insurance Attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Howard S. Shafer",
+          "title": "Partner",
+          "email": "HShafer@ShaferPartners.com",
+          "phone": "(646) 435-9438",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Fisher",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

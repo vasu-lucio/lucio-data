@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Barry McTiernan & Moore LLC",
+    "website": "https://www.mctiernanlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "New York State Labor Law Defense",
+      "Asbestos Litigation",
+      "Municipal Liability",
+      "Premises Liability",
+      "Civil Rights",
+      "Construction Litigation",
+      "Automobile Liability",
+      "General Liability Claims",
+      "Sexual Assault and Discrimination",
+      "Employer Liability",
+      "Commercial Transportation",
+      "Subrogation",
+      "Property Damage Matters",
+      "Mass Toxic Tort",
+      "Environmental Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Barry McTiernan & Moore LLC is a full-service defense litigation firm. Since 1930, the firm has represented Fortune 500 companies and their insureds in complex, high-exposure litigation.",
+    "notable_facts": [
+      "Represents Fortune 500 companies and their insureds.",
+      "Firm founded in 1930.",
+      "Handles general liability claims across various practice areas."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alex R. Malino",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Suzanne M. Halbardier",
+        "title": "Executive Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Desmond T. Barry",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roger P. McTiernan, Sr.",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J. Moore",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William D. Joyce, III",
+          "title": "Partner",
+          "email": "WJoyce@bmmfirm.com",
+          "phone": "212-313-3600",
+          "linkedin_url": null
+        },
+        {
+          "name": "William A. Cooney",
+          "title": "Partner",
+          "email": "WCooney@bmmfirm.com",
+          "phone": "212-313-3600",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://in.linkedin.com/company/barry-mctiernan-moore-llc"
+  },
+  "email": {}
+}

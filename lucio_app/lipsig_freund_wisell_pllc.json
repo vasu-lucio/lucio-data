@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Lipsig, Freund & Wisell, PLLC",
+    "website": "https://lipsig.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury Law",
+      "Construction Accidents",
+      "Slip, Trip & Fall Accidents",
+      "Motor Vehicle Accidents",
+      "Wrongful Death",
+      "Premises Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lipsig, Freund & Wisell, PLLC is a New York City personal injury law firm that has been fighting for accident victims for decades. They focus exclusively on personal injury law and have recovered over $1 billion in compensation for injured victims.",
+    "notable_facts": [
+      "Recovered over $1 billion for clients",
+      "Recognized by leading legal publications and news organizations",
+      "Focuses exclusively on personal injury cases"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mr. Freund",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles E. Wisell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

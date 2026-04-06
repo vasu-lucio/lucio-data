@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Barton LLP",
+    "website": "https://www.bartonesq.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Private Client",
+      "International",
+      "Dispute Resolution and Regulatory Enforcement",
+      "Business and Finance",
+      "Artificial Intelligence",
+      "Banking and Finance",
+      "Bankruptcy, Restructuring, and Creditors\u2019 Rights",
+      "Business Transactions",
+      "Capital Markets",
+      "Corporate Formation, Governance, and Compliance",
+      "Cybersecurity, Data Privacy, GDPR Compliance",
+      "Emerging Companies and Venture Capital",
+      "Executive Compensation and Separation",
+      "Financial Services, Investment Funds, and Regulatory Compliance",
+      "Immigration",
+      "Insurance",
+      "Intellectual Property",
+      "Labor & Employment Advice and Counsel",
+      "Real Estate",
+      "Tax Consulting, Structuring, and Controversy: Federal, International, and State & Local",
+      "Arbitration",
+      "Commercial Litigation",
+      "Intellectual Property Litigation",
+      "Internal Investigations",
+      "Labor and Employment Disputes",
+      "Securities Litigation, Regulatory Investigations, and Enforcement",
+      "White Collar Defense",
+      "Matrimonial and Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Barton LLP is a law firm of skilled, practical and business-minded former BigLaw attorneys, who work closely with their clients to achieve results and deliver value. Barton was selected based on an independent and in-depth market.",
+    "notable_facts": [
+      "Barton LLP Nationally Recognized As One Of 10 Firms Giving BigLaw A Run For Its Money",
+      "Barton Earns Chambers USA \u2013 New York Spotlight Guide 2026 Recognition",
+      "Barton Increases National Recognition in 2026 Best Law Firms Rankings",
+      "Barton Celebrates 24 Attorneys Selected to Super Lawyers & Super Lawyers: Rising Stars 2025"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Roger E. Barton",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "James E. Heavey",
+        "title": "Operations Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Our AI practice therefore consists of attorneys from across our Cybersecurity & Data Privacy, Intellectual Property, Labor & Employment, and Business Transactions teams."
+      },
+      "additional_contacts": [
+        {
+          "name": "Ken Rashbaum",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara Aaron-Stelluto",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Symons",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barton-llp"
+  },
+  "email": {}
+}

@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen Tauber Spievack & Wagner PC",
+    "website": "https://www.ctswlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Life Sciences",
+      "Israel",
+      "Intellectual Property",
+      "Individual Client Services",
+      "Immigration",
+      "Financial Restructuring",
+      "Family Offices",
+      "Employment Law",
+      "Corporate & Commercial"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Cohen Tauber Spievack & Wagner PC is a full-service law firm representing primarily business clients in both transactions and litigation. The firm's attorneys came from large firms to work in a collegial office with more personal contact with clients.",
+    "notable_facts": [
+      "Represents clients of all sizes, from emerging businesses to multi-billion-dollar companies",
+      "Attorneys have experience in business, many as in-house counsel",
+      "Offers multidisciplinary insights"
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jay Spievack",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Larry Tauber",
+          "title": "Corporate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Arbov",
+          "title": "Corporate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Russ Wagner",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Vann",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

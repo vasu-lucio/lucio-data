@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Robert K. Young & Associates, P.C.",
+    "website": "https://robertkyounglaw.com/",
+    "city": "Merrick",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accidents",
+      "Premises Liability",
+      "Construction Accidents",
+      "Medical Malpractice",
+      "Nursing Home Abuse",
+      "Workers\u2019 Compensation",
+      "Motorcycle Accidents",
+      "Truck Accidents",
+      "Boating Accidents",
+      "Divorce and Custody",
+      "Landlord/Tenant",
+      "Criminal Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Robert K. Young & Associates, P.C., has been successfully representing personal injury victims. We represent victims involved in car accidents, motor cycle accidents, construction accidents, dog bite accidents and slip and fall accidents.",
+    "notable_facts": [
+      "Robert K. Young founded the firm in 1968.",
+      "Gary J. Young obtained an award of $2,000,000.00 for a victim of a construction accident in June 2022.",
+      "Gary J. Young obtained an award of $850,000.00 for a car accident victim in January 2022.",
+      "Gary J. Young secured $1,350,000.00 for a dog bite victim, which was the highest award in New York for the year ending 2016 for a dog bite victim."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert K. Young",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary J. Young",
+          "title": null,
+          "email": null,
+          "phone": "516-826-8938",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

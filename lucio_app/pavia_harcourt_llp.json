@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Pavia & Harcourt LLP",
+    "website": "https://www.pavialaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Corporate & Commercial",
+      "Fashion & Luxury Goods",
+      "Banking",
+      "Real Estate",
+      "Litigation & Arbitration",
+      "E-commerce",
+      "Matrimonial & Family Law",
+      "Media & Entertainment",
+      "Estate Planning & Administration",
+      "Intellectual Property",
+      "Immigration",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pavia & Harcourt is a business law firm, concentrating in commercial, corporate, banking, media and entertainment, real estate, litigation and arbitration, intellectual property, estate planning and administration, and matrimonial & family law. We represent foreign entities and individuals who do business in the United States as well as American clients who do business in the U.S. and abroad.",
+    "notable_facts": [
+      "Established in 1951",
+      "Attorneys fluent in Italian, French, Spanish, Russian, and Portuguese"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "George M. Pavia",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Phyllis Barr",
+        "title": "Director, Administration",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ivan Serchuk",
+          "title": "Partner, Chairman of Banking Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Firestone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allen Finkelstein",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Chioffi",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

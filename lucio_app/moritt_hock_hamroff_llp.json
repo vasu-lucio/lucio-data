@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Moritt Hock & Hamroff LLP",
+    "website": "https://moritthock.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Bankruptcy",
+      "Corporate and Securities",
+      "Cybersecurity and Technology",
+      "Employment",
+      "Healthcare",
+      "Intellectual Property",
+      "Sports Law",
+      "Litigation",
+      "Not-For-Profit",
+      "Real Estate",
+      "Tax",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": 90,
+    "firm_description": "Moritt Hock & Hamroff LLP is a full-service commercial law firm providing a wide range of legal services to businesses, corporations and individuals worldwide. The firm was founded in 1980 and has offices in New York City, Garden City, Fort Lauderdale and Boca Raton.",
+    "notable_facts": [
+      "Founded in 1980",
+      "Offices in New York City, Garden City, Fort Lauderdale and Boca Raton",
+      "Acquired Goldberg & Connolly in 2017",
+      "Firm has 90 attorneys"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Cardello III",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Megan Rogers",
+        "title": "Executive Director, Not-For-Profit",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc Hamroff",
+          "title": "Chairman",
+          "email": "lhauser@moritthock.com",
+          "phone": "(516) 873-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura Hauser",
+          "title": "Director of Marketing",
+          "email": "lhauser@moritthock.com",
+          "phone": "(516) 873-2000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

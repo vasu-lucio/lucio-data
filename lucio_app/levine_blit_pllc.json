@@ -1,0 +1,138 @@
+{
+  "firm_data": {
+    "firm_name": "Levine & Blit, PLLC",
+    "website": "https://www.levineblit.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Employment Law",
+      "Personal Injury",
+      "Discrimination",
+      "Employer Retaliation",
+      "Federal Employment Law",
+      "Hostile Work Environment",
+      "Labor Law",
+      "Sexual Harassment",
+      "Severance Agreements",
+      "Wage & Hour Dispute",
+      "Race Discrimination",
+      "Disability",
+      "Whistleblower Protection",
+      "Wrongful Termination",
+      "FMLA and Paid Family Leave",
+      "Car Accidents",
+      "Bus Accidents",
+      "Railroad Accidents",
+      "Pedestrian Accidents",
+      "Construction Accidents",
+      "Trip, Slip & Fall",
+      "Medical Negligence",
+      "Workplace Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Levine & Blit, PLLC is a law firm in New York City specializing in employment law and personal injury. They represent employees in disputes against their employers and individuals injured in accidents.",
+    "notable_facts": [
+      "The firm has multiple offices across the U.S.",
+      "The firm has been featured in the New York Post, Daily News, ABC7, Reuters, The New York Times, and Forbes.",
+      "The firm offers free case evaluations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Matthew J. Blit",
+        "title": "Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Les. J. Levine",
+        "title": "Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael S. Blit",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul D. Petrus, Jr.",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce Glickman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sally Mourad",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Russell S. Moriarty",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ted K. Lippincott",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Parveen Husain",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin Clark",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Connors",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

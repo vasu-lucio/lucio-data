@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen & Gresser LLP",
+    "website": "https://cohengresser.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Employment",
+      "Intellectual Property & Technology",
+      "Litigation & Arbitration",
+      "Privacy & Data Security",
+      "Real Estate",
+      "Tax",
+      "White Collar Defense"
+    ],
+    "lawyer_count": 113,
+    "firm_description": "Cohen & Gresser is an international law firm with offices in New York, Paris, Washington, D.C., London, and Dubai. They have an outstanding record of success in high-stakes and high-profile litigation, investigations, and transactional work.",
+    "notable_facts": [
+      "Recognized in Chambers and Legal 500",
+      "Offices in New York, Paris, Washington, D.C., London, and Dubai."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark S. Cohen",
+        "title": "Firm co-founder, Managing Partner of C&G's New York office",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Lawrence T. Gresser",
+          "title": "Partner, New York, London",
+          "email": "ltgresser@cohengresser.com",
+          "phone": "+1 212 957 7602",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Heather Kelly",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ang\u00e9line Duffour",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Franck Le Mentec",
+          "title": "Tax Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

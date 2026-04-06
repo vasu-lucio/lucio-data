@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Barnes, Iaccarino & Shepherd, LLP",
+    "website": null,
+    "city": "Hempstead",
+    "practice_areas": [
+      "Education",
+      "Real Estate",
+      "Motor Vehicle",
+      "Lawsuit & Dispute",
+      "Bankruptcy & Debt"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Barnes, Iaccarino & Shepherd, LLP is a law firm in Hempstead, NY. They practice in Education, Real Estate, Motor Vehicle, Lawsuit & Dispute, Bankruptcy & Debt.",
+    "notable_facts": [
+      "The firm has 3 employees according to LinkedIn.",
+      "Riccardo Iaccarino's status is 'Due to reregister within 30 days' as of 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Riccardo Iaccarino",
+          "title": "Lawsuit & Dispute, Motor Vehicle, Real Estate, Education, Education",
+          "email": "riaccarino(a)bislawfirm.com",
+          "phone": "(516) 483-2990",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Joseph Berger",
+          "title": "General Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Joseph Diratsouian",
+          "title": "General Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary Eagle",
+          "title": "General Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/armanino"
+  },
+  "email": {}
+}

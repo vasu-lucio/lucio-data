@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "The Coppola Firm",
+    "website": "https://coppolalegal.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business & Entrepreneurship",
+      "Employment Law",
+      "Personal Injury",
+      "Business Disputes",
+      "Commercial Real Estate",
+      "Healthcare"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Coppola Firm serves individuals, businesses, and organizations through Buffalo and New York State. They handle business law, employment law, and personal injury cases.",
+    "notable_facts": [
+      "Lisa Coppola was previously a partner at Hodgson Russ and was the first female litigator named equity partner there.",
+      "Lisa Coppola authored the New York-compliant, online sexual harassment training at coppolatrainings.com.",
+      "The firm's NAICS code is 541100."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lisa Coppola",
+        "title": "Founder & Managing Partner",
+        "email": "info@coppolalegal.com",
+        "phone": "716-839-9700",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Goodman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberly Wallace",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Brock",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nick Falkides",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordana Grosodonia",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

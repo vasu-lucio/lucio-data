@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Florio Leahy LLP",
+    "website": "https://www.florioleahy.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Fund Formation & Structuring",
+      "Examinations & Enforcement Defense",
+      "Ongoing Legal Counsel & Transactions",
+      "Business & Operational Support",
+      "Investor Representation & Due Diligence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Florio Leahy LLP is a full service investment management law firm with over 100 clients in the U.S. and abroad. They provide investment managers with timely, practical advice and hands-on assistance with a unique understanding of the real world issues facing today\u2019s investment managers.",
+    "notable_facts": [
+      "The firm provides legal and regulatory support to alternative asset managers.",
+      "They combine big-firm expertise with boutique responsiveness."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jim Leahy",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Gregory Florio",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nicole Amitrano",
+        "title": "Director of Operations",
+        "email": "namitrano@orical.org",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Hannah Katz",
+          "title": "Legal Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Danielle Tuluca",
+          "title": "Legal Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Simran Ahuja",
+          "title": "Post-Bar Law Clerk",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charlotte Goralski",
+          "title": "Regulatory Compliance Specialist",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

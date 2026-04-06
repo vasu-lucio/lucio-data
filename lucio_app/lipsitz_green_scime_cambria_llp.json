@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Lipsitz Green Scime Cambria LLP",
+    "website": "https://lipsitzgreen.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Personal Injury Law",
+      "Criminal Defense",
+      "Business Law",
+      "Labor and Employment",
+      "Workers Compensation",
+      "Estate Planning",
+      "Real Estate",
+      "Construction Accidents",
+      "Car Accidents",
+      "Medical Malpractice",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 50,
+    "firm_description": "Lipsitz Green Scime Cambria LLP is a law firm in Buffalo, NY, providing a wide range of legal services to individuals, families, large corporations, and small businesses. The firm is well versed in bringing legal matters before all levels of the court - from local municipal courts to the United States Supreme Court.",
+    "notable_facts": [
+      "One of the largest and most respected law firms in Western New York",
+      "Founded in 1965",
+      "Received a Tier-1 ranking for nine distinct areas of practice for the Buffalo Metro area in the U.S. News & World Report/Best Lawyers Best Law Firms publication"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amy Vigneron",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William Justyk",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karoline R Faltas",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Faraco",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dale J Bauman",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

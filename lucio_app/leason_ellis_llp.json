@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Leason Ellis",
+    "website": "http://leasonellis.com/",
+    "city": "White Plains, NY",
+    "practice_areas": [
+      "Patent",
+      "Copyright",
+      "Litigation",
+      "Trademark"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Leason Ellis is a full-service intellectual property law firm with a deep bench of professionals and a collaborative, hands-on approach. They focus on patent, copyright, trademark, and litigation.",
+    "notable_facts": [
+      "Yuval H. Marcus was appointed as Managing Partner effective January 1st, succeeding David Leason who served since the firm's founding in 2008.",
+      "In 2023, the firm celebrated its 15th anniversary.",
+      "Lauren Emerson and Jordan Garner have been appointed to the Executive Committee of the Firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Yuval H. Marcus",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Leason",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Ellis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The Newtonian Issue #39, Winter 2026, is the AI Issue: Artificial Intelligence is Reshaping IP Law"
+      },
+      "additional_contacts": [
+        {
+          "name": "Lauren Emerson",
+          "title": "Partner, Co-Chair of the Firm\u2019s Trademark & Copyright Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Garner",
+          "title": "Partner, Co-Chair of the Firm\u2019s Patent Practice Group and a Co-Chair of the Transactions Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter S. Sloane",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Gallo Vitucci Klar LLP",
+    "website": "https://www.gvlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Insurance Coverage and Litigation",
+      "Premises Liability",
+      "Product Liability Defense",
+      "Professional Liability",
+      "Trucking and Transportation",
+      "Construction Accident",
+      "Construction Defect",
+      "Litigation and Reserve Analysis",
+      "Restaurant and Innkeeper Liability",
+      "Subrogation and Property Loss",
+      "First Party Coverage",
+      "No-Fault/PIP",
+      "Coverage"
+    ],
+    "lawyer_count": 130,
+    "firm_description": "Gallo Vitucci Klar LLP is a full service litigation firm consisting of more than 130 attorneys and having an extensive practice dedicated to providing experienced and innovative legal services to both long-term and new clients. From the beginning, we have placed a premium on legal expertise, experience and strong client commitment.",
+    "notable_facts": [
+      "One-third of the firm's attorneys have been awarded the distinction of Super Lawyers.",
+      "The firm was founded in 2005.",
+      "The firm has offices in New York and New Jersey."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard J. Gallo",
+          "title": "Senior Partner",
+          "email": "rgallo@gvlaw.com",
+          "phone": "212-683-7100 ext. 227",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew J. Vitucci",
+          "title": "Senior Partner",
+          "email": "mvitucci@gvlaw.com",
+          "phone": "212-683-7100 ext. 231",
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard P. Klar",
+          "title": "Senior Partner",
+          "email": "hklar@gvlaw.com",
+          "phone": "212-683-7100 ext. 384",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Melissa Zoldan-Leite",
+        "title": "Chief Operations Officer",
+        "email": "mzoldan@gvlaw.com",
+        "phone": "212-683-7100 ext. 209",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrea Silk",
+          "title": "Managing Attorney",
+          "email": "asilk@gvlaw.com",
+          "phone": "212-683-7100 ext. 258",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

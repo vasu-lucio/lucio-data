@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "McIntyre, Donohue, Accardi, Salmonson, & Riordan, LLP",
+    "website": "licomplaw.com",
+    "city": "Bay Shore",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Social Security Disability",
+      "Municipal Pensions"
+    ],
+    "lawyer_count": 27,
+    "firm_description": "McIntyre, Donohue, Accardi, Salmonson, & Riordan, LLP is a law firm that specializes in workers' compensation, social security disability, and municipal pensions, providing legal support to those who have been injured or disabled for over 70 years. The firm is dedicated to providing high-quality legal services and aggressive representation to protect injured workers.",
+    "notable_facts": [
+      "The firm was founded in 1930.",
+      "The firm has been providing legal services for over 70 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Susan Grogan",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sean Patrick Riordan",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Salmonson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ed Mcintyre",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Seganti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Accardi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chester Lukaszewski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

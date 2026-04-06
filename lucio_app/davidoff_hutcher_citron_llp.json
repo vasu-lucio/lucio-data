@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Davidoff Hutcher & Citron LLP",
+    "website": "https://dhclegal.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Commercial Litigation",
+      "Real Estate",
+      "Land Use",
+      "Matrimonial",
+      "Bankruptcy",
+      "Trusts and Estates",
+      "Administrative Law",
+      "Government Relations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Davidoff Hutcher & Citron is a leading law and government relations law firm with highly distinguished lawyers in the New York City, Albany, and Washington, D.C. areas. The firm's diverse and sophisticated practice includes all aspects of business law, commercial litigation, real estate, land use, matrimonial, bankruptcy, trusts and estates and administrative law.",
+    "notable_facts": [
+      "Founded in 1975",
+      "Offices in New York City, Washington D.C., Albany, White Plains, and Palm Beach"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Jeffrey Citron",
+        "title": "Co-Managing Partner",
+        "email": "cit@dhclegal.com",
+        "phone": "646-428-3233",
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Sid Davidoff",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Larry Hutcher",
+          "title": "Co-Founder, Co-Managing Partner & Chair",
+          "email": "lkh@dhclegal.com",
+          "phone": "646-428-3248",
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard S. Weiss",
+          "title": "Senior Partner",
+          "email": "hsw@dhclegal.com",
+          "phone": "646-428-3271",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Ann Grant",
+          "title": "Partner",
+          "email": "pag@dhclegal.com",
+          "phone": "646-428-3237",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Klein",
+          "title": "Partner",
+          "email": "ck@dhclegal.com",
+          "phone": "646-428-3240",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

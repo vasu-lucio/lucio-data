@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Grant, Herrmann, Schwartz & Klinger LLP",
+    "website": "https://ghsklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "International Tax",
+      "Domestic Trusts & Estates",
+      "Matrimonial and Family Law",
+      "Accounting",
+      "Litigation and Dispute Resolution",
+      "Corporate Law",
+      "Commercial Law",
+      "Financial Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Established in 1946, GHSK LLP is a multi-office full-service law firm representing high net-worth individuals, families and businesses from around the world in a wide range of private client practice areas and litigation matters. Our team and services are purposefully structured to provide high-touch personal representation, whenever and wherever you need it.",
+    "notable_facts": [
+      "Established in 1946 as Grant & Herrmann.",
+      "One of the oldest law firms in the United States with expertise in international law and the representation of foreign clients.",
+      "The firm's attorneys and staff are fluent in Spanish, Portuguese, Italian, and French."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "Twitter"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David M. Sahargun",
+          "title": "Partner",
+          "email": "dsahargun@ghsklaw.com",
+          "phone": "(212) 682-1800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory H. Cayne",
+          "title": "Partner",
+          "email": "GCayne@ghsklaw.com",
+          "phone": "(212) 682-1800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bryan M. Goldstein",
+          "title": "Partner",
+          "email": "bgoldstein@ghsklaw.com",
+          "phone": "(212) 682-1800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan E. Campos",
+          "title": "Partner",
+          "email": "mcampos@ghsklaw.com",
+          "phone": "(305) 908-1100",
+          "linkedin_url": null
+        },
+        {
+          "name": "K. Eli Akhavan",
+          "title": "Partner",
+          "email": "eakhavan@ghsklaw.com",
+          "phone": "(332) 232-1631",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

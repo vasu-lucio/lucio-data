@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Kent, Beatty & Gordon, LLP",
+    "website": "https://kbg-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Corporate Law",
+      "Employment Law",
+      "Entertainment Law",
+      "Hospitality Law",
+      "Mergers & Acquisitions",
+      "Real Estate",
+      "Telecommunications",
+      "Internet Law",
+      "Blockchain",
+      "Distributed Ledger Technologies"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Kent, Beatty & Gordon, LLP is a general commercial law firm that represents both individuals and domestic and international business entities from a wide range of industries. KB&G\u2019s practice concentrations include commercial litigation and arbitration, general commercial counseling, and acquisitions, divestitures and other commercial transactions.",
+    "notable_facts": [
+      "Founded in 1992",
+      "Rated AV\u00ae Preeminent\u2122 by Martindale-Hubbell",
+      "Included in Chamber Regional Rankings as a top law firm in New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael B. Kent",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harry C. Beatty",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack A. Gordon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alex Paradiso",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

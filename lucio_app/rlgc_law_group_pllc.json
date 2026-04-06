@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "RLGC Law Group, PLLC",
+    "website": "https://rlgclaw.com/",
+    "city": "Latham",
+    "practice_areas": [
+      "Estate planning",
+      "Estate and trust administration",
+      "Elder law",
+      "Business law",
+      "Real estate law",
+      "Creditors' Rights"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "RLGC Law Group, PLLC provides high quality legal advice and assistance along with greatly personalized service in a focused and friendly environment. With experience in legal and financial counseling, dedicating their careers to helping individuals, families and businesses plan for their futures and protect their assets.",
+    "notable_facts": [
+      "Founded in 2011",
+      "The firm employs 18 people",
+      "The firm's aliases are rlgc law group, pllc, rowlands, lebrou and griesmer, pllc"
+    ],
+    "technology_signals": [
+      "juris",
+      "microsoft office"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Joleen S. Meins",
+        "title": "Chief Administrative Officer",
+        "email": "jmeins@rlgclaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mary K. Ibbetson",
+          "title": "Director of Admin",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

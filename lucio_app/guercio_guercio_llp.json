@@ -1,0 +1,127 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Guercio and Guercio, LLP",
+    "website": "https://www.guerciolaw.com/",
+    "city": "Farmingdale",
+    "practice_areas": [
+      "Education Law",
+      "Labor Law",
+      "Municipal Law",
+      "Personal Injury",
+      "Labor & Employment"
+    ],
+    "lawyer_count": 42,
+    "firm_description": "Guercio & Guercio, LLP is a leading education, labor and municipal law firm based in Farmingdale, New York. The firm also has an active personal injury litigation department.",
+    "notable_facts": [
+      "The firm was founded in 1956.",
+      "The firm has offices in Long Island, the Capital Region, and Westchester.",
+      "The firm represents school districts, public educational institutions and local governments."
+    ],
+    "technology_signals": [
+      "Microsoft",
+      "Juris",
+      "Clio",
+      "Adobe",
+      "Well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph W. Campanella",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony Fasano",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Unz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Mehnert",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barbara Emigholz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Kleinberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christie R Jacobson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Doug Spencer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

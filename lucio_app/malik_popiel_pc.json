@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Malik & Popiel, P.C.",
+    "website": "https://malikpopiel.com/",
+    "city": "New York",
+    "practice_areas": [
+      "U.S. Immigration & Nationality Law",
+      "Treaty Law",
+      "U.S. Business Law",
+      "India Corporate & Family Law",
+      "Intellectual Property",
+      "Matrimonial Law",
+      "Real Estate Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Malik & Popiel, P.C. specializes in U.S. Immigration & Nationality Law, Treaty Law, U.S. Business Law, and India Corporate & Family Law. They handle employment-based and family-based immigration cases, and counsel clients on consular and border matters.",
+    "notable_facts": [
+      "The firm is fluent in Hindi, Urdu, Punjabi, Polish, and Spanish."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jitesh Malik",
+        "title": "Founding/Managing Partner",
+        "email": "jmalik@malikpopiel.com",
+        "phone": "212-545-7770 Ext. 201",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Hema Malik",
+          "title": "Of Counsel",
+          "email": "hmalik@malikpopiel.com",
+          "phone": "212-545-7770",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

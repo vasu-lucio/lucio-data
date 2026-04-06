@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "L'Abbate, Balkan, Colavita & Contini, L.L.P.",
+    "website": "https://lbcclaw.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Accounting and Business Professionals",
+      "Attorney Liability",
+      "Business Planning and Transactions",
+      "Commercial and Corporate Litigation",
+      "Construction Industry",
+      "Consumer Protection Law",
+      "Design Professionals",
+      "General Liability",
+      "Insurance Industry",
+      "Labor and Employment",
+      "Mediation",
+      "Miscellaneous Professional Liability",
+      "Products and Industrial Liability",
+      "Real Estate",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "L\u2019Abbate, Balkan, Colavita & Contini, L.L.P. is a full service law firm providing comprehensive legal, transactional and advisory services. With offices in both New York and New Jersey, LBC&C is a recognized leader in insurance law and professional liability defense.",
+    "notable_facts": [
+      "Rated an AV\u00ae Preeminent\u2122 law firm by Martindale\u2013Hubbell\u00ae",
+      "Founded in 1981"
+    ],
+    "technology_signals": [
+      "cdnjs",
+      "Open Graph",
+      "Craft CMS",
+      "Google Fonts API",
+      "PWA",
+      "SEOmatic",
+      "reCAPTCHA",
+      "GoDaddy"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Donald R. L'Abbate",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth J. Balkan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony P. Colavita",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter L. Contini",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

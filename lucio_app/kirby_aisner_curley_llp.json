@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Kirby Aisner & Curley LLP",
+    "website": "https://kacllp.com/",
+    "city": "Scarsdale",
+    "practice_areas": [
+      "Bankruptcy",
+      "Real Estate",
+      "Commercial Transactions",
+      "Foreclosure Defense",
+      "Mortgage Modification"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Kirby Aisner & Curley LLP combines decades of experience helping businesses and individuals achieve their goals, overcome financial and legal troubles and move forward with every possible advantage. They are committed to providing counsel and guidance with creativity, integrity and compassion.",
+    "notable_facts": [
+      "The firm serves clients throughout New York City, Long Island, Westchester and Rockland counties and the lower Hudson Valley.",
+      "The firm's clients range from sole proprietors and family-owned businesses to small public companies.",
+      "The firm takes a team approach to client needs, with attorneys having expertise in specific areas."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dawn Kirby",
+        "title": "Partner",
+        "email": "dkirby@kacllp.com",
+        "phone": "(914) 401-9501",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Erica Feynman Aisner",
+          "title": "Partner",
+          "email": "eaisner@kacllp.com",
+          "phone": "(914) 401-9502",
+          "linkedin_url": null
+        },
+        {
+          "name": "Julie Cvek Curley",
+          "title": "Partner",
+          "email": "jcurley@kacllp.com",
+          "phone": "(914) 401-9503",
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Haas",
+          "title": "Attorney",
+          "email": "ehaas@kacllp.com",
+          "phone": "(845) 708-0340",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Hill",
+          "title": "Associate",
+          "email": "jhill@kacllp.com",
+          "phone": "(914) 401-9500",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

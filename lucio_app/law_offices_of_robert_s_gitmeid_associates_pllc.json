@@ -1,0 +1,53 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Robert S. Gitmeid & Associates, PLLC",
+    "website": "https://gitmeidlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Consumer Law",
+      "Debt Relief",
+      "Bankruptcy Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Offices of Robert S. Gitmeid & Associates, PLLC is a consumer-advocacy law firm based in New York City dedicated to providing legal representation to clients who face challenges from their creditors. They employ creative legal strategies and theories at the cutting edge of consumer law.",
+    "notable_facts": [
+      "The firm was founded to address the growing need for legal expertise in debt relief and consumer advocacy following the 2008 financial crisis.",
+      "The firm offers free initial consultations and a contingency fee structure for certain services."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert S. Gitmeid",
+        "title": "Managing Member",
+        "email": "robert@gitmeidlaw.com",
+        "phone": "866-707-4595",
+        "linkedin_url": "https://www.linkedin.com/in/robert-gitmeid-685aa414"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Stinson LLP",
+    "website": "https://www.stinson.com/",
+    "city": "Kansas City",
+    "practice_areas": [
+      "Antitrust",
+      "Bankruptcy",
+      "Construction",
+      "Corporate",
+      "Energy",
+      "Environmental",
+      "Insurance",
+      "Intellectual Property",
+      "Labor & Employment"
+    ],
+    "lawyer_count": 500,
+    "firm_description": "Stinson LLP provides practical legal guidance to clients ranging from individuals to privately-held enterprises to international corporations. They deliver extensive legal knowledge and stay close to their clients' businesses.",
+    "notable_facts": [
+      "Stinson has 500 attorneys in 16 offices nationwide.",
+      "The firm is committed to diversity, equity & inclusion and supporting communities with pro bono.",
+      "Stinson uses Harvey AI to support attorneys across practice areas and enhance the delivery of legal services.",
+      "Stinson donates at least three percent of total billable hours to pro bono every year."
+    ],
+    "technology_signals": [
+      "Uses Harvey AI"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Allison M. Murdock",
+        "title": "Managing Partner",
+        "email": "allison.murdock@stinson.com",
+        "phone": "816.691.3138",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David R. Crosby",
+        "title": "Deputy Managing Partner",
+        "email": "david.crosby@stinson.com",
+        "phone": "612.335.1627",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Shawn L. Adams",
+        "title": "Chief Operating Officer",
+        "email": "shawn.adams@stinson.com",
+        "phone": "816.691.3182",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Stinson adopts Harvey AI firmwide to enhance client service and collaboration."
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason L. Anderson",
+          "title": "Senior Director of Operations",
+          "email": "jason.anderson@stinson.com",
+          "phone": "612.335.1972",
+          "linkedin_url": null
+        },
+        {
+          "name": "Heidi E. Burton",
+          "title": "Chief Human Resources Officer",
+          "email": "heidi.burton@stinson.com",
+          "phone": "612.335.1757",
+          "linkedin_url": null
+        },
+        {
+          "name": "Vaughan Butts",
+          "title": "Chief Information & Risk Officer",
+          "email": "vaughan.butts@stinson.com",
+          "phone": "202.572.9905",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jon Mattson",
+          "title": "Chief Marketing & Business Development Officer",
+          "email": null,
+          "phone": "816.691.3343",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

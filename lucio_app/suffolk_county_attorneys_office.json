@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Suffolk County District Attorney\u2019s Office",
+    "website": "https://www.suffolkcountyda.org/",
+    "city": "Hauppauge",
+    "practice_areas": [
+      "Law Enforcement",
+      "Criminal Prosecution"
+    ],
+    "lawyer_count": 170,
+    "firm_description": "The Suffolk County District Attorney\u2019s Office in New York, under the leadership of District Attorney Raymond A. Tierney, works to investigate and prosecute violations of state and local criminal statutes. The District Attorney\u2019s Office comprises more than 300 prosecutors, investigators and support staff who work tirelessly to serve justice, to protect victims, and to ensure safety for all Suffolk County, New York residents.",
+    "notable_facts": [
+      "Raymond A. Tierney was elected Suffolk County District Attorney on November 2, 2021, and assumed office on January 1, 2022.",
+      "The office was founded in 1818."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Raymond A. Tierney",
+        "title": "District Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/suffolk-county-district-attorney"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Allen L. Bode",
+          "title": "Chief Assistant District Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan O\u2019Donnell",
+          "title": "Division Chief",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James G. Chalifoux",
+          "title": "Division Chief",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jed L. Painter",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Zacarese",
+          "title": "Chief Investigator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

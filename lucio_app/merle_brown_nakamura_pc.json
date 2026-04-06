@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Merle, Brown & Nakamura, P.C.",
+    "website": "https://www.mbnpc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "State and federal civil litigation",
+      "Money transmission",
+      "Non-bank financial services",
+      "Business and corporate law",
+      "Advising start-up businesses",
+      "Contract drafting and negotiation",
+      "Asset forfeiture",
+      "State and federal regulation",
+      "Real estate",
+      "Estate planning and administration",
+      "Labor and employment",
+      "Co-operatives and condominiums",
+      "Charitable organizations law",
+      "International law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Merle, Brown & Nakamura, P.C. is a full service law firm located in midtown New York. They handle matters in many areas of law including: state and federal civil litigation, alternative dispute resolution, money transmission, non-bank financial services, business and corporate, federal and state taxation, advising start-up businesses, contract drafting and negotiation, asset forfeiture, family law, state and federal regulation, appellate practice, real estate, estate planning and administration, labor and employment, co-operatives and condominiums, charitable organizations law and international legal matters.",
+    "notable_facts": [
+      "The firm traces its founding back to 1983.",
+      "The firm has a diverse group of foreign and domestic clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Pierre F.V. Merle",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "George R. Brown V",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen H. Nakamura",
+          "title": "Attorney",
+          "email": "s.nakamura@mbnpc.com",
+          "phone": "(212) 471-2990",
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott K. McClain",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Theodore P. Nikolis",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

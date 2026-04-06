@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "UJA-Federation of New York",
+    "website": "https://ujafedny.org/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "UJA-Federation of New York focuses on communal planning and philanthropy in the New York Jewish community. It works with more than 100 network beneficiary agencies, synagogues, and other Jewish organizations.",
+    "notable_facts": [
+      "UJA-Federation of New York connects people to their Jewish communities and responds to crises close to home and around the globe.",
+      "Its reach extends from New York to Israel to more than 70 other countries around the world.",
+      "Founded in 1917."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric S. Goldstein",
+          "title": "CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Linda Mirels",
+          "title": "President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc Rowan",
+          "title": "Chair of the Board",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen R. Zimmerman",
+          "title": "General Counsel, Chief Compliance Officer & Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Devana Cohen",
+          "title": "Chief Investment Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carolyn Cohen",
+          "title": "Campaign Director, Entertainment, Tech & Lifestyle",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

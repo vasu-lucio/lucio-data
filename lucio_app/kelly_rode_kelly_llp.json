@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Kelly, Rode & Kelly, LLP",
+    "website": "https://www.krklaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Automobile Accidents",
+      "Medical Malpractice",
+      "Labor Law",
+      "Premises Liability",
+      "Municipal Liability",
+      "Coverage Opinions"
+    ],
+    "lawyer_count": 41,
+    "firm_description": "Kelly, Rode & Kelly, LLP has served as trial counsel to major insurance carriers across the country for nearly 70 years. As a growing mid-sized insurance defense firm, we combine the depth and sophistication of a large practice with the responsiveness, accessibility, and personal attention our clients deserve.",
+    "notable_facts": [
+      "Established in 1956",
+      "Listed in the Martindale-Hubbell Bar Registry of Preeminent Lawyers for over 80 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John D. Kelly",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph F. O\u2019Brien",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Shawn P. Kelly",
+          "title": "Senior Partner",
+          "email": "spkelly@krklaw.com",
+          "phone": "516-739-0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "George J. Wilson",
+          "title": "Partner",
+          "email": "gjwilson@krklaw.com",
+          "phone": "516-739-0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Loris Zeppieri",
+          "title": "Partner",
+          "email": "lzeppieri@krklaw.com",
+          "phone": "516-739-0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward J. Kelly IV",
+          "title": "Partner",
+          "email": "ejkelly@krklaw.com",
+          "phone": "516-739-0400",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

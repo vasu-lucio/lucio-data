@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Select Equity Group, L.P.",
+    "website": "http://www.selectequity.com",
+    "city": "New York",
+    "practice_areas": [
+      "Financial Services",
+      "Investment Management",
+      "Equity Strategies"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Select Equity Group manages approximately $30 billion across long-only and long/short equity strategies that share a fundamental investment philosophy and centralized research effort. The Firm was founded on the premise that rigorous, independent research and disciplined, long-term investing will generate superior returns for our clients.",
+    "notable_facts": [
+      "The firm is employee owned.",
+      "Located at 380 Lafayette Street in lower Manhattan since the early 1990s.",
+      "The investment team includes dedicated Qualitative Field Research, composed of former journalists and sourcing specialists, and Data Analytics Teams."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "A. M.",
+        "title": "Chief Information And Data Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "J. V.",
+          "title": "Chief Compliance Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "E. L.",
+          "title": "Chief Compliance Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Greb",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://fintool.com/app/research/funds/investment-advisers/select-equity-group-lp/people/jonathan-greb"
+        },
+        {
+          "name": "Loren Lewallen",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://fintool.com/app/research/funds/investment-advisers/select-equity-group-lp/people/loren-lewallen"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

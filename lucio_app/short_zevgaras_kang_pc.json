@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Short Zevgaras & Kang P.C.",
+    "website": "https://szklawyers.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Defense",
+      "Business Law",
+      "Insurance Fraud",
+      "General Practice",
+      "Healthcare Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Short Zevgaras & Kang P.C. is a New York City law firm with over 40 years of experience. The firm offers legal services in areas such as insurance defense, business law, insurance fraud, and healthcare law.",
+    "notable_facts": [
+      "The firm's attorneys have lectured for organizations such as the AAA, New York State Bar Association, and the New York State Insurance Department Frauds Bureau.",
+      "The firm is experienced in civil healthcare fraud actions for violation of the Racketeer Influenced and Corrupt Organizations Act."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ioanna Olivia Zevgaras",
+          "title": "Member",
+          "email": null,
+          "phone": "(212) 732-3320",
+          "linkedin_url": null
+        },
+        {
+          "name": "Skip Short",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "The Gold Law Firm",
+    "website": "https://www.thegoldlawfirm.net/",
+    "city": "Greenwood Village",
+    "practice_areas": [
+      "Car Accidents",
+      "Truck Accidents",
+      "Motorcycle Accidents",
+      "Catastrophic Injuries",
+      "Premises Liability",
+      "Sexual Assault",
+      "Insurance Bad Faith"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Gold Law Firm is dedicated to fighting on behalf of injury victims and ensuring that those injured receive proper compensation for injuries caused by other people's actions or negligence.",
+    "notable_facts": [
+      "Offers free consultation",
+      "Focuses on personal injury cases"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gregory Gold",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Colleen Parsley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dorothy H. Dean",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lars Bergstrom",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

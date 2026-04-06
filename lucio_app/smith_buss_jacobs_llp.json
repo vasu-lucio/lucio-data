@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Smith Buss & Jacobs, LLP",
+    "website": "https://sbjlaw.com/",
+    "city": "Yonkers",
+    "practice_areas": [
+      "Real Estate",
+      "Cooperative and Condominium Law",
+      "Business",
+      "Litigation and Appeals",
+      "Government Law",
+      "Labor & Employment",
+      "Non-Profit Law"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Smith Buss & Jacobs, LLP is an expert and respected law firm that provides advisory services in various areas such as real estate, cooperative and condominium law, business, government law, and litigation & appeals. They focus on client value and provide 360\u00b0 foresight and expertise to drive real world results.",
+    "notable_facts": [
+      "Founded in 1991",
+      "The firm has an outstanding reputation, impeccable industry rating, and a large and prestigious client base.",
+      "Parent Company: Baisley Law Group, P.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Melissa Lopez",
+        "title": "Operations Assistant & Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jacqueline L. Aiello",
+          "title": "Partner",
+          "email": "jaiello@sbjlaw.com",
+          "phone": "212.688.2400 Ext. 4141",
+          "linkedin_url": null
+        },
+        {
+          "name": "Margaret D. Baisley",
+          "title": "Partner",
+          "email": "mbaisley@sbjlaw.com",
+          "phone": "212.966.0066 Ext. 4136",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey D. Buss",
+          "title": "Partner",
+          "email": "jbuss@sbjlaw.com",
+          "phone": "914.476.0600 Ext. 4131",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth R. Jacobs",
+          "title": "Partner",
+          "email": "kjacobs@sbjlaw.com",
+          "phone": "914.476.0600 Ext. 4102",
+          "linkedin_url": null
+        },
+        {
+          "name": "Emanuela Lupu",
+          "title": "Partner",
+          "email": "elupu@sbjlaw.com",
+          "phone": "516.207.7533 Ext. 4122",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

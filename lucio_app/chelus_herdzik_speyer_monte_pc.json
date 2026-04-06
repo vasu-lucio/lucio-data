@@ -1,0 +1,120 @@
+{
+  "firm_data": {
+    "firm_name": "Chelus Herdzik Speyer & Monte PC",
+    "website": "https://cheluslaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Construction Litigation",
+      "Insurance Defense",
+      "Products Liability",
+      "Property and Fire Loss Claims",
+      "Business Law",
+      "Estate Planning and Administration",
+      "Family Law",
+      "Real Estate Personal & Commercial",
+      "Municipal Law"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Chelus Herdzik Speyer & Monte PC is a full-service law firm serving New York State and Federal Courts, providing tailored legal services with a proven track record of success. They offer effective strategies and unique solutions tailored to the legal needs of their clients.",
+    "notable_facts": [
+      "Founded in 1896",
+      "Located in Buffalo, New York",
+      "Represents corporations, businesses, municipalities, organizations and individuals across New York State."
+    ],
+    "technology_signals": [
+      "TrialDirector"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Ann M. Lippitt",
+        "title": "OFFICE MANAGER",
+        "email": "alippitt@cheluslaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amanda H. Gassman",
+          "title": "BILLING MANAGER",
+          "email": "agassman@cheluslaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas P. Kawalec",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin E. Loftus",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Chmiel",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael M. Chelus",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katy M. Hedges",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark A. Forden",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas M. Hriczko",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

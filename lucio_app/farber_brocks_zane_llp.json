@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Farber Brocks & Zane L.L.P.",
+    "website": "https://fbzlaw.com/",
+    "city": "Garden City, NY",
+    "practice_areas": [
+      "Professional Liability",
+      "General Liability",
+      "Environmental",
+      "Insurance Coverage",
+      "Municipal Law",
+      "Automobile Claims",
+      "Construction Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Farber Brocks & Zane L.L.P. is a full-service law firm providing legal services in New York, New Jersey, Connecticut and Florida. The firm provides client-focused, value-based, quality-driven legal services to its individual, corporate, professional and insurance company clients.",
+    "notable_facts": [
+      "The firm was founded in 2005.",
+      "The firm has offices in New York, New Jersey, Connecticut, and Florida."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "PHP",
+      "Google Analytics"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Braden H. Farber",
+          "title": "Partner",
+          "email": "bhfarber@fb",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William R. Brocks, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Audra S. Zane",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Esposito",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charlie Green, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

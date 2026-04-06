@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Hoffmann & Baron, LLP",
+    "website": "https://hbiplaw.com/",
+    "city": "Syosset",
+    "practice_areas": [
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hoffmann & Baron, LLP is a full-service law firm specializing in all areas of intellectual property, both domestically and internationally. Established in 1984, the firm has offices in New York, New Jersey and Washington D.C. and serves clients around the globe in all scientific and engineering fields.",
+    "notable_facts": [
+      "Founded in 1984 by Charles R. Hoffmann and Ronald J. Baron",
+      "Offices in New York, New Jersey, and Washington D.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Charles R. Hoffmann",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald J. Baron",
+          "title": "Founding Senior Counsel",
+          "email": "rbaron@hbiplaw.com",
+          "phone": "516.822.3550",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel A. Scola, Jr.",
+          "title": "Partner",
+          "email": "dscola@hbiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James F. Harrington",
+          "title": "Partner",
+          "email": "jharrington@hbiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Salvatore J. Abbruzzese",
+          "title": "Partner",
+          "email": "sabbruzzese@hbiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Glenn T. Henneberger",
+          "title": "Partner",
+          "email": "ghenneberger@hbiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John T. Gallagher",
+          "title": "Partner",
+          "email": null,
+          "phone": "516.822.3550",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

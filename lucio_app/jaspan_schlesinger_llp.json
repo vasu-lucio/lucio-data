@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Jaspan Schlesinger Narendran LLP",
+    "website": "http://jaspanllp.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Trusts and Estates",
+      "Tax Certiorari and Condemnation",
+      "Real Estate",
+      "Not-for-Profit Corporation Law",
+      "Municipal",
+      "Matrimonial and Family Law",
+      "Litigation",
+      "Land Use and Zoning",
+      "Labor and Employment Law",
+      "Estate Litigation",
+      "Election and Campaign Finance Law",
+      "Education",
+      "Corporate and Commercial Transactions",
+      "Construction",
+      "Banking and Financial Services",
+      "Appellate",
+      "Alternative Dispute Resolution"
+    ],
+    "lawyer_count": 60,
+    "firm_description": "Jaspan Schlesinger Narendran LLP is one of Long Island\u2019s oldest and largest full-service law firms. Innovative yet practical and responsive, they\u2019re the trusted partner clients count on to help them solve real-world problems\u2014locally, nationally and globally\u2014and to proactively help prevent problems from happening in the first place.",
+    "notable_facts": [
+      "Founded in 1946",
+      "Main office in Garden City for the past 40 years",
+      "Offices in Garden City and Tarrytown, New York"
+    ],
+    "technology_signals": [
+      "Upgrading information and communications systems",
+      "State-of-the-art facilities"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven R. Schlesinger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hanna E. Kirkpatrick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mariselle Harrison",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel K. Cahn",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Paseltiner",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

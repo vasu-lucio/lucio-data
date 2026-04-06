@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Mahon, Rider, McKay, Bauer & Furst, PLLC",
+    "website": "https://mrmlegal.com/",
+    "city": "Newburgh",
+    "practice_areas": [
+      "General Practice",
+      "Business Law",
+      "Estate Planning",
+      "Litigation"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Mahon Rider McKay is a leading general practice law firm in the Hudson Valley, offering strategic and cost-efficient solutions to businesses and individuals.",
+    "notable_facts": [
+      "Serving the Hudson Valley's business and professional community for over 50 years.",
+      "Located in a repurposed 19th-century factory in Newburgh's historic garment district."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard M. Mahon",
+          "title": "Attorney",
+          "email": "rmahon@mrmlegal.com",
+          "phone": "(845) 565-1100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle F. Rider",
+          "title": "Attorney",
+          "email": "mrider@mrmlegal.com",
+          "phone": "(845) 565-1100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph G. McKay",
+          "title": "Attorney",
+          "email": "jmckay@mrmlegal.com",
+          "phone": "(845) 565-1100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ari I. Bauer",
+          "title": "Attorney",
+          "email": "abauer@mrmlegal.com",
+          "phone": "(845) 565-1100",
+          "linkedin_url": null
+        },
+        {
+          "name": "John W. Furst",
+          "title": "Attorney",
+          "email": "jfurst@mrmlegal.com",
+          "phone": "(845) 565-1100",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

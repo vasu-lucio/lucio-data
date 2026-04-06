@@ -1,0 +1,55 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office of Katie Walsh",
+    "website": "https://www.katiewalshlaw.com",
+    "city": "Tustin",
+    "practice_areas": [
+      "Criminal Law",
+      "Domestic Violence",
+      "DUI & DWI",
+      "Juvenile Law",
+      "White Collar Crime"
+    ],
+    "lawyer_count": 1,
+    "firm_description": "The Law Office of Katie Walsh is located in Tustin, CA. Katie Walsh is dedicated to her clients and their needs, understanding parents are frequently more affected by the juvenile process than their child.",
+    "notable_facts": [
+      "Offers video conferencing",
+      "Free consultation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Katie Walsh",
+        "title": null,
+        "email": null,
+        "phone": "714-351-0178",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

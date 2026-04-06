@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Couch White, LLP",
+    "website": "https://www.couchwhite.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Energy",
+      "Renewable Energy Transactions",
+      "Environmental",
+      "Corporate & Commercial Transactions",
+      "Real Estate",
+      "Construction",
+      "Commercial and Complex Litigation",
+      "Trust & Estate Planning & Administration"
+    ],
+    "lawyer_count": 35,
+    "firm_description": "Couch White, LLP is a full-service law firm dedicated to delivering high-quality, cost-effective legal services to public and private sector clients. The Firm has unparalleled expertise in handling high-complexity, large-scale legal matters for national and local clients.",
+    "notable_facts": [
+      "Founded in 1988",
+      "Offices in Albany, Saratoga Springs, New York City, and Hartford, CT",
+      "Recognized as one of the Best Places to Work by the Albany Business Review"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert M. Loughney",
+          "title": null,
+          "email": "rloughney@couchwhite.com",
+          "phone": "518-426-4600",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

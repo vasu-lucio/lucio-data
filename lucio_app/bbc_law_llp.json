@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "BBC Law Firm, LLP",
+    "website": "https://bbclawfirm.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Appellate",
+      "Automobile Law",
+      "Commercial Transportation Litigation",
+      "Construction Law",
+      "Contracts",
+      "Corporate Governance / D & O Litigation",
+      "Dram Shop / Liquor Liability",
+      "Employment and Employee Relations",
+      "Entertainment Law",
+      "Environmental Law",
+      "General Liability / Premises Liability",
+      "Healthcare Law",
+      "Insurance Coverage and Opinion",
+      "Litigation",
+      "Mass Tort / Toxic Tort",
+      "Personal Injury",
+      "Product Liability",
+      "Professional Investigations",
+      "Professional Liability",
+      "Risk Management"
+    ],
+    "lawyer_count": null,
+    "firm_description": "BBC LAW, LLP is always adapting to confront the changing legal market and meet our client\u2019s evolving needs. Our large team of experienced attorneys offers expertise across a wide range of practice areas and is dedicated to our clients' success.",
+    "notable_facts": [
+      "Multiple offices with headquarters in Philadelphia.",
+      "Assists clients in the Mid-Atlantic area and all the federal courts in between.",
+      "Software and hardware architecture are optimized and customized to work in a secure, cloud-based environment."
+    ],
+    "technology_signals": [
+      "Leading edge technology with secure, cloud-based environment.",
+      "Analytics and tracking of shifting judicial winds using proprietary means and methods."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Darren C. Audino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Derek Timms",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James J. Green",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laurence I. Gross",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan J. Mowll",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

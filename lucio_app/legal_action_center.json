@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Legal Action Center",
+    "website": "http://www.lac.org",
+    "city": "New York",
+    "practice_areas": [
+      "Legal Services",
+      "Discrimination Law",
+      "Health Equity",
+      "Criminal Justice Reform",
+      "HIV/AIDS Advocacy",
+      "Civil Rights",
+      "Substance Use Disorder"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Legal Action Center (LAC) uses legal and policy strategies to fight discrimination, build health equity, and restore opportunity for people with arrest and conviction records, substance use disorders, and HIV or AIDS. LAC is fighting for a future where all people have the opportunity to obtain the jobs, homes, health care, and other life essentials needed to thrive, where everyone\u2019s rights are upheld, and no one is held back by discrimination.",
+    "notable_facts": [
+      "Founded in 1973",
+      "Focuses on individuals with conviction records, substance use disorders, and HIV/AIDS",
+      "Advocates for policy changes at local, state, and federal levels"
+    ],
+    "technology_signals": [
+      "Microsoft Outlook",
+      "Microsoft Exchange Online",
+      "Amicus Attorney"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Sharon X. Hayes",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paul Samuels",
+          "title": "Director and President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

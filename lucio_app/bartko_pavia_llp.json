@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Bartko Pavia LLP",
+    "website": "https://www.bartkopavia.com/",
+    "city": "San Francisco",
+    "practice_areas": [
+      "Litigation",
+      "Corporate and Commercial Transactions",
+      "Labor and Employment",
+      "Real Estate",
+      "Intellectual Property",
+      "Trust & Estate Litigation"
+    ],
+    "lawyer_count": 68,
+    "firm_description": "Bartko Pavia LLP is an elite award-winning, complex litigation boutique law firm. Since 1978, Bartko Pavia has maintained a robust presence in California.",
+    "notable_facts": [
+      "Represents both plaintiffs and defendants.",
+      "Tried three federal antitrust cases to jury verdict.",
+      "Opened a Los Angeles office."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "An Nguyen Ruda",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": "415.956.1900",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Patrick M. Ryan",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": "415.956.1900",
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John J. Bartko",
+          "title": "Founder",
+          "email": null,
+          "phone": "415.956.1900",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert H. Bunzel",
+          "title": "General Counsel",
+          "email": null,
+          "phone": "415.956.1900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Louise Ann \"Luzann\" Fernandez",
+          "title": "Strategic Counsel to Managing Partners",
+          "email": null,
+          "phone": "310.563.8780",
+          "linkedin_url": null
+        },
+        {
+          "name": "Giovanni Spinelli",
+          "title": "NY Office Managing Partner",
+          "email": null,
+          "phone": "212.980.3500",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bartkopavia"
+  },
+  "email": {}
+}

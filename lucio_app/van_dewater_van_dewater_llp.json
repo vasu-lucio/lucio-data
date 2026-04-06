@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Van DeWater & Van DeWater, LLP",
+    "website": "https://www.vandewaterlaw.com/",
+    "city": "Poughkeepsie",
+    "practice_areas": [
+      "Commercial Lending",
+      "Commercial Transactions",
+      "Corporate Law",
+      "Criminal Law",
+      "Estate Administration",
+      "Estate Planning",
+      "Family Law",
+      "Land Use & Zoning",
+      "Municipal Law",
+      "Personal Injury",
+      "Property Tax Assessments",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Van DeWater & Van DeWater is a top-rated Mid-Hudson region law firm with a diverse client base. They handle a variety of case types, and each service provided to each of their clients is managed and coordinated by one of the partners.",
+    "notable_facts": [
+      "Serving the Hudson Valley and Upstate New York for over a century.",
+      "Founded in 1914."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kyle W. Barnett",
+          "title": "Partner",
+          "email": "Email Me",
+          "phone": "845-452-5900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel F. Thomas III",
+          "title": "Partner",
+          "email": "Email Me",
+          "phone": "845-452-5900",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

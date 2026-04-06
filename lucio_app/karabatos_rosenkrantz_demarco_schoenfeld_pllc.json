@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Karabatos Rosenkrantz DeMarco Schoenfeld PLLC",
+    "website": "http://soklaw.com/",
+    "city": "Garden City, NY",
+    "practice_areas": [
+      "Family Law",
+      "Matrimonial Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Karabatos Rosenkrantz DeMarco Schoenfeld (KRDS) is a New York family law firm specializing in complex financial, valuation, and property distribution matters, as well as difficult custody and support issues. The firm's attorneys have a long-standing record of success handling matrimonial and family law cases.",
+    "notable_facts": [
+      "The firm is the successor to Schlissel Ostrow Karabatos, PLLC.",
+      "The founding partners have practiced law together for over 25 years.",
+      "The firm has attorneys who are fellows of the American Academy of Matrimonial Lawyers and Diplomates of the American College of Family Trial Lawyers.",
+      "The firm is recognized by Best Lawyers in America\u00a9, Martindale-Hubbell, and Super Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Elena Karabatos",
+        "title": "Partner",
+        "email": null,
+        "phone": "516-877-8000",
+        "linkedin_url": "https://www.linkedin.com/in/elena-karabatos-96458a109"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa Schoenfeld",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-877-8000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Rosenkrantz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph DeMarco",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

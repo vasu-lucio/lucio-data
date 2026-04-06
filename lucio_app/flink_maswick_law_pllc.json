@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Flink Maswick Law PLLC",
+    "website": "https://www.flinkmaswicklaw.com/",
+    "city": "Lake Placid",
+    "practice_areas": [
+      "Trusts/Estates/Wills",
+      "Civil Litigation",
+      "Insurance Coverage and Defense",
+      "Business and Corporate Law",
+      "Plaintiff's Personal Injury",
+      "Real Estate",
+      "Criminal and Vehicle & Traffic Law",
+      "Matrimonial and Family Law",
+      "Pistol Permit Matters",
+      "Product Liability",
+      "Tax Certiorari Matters",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Flink Maswick Law PLLC has two offices in the Adirondacks, one in Lake Placid, NY and one in Tupper Lake, NY, plus a Capital District office in Albany, NY (by appointment only). They represent individuals, companies, and insurance carriers in a diverse set of circumstances and situations.",
+    "notable_facts": [
+      "Combined Attorney Experience Over 140 years",
+      "Member of Million & Multi Million Dollar Advocates (Edward B. Flink)",
+      "Super Lawyers - Rated Attorneys (Flink, Maswick, and O'Sullivan)",
+      "Statewide Coverage"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Edward B. Flink",
+          "title": "Founding Member",
+          "email": "eflink@flinkmaswicklaw.com",
+          "phone": "518-786-1800",
+          "linkedin_url": null
+        },
+        {
+          "name": "James L. Maswick",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Molly S. Hann",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jill E. O'Sullivan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sheila Goss Duerr",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elliot J. Vanier",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

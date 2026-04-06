@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Marshall Dennehey",
+    "website": "https://marshalldennehey.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Civil Defense Litigation"
+    ],
+    "lawyer_count": 500,
+    "firm_description": "Marshall Dennehey is one of the nation's largest law firms devoted to civil defense litigation. They provide cost-effective, intelligent and pragmatic representation.",
+    "notable_facts": [
+      "The firm has attorneys across seven states and neighboring jurisdictions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "G. Mark Thompson",
+        "title": "President & CEO",
+        "email": "GMThompson@mdwcg.com",
+        "phone": "(215) 575-3570",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Colleen Bannon",
+        "title": "Chief Operating Officer",
+        "email": "CMBannon@mdwcg.com",
+        "phone": "(215) 575-2852",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Frank S. Stransky",
+          "title": "Chief Financial Officer",
+          "email": "fsstransky@mdwcg.com",
+          "phone": "(215) 575-2764",
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen D. Williams",
+          "title": "Director of Human Resources",
+          "email": "kdwilliams@mdwcg.com",
+          "phone": "(215) 575-3563",
+          "linkedin_url": null
+        },
+        {
+          "name": "Chris Hansen",
+          "title": "Director of e-Discovery and Litigation Support",
+          "email": "CDHansen@MDWCG.com",
+          "phone": "(215) 575-2596",
+          "linkedin_url": null
+        },
+        {
+          "name": "James H. Cole",
+          "title": "Director, Professional Liability Department",
+          "email": "JHCole@mdwcg.com",
+          "phone": "(215) 575-2635",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

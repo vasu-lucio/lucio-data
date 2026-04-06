@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Durante, Bock & Tota, PLLC",
+    "website": "https://www.dbtlaw.net/",
+    "city": "Yorktown Heights",
+    "practice_areas": [
+      "Personal Injury",
+      "Family Law / Matrimonial",
+      "Collaborative Law / Mediation",
+      "Real Estate Law",
+      "Business Law",
+      "Criminal Law / V&T",
+      "Landlord / Tenant Law",
+      "Wills / Estate Administration / Probate"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Durante, Bock & Tota, PLLC is a law firm in Yorktown Heights, New York providing comprehensive legal services across a wide range of practice areas. They are committed to helping meet all of your legal needs.",
+    "notable_facts": [
+      "Benefit From More Than 100 Years Of Combined Legal Experience",
+      "AV | Martindale-Hubbell | Preeminent | For Ethical Standards & Legal Ability",
+      "The Yorktown | Chamber of Commerce | Yorktown 2020 | Business of The Year",
+      "BBB | Accredited Business | A+"
+    ],
+    "technology_signals": [
+      "Adobe Launch",
+      "All in One SEO",
+      "Invoca",
+      "Cloudflare",
+      "WordPress"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Aaron C. Bock",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel R. Tota",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Albert J. Durante",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine M. Schulman",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin G. Theofield",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Taylor Eldridge & Endres P.C.",
+    "website": "http://www.taylor-eldridge.com/",
+    "city": "Long Island",
+    "practice_areas": [
+      "Community Association Law",
+      "Real Estate Law",
+      "Landlord-Tenant Law",
+      "Commercial & Civil Disputes",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Taylor, Eldridge & Endres, P.C. is a Long Island law firm committed to building lasting relationships with clients, offering personalized attention and proactive guidance in areas such as community association law, real estate, and litigation. They provide timely, efficient, and cost-effective legal solutions.",
+    "notable_facts": [
+      "Edward M. Taylor was a founding member and past President of the Long Island Chapter of the Community Associations Institute (CAI).",
+      "Edward M. Taylor was named a fellow of the College of Community Association Lawyers (CCAL).",
+      "J. David Eldridge serves as Special Counsel for the Village of Mastic Beach."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "J. David Eldridge",
+          "title": "Esq.",
+          "email": "David@taylor-eldridge.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward M. Taylor",
+          "title": "Esq. (Ret.)",
+          "email": "Edward@taylor-eldridge.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

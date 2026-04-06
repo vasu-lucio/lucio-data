@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Kommer Bave & Ciccone LLP",
+    "website": "https://kbcattorneys.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Personal Injury",
+      "Civil Litigation",
+      "Trusts and Estates",
+      "Elder Law",
+      "Guardianship",
+      "Special Needs Planning",
+      "Surrogates Court Litigation",
+      "Business Law",
+      "Family Law",
+      "Real Estate Transactions"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Kommer Bave & Ciccone LLP is a general practice law firm dedicated to the prosecution and defense of personal injury claims and litigation, civil litigation, trusts and estates, elder law, guardianship, special needs planning, Surrogates Court litigation, business law, family law and real estate transactions.",
+    "notable_facts": [
+      "Attorneys are admitted to practice in New York, Connecticut, New Jersey and Pennsylvania.",
+      "The firm has satellite offices in Manhattan, Scarsdale, Mt. Kisco, Greenwich, CT, and Stamford CT."
+    ],
+    "technology_signals": [
+      "juris"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Patricia A. Bave",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Jake Kommer",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rachel F. Ciccone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John S. Kommer",
+          "title": "Partner",
+          "email": "jkommer@KBCattorneys.com",
+          "phone": "914-633-7400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joann D\u2019Emilio",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley Fertig",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Regina Matos",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Sheeley LLP",
+    "website": "https://sheeleyllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation Defense",
+      "Medical Malpractice",
+      "Nursing Home and Long-Term Care",
+      "Premises Liability",
+      "Construction Defect",
+      "Products Liability",
+      "Managed Care",
+      "Allied Health",
+      "Business Matters",
+      "Podiatry Malpractice",
+      "Professional Liability",
+      "General Liability",
+      "Directors and Officers",
+      "Restaurant, Hospitality and Sporting Venues",
+      "Risk & Crisis Management",
+      "Appellate",
+      "Architects & Engineers",
+      "Professional Discipline",
+      "Dental Malpractice",
+      "Automobile Negligence",
+      "Toxic Torts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sheeley LLP is a full service litigation law firm representing major hospital systems, nursing homes, assisted living facilities, managed care organizations, and other post-acute care providers, as well as individual physicians and medical professionals. The firm also provides risk and loss management services to nursing home facility client across the country.",
+    "notable_facts": [
+      "The firm maintains its main office in Manhattan with satellite offices on Long Island, Westchester, Buffalo, New Jersey and Pennsylvania.",
+      "Sheeley offers legal solutions to professionals and businesses across a broad spectrum of industries and locations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew T. Sheeley",
+        "title": "Managing Partner",
+        "email": "sheeley@sheeleyllp.com",
+        "phone": "646-893-2273",
+        "linkedin_url": "https://www.linkedin.com/company/sheeley-llp"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nicole Atlas",
+          "title": "Partner",
+          "email": "atlas@sheeleyllp.com",
+          "phone": "646-887-9245",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Cooperman",
+          "title": "Partner",
+          "email": "cooperman@sheeleyllp.com",
+          "phone": "646-494-9732",
+          "linkedin_url": null
+        },
+        {
+          "name": "Wayne E. Cousin",
+          "title": "Partner",
+          "email": "cousin@sheeleyllp.com",
+          "phone": "646-491-6489",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

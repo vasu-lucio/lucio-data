@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Bruno, Gerbino, Soriano & Aitken, LLP",
+    "website": "https://bgslaw-ny.com/",
+    "city": "Melville",
+    "practice_areas": [],
+    "lawyer_count": 35,
+    "firm_description": "Bruno, Gerbino, Soriano & Aitken, LLP, has provided legal services for over 20 years with offices in central Long Island, northern New Jersey and Buffalo, NY. The firm handles litigation in all New York State and federal courts, as well as Nassau, Suffolk, Westchester, Rockland and Orange Counties and New Jersey.",
+    "notable_facts": [
+      "Starting Jan. 1, 2020, the firm became BRUNO, GERBINO SORIANO & Aitken, LLP.",
+      "In 2022 the firm was selected as one of only 10 members of the Coalition Against Insurance Fraud in the nation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vincent F. Gerbino",
+          "title": "Founding Partner",
+          "email": "vgerbino@bgslaw-ny.com",
+          "phone": "631-390-0010 (ext. 106)",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael A. Soriano",
+          "title": "Partner",
+          "email": "msoriano@bgslaw-ny.com",
+          "phone": "631-390-0010 (ext. 111)",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard C. Aitken",
+          "title": "Partner",
+          "email": "raitken@bgslaw-ny.com",
+          "phone": "631-390-0010 (ext. 219)",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dianne M. Galluzzo",
+          "title": "Partner",
+          "email": "dgalluzzo@bgslaw-ny.com",
+          "phone": "631-390-0010 (ext. 116)",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Hunczak",
+          "title": "Partner",
+          "email": "dhunczak@bgslaw-ny.com",
+          "phone": "(631) 390-0010 ext. 601",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

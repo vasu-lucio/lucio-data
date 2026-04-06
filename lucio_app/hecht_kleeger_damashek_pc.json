@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Hecht, Kleeger & Damashek, P.C.",
+    "website": "https://lawyer1.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Construction Accidents",
+      "Car Accidents",
+      "Premises Liability",
+      "Product Liability",
+      "Medical Malpractice",
+      "Civil Rights Claims",
+      "Municipal Liability"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Hecht, Kleeger & Damashek, P.C. is a New York City-based law firm dedicated to serving the needs of victims and their families, focusing on personal injury cases. The firm provides personal attention to clients while striving to obtain large settlements and judgments.",
+    "notable_facts": [
+      "The firm has recovered over $825 million in verdicts and settlements for clients.",
+      "Hecht, Kleeger & Damashek was founded in 1999.",
+      "The firm was named as one of the best law firms in New York City by U.S. News & World Report.",
+      "Hecht Kleeger & Damashek has recovered more than $150 million in settlements for their clients in the last 12 years alone."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jordan Hecht",
+          "title": "Partner",
+          "email": "hecht@lawyer1.com",
+          "phone": "646.365.0342",
+          "linkedin_url": "https://www.linkedin.com/in/jordan-hecht-b47978b2"
+        },
+        {
+          "name": "Jonathan Damashek",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Judd Kleeger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea V. Borden",
+          "title": "Partner",
+          "email": "borden@lawyer1.com",
+          "phone": "212.490.5700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Rudick",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Bialor",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Free + Fair Litigation Group",
+    "website": "https://www.freeandfair.org/",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Free + Fair develops and leads high-impact litigation to stop the advance of authoritarianism in the U.S. They are a 501c3 nonprofit organization that works completely pro bono.",
+    "notable_facts": [
+      "The organization litigates to protect the rule of law.",
+      "They partner with pro bono teams at private law firms and other non-profit organizations.",
+      "Free + Fair does not participate in public advocacy, lobbying, research, or litigation that seeks individual, financial, or incremental results."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Carey R. Dunne",
+          "title": "Founder + Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark F. Pomerantz",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Bee Ready Fishbein Hatter & Donovan, LLP",
+    "website": "https://beereadylaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Labor and Employment Law",
+      "Commercial Litigation",
+      "Residential and Commercial Real Estate",
+      "Negligence Defense Litigation",
+      "Corporate Law",
+      "Criminal Law",
+      "Municipal Law"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Bee Ready Fishbein Hatter & Donovan, LLP is a law firm with over twenty attorneys, providing personal service to clients in three primary practice groups: labor/municipal/employment, litigation, and real estate. The firm's attorneys appear at all levels of state and federal courts.",
+    "notable_facts": [
+      "Founded in 1980 by Peter A. Bee.",
+      "The firm has three primary practice groups: Labor/Municipal/Employment, Litigation, and Real Estate."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Stephen Martir",
+        "title": "Managing Partner",
+        "email": "smartir@beereadylaw.com",
+        "phone": "516-746-5599",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter A. Bee",
+          "title": "Senior Partner",
+          "email": "pbee@beereadylaw.com",
+          "phone": "516-746-5599",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Laura Hansen",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard P. Ready",
+          "title": "Senior Partner",
+          "email": "rready@beereadylaw.com",
+          "phone": "516-746-5599",
+          "linkedin_url": null
+        },
+        {
+          "name": "William C. DeWitt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

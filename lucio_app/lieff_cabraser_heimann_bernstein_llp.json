@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Lieff Cabraser Heimann & Bernstein, LLP",
+    "website": "http://www.lieffcabraser.com",
+    "city": "San Francisco",
+    "practice_areas": [
+      "Personal Injury",
+      "Product Liability",
+      "Securities",
+      "Antitrust",
+      "Consumer Protection",
+      "Environmental Law",
+      "Employment Law"
+    ],
+    "lawyer_count": 140,
+    "firm_description": "Lieff Cabraser Heimann & Bernstein, LLP, is a 135+ attorney AV-rated law firm founded in 1972 with offices in San Francisco, New York, Nashville, and Munich that represents plaintiffs in complex litigation.",
+    "notable_facts": [
+      "The firm has served as Court-appointed Plaintiffs\u2019 Lead or Class Counsel in many hundreds of state and federal coordinated, multi-district, and complex litigations throughout the United States.",
+      "Lieff Cabraser is among the largest firms in the country that only represent plaintiffs.",
+      "The firm has litigated and resolved hundreds of class action lawsuits and thousands of individual cases.",
+      "Lieff Cabraser has played a significant role in achieving verdicts and settlements valued at $100 million or greater in 93 separate cases, including 30 cases with recoveries in excess of $1 billion."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Elizabeth J. Cabraser",
+          "title": "Partner",
+          "email": "ecabraser@lchb.com",
+          "phone": "415-956-1000",
+          "linkedin_url": "http://www.lawdragon.com/lawyers/lieff-cabraser/elizabeth-j-cabraser"
+        },
+        {
+          "name": "Michael W. Sobol",
+          "title": "Partner",
+          "email": "msobol@lchb.com",
+          "phone": "415-956-1000",
+          "linkedin_url": "http://www.lawdragon.com/lawyers/lieff-cabraser/michael-w-sobol"
+        },
+        {
+          "name": "Katherine McBride",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "http://www.lawdragon.com/lawyers/lieff-cabraser/katherine-mcbride"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

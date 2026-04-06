@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Silberstein & Miklos, P.C.",
+    "website": "https://ask4sam.net/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Car Accident",
+      "Construction Accident",
+      "Medical Malpractice",
+      "Personal Injury",
+      "Nursing Home Abuse",
+      "Wrongful Death",
+      "Premises Liability",
+      "Product Liability",
+      "Slip and Fall",
+      "Train Accident",
+      "Truck Accident",
+      "Brain Injuries",
+      "Spinal Cord Injuries",
+      "Dog Bites",
+      "Assault Injuries",
+      "Uber & Lyft Accidents"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Silberstein & Miklos, P.C. is committed to the highest standards of professional performance, service and ethics to ensure that our clients' legal matters are managed compassionately and expeditiously. The firm handles cases involving medical malpractice, personal injury, and construction site accidents.",
+    "notable_facts": [
+      "The firm was founded in 1980.",
+      "Joseph Awad and Joseph Miklos have received Martindale-Hubbell's AV Preeminent rating.",
+      "The firm was ranked Tier 1 for Medical Malpractice Law and Personal Injury Litigation in New York City by U.S. News - Best Lawyers \"Best Law Firms\"."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph Miklos",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/ask4sam"
+        },
+        {
+          "name": "Jerome D. Silberstein",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Awad",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert A. Miklos",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel P. Miklos",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

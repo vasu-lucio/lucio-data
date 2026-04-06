@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "The Cook Group Legal Litigation Attorneys",
+    "website": "https://cookgrouplegal.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Litigation"
+    ],
+    "lawyer_count": 60,
+    "firm_description": "The Cook Group is a minority & women-owned law firm committed to client service with formidable legal talent across multiple jurisdictions and disciplines. They focus on modernizing and streamlining practices to more efficiently serve their clients while aggressively advancing and protecting their clients\u2019 interests.",
+    "notable_facts": [
+      "The Cook Group is a minority & women-owned law firm.",
+      "The firm was founded in 2020.",
+      "The firm has offices in New York City, Buffalo, Chicago, Ft. Lauderdale, Los Angeles, Morgantown, Philadelphia, Pittsburgh and St. Louis."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kerryann M. Cook",
+        "title": "Founding Partner, Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/kerryann-cook-57823986"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Cate E. Bell",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Casimir",
+          "title": "Founding Partner, Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Noah Oliphant",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Campbell Rankin",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine D. Calareso",
+          "title": "Managing Partner - California",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joe Hargraves",
+          "title": "Managing Partner - St. Louis Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jackie Miller",
+          "title": "Managing Partner - Chicago Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Liza Stagliano",
+          "title": "Managing Partner - Philadelphia",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hanson D. Horn",
+          "title": "Trial Attorney, Managing Partner - Fort Lauderdale",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

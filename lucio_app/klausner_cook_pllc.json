@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Klausner Cook, PLLC",
+    "website": "https://www.klausnercook.com/",
+    "city": "Ithaca",
+    "practice_areas": [
+      "Real Estate",
+      "Business",
+      "Finance",
+      "Litigation",
+      "Intellectual Property",
+      "Trust and Estate Planning",
+      "Hospitality",
+      "Banking and Finance"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Klausner Cook, PLLC, is a full-service firm with a boutique feel. We offer a wide array of services in real estate, business, finance, litigation, intellectual property, trust and estate planning, and hospitality in Ithaca, NY.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Nate Cook",
+          "title": "Partner",
+          "email": "nate@klausnercook.com",
+          "phone": "607-234-3605",
+          "linkedin_url": "https://www.linkedin.com/in/nathan-cook-28041311"
+        },
+        {
+          "name": "Adam Klausner",
+          "title": "Partner",
+          "email": "adam@klausnercook.com",
+          "phone": "607-234-3598",
+          "linkedin_url": "https://www.linkedin.com/in/adam-klausner-esq-53689a26/"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan O. Albanese",
+          "title": "Senior COUNSEL",
+          "email": "jon@klausnercook.com",
+          "phone": "607-272-0800",
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-albanese-89a89220/"
+        },
+        {
+          "name": "Rob Gregor",
+          "title": "Of Counsel",
+          "email": "rob@klausnercook.com",
+          "phone": "607-272-0800",
+          "linkedin_url": "https://www.linkedin.com/in/robgregor/"
+        },
+        {
+          "name": "Aleksandar Nikolic",
+          "title": "Of Counsel",
+          "email": "aleks@klausnercook.com",
+          "phone": "607-272-0800",
+          "linkedin_url": "https://www.linkedin.com/in/aleksandar-nikolic-58494110/"
+        },
+        {
+          "name": "Michael Veruto",
+          "title": "OF COUNSEL",
+          "email": "michael@klausnercook.com",
+          "phone": "607-272-0800",
+          "linkedin_url": "https://www.linkedin.com/in/michael-veruto-8751b812/"
+        },
+        {
+          "name": "Nick McLaughlin",
+          "title": "senior Associate",
+          "email": "nick@klausnercook.com",
+          "phone": "607-234-3603",
+          "linkedin_url": "https://www.linkedin.com/in/nicholas-mclaughlin-85202a72/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

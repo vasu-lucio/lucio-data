@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Hecker Fink LLP",
+    "website": "https://www.heckerfink.com/",
+    "city": "New York",
+    "practice_areas": [
+      "White Collar Criminal Defense",
+      "Complex Appellate Litigation",
+      "Business Disputes",
+      "Employment and Discrimination",
+      "Harassment",
+      "Title VII",
+      "Title IX matters",
+      "Commercial Litigation",
+      "FCPA",
+      "Corporate Crime and Investigations",
+      "Higher Education"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "Hecker Fink LLP is a nationally recognized litigation boutique known for handling the most complex and high-stakes matters. The firm represents clients in significant litigation, investigations, and trials.",
+    "notable_facts": [
+      "Named \"Boutique Firm of the Year\" by Benchmark Litigation four times since 2019.",
+      "Recognized by Chambers and Legal 500 as having one of the country\u2019s top white collar defense practices.",
+      "The firm has offices in New York, Washington, D.C., and Los Angeles."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew J. Ceresney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John P. \u201cSean\u201d Hecker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan L. Fink",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Antonia M. Apps",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Valerie Katz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

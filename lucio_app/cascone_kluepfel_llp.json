@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Cascone & Kluepfel, LLP",
+    "website": "https://cklaw.com/",
+    "city": "Farmingdale",
+    "practice_areas": [
+      "Construction Accident Litigation",
+      "Contractual Indemnification",
+      "Insurance Coverage Issues",
+      "Municipal Liability",
+      "Premises Liability",
+      "Property Damage",
+      "Transportation Accidents",
+      "Toxic Torts",
+      "Liquor Liability",
+      "Products Liability",
+      "Professional Liability",
+      "Labor and Employment Law",
+      "Commercial Disputes",
+      "Commercial Transactions",
+      "Appellate Advocacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cascone & Kluepfel, LLP is a law firm with extensive experience in various areas, boasting a formidable track record of successful results. Their passion for excellence and genuine caring for their clients sets them apart from their competitors.",
+    "notable_facts": [
+      "Founded in 2001",
+      "Employs 19 people",
+      "Annual revenue of $11.5 million",
+      "Headquartered in Farmingdale, New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dave Kluepfel",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle Meiselman-sanpietro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Pagliuca",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Lauri",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ajay Bhavnani",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

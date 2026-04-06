@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen & Buckmann, P.C.",
+    "website": "https://cohenbuckmann.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Executive Compensation",
+      "Employee Benefits",
+      "Pensions",
+      "Fiduciary and Plan Governance",
+      "Employment Law",
+      "Corporate Law",
+      "Entrepreneurship"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cohen & Buckmann, P.C. provides advice on complex management negotiations, innovative global equity plan design, and creative pension plan solutions.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Sandra Cohen",
+        "title": "Founder and Managing Partner",
+        "email": "sandra@cohenbuckmann.com",
+        "phone": "212-489-9618(extension 1)",
+        "linkedin_url": "https://www.linkedin.com/in/sandra-w-cohen-44749112/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jeffrey Mamorsky",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carol Buckmann",
+          "title": "Founder and Partner, Fiduciary and Plan Governance Practice Chair",
+          "email": "carol@cohenbuckmann.com",
+          "phone": "212-489-9618(extension 2)",
+          "linkedin_url": "https://www.linkedin.com/in/carol-i-buckmann-22414614/"
+        },
+        {
+          "name": "Irene Bassock",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gretchen Harders",
+          "title": "Partner, Pensions and Employee Benefits Practice Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauri London",
+          "title": "Partner, Director of Investment Advisory Law Practice, Corporate Law, Employment and Executive Compensation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victoria Zerjav",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

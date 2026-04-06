@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Weiss Zarett Brofman Sonnenklar & Levy, P.C.",
+    "website": "https://www.weisszarett.com/",
+    "city": "New Hyde Park",
+    "practice_areas": [
+      "Real Estate Law",
+      "Litigation",
+      "Estate Planning",
+      "Employment Law",
+      "Business Law",
+      "Healthcare Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Weiss Zarett Brofman Sonnenklar & Levy, P.C. provides practical legal solutions and personal service to clients throughout New York, New Jersey, Pennsylvania, Washington, D.C., and Florida.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard J. Weiss",
+          "title": "Shareholder/Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David A. Zarett",
+          "title": "Shareholder/Director",
+          "email": null,
+          "phone": "(516) 926-3301",
+          "linkedin_url": "https://www.weisszarett.com/attorney/zarett-david-a/"
+        },
+        {
+          "name": "Michael D. Brofman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan H. Sonnenklar",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mathew J. Levy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

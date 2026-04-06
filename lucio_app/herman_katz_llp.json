@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Herman Katz, LLP",
+    "website": "https://www.hermankatz.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Valuation Law",
+      "Property Tax",
+      "Eminent Domain"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Herman Katz maximizes real estate tax benefits for its clients, representing every real estate asset class. The firm concentrates its practice in valuation law, helping clients reduce excessive real estate tax burdens.",
+    "notable_facts": [
+      "Founded in November 2005 by Jay M. Herman and Robert S. Katz.",
+      "Represents a broad range of properties throughout New York, including major office buildings, hotels, retail projects, and multifamily residential properties.",
+      "Offers advisory services for acquisition and development underwriting and due diligence."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jay M. Herman",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Katz",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer D. Hower",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Warren M. Dubitsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacquelyn L. Mascetti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

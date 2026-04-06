@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Gusrae Kaplan Nusbaum PLLC",
+    "website": "https://www.gusraekaplan.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Law",
+      "Corporate Law",
+      "Securities Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gusrae Kaplan Nusbaum PLLC is a Wall Street law firm specializing in securities law since 1975. They offer legal guidance through market cycles, providing solutions and advocacy with ethics.",
+    "notable_facts": [
+      "Named to BTI Consulting Group\u2019s list of \u201cMost Feared\u201d American law firms.",
+      "One of just two New York City Chambers and Partners \u201cSpotlight\u201d firms ranked for both Securities and Securities Litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Martin H. Kaplan",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence G. Nusbaum III",
+          "title": "Member, Head of Corporate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.gusraekaplan.com/larrynusbaum"
+        },
+        {
+          "name": "Kari Parks",
+          "title": "Member, Head of Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard DeVita",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy Feil",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

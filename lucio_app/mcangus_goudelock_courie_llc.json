@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "McAngus Goudelock & Courie LLC",
+    "website": "https://mgclaw.com/",
+    "city": "Columbia",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "General Litigation",
+      "Civil Litigation",
+      "Construction Litigation",
+      "Products Liability",
+      "Premises Liability",
+      "Insurance Litigation",
+      "ADR/Mediation",
+      "Transportation Law",
+      "Insurance Coverage",
+      "Professional Liability",
+      "Employment Law"
+    ],
+    "lawyer_count": 295,
+    "firm_description": "MGC is a metrics-driven law firm built specifically to serve the insurance industry, their insureds and self-insureds. The firm has over 330 lawyers and a strong team of legal and business professionals that focus on partnering with their clients to provide an innovative and client-centric solution.",
+    "notable_facts": [
+      "Founded in 1995",
+      "Recognized in The Best Lawyers in America\u00ae 2026 Edition",
+      "Serves clients from 11 states nationwide"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Hugh McAngus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "J Russell Goudelock",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay Courie",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Dana Eilrich",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Roland Hundley",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

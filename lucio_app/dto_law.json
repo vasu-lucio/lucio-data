@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "DTO Law",
+    "website": "https://dtolaw.com/",
+    "city": "Silicon Valley",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Transactions",
+      "Intellectual Property Litigation",
+      "Government Investigations and White Collar Litigation",
+      "Corporate Law and Finance",
+      "Complex Commercial Litigation and Arbitration",
+      "Commercial Technology and Outsourcing Transactions",
+      "Commercial Real Estate Transactions",
+      "Class Action Defense",
+      "Appellate Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "DTO Law is a modern litigation and transactional law firm with offices in Silicon Valley, New York, and Los Angeles. They solve client problems by creating superior work product as efficiently as possible.",
+    "notable_facts": [
+      "DTO Law was named among the 2025 Most Admired Law Firms to Work For.",
+      "The firm was launched in May 2019 by William Delgado, Megan O\u2019Neill, and Mark Tarango."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William Delgado",
+          "title": "Founding Partner",
+          "email": "wdelgado@dtolaw.com",
+          "phone": "213.335.7010",
+          "linkedin_url": "https://www.linkedin.com/in/william-delgado-8674b94/"
+        },
+        {
+          "name": "Megan O\u2019Neill",
+          "title": "Founding Partner",
+          "email": "moneill@dtolaw.com",
+          "phone": "213.840.7899",
+          "linkedin_url": "https://www.linkedin.com/in/megan-oneill-49376b4/"
+        },
+        {
+          "name": "Mark Tarango",
+          "title": "Founding Partner",
+          "email": "mtarango@dtolaw.com",
+          "phone": "213.335.7017",
+          "linkedin_url": "https://www.linkedin.com/in/mark-tarango-73994a4/"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Casey Bryan",
+          "title": null,
+          "email": "cbryan@dtolaw.com",
+          "phone": "213.335.7157",
+          "linkedin_url": "https://www.linkedin.com/in/casey-bryan-5449983/"
+        },
+        {
+          "name": "Shilpa A. Coorg",
+          "title": null,
+          "email": "scoorg@dtolaw.com",
+          "phone": "213.335.7069",
+          "linkedin_url": "https://www.linkedin.com/in/shilpa-coorg-849887a/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

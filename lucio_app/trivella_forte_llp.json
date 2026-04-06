@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Trivella & Forte, LLP",
+    "website": "https://www.tfsllp.com/",
+    "city": "White Plains",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Trivella & Forte, LLP is an Attorneys at Law firm with offices in New York, New Jersey, and Connecticut.",
+    "notable_facts": [
+      "The firm operates in the Tri-State area (NY, NJ, CT)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Scott P. Trivella",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.law360.com/firms/trivella-forte/attorneys/scott-p-trivella"
+        },
+        {
+          "name": "Arthur Joseph Muller",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denise Ann Forte",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher A Smith",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Robert Grisi",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "SRD Legal Group (Scanlon Rabinowitz & Davis Legal Group, PLLC)",
+    "website": "https://srdlegalgroup.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Legal Services"
+    ],
+    "lawyer_count": 70,
+    "firm_description": "SRD Legal Group is a women-owned and managed legal services firm that provides customized legal solutions for businesses of all sizes. They operate on a virtual model, attracting attorneys who desire greater flexibility.",
+    "notable_facts": [
+      "Fully women-owned and managed",
+      "Virtual operating model reduces overhead",
+      "Works with Fortune 500 companies and startups"
+    ],
+    "technology_signals": [
+      "Leverages the latest technology to create and deliver exceptional work",
+      "Uses a customized and secure cloud-based platform to manage legal workflows and access real-time data for tracking, reporting, and generating analytics"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Vanessa Cabellos Chavez",
+        "title": "Chief Administrative Officer (CAO)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Donna Mansfield",
+          "title": "Chief Strategy And Growth Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Larry Rabinowitz",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elissa Davis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ken Davis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Central American Legal Assistance",
+    "website": "https://centralamericanlegal.info/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Legal Services",
+      "Immigration",
+      "Asylum Cases",
+      "Civil Rights"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Central American Legal Assistance (CALA) provides free or low-cost legal services to New York\u2019s immigrant community. Their mission is to protect and defend Central and South American asylum-seekers and to expand the civil rights of all immigrants.",
+    "notable_facts": [
+      "Offers bi-lingual staff.",
+      "Provides advice, counseling, and legal representation to immigrants.",
+      "Founded in 1985."
+    ],
+    "technology_signals": [
+      "impact",
+      "visa",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Anne Pilsbury",
+          "title": "Founder and Senior Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Heather Axford",
+        "title": "Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Mulligan",
+          "title": "DOJ Accredited Representative",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

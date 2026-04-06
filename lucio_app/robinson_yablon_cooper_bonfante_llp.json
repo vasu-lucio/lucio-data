@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Robinson Yablon Cooper & Bonfante, LLP",
+    "website": "https://rycbinjury.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Auto Accident",
+      "Bicycle Accident",
+      "Catastrophic Accidents",
+      "Construction Accident",
+      "Food Borne Illnesses",
+      "Motorcycle Accident",
+      "Pedestrian Accident",
+      "Personal Injury",
+      "Product Liability",
+      "Premises Liability",
+      "Traumatic Brain Injuries",
+      "Vaccine Injuries",
+      "Wrongful Death"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Robinson Yablon Cooper & Bonfante, LLP is a boutique law firm in New York City, powered by an accomplished team of trial lawyers with significant experience in handling personal injury law. Their track record has resulted in hundreds of millions of dollars awarded through both verdicts and settlements for their injured clients.",
+    "notable_facts": [
+      "The firm has over 100 years of combined experience in handling personal injury law.",
+      "The firm serves all five boroughs of New York as well as Nassau and Suffolk Counties. They also serve personal injury clients in New Jersey."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lawrence T. Yablon",
+        "title": "Partner",
+        "email": "larry@rycbinjury.com",
+        "phone": "(212) 725-8566",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joel H. Robinson",
+          "title": "Partner",
+          "email": "joel@rycbinjury.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jared R. Cooper",
+          "title": "Partner",
+          "email": "jared@rycbinjury.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Bonfante III",
+          "title": "Partner",
+          "email": "charles@rycbinjury.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew R. Leder",
+          "title": "Partner",
+          "email": "andrew@rycbinjury.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

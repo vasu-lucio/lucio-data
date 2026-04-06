@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Tully Rinckey PLLC",
+    "website": "https://www.tullylegal.com/",
+    "city": "Albany, NY",
+    "practice_areas": [
+      "Federal Employment Law",
+      "Military Law",
+      "Security Clearance Representation",
+      "Family & Matrimonial Law",
+      "Employment Law",
+      "Corporate Law",
+      "Trusts and Estate Law",
+      "Immigration Law",
+      "Real Estate Law",
+      "Criminal Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tully Rinckey PLLC offers legal services to corporations, governments, small businesses, and individuals across the globe. Their attorneys provide counsel and tenacious representation to help clients achieve success.",
+    "notable_facts": [
+      "Offers legal assistance anytime, anywhere with state-of-the-art technology.",
+      "Has been recognized nationally for ingenuity and entrepreneurial excellence.",
+      "Rated one of the \u201cTop 50 Law Firms\u201d and one of the \u201cBest Places to Work\u201d by the Albany and Washington, D.C. Business Journals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Mathew B. Tully",
+          "title": "Founding Partner",
+          "email": "mtully@tullylegal.com",
+          "phone": "(518) 218-7100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Greg T. Rinckey",
+          "title": "Founding Partner",
+          "email": "grinckey@tullylegal.com",
+          "phone": "(518) 218-7100",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael W. Macomber",
+          "title": "Partner & Chief Executive Officer",
+          "email": "mmacomber@fedattorney.com",
+          "phone": "(518) 640-1244",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael C. Fallings",
+          "title": "Managing Partner",
+          "email": "mfallings@fedattorney.com",
+          "phone": "(512) 225-2822",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Friener",
+          "title": "Managing Partner",
+          "email": "pfriener@tullylegal.com",
+          "phone": "(512) 225-2806",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony J. Kuhn",
+          "title": "Managing Partner",
+          "email": "akuhn@fedattorney.com",
+          "phone": "716-272-3005",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean C. Timmons",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

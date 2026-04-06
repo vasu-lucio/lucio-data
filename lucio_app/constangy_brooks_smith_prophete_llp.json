@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Constangy, Brooks, Smith & Prophete, LLP",
+    "website": "https://www.constangy.com/",
+    "city": "Atlanta",
+    "practice_areas": [
+      "Labor and Employment",
+      "Cybersecurity and Data Privacy"
+    ],
+    "lawyer_count": 230,
+    "firm_description": "Constangy, Brooks, Smith & Prophete, LLP is a national law firm providing labor and employment law services, and has expanded into cybersecurity and data privacy. The firm has more than 230 attorneys across 21 states.",
+    "notable_facts": [
+      "Expanded offerings in 2023 to include cybersecurity and data privacy services.",
+      "Clients include Fortune 500 corporations, small companies, and nonprofit organizations.",
+      "Rated as a Tier 1 firm by the Best Law Firms survey."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Scott F. Southerland",
+        "title": "Chief Information Officer",
+        "email": "ssoutherland@constangy.com",
+        "phone": "404.230.6745",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Neil H. Wasser",
+          "title": "Chair of the Executive Committee",
+          "email": null,
+          "phone": "404.230.6782",
+          "linkedin_url": null
+        },
+        {
+          "name": "Teresa Rider Bult",
+          "title": "Administrative Partner and General Counsel to the Firm",
+          "email": null,
+          "phone": "615.340.3801",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean B. Hoar",
+          "title": "Partner",
+          "email": null,
+          "phone": "503.459.7707",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

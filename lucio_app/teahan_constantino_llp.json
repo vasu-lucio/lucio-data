@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Teahan & Constantino LLP",
+    "website": "https://tcnylaw.com/",
+    "city": "Poughkeepsie",
+    "practice_areas": [
+      "Tax Law",
+      "Estate Planning",
+      "Business Law",
+      "Real Estate Transactions"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Teahan & Constantino LLP is a Dutchess County, New York law firm that handles legal matters primarily in the areas of tax, estate planning and administration, business law, and real estate transactions. They emphasize a collegial approach, consulting with each other to solve complex legal problems.",
+    "notable_facts": [
+      "The firm consults with each other so that clients can benefit from the joint work of the lawyers.",
+      "The firm works with other attorneys and accountants to fix complex legal situations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James P. Constantino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent L. Teahan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cynthia Silverio",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emil D. Constantino",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elisabeth E. Constantino",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tess A. Toland",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,124 @@
+{
+  "firm_data": {
+    "firm_name": "Pachulski Stang Ziehl & Jones LLP",
+    "website": "https://pszjlaw.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Business Reorganizations & Workouts",
+      "Bankruptcy Litigation",
+      "Corporate",
+      "Business and Commercial Litigation",
+      "Corporate Reorganization",
+      "Bankruptcy and Insolvency Law",
+      "Insurance Insolvency",
+      "General Real Estate",
+      "Corporate and Transactional Matters"
+    ],
+    "lawyer_count": 74,
+    "firm_description": "Pachulski Stang Ziehl & Jones LLP is a law firm devoted primarily to corporate restructurings. They offer top-quality representation with offices in Los Angeles, New York, Delaware, Houston, and San Francisco.",
+    "notable_facts": [
+      "Recognized as one of the nation's top insolvency practices.",
+      "Largest law firm in the country devoted primarily to corporate restructurings.",
+      "Founded in 1983."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert Feinstein",
+        "title": "Managing Partner New York Office",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Malhar Pagay",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Pachulski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James O'neill",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Lucas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dean Ziehl",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Pomerantz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Dulberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ben Wallen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabriel Glazer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

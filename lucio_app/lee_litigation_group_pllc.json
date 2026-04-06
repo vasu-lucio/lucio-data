@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Lee Litigation Group, PLLC",
+    "website": "https://advancedlitigation.org/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Wage and Hour",
+      "Americans with Disabilities Act",
+      "Discrimination",
+      "Consumer Fraud Law",
+      "Class Action"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lee Litigation Group, PLLC is a full-service litigation law firm that focuses on class action lawsuits. They have experience navigating hundreds of cases in federal courts.",
+    "notable_facts": [
+      "The firm specializes solely in litigation.",
+      "The firm has extensive experience in class action lawsuits."
+    ],
+    "technology_signals": [
+      "Module Federation",
+      "Webpack",
+      "Google Fonts API",
+      "HTTP/3"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "C.K. Lee",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

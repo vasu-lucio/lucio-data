@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Cittone, Demers & Arneri LLP",
+    "website": "https://cdalawllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Entertainment",
+      "Corporate Governance",
+      "Employment",
+      "Media"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Cittone Demers & Arneri LLP is a bicoastal full suite legal boutique based in New York and San Francisco with a strong focus on intellectual property. Our transactional and litigation commercial work is underpinned by a vibrant public interest practice.",
+    "notable_facts": [
+      "Bicoastal firm with offices in New York and San Francisco",
+      "Strong focus on intellectual property",
+      "Vibrant public interest practice"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Henry Cittone",
+          "title": "Key Contact",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

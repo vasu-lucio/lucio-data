@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "STO Building Group",
+    "website": "https://stobuildinggroup.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction",
+      "Commercial Properties",
+      "Corporate Properties",
+      "General Contracting",
+      "Construction Management",
+      "Project Management"
+    ],
+    "lawyer_count": null,
+    "firm_description": "STO Building Group provides general contracting, construction management and project management services for commercial and corporate properties. Structure Tone serves the financial and commercial industries, as well as the academic, retail, science and technology, hospitality, healthcare, residential, law, mission critical, and government sectors.",
+    "notable_facts": [
+      "Founded in 1971 by Lewis Marino and Patrick Donaghy; today their families own the company."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Lewis Marino",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Donaghy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Greg Dunkle",
+        "title": "Chief Administration Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeff Rosenstein",
+          "title": "EVP, General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leah Ramos",
+          "title": "SVP, Director of Ethics, Compliance & Audit",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jerry Rosenheck",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

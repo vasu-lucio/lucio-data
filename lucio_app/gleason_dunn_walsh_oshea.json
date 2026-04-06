@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "GLEASON, DUNN, WALSH & O'SHEA, P.C.",
+    "website": "https://gdwo.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Appellate Practice",
+      "Bank and Lender Counsel",
+      "Business Formation and General Counsel",
+      "Commercial Litigation and Dispute Resolution",
+      "Commercial Transactions",
+      "Education Law",
+      "Government and Municipal Law",
+      "Insurance Law",
+      "Labor & Employment Law",
+      "Medical Practice",
+      "Trusts & Estates and Elder Law"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Gleason, Dunn, Walsh & O\u2019Shea is committed to providing excellence in legal representation. Located in New York\u2019s capital \u2013 Albany, our highly skilled and experienced attorneys are admitted to all state and federal courts in New York, as well as Connecticut, and the United States Supreme Court.",
+    "notable_facts": [
+      "Founded in 1988",
+      "AV\u00ae Peer Review Rated law firm",
+      "Attorneys are active members of many leading professional organizations and frequent lecturers for bar associations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jack P. Calareso",
+        "title": "Managing Principal",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Cheryl (Cheri) Bardin",
+        "title": "Firm Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nancy S. Alexander",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/nancy-s-alexander-69694318"
+        },
+        {
+          "name": "Lisa F. Joslin",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/lisa-f-joslin-48916b10"
+        },
+        {
+          "name": "Michael L. Kinum",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/michael-kinum-9746b020"
+        },
+        {
+          "name": "Ronald G. Dunn",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/ronald-dunn-9244a121"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

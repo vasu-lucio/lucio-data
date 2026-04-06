@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "SILVERSON PARERES & LOMBARDI LLP",
+    "website": "https://splllp.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Litigation",
+      "Employment Law",
+      "Professional Liability"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "SILVERSON, PARERES & LOMBARDI, LLP is a law practice company based out of White Plains, New York. The firm's attorneys at law specialize in several practice areas to serve their clients.",
+    "notable_facts": [
+      "The firm employs 5 people.",
+      "Joseph Marchese is a Partner at the firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph T. Pareres",
+        "title": "Managing General Partner",
+        "email": "jpareres@splllp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Victoria A. Lombardi",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert M. Silverson, Jr.",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nancy I. Maltin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig J. Kamback",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rachel H. Poritz",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph C. Marchese",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah E. Phillips",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

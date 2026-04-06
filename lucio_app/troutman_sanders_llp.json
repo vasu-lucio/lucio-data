@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Troutman Pepper Locke",
+    "website": "https://troutman.com/",
+    "city": "Atlanta",
+    "practice_areas": [
+      "Energy",
+      "Financial Services",
+      "Health Care + Life Sciences",
+      "Insurance + Reinsurance",
+      "Private Equity",
+      "Real Estate"
+    ],
+    "lawyer_count": 1600,
+    "firm_description": "Troutman Pepper Locke helps clients solve complex legal challenges and achieve their business goals in an ever-changing global economy. The client experience they deliver \u2014 from being ahead of the curve in your industry, starting closer to the answer, finding the best way forward, and creating more value \u2014 aims to make a tangible and lasting difference for you and your business.",
+    "notable_facts": [
+      "Named Lawdragon Names Three Partners as Leading Global Bankruptcy and Restructuring Lawyers in 2026",
+      "Recognized Across Multiple Categories in 2026 Southeastern Legal Awards",
+      "Launched Industry-First Integration of Thomson Reuters Deep Research Into Firm\u2019s Proprietary AI Agent"
+    ],
+    "technology_signals": [
+      "Integration of Thomson Reuters Deep Research Into Firm\u2019s Proprietary AI Agent",
+      "eMerge and Antonio Avant for Leadership in AI-Powered Case Strategy"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Amie V. Colby",
+        "title": "Managing Partner",
+        "email": "amie.colby@troutman.com",
+        "phone": "202.274.2922",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Firm launched Industry-First Integration of Thomson Reuters Deep Research Into Firm\u2019s Proprietary AI Agent, Relativity Honors Troutman eMerge and Antonio Avant for Leadership in AI-Powered Case Strategy"
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas J. Cole, Jr.",
+          "title": "Chair",
+          "email": "thomas.cole@troutman.com",
+          "phone": "215.981.4507",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley L. Taylor, Jr.",
+          "title": "Vice Chair",
+          "email": "ashley.taylor@troutman.com",
+          "phone": "202.274.2944",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Taylor",
+          "title": "Vice Chair",
+          "email": "david.taylor@troutman.com",
+          "phone": "713.226.1496",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

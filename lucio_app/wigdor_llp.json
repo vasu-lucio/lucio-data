@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Wigdor LLP",
+    "website": "https://www.wigdorlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Litigation",
+      "Sexual Harassment & Assault",
+      "Criminal Law",
+      "Sports and Entertainment Law",
+      "Civil Rights",
+      "Catastrophic Torts",
+      "Wage and Hour"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wigdor LLP is a leading employment law firm specializing in litigating complex cases, representing individual executives as well as current and former employees in a variety of employment law matters. The firm is known for representing survivors of unlawful employment practices, sexual harassment and sexual assault.",
+    "notable_facts": [
+      "Recovered over $1.5 billion on behalf of clients",
+      "Recognized by Chambers and Partners in the category of New York Labor and Employment: Mainly Plaintiffs Representation",
+      "Settled the vast majority of its cases, often before a complaint is ever filed",
+      "Represented clients in high-profile cases against large corporations"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Douglas H. Wigdor",
+          "title": "Founding Partner",
+          "email": "dwigdor@wigdorlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeanne M. Christensen",
+          "title": "Partner",
+          "email": "jchristensen@wigdorlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meredith A. Firetog",
+          "title": "Partner",
+          "email": "mfiretog@wigdorlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Gottlieb",
+          "title": "Partner",
+          "email": "dgottlieb@wigdorlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Valdi Licul",
+          "title": "Partner",
+          "email": "vlicul@wigdorlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence M. Pearson",
+          "title": "Partner",
+          "email": "lpearson@wigdorlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Willemin",
+          "title": "Partner",
+          "email": "mwillemin@wigdorlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

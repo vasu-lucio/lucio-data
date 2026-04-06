@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Kutner Corrado & Friedrich, LLP",
+    "website": "https://www.kutnerfriedrich.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "Administrative Hearings Defense",
+      "Dental Malpractice Defense",
+      "Insurance Law Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kutner, Corrado & Friedrich, LLP is the trusted defender of medical professionals across Long Island and New York City. With over 65 years of combined experience, they provide robust and strategic defense for insurance companies, their insureds, and individuals requiring administrative or license assistance.",
+    "notable_facts": [
+      "The firm represents MLMIC in Long Island and New York City.",
+      "The firm has over 65 years of combined experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles Everett Kutner",
+          "title": null,
+          "email": null,
+          "phone": "212-308-0210",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce R. Friedrich",
+          "title": null,
+          "email": "bfriedrich(a)ckutner.com",
+          "phone": "212-308-0210",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cheryl Zimmerli",
+          "title": null,
+          "email": null,
+          "phone": "212-471-5122",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Khavkin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Paul Krajewski",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

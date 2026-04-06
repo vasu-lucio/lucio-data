@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Podell, Schwartz, Schechter & Banfield, LLP",
+    "website": "http://www.pssb-law.com/",
+    "city": "Manhattan",
+    "practice_areas": [
+      "Real Property Tax Assessment",
+      "Abatement",
+      "Exemption Matters"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Podell, Schwartz, Schechter & Banfield, LLP concentrates its practice of law in the reduction of real property taxes by administrative and legal proceedings to reduce assessments and by securing and maintaining appropriate real property tax exemptions and abatements. The firm is headquartered in Manhattan and serves clients located throughout the United States.",
+    "notable_facts": [
+      "The firm was established by the merger of Podell, Rothman, Schechter & Banfield, LLP and Schwartz, Weiss, Steckler, Hoffman & Hade, P.C., New York's two largest tax certiorari law firms.",
+      "The firm represents the individual and institutional owners of thousands of commercial, residential, retail and industrial properties in New York State alone.",
+      "Many of the firm's attorneys serve on national, state and local bar associations and committees, and have written and lectured on issues involving real property valuation and the administration and review of tax assessments."
+    ],
+    "technology_signals": [
+      "Advanced computerized property database"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William E. Banfield",
+          "title": "Partner, CRE",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allan C. Schwartz",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Schuller",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald Santopadre",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul V. Greco",
+          "title": "Partner, C.P.A.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

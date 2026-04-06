@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Phillips Nizer LLP",
+    "website": "https://www.phillipsnizer.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Corporate Law",
+      "Litigation & Arbitration",
+      "Intellectual Property Law",
+      "Trademarks",
+      "Copyrights",
+      "Licensing",
+      "Fashion Law",
+      "Real Estate Law",
+      "Environmental Law",
+      "Land Use & Government Relations",
+      "Trusts & Estates Law",
+      "Tax Law",
+      "Immigration Law",
+      "Securities Law",
+      "Private Placement",
+      "Fund Formation",
+      "Employment Law",
+      "Labor Law",
+      "Entertainment Law",
+      "Technology Law",
+      "Internet Law",
+      "Cyber Security",
+      "Family Law",
+      "Matrimonial Law",
+      "International",
+      "White Collar Criminal Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Phillips Nizer delivers sophisticated legal services at cost-effective rates, giving our clients peace of mind by fiercely safeguarding and promoting their interests at every turn. The firm is a full-service, mid-size law firm representing domestic and international clients.",
+    "notable_facts": [
+      "Founded in 1926 by Louis Nizer and Louis Phillips.",
+      "Member of Ally Law, an international legal network.",
+      "Achieved Midsize Mansfield Certification \"Plus\" status."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marc Landis",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/phillips-nizer-llp/org-chart/marc-landis"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Louis Nizer",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis Phillips",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": "Chief Talent Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Katherine Mendez",
+          "title": "Chief Talent Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Spencer Brodsky",
+          "title": "Information Technology Support Specialist",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

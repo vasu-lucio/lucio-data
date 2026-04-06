@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Walsh & Amicucci LLP",
+    "website": "https://www.walsh-amicucci.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Estate Planning",
+      "Elder Law",
+      "Special Needs Planning",
+      "Small Business",
+      "Real Estate",
+      "Estate and Gift Tax",
+      "Nonprofit Organizations",
+      "Estate Administration",
+      "Trust Administration and Modification",
+      "Medicaid Planning",
+      "Guardianship",
+      "Corporate Formation and Representation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Walsh & Amicucci LLP is a boutique Westchester Trusts & Estates Law Firm providing high-quality, professional legal services for families and small businesses throughout the New York City metro area. They focus on issues that matter most to their clients, offering big city professionalism with small town personal attention.",
+    "notable_facts": [
+      "Firm founded in 1998",
+      "Located in White Plains, New York",
+      "Serving the New York City metro area, including Westchester, Manhattan, Bronx, Queens, Kings, Richmond, Rockland, Putnam, Dutchess, Orange, Ulster, Nassau and Suffolk Counties"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Karen J. Walsh",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul G. Amicucci",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gianni Oppedisano",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katrina E. Waizer",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emily P. Kahn",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristina Newman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine S. Jedlicka",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

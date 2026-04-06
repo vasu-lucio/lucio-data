@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Queens District Attorney's Office",
+    "website": "https://queensda.org/",
+    "city": "Queens, New York",
+    "practice_areas": [
+      "Law Enforcement"
+    ],
+    "lawyer_count": 454,
+    "firm_description": "The Queens District Attorney's Office is a law enforcement agency in Queens, New York, led by District Attorney Melinda Katz. It is dedicated to fairness, public safety, and equal justice for the diverse communities of Queens.",
+    "notable_facts": [
+      "Melinda Katz is the first woman elected as Queens County District Attorney.",
+      "The office employs 454 people and has an annual revenue of $19.6 million."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Melinda Katz",
+        "title": "District Attorney",
+        "email": "info@queensda.org",
+        "phone": "718.286.6000",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Charles Jackson",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer L. Naiburg",
+          "title": "Chief Assistant District Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wendy Erdly",
+          "title": "Chief of Staff",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Theresa Shanahan",
+          "title": "Executive Assistant District Attorney for the Criminal Practice and Policy Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Charles",
+    "to_title": "Chief Information Officer",
+    "to_email": null,
+    "subject": "AI for Queens DA \u2014 built for law enforcement tech leaders",
+    "body": "Hi Charles,\n\nWith 454 staff managing Queens' most complex criminal cases, your office faces technology demands that rival BigLaw firms\u2014but with public sector constraints. We've been tracking how DA offices like yours are modernizing case management and evidence handling.\n\nI lead business at Lucio, an AI platform built for lean legal teams that need enterprise-grade capabilities. We recently raised $5M, and offices across 9 jurisdictions have chosen us because we understand the specific reality of public defenders and prosecutors: precision, chain-of-custody integrity, and efficiency under pressure.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional law enforcement technology leaders. I'd be happy to visit your office to show how we're helping similar organizations compete with commercial legal tech vendors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
+}

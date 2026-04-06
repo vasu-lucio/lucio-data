@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Newman Myers Kreines Harris, P.C.",
+    "website": "https://www.newmanmyers.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate Practice",
+      "Commercial Practice",
+      "Construction & Related Accidents & Claims",
+      "Environmental Claims Litigation",
+      "Premises Liability",
+      "Trucking & Vehicular Claims Litigation",
+      "Cable Communications Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Newman Myers Kreines Harris, P.C. provides representation for Appellate Practice, Commercial Practice, Construction & Related Accidents & Claims, Environmental Claims Litigation, Premises Liability, Trucking & Vehicular Claims Litigation, and Cable Communications Litigation in the states of New York and New Jersey. The firm is focused solely on the needs of their clients and provide professional and effective representation.",
+    "notable_facts": [
+      "The firm offers free consultations.",
+      "They have a thorough understanding of New York and New Jersey state law.",
+      "They pride themselves on developing real connections with clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jan Kevin Myers",
+          "title": null,
+          "email": "jmyers(a)nmkgh.com",
+          "phone": "(212) 619-4350",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles W. Kreines",
+          "title": null,
+          "email": null,
+          "phone": "(212) 384-7010",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ian Foster Harris",
+          "title": null,
+          "email": "iharris(a)nmkgh.com",
+          "phone": "(212) 619-4350",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew David Zaleski",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Antonia Sophia Parsons",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

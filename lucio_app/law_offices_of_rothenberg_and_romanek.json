@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "The Rothenberg Law Firm LLP",
+    "website": null,
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Personal Injury",
+      "Product Liability",
+      "Medical Malpractice",
+      "Defective Drugs",
+      "Toxic Torts",
+      "Construction Accidents",
+      "Nursing Home Abuse and Neglect"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Rothenberg Law Firm LLP, founded by Allen L. Rothenberg, Esq., is one of the leading personal injury law firms in the United States and has won and collected billions of dollars for thousands of clients involved in accidents of every description. As a result of groundbreaking litigation by The Rothenberg Firm, defective products have been reformulated by manufacturers, dangerous medical procedures have been abandoned, and safety in the workplace has increased.",
+    "notable_facts": [
+      "The firm was founded in 1969.",
+      "The firm has offices in Philadelphia, New York City, Hackensack, Cherry Hill, and Lakewood, NJ.",
+      "The firm handles major injury litigation cases nationwide in conjunction with affiliates and local co-counsel."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Allen L. Rothenberg",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/allen-rothenberg-27979787"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc Rothenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/marcjrothenberg"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

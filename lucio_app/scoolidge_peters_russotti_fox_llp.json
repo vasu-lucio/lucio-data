@@ -1,0 +1,128 @@
+{
+  "firm_data": {
+    "firm_name": "Scoolidge, Peters, Russotti & Fox, LLP",
+    "website": "https://www.sprfllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Fashion and Beauty",
+      "Media & Entertainment",
+      "Technology",
+      "Commercial Transactions",
+      "Licensing",
+      "IP Protection",
+      "Mergers & Acquisitions",
+      "Disputes Resolution",
+      "Regulatory Compliance"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Scoolidge Peters Russotti & Fox is a full-service boutique law firm founded in the pursuit of a single goal: to provide top-quality, personalized advice to clients on their most significant commercial and regulatory matters. With a focus on companies in emerging technology fields and new markets, they are at their best in conditions of high legal and regulatory uncertainty.",
+    "notable_facts": [
+      "Founded in 2019 by lawyers from international law firms and government.",
+      "Defeated a $170 million class-certification bid.",
+      "Represent clients from start-up DLT companies to established trade associations and textile manufacturers.",
+      "Routinely across the table from major international law firms."
+    ],
+    "technology_signals": [
+      "Advises technology companies (software developers, distributed ledger technology-based companies, digital media platforms)",
+      "Counsel clients who are at the forefront of the rapidly changing financial technology sector, especially in the blockchain and cryptocurrency space."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter Scoolidge",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Fox",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Margaret Scoolidge",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kelly Paul Peters",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Russotti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Traci Strickland",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Brown",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Tuckfelt",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Luiza Coelho da Rocha",
+          "title": "Senior Legal Assistant",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

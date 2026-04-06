@@ -1,0 +1,58 @@
+{
+  "firm_data": {
+    "firm_name": "Leech Tishman Fuscaldo & Lampl LLC",
+    "website": "https://www.leechtishman.com/",
+    "city": "Pittsburgh",
+    "practice_areas": [],
+    "lawyer_count": 154,
+    "firm_description": "Leech Tishman is a full-service law firm with nearly 150 attorneys nationwide. They provide tailored services across the country.",
+    "notable_facts": [
+      "Pete Fuscaldo has served as Managing Partner since 2004.",
+      "The firm was founded in 1994.",
+      "Leech Tishman has 10 offices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Pete Fuscaldo",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "John Steiner",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David V. Weicht",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

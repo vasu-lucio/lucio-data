@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Collins, Dobkin & Miller LLP",
+    "website": "https://collinsdobkinmiller.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Landlord and Tenant",
+      "Real Estate Litigation",
+      "Cooperatives, Condominiums & Lofts",
+      "Wills, Trusts and Estates",
+      "Administrative Hearings and Appeals",
+      "Land Use and Zoning",
+      "Mitchell Lama",
+      "HDFCs",
+      "Rent Stabilization",
+      "Rent Control",
+      "Loft Law",
+      "Co-op and Condo law",
+      "Mitchell Lama and HDFC Conversions",
+      "Commercial Evictions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Collins, Dobkin & Miller LLP represents Tenant Groups and Individual Tenants, Cooperative Shareholders, and Condominium Owners. They are experienced in complex litigation involving Rent Stabilization, Rent Control, Loft Law, Co-op and Condo law, Mitchell Lama and HDFC Conversions, and Commercial Evictions.",
+    "notable_facts": [
+      "The firm represents clients in Housing Court, Civil Court, Supreme Court, all state appellate courts, federal district and bankruptcy courts, the United States Court of Appeals for the Second Circuit and before state and local housing agencies.",
+      "The firm provides legal representation to the tenant community of New York City.",
+      "The firm is involved in impact litigation and supports groups like the Metropolitan Council on Housing, Tenants and Neighbors and P.A.'L.A.N.T.E. Harlem."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Seth Miller",
+          "title": "Attorney",
+          "email": null,
+          "phone": "347-899-3755",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michele McGuinness",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy Collins",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Dobkin",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne Jaffe",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Mintzer Sarowitz Zeris & Willis, PLLC",
+    "website": "https://www.defensecounsel.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Civil Cases",
+      "Insurance Defense",
+      "Medical Malpractice",
+      "Construction Litigation",
+      "Common Carrier Litigation",
+      "Municipal Liability",
+      "Liquor Liability",
+      "Premises Liability",
+      "Product Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mintzer Sarowitz Zeris & Willis PLLC provides legal services to achieve timely resolutions of challenging legal matters. They have 16 offices in seven states and represent a diverse client base, including insurance carriers, businesses, and government entities.",
+    "notable_facts": [
+      "Established in 1985.",
+      "Offices in Pennsylvania, New York, New Jersey, Delaware, Florida, and Texas.",
+      "Offers centrally-managed national representation."
+    ],
+    "technology_signals": [
+      "Utilizes cyber technology to link offices and share information."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jay E. Mintzer",
+        "title": "Managing Partner (Of Counsel)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "IT Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence S. Sarowitz",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James N. Zeris",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

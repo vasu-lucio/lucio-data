@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Boylan Code LLP",
+    "website": "https://boylancode.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Bankruptcy & Restructurings",
+      "Business & Finance",
+      "Education Law",
+      "Elder Law",
+      "Employment",
+      "Entertainment Law",
+      "Intellectual Property",
+      "Litigation",
+      "Medicaid Planning",
+      "Municipal Law",
+      "Real Estate",
+      "Trusts & Estates",
+      "Tax Law & Planning"
+    ],
+    "lawyer_count": 50,
+    "firm_description": "Boylan Code LLP is a Rochester-based law firm specializing in the growth, protection, and succession of assets in small and middle-market businesses. The firm offers an array of services tailored to help business, municipal, and individual clients achieve their most important goals.",
+    "notable_facts": [
+      "The firm was founded in 1974.",
+      "Boylan Code LLP announced it would be permanently closing, effective March 1st, 2025.",
+      "The Boylan Code website will no longer be available beginning June 1, 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael F. Buckley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ralph J. Code, III (Buz)",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark A. Costello",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen T. Hoppin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David K. Hou",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/boylan-code-llp"
+  },
+  "email": {}
+}

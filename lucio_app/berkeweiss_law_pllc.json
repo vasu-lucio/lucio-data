@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Berke-Weiss Law PLLC",
+    "website": "https://www.berkeweisslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Discrimination",
+      "Harassment",
+      "Contract Disputes",
+      "Accommodations",
+      "Workplace Investigations",
+      "Employee Agreements",
+      "Severance Agreements",
+      "Paid Family Leave",
+      "FMLA"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Berke-Weiss Law provides strategic legal support for workplace issues including discrimination, harassment, contract disputes, accommodations, and investigations. The firm provides advice and counsel for labor and employment issues, negotiation and mediation, and litigation in state and federal court, and before governmental agencies.",
+    "notable_facts": [
+      "Berke-Weiss Law is a certified women-owned boutique employment law firm in New York.",
+      "The firm represents both businesses and employees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Laurie Berke-Weiss",
+          "title": "Founder and Principal Attorney",
+          "email": null,
+          "phone": "212-888-2680",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alex Berke",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kate Mairead Burns",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Catherine Greene",
+          "title": "Legal Assistant",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/berkeweisslaw"
+  },
+  "email": {}
+}

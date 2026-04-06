@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Chesney, Nicholas & Brower, LLP",
+    "website": "https://chesneynicholas.com/",
+    "city": "Syosset",
+    "practice_areas": [
+      "Insurance Law",
+      "Motor Vehicle Accidents",
+      "Construction Litigation",
+      "Medical Malpractice",
+      "Premises Liability",
+      "Commercial Litigation",
+      "Real Estate Law",
+      "Estates",
+      "Products Liability"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Chesney, Nicholas & Brower, LLP is a Long Island based, full-service law firm with a 30 year history in New York State and Federal Courts providing comprehensive litigation services. They prioritize client requirements and develop a litigation strategy for each individual case, specifically detailed to our clients\u2019 needs.",
+    "notable_facts": [
+      "Awarded an AV Rating by Martindale Hubbell",
+      "Serve clients in the five boroughs of New York City and surrounding counties",
+      "Founded in 1985"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory Brower",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(516) 378-1700",
+        "linkedin_url": "https://www.linkedin.com/in/gregory-brower-a4a84644"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles C. Nicholas",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": "(516) 378-1700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

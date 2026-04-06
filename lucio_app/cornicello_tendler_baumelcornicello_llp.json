@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Cornicello Tendler & Baumel Cornicello, LLP",
+    "website": null,
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Landlord and Tenant Law",
+      "Civil Litigation",
+      "Real Estate Development",
+      "Land Use",
+      "Cooperative Law",
+      "Condominium Law",
+      "Administrative Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cornicello Tendler & Baumel Cornicello, LLP is a law firm located in New York, specializing in real estate and related areas.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony J. Cornicello",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Susan Baumel",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/susan-baumel-cornicello-93ba373"
+        },
+        {
+          "name": "David Tendler",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay Berg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristine Grinberg",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kuljyott Bedi",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

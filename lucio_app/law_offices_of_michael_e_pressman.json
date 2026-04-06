@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Michael E. Pressman",
+    "website": "http://mepressman.com",
+    "city": "New York",
+    "practice_areas": [
+      "Construction",
+      "General Liability",
+      "Automobile",
+      "Insurance Coverage",
+      "Subrogation",
+      "Dram Shop Liability",
+      "Products Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Offices of Michael E. Pressman is a civil litigation firm concentrating on the defense of personal injury cases and insurance defense matters. The firm represents insurance companies and self-insured corporate clients in all areas of tort litigation.",
+    "notable_facts": [
+      "The Law Offices of Michael E. Pressman has been in existence for over thirty years.",
+      "The firm has offices located in New York City, Long Island and New Jersey."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Michael E. Pressman",
+        "title": "Proprietor",
+        "email": null,
+        "phone": "(212) 480-3030",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vanessa Gottfried",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stuart Cholewa",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Bonelli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Binyamin Bixon",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Bell",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

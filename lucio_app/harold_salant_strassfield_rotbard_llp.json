@@ -1,0 +1,123 @@
+{
+  "firm_data": {
+    "firm_name": "Harold, Salant, Strassfield & Rotbard, LLP",
+    "website": "https://www.haroldsalant.com/",
+    "city": "White Plains, NY",
+    "practice_areas": [
+      "Bankruptcy Law",
+      "Business law",
+      "Civil litigation",
+      "Commercial law",
+      "Computer law",
+      "Criminal defense",
+      "Divorce law",
+      "Employment law",
+      "Estates law",
+      "Family law",
+      "Labor relations",
+      "Personal injury",
+      "Real estate law",
+      "Tax matters",
+      "Wills, trusts, estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Harold, Salant, Strassfield & Rotbard, LLP is a law firm located in White Plains, NY, handling various legal matters.",
+    "notable_facts": [
+      "Gregory Salant specializes in Family Court Litigation and Divorce Law.",
+      "Richard J. Strassfield specializes in real estate and Family Court practice.",
+      "Elizabeth G. Harold concentrates her practice on Labor & Employment and Wills, Trusts & Estates matters."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gregory Salant",
+          "title": "Partner",
+          "email": null,
+          "phone": "(914) 683-2500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Strassfield",
+          "title": "Partner",
+          "email": null,
+          "phone": "(914) 683-2500 ext. 312",
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth G. Harold",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/elizabeth-g-harold-83aa7748"
+        },
+        {
+          "name": "Jeffrey Salant",
+          "title": "Partner",
+          "email": null,
+          "phone": "(914) 683-2500 ext. 314",
+          "linkedin_url": null
+        },
+        {
+          "name": "Chris Harold",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(914) 683-2500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jerry Rotbard",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(914) 683-2500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Donna Abrams",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(914) 683-2500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Leonard Spielberg",
+          "title": "Of Counsel Attorney",
+          "email": null,
+          "phone": "(914) 683-2500",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Cannata, Hendele & Cannata, LLP",
+    "website": "https://cannatalaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Accidents",
+      "Construction Related Respiratory Injuries",
+      "Hair Relaxer Cancer Lawsuit",
+      "Infectious Disease Exposure",
+      "Lead Poisoning Exposure",
+      "Motor Vehicle Accidents",
+      "Municipal Liability",
+      "NYCTA, MTA and Commuter Railroad",
+      "Premises Liability",
+      "Products Liability",
+      "Child Sexual Abuse",
+      "World Trade Center Related Injuries",
+      "Workplace Injuries",
+      "FDA's Applesauce Recall"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cannata, Hendele & Cannata, LLP is a leading personal injury law firm dedicated to aggressively representing New Yorkers who have been injured through the negligence of others. They represent injured clients in a variety of personal injury matters such as construction accident litigation, products liability, toxic exposure, motor vehicle accidents, and more.",
+    "notable_facts": [
+      "The firm has achieved over $300 million for World Trade Center clients in the federal litigation and the September 11th Victim Compensation Fund.",
+      "The total recovery for all of the law firm\u2019s clients since 2001 is over $450,000,000.",
+      "Over 90 cases resulted in verdicts or settlements of $1,000,000 or more and over 200 resulted in verdicts or settlements of between $500,000 and $1,000,000."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alison Cannata Hendele",
+        "title": "Partner",
+        "email": null,
+        "phone": "(212) 553-9010",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gregory J. Cannata",
+          "title": "Founder",
+          "email": null,
+          "phone": "(212) 553-9155",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Cannata",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Mathew",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Madeline Muniz",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert A. Grochow",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

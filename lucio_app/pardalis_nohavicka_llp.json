@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Pardalis & Nohavicka, LLP",
+    "website": "https://pnlawyers.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Sports Law",
+      "Business and Corporation",
+      "Entertainment Law",
+      "Criminal Law",
+      "Commercial litigation",
+      "Employment & Labor",
+      "Personal Injury",
+      "Real Estate",
+      "Bankruptcy Law",
+      "Immigration Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pardalis & Nohavicka is a full-service law firm based in New York & New Jersey representing clients throughout the United States and 30+ countries. Their mission is to approach each matter with urgency and understanding of your needs.",
+    "notable_facts": [
+      "Founded in 2007",
+      "Offices in Manhattan, Queens, Long Island, Bergen County, and Manhasset"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Taso Pardalis",
+          "title": "Partner",
+          "email": "taso@pnlawyers.com",
+          "phone": "+1-212-213-8511",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph D. Nohavicka",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Israel Klein",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd Sherman",
+          "title": "Litigation Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Destiny Figueroa",
+          "title": "Finance Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

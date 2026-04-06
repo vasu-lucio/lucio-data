@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Kibler Fowler & Cave LLP",
+    "website": "https://kfc.law/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Business Litigation",
+      "Real Estate Litigation",
+      "Financial Services Litigation",
+      "Entertainment and IP Litigation",
+      "Cannabis Litigation",
+      "Appellate Litigation",
+      "Blockchain Litigation",
+      "Government, Internal Investigations & White Collar"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Kibler Fowler & Cave LLP is an award-winning boutique trial and litigation firm headquartered in Los Angeles, with offices in New York, Philadelphia and Princeton. The Firm specializes in business litigation, real estate litigation, financial services litigation, entertainment and intellectual property litigation, cannabis litigation, appellate litigation, blockchain litigation, and government and internal investigations.",
+    "notable_facts": [
+      "Founded in 2020",
+      "Offices in Los Angeles, New York, Philadelphia and Princeton",
+      "Specializes in business litigation, real estate litigation, financial services litigation, entertainment and intellectual property litigation, cannabis litigation, appellate litigation, blockchain litigation, government and internal investigations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Kibler",
+        "title": "Managing Partner",
+        "email": "mkibler@kfc.law",
+        "phone": "(310) 409-0473",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Sarah Dunn",
+        "title": "Marketing Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/kibler-fowler-cave-llp"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Fowler",
+          "title": "Partner",
+          "email": "[email protected]",
+          "phone": "(310) 409-0474",
+          "linkedin_url": "https://www.linkedin.com/company/kibler-fowler-cave-llp"
+        },
+        {
+          "name": "Matt Cave",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/kibler-fowler-cave-llp"
+        },
+        {
+          "name": "Daniel Stujenske",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/kibler-fowler-cave-llp"
+        },
+        {
+          "name": "Nathan Park",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/kibler-fowler-cave-llp"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

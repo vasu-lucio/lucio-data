@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Golenbock Eiseman Assor Bell & Peskoe LLP",
+    "website": "https://golenbock.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy",
+      "Corporate",
+      "Intellectual Property",
+      "Labor and Employment",
+      "Litigation",
+      "Banking",
+      "Acquisitions",
+      "Finance",
+      "Lending",
+      "Mezzanine Finance",
+      "Private Equity"
+    ],
+    "lawyer_count": 56,
+    "firm_description": "Golenbock Eiseman Assor Bell & Peskoe LLP is a mid-sized law firm providing high-quality legal services to a wide variety of domestic and international companies and individuals. The firm focuses on offering experienced lawyers and efficient turnaround times.",
+    "notable_facts": [
+      "Founded in 1982",
+      "Approximately 50 attorneys",
+      "Offices in New York and Israel"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey S. Berger",
+        "title": "Managing partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Nathan Assor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence M. Bell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "A. M.",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Eiseman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey T. Golenbock",
+          "title": "Partner",
+          "email": "jgolenbock@golenbock.com",
+          "phone": "212.907.7373",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

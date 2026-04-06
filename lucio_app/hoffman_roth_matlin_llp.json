@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Hoffman Matlin & Monroy, LLP",
+    "website": "https://hrmnylaw.com/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Hoffman Matlin & Monroy, LLP is a law firm providing legal services to individuals, corporations, professionals, and insurance companies. They offer legal counsel and strategic litigation with a focus on client relationships.",
+    "notable_facts": [
+      "More than 35 years of dedicated legal practice",
+      "Recognized in Best\u2019s Directory of Recommended Insurance Attorneys",
+      "Regional Expertise in New York & Hudson Valley"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William S. Matlin",
+          "title": null,
+          "email": "info@hrmnylaw.com",
+          "phone": "(212) 964-1890",
+          "linkedin_url": null
+        },
+        {
+          "name": "Barry M. Hoffman",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Thomas Hague",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Ross Hoffman",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary Solimine",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

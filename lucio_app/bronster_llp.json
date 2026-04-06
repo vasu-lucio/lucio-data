@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Bronster LLP",
+    "website": "https://www.bronsterllp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Litigation",
+      "Business Law",
+      "Tax Lien & Mortgage Foreclosure",
+      "Hospitality & IP",
+      "Corporate",
+      "Financial Services",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bronster LLP specializes in creating a personal, bespoke law firm experience for clients at affordable rates, servicing New York, Long Island, New Jersey, and Connecticut. As an ultra-modern boutique firm, Bronster LLP offers the expertise of big firm practice with the luxuries of small firm attention to detail, accessibility, and personalized service.",
+    "notable_facts": [
+      "Founded by Bruce F. Bronster in 2018",
+      "Services New York, Long Island, New Jersey, and Connecticut",
+      "The firm's attorneys work together in teams"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bruce Bronster",
+          "title": "Founding Partner",
+          "email": "bbronster@bronsterllp.com",
+          "phone": "347-246-4650",
+          "linkedin_url": "https://www.linkedin.com/in/bruce-bronster-a6588811"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Resnikoff",
+          "title": "Partner",
+          "email": "mresnikoff@bronsterllp.com",
+          "phone": "347-246-4644",
+          "linkedin_url": null
+        },
+        {
+          "name": "Don Abraham",
+          "title": "Partner",
+          "email": "dabraham@bronsterllp.com",
+          "phone": "347-246-4704",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Kazin",
+          "title": "Partner",
+          "email": "kazin@bronsterllp.com",
+          "phone": "347-246-4769",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc Scollar",
+          "title": "Partner",
+          "email": null,
+          "phone": "347-246-4890",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Zwiren",
+          "title": "Partner",
+          "email": "mzwiren@bronsterllp.com",
+          "phone": "347.246.4729",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Westfall Law PLLC",
+    "website": "https://westfalllaw.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Estate Planning",
+      "Real Estate",
+      "Business Services",
+      "Condo & HOA Representation",
+      "Environmental Law",
+      "Family Law",
+      "Probate & Estate Administration",
+      "USVI Tax Incentives"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Westfall Law PLLC is a woman-owned and veteran-owned law firm with offices in New York and the U.S. Virgin Islands. They offer proactive legal services to businesses and individuals.",
+    "notable_facts": [
+      "The firm was founded on principles of integrity, collaboration, innovation, and clear communication.",
+      "They have offices in New York and the U.S. Virgin Islands.",
+      "Attorneys are also licensed in New Jersey, Maryland, and DC."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Melody Westfall",
+        "title": "Managing Partner",
+        "email": "mwestfall@westfalllaw.com",
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/melody-westfall-esq-74949b4a/"
+      },
+      "co_managing_partner": {
+        "name": "Alfred Bruno",
+        "title": "Managing Partner Connecticut Offices",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Chloe Westfall",
+        "title": "Office Manager / Relations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ethan Peterson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie Crysler",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Pfannenbecker",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Gallo & Iacovangelo, LLP",
+    "website": "https://www.gallolaw.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Personal Injury",
+      "Business & Commercial Litigation",
+      "Domestic Relations & Family Law",
+      "Criminal Law",
+      "Insurance & Municipal Law",
+      "Estate Litigation",
+      "Estate Planning & Administration",
+      "Residential & Commercial Real Estate",
+      "Business Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gallo & Iacovangelo, LLP is a full-service law firm in Rochester, New York, representing clients throughout Western New York in a broad array of personal and business practice areas for over 40 years.",
+    "notable_facts": [
+      "The firm is the twelfth largest law firm in Rochester, New York.",
+      "G&I has relocated to the Canal View Office Park.",
+      "The firm was founded when Frank B. Iacovangelo partnered with Louis J. Gallo in 1971."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael J. Ringrose",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank B. Iacovangelo",
+          "title": "Founding Partner",
+          "email": "EmailFrank",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis J. Gallo",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony B. Iacovangelo",
+          "title": "Partner",
+          "email": "EmailAnthony",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

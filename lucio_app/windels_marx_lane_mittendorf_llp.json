@@ -1,0 +1,132 @@
+{
+  "firm_data": {
+    "firm_name": "Windels Marx Lane & Mittendorf, LLP",
+    "website": "https://windelsmarx.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Financial Transactions",
+      "Real Estate",
+      "Litigation",
+      "Bankruptcy",
+      "Pharmaceutical",
+      "Private Client Services",
+      "Banking",
+      "Corporate",
+      "Government",
+      "Insurance"
+    ],
+    "lawyer_count": 165,
+    "firm_description": "Windels Marx is a full service, midsize law firm headquartered in New York, NY, with offices in New Brunswick and Florham Park, NJ, and Stamford, CT. They offer sophisticated legal services and focused attention to domestic and foreign clients.",
+    "notable_facts": [
+      "Founded in 1830",
+      "Has more than 150 lawyers across more than 20 practice areas",
+      "Serves a myriad of domestic and foreign clients, including banks and financial institutions, insurance companies, manufacturers, non-profit entities, and government sponsored enterprises"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert J. Luddy",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Moriarty",
+          "title": "Partner - Executive Committee Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca Schmutter",
+          "title": "Partner",
+          "email": "wmlm@windelsmarx.com",
+          "phone": "1-212-237-1000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dave Swerdlow",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Frosch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julie Tattoni",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis Weinstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John M Loalbo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory Krauss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Mehl",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pasqualino Pat Russo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Kellner Herlihy Getty & Friedman LLP",
+    "website": "https://khgflaw.com/",
+    "city": "Manhattan",
+    "practice_areas": [
+      "Bankruptcy Law",
+      "Commercial Litigation",
+      "Commercial Transactions",
+      "Co-op and Condominium Law",
+      "Corporate and Partnership Law",
+      "International Fraud Cases",
+      "Landlord-Tenant Law",
+      "Real Estate Transactions",
+      "Trusts and Estates Law"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Kellner Herlihy Getty & Friedman, LLP is home to a seasoned team of partners, associate lawyers and skilled paralegals and staff. Their approach to the law and legal acumen have been carefully honed over decades to ensure clients receive only the highest quality service.",
+    "notable_facts": [
+      "Located in Manhattan, the firm serves clients throughout New York and globally.",
+      "Douglas A. Kellner founded the Community Renaissance Corporation of Harlem and Washington Heights and the Manhattan Valley Housing Clinic",
+      "Eugene F. Getty is a recognized expert in civil fraud litigation and international asset recovery."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Angielina Ragnauth",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Douglas A. Kellner",
+          "title": "Partner",
+          "email": "dak@khgflaw.com",
+          "phone": "+1 (212) 889-2821 (ext. 310)",
+          "linkedin_url": null
+        },
+        {
+          "name": "Carol Anne Herlihy",
+          "title": "Partner",
+          "email": "cah@khgflaw.com",
+          "phone": "+1 (212) 889-2821 (ext. 315)",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eugene F. Getty",
+          "title": "Partner",
+          "email": "efg@khgflaw.com",
+          "phone": "+1 (212) 889-2821 (ext. 303)",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan M. Friedman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeanne-Marie Williams",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

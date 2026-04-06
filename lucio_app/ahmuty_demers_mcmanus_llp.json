@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Ahmuty Demers & McManus LLP",
+    "website": "https://www.admlaw.com/",
+    "city": "Albertson",
+    "practice_areas": [
+      "Civil Litigation",
+      "Appellate Practice",
+      "Automobile Liability",
+      "Civil Rights",
+      "Commercial Litigation",
+      "Commercial Transportation",
+      "Construction Defect",
+      "Construction Site Accidents",
+      "Criminal Defense",
+      "Dealership Liability",
+      "Dental Malpractice",
+      "E-Discovery",
+      "Employment and Labor Law",
+      "Healthcare Malpractice",
+      "Insurance Coverage",
+      "Maritime & Admiralty",
+      "Municipal Liability",
+      "Premises Liability",
+      "Products Liability",
+      "Professional Liability",
+      "Property Damage",
+      "Retail and Hospitality",
+      "School District Liability",
+      "SIU/Fraud and Arson",
+      "Toxic Tort and Environmental"
+    ],
+    "lawyer_count": 60,
+    "firm_description": "Ahmuty Demers & McManus LLP is an AV rated litigation firm with a long history of satisfying the needs and expectations of a wide variety of clients. With offices located in New York and New Jersey, ADM has established a presence in the State and Federal Courts covering the Tri-State area.",
+    "notable_facts": [
+      "ADM is a United Technologies Preferred Counsel and a member firm of Defense Research Institute, Counsel on Litigation Management and numerous defense organizations.",
+      "The Firm has since grown to over 60 attorneys in multiple offices.",
+      "ADM is committed to diversity in all hiring and retention practices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William R. Ahmuty, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip J. McManus",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Henri A. Demers",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Francis Liu",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent Ambrosino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ahmuty-demers-&-mcmanus"
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "O'Connor McGuinness Conte Doyle Oleson Watson & Loftus, LLP",
+    "website": "https://www.omcdoc.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "Appellate Cases",
+      "Automobile Defense",
+      "Construction Defense",
+      "Product Liability Claims"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "O'Connor McGuinness Conte Doyle Oleson Watson & Loftus, LLP has over 70 years of experience serving clients in New York, New Jersey, and Connecticut. They focus on defending doctors, hospitals, and other medical providers against malpractice claims.",
+    "notable_facts": [
+      "The firm has a proven track record of success in appellate cases.",
+      "They have been defending against auto accident claims for over seven decades.",
+      "The firm defends against claims alleging workplace and worksite injuries.",
+      "They represent clients in product liability cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Katherine Lynch",
+          "title": "Partner",
+          "email": "klynch@omcdoc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Solomon",
+          "title": "Attorney At Law",
+          "email": "ssolomon@omcdoc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Monica Snitily",
+          "title": "Litigation Partner",
+          "email": "msnitily@omcdoc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Montgomery Effinger",
+          "title": "Partner",
+          "email": "meffinger@omcdoc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert A. Wolf",
+          "title": "Partner",
+          "email": "rwolf@omcdoc.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

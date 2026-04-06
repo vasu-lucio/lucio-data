@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "KKL LLP",
+    "website": "https://kklllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Criminal and Regulatory Enforcement Actions",
+      "Investigations",
+      "Emerging Technologies",
+      "White-Collar Crime",
+      "Government Investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "KKL is an elite litigation boutique widely recognized for its ability to successfully handle trials involving the most sophisticated subject matters. The firm\u2019s attorneys have collectively tried dozens of cases.",
+    "notable_facts": [
+      "Partners have served in senior positions at the U.S. Department of Justice, the FBI, and in congressional investigations.",
+      "The firm has particular expertise in navigating cross-border disputes and investigations.",
+      "The firm's work is distinguished by both the close involvement of partners in client representations and the exceptional capabilities of its attorneys."
+    ],
+    "technology_signals": [
+      "Represents clients in emerging technologies",
+      "Advises on data privacy issues",
+      "Handles cyber-related issues"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nick Lewin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Krieger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Noble",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Kim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

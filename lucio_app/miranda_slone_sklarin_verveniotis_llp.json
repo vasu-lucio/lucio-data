@@ -1,0 +1,124 @@
+{
+  "firm_data": {
+    "firm_name": "Miranda Slone Sklarin Verveniotis LLP",
+    "website": "https://msssv.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Civil Rights",
+      "Employment Discrimination",
+      "Insurance Coverage Matters",
+      "Professional Liability",
+      "Property Damage",
+      "Complex Tort Cases",
+      "Trucker Accidents",
+      "Construction Accidents",
+      "Pharmaceutical",
+      "Product and Toxic Tort Litigation"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Miranda Slone Sklarin Verveniotis LLP (MSSSV) is a full-service law firm headquartered in Mineola, New York. The firm actively litigates in all of the State and Federal Courts in New York and New Jersey, and is frequently called upon by clients to litigate or monitor cases across the country.",
+    "notable_facts": [
+      "Founded in 1998",
+      "Offices in Mineola, Westchester, New York City and New Jersey",
+      "Michael Miranda & Ondine Slone co-founded a 5K race for autism called Jack\u2019s Run"
+    ],
+    "technology_signals": [
+      "Case management systems stored in the cloud",
+      "Document management software",
+      "Remote communications",
+      "jQuery CDN",
+      "MySQL",
+      "Twemoji",
+      "Infinite Scroll",
+      "jQuery UI",
+      "PHP",
+      "X-Content-Type-Options",
+      "MetaSlider"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael Miranda",
+          "title": "Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ondine Slone",
+          "title": "Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marlon Williams",
+          "title": "Attorney",
+          "email": "mwilliams@msssv.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steve Verveniotis",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maurizio Savoiardo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew B. Kaufman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence S. Wasserman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

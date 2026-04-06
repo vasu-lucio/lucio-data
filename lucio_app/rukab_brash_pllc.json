@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Rukab Brash PLLC",
+    "website": "https://rukabbrash.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Construction Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rukab Brash PLLC provides experienced and knowledgeable counseling, offering service to achieve exceptional results for clients. They serve land owners, developers, lenders, and investors throughout New York City.",
+    "notable_facts": [
+      "The firm's interdisciplinary practice provides a full-suite of business advisory, legal, and project management services.",
+      "They have real-world experience in real estate development and construction."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jack Rukab",
+        "title": "Managing Partner",
+        "email": "jack@rukabbrash.com",
+        "phone": "(212) 257-1961",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Benjamin Brash",
+        "title": "Managing Partner",
+        "email": "ben@rukabbrash.com",
+        "phone": "(212) 257-1962",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexandra Jonas",
+          "title": "Partner",
+          "email": "alexandra@rukabbrash.com",
+          "phone": "(212) 257-1963",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsay Alfano",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lynn Judell",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

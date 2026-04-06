@@ -1,0 +1,144 @@
+{
+  "firm_data": {
+    "firm_name": "Sorell, Lenna & Schmidt, LLP",
+    "website": "https://slsllp.com/",
+    "city": "Long Island",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patent Prosecution",
+      "Patent Litigation",
+      "Trademark Registration",
+      "Trademark Litigation",
+      "Copyright Registration",
+      "Copyright Litigation"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Sorell, Lenna & Schmidt, LLP, centrally located to the New York Federal Courts and the Technology Hub of Long Island, counsels clients regarding all aspects of intellectual property. The firm's attorneys are experienced in patent prosecution, litigation, trademark matters, and copyright protection.",
+    "notable_facts": [
+      "Attorneys are licensed to practice in the United States Patent and Trademark Office.",
+      "Expertise in medical devices, biotechnology, chemical, computer science, pharmaceutical, electrical (electronics), and mechanical arts."
+    ],
+    "technology_signals": [
+      "WordPress",
+      "MySQL",
+      "oEmbed",
+      "Font Awesome",
+      "jQuery",
+      "reCAPTCHA",
+      "GoDaddy",
+      "Apache"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter B. Sorell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leo G. Lenna",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William D. Schmidt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erik B. Zarkowsky",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kara M. McDermott",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marshall Yeh",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Livia Boyadjian",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shadaia M. Gooden",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Franklin S. Abrams",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Martha M. Rumore",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Herb Ruschmann",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

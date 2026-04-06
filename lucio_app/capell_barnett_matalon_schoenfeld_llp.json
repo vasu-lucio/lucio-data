@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Capell Barnett Matalon & Schoenfeld LLP",
+    "website": "https://cbmslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Estate Planning",
+      "Estate Administration",
+      "Tax Law",
+      "Elder Law",
+      "Medicaid Planning",
+      "Commercial and Residential Real Estate",
+      "Religious and Not-For-Profit Corporations Law",
+      "Construction",
+      "Corporate & Commercial Transactions",
+      "Employment",
+      "Landlord/Tenant",
+      "Litigation",
+      "Real Estate",
+      "Religious & Not-for-Profits",
+      "Tax Controversy"
+    ],
+    "lawyer_count": 26,
+    "firm_description": "Capell Barnett Matalon & Schoenfeld LLP is a general practice law firm powered by experienced attorneys who represent individuals and estates as well as privately-held and family-owned businesses, not-for-profits, and religious organizations. The firm offers comprehensive legal services in Estate Planning and Estate Administration, Tax Law, Elder Law and Medicaid Planning, Commercial and Residential Real Estate and Religious and Not-For-Profit Corporations Law.",
+    "notable_facts": [
+      "Founded in 2004",
+      "Offices in New York City, Long Island, and Florida"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Renato Matos",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Hallie Klein",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Meredith Ross",
+          "title": "Director of Finance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Barnett",
+          "title": "Partner",
+          "email": "rbarnett@cbmslaw.com",
+          "phone": "(212) 661-1144 ext. 314",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

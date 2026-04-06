@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Arshack, Hajek & Lehrman, PLLC",
+    "website": "https://lawahl.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Criminal Defense",
+      "Civil Rights Protection",
+      "Complex Civil Litigation",
+      "Medical Malpractice",
+      "Insurance Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Arshack, Hajek & Lehrman, PLLC is a New York-based law firm specializing in criminal defense, civil rights protection, complex civil litigation, medical malpractice, and insurance defense. They represent individuals and businesses in New York and throughout the world.",
+    "notable_facts": [
+      "The firm was founded in 1983.",
+      "They have offices in Manhattan and London.",
+      "The firm defends individuals and businesses in New York and throughout the world, from state trial courts to the US Supreme Court to the United Nations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel N. Arshack",
+        "title": "Managing Partner",
+        "email": "dan@lawahl.com",
+        "phone": "212-582-6500",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lynn Hajek",
+          "title": "Partner",
+          "email": "lynn@lawahl.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael B. Lehrman",
+          "title": "Partner",
+          "email": "michael@lawahl.com",
+          "phone": "212-582-6500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Reisman",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas C. Viles",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jesse Gordon",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nancy Hollander",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

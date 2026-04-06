@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Smith Dominelli & Guetti LLC",
+    "website": "https://www.sdglawfirm.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "matrimonial and family law",
+      "real estate transactions",
+      "personal injury",
+      "criminal defense",
+      "insurance matters",
+      "business and corporate matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Smith Dominelli & Guetti LLC delivers excellent results with unparalleled service. The firm offers counsel in various practice areas throughout New York State, especially in the Albany and Saratoga regions.",
+    "notable_facts": [
+      "The firm was formed after partners Jay, Jennifer, and Christopher shared common values from working together.",
+      "The firm has a Rapid Response Team for fire losses and explosions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jay A. Smith",
+          "title": "Founding Member",
+          "email": "JSMITH@SDGLAWFIRM.COM",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer L. Dominelli",
+          "title": "Founding Member",
+          "email": "JDOMINELLI@SDGLAWFIRM.COM",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Guetti",
+          "title": null,
+          "email": "CGUETTI@SDGLAWFIRM.COM",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

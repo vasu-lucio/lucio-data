@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Jia Law Group",
+    "website": "https://jialawgroup.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Commercial Litigation",
+      "Immigration Law"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Jia Law Group is a full-service global law firm headquartered in New York City with offices in California and China, providing legal counsel and protection to connect professionals both inside and outside the legal world. They represent individuals and businesses throughout the global economy.",
+    "notable_facts": [
+      "Has offices in New York, Netherlands, and France.",
+      "Represents individuals and businesses throughout the global economy.",
+      "Provides complimentary services including public affairs and government relations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jason Jia",
+        "title": "Managing Partner",
+        "email": "info@jiaesq.com",
+        "phone": "+1 347 - 897 - 6199",
+        "linkedin_url": "https://www.jialawgroup.com/our-team-jason-jia"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Kolodziej",
+          "title": "Business Immigration Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Kung",
+          "title": "Commercial Litigation Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Hamel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ivy Wang",
+          "title": "Senior Director of Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

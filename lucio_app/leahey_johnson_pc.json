@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Leahey & Johnson P.C.",
+    "website": "https://leaheyandjohnson.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trials and Appeals",
+      "Tort",
+      "Commercial",
+      "Corporate Matters",
+      "Crisis Management",
+      "Workers\u2019 Compensation",
+      "Employment Law",
+      "Insurance Coverage",
+      "Product Liability",
+      "Medical Liability",
+      "Business Litigation",
+      "General Liability",
+      "Premises Liability",
+      "Transportation Liability"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Leahey & Johnson, P.C., founded in 1953, is a trial and appellate law firm in New York City specializing in tort, commercial, and corporate matters. They offer expertise and a record of success in trials and appeals.",
+    "notable_facts": [
+      "Founded in 1953",
+      "The firm has the highest possible rating from Martindale-Hubbell (\u201cAV\u201d)",
+      "Members have been peer selected as Elite Super Lawyers in the New York Metro area for 2022",
+      "Located at 120 Wall Street"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph M. Leahey",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter James Johnson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter Johnson",
+          "title": "President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

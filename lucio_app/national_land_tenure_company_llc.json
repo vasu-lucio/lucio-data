@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "National Land Tenure Company, LLC",
+    "website": "https://nltco.com/",
+    "city": "Garden City",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "National Land Tenure Company, LLC is a title agency closing billions of dollars in transactions a year. They provide white glove service to every transaction, no matter the size.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Matthew M. Miller",
+        "title": "Chairman and CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James P. Haggerty",
+          "title": "Managing Director and Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward F. Dull",
+          "title": "Vice President and Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John M. Byrne",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erik H. Rosanes",
+          "title": "Vice President & Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Albright",
+          "title": "Vice President & Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Bellacicco",
+          "title": "Vice President, Commercial Accounts",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas McCormack",
+          "title": "Vice President, Commercial & Residential Sales",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Diana Maffatone",
+          "title": "Vice President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

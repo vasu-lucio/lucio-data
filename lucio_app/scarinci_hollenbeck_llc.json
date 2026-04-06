@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Scarinci Hollenbeck, LLC",
+    "website": "https://www.scarincihollenbeck.com/",
+    "city": "Little Falls, NJ",
+    "practice_areas": [
+      "Business Law",
+      "Real Estate",
+      "Litigation",
+      "Environmental Law",
+      "Education Law",
+      "Public Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Scarinci Hollenbeck, LLC is a business law firm based in Little Falls, NJ and New York, NY, servicing clients worldwide. The firm's focus is on niche areas of law most often required by corporate entities, owners, leaders, and operators.",
+    "notable_facts": [
+      "The firm has over three decades of experience serving the business community.",
+      "Scarinci Hollenbeck represents 40% of the commercial real estate development on the Gold Coast."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Donald Scarinci",
+        "title": "Firm Managing Partner",
+        "email": "dscarinci@sh-law.com",
+        "phone": "201-896-4100",
+        "linkedin_url": "https://www.linkedin.com/in/donald-scarinci-5a7a4319/"
+      },
+      "co_managing_partner": {
+        "name": "Lester Aron",
+        "title": "Deputy Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Katerin Traugh",
+        "title": "Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm is actively navigating AI-related legal challenges to improve efficiency and client savings."
+      },
+      "additional_contacts": [
+        {
+          "name": "John Palumbo",
+          "title": "Director of Business Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter S. Moeller",
+          "title": "Chief Growth Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

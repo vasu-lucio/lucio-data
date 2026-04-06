@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Biedermann Hoenig Semprevivo, A Professional Corporation",
+    "website": "https://lawbhs.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "General Liability Litigation",
+      "Aviation Law",
+      "Education Law",
+      "Municipal Liability",
+      "Asbestos & Other Toxic Tort Claims",
+      "Automobile Loss Claims",
+      "Premises Liability",
+      "Tort Litigation",
+      "Commercial and Corporate Law",
+      "Subrogation",
+      "Regulatory, Compliance, and Land Use",
+      "Construction Law",
+      "Insurance and Reinsurance",
+      "Consumer Litigation",
+      "Products Liability",
+      "Professional Liability",
+      "Employment/Labor Practices"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Biedermann Hoenig Semprevivo is a civil litigation law firm serving domestic and international clients. They combine high-quality legal skills with personal attention, efficiency, and cost-effectiveness.",
+    "notable_facts": [
+      "Founded in 2012",
+      "The firm can assist foreign clients in their native language to help protect their interests.",
+      "Many attorneys bring partner-level experience from Am Law 100 and National Law Journal Top 50 law firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Philip C. Semprevivo",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Hoenig",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kurt E. Biedermann",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas J. Sateary",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pandy Shen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/biedermann-hoenig-semprevivo-a-professional-corporation",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

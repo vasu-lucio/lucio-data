@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Roach, Lennon & Brown, PLLC",
+    "website": "https://rlbattorneys.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business and Commercial Law",
+      "Entrepreneurship",
+      "Startups",
+      "Private Equity",
+      "Litigation",
+      "Commercial Real Estate Development",
+      "Estate Planning",
+      "Administration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Roach Lennon & Brown represents a rare blend of time-honored tradition and forward-thinking distinctiveness, serving entrepreneurs, seasoned enterprises, not-for-profits, and individuals with unmatched proficiency and discretion. Our expertise spans a diverse spectrum\u2014from Business and Commercial Law to Entrepreneurship, Startups, Private Equity, and Litigation.",
+    "notable_facts": [
+      "Licensed to practice in both New York and Florida, serving clients across the entirety of the United States and internationally.",
+      "The firm combines the capacity of a large firm with the agility and cost-effectiveness of a boutique firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David L. Roach",
+          "title": "Partner & Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "J. Michael Lennon",
+          "title": "Partner & Founder",
+          "email": "jmlennon@rlbattorneys.com",
+          "phone": "(716) 235-3025 x102",
+          "linkedin_url": "https://www.linkedin.com/in/j-michael-lennon-07a1b9b7"
+        },
+        {
+          "name": "Christopher H. Brown, Jr.",
+          "title": "Partner & Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John P. (Jack) Dee",
+          "title": "Partner & Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tammy Nelson",
+          "title": "Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Miller Mayer, LLP",
+    "website": "https://millermayer.com/",
+    "city": "Ithaca",
+    "practice_areas": [
+      "Corporate Law",
+      "Health Law",
+      "Litigation",
+      "Real Estate Law",
+      "Trusts & Estates Law",
+      "Labor & Employment Law",
+      "Immigration Law"
+    ],
+    "lawyer_count": 37,
+    "firm_description": "Miller Mayer provides a full range of legal services with a renowned immigration practice. They offer creative, high-quality, and cost-effective solutions to legal problems.",
+    "notable_facts": [
+      "Located in Ithaca, New York, near Cornell University.",
+      "Founded in 1985.",
+      "Offers an AI-powered platform to streamline the US Immigration process."
+    ],
+    "technology_signals": [
+      "Uses AI-powered platform for immigration processes."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Nicolai Hinrichsen",
+        "title": "Managing Partner",
+        "email": "emailEmaildirectDirect",
+        "phone": null,
+        "linkedin_url": "https://www.zoominfo.com/#!#Person/1416396974"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kim Kalaf",
+        "title": "Office Administrator",
+        "email": "emailEmaildirectDirect",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam Schaye",
+          "title": "Partner",
+          "email": "emailEmaildirectDirect",
+          "phone": null,
+          "linkedin_url": "https://www.zoominfo.com/#!#Person/1763296584"
+        },
+        {
+          "name": "Stephen W Yale-Loehr",
+          "title": "Attorney",
+          "email": null,
+          "phone": "+1 607 273 4200 Ext.318",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristal Ozmun",
+          "title": "Attorney",
+          "email": "emailEmaildirectDirect",
+          "phone": null,
+          "linkedin_url": "https://www.zoominfo.com/#!#Person/1802509053"
+        },
+        {
+          "name": "Laurie Johnston",
+          "title": "Partner",
+          "email": "emailEmaildirectDirect",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hayden Brainard",
+          "title": "Partner",
+          "email": "emailEmailFlame icon indicating likelihood to engage via phone.directDirect",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

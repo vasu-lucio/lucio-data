@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Fleischner Potash",
+    "website": "https://www.fleischnerpotash.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Insurance Coverage",
+      "Subrogation Recovery",
+      "Insurance Defense",
+      "Appellate Practice",
+      "CAT Property Coverage",
+      "Commercial Litigation \u2013 Contractual Disputes",
+      "Condominium-Cooperative Disputes",
+      "Construction Defects",
+      "Contingency and Professional Liability Coverage",
+      "Crisis Management",
+      "General Liability",
+      "Insurance Coverage Litigation and Bad Faith",
+      "Insurance Practice Group",
+      "Interstate Transportation and Trucking and Motor Vehicle Litigation",
+      "Labor Law",
+      "Liability Coverage Practice Group",
+      "Medical Malpractice",
+      "Premises Liability and Security",
+      "Products Liability",
+      "Professional Liability",
+      "Risk Management and Agent/Broker Agreements and Disputes, Including Fraud",
+      "Specie, Fine Art, Cargo and Marine/Inland Marine Practice Group",
+      "Subrogation",
+      "Toxic Tort and Environmental"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fleischner Potash represents U.S. and Global Insurers for insurance coverage and subrogation recovery across the US and for insurance defense in NY, NJ, PA and CT. The firm provides thoughtful and cost efficient legal counsel with unrivaled client service in our diverse practice groups all with a twenty-first century sensibility.",
+    "notable_facts": [
+      "The firm has been in practice for 23 years.",
+      "Partners have received Superlawyers designations and industry honors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel Stewart",
+          "title": "Management Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Stark",
+          "title": "Management Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wendy Cardali",
+          "title": "Management Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patti Potash",
+          "title": "Partner Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Fleischner",
+          "title": "Of Counsel",
+          "email": "bfleischner@fp.law",
+          "phone": "(732) 275-3187",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

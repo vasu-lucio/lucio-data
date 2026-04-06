@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Murphy Sanchez PLLC",
+    "website": "https://murphysanchez.com/",
+    "city": "Fort Washington, PA",
+    "practice_areas": [
+      "Subrogation",
+      "Workers Compensation",
+      "Products Liability",
+      "Premises Liability",
+      "Commercial Automobile/Trucking",
+      "Non-Commercial Automobile",
+      "Professional Liability",
+      "Fire and Life Safety",
+      "Retail, Restaurant & Hospitality",
+      "Admiralty & Maritime"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Murphy Sanchez is a women-owned national law firm that provides legal services through aggressive and experienced representation. They offer clients a 24-hour emergency response team and assist with claim investigations.",
+    "notable_facts": [
+      "Women-owned firm",
+      "Offers 24-hour emergency response team",
+      "Offices in New York, New Jersey, Pennsylvania, Delaware, Maryland (also serving Washington, DC), and California."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Kimberly A. Murphy",
+          "title": "Esq.",
+          "email": "kmurphy@murphysanchez.com",
+          "phone": "267-367-5503",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Tomlin Sanchez",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Holly Hammond",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Judith ElSherbini",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sandra Carson",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "James F. Butler & Associates",
+    "website": "https://www.statefarm.com",
+    "city": "Jericho, NY",
+    "practice_areas": [
+      "Auto Claims",
+      "Torts",
+      "Slip & Fall",
+      "Litigation Management"
+    ],
+    "lawyer_count": null,
+    "firm_description": "James F. Butler & Associates is a law firm specializing in auto claims, torts, slip & fall, and litigation management. James F. Butler is the Managing Attorney.",
+    "notable_facts": [
+      "James F. Butler has over 35 years of experience.",
+      "The firm represents State Farm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "James F. Butler",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": "(516) 229-6000",
+        "linkedin_url": "https://www.linkedin.com/in/james-f-butler-8013b21a9"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard P. Lau",
+          "title": "Owner",
+          "email": "rsticks@optonline.net",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bryan Michael Schenkman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eugene Choi Han",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher John Zanelotti",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Robert Karins",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

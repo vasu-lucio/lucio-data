@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Volunteers of Legal Service",
+    "website": "https://volsprobono.org/",
+    "city": "New York",
+    "practice_areas": [
+      "Senior Law",
+      "Benefits Law",
+      "Children\u2019s Law",
+      "Incarcerated Mothers Law",
+      "Immigration Law",
+      "Microenterprise Law",
+      "Veterans Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Volunteers of Legal Service (VOLS) provides free civil legal services to low-income New Yorkers through close partnerships with community-based organizations, law firms and companies. Their vision is access to justice for every New Yorker.",
+    "notable_facts": [
+      "Founded in 1984.",
+      "Partners with 150 community-based organizations.",
+      "Partners with 83 law firms and corporations.",
+      "Recruits, trains, and mentors a network of 1,800 pro bono volunteers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Amma Woods",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Abja Midha",
+          "title": "Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie Taylor",
+          "title": "Pro Bono Director & Director, Incarcerated Mothers Law Project",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy Bonderoff",
+          "title": "Director, Development & Communications",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Holt",
+          "title": "Director, Senior Law Project",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adrian Smith",
+          "title": "Director, Microenterprise Project",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean Stevens",
+          "title": "Director, Benefits Law Project",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keighly Newcomer",
+          "title": "Director, Immigration Project",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

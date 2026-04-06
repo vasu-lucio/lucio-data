@@ -1,0 +1,55 @@
+{
+  "firm_data": {
+    "firm_name": "Johnson Van Kwawegen LLP",
+    "website": "https://www.jvk-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Shareholder and securities litigation",
+      "Corporate governance",
+      "Fiduciary duty matters",
+      "Investor disputes"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Johnson Van Kwawegen LLP is a trial-ready investor rights firm representing institutional investors in high-stakes securities and corporate governance litigation. The firm\u2019s attorneys have secured over $4 billion in recoveries for investors and played central roles in some of the most consequential governance disputes in history.",
+    "notable_facts": [
+      "Offices in New York, Delaware, and California",
+      "Combines governance expertise with trial capability",
+      "Represents asset managers, public pension funds, sovereign wealth funds, whistleblowers and individual investors"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeroen van Kwawegen",
+        "title": "Co-Founding Partner",
+        "email": "jeroen@jvk-law.com",
+        "phone": "+1 646-836-9669",
+        "linkedin_url": "https://www.linkedin.com/in/jeroen-van-kwawegen-8395b76/"
+      },
+      "co_managing_partner": {
+        "name": "Chad Johnson",
+        "title": "Co-Founding Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

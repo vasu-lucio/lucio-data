@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Mazzola Lindstrom LLP",
+    "website": "https://www.mazzolalindstrom.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Commercial Disputes",
+      "Litigation",
+      "Arbitration",
+      "Mediation",
+      "ADA",
+      "Appellate",
+      "Art Law",
+      "Credit Risk",
+      "Manufacturing and Trade",
+      "Insurance Coverage Defense and Subrogation",
+      "Media & Technology",
+      "Cargo, Marine & Transportation"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Mazzola Lindstrom LLP is dedicated to helping its domestic and international clients achieve their business goals and legal objectives. They represent companies both in their corporate development and ongoing operations, and in complex commercial disputes.",
+    "notable_facts": [
+      "Offices in New York City and Los Angeles",
+      "Attorneys are licensed in New York, California, New Jersey, Connecticut, Texas and Florida",
+      "Collaborates with lawyers, tax CPAS, solicitors, barristers, accounting professionals and others across the globe"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jean-Claude Mazzola",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Wendy J. Lindstrom",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "David Lindstrom",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laura D. Castner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Lerner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aim\u00e9e Scala",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

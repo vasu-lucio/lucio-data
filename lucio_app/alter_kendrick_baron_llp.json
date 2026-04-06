@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Alter, Kendrick & Baron, LLP",
+    "website": "https://akbllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Copyright Law",
+      "Entertainment Law",
+      "Music Law",
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Alter, Kendrick & Baron LLP is a top entertainment law firm with particular expertise advising clients in the music industry. Our attorneys advise clients in transactional, corporate, and intellectual property matters, including advising on domestic and international copyright law and complex acquisitions and sales of significant music assets.",
+    "notable_facts": [
+      "Focuses on domestic and international copyright law as it pertains to the music industry.",
+      "Advises on complex transactions involving significant music assets.",
+      "Represents prominent songwriters, composers, recording artists, and music estates."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa A. Alter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James M. Kendrick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katie Baron",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joyce Sydnee Dollinger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/akbllp"
+  },
+  "email": {}
+}

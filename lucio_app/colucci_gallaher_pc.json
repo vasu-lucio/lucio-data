@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Colucci & Gallaher, P.C.",
+    "website": "https://colucci-gallaher.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Commercial Real Estate Transactions",
+      "Construction Litigation",
+      "Contracts",
+      "Corporate And Business Law",
+      "Environmental Litigation",
+      "Estate Planning & Probate",
+      "Homeowners Association Law",
+      "Insurance Defense",
+      "Intellectual Property",
+      "Labor & Employment Law",
+      "Medical Malpractice Defense",
+      "Municipal Law & Public Authority Defense",
+      "Plaintiff's Personal Injury",
+      "Residential Real Estate Transactions",
+      "Sports & Recreation Civil Defense",
+      "Trucking Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Colucci & Gallaher, P.C. is a law firm providing legal services to privately owned and publicly traded businesses, as well as municipal entities, in the Northeast United States, Upper Midwest and nationwide. The firm's services include business litigation and counseling, corporate law and contracts, insurance defense representation, and personal legal services.",
+    "notable_facts": [
+      "The firm was founded in 1997.",
+      "Counsels some of the world's largest and upstate New York's smallest businesses.",
+      "Firm attorneys regularly practice in state and federal courts across the country."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anthony J. Colucci",
+        "title": "Managing Attorney",
+        "email": "ajc3@colucci-gallaher.com",
+        "phone": "(716) 854-8671",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John J. Marchese",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Torrey Grenda",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan Gellman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

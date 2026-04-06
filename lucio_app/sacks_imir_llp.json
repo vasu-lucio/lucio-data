@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Sacks & Imir LLP",
+    "website": "https://sacksimir.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Commercial Real Estate",
+      "Multi-Family Residential Real Estate",
+      "Acquisitions",
+      "Sales",
+      "Leasing",
+      "Financing",
+      "Construction",
+      "Property Management",
+      "Brokerage"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Sacks & Imir LLP is a boutique law firm focusing exclusively on commercial and multi-family residential real estate transactions, including, acquisitions, sales, leasing, financing, construction, property management, brokerage and related matters.",
+    "notable_facts": [
+      "Founded in 2022",
+      "Concentrates its practice on commercial and multi-family real estate transactions",
+      "Represents owners, operators, tenants and investors in the legal aspects of office, retail, medical, industrial, hotel and multi-family residential properties"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Warren S. Sacks",
+          "title": "Partner",
+          "email": "wsacks@sacksimir.com",
+          "phone": "914-682-1708",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Imir",
+          "title": "Partner",
+          "email": "JImir@sacksimir.com",
+          "phone": "914) 682-8128",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gidon Shamir",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Hilpert",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

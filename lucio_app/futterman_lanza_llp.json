@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Futterman Lanza, LLP",
+    "website": "https://www.trustedattorneys.com/",
+    "city": "Smithtown",
+    "practice_areas": [
+      "Elder Law",
+      "Estate Planning",
+      "Medicaid Planning",
+      "Veterans Law",
+      "Special Needs Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Futterman Lanza, LLP, helps families plan, protect, and preserve what matters most. For over 20 years, our attorneys have guided clients through elder law, estate planning, Medicaid planning, and related matters with creative, compassionate and comprehensive SOLUTIONS.",
+    "notable_facts": [
+      "Offices in Smithtown, Melville, and Garden City, New York",
+      "The firm focuses on the legal needs of the elderly, individuals and children with disabilities, and their families.",
+      "Recognized as a Best Law Firm by BEST LAWYERS\u00ae in 2024"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kate Kramer",
+        "title": "Operations Manager",
+        "email": null,
+        "phone": "631-979-4300",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Aaron E. Futterman",
+          "title": "Partner",
+          "email": null,
+          "phone": "631-979-4300",
+          "linkedin_url": "https://www.linkedin.com/in/trustedattorneys"
+        },
+        {
+          "name": "Ronald S. Lanza",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaclyn T. Kramer",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard J. Atlas",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Wagner Doman Leto & Di Leo PC",
+    "website": "https://wdldlaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Litigation",
+      "Appellate",
+      "Arbitration",
+      "Asbestos",
+      "Civil",
+      "General Liability"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Wagner Doman Leto & Di Leo PC is a law firm headquartered in Mineola, New York, practicing in areas including litigation.",
+    "notable_facts": [
+      "The firm has one office in the U.S.",
+      "Annual Revenue: USD 22,815,173"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Salvatore Jude Leto",
+        "title": "Managing partner",
+        "email": "sall@wdldlaw.com",
+        "phone": "516-742-1444",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gary Alan Wagner",
+          "title": "Founding partner",
+          "email": "info@wdldlaw.com",
+          "phone": "516-742-1444",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel F. Doman",
+          "title": "Founding partner",
+          "email": "dand@wdldlaw.com",
+          "phone": "516-742-1444",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stuart J. Manzione",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-742-1444",
+          "linkedin_url": null
+        },
+        {
+          "name": "Diana M D'Alessio Di Leo",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-742-1444",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joyce S Lipton",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-742-1444",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

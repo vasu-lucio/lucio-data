@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Redmond Law PLLC",
+    "website": "https://redmondpllc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Law",
+      "Corporate Law",
+      "Real Estate",
+      "Commercial Law",
+      "Labor and Employment Law",
+      "Insurance and Surety Law",
+      "Civil Litigation"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Redmond Law PLLC is a leading construction and commercial litigation firm representing various stakeholders in public and private commercial construction projects. The firm focuses on successful and cost-effective outcomes for its clients.",
+    "notable_facts": [
+      "The firm has a presence in the Philippines and Mexico.",
+      "Redmond Law was founded in 2007."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Edward L. Redmond",
+          "title": "Founder | Owner | Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven E Spada",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

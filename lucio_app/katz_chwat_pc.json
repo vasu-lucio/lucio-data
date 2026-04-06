@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Katz Chwat, P.C.",
+    "website": "https://katzchwat.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Tax",
+      "Estate and Succession Planning",
+      "Business Agreements and Transactions",
+      "Probate and Estate Administration",
+      "Estate Planning",
+      "Business Transactions",
+      "Estate & Trust Administration"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Katz Chwat, P.C. is a firm providing integrated solutions for their client's tax, business, and estate planning needs. They represent individuals and small, closely-held and family-owned businesses.",
+    "notable_facts": [
+      "The firm was started in 2017 by Neil D. Katz and Lara R. Chwat.",
+      "The firm moved to a new office at 175 Pinelawn Road, Suite 420, Melville, NY 11747."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Neil D. Katz",
+        "title": "Managing Partner",
+        "email": "neil@katzchwat.com",
+        "phone": "631-683-8595",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lara R. Chwat",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alyssa Danziger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brandon Amon",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emily Hurni",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jenna Baillie",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

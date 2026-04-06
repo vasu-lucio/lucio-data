@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Sidrane, Schwartz-Sidrane, Perinbasekar & Littman LLP",
+    "website": "https://sidranelaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Landlord-tenant law",
+      "Administrative law",
+      "Real estate law",
+      "Commercial litigation",
+      "Civil litigation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Sidrane, Schwartz-Sidrane, Perinbasekar & Littman, LLP is a New York-based law firm serving a diverse client base with respect to matters involving New York City landlords in Housing Court, before NYS Division of Housing and Community Renewal (DHCR), commercial and civil litigation. The firm was founded in 2004.",
+    "notable_facts": [
+      "Represents owners in Brooklyn, Bronx, Manhattan and Queens, as well as Nassau and Suffolk County",
+      "Attorneys are trained in Housing Court, Supreme Court and Civil Court litigation as well as administrative law before the DHCR."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Karen Schwartz-Sidrane",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Sidrane",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Arun Perinbasekar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/arun-perinbasekar-994a6928"
+        },
+        {
+          "name": "Michael Littman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Engelstein",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

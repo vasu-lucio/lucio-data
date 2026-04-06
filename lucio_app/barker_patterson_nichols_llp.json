@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Barker Patterson Nichols LLP",
+    "website": "https://bpn.law/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Medical Malpractice Law",
+      "Construction Litigation",
+      "Personal Injury",
+      "Health Care",
+      "International",
+      "Employment & Labor",
+      "Insurance Coverage",
+      "Products Liability",
+      "Professional Liability",
+      "Appellate",
+      "Civil Litigation",
+      "Business Litigation",
+      "General Litigation",
+      "State, Local & Municipal",
+      "Civil Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Barker Patterson Nichols LLP is a litigation firm committed to building a team of talented, dynamic trial lawyers. They offer a client-centered approach and have been recognized as one of the best companies to work for in New York.",
+    "notable_facts": [
+      "Founded in 2015",
+      "More than 20 attorneys recognized as Super Lawyers",
+      "Recognized as one of the best companies to work for in New York"
+    ],
+    "technology_signals": [
+      "Adopted paperless practices",
+      "Harnessing the power of the cloud"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "John W. Barker",
+        "title": "General Counsel and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Megan A. Lawless",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/barker-patterson-nichols-llp/org-chart/megan-lawless"
+        },
+        {
+          "name": "Neil C. Mascolo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adonaid C. Medina",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregg D. Weinstock",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barker-patterson-nichols-llp"
+  },
+  "email": {}
+}

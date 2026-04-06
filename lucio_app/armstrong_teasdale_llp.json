@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Armstrong Teasdale LLP",
+    "website": "https://www.armstrongteasdale.com/",
+    "city": "St. Louis, MO",
+    "practice_areas": [
+      "Corporate Law",
+      "Litigation",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 200,
+    "firm_description": "Armstrong Teasdale has forged long-term relationships with clients large and small around the globe for more than a century. Since its founding in 1901, the firm has grown to be one of the 200 largest law firms in the U.S.",
+    "notable_facts": [
+      "Founded in 1901",
+      "Has 11 offices nationwide",
+      "Certified under the Mansfield Rule 6.0"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas Harper Cobbs",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John E. Bishop",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "A. Valerie Mirko",
+          "title": "Partner and Leader of Armstrong Teasdale\u2019s Securities Regulation and Litigation Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/armstrongteasdale",
+    "linkedin_size": "501-1000"
+  },
+  "email": {}
+}

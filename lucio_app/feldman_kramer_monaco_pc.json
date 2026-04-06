@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Feldman, Kramer & Monaco, P.C.",
+    "website": "https://www.fkmlaw.com/",
+    "city": "Hauppauge",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Feldman Kramer Monaco has been protecting client interests and achieving client goals for more than 35 years.",
+    "notable_facts": [
+      "The firm services approximately 250,000 families through legal plans.",
+      "Warren Feldman has lectured on behalf of the American Bar Association throughout the world regarding access to justice for the middleclass."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William J. Monaco",
+        "title": "Partner",
+        "email": "bmonaco@fkmlaw.com",
+        "phone": "631-231-1450",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Warren B. Feldman",
+          "title": "Partner",
+          "email": null,
+          "phone": "631-231-1450",
+          "linkedin_url": null
+        },
+        {
+          "name": "Herbert Kramer",
+          "title": "Partner",
+          "email": null,
+          "phone": "631-231-1450",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven Kramer",
+          "title": "Partner",
+          "email": "skramer@fkmlaw.com",
+          "phone": "631-231-1450",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anita Y. Aginian",
+          "title": "Senior Associate",
+          "email": "aginian@fkmlaw.com",
+          "phone": "631-231-1450",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

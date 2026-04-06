@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Lucosky Brookman LLP",
+    "website": "https://lucbro.com/",
+    "city": "Woodbridge, NJ",
+    "practice_areas": [
+      "Corporate and Securities",
+      "Capital Markets",
+      "Commercial Litigation",
+      "Insurance Coverage and Defense",
+      "Regulatory Investigations",
+      "Mergers and Acquisitions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lucosky Brookman LLP is a New Jersey-based law firm serving clients across a wide range of industries and legal needs, representing domestic and international clients in sophisticated capital markets transactions, mergers and acquisitions, secured and unsecured lending transactions, PIPEs, commercial and white collar litigation, intellectual property, insurance coverage and defense, real estate, sports and entertainment law and a wide range of general corporate matters.",
+    "notable_facts": [
+      "The firm has offices in New York City, New Jersey, Westchester, Pennsylvania, Washington, D.C., and Austin, Texas.",
+      "The firm was founded more than 15 years ago."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph M. Lucosky",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Seth A. Brookman",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melanie Bombardieri",
+          "title": "Head of Recruiting",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Deep Bhatt",
+          "title": "Accounts Receivable Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Callista Faria",
+          "title": "Marketing Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

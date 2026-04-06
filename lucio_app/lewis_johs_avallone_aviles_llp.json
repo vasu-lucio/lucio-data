@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Lewis Johs Avallone Aviles, LLP",
+    "website": "https://www.lewisjohs.com/",
+    "city": "Islandia",
+    "practice_areas": [
+      "Corporate & Commercial Litigation",
+      "Construction & Labor Law",
+      "Criminal Defense",
+      "Labor and Employment Law",
+      "Appellate Practice",
+      "Medical Malpractice Defense",
+      "Transportation Law",
+      "Municipal Liability",
+      "Environmental Litigation",
+      "Personal Injury",
+      "Product Liability",
+      "Real Estate",
+      "Wills, Trusts, Estates & Elder Law",
+      "Nursing Home Defense",
+      "Insurance Coverage & Risk Transfer"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lewis Johs Avallone Aviles, LLP is a full-service law firm with offices on Long Island, New York City and Upstate New York. The firm has grown to more than sixty attorneys focused on client-centered services.",
+    "notable_facts": [
+      "Founded by four attorneys.",
+      "Has offices in Long Island, New York City, and Saratoga.",
+      "Offers services to private clients, insurers, third-party administrators, hospitals, and more."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William J. Lewis",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": "212-233-7195",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Anthony Manniello",
+        "title": "Director Of Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eileen Libutti",
+          "title": "Managing Partner NYC",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

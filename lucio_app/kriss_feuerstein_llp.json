@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Kriss & Feuerstein LLP",
+    "website": "https://kandfllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Real Estate Lending",
+      "Commercial Real Estate Transactions",
+      "Office, Retail, and Industrial Leasing",
+      "Foreclosure",
+      "Commercial Litigation",
+      "Bankruptcy and Creditors\u2019 Rights",
+      "Distressed Debt Transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kriss & Feuerstein LLP counsels sophisticated clients through every complexity of the commercial real estate business and investment processes, providing deep expertise at every stage of every deal. They represent clients across a broad spectrum of transactional, lending, and litigation matters.",
+    "notable_facts": [
+      "Founded in 2002",
+      "Represents major public and private companies, commercial and industrial developers, commercial banks, and institutional lenders.",
+      "Specializes in commercial real estate"
+    ],
+    "technology_signals": [
+      "WordPress",
+      "Google Fonts API",
+      "Constant Contact",
+      "Office 365",
+      "Cloudflare Bot Management",
+      "Google Tag Manager",
+      "Contact Form 7",
+      "Nginx"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jerold C. Feuerstein",
+          "title": "Co-Founding Partner",
+          "email": "jfeuerstein@kandfllp.com",
+          "phone": "646-454-4110",
+          "linkedin_url": null
+        },
+        {
+          "name": "David S. Kriss",
+          "title": "Co-Founding Partner",
+          "email": "dkriss@kandfllp.com",
+          "phone": "646-454-4120",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Avi R Schachter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Klein",
+          "title": "Partner (Real Estate)",
+          "email": "mklein@kandfllp.com",
+          "phone": "646-454-4127",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Ragusa",
+          "title": "Partner",
+          "email": "sragusa@kandfllp.com",
+          "phone": "646-454-4183",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Bonneville",
+          "title": "Partner",
+          "email": "mbonneville@kandfllp.com",
+          "phone": "646 454-4124",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

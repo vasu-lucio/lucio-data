@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Shaub, Ahmuty, Citrin & Spratt, LLP",
+    "website": "https://sacslaw.com/",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Healthcare Litigation",
+      "Appellate Law"
+    ],
+    "lawyer_count": 32,
+    "firm_description": "Shaub, Ahmuty, Citrin & Spratt LLP is a national healthcare litigation and appellate law firm based in New York. The firm was founded in 1994 and is driven by the principles of tenacity, collegiality, professionalism, and the determination to achieve consistent success.",
+    "notable_facts": [
+      "Founded in 1994",
+      "64 employees",
+      "Annual revenue of $22.3 million",
+      "National healthcare litigation and appellate law firm"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jennifer Carroll",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Spratt",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert M Ortiz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin Stalzer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Henninger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

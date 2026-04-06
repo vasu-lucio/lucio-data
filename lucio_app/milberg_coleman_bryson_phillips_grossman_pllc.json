@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Milberg Coleman Bryson Phillips Grossman PLLC",
+    "website": "https://milberg.com/",
+    "city": "San Juan, Puerto Rico",
+    "practice_areas": [
+      "Antitrust",
+      "Securities",
+      "Financial Fraud",
+      "Consumer Protection",
+      "Automobile Emissions Claims",
+      "Defective Drugs and Medical Devices",
+      "Environmental Litigation",
+      "Cyber Law and Security",
+      "Class Action",
+      "Mass Tort"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Milberg challenges corporate wrongdoing through class action, mass tort, consumer protection, and shareholder rights litigation, both domestically and globally. The firm represents plaintiffs in various practice areas and partners with state and local governments to address harms facing its residents.",
+    "notable_facts": [
+      "Recovered over $50 billion for clients.",
+      "Pioneered federal class action litigation.",
+      "Has numerous office locations across the United States.",
+      "Main headquarters is located in San Juan, Puerto Rico, with a principal place of business in Knoxville, Tennessee."
+    ],
+    "technology_signals": [
+      "Google Cloud",
+      "Google Tag Manager",
+      "Backbone.js",
+      "RSS",
+      "Cybot",
+      "Apple iCloud Mail",
+      "Font Awesome",
+      "jQuery Migrate"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary Klinger",
+          "title": "Band 3",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

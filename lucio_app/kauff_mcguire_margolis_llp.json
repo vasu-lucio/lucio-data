@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Kauff McGuire & Margolis LLP",
+    "website": "https://kmm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor",
+      "Employment",
+      "Immigration Law"
+    ],
+    "lawyer_count": 23,
+    "firm_description": "Kauff McGuire & Margolis LLP represents businesses ranging from Fortune 500 companies to start-ups, handling all labor, employment, and immigration matters. The firm combines large-firm expertise and quality with boutique firm flexibility and personalized service.",
+    "notable_facts": [
+      "Founded in 1972",
+      "Maintains practices in New York City and Los Angeles",
+      "Represents clients throughout the country"
+    ],
+    "technology_signals": [
+      "verizon wireless",
+      "ipro",
+      "verizon",
+      "lexis advance",
+      "zoom",
+      "microsoft",
+      "ups",
+      "windows 10",
+      "square",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "James P. Cunningham",
+        "title": "Chief Operating Officer",
+        "email": "cunningham@kmm.com",
+        "phone": "212-909-0737",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Raymond G. McGuire",
+          "title": "Member",
+          "email": "mcguire@kmm.com",
+          "phone": "212-909-0711",
+          "linkedin_url": null
+        },
+        {
+          "name": "William E. Zuckerman",
+          "title": "Member",
+          "email": "zuckerman@kmm.com",
+          "phone": "212-909-0701",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michele A. Coyne",
+          "title": "Member",
+          "email": "coyne@kmm.com",
+          "phone": "212-909-0703",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward B. Lieber",
+          "title": "Member",
+          "email": "lieber@kmm.com",
+          "phone": "212-909-0720",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

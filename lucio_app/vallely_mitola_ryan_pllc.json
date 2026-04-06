@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Vallely Mitola Ryan PLLC",
+    "website": "https://vallelylaw.com/",
+    "city": "Syosset",
+    "practice_areas": [
+      "Foreclosure",
+      "Bridge Lending",
+      "Property Transactions",
+      "Litigation",
+      "Cooperative and Condominium Needs",
+      "Real Estate Law",
+      "Commercial Lending"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Vallely Mitola Ryan PLLC was founded by Erick Vallely in 2022 to serve the commercial and residential mortgage industry. Over time, the firm has grown into a full-service law practice, leveraging extensive experience in foreclosure, bridge lending, property transactions, challenging litigation matters, cooperative and condominium needs.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Erick Vallely",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eileen M. Ryan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan D. Mitola",
+          "title": "Attorney",
+          "email": "rmitola(a)rasboriskin.com",
+          "phone": "(516) 528-3032",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

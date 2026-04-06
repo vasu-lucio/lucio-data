@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Leav & Steinberg LLP",
+    "website": "https://www.nyaccidentlawyer.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Motor Vehicle Accidents",
+      "Construction Site Accidents",
+      "Wrongful Death"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Leav & Steinberg LLP is a New York City-based personal injury law firm dedicated to helping victims of serious accidents. They provide client-focused legal counsel for people who have been in serious accidents caused by negligence.",
+    "notable_facts": [
+      "Featured in New York Magazine as Personal Injury Litigators by the New York Law Journal in 2009 and 2010.",
+      "Attorneys are members of the New York State Trial Lawyers Association, the New York State Bar Association, the American Association of Justice, and the New York City Bar Association.",
+      "Mr. Leav and Mr. Steinberg are members of the top tier of attorneys in the Legal Referral Service of the New York City Bar Association."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Daniela F. Henriques",
+        "title": "Managing Partner",
+        "email": "dhenriques@nyaccidentlawyer.com",
+        "phone": "212-766-5222",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel T. Leav",
+          "title": "Partner",
+          "email": "dleav@nyaccidentlawyer.com",
+          "phone": "212-766-5222",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward A. Steinberg",
+          "title": "Partner",
+          "email": "esteinberg@nyaccidentlawyer.com",
+          "phone": "212-766-5222",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander Kran, III",
+          "title": "Partner",
+          "email": "akran@nyaccidentlawyer.com",
+          "phone": "212-766-5222",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ricardo J. Martinez",
+          "title": "Partner",
+          "email": "rmartinez@nyaccidentlawyer.com",
+          "phone": "212-766-5222",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

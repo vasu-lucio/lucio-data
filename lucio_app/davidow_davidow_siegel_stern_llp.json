@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Davidow, Davidow, Siegel & Stern, LLP",
+    "website": "https://davidowlaw.com/",
+    "city": "Islandia",
+    "practice_areas": [
+      "Elder Law",
+      "Special Needs Planning",
+      "Estate Planning",
+      "Trusts",
+      "Probate & Estate Administration",
+      "Business"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Davidow, Davidow, Siegel & Stern, LLP is a Long Island law firm providing elder law, special needs, and estate planning services for more than 100 years. They help seniors, those with special needs, business owners, and taxpayers protect their assets and afford necessary care.",
+    "notable_facts": [
+      "Founded in 1913.",
+      "One of the first full-service elder law firms in Suffolk County.",
+      "The firm has a rich history of service and a strong reputation in the community.",
+      "Offers educational resources such as seminars, articles, and podcasts."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lawrence Eric Davidow",
+        "title": "Senior and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Harry A. Davidow",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sanford Davidow",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wallace Davidow",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

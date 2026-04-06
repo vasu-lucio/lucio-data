@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Fusco, Brandenstein & Rada P.C.",
+    "website": "https://fbrlaw.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Social Security Disability Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fusco, Brandenstein & Rada P.C. is a Law Practice company focusing on Workers' Compensation & Social Security Disability Law since 1978. With 11 easily accessible offices, your legal advocate is right around the corner.",
+    "notable_facts": [
+      "Founded in 1978",
+      "Offers 24/7 customer service",
+      "Has 11 offices in the New York area"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Victor Fusco",
+          "title": "Partner",
+          "email": "Vfusco@FBRlaw.com",
+          "phone": "516-496-0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard J. Brandenstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Milan Rada",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sean James Beaton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jared Rada",
+          "title": "Partner",
+          "email": "JRada@FBRlaw.com",
+          "phone": "516-496-0400",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

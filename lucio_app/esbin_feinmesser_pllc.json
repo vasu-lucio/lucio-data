@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Esbin & Feinmesser PLLC",
+    "website": "https://eandf.law/",
+    "city": "New City",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Esbin & Feinmesser PLLC is a law firm located in New City, New York.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Scott Laurence Esbin",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(845) 634-7909",
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Michael Feinmesser",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(845) 634-7909",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Raymond Caputo",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Colman Welby",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

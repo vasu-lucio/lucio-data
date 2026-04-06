@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Morgenstern DeVoesick Kroll Proukou PLLC",
+    "website": "https://morgdevo.com/",
+    "city": "Pittsford",
+    "practice_areas": [
+      "Taxation",
+      "Real Estate Transactions and Financing",
+      "Real Estate Tax Assessments and Grievances",
+      "Real Estate Development and Land Use",
+      "Private Equity and Venture Capital",
+      "Litigation",
+      "Intellectual Property",
+      "Executive Compensation",
+      "Estate Planning and Long-Term Care Planning",
+      "Estate Administration and Estate Probate",
+      "Corporate and Business",
+      "Condominium and Homeowner\u2019s Associations",
+      "Banking and Commercial Lending",
+      "Aviation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Morgenstern DeVoesick Kroll Proukou counsels entrepreneurs, developers, lenders, and investors through the transactions that define business growth. Our attorneys bring practical business insight to the table, helping clients close transactions efficiently, manage risk, and maintain momentum behind their strategic objectives.",
+    "notable_facts": [
+      "The firm was founded in March 2012.",
+      "The firm is committed to making Rochester, New York and the surrounding communities a better place to live and do business.",
+      "The firm has multi-market reach and commercial depth, representing business owners, developers, lenders, and national real estate investors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jordan Morgenstern",
+          "title": null,
+          "email": "contact@morgdevo.com",
+          "phone": "585-672-5500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey DeVoesick",
+          "title": null,
+          "email": "contact@morgdevo.com",
+          "phone": "585-672-5500",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kroll",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Proukou",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

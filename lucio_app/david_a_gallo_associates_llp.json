@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "David A. Gallo & Associates LLP",
+    "website": "https://dagallp.com/",
+    "city": "Manhasset",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Commercial Landlord-Tenant Disputes",
+      "Residential Landlord-Tenant Disputes",
+      "Real Estate Litigation",
+      "Real Estate Closing",
+      "Partition & Sale",
+      "State Court Appeals",
+      "Mortgage Default Service"
+    ],
+    "lawyer_count": null,
+    "firm_description": "David A. Gallo & Associates LLP, founded in 1986, provides legal services in Real Estate and Commercial Litigation, serving clients in New York City and Long Island.",
+    "notable_facts": [
+      "Represents a diverse clientele, including individuals, local businesses, large corporations, and major banking institutions.",
+      "Offers Gallo Tracking, which provides legal updates in New York real estate law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David A. Gallo",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kathleen Clifford Gallo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Link",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica K. Kalra",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robyn E. Goldstein",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank A. Morrone",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel D. Angiolillo",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

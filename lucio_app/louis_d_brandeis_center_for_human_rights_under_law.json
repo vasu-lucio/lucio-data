@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "The Louis D. Brandeis Center for Human Rights Under Law",
+    "website": "https://www.brandeiscenter.com/",
+    "city": "Washington, D.C.",
+    "practice_areas": [
+      "Civil Rights",
+      "Human Rights",
+      "Anti-Semitism Legal Advocacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Brandeis Center's mission is to advance the civil and human rights of the Jewish people and promote justice for all. Through legal advocacy, research, and education, they advise and empower individuals, universities, and corporate entities to recognize and effectively address anti-Semitism.",
+    "notable_facts": [
+      "The Brandeis Center utilizes the law to improve campus life for Jewish students, oppose anti-Israel boycotts, and prevent anti-Semitism in the workplace.",
+      "They conceived The \u201cMarcus Policy,\u201d which established that federal civil rights law protects Jews and members of other faiths when they are targeted due to their ancestry or ethnicity."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Kenneth L. Marcus",
+          "title": "Founder, Chairman, and CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Evan Slavitt",
+        "title": "General Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alyza D. Lewin",
+          "title": "President and General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joel Taubman",
+          "title": "Director of Student Programs and Staff Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mollie Galchus",
+          "title": "Staff Litigation Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jake Mayerson",
+          "title": "Civil Rights Law Fellow",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

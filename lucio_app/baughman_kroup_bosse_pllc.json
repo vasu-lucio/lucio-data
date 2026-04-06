@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Baughman Kroup Bosse PLLC",
+    "website": "https://www.bkbfirm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Civil Litigation",
+      "Criminal Litigation",
+      "Regulatory Matters"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Baughman Kroup Bosse PLLC is a litigation boutique that handles complex civil, criminal, and regulatory matters. The firm represents clients in courts nationwide and worldwide.",
+    "notable_facts": [
+      "Formerly known as JFB Legal, relaunched as Baughman Kroup Bosse PLLC on January 1, 2024.",
+      "The firm has offices in New York City and Norfolk.",
+      "BKB celebrated four years of service in 2024, growing from a single attorney to a boutique with 18 attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jack Baughman",
+        "title": "Managing Partner",
+        "email": "jbaughman@BKBfirm.com",
+        "phone": "(347) 241-6347",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "George Kroup",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Bosse",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathaniel Marmon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Cooke",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bkbfirm"
+  },
+  "email": {}
+}

@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "Ryan, Mason & Lewis, LLP",
+    "website": "https://www.bcgsearch.com/bestlawfirms/K7peR/Ryan-Mason-and-Lewis-LLP/rankings",
+    "city": "Fairfield, CT",
+    "practice_areas": [
+      "Intellectual Property",
+      "Corporate - Technology Transactions",
+      "Litigation",
+      "IP - Trademark/Copyright"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Ryan, Mason & Lewis, LLP specializes in intellectual property law, with a particular focus on the procurement, licensing and enforcement of patents. Since our founding in 1996, we have consistently provided high quality legal representation to large technology companies as well as start-ups and individuals.",
+    "notable_facts": [
+      "Founded in 1996",
+      "Focuses on intellectual property law"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin Mason",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/kevin-mason-970b975"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Mestechkin Law Group P.C.",
+    "website": "lawmlg.com",
+    "city": "New York City",
+    "practice_areas": [
+      "Intellectual Property",
+      "Business Law",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Mestechkin Law Group (MLG) is a boutique law firm providing concierge-level legal services to domestic and international clients in a broad spectrum of Intellectual Property- and business-related matters. They offer expertise, professionalism and individual approach in protecting clients\u2019 intellectual property rights.",
+    "notable_facts": [
+      "Provides services in intellectual property, business law, and commercial litigation.",
+      "Offers prosecution of U.S. and international trademark and patent applications",
+      "Provides services such as brand development"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Oleg A. Mestechkin",
+          "title": "Intellectual Property Attorney",
+          "email": "info@lawmlg.com",
+          "phone": "212.256.1113",
+          "linkedin_url": null
+        },
+        {
+          "name": "Wing K. Chiu",
+          "title": "Litigation Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

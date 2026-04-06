@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Pincus & Tarab, Attorneys at Law",
+    "website": "https://pincuslaw.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Residential Foreclosure",
+      "Bankruptcy",
+      "Evictions",
+      "Loss Mitigation",
+      "Litigation",
+      "Real Estate & Closings"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Pincus Law Group, PLLC. is a certified Women-Owned Small Business (WOSB), full service law firm focused on representing corporate clients in real estate closings, commercial litigation, foreclosure, evictions and related practice areas. The firm was founded on the principles of innovation, diversity, exceptional client service and entrepreneurialism.",
+    "notable_facts": [
+      "Certified Women-Owned Small Business (WOSB)",
+      "Provides services and practice in Florida, New Jersey, New York and Pennsylvania."
+    ],
+    "technology_signals": [
+      "sql",
+      "instagram"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Caryn Pincus",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/pincus-law-group-pllc-"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Margaret Tarab",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

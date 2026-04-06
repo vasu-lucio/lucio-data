@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Via Transportation Inc.",
+    "website": "https://ridewithvia.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Transportation",
+      "Technology",
+      "Software Development",
+      "Public Policy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Via Transportation Inc. is a software development company that provides public mobility solutions for cities, transit authorities, and other organizations. Their platform helps design, operate, and optimize transit systems using software, services, and data.",
+    "notable_facts": [
+      "Via operates in 32 countries.",
+      "Via's Chief Policy Officer was appointed to the U.S. Department of Transportation\u2019s Transforming Transportation Advisory Committee.",
+      "Via acquired Citymapper in 2023."
+    ],
+    "technology_signals": [
+      "Software development for transportation solutions",
+      "Data-driven transit network optimization",
+      "AI for transit system planning and scheduling."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrei Greenawalt",
+          "title": "Chief Policy Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin Abrams",
+          "title": "VP of Legal Affairs",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

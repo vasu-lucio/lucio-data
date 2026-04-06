@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Lipsky Lowe LLP",
+    "website": "https://lipskylowe.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lipsky Lowe LLP is a New York City employment law firm with over 40 years of experience focused exclusively on employment law, representing individuals, classes, and small businesses in all types of employment matters.",
+    "notable_facts": [
+      "The firm was founded in 2017.",
+      "Prior to co-founding the firm, Doug Lipsky and Chris Lowe worked together at Seyfarth Shaw LLP.",
+      "Douglas Lipsky has been named a New York Magazine Super Lawyer every year since 2011."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Douglas Lipsky",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://lipskylowe.com/douglas-lipsky/"
+      },
+      "co_managing_partner": {
+        "name": "Christopher Lowe",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "http://lipskylowe.com/team/christopher-lowe/"
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Milana Dostanitch",
+          "title": "Senior Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara Isaacson",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

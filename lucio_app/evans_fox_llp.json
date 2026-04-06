@@ -1,0 +1,121 @@
+{
+  "firm_data": {
+    "firm_name": "Evans Fox LLP",
+    "website": "https://www.evansfox.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Commercial Litigation",
+      "State and Federal Civil Litigation",
+      "Personal Injury",
+      "Labor Law",
+      "Matrimonial and Family Law",
+      "Corporate and Business Law",
+      "Commercial Real Estate and Lease Matters",
+      "Asset Based Transactions",
+      "Trusts",
+      "Estate Planning",
+      "Probate and Administration",
+      "Elder Law",
+      "Long Term Care and Medicaid Planning",
+      "DWI and Criminal Defense",
+      "Business Law",
+      "Divorce and Family Law",
+      "DWI and Criminal Defense",
+      "Intellectual Property",
+      "Licenses",
+      "Litigation",
+      "Real Estate",
+      "Trusts, Estates and Elder Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Evans Fox LLP is a full-service law firm in Rochester, NY, recognized for its skilled and hands-on approach. The firm offers legal services including business law, divorce and family law, DWI and criminal defense, litigation, real estate, and trusts, estates & elder law.",
+    "notable_facts": [
+      "The firm's tagline is 'Counsel for What Matters Most.'"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alison Rich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jared Hirt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Gulla",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jon Bonavilla",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katharine Felluca",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth Kraus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Piston",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

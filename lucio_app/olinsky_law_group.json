@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Olinsky Law Group",
+    "website": "https://windisability.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Social Security Disability Appeals",
+      "Federal Court Appeals"
+    ],
+    "lawyer_count": 32,
+    "firm_description": "Olinsky Law Group is a law firm specializing in Social Security Disability Appeals nationwide. They assist attorneys and non-attorney representatives at the Appeals Council and in Federal Court.",
+    "notable_facts": [
+      "One of the largest filers of Social Security Disability Federal Court cases in the country.",
+      "Has written briefs in over 11,000 Appeals Council cases.",
+      "Serves clients nationwide."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Samantha Dygert",
+        "title": "Chief Operations Officer",
+        "email": "sdygert@windisability.com",
+        "phone": "315-701-5780",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kristi Reppel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Mcgarry",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ted Wicklund",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Kaplan Fox & Kilsheimer LLP",
+    "website": "https://kaplanfox.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Fraud",
+      "Corporate Governance",
+      "Competition/Antitrust",
+      "Consumer Protection"
+    ],
+    "lawyer_count": 31,
+    "firm_description": "Kaplan Fox is a leading national law firm focusing on complex litigation. They have offices in New York, San Francisco, Los Angeles, Chicago and New Jersey.",
+    "notable_facts": [
+      "Founded in 1954",
+      "Specializes in complex litigation",
+      "Recognized nationally"
+    ],
+    "technology_signals": [
+      "Tech Stack: html, adobe, adobe acrobat, well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert N. Kaplan",
+          "title": "Partner",
+          "email": "RKaplan@kaplanfox.com",
+          "phone": "(800) 290-1952",
+          "linkedin_url": null
+        },
+        {
+          "name": "Laurence D. King",
+          "title": "Partner",
+          "email": "LKing@kaplanfox.com",
+          "phone": "(415) 772-4700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Fred Fox",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aaron Schwartz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Greg Arenson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

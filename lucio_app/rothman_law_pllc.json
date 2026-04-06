@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Rothman Law PLLC",
+    "website": "https://rothmanlawpllc.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate Law",
+      "Finance Transactions"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Rothman Law PLLC is a boutique law firm representing domestic and international clients in sophisticated real estate and finance transactions. They combine large-firm sophistication with the agility and personal attention of a boutique practice.",
+    "notable_facts": [
+      "Founded in 2017",
+      "Represents owners, developers, investors, lenders, and funds",
+      "Advises on acquisitions, financings, developments, and leasing across all major asset classes"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel J. Rothman",
+        "title": "Partner",
+        "email": "Daniel@rothmanlawpllc.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jared H. Rothman",
+          "title": "Partner",
+          "email": "jared@rothman.law",
+          "phone": "212-840-3016",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Rothman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Sarah Morgan",
+        "title": "Executive Administrator",
+        "email": "Sarah@rothmanlawpllc.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

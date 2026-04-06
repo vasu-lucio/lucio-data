@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Eisenberg & Baum, LLP",
+    "website": "https://eandblaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Rights",
+      "Class Actions",
+      "Employment Discrimination",
+      "Sexual Harassment",
+      "Sexual Abuse",
+      "Deaf Law",
+      "Disability Rights",
+      "A.I. Fairness and Data Privacy",
+      "Artist Rights",
+      "Real Estate"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Eisenberg & Baum, LLP is a law firm that provides comprehensive legal services to individuals and businesses in New York, New Jersey, and throughout the U.S. They offer civil rights case, class actions, and various other areas of litigation.",
+    "notable_facts": [
+      "Offices in Manhattan, Los Angeles and Manhasset, Long Island.",
+      "Attorneys licensed in states throughout the U.S.",
+      "Includes attorneys rated AV Preeminent\u00ae by Martindale-Hubbell."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Douglas Eisenberg",
+        "title": "Co-Founding Partner, Co-Managing Partner",
+        "email": "deisenberg@eandblaw.com",
+        "phone": "(212) 353-8700",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric M. Baum",
+          "title": "Co-Founding Partner, Co-Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph P. Gaffney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lorenzo V. DeLillo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dov Goldman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

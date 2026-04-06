@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "GREYSTONE LAW AND ADVISORY GROUP, P.C.",
+    "website": "https://greystone-law.com/",
+    "city": null,
+    "practice_areas": [
+      "Business Law",
+      "Labor/Employment Law",
+      "Litigation",
+      "Human Resources & Workforce Compliance",
+      "Risk Management",
+      "Corporate & Business Advisory"
+    ],
+    "lawyer_count": 1,
+    "firm_description": "Greystone Law & Advisory Group, P.C. is a boutique law firm that combines courtroom advocacy with boardroom strategy, focusing on business and labor/employment matters. They offer services ranging from litigation to HR compliance and commercial deals, aiming to protect downside while creating upside for clients.",
+    "notable_facts": [
+      "Led by Briana D. Williams, Esq. (Harvard Law)",
+      "The firm emphasizes operating discipline with responsive and detail-driven service.",
+      "Offers fractional counsel for businesses."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Briana D. Williams",
+        "title": "Esq.",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/greystone-law-and-advisory-group-p-c"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Chen",
+          "title": "Fractional General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samantha Lee",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Pelosi Wolf & Spates LLP",
+    "website": "https://www.pwes.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual property",
+      "Dispute resolution",
+      "Litigation",
+      "General corporate and securities matters",
+      "Financings",
+      "Mergers & acquisitions",
+      "Media Law",
+      "Fine Art Law",
+      "Entertainment Law",
+      "Financial Services Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pelosi Wolf & Spates LLP combines the expertise and experience of a large New York City law firm with the personal attention and cost-effectiveness of a smaller one. They offer a broad range of legal services, from intellectual property counseling and transactions, to dispute resolution and litigation, to general corporate and securities matters, financings and mergers & acquisitions.",
+    "notable_facts": [
+      "The firm specializes in meeting the legal needs of businesses and individuals in the media, fine art, entertainment, financial services and other industries.",
+      "The firm's lawyers previously worked at distinguished New York City law firms, such as Paul Weiss, Frankfurt Kurnit, and Olwine Connelly, as well as in senior in-house positions at major media companies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Pelosi",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.334.3599",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaime Wolf",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.334.6022",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis Spates",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.334.7822",
+          "linkedin_url": null
+        },
+        {
+          "name": "Angelo DiStefano",
+          "title": "Partner",
+          "email": null,
+          "phone": "917.408.6482",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Tynan",
+          "title": "Partner",
+          "email": null,
+          "phone": "917.408.6499",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

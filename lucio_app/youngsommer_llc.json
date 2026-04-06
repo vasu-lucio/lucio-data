@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Young/Sommer LLC",
+    "website": "https://www.youngsommer.com/",
+    "city": "Troy",
+    "practice_areas": [
+      "Environmental Law",
+      "Municipal Law",
+      "Land Use Law",
+      "Energy Law"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Young/Sommer LLC is a boutique law firm concentrating in environmental/municipal law, providing legal and technical professionals with discussions on topics of mutual interest. The firm has been recognized by Chambers USA as one of the top environmental law firms in New York.",
+    "notable_facts": [
+      "Ranked among the top ten New York State environmental law firms by Chambers USA for twenty consecutive years.",
+      "Firm relocated from Albany to Troy as of April 1, 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert A. Panasci",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dean S. Sommer",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin M. Young",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James A. Muscato II",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

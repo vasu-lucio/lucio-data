@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Gordon Rees Scully Mansukhani, LLP",
+    "website": "https://grsm.com/",
+    "city": "San Francisco",
+    "practice_areas": [
+      "Advertising & E-Commerce",
+      "Antitrust",
+      "Appellate",
+      "Artificial Intelligence",
+      "Asbestos, Talc & Silica",
+      "Aviation",
+      "Banking & Finance",
+      "Bankruptcy, Restructuring & Creditors\u2019 Rights",
+      "Cannabis, Hemp & CBD",
+      "Class Action Defense",
+      "Commercial Litigation",
+      "Construction",
+      "Cyber, Privacy & Data Security",
+      "Employment",
+      "Environmental & Toxic Tort",
+      "Healthcare",
+      "Insurance",
+      "Intellectual Property Litigation",
+      "Product Liability",
+      "Real Estate",
+      "Transportation"
+    ],
+    "lawyer_count": 1800,
+    "firm_description": "Gordon Rees Scully Mansukhani is a national law firm, the only full-service firm with offices and attorneys in all 50 states. They provide comprehensive litigation and business transactions services to public and private companies ranging from start-ups to Fortune 100 corporations.",
+    "notable_facts": [
+      "The firm is ranked among the 15 largest law firms in the U.S.",
+      "Ranked among the top 65 firms for diverse attorneys.",
+      "Ranked among the top 10 firms for female attorneys in the Am Law 100.",
+      "The firm became the first and only law firm to have an office and attorneys located in every U.S. state in 2019."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dion Cominos",
+        "title": "Firm Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Gordon Rees became a cautionary example for AI hallucination mishaps after one of its attorneys submitted fabricated citations in a bankruptcy case last summer. The firm reimbursed fees for lawyers inconvenienced by the error and assured everyone that it had updated its AI policies to include a \u201ccite checking policy.\u201d"
+      },
+      "additional_contacts": [
+        {
+          "name": "Wayne L Gladstone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nancy Canter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

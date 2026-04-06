@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Freeman Mathis & Gary, LLP",
+    "website": "https://www.fmglaw.com/",
+    "city": "Atlanta",
+    "practice_areas": [
+      "Appellate Advocacy",
+      "Commercial Litigation",
+      "Construction & Design Law",
+      "Data Security, Privacy & Technology",
+      "Financial Services & Banking",
+      "Government Law",
+      "Healthcare",
+      "Insurance Coverage & Extra-Contractual Liability",
+      "Labor & Employment Law",
+      "Professional Liability/Errors & Omissions",
+      "Tort & Catastrophic Loss",
+      "Trial Advocacy/Trial On-Call"
+    ],
+    "lawyer_count": 500,
+    "firm_description": "Freeman Mathis & Gary, LLP is a nationally recognized Am Law 200 law firm with over 500 attorneys servicing clients in 38 offices and 21 states. With a focus on integrity, capability, and unwavering dedication, they stand by their clients through legal challenges.",
+    "notable_facts": [
+      "Nationally recognized Am Law 200 law firm",
+      "38 offices in 21 states"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Benton J. Mathis Jr.",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Chuck Freeman",
+        "title": "COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dana K. Maine",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Derek Singleton",
+          "title": "CFO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Brunson",
+          "title": "Partner | Director Of Legal Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

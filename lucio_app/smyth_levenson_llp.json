@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Smyth Levenson LLP",
+    "website": "https://smythlevenson.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Landlord/Tenant",
+      "Real Estate",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Smyth Levenson LLP is a New York City real estate law firm representing NYC landlords and property owners. They tailor strategies that match their clients' goals, the deal at hand, and the unpredictable terrain of New York real estate.",
+    "notable_facts": [
+      "Christina Smyth has served as one of two Landlord Representatives on the NYC Rent Guidelines Board since April 2022.",
+      "The firm was co-founded in October 2025.",
+      "The firm represents landlords, tenants, buyers, sellers, condo boards, commercial tenants, and real estate investors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Christina Smyth",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Noah Levenson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jann Brent",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

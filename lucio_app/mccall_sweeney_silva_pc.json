@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "McCall Sweeney & Silva PC",
+    "website": "https://www.msslawny.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Family & Matrimonial law",
+      "Housing and Real Estate Law",
+      "Business Formation",
+      "Education Law",
+      "Evictions",
+      "Family Offenses & Orders of Protection",
+      "Divorce",
+      "Family Court",
+      "Separation Agreements",
+      "Child Protective Services (CPS) Investigation & Appeals",
+      "Child Custody"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "McCall Sweeney & Silva, PC, is a primarily women owned law firm based out of the Capital District of New York with a reputation for zealous advocacy for our clients. They provide legal services in the areas of Family and Matrimonial law, Housing and Real Estate Law, Business Formation and Education Law.",
+    "notable_facts": [
+      "The firm was founded in 2024.",
+      "The firm is based in Albany, New York.",
+      "The firm is primarily women owned."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Leslie A. Silva",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

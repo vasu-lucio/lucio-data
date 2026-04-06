@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Edelman, Krasin & Jaye, PLLC",
+    "website": "https://ekjlaw.com/",
+    "city": "Westbury",
+    "practice_areas": [
+      "Personal Injury",
+      "Workers\u2019 Compensation",
+      "Criminal Defense",
+      "Labor Law",
+      "Medical Malpractice",
+      "Real Estate",
+      "Commercial Litigation",
+      "Nursing Home Abuse",
+      "Business and Corporate Representation"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Edelman, Krasin & Jaye, PLLC is a law firm that provides legal services to clients in various practice areas, including personal injury, workers\u2019 compensation, and criminal defense. They represent victims from all over the country in serious personal injury lawsuits, class action lawsuits, labor law issues, federal claims and pharmaceutical mass torts.",
+    "notable_facts": [
+      "Founded in 1952",
+      "Offices throughout New York including Manhattan, Bronx, Brooklyn, and Long Island",
+      "Represent victims from all over the country",
+      "Offer free legal consultation and accept cases on a contingency basis"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Paul B. Edelman",
+        "title": "Senior Partner",
+        "email": null,
+        "phone": "800-469-7429",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Lawrence P. Krasin",
+        "title": "Senior Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Carissa Taffel",
+        "title": "Case & Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sal A. Spano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ari J. Friedman",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

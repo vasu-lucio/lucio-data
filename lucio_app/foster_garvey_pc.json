@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Foster Garvey PC",
+    "website": "https://www.foster.com/",
+    "city": "Seattle",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Foster Garvey PC is a full-service law firm serving several of the most influential and innovative companies and governments in the country. The firm is one of the largest firms based in the Pacific Northwest, with a national reach in the markets most critical for our clients\u2019 success.",
+    "notable_facts": [
+      "Established in 2019 through the combination of Foster Pepper PLLC and Garvey Schubert Barer, PC.",
+      "Offices in Seattle, Portland, Washington, D.C., New York, Spokane and Tulsa."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Diana S. Shukis",
+        "title": "Firm Co-Chair & Principal",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "V. Rafael Stone",
+          "title": "Firm Co-Chair & Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

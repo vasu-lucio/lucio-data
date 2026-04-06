@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Mazzola Mardon, P.C.",
+    "website": "https://www.mmmpc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor Law",
+      "ERISA"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mazzola Mardon, P.C., represents labor union clients in organizing, negotiations, arbitrations, federal and state court litigation, and proceedings before administrative agencies. The firm\u2019s ERISA practice involves representing multiemployer and single-employer Taft-Hartley pension, health and welfare, scholarship, and royalty funds.",
+    "notable_facts": [
+      "The firm has been representing organized labor for more than 50 years.",
+      "The firm traces its origin to Thomas W. Gleason who founded the firm in 1955.",
+      "The firm was involved in the negotiation of collective bargaining agreements in the newspaper industry, including the New York Daily News."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas W. Gleason",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andre Mazzola Mardon",
+          "title": "Principal",
+          "email": "amm@mmmpc.com",
+          "phone": "(212) 425-3240",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas M. Graziano",
+          "title": "Associate",
+          "email": "ngraziano@mmmpc.com",
+          "phone": "(212) 425-3240",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lesley A. Mardon",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John P. Sheridan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Wolff",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian A. Jasinski",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacqueline Uranga",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

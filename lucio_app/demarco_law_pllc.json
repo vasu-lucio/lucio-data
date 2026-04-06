@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "DeMarco Law, PLLC",
+    "website": "https://www.demarcolaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "E-commerce Law",
+      "Internet Law",
+      "Information Privacy",
+      "Data Security"
+    ],
+    "lawyer_count": null,
+    "firm_description": "DeMarco Law, PLLC is a litigation and counseling boutique dedicated to the protection of intellectual property, emerging e-commerce and Internet law, and information privacy and security. They bring years of experience, extraordinary skill, and individualized care to their work on behalf of every one of their clients.",
+    "notable_facts": [
+      "Founded by a former federal prosecutor trained at top New York law firms.",
+      "Demonstrated ability to protect its clients\u2019 interests through litigation.",
+      "Practice e-commerce and Internet law since its creation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph DeMarco",
+          "title": null,
+          "email": "[email protected]",
+          "phone": "+1 212 922 9499",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

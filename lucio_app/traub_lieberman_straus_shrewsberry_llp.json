@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Traub Lieberman Straus & Shrewsberry LLP",
+    "website": "https://traublieberman.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Insurance",
+      "Labor and Employment",
+      "Litigation",
+      "Personal Injury",
+      "Cyber Risk",
+      "Technology",
+      "Data Security"
+    ],
+    "lawyer_count": 89,
+    "firm_description": "Traub Lieberman Straus & Shrewsberry LLP is a client-focused law firm that meets the diverse needs of the insurance industry. They provide services including claim and coverage analysis, complex dispute resolution, and policy drafting.",
+    "notable_facts": [
+      "Founded in 1996",
+      "Recognized for success in guiding insurance companies and their insureds for 30 years.",
+      "The firm has expanded nationally, enabling them to provide a full range of services throughout the U.S. across 17 practice areas."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Michael K. Kiernan",
+        "title": "Partner, Co-Chair",
+        "email": null,
+        "phone": "(727) 898-8100",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa L. Shrewsberry",
+          "title": "Partner, Co-Chair",
+          "email": null,
+          "phone": "(914) 586-7009",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen D. Straus",
+          "title": "Partner",
+          "email": null,
+          "phone": "(914) 586-7005",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian C. Bassett",
+          "title": "Partner",
+          "email": null,
+          "phone": "(312) 275-3015",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren S. Curtis",
+          "title": "Partner",
+          "email": null,
+          "phone": "(727) 898-8100",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

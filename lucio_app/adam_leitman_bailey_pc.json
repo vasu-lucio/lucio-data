@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Adam Leitman Bailey, P.C.",
+    "website": "https://alblawfirm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law",
+      "Litigation"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Adam Leitman Bailey, P.C. is a New York-based real estate law firm. The firm solely practices real estate law, achieving results in the courtroom, board room, and legislative bodies.",
+    "notable_facts": [
+      "One of two law firms with under 30 attorneys to achieve an AV Martindale-Hubbell rating.",
+      "Repeated Super Lawyers ranking including a Top 100 honor.",
+      "Selection into the Bar Registry of Preeminent Lawyers.",
+      "Repeated Best Lawyers and Best Law Firms rankings.",
+      "Chambers & Partners award for being one of the leading firms in real estate law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Adam Leitman Bailey",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": "212-584-1952",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Adam Leitman Bailey",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Desiderio",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nancy Fernandez",
+          "title": "Director of Billing Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

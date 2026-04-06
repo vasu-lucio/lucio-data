@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Notaro, Michalos & Zaccaria P.C.",
+    "website": "https://notaromichalos.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Patent Law",
+      "Trademark Law",
+      "Copyright Law",
+      "Trade Secret Law",
+      "Unfair Competition"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Notaro, Michalos & Zaccaria P.C. is a full service intellectual property law firm that provides its clients with a wide range of domestic and foreign intellectual property legal services and counseling. They have decades of experience handling a wide variety of intellectual property matters, technologies, business transactions, and litigation.",
+    "notable_facts": [
+      "Founded in 1983",
+      "Provides services ranging from day-to-day consumer products to complex mechanical and electronic devices and biotech inventions",
+      "Has an international network of attorneys and agents."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John Zaccaria",
+        "title": "Attorney",
+        "email": "john.zaccaria@notaromichalos.com",
+        "phone": "212-278-8600",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Angelo Notaro",
+          "title": "Attorney",
+          "email": "angelo.notaro@notaromichalos.com",
+          "phone": "212-278-8600",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter C. Michalos",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John S. Economou",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Bucci",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan Federbush",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Milton Wolson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

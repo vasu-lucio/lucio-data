@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Lawyers For Children",
+    "website": "https://www.lawyersforchildren.org/",
+    "city": "New York",
+    "practice_areas": [
+      "Foster Care",
+      "Youth Justice",
+      "Child Custody",
+      "Family Court Proceedings",
+      "Education Advocacy",
+      "Immigration Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lawyers For Children provides free legal and social work services for children in foster care and advocates for system-wide changes in child welfare through public policy and class action advocacy. Their mission is to give children in crisis a voice in the decisions that will change their lives.",
+    "notable_facts": [
+      "Founded in 1984",
+      "Represents over 3,000 individual children in more than 6,000 court proceedings annually",
+      "Has an interdisciplinary advocacy model with attorneys and social workers",
+      "Focuses on vulnerable clients, including LGBTQ+ youth, children with special educational needs, youth who have experienced sexual abuse and exploitation, and young people with immigration issues"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Karen Freedman",
+          "title": "Founder & President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jonathan Chimene",
+        "title": "Director of Finance",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Glenn Metsch-Ampel",
+          "title": "Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katrina James",
+          "title": "Deputy Executive Director & General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Morelli Law Firm",
+    "website": "https://www.morellilaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Employment Discrimination",
+      "Mass Tort Litigation",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Morelli Law Firm is a civil litigation firm that represents individuals and families in personal injury, medical malpractice, employment discrimination, and mass tort cases. The firm was founded in 1998 by Benedict Morelli.",
+    "notable_facts": [
+      "Secured over $1 billion in results for clients",
+      "Won the largest single plaintiff verdict related to sexual harassment ($95 million)",
+      "Won the largest train accident settlement related to a passenger train case ($265 million related to the 2015 Amtrak train crash)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alexander R. Morelli",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.morellilaw.com/attorneys/alexander-r-morelli/"
+      },
+      "co_managing_partner": {
+        "name": "David T. Sirotkin",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.morellilaw.com/attorneys/david-l-sobiloff/"
+      },
+      "founders": [
+        {
+          "name": "Benedict P. Morelli",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.morellilaw.com/attorneys/benedict-p-morelli/"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Perry S. Fallick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara A. Mahoney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

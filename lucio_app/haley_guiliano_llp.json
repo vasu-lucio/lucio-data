@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Haley Guiliano LLP",
+    "website": "https://www.hglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patent Law",
+      "Litigation",
+      "Acquisitions",
+      "Appellate",
+      "Arbitration",
+      "Asset Management",
+      "Biotechnology",
+      "Licensing"
+    ],
+    "lawyer_count": 29,
+    "firm_description": "HG Law LLP (formerly Haley Guiliano LLP) is an international intellectual property law firm specializing in patent law. They represent clients in high-stakes patent matters, including global patent prosecution, patent portfolio management and strategy, litigation, post-grant practice before the USPTO, opposition practice before the EPO, third party patent analyses, and IP due diligences for M&A.",
+    "notable_facts": [
+      "Recognized in Juristat\u2019s 2025 edition of Top Patent Firms, earning Gold in both Normalized Allowance Rate and Normalized Time to Allowance.",
+      "Offices located in London, New York, and Silicon Valley."
+    ],
+    "technology_signals": [
+      "Partners with Solve Intelligence"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Roger Nash",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maxim Rapoport",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Boiano",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas P. Trainor",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Hale",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/haley-guiliano/org-chart/peter-hale"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

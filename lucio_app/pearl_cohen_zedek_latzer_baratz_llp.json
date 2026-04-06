@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Pearl Cohen Zedek Latzer Baratz",
+    "website": "https://pearlcohen.com/",
+    "city": "Tel Aviv",
+    "practice_areas": [
+      "Commercial Law",
+      "Litigation",
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pearl Cohen Zedek Latzer Baratz is an international law firm with affiliated local firms providing legal advice with commercial impact. The firm has a commitment to innovation and excellence, serving innovation-driven enterprises.",
+    "notable_facts": [
+      "Offices in Tel Aviv, New York, Boston, San Francisco, and London.",
+      "Ranked by Chambers Global in IT & Data Protection (Band 1).",
+      "Provides integrated legal advice in commercial law, litigation and intellectual property, covering the US, Israel, together with aspects of European and Eurasian law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Haim Ravia",
+          "title": "Partner, Head of Cyber, Data Protection and Privacy Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dotan Hammer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Marcus",
+          "title": "Partner, US STEM Practice Group",
+          "email": "bmarcus@pearlcohen.com",
+          "phone": "+1-415-489-4105",
+          "linkedin_url": null
+        },
+        {
+          "name": "Guy Avidan",
+          "title": "Senior Associate, IL Hi-Tech Practice Group",
+          "email": "GAvidan@pearlcohen.com",
+          "phone": "+972-3-303-9242",
+          "linkedin_url": null
+        },
+        {
+          "name": "Moshe Abrumovsky",
+          "title": "Senior Associate, Corporate Practice Group and Startup Practice Group",
+          "email": "MAbrumovsky@pearlcohen.com",
+          "phone": "+1-617-228-5724",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

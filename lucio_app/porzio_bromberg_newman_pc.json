@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Porzio, Bromberg & Newman, P.C.",
+    "website": "https://pbnlaw.com/",
+    "city": "Parsippany",
+    "practice_areas": [
+      "Corporate",
+      "Employment",
+      "Litigation",
+      "Bankruptcy",
+      "Real Estate"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "Porzio, Bromberg & Newman, P.C. is a full-service law firm with more than 100 attorneys across offices in New Jersey, New York, Massachusetts, Delaware, Pennsylvania, Florida, and Puerto Rico. The firm's lawyers collaborate across disciplines to deliver practical, forward-thinking solutions for clients ranging from startups to Fortune 500 companies.",
+    "notable_facts": [
+      "Founded in 1962",
+      "Has wholly-owned subsidiaries Porzio Governmental Affairs and Porzio Compliance Services.",
+      "Named a \"Legal Technology Trailblazer\" by National Law Journal in 2022 for Porzio Life Sciences and Porzio Compliance Digest."
+    ],
+    "technology_signals": [
+      "Developed Porzio Life Sciences, LLC and the company's pioneering product, Porzio Compliance Digest",
+      "Developing an automated life sciences supply chain licensing platform"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Vito A Gagliardi",
+        "title": "Managing Principal",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mark Allen",
+        "title": "Chief Technology Officer",
+        "email": "MTAllen@pbnlaw.com",
+        "phone": "(973) 889-4250",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ren\u00e9e L. Davis",
+          "title": "Chief Administrative Officer",
+          "email": null,
+          "phone": "(973) 538-4006",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maddalena Minardi",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": "(973) 889-4243",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

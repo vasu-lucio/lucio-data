@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Gibney, Anthony & Flaherty, LLP",
+    "website": "https://gibney.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Emerging Business",
+      "Employee Benefits",
+      "Immigration",
+      "Intellectual Property",
+      "Labor and Employment",
+      "Litigation",
+      "Private Client",
+      "Real Estate",
+      "Sports Name, Image and Likeness",
+      "Tax"
+    ],
+    "lawyer_count": 82,
+    "firm_description": "Gibney, Anthony & Flaherty, LLP is a full-service commercial law firm with offices in New York and San Francisco, and associated offices in London, Geneva and Singapore. They provide turn-key solutions and offer a hands-on approach.",
+    "notable_facts": [
+      "A member of IGAL, the Intercontinental Grouping of Accountants and Lawyers",
+      "The firm has been in operation for over 70 years",
+      "A large percentage of their legal team has spent their entire careers at Gibney"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Bradford T. Schwarz",
+        "title": "Chief Information Officer",
+        "email": "bschwarz@gibney.com",
+        "phone": "212) 688-5151",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lauren Allen",
+          "title": "Marketing Director",
+          "email": null,
+          "phone": "516647XXXX",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cristina Park",
+          "title": "Client Services Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joycelyn Carandang",
+          "title": "Information Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

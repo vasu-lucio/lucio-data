@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Rha Kim Grossman & McIlwain, LLP",
+    "website": "http://www.rhakimlaw.com/",
+    "city": "Bayside",
+    "practice_areas": [
+      "Civil Litigation",
+      "Business Litigation",
+      "Health Care Law",
+      "Divorce and Family Law",
+      "Criminal Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rha Kim Grossman & McIlwain, LLP provides a broad range of legal services with a single goal in mind: to get our clients the best possible results. With our diverse team of talented partners, associates, and staff, we bring our strength, experience, and expertise to bear in every case we handle.",
+    "notable_facts": [
+      "The firm has experience assisting adult day cares and home care agencies with sales, mergers, contracts, regulatory issues, labor law compliance, and strategic planning.",
+      "The firm has offices in Midtown Manhattan and Bayside, Queens."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew D. Grossman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dujeong 'Jenny' Kim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan Rha",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

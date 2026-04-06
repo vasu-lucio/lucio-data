@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "American Society for the Prevention of Cruelty to Animals (ASPCA)",
+    "website": "https://www.aspca.org/",
+    "city": "New York, NY",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The ASPCA, founded in 1866, is the first animal welfare organization in North America and serves as the leading voice for animals, working to fight cruelty, rescue animals, secure adoptions, and drive legislative change.",
+    "notable_facts": [
+      "The ASPCA does not directly operate a network of shelters but collaborates with and supports local agencies.",
+      "The ASPCA has an ASPCApro website and resource hub for animal welfare professionals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Matthew Bershadker",
+        "title": "President & CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Henry Bergh",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bert Troughton",
+          "title": "Chief Program Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacy Wolf",
+          "title": "Chief Policy Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Beverly Jones",
+          "title": "SVP, CLO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gordon Lavalette",
+          "title": "SVP, CFO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://de.linkedin.com/company/aspca"
+  },
+  "email": {}
+}

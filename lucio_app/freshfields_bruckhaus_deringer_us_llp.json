@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Freshfields Bruckhaus Deringer",
+    "website": "https://freshfields.com/",
+    "city": "London",
+    "practice_areas": [
+      "Corporate/M&A",
+      "Antitrust",
+      "International Arbitration",
+      "Commercial Litigation",
+      "Securities and Shareholder Litigation",
+      "Investigations",
+      "White Collar",
+      "Corporate Advisory and Governance",
+      "Regulatory and Compliance Advisory",
+      "Capital Markets",
+      "Leveraged Finance",
+      "Private Capital",
+      "Restructuring and Capital Solutions",
+      "CFIUS and Foreign Direct Investment",
+      "Sanctions",
+      "Life Sciences Transactions",
+      "AI",
+      "Cybersecurity",
+      "Data Privacy",
+      "IP/Data Transactions",
+      "Financial Services Regulatory",
+      "Structured Products and Derivatives",
+      "Employee Benefits and Compensation",
+      "Tax"
+    ],
+    "lawyer_count": 2800,
+    "firm_description": "Freshfields is a leading global law firm that helps international organizations make the right decisions in a fast-changing world. They combine the knowledge, experience, and energy of the whole firm to solve their clients\u2019 most complex challenges.",
+    "notable_facts": [
+      "Ranked Band 1 globally by Chambers across eight practices.",
+      "More than 400 lawyers in the US across New York, Silicon Valley and Washington, DC.",
+      "Over 2,800 lawyers and other legal professionals across 29 offices."
+    ],
+    "technology_signals": [
+      "Investing in talent and technology to support client and people strategies.",
+      "Leveraging information technology to serve the needs of its clients and people.",
+      "Adopting AI tech and tools."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Alan Mason",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Chris Smith",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Anna R. Gressel",
+        "title": "Global Co-Head of AI Practice",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gil Perez",
+          "title": "Global Chief Innovation Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

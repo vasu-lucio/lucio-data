@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Harris Beach Murtha",
+    "website": "https://www.harrisbeachmurtha.com/",
+    "city": "Pittsford",
+    "practice_areas": [],
+    "lawyer_count": 250,
+    "firm_description": "Harris Beach Murtha is a legal powerhouse formed from the combination of Harris Beach PLLC and Murtha Cullina LLP. The firm has a Northeast presence with global reach, serving clients in over 20 major areas of law across diverse industries.",
+    "notable_facts": [
+      "Formed on January 1, 2025, through the combination of Harris Beach PLLC and Murtha Cullina LLP.",
+      "Has more than 250 attorneys.",
+      "Has 16 offices in Connecticut, Massachusetts, New Jersey, New York, and the District of Columbia."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher D. Jagel",
+          "title": "Chief Executive Officer",
+          "email": "cjagel@harrisbeachmurtha.com",
+          "phone": "(585) 419-8617",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andy Corea",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer M. Boll",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leonard J. D'Arrigo",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel R. Canavan",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Chartwell Law",
+    "website": "https://www.chartwelllaw.com/",
+    "city": "King of Prussia",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Employment Law",
+      "Business Disputes",
+      "General Liability Defense",
+      "Health Care",
+      "Professional Liability",
+      "Labor and Employment",
+      "Insurance Coverage",
+      "Transportation Law"
+    ],
+    "lawyer_count": 300,
+    "firm_description": "Chartwell Law is a civil litigation firm with more than 300 attorneys across nearly 40 offices. They advise and defend businesses in matters ranging from workers\u2019 compensation and employment law to transportation and insurance coverage.",
+    "notable_facts": [
+      "Nationally ranked as a fast-growing civil litigation firm.",
+      "Founded in 2002.",
+      "The firm has more than 30 offices across the United States.",
+      "Chartwell Law was included on the 2025 Leopard Law Firm Index Top 200."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Charles (Chuck) Barreras",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Dana Bennett",
+        "title": "Chief Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm published an article on \"Artificial Intelligence in Healthcare\" on March 16, 2026."
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher G. Dunnells",
+          "title": "Defense Lawyer of the Year",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "R. Joshua Gregory",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

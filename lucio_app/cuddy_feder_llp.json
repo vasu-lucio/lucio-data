@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Cuddy & Feder LLP",
+    "website": "https://cuddyfeder.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Land Use",
+      "Planning",
+      "Zoning and Development",
+      "Energy",
+      "Environmental",
+      "Litigation",
+      "Corporate",
+      "Nonprofit",
+      "Real Estate",
+      "Transactional",
+      "Digital Infrastructure",
+      "Cannabis Law",
+      "Trusts",
+      "Estates and Elder Law",
+      "Public and Private Financing"
+    ],
+    "lawyer_count": 44,
+    "firm_description": "Cuddy & Feder LLP offers legal services to local, regional, national and multi-national clients, focusing on business and personal legal services. The firm maintains the camaraderie of a smaller firm while upholding the highest legal and ethical standards.",
+    "notable_facts": [
+      "Founded in 1971",
+      "Offices in White Plains, Fishkill, New York City, and Stamford",
+      "Listed among U.S. News\u2019 list of Best Law Firms"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anthony B. Gioffre III",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "914.761.1300",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher B. Fisher",
+          "title": "Partner",
+          "email": "cfisher@cuddyfeder.com",
+          "phone": "914 761 1300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph P. Carlucci",
+          "title": "Partner",
+          "email": null,
+          "phone": "914 761 1300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristen M. Motel",
+          "title": "Partner",
+          "email": null,
+          "phone": "914 761 1300",
+          "linkedin_url": null
+        },
+        {
+          "name": "William S. Null",
+          "title": "Partner",
+          "email": null,
+          "phone": "914 761 1300",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

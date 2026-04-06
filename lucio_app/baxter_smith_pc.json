@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "BAXTER & SMITH, PC",
+    "website": "https://baxterandsmithpc.com/",
+    "city": "Hicksville",
+    "practice_areas": [
+      "Litigation",
+      "Trial",
+      "Appeals",
+      "Tort",
+      "Insurance",
+      "Commercial Matters",
+      "Property Loss",
+      "Automobile Litigation",
+      "Premises Liability",
+      "Property Damage",
+      "Design Defect",
+      "Construction Defect",
+      "Appellate",
+      "Civil Rights",
+      "Class Action",
+      "Complex",
+      "Construction"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Baxter & Smith P.C. was founded in 1995 and has steadily built a reputation for excellence in the litigation, trial and appeals of tort, insurance and commercial matters. They have four offices covering all federal and state courts throughout the state of New York and represent a number of clients nationally and abroad.",
+    "notable_facts": [
+      "Founded in 1995",
+      "Four offices covering all federal and state courts throughout the State of New York",
+      "Represent clients nationally and abroad"
+    ],
+    "technology_signals": [
+      "juris"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Robert Baxter",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Arthur Joseph Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harold A Campbell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis Sean Heffernan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Margot Lee Ludlam",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/baxter-&-smith-pc/"
+  },
+  "email": {}
+}

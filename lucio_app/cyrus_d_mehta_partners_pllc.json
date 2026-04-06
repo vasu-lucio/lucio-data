@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Cyrus D. Mehta & Partners PLLC",
+    "website": "https://cyrusmehta.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Immigration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cyrus D. Mehta & Partners PLLC represents corporate and individual clients in complex and routine immigration law matters. The firm has developed expertise in representing large corporations regarding their immigration needs as well as representing individuals in business and family immigration, citizenship, removal or asylum matters.",
+    "notable_facts": [
+      "Chambers USA 2024 states the firm is '[r]enowned for its capacity to offer counsel on highly complex immigration cases...'",
+      "The firm is committed to providing exceptional services to its clients, often under complex and novel circumstances, whether the client is a corporation or an individual.",
+      "The firm\u2019s attorneys are regularly invited to speak at legal seminars and conduct workshops for bar associations, non-profit organizations and universities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Cyrus D. Mehta",
+        "title": "Managing Partner",
+        "email": "info@cyrusmehta.com",
+        "phone": "212-425-0555",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David A. Isaacson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kaitlyn Box",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

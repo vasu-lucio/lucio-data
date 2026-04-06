@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Donovan LLP",
+    "website": "https://www.donovanllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Real Estate",
+      "Real Estate Financing",
+      "Banking and Loan Origination",
+      "Foreclosure and Work Outs",
+      "Residential Real Estate",
+      "Development"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Donovan LLP is a commercial real estate law firm concentrating on commercial real estate, real estate financing and related matters. The firm represents a large number of banks and financial institutions in connection with commercial mortgage loan origination, foreclosure and workouts.",
+    "notable_facts": [
+      "Represents lenders in real estate transactions.",
+      "Started in 1994.",
+      "Represents clients in New York and throughout the United States."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

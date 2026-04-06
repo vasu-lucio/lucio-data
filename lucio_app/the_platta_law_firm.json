@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "The Platta Law Firm, PLLC",
+    "website": "https://plattalaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury",
+      "Construction Accidents",
+      "Motor Vehicle Accidents",
+      "Workers' Compensation",
+      "Bicycle Accidents",
+      "Burn Injuries",
+      "Car Accidents",
+      "Motorcycle Accidents"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Platta Law Firm, PLLC, advocates for those who suffer from catastrophic personal injuries due to the wrongful acts of others and champions the rights of their clients, including injured workers. They are known for changing New York State construction law in the Wilinski case.",
+    "notable_facts": [
+      "Changed New York State Construction Law",
+      "Recovered a $48 Million settlement in 2022 for a construction accident.",
+      "The firm has over 150 years of combined experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Slawomir Platta",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": "(212) 514-5100",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Slawomir Platta",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Taub",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard Frederick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evi Kallfa",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elan Hallhauser",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Miraglia",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kyeko M. Stewart",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Constantine Cannon LLP",
+    "website": "https://constantinecannon.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust Law",
+      "Whistleblower Law",
+      "Complex Commercial Litigation",
+      "Intellectual Property",
+      "Government Relations",
+      "Corporate Compliance",
+      "Securities Litigation",
+      "Electronic Discovery Consulting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Constantine Cannon LLP is an internationally recognized law firm with offices in New York, Washington, D.C., and San Francisco. They are known for antitrust law and representing whistleblowers, as well as litigation, compliance, and intellectual property.",
+    "notable_facts": [
+      "The firm 'can claim to have won two of the three largest antitrust settlements in U.S. history.' \u2013 Global Competition Review, 2012",
+      "Founded in 1994"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jan Friedman Constantine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "W. Stephen Cannon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gordon Schnell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alysia A. Solow",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean Kim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

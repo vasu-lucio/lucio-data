@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Hollander Legal Group, P.C.",
+    "website": "https://hollanderlg.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Insurance",
+      "Criminal Defense"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Hollander Legal Group, P.C. is a New York based law firm committed to client success in and out of the courtroom. Primarily focused on insurance and criminal defense matters, our attorneys are results driven and provide high quality legal representation.",
+    "notable_facts": [
+      "Named a Super Lawyer \u201cRising Star\u201d in the Metro New York area in Insurance Coverage in 2014, 2015, and 2017 (Allan S. Hollander).",
+      "Selected as a Top Attorney of North America in the 2015-2016 edition of the Who\u2019s Who Directory (Allan S. Hollander)."
+    ],
+    "technology_signals": [
+      "Microsoft",
+      "Microsoft Office",
+      "AMP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Allan S. Hollander",
+        "title": "President",
+        "email": null,
+        "phone": "(631) 333-1300 ext 107",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Justin A. Calabrese",
+          "title": "Partner",
+          "email": null,
+          "phone": "(631) 333-1300 ext 114",
+          "linkedin_url": null
+        },
+        {
+          "name": "Emilio A. Cacace",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": "(631) 333-1300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew L. Hallock",
+          "title": "Associate",
+          "email": null,
+          "phone": "(631) 333-1300 ext 111",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack Vobis",
+          "title": "Associate",
+          "email": null,
+          "phone": "(631) 333-1300 ext 109",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

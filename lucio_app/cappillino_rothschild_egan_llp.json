@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Cappillino Rothschild & Egan LLP",
+    "website": "https://www.cappillino.com/",
+    "city": "Pawling",
+    "practice_areas": [
+      "General Practice",
+      "Elder Law",
+      "Estate Planning",
+      "Real Estate",
+      "Municipal Law",
+      "Land Use Planning and Zoning",
+      "Civil Litigation",
+      "Guardianships",
+      "Real Property",
+      "Tax Certiorari"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cappillino Rothschild & Egan LLP is a general practice law firm located in Dutchess County, New York with offices in Pawling and Poughkeepsie. They have been serving clients continuously since 1977 and pride themselves on finding practical solutions to legal problems.",
+    "notable_facts": [
+      "Serving clients since 1977",
+      "Offices in Pawling and Poughkeepsie, NY"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Donald Cappillino",
+          "title": "Senior Partner",
+          "email": "info@cappillino.com",
+          "phone": "845-855-5444",
+          "linkedin_url": "https://www.linkedin.com/in/donald-cappillino-b6821629a"
+        },
+        {
+          "name": "Shane J. Egan",
+          "title": "Partner",
+          "email": "info@cappillino.com",
+          "phone": "845-855-5444",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

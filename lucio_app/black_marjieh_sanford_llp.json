@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Black Marjieh & Sanford LLP",
+    "website": "https://bmslegal.com/",
+    "city": "Elmsford",
+    "practice_areas": [
+      "Construction Law",
+      "Commercial Litigation/Transactions",
+      "Professional Liability",
+      "Premises Liability",
+      "Cyber Risk, Privacy and Data Security",
+      "Appellate",
+      "Automobile, Trucking and Transportation",
+      "Civil Rights",
+      "Excess Insurance Coverage/Monitoring",
+      "General Liability",
+      "Mediation Services",
+      "Medical Malpractice",
+      "Product Liability",
+      "Real Estate, Commercial and Residential",
+      "Toxic Torts"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "Black Marjieh & Sanford LLP is a metro New York-based law firm focused on insurance defense and coverage, construction law, cyber risk, privacy and data security, real estate, commercial litigation, immigration law and related practice areas. They are a 100% women-owned firm that values diversity and inclusiveness.",
+    "notable_facts": [
+      "Nationally certified as a Woman Business Enterprise (WBE) by NWBOC (National Women Business Owners Corporation)",
+      "Founded in 2017"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa J. Black",
+          "title": "Partner",
+          "email": "lblack@bmslegal.com",
+          "phone": "(914) 704-4402",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dana K. Marjieh",
+          "title": "Partner",
+          "email": "dkmarjieh@bmslegal.com",
+          "phone": "(914) 704-4403",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sheryl A. Sanford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John W. Bieder",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven R. Lau",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/black-marjieh-sanford-llp"
+  },
+  "email": {}
+}

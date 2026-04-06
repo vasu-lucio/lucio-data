@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Barket Epstein Kearon Aldea & LoTurco, LLP",
+    "website": "https://www.barketepstein.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Criminal Defense",
+      "Personal Injury Law",
+      "Commercial Litigation",
+      "Civil Rights Issues",
+      "DWI & Vehicular Crimes Litigation",
+      "Appellate and Post Conviction Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Barket Epstein Kearon Aldea & LoTurco, LLP is recognized throughout the nation as a leader in criminal defense, personal injury law, commercial litigation, and civil rights issues. With over 200 years of experience and a team of former prosecutors, former public defenders, and former judges, the firm is uniquely capable of representing clients in an array of complex legal matters.",
+    "notable_facts": [
+      "The firm includes former prosecutors, former public defenders, and former judges",
+      "The firm has over 200 years of experience.",
+      "The firm's attorneys are proven thought leaders in all areas of the legal industry."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bruce A. Barket",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/bruce-barket-42b054a"
+        },
+        {
+          "name": "Steven B. Epstein",
+          "title": "Founding Partner / Head of DWI & Vehicular Crimes Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin T. Kearon",
+          "title": "Founding Partner",
+          "email": "kkearon@barketepstein.com",
+          "phone": "888-779-0267",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Donna Aldea",
+          "title": "Partner / Head of Appellate and Post Conviction Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John H. LoTurco",
+          "title": "Partner / Head of Suffolk County Criminal Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barket-marion-epstein-&-kearon-llp",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

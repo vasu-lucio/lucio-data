@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "KMA Zuckert LLP",
+    "website": "https://www.kmazuckert.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Transportation",
+      "Aviation",
+      "Aerospace",
+      "Surface Transportation",
+      "Litigation",
+      "Regulatory Law",
+      "Transactional Law",
+      "Commercial Law",
+      "Tax Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "KMA Zuckert has decades of experience solving problems for clients across a broad range of disciplines, including strategically litigating for transportation entities, their insurers and product manufacturers, and providing regulatory, transactional, commercial and tax counsel to a diverse base of clients, including aviation and aerospace businesses, surface transportation companies, shippers and nonprofit organizations. KMA Zuckert's attorneys have a nationally and internationally recognized expertise in the transportation industries and have handled matters in every state as well as in many foreign venues at the investigatory, regulatory, trial and appellate levels.",
+    "notable_facts": [
+      "Offices in Chicago, Los Angeles, Miami, New York, Newark and Washington, D.C.",
+      "Expertise in the transportation industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard A. Allen",
+          "title": "Senior Counsel",
+          "email": "rallen@kmazuckert.com",
+          "phone": "+1.202.973.7902",
+          "linkedin_url": null
+        },
+        {
+          "name": "Telly Andrews",
+          "title": "Partner",
+          "email": "tandrews@kmazuckert.com",
+          "phone": "+1.312.345.3045",
+          "linkedin_url": null
+        },
+        {
+          "name": "Malcolm L. Benge",
+          "title": "Senior Counsel",
+          "email": "mbenge@kmazuckert.com",
+          "phone": "+1.202.973.7904",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian J. Benoit",
+          "title": "Partner",
+          "email": "bbenoit@kmazuckert.com",
+          "phone": "+1.312.345.3065",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sreya Bhattaru",
+          "title": "Associate",
+          "email": "sbhattaru@kmazuckert.com",
+          "phone": "+1.212.991.5930",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

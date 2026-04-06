@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Salenger, Sack, Kimmel & Bavaro, LLP",
+    "website": "https://sskblaw.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Salenger, Sack, Kimmel & Bavaro, LLP is a personal injury and medical malpractice law firm serving New York and Long Island. They are known for their client commitment and successful outcomes, representing individuals facing physical, emotional, and financial hardships due to negligence.",
+    "notable_facts": [
+      "Established in 1983",
+      "Secured more than $1 billion for clients in settlements and jury verdicts"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey M. Kimmel",
+        "title": "Managing Partner, CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/salenger-sack-kimmel-bavaro-llp"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Marvin Salenger",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bob Sack",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph Bavaro",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carolyn Caccese",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerilynn Falasco",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Zervopoulos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

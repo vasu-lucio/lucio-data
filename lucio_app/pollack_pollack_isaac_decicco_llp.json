@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Pollack, Pollack, Isaac & DeCicco, LLP",
+    "website": "https://ppid.com/",
+    "city": "New York",
+    "practice_areas": [
+      "U.S. immigration",
+      "Personal injury",
+      "Real estate/commercial law",
+      "Appellate litigation",
+      "Criminal defense",
+      "Employment law",
+      "Wills & trusts",
+      "Uncontested divorces"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pollack, Pollack, Isaac & DeCicco, LLP is a full-service law firm representing clients across the globe. They are recognized as one of the \u201cBest Law Firms\u201d in New York City by U.S. News and World Report \u2013 Best Lawyers\u00ae.",
+    "notable_facts": [
+      "Founded in 1955",
+      "Firm founder Arthur Pollack served as a translator at the Nuremberg Trials",
+      "Recognized as one of the \"Best Law Firms\" in New York City by U.S. News and World Report \u2013 Best Lawyers\u00ae"
+    ],
+    "technology_signals": [
+      "Optimizely",
+      "oEmbed",
+      "Google Workspace",
+      "JSON-LD",
+      "Google Tag Manager",
+      "Adobe Fonts",
+      "Twenty Nineteen"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Conrad E. Pollack",
+        "title": "Managing Partner; Head of Immigration Department",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Arthur Pollack",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "G. V. B.",
+        "title": "Director Of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "D. K.",
+          "title": "Director, Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian J. Isaac",
+          "title": "Partner; Head of the Appellate Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fred A. DeCicco",
+          "title": "Partner; Head of Real Estate / Commercial Law Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam S. Handler",
+          "title": "Partner; Head of Personal Injury Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

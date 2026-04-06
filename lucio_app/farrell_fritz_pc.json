@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Farrell Fritz, P.C.",
+    "website": "http://farrellfritz.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Bankruptcy & Restructuring",
+      "Commercial Litigation",
+      "Construction",
+      "Corporate & Finance",
+      "Distressed Assets",
+      "Emerging Companies & Venture Capital",
+      "Environmental",
+      "Estate Litigation",
+      "Health Law",
+      "Labor & Employment",
+      "Land Use & Municipal",
+      "Real Estate",
+      "Tax",
+      "Tax Certiorari & Condemnation",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 80,
+    "firm_description": "Farrell Fritz provides legal services to corporations and individuals throughout, and beyond, the New York metropolitan region. Our more than 80 attorneys in five offices have built a reputation of excellence in client responsiveness and communication in a diverse range of practice areas.",
+    "notable_facts": [
+      "Founded in 1976",
+      "Has five offices"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Azriel J. Baer",
+          "title": "Partner",
+          "email": "abaer@farrellfritz.com",
+          "phone": "(516) 227-0792",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua B. Ashkenazy",
+          "title": "Associate",
+          "email": "jashkenazy@farrellfritz.com",
+          "phone": "(516) 227-0643",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle E. Espey",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Avigail Goldglancz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark R. Ustin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

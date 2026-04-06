@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Glancy Prongay Wolke & Rotter LLP",
+    "website": "https://glancylaw.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Securities",
+      "Antitrust",
+      "Consumer Class Actions",
+      "IP Litigation",
+      "Employment Class Actions"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Glancy Prongay Wolke & Rotter LLP is a national class action law firm that provides legal services in various practice areas. The firm has recovered billions of dollars for parties wronged by corporate fraud, malfeasance, and antitrust violations.",
+    "notable_facts": [
+      "Certified minority-owned business.",
+      "Offices in Los Angeles, New York City, and San Diego.",
+      "Recovered more than $1 billion for aggrieved investors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert V. Prongay",
+        "title": "Managing Partner",
+        "email": "rprongay@glancylaw.com",
+        "phone": "888-773-9224",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kara Wolke",
+          "title": "Partner, Co-chair of the Firm\u2019s securities litigation group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Rotter",
+          "title": "Partner, Chair of the Firm\u2019s antitrust, consumer protection, and privacy groups",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Linehan",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Garth Spencer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

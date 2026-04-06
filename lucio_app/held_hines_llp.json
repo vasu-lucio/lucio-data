@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Held & Hines, LLP",
+    "website": "https://heldhines.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Personal Injury",
+      "Uber/Lyft accidents",
+      "Civil Rights",
+      "Discrimination Law",
+      "Real Estate",
+      "General Litigation",
+      "Landlord & Tenant Law",
+      "Wills, Trusts & Estates"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Held & Hines, LLP is a boutique law firm with offices located in midtown Manhattan and Brooklyn, New York. Our attorneys and staff share a commitment to provide our clients with competent, comprehensive, goal-oriented, and experienced legal services.",
+    "notable_facts": [
+      "Founded in 2013",
+      "Offices in Manhattan and Brooklyn",
+      "Represents clients in New York City, Long Island, and Westchester"
+    ],
+    "technology_signals": [
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Marc J. Held",
+          "title": "Partner",
+          "email": "MHeld@heldhines.com",
+          "phone": "718-531-9700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip M. Hines",
+          "title": "Partner",
+          "email": "phines@heldhines.com",
+          "phone": "718-531-9700",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

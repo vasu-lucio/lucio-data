@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Sperber, Hoffman, Stein & Scampoli, LLP",
+    "website": null,
+    "city": "Garden City, New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Sperber, Hoffman, Stein & Scampoli, LLP is a law firm located in Garden City, New York.",
+    "notable_facts": [
+      "The firm was founded in 2022.",
+      "The firm has between 1-10 employees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Leonard Sperber",
+        "title": "Managing Partner",
+        "email": "sperberlaw(a)optonline.net",
+        "phone": "(516) 739-3979",
+        "linkedin_url": "https://www.linkedin.com/in/leonard-sperber-80660115"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle Stein",
+          "title": "Partner/Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/michelle-stein-22177121"
+        },
+        {
+          "name": "Warren Stuart Hoffman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea Katherine Scampoli",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

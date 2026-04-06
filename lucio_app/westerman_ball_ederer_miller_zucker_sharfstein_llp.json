@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Westerman Ball Ederer Miller Zucker & Sharfstein, LLP",
+    "website": "https://www.westermanllp.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Corporate Law",
+      "Construction Law",
+      "Commercial Litigation",
+      "Bankruptcy, Workout and Restructuring",
+      "Trusts, Estates and Fiduciary Litigation",
+      "Real Estate Leasing, Acquisition, Sale, Finance, and Development",
+      "Labor/Employment Law"
+    ],
+    "lawyer_count": 52,
+    "firm_description": "Westerman Ball Ederer Miller Zucker & Sharfstein, LLP is a full-service commercial law firm with offices headquartered in Nassau County, New York, providing expert legal services to assist clients in achieving their business objectives. They offer a wide range of legal services in areas such as corporate law, litigation, real estate, and bankruptcy.",
+    "notable_facts": [
+      "The firm's attorneys are trained at large NYC law firms.",
+      "The firm is committed to working on the cutting edge of the law affecting their clients.",
+      "Attorneys are encouraged to actively support the community."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Greg S. Zucker",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Philip Sharfstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Annie Kubic",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony P Decapua",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

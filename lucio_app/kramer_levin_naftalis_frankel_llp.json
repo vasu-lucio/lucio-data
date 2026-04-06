@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Kramer Levin Naftalis & Frankel LLP",
+    "website": "https://www.kramerlevin.com/en/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy and Restructuring",
+      "Real Estate",
+      "Litigation",
+      "Corporate",
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kramer Levin provides proactive, creative and pragmatic solutions that address today\u2019s most challenging legal issues. The firm is headquartered in New York with offices in Silicon Valley and Washington, DC, and fosters a strong culture of involvement in public and community service.",
+    "notable_facts": [
+      "The firm has offices in New York, Silicon Valley, and Washington, D.C.",
+      "The firm is led by co-managing partners Paul H. Schoeman and Howard T. Spilko.",
+      "Paul J. Andre serves as office managing partner of the Silicon Valley office."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Paul H. Schoeman",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Howard T. Spilko",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Joseph J. Palmeri",
+        "title": "Managing Director, Chief Information and Infrastructure Officer",
+        "email": "jpalmeri@kramerlevin.com",
+        "phone": "212.715.7669",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jody Maier",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

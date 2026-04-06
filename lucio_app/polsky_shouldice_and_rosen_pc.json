@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Polsky, Shouldice & Rosen, P.C.",
+    "website": "https://workerscompny.com/",
+    "city": "Rockville Centre",
+    "practice_areas": [
+      "Workers' Compensation Law"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Polsky, Shouldice & Rosen, P.C. is a New York-based law firm dedicated to representing injured workers in workers' compensation claims. With over 30 years of experience, their team of attorneys and bilingual staff help clients get the maximum benefits from their claims.",
+    "notable_facts": [
+      "The firm was founded in 1991.",
+      "They have offices in Rockville Centre, Brooklyn, and the Bronx.",
+      "They only practice New York Workers\u2019 Compensation Law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark Polsky",
+          "title": "Partner",
+          "email": null,
+          "phone": "(516) 594-0909",
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Rosen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Bolanos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Les Jarmol",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

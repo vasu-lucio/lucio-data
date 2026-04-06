@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Certain & Zilberg, PLLC",
+    "website": "certainlaw.com",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice",
+      "Products Liability",
+      "Personal Injury",
+      "Childhood Sex Abuse",
+      "Police Excessive Force",
+      "Civil Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Certain & Zilberg, PLLC is an award winning products liability and personal injury law firm with decades of trial experience and an earned reputation for obtaining some of the largest verdicts awarded in New York. Our firm known for its tireless work ethic, medical and technical knowledge, creativity, integrity and tenacious determination to obtain maximum results.",
+    "notable_facts": [
+      "Cases have been covered by major news outlets across the country.",
+      "Actively involved in advocating for the rights of injury victims, product safety, civil liberties and policing reforms.",
+      "Accepts referrals from attorneys across the country and offer trial counsel, local and co-counsel services."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Zilberg",
+        "title": "Managing Partner | Trial Lawyer",
+        "email": "mzilberg@certainlaw.com",
+        "phone": "212.687.7800",
+        "linkedin_url": "https://www.linkedin.com/in/michael-zilberg-1a42879"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary Certain",
+          "title": "Partner | Trial Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary Weisberg",
+          "title": "Trial Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/zachary-weisberg-012aa524"
+        },
+        {
+          "name": "Lucia Kello",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gulrukh Harron",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

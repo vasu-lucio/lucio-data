@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "Catafago Fini LLP",
+    "website": "https://www.catafagofini.com/",
+    "city": null,
+    "practice_areas": [
+      "Business Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Catafago Fini LLP is a boutique business litigation law firm offering clients experience and skills gained from years of experience in large firms, handling cases in federal and state courts. The firm aims to offer high-quality legal services efficiently to meet client budgets and goals.",
+    "notable_facts": [
+      "Partners have over half a century of combined experience.",
+      "Firm offers alternative and creative fee structures."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jacques Catafago",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tom M. Fini",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

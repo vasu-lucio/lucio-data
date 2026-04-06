@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Katsky Korins LLP",
+    "website": "https://katskykorins.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Real Estate",
+      "Corporate",
+      "Tax",
+      "Bankruptcy & Creditors\u2019 Rights",
+      "Trusts & Estates",
+      "Matrimonial & Family Law",
+      "Construction",
+      "International Private Client",
+      "Investigations & Enforcement"
+    ],
+    "lawyer_count": 38,
+    "firm_description": "Katsky Korins LLP is a full-service New York law firm with a sophisticated practice spreading over all major fields of commercial work. They are known for imaginative thinking and exceptional service.",
+    "notable_facts": [
+      "Founded in 1975",
+      "One of the longest-standing general practice law firms of its size in New York City",
+      "Known for long-term client and lawyer relationships"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": null,
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert A Abrams",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shireen G Arani",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Arons",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Katsky Korins \u2014 built for full-service practices like yours",
+    "body": "Hi there,\n\nKatsky Korins has built something rare: nearly 50 years as one of NYC's longest-standing independent general practices, handling everything from litigation to international private client work. That breadth demands sophistication most legal tech overlooks.\n\nI lead business at Lucio, an AI platform built for boutique law firms handling BigLaw complexity with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices like yours: precision, client trust, and operational efficiency across multiple practice areas.\n\nHaving completed successful pilots on the East Coast, we're expanding regionally. I'd love to stop by your office to share how\u2014as ex-lawyers ourselves\u2014we're helping sophisticated independent firms compete without sacrificing the long-term relationships you're known for.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
+}

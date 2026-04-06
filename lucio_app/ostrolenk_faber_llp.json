@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Ostrolenk Faber LLP",
+    "website": "https://ostrolenk.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patent Law",
+      "Trademark Law",
+      "Copyright Law"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Ostrolenk Faber LLP is a premier intellectual property boutique law firm specializing in domestic and international intellectual property legal matters since 1929. The firm handles all aspects of IP law from counseling clients to prosecuting their applications to litigating their disputes.",
+    "notable_facts": [
+      "Founded in 1929",
+      "Specializes in intellectual property law",
+      "Client base spans from Fortune 500 companies to individual inventors"
+    ],
+    "technology_signals": [
+      "Tech Stack: well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Max Moskowitz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Faber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Hurley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kourosh Salehi",
+          "title": "Partner, Patent Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis Dujmich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

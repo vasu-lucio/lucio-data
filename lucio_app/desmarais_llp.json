@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Desmarais LLP",
+    "website": "https://www.desmaraisllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property Litigation",
+      "Technology-driven Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Desmarais LLP focuses on the litigation of complex, often technology-driven disputes. Our lawyers have successfully tried some of the most important intellectual property disputes in recent times, for some of the largest companies in the world.",
+    "notable_facts": [
+      "Flexible and innovative approach to fee arrangements.",
+      "Ranks as a leading IP firm by Benchmark Litigation.",
+      "The firm has offices in New York, San Francisco, and Washington, D.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John M. Desmarais",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Benjamin N. Luehrs",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Goutam Patnaik",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tuhin Ganguly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Shaw",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

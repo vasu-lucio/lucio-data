@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Clifford Chance",
+    "website": "https://www.cliffordchance.com",
+    "city": "London",
+    "practice_areas": [
+      "M&A",
+      "Energy",
+      "Infrastructure",
+      "Private Capital",
+      "Cross-border transactions",
+      "Environmental transactions",
+      "Regulatory law",
+      "Tax law",
+      "Technology law",
+      "Latin American matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Clifford Chance is a global law firm advising clients on energy, infrastructure, environmental transactions, regulatory, tax, M&A, private capital, technology and Latin American matters.",
+    "notable_facts": [
+      "Opened Houston office in 2023 to expand the firm's global Energy & Infrastructure practice.",
+      "Houston office has grown to more than 40 attorneys.",
+      "Charles Adams re-elected as Global Managing Partner for a second term commencing May 1, 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Charles Adams",
+        "title": "Global Managing Partner",
+        "email": "Email Charles",
+        "phone": "+3902806341",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexandra L. Wilde",
+          "title": "Office Managing Partner, Houston",
+          "email": "Email Alexandra L.",
+          "phone": "+17138212830",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sharis A. Pozen",
+          "title": "Regional Managing Partner for the Americas",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adrian Cartwright",
+          "title": "Global Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

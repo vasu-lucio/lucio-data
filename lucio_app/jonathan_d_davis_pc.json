@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Jonathan D. Davis, P.C.",
+    "website": "https://www.jddavispc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Entertainment Law",
+      "Copyright",
+      "Contract Disputes",
+      "Employment Disputes",
+      "Talent-related Disputes",
+      "Trademark",
+      "Unfair Competition",
+      "Licensing",
+      "Misappropriation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jonathan D. Davis, P.C. handles all types of commercial litigation, although it has built its reputation on cases in the entertainment field. The firm provides its clients with the highest quality legal services at rates that are consistent with the size and nature of the matter.",
+    "notable_facts": [
+      "The firm was established in 1993.",
+      "The firm's lawyers have prosecuted and defended cases in the music, publishing, theater, and motion picture industries.",
+      "Jonathan D. Davis has been selected as a Super Lawyer for the New York Metro Area since 2010."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan D. Davis",
+        "title": "Shareholder",
+        "email": "jdd@jddavispc.com",
+        "phone": "212.687.5464",
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-d-davis-70b62625"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

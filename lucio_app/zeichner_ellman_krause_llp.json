@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Zeichner Ellman & Krause LLP",
+    "website": "https://zeklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Banking and Finance",
+      "Litigation",
+      "Arbitration",
+      "General Commercial and Corporate Law",
+      "Real Estate",
+      "Securities",
+      "Trusts and Estates",
+      "Insurance",
+      "Creditors' Rights and Bankruptcy"
+    ],
+    "lawyer_count": 53,
+    "firm_description": "Zeichner Ellman & Krause LLP is a full-service business law firm built on sophistication, client-centric service and competitive advantage. The Firm regularly handles matters involving domestic and international banking and finance, government investigations, financial crime compliance, white collar defense, cybersecurity, litigation and arbitration, debtor-creditor relations, restructuring and bankruptcy, legal process compliance, real estate, general commercial and corporate law, insurance, hospitality and the food and beverage industry.",
+    "notable_facts": [
+      "Maintains offices in midtown Manhattan, New Jersey, Connecticut, Washington, DC and Tel Aviv, Israel.",
+      "Founded in 1980"
+    ],
+    "technology_signals": [
+      "jQuery CDN",
+      "Cloudflare",
+      "Microsoft 365",
+      "jQuery",
+      "Video.js",
+      "Modernizr",
+      "PHP",
+      "Apache"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michael Cascio",
+        "title": "Controller",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel Rubel",
+          "title": "Partner and Co-Head of Israel Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Zeichner",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Kiernan",
+          "title": "RECORDS INFORMATION MANAGER",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jose Taveras",
+          "title": "IT Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

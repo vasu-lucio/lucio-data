@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Serling Rooks Hunter McKoy Worob & Averill LLP",
+    "website": "https://www.serlingrooks.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Entertainment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Serling Rooks Hunter McKoy Worob & Averill LLP is an entertainment law firm based in New York City and Nashville, TN.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph Lloyd Serling",
+          "title": "Founding and Senior Partner",
+          "email": "[[email protected]]",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wayne Rooks",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike McKoy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeff Worob",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Averill",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

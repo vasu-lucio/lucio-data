@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Grimaldi Yeung Law Group",
+    "website": "https://gylawny.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Elder Law",
+      "Estate and Tax Planning",
+      "Trust and Estate Administration",
+      "Care Advocacy",
+      "Medicaid"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Grimaldi Yeung Law Group is a New York City-based law firm specializing in elder law, estate planning, and related areas. They provide legal guidance and resources to handle estate and elder law needs.",
+    "notable_facts": [
+      "Successfully completed 8000 cases.",
+      "The firm has 16 years as a practice.",
+      "The firm has 200 years of combined experience among its staff.",
+      "The firm has 20 dedicated attorneys and staff."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Judith D. Grimaldi",
+          "title": "Retired Founding Partner/Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Angela Choy",
+        "title": "Office Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Pauline Yeung-Ha",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David I. Kronenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joanne Seminara",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Monica Falcone",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

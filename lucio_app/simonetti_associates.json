@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Simonetti & Associates",
+    "website": "https://bestlongislanddivorce.com/",
+    "city": "Westbury",
+    "practice_areas": [
+      "Divorce",
+      "Family Law",
+      "Adoption",
+      "Alimony",
+      "Child Custody",
+      "Divorce Mediation",
+      "Equitable Distribution of Assets",
+      "Fathers' Rights"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Simonetti & Associates is a family law firm that provides services in family law, adoption, and alimony. They have been awarded Long Island's Best Divorce Lawyer ten years in a row.",
+    "notable_facts": [
+      "Voted Best Divorce Firm On Long Island Ten Years in a Row",
+      "Attorneys have more than 75 years of combined experience.",
+      "Founded in 1990"
+    ],
+    "technology_signals": [
+      "juris"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Louis F. Simonetti Jr.",
+        "title": "Founder & Managing Partner",
+        "email": null,
+        "phone": "877-385-2560",
+        "linkedin_url": "https://www.linkedin.com/in/louis-f-simonetti-jr-4986431b"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Louis F. Simonetti Jr.",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/louis-f-simonetti-jr-4986431b"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Megan Long",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charlotte Betts",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Drake Loeb PLLC",
+    "website": "https://www.drakeloeb.com/",
+    "city": "New Windsor",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Drake Loeb PLLC is a prominent, mid-sized law firm located in the Hudson Valley. The firm is distinguished as a leader in providing legal representation on a broad range of areas to individuals, businesses, non-profit organizations, insurance carriers and municipalities.",
+    "notable_facts": [
+      "AV-preeminent Martindale-Hubbell rating"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jennifer L. Schneider",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": "845-561-0550",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard J. Drake",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James R. Loeb",
+          "title": "Founder & Retired Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Glen L. Heller",
+          "title": "Partner",
+          "email": null,
+          "phone": "845.561.0550",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marianna R. Kennedy",
+          "title": "Partner",
+          "email": null,
+          "phone": "845.561.0550",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary J. Gogerty",
+          "title": "Partner",
+          "email": null,
+          "phone": "845.561.0550",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

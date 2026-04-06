@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Goldstein Hall PLLC",
+    "website": "https://www.goldsteinhall.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate Law",
+      "Affordable Housing",
+      "Community Development",
+      "Construction Law",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Goldstein Hall PLLC is a full service real estate law firm with a concentration in affordable housing and community development. They are a certified Benefit Corporation (B\u2010Corp.) committed to empowering their clients to build strong organizations and communities.",
+    "notable_facts": [
+      "Certified B-Corp",
+      "Concentrates in affordable housing and community development",
+      "Founded in 2006"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David A. Goldstein",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/david-a-goldstein"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Julia Chang",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Hall",
+          "title": "Senior Partner",
+          "email": "[email protected]",
+          "phone": "646.768.4102",
+          "linkedin_url": "https://www.goldsteinhall.com/our-team/matthew-hall/"
+        },
+        {
+          "name": "Brian Hsu",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Labate",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samantha Sayre",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Niki Tsismenakis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

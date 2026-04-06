@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Renaissance Technologies LLC",
+    "website": "https://www.rentec.com/",
+    "city": "East Setauket",
+    "practice_areas": [
+      "Investment Management"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Renaissance Technologies is an investment management firm that employs mathematical and statistical methods in the design and execution of its investment programs. The firm was founded in 1982 and is headquartered in East Setauket, New York.",
+    "notable_facts": [
+      "Employs mathematical and statistical methods in investment programs",
+      "Significant employee investment in managed funds",
+      "Average employee tenure exceeds 14 years"
+    ],
+    "technology_signals": [
+      "Data-driven approach across all funds",
+      "Research database grows by over 40 terabytes daily",
+      "Utilizes 50,000 computer cores with global connectivity"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jim Rowen",
+        "title": "COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Katie Fallows",
+          "title": "Executive Vice President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ezequiel Leandro Buscemi",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Mackay",
+          "title": "CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John F",
+          "title": "Director of Human Resources",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Toni Kinsel",
+          "title": "Director of Sales and Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ed Bradley",
+          "title": "Senior Vice President Finance, Administrator and Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Aldrich",
+          "title": "Vice President of Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Lever & Ecker, PLLC",
+    "website": "https://leverecker.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Personal Injury Law"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Lever & Ecker, PLLC, is a plaintiff\u2019s personal injury practice located in White Plains, New York. David B. Lever, Daniel G. Ecker and Adam C. Weiss have more than 70 years of combined legal experience working to help those who have sustained life-changing injuries and losses.",
+    "notable_facts": [
+      "The firm was founded in 2019.",
+      "The firm's lawyers have more than 70 years of combined legal experience.",
+      "The firm focuses on representing individuals injured in accidents through no fault of their own."
+    ],
+    "technology_signals": [
+      "smartadvocate",
+      "linkedin",
+      "microsoft",
+      "facebook",
+      "microsoft teams",
+      "crisp",
+      "lever",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam C. Weiss",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-288-9191",
+          "linkedin_url": null
+        },
+        {
+          "name": "David B. Lever",
+          "title": "Founder and Senior Partner",
+          "email": null,
+          "phone": "914-288-9191",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel G. Ecker",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "914-288-9191",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

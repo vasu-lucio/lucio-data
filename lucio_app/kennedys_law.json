@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Kennedys Law LLP",
+    "website": "https://www.kennedyslaw.com/en/",
+    "city": "London",
+    "practice_areas": [
+      "Dispute Resolution",
+      "Advisory Services",
+      "Insurance",
+      "Reinsurance",
+      "Aviation",
+      "Banking and Finance",
+      "Construction and Engineering",
+      "Healthcare",
+      "Life Sciences",
+      "Marine",
+      "Public Sector",
+      "Rail",
+      "Real Estate",
+      "Retail",
+      "Shipping and International Trade",
+      "Sport and Leisure",
+      "Transport and Logistics",
+      "Travel and Tourism",
+      "Company and Commercial Law",
+      "Corporate Recovery",
+      "Employment",
+      "Environment",
+      "Health and Safety",
+      "Fraud and Regulatory Defence"
+    ],
+    "lawyer_count": 2900,
+    "firm_description": "Kennedys Law LLP is a global law firm with expertise in dispute resolution and advisory services, particularly in the insurance/reinsurance and liability industries. They offer straightforward advice and industry insights to navigate complex challenges.",
+    "notable_facts": [
+      "Ranked as a market leader in the insurance sector.",
+      "Total global revenue for 2024/25 was \u00a3428m, an increase of 13%.",
+      "The firm has 46 offices around the world and 77 offices, associations and co-operations globally."
+    ],
+    "technology_signals": [
+      "Kennedys IQ provides technology and claims solutions to the insurance sector.",
+      "Kennedys IQ launched an Insurtech industry\u2019s first neuro-symbolic AI solution for global insurance market.",
+      "Kennedys IQ and Solomonic collaborate on litigation data."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "CIO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Kennedys IQ launched an Insurtech industry\u2019s first neuro-symbolic AI solution for global insurance market."
+      },
+      "additional_contacts": [
+        {
+          "name": "Nick Williams",
+          "title": "Partner | Head of Insurance Division",
+          "email": "Nick.Williams@kennedyslaw.com",
+          "phone": "+44 20 7667 9328",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

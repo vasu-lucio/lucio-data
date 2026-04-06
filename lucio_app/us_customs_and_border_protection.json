@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "U.S. Customs and Border Protection",
+    "website": "https://cbp.gov/",
+    "city": null,
+    "practice_areas": [
+      "Trade",
+      "Travel",
+      "National Security",
+      "Border Security",
+      "Counterterrorism",
+      "Trade Enforcement"
+    ],
+    "lawyer_count": null,
+    "firm_description": "U.S. Customs and Border Protection (CBP) is the law enforcement agency responsible for securing U.S. borders and facilitating international trade and travel.",
+    "notable_facts": [
+      "CBP has more than 67,000 employees.",
+      "CBP's budget is more than $19 billion.",
+      "CBP oversees the daily operations related to trade, travel, and national security."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rodney S. Scott",
+        "title": "Commissioner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "John Modlin",
+        "title": "Acting Deputy Commissioner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jason Owens",
+        "title": "Acting Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle Zebrowski",
+          "title": "Chief Data Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pete R. Flores",
+          "title": "Acting Commissioner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

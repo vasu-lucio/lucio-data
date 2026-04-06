@@ -1,0 +1,60 @@
+{
+  "firm_data": {
+    "firm_name": "Israel Purdy, LLP",
+    "website": "https://www.israelpurdy.com/",
+    "city": "Great Neck",
+    "practice_areas": [
+      "Personal Injury",
+      "Criminal Defense",
+      "Family & Divorce",
+      "Estate & Probate",
+      "Business Law",
+      "Immigration",
+      "Bankruptcy",
+      "Real Estate",
+      "No-Fault Reimbursement"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "Israel Purdy, LLP is a full-service law firm, one of the oldest and largest no-fault law firms in New York State, concentrating in no-fault reimbursement for health care providers.",
+    "notable_facts": [
+      "The firm was founded in 1973.",
+      "The firm employs over 85 people, including 21 attorneys.",
+      "The firm's clients include hospitals, diagnostic centers, and solo practitioners."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

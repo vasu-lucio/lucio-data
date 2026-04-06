@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Eisner, LLP",
+    "website": "https://eisnerlaw.com/",
+    "city": "Beverly Hills",
+    "practice_areas": [
+      "Corporate",
+      "Entertainment",
+      "Litigation",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Eisner, LLP is a bi-coastal business and entertainment law firm with offices in Los Angeles and New York. They offer counsel in transactions, advocacy in litigation, and advice on corporate and commercial issues.",
+    "notable_facts": [
+      "The firm began as a solo entertainment law practice 25 years ago.",
+      "Eisner, LLP has offices in Beverly Hills and New York.",
+      "The firm serves clients in hospitality, retail, finance, real estate, and other industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Eisner",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carolynn Beck",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Gutglass",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aron Izower",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Jacobus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian D. Kilb",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Krauss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Michailidis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wesley W. Morrow",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

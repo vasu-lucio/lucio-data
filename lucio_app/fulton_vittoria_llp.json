@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Fulton Vittoria LLP",
+    "website": "https://www.fultonvittoria.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Trusts and Estates",
+      "Trust and Estate Litigation",
+      "Tax Exempt Organizations",
+      "General Corporate Matters",
+      "General Litigation",
+      "Alternative Dispute Resolution",
+      "Residential Real Estate Transactions",
+      "Small Business Representation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fulton Vittoria LLP is the result of the merger of Fulton, Rowe & Hart LLP with Vittoria Purdy & Cavallaro LLP on January 1, 2016. The firm concentrates on trusts and estates, trust and estate litigation, tax exempt organizations, general corporate matters, general litigation, and alternative dispute resolution.",
+    "notable_facts": [
+      "Fulton, Rowe & Hart LLP was formed in 1946.",
+      "Vittoria Purdy & Cavallaro was formed in 1975."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Hugh Fulton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rudolph Halley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Henry G. Walter, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Theodore J. Vittoria, Jr.",
+          "title": "Partner",
+          "email": "tv@fultonvittoria.com",
+          "phone": "(212) 586-0700",
+          "linkedin_url": null
+        },
+        {
+          "name": "James A. Purdy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maurizio J. Morello",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura Golfo",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 586-0700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

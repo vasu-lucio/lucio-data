@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Alonso & Facher, P.C.",
+    "website": "https://www.alonsolegal.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Transactions",
+      "Employment",
+      "Securities",
+      "Real Estate"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Alonso & Facher, P.C. offers a full range of legal services to businesses and individuals on a complete spectrum of commercial litigation and transactions, employment, securities and real estate matters.",
+    "notable_facts": [
+      "Represent major banks, broker-dealers and clearing companies.",
+      "Represent restaurants, nightclubs, lounges and bars."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark J. Alonso",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/mark-alonso-66993311"
+        },
+        {
+          "name": "Catania T. Facher",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin Mac Avoy",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna Hallam",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/alonso-andalkar-&-kahn-p.c.",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

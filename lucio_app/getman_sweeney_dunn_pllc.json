@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Getman, Sweeney & Dunn",
+    "website": "https://getmansweeney.com/",
+    "city": null,
+    "practice_areas": [
+      "Wage and Hour Law",
+      "Labor Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Getman, Sweeney & Dunn represents employees and independent contractors working throughout the U.S. They handle wage and hour lawsuits nationwide and regularly sue multinational and Fortune 500 companies.",
+    "notable_facts": [
+      "The firm has recovered more than a hundred million dollars in pay wrongfully taken from employees.",
+      "They handle cases for individual workers just as diligently as class actions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Dan Getman",
+          "title": "Founding Partner (retired)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matt Dunn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Sweeney",
+          "title": "retired",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Whitney Flanagan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Caroline Friedman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca King",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

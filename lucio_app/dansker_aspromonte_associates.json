@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Dansker & Aspromonte Associates LLP",
+    "website": "https://www.dandalaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury Litigation",
+      "Car Accidents",
+      "Construction Accidents",
+      "Wrongful Death Cases"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Dansker & Aspromonte Associates LLP has been advocating for the rights of the injured since 1986, winning more than $750 million in verdicts and settlements for their clients. The firm is known for providing personal attention and hard-hitting litigation.",
+    "notable_facts": [
+      "The firm was founded in 1989 by Paul D. Dansker and Salvatore Aspromonte.",
+      "The firm has won over $750 million in verdicts and settlements for clients.",
+      "The firm provides each client with a managing partner and trial partner dedicated to their case."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Salvatore Aspromonte",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Paul D. Dansker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Douglas Hoffer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Raymond Maceira",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

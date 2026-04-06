@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP",
+    "website": "https://www.gunder.com/en",
+    "city": "Silicon Valley",
+    "practice_areas": [
+      "Venture Capital",
+      "Emerging Companies",
+      "Private Funds",
+      "Public Companies"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gunderson Dettmer is a law firm focused on the venture capital and emerging companies ecosystem, representing venture capital and growth equity investors and pioneering companies through inception, growth and maturity, as well as groundbreaking public companies. They are ranked #1 VC law firm globally by PitchBook for the twelfth year in a row.",
+    "notable_facts": [
+      "Ranked #1 VC Law Firm Globally by PitchBook for twelve years in a row.",
+      "Recognized by Best Lawyers as 2024 Law Firm of the Year in Venture Capital"
+    ],
+    "technology_signals": [
+      "GDHQ - Team Collaboration Platform"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert V. Gunderson, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan J. Gunderson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Aaron G. Rubin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hilary M. Adams",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Gunderson Dettmer \u2014 built for firms like yours",
+    "body": "Hi there,\n\nGunderson Dettmer's #1 ranking as a VC law firm for twelve consecutive years speaks to your team's ability to handle complex, high-stakes deals across venture capital, growth equity, and emerging companies\u2014all with lean, focused teams. That's exactly the pressure point we solve.\n\nI lead business at Lucio, an AI platform built for boutique law firms that face BigLaw demands without BigLaw headcount. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and real efficiency gains on venture and emerging company work.\n\nHaving completed successful pilots on the East Coast, we're expanding into Silicon Valley. I'd be happy to stop by your office to share how\u2014as ex-lawyers ourselves\u2014we're helping firms like yours compete and scale.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
+}

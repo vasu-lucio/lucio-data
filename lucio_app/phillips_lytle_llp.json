@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Phillips Lytle LLP",
+    "website": "https://www.phillipslytle.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Corporate and Securities",
+      "Private Equity",
+      "Venture Capital",
+      "Tax",
+      "Mergers and Acquisitions",
+      "Intellectual Property",
+      "Employee Benefits and Executive Compensation",
+      "Health Care",
+      "Litigation",
+      "Real Estate",
+      "Energy and Environment"
+    ],
+    "lawyer_count": 170,
+    "firm_description": "Phillips Lytle LLP is a preeminent law firm that provides the highest level of client service, serving a multinational client base including Fortune 500 and 1000 companies. The firm is a multifaceted law firm with a wide range of practice areas.",
+    "notable_facts": [
+      "Founded in 1834",
+      "Has offices across New York State, as well as in Washington, D.C., Chicago, IL and the Waterloo Region of Canada",
+      "Routinely recognized by Chambers USA, Legal 500, Best Lawyers in America\u00ae, Best Law Firms\u00ae and Super Lawyers\u00ae"
+    ],
+    "technology_signals": [
+      "AI",
+      "Cybersecurity",
+      "e-Discovery",
+      "Data Privacy"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Douglas W. Dimitroff",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Orsamus H. Marshall",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Grover Cleveland",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Walter P. Cooke",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. Kenefick",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George F. Phillips",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William E. Lytle",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "The West Firm, PLLC",
+    "website": "https://westfirmlaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Energy Development",
+      "Environmental Law",
+      "Corporate Law",
+      "Administrative Law",
+      "Banking & Financial Services",
+      "Commercial Real Estate"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "The West Firm, PLLC is a boutique law firm known for development and execution of efficient and innovative strategies to resolve its clients\u2019 legal issues in New York and Pennsylvania. A team of highly knowledgeable attorneys provides a full range of services.",
+    "notable_facts": [
+      "Founded in 2006",
+      "Located in Albany, New York",
+      "Provides experienced representation for a range of complex commercial, energy, litigation and development issues"
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory A. Mountain",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas S. West",
+          "title": "Founding Partner",
+          "email": "twest@westfirmlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael W. Peters",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cindy M. Monaco",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "S. David Devaprasad",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark J. Wagner Jr.",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew W. Rimkunas",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis D. Bianchi",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

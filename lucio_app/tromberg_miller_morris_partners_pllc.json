@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Tromberg, Miller, Morris & Partners, PLLC",
+    "website": "https://tmppllc.com/",
+    "city": "Deerfield Beach",
+    "practice_areas": [
+      "Debt Collections",
+      "Foreclosure",
+      "Bankruptcy",
+      "Eviction",
+      "Title",
+      "Litigation",
+      "Appeals",
+      "Compliance",
+      "Real Estate Transactions"
+    ],
+    "lawyer_count": 64,
+    "firm_description": "Tromberg, Miller, Morris and Partners, PLLC (TMMP) provides comprehensive legal solutions to creditors across Florida, Georgia, New Jersey, New York, Puerto Rico, Tennessee, Texas and Virginia. They offer a full range of creditor rights services including foreclosure, bankruptcy, collections, litigation, real estate transactions, title curative work, evictions, and appellate advocacy.",
+    "notable_facts": [
+      "The firm is a creditor-focused law firm.",
+      "The firm has offices across multiple states including Florida, Georgia, New Jersey, New York, Puerto Rico, Tennessee, Texas, and Virginia.",
+      "The firm's clients include servicers, banks, credit unions, investors, private equity firms, and hedge funds."
+    ],
+    "technology_signals": [
+      "QuickBooks",
+      "CaseWare",
+      "Impact"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Justin Grigg",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven Pearlman",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea Tromberg",
+          "title": "Managing Member",
+          "email": "info@tmppllc.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ari Miller",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Morris",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dustin George",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "ReShaundra Marie Suggs",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Rodstein",
+          "title": "Managing Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

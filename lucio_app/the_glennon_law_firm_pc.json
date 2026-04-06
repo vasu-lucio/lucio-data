@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "The Glennon Law Firm, P.C.",
+    "website": "https://www.glennonlawfirm.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Business Litigation",
+      "Employment Law",
+      "Trust & Estate Litigation",
+      "Matrimonial Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Glennon Law Firm, P.C. is a boutique litigation and dispute resolution firm focused on helping clients resolve disputes prior to formal courtroom battles, and be successful if a courtroom is necessary. The firm's practice focuses on resolving business, employment, and private matter disputes for its clients, which include business owners, executives, and other professionals.",
+    "notable_facts": [
+      "Several attorneys have clerked at the federal or state level.",
+      "Attorneys have previously practiced at large international law firms.",
+      "Consistently included in the Super Lawyers list.",
+      "Continuously included in Best Lawyers & Best Law Firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Peter J. Glennon",
+        "title": "Principal Litigation Attorney",
+        "email": "PGlennon@GlennonLawFirm.com",
+        "phone": "585-210-2150",
+        "linkedin_url": "https://www.linkedin.com/company/the-glennon-law-firm-p-c-"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kimberly A. Glennon",
+          "title": "Principal Litigation Attorney",
+          "email": null,
+          "phone": "585-294-0303",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Proto, Sachs & Brown, LLP",
+    "website": "https://www.psbnylaw.com",
+    "city": "White Plains",
+    "practice_areas": [
+      "Criminal Defense",
+      "DWI",
+      "Divorce",
+      "Family Law",
+      "Traffic Violations"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Proto, Sachs & Brown, LLP is a law firm specializing in criminal defense, divorce, and family law with offices in White Plains and Cortlandt Manor, New York. They offer comprehensive legal advice and planning with a focus on protecting clients' interests.",
+    "notable_facts": [
+      "Attorneys have over 100 years of combined experience.",
+      "Attorneys are former Assistant District Attorneys.",
+      "Attorneys are published authors in the areas of DWI law, general criminal defense and drug crime defenses.",
+      "The firm was founded in 2006."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew J. Proto",
+        "title": "Partner",
+        "email": null,
+        "phone": "914-840-5104",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David R. Sachs",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keith M. Brown",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Irene Martinez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William Cally",
+          "title": "Matrimonial and Family Law Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laine Vitkevich",
+          "title": "Matrimonial and Family Law Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

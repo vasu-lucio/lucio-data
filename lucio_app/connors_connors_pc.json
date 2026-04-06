@@ -1,0 +1,59 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Firm of Connors & Connors, P.C.",
+    "website": "https://connorslaw.com/",
+    "city": "Staten Island",
+    "practice_areas": [
+      "Defense of liability claims",
+      "Personal Injury",
+      "Motor Vehicle Accidents",
+      "Premises Liability",
+      "Construction Sites",
+      "Defective Products",
+      "Negligent Security",
+      "Dental Malpractice"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "The Law Firm of Connors & Connors, P.C. focuses on the defense of liability claims, understanding the critical issues and internal pressures clients face. They aim to deliver necessary results and respectful service, offering skill, experience, and focus to protect businesses and organizations.",
+    "notable_facts": [
+      "Founded in 1955",
+      "High percentage of clients come by way of referral",
+      "Defends cases throughout the City of New York and New Jersey"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John P. Connors, Jr.",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "718-619-4601",
+        "linkedin_url": "https://www.linkedin.com/in/john-p-connors-jr-b8022a1b"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

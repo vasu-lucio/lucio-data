@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Pillinger Miller Tarallo, LLP",
+    "website": "https://pmtlawfirm.com/",
+    "city": "Elmsford",
+    "practice_areas": [
+      "Insurance Defense Litigation",
+      "Civil Litigation",
+      "Complex Asbestos",
+      "Automobile/No-Fault",
+      "Construction/Labor Law",
+      "Dram Shop Liability",
+      "Employment Practices",
+      "Environmental and Toxic Tort",
+      "General Liability",
+      "Insurance Coverage",
+      "Municipal Defense",
+      "Non-Profit Organizations",
+      "Ocean/Marine and Complex Property Claims",
+      "Products Liability",
+      "Professional Liability",
+      "Reinsurance",
+      "Subrogation",
+      "Transportation and Trucking",
+      "Workers\u2019 Compensation"
+    ],
+    "lawyer_count": 91,
+    "firm_description": "Pillinger Miller Tarallo, LLP (PMT) is a highly-experienced insurance defense litigation firm that began in 2002 and has grown to over 100 lawyers located throughout New York, Connecticut, New Jersey, and Pennsylvania. PMT provides highly-experienced representation to clients in all areas of civil litigation with the primary objective of swift, cost-effective resolution of cases with the most favorable outcome possible.",
+    "notable_facts": [
+      "AV rated by Martindale-Hubbell",
+      "Attorneys have tried over 500 cases since the formation of the firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard J. Freire",
+          "title": "Executive Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey T. Miller",
+          "title": "Executive Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc H. Pillinger",
+          "title": "Executive Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey D. Schulman",
+          "title": "Executive Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

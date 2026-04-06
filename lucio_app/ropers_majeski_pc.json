@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Ropers Majeski PC",
+    "website": "https://www.ropers.com/",
+    "city": "Menlo Park",
+    "practice_areas": [
+      "Litigation",
+      "Business Transaction Services",
+      "Construction",
+      "Real Estate",
+      "Employment Law",
+      "Intellectual Property",
+      "Commercial Litigation",
+      "Transaction Services"
+    ],
+    "lawyer_count": 108,
+    "firm_description": "Ropers Majeski has provided high-quality legal advice to a wide range of clients for more than 75 years. With offices worldwide, they handle complex business challenges and provide sophisticated advice to companies and individuals.",
+    "notable_facts": [
+      "Founded in 1950",
+      "Has eight offices worldwide",
+      "Named to LABJS 2026 Top Law Firms List",
+      "Ranked 86 among 2025 Top Law Firms in the Bay Area"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher Gioia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan Hart",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Billy Kim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren Birkenstock",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Angie Chang",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adeel Jamaluddin",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

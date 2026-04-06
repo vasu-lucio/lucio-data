@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "MG+M The Law Firm",
+    "website": "https://www.mgmlaw.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Tort and class action litigation",
+      "Commercial litigation",
+      "Design professionals litigation",
+      "Employment litigation",
+      "Environmental litigation",
+      "Corporate law and transactions",
+      "Construction and land use litigation",
+      "PFAS litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "MG+M The Law Firm is a national litigation powerhouse representing corporate defendants in high-stakes litigation. They offer custom solutions and build trial-ready cases, often encouraging voluntary dismissals and settlements.",
+    "notable_facts": [
+      "Attorneys have handled litigation in all 50 states",
+      "Resolved tens of thousands of cases",
+      "Ranked as a top-tier law firm by Best Law Firms\u00ae",
+      "Named to the Best Companies to Work For: Law Firms list by U.S. News & World Report",
+      "Recognized with Mansfield Certification Plus status"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Christopher P. McDevitt",
+        "title": "Chief Operating Officer",
+        "email": "cmcdevitt@mgmlaw.com",
+        "phone": "617 670 8419",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David R. Gold",
+          "title": "Partner",
+          "email": "dgold@mgmlaw.com",
+          "phone": "213 694 4205",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary C. Rau",
+          "title": "Chief Human Relations Officer",
+          "email": "mrau@mgmlaw.com",
+          "phone": "312 625 4997",
+          "linkedin_url": null
+        },
+        {
+          "name": "James A. Donnelly",
+          "title": "Chief Information Officer",
+          "email": "jdonnelly@mgmlaw.com",
+          "phone": "617 670 8427",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary T. Tucker",
+          "title": "Director of Diversity, Equity, Inclusion + Belonging",
+          "email": "mtucker@mgmlaw.com",
+          "phone": "504 535 2867",
+          "linkedin_url": null
+        },
+        {
+          "name": "Chris R. Postizzi",
+          "title": "Chief Marketing + Business Development Officer",
+          "email": "cpostizzi@mgmlaw.com",
+          "phone": "617 670 8313",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

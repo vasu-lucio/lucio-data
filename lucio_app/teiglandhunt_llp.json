@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Teigland-Hunt LLP",
+    "website": "https://t-hllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trading agreements",
+      "Regulation",
+      "Derivatives",
+      "Securities Law",
+      "Commodities Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Teigland-Hunt LLP provides transactional and regulatory advice to market participants. They offer expertise in the negotiation of documentation across a wide range of transactions and navigate clients through financial regulation.",
+    "notable_facts": [
+      "Founded in 2002",
+      "Developed the T-H Tracker to help clients more efficiently manage and analyze their trading agreements.",
+      "Attorneys regularly participate in industry efforts to develop and enhance standardized documentation across the financial markets."
+    ],
+    "technology_signals": [
+      "T-H Tracker for managing and analyzing trading agreements"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Ryan C. Patino",
+        "title": "Managing Partner",
+        "email": "rpatino@t-hllp.com",
+        "phone": "(212) 269-1451",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Lauren Teigland-Hunt",
+        "title": "Partner",
+        "email": "lth@t-hllp.com",
+        "phone": "(212) 269-1002",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexander Hunt",
+          "title": "Partner",
+          "email": "ahunt@t-hllp.com",
+          "phone": "(212) 269-5371",
+          "linkedin_url": null
+        },
+        {
+          "name": "Simon L. Snyder",
+          "title": "Partner",
+          "email": "ssnyder@t-hllp.com",
+          "phone": "(415) 599-2068",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Silverman",
+          "title": "Of Counsel",
+          "email": "asilverman@t-hllp.com",
+          "phone": "(212) 269-5374",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

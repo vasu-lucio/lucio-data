@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Nishimura & Asahi",
+    "website": "https://nishimura.com/en",
+    "city": "Tokyo",
+    "practice_areas": [
+      "M&A",
+      "Corporate",
+      "Finance",
+      "Real Estate",
+      "Restructuring & Insolvency",
+      "Dispute Resolution",
+      "IP",
+      "Information Law",
+      "Corporate Crisis Management"
+    ],
+    "lawyer_count": 900,
+    "firm_description": "Nishimura & Asahi is Japan\u2019s largest full-service international law firm, with more than 900 professionals working in close collaboration across more than 22 offices around the world. The firm's fundamental mission is to realize an affluent and fair society based on the rule of law and committed to contributing to the growth of its clients and society.",
+    "notable_facts": [
+      "Founded in 1966",
+      "Has more than 22 offices around the world",
+      "Offers services including business consulting, financial operations, legal support, and multilingual translation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ryutaro Nakayama",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Katsuyuki Yamaguchi",
+          "title": "Partner, Chair (New York)",
+          "email": null,
+          "phone": "+81-3-6250-6216",
+          "linkedin_url": null
+        },
+        {
+          "name": "Megumi Shimizu",
+          "title": "Partner, Vice Chair (New York)",
+          "email": null,
+          "phone": "+81-3-6250-6491",
+          "linkedin_url": null
+        },
+        {
+          "name": "Yusuke Urano",
+          "title": "NY LLP Partner, New York Office Representative",
+          "email": null,
+          "phone": "+1-212-830-1612",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen D. Bohrer",
+          "title": "Partner",
+          "email": null,
+          "phone": "+81-3-6250-6348",
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy Jeffares",
+          "title": "Global Development Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

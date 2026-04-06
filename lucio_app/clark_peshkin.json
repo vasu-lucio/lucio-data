@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Clark Peshkin",
+    "website": "https://clarkpeshkin.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Estate Planning",
+      "Litigation",
+      "Mediation",
+      "Collaborative Law",
+      "Child Custody",
+      "Child Support"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Clark Peshkin is a New York State law firm dedicated exclusively to family law and estate planning. With a progressive approach and extensive experience, their practice focuses on divorce litigation, collaborative law, mediation, and comprehensive estate protection.",
+    "notable_facts": [
+      "The firm has offices in Rochester, Buffalo, and Syracuse, NY.",
+      "The firm integrates estate planning into their divorce and family law practice."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin Clark",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "585-695-5760",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Amber Peshkin",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeff Gerace",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lydia Rainey",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cynthia Carroll",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

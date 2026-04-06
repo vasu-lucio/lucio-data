@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Wrobel Markham LLP",
+    "website": "https://wmlawny.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Appeals",
+      "Arbitration & Mediation",
+      "Corporate Litigation",
+      "Employment Law",
+      "Fashion & Modeling",
+      "General Counsel",
+      "Dispute Avoidance",
+      "Commercial Real Estate",
+      "Corporate Dissolution and Valuation Proceedings",
+      "General Commercial Law and Counseling",
+      "Business Litigation",
+      "Legal Operations",
+      "Corporate Governance",
+      "Technology and Intellectual Property Licensing",
+      "Commercial Contract Negotiation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wrobel Markham LLP is a full-service boutique business law firm located in the heart of New York City, combining personal attention and focus with the highest standards of quality and professionalism.",
+    "notable_facts": [
+      "The firm has decades of experience in navigating the New York State court system.",
+      "David Wrobel has represented high profile clients such as the Shah of Iran, actress Catherine Deneuve, the legendary Moulin Rouge, Tavern on the Green, and NBC Universal."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David C. Wrobel",
+          "title": "Partner",
+          "email": "wrobel@wmlawny.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel F. Markham",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nina Markham",
+          "title": "Of Counsel",
+          "email": "nmarkham@wmlawny.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

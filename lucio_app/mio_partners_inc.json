@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "MIO & Partners",
+    "website": "https://www.miopartners.ae/",
+    "city": "Dubai",
+    "practice_areas": [
+      "Corporate",
+      "Commercial",
+      "Real Estate",
+      "Dispute Resolution",
+      "Banking & Finance",
+      "Arbitration",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "MIO & Partners is a law firm in the UAE with offices in Dubai and Abu Dhabi, advising local and international clients across the Emirates and wider region on corporate, real estate, and commercial matters. They are known for clarity, commercial depth, and grounded integrity.",
+    "notable_facts": [
+      "The firm has been advising clients for over 40 years.",
+      "MIO & Partners was a finalist at The Oath Legal Awards 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ahmed Odeh",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Abu Baker Salem",
+          "title": "Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Omar Odeh",
+          "title": "General Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Manek Palekar",
+          "title": "Principal Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jamal Baddour",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Walid Ahmed",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melwyn D\u2019Souza",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

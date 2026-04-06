@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Morea Schwartz Bradham Friedman & Brown LLP",
+    "website": "https://msbllp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Corporate Finance",
+      "Mergers and Acquisitions",
+      "Complex Commercial Litigation",
+      "Employment Matters",
+      "Intellectual Property",
+      "Trust and Estates Litigation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Morea Schwartz Bradham Friedman & Brown LLP is a New York City law firm that combines the sophistication and expertise of a large firm with the personal service and attention of a boutique firm. Our mission is to achieve sophisticated, innovative, practical and cost-effective solutions to our clients\u2019 complex business and legal challenges.",
+    "notable_facts": [
+      "Attorneys are graduates of top law schools.",
+      "Represents companies from start-ups to multibillion-dollar corporations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Douglas M. Morea",
+        "title": "Partner",
+        "email": "dmorea@msbllp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David A. Schwartz",
+          "title": "Partner",
+          "email": "dschwartz@msbllp.com",
+          "phone": "646 791 4530",
+          "linkedin_url": null
+        },
+        {
+          "name": "John M. Bradham",
+          "title": "Partner",
+          "email": "jbradham@msbllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles B. Friedman",
+          "title": "Of Counsel",
+          "email": "cfriedman@msbllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas A. Brown II",
+          "title": "Partner",
+          "email": "tbrown@msbllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christoffer Stromstedt",
+          "title": "Partner",
+          "email": "cstromstedt@msbllp.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

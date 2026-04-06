@@ -1,0 +1,54 @@
+{
+  "firm_data": {
+    "firm_name": "LaRocca, Hornik, Greenberg, Kittredge, Carlin & McPartland LLP",
+    "website": "https://lhgkcm.com/",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "LaRocca, Hornik, Greenberg, Kittredge, Carlin & McPartland LLP is a law firm focusing on Private Lender Group, Business, and Family law.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jon Hornik",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

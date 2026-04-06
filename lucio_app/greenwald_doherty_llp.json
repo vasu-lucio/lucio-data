@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "Greenwald Doherty, LLP",
+    "website": "https://www.greenwaldllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Litigation",
+      "Class Action",
+      "Wage and Hour",
+      "Overtime",
+      "Discrimination and Harassment",
+      "Leave Laws",
+      "Terminations and Layoffs",
+      "Preventive Counseling",
+      "Arbitration",
+      "Restrictive Covenant Creation and Enforcement",
+      "Management Training"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Greenwald Doherty provides comprehensive advice and representation that modern management needs to ensure effective labor and employment relations and defend against litigation. The firm emphasizes proactive legal support and preventive education to help clients avoid liability and reputational risks.",
+    "notable_facts": [
+      "The firm offers a Greenwald Doherty Enhanced Legal Subscription for proactive legal support.",
+      "They focus on preventative education and real-time counseling to help companies avoid workplace crises.",
+      "The firm provides learning and development programs for HR and management teams.",
+      "They offer tech-powered solutions that simplify multi-state compliance and keep clients ahead of shifting employment laws."
+    ],
+    "technology_signals": [
+      "Offers tech-powered solutions for multi-state compliance.",
+      "Innovator in AI-driven legal tools for employers (mentioned for Joel Greenwald)."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Joel J. Greenwald",
+        "title": "Founder & Managing Partner",
+        "email": "jg@greenwaldllp.com",
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/joelgreenwald"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Joel Greenwald is an innovator in AI-driven legal tools for employers."
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

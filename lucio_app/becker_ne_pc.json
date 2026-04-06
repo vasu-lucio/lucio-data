@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Becker LLC",
+    "website": "https://becker.legal/",
+    "city": "Livingston",
+    "practice_areas": [
+      "Litigation",
+      "Transactional",
+      "Labor & Employment",
+      "Bankruptcy Law",
+      "Intellectual Property",
+      "Real Estate",
+      "Construction Law"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Becker LLC is a national law firm with offices in New York, New Jersey, Pennsylvania and California. They provide legal services ranging from litigation, transactional, labor & employment, and bankruptcy law counseling to intellectual property, real estate, and construction law-related advice.",
+    "notable_facts": [
+      "Strong dedication to the Staffing Industry, Trucking & Logistics along with Real Estate and Construction."
+    ],
+    "technology_signals": [
+      "Tech Stack: youtube, html, microsoft office, blackline, imanage, microsoft, pclaw, well, amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Bartels",
+          "title": "Chief Development Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/becker-llc-attorneys-at-law"
+  },
+  "email": {}
+}

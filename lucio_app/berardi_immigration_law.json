@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Berardi Immigration Law",
+    "website": "https://berardiimmigrationlaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Immigration Law",
+      "Work Visas",
+      "Green Cards",
+      "US Citizenship"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Berardi Immigration Law is a business immigration law firm that provides work permits, green cards and citizenship to individual and corporate clients. The firm delivers innovative and creative solutions that drive results for businesses and individuals.",
+    "notable_facts": [
+      "Founded in 2005 by Rosanna Berardi.",
+      "Certified by New York State as a woman-owned business enterprise.",
+      "Located 20 minutes from the U.S./Canadian border."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rosanna Berardi",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "877-721-6100",
+        "linkedin_url": "https://www.linkedin.com/company/berardi-immigration-law"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Behm",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea Godfread-Brown",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabriella Agostinelli",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zach Ahlstrom",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://ca.linkedin.com/company/berardi-immigration-law",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

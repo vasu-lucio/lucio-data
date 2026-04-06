@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Brody Law Group, PLLC",
+    "website": "https://brodylg.com/",
+    "city": "New York",
+    "practice_areas": [
+      "legal services",
+      "construction",
+      "litigation services",
+      "general liability",
+      "labor law",
+      "legal counsel"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "Brody Law Group provides comprehensive legal counsel and litigation services for businesses and individuals. They offer services in construction, labor law, general liability, insurance, product liability, and appellate practice.",
+    "notable_facts": [
+      "Employs 24 people (+19.2% YoY)",
+      "Offices in New York, NY and Huntington, NY"
+    ],
+    "technology_signals": [
+      "impact",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Scott Brody",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Randee Arem",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Magdalene Skountzos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ben Gonson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Burke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

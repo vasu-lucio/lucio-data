@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Melvin & Melvin, PLLC",
+    "website": "https://melvinlaw.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Business Law",
+      "Real Estate",
+      "Estate Planning",
+      "Family Law",
+      "Bankruptcy"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Melvin & Melvin, PLLC is a full service law firm that has been serving the people of Central New York since 1921. They offer clients the personal service of a boutique firm, with experienced and respected lawyers.",
+    "notable_facts": [
+      "Founded in 1921",
+      "Located in Syracuse, New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ken Bobrycki",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel M Austin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Holly Salop Wallace",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer C. Driver",
+          "title": "Of Counsel",
+          "email": "[[email protected]]",
+          "phone": "315-422-1311",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

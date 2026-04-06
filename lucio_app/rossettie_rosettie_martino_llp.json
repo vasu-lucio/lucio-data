@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Rossettie Rosettie & Martino LLP",
+    "website": "https://rrmlaw.com/",
+    "city": "Corning",
+    "practice_areas": [
+      "Real Estate",
+      "Elder Law",
+      "Estate planning"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Rossettie Rossettie & Martino LLP is a law firm based in Corning, New York, specializing in real estate law, elder law, and estate planning, serving the Southern Tier of New York since 1979.",
+    "notable_facts": [
+      "Licensed Title Agency in New York State",
+      "Serving the Southern Tier of New York since 1979",
+      "Richard P. Rossettie semi-retired in January 2025 but continues to support the business law group on a part-time basis."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard P. Rossettie",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephen V. Rossettie",
+          "title": "Partner",
+          "email": null,
+          "phone": "(607) 936-3739",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Martino",
+          "title": "Partner",
+          "email": null,
+          "phone": "(607) 936-3739",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph B. Rogers",
+          "title": "Partner",
+          "email": null,
+          "phone": "(607) 936-3739",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan J. Snyder",
+          "title": "Partner",
+          "email": null,
+          "phone": "(607) 936-3739",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aleksandra M. Doran",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(607) 936-3739",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda A. Taylor",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(607) 936-3739",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

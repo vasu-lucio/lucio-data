@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "McCarthy Duffy LLP",
+    "website": "mccarthyduffy.com",
+    "city": "Chicago",
+    "practice_areas": [
+      "Corporate Law",
+      "Commercial Law",
+      "Banking Law",
+      "Transactional Law",
+      "Litigation"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "McCarthy Duffy LLP is a business-focused law firm that has been supporting clients in the Midwest and around the world for over 100 years. They serve businesses, executives, entrepreneurs, and investors.",
+    "notable_facts": [
+      "Founded in 1886",
+      "Provides services to multinational private equity-backed companies",
+      "Serves individual and institutional investors, national and regional banking institutions, substantial manufacturing and retail concerns, real estate investors and managers, contractors and developers, and numerous other personal and business clients, including not-for-profit corporations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Elaine Vorberg",
+        "title": "Managing Partner",
+        "email": "info@mccarthyduffy.com",
+        "phone": "312-726-0355",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Terrence Schaul",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Zaris",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Witry",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Forest Miles",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Demetre Lambropoulos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Darrow",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

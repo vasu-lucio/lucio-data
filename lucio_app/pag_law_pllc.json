@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "PAG LAW PLLC",
+    "website": "https://pag.law/",
+    "city": "Miami",
+    "practice_areas": [
+      "Venture Capital",
+      "Litigation"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "PAG.LAW PLLC is a Miami-based law firm of international scope and unparalleled capabilities in Latin America. They have built a forward thinking law firm designed to create long-term collaborative relationships with a select group of clients interested in the same.",
+    "notable_facts": [
+      "The firm has a particular regional expertise in Latin America.",
+      "The firm has offices in Miami and New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Peter Eccles",
+        "title": "Managing Partner (New York)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Lizbeth Flores",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Juan Pablo Cappello",
+          "title": "Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ramon Abreu De Lima",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Acosta",
+          "title": "Partner",
+          "email": "patricia@pag.law",
+          "phone": "786-292-1599",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alejandro D. Fiuza",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "The New York Times Company",
+    "website": "https://www.nytco.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Media Law",
+      "Intellectual Property Law",
+      "Corporate Governance",
+      "Securities Matters",
+      "Commercial Transactions",
+      "Employment and Labor Relations",
+      "Litigation Management"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The New York Times Company is a media organization with a mission to seek the truth and help people understand the world through independent journalism and digital products.",
+    "notable_facts": [
+      "The New York Times has been delivering world-class journalism for nearly 170 years.",
+      "The company has nearly seven million subscribers using The New York Times to read news, enjoy games, try recipes, and listen to podcasts.",
+      "The New York Times Company is focused on becoming a world-class digital media business."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Meredith Kopit Levien",
+        "title": "President and Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David Perpich",
+        "title": "Vice Chairman of The New York Times Company and Publisher of The Athletic",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jason Sobel",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Diane Brayton",
+          "title": "Executive Vice President & Chief Legal Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/nytimes/org-chart/diane-brayton"
+        },
+        {
+          "name": "David McCraw",
+          "title": "Senior Vice President and Deputy General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.nytco.com/person/david-mccraw/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

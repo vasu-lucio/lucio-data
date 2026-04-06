@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "The Colwell Law Group, LLC",
+    "website": "https://colwell-law.org/",
+    "city": "Albany",
+    "practice_areas": [
+      "Matrimonial",
+      "Family Law",
+      "Personal Injury",
+      "Vehicle and Traffic Law",
+      "Divorce",
+      "Child Custody",
+      "Child Support",
+      "Adoption",
+      "Domestic Violence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Colwell Law Group, LLC focuses on matrimonial, family law, personal injury, and vehicle & traffic law. They offer customized legal representation, tailoring their approach to the personalities involved in each case.",
+    "notable_facts": [
+      "Voted Best Place to Work in 2023 and 2025 by the Albany Business Review",
+      "Law Firm 500 Honoree eight years in a row",
+      "Inc.5000 Fastest Growing Company for three consecutive years"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jennifer Stevens",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/jennifer-stevens-b6786250"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mary Theresa Colwell",
+          "title": "Owner and Partner",
+          "email": null,
+          "phone": "(518) 462-4242",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

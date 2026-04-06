@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Arnold & Porter",
+    "website": "https://arnoldporter.com/",
+    "city": "Washington, District of Columbia",
+    "practice_areas": [
+      "Regulatory",
+      "Litigation",
+      "Transactional"
+    ],
+    "lawyer_count": 1000,
+    "firm_description": "Arnold & Porter combines sophisticated regulatory, litigation, and transactional capabilities to resolve clients\u2019 most complex issues. With over 1,000 lawyers practicing in 16 offices worldwide, we offer an integrated approach that spans more than 40 practice areas.",
+    "notable_facts": [
+      "Employs 1,539 people",
+      "Operates in 12 countries",
+      "Acquired Howard Rice Nemerovski Canady Falk (2011-05-01)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kelli Cooney",
+        "title": "Chief Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Folkes",
+          "title": "Chief Information Officer",
+          "email": "michael.folkes@arnoldporter.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael D. Daneker",
+          "title": "Co-Chairs of the Firm",
+          "email": "michael.daneker@arnoldporter.com",
+          "phone": "+1 202.942.5177",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen Kaye Fleishhacker",
+          "title": "Co-Chairs of the Firm",
+          "email": "ellen.fleishhacker@arnoldporter.com",
+          "phone": "+1 415.471.3152",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Howell",
+          "title": "Chief Executive Officer",
+          "email": "sean.howell@arnoldporter.com",
+          "phone": "+1 202.942.6649",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/apks-llp"
+  },
+  "email": {}
+}

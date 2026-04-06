@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Davis+Gilbert LLP",
+    "website": "https://www.dglaw.com/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Davis+Gilbert's proactive, business-oriented approach stems from our long history of working with key industries not just as advocates but also as counselors. From our base in New York, we represent a diverse range of clients across the country and around the world.",
+    "notable_facts": [
+      "The firm guided the marketing communications ecosystem as it evolved from the early 20th century to today\u2019s world of data, digital and social media.",
+      "The firm focuses on real estate, financial services, hospitality, technology and other service sector industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary Kibel",
+          "title": "Partner",
+          "email": "gkibel@dglaw.com",
+          "phone": "212 468 4918",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

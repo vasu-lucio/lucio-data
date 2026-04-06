@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Wingate, Kearney & Cullen, LLP",
+    "website": "https://wkclaw.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Estate Law",
+      "Non-Profit Law",
+      "Divorce & Family Law",
+      "Business Law",
+      "International Law",
+      "Real Estate",
+      "Government Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wingate, Kearney & Cullen, LLP is a law firm that provides high-quality, cost-effective services to clients in the New York metro area. Founded in 1864.",
+    "notable_facts": [
+      "The firm maintains full-service offices in Brooklyn Heights/DUMBO and Melville, Long Island."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard J. Cea",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter N. Zogas",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine McGuire",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dominic Sarna",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Michael Kearney",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

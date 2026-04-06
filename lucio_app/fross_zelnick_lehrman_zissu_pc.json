@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Fross Zelnick Lehrman & Zissu, P.C.",
+    "website": "https://frosszelnick.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trademark",
+      "Copyright",
+      "Design Patent",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 22,
+    "firm_description": "Fross Zelnick specializes in securing and defending their clients' most valuable assets\u2014their brands, designs, and content. The trademark practice at Fross is unmatched.",
+    "notable_facts": [
+      "Consistently recognized as one of the top IP law firms in the world.",
+      "The firm has handled every type of trademark issue and dispute, multiple times for multiple companies in multiple jurisdictions, from the simplest registration to the thorniest cross-jurisdictional enforcement action."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Robin Arndt",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Margiotta",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura Popp-rosenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leo Kittay",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Jones",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maritza Schaeffer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

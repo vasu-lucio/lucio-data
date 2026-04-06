@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Snyder & Snyder, LLP",
+    "website": "https://snyderlaw.net/",
+    "city": "Tarrytown",
+    "practice_areas": [
+      "Telecommunications & Public Utility Infrastructure",
+      "Real Estate and Commercial Transactions",
+      "Renewable Energy",
+      "Land Use Development, Zoning, and Environmental Law",
+      "Litigation And Alternate Dispute Resolution"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Snyder & Snyder, LLP delivers legal services to the companies that make the future possible, providing support for development across private and public sectors and legal solutions to companies that are ready to expand. The firm has represented industry leaders in competitive, large-scale sectors such as telecommunications, healthcare, education, renewable energy, waste management, and big-box retail.",
+    "notable_facts": [
+      "Woman-owned business",
+      "Recognized in the New York Law Journal list of the Largest Minority and Women-Owned Firms in New York State",
+      "Certified by the Women\u2019s Business Enterprise National Council (WBENC)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Leslie J. Snyder",
+        "title": "Managing Partner",
+        "email": "lsnyder@snyderlaw.net",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Gaudioso",
+          "title": "Partner",
+          "email": "rgaudioso@snyderlaw.net",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan M. Fry",
+          "title": "Partner",
+          "email": "jfry@snyderlaw.net",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas Warden",
+          "title": "Partner",
+          "email": "dwarden@snyderlaw.net",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David J. Kenny",
+          "title": "Partner",
+          "email": "dkenny@snyderlaw.net",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

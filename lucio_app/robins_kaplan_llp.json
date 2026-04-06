@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Robins Kaplan LLP",
+    "website": "https://www.robinskaplan.com/",
+    "city": "Minneapolis",
+    "practice_areas": [
+      "Litigation",
+      "Business Litigation",
+      "Intellectual Property and Technology Litigation",
+      "Insurance and Catastrophic Loss"
+    ],
+    "lawyer_count": 200,
+    "firm_description": "Robins Kaplan LLP is one of the nation\u2019s leading trial law firms, known for delivering exceptional results in complex, high-stakes litigation. With a history of groundbreaking victories, we are trusted partners for clients navigating their most critical legal challenges.",
+    "notable_facts": [
+      "Secured $6.5 billion settlement in historic Big Tobacco lawsuit.",
+      "Achieved extraordinary $5.5 billion settlement in Interchange Fee and Merchant Discount Litigation.",
+      "Achieved $42.4 million verdict in landmark patent infringement trial for inventor of innovative prelit artificial Christmas trees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anthony Froio",
+        "title": "Chair of the Executive Board and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason Fair",
+          "title": "Managing Partner of the firm\u2019s Los Angeles and Silicon Valley offices",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Geibelson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa D\u2019Alelio",
+          "title": "Chair of the Insurance and Catastrophic Loss Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cyrus Morton",
+          "title": "Chair of the Patent Office Trials Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

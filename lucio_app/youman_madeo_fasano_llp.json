@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "YOUMAN, MADEO & FASANO LLP.",
+    "website": "https://www.ymflaw.com/",
+    "city": "Queens",
+    "practice_areas": [
+      "Immigration Law",
+      "Deportation/Removal Defense",
+      "Green Cards",
+      "Visas",
+      "Work Permits",
+      "Citizenship",
+      "Asylum"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "YOUMAN, MADEO & FASANO LLP. is a full-service immigration law firm that provides legal services in deportation/removal defense, green cards, visas, work permits, citizenship, and asylum. They offer innovative and aggressive solutions to immigration law firms, with a focus on innovation and excellence.",
+    "notable_facts": [
+      "The firm's attorneys are members of the American Immigration Lawyers Association.",
+      "The firm's attorneys frequently speak before continuing legal education and other groups.",
+      "The firm has a reputation for successfully seeking relief for immigrants convicted of serious crimes."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Donald F. Madeo",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "800-890-0229",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Human Resources Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Josie Montero",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

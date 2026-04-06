@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Ansanelli Law Group, LLP",
+    "website": "https://ansanellilawgroup.com/",
+    "city": "Amityville",
+    "practice_areas": [
+      "Elder Law",
+      "Estate Planning",
+      "Litigation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Ansanelli Law Group, LLP provides the highest standards of elder law, estate planning, and litigation services. Leveraging the intrinsic teamwork and multi-disciplined expertise of our attorneys, we develop creative, practical and effective solutions that fully address our clients\u2019 unique needs.",
+    "notable_facts": [
+      "Founded in 1987",
+      "Leader in Elder Law Firms of Long Island",
+      "Provides legal services in elder law, estate planning, estate administration and planning, and health care facility representation in Nassau and Suffolk, New York."
+    ],
+    "technology_signals": [
+      "juris",
+      "amp",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Vincent W. Ansanelli III",
+        "title": "Founding and Managing Partner",
+        "email": "vince@ansanellilawgroup.com",
+        "phone": "631-598-0337",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Ellen B. Kugler",
+        "title": "Founding Partner",
+        "email": "yourattorney@ansanellilawgroup.com",
+        "phone": "631-598-0337",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rose M. Elefante",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meaghan Judd",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam J. Ansanelli",
+          "title": "Of Counsel",
+          "email": "adam@ansanellilawgroup.com",
+          "phone": "631-598-0337",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ansanelli-law-group-llp"
+  },
+  "email": {}
+}

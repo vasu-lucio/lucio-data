@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Kessler Matura P.C.",
+    "website": "https://kesslermatura.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Discrimination",
+      "Unpaid Wages & Overtime",
+      "Harassment & Hostile Work Environment",
+      "Wrongful Termination",
+      "Employment & Severance Agreements"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Kessler Matura P.C. is a Long Island employment law firm dedicated to protecting employee rights. They represent employees in Long Island, the New York City metro area, and across the nation.",
+    "notable_facts": [
+      "The firm only represents employees, never employers.",
+      "Kessler Matura P.C. attorneys are leaders in advancing employee rights and successfully recovering millions of dollars for workers.",
+      "The firm provides individualized solutions and continuous communication with a lawyer."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Troy L. Kessler",
+          "title": "Attorney",
+          "email": null,
+          "phone": "631-499-9100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marijana Matura",
+          "title": "Attorney",
+          "email": null,
+          "phone": "631-499-9100",
+          "linkedin_url": "https://kesslermatura.com/attorney/marijana-matura/"
+        },
+        {
+          "name": "Garrett Kaske",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tana Forrester",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jocelyn Small",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Goldstein",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

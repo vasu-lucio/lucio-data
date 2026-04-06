@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Hannum Feretic Prendergast & Merlino, LLC",
+    "website": "https://hfpmlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Construction Litigation",
+      "Appellate Practice",
+      "Excess Risk Claims",
+      "Professional Liability",
+      "Motor Vehicle Litigation",
+      "Insurance Coverage",
+      "Municipal Liability Claims",
+      "Defense of Assisted Living Facilities",
+      "General Liability and Trial Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hannum Feretic Prendergast & Merlino, LLC, specializes in insurance coverage and defense litigation in premises, construction defect, labor law, automobile, trucking and product liability matters. The firm is committed to providing our clients with quality legal representation in all areas of our practice in a cost efficient manner.",
+    "notable_facts": [
+      "The firm handles all aspects of insurance defense litigation inclusive of Appellate Practice, Uninsured Motorist Litigation, Declaratory Judgment Actions, and Errors and Omissions Claims."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John E. Hannum",
+          "title": "Partner",
+          "email": "jhannum@hfpmlaw.com",
+          "phone": "212) 530-3904",
+          "linkedin_url": null
+        },
+        {
+          "name": "James J. Feretic",
+          "title": "Partner",
+          "email": "jferetic@hfpmlaw.com",
+          "phone": "(212) 530-3915",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean M. Prendergast",
+          "title": "Partner",
+          "email": "sprendergast@hfpmlaw.com",
+          "phone": "(212) 530-3907",
+          "linkedin_url": null
+        },
+        {
+          "name": "James Merlino",
+          "title": "Partner",
+          "email": "jmerlino@hfpmlaw.com",
+          "phone": "(212) 530-3923",
+          "linkedin_url": null
+        },
+        {
+          "name": "Riad Hamai",
+          "title": "Partner",
+          "email": "Rhamai@hfpmlaw.com",
+          "phone": "(212) 530-3995",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Epstein Becker & Green, P.C.",
+    "website": "https://ebglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment and labor law",
+      "Health care",
+      "Life sciences",
+      "Complex litigation"
+    ],
+    "lawyer_count": 475,
+    "firm_description": "Epstein Becker & Green, P.C. is a national law firm that focuses its resources on health care, life sciences, and workforce management solutions, coupled with powerful litigation strategies. They provide counsel in employment and labor law, health care and life sciences, and complex litigation.",
+    "notable_facts": [
+      "Founded in 1973",
+      "Has a research center (KIN Center for Digital Innovation)",
+      "Has advised clients on AI systems for many years and has been involved in more than 200 AI-related health care and labor or employment projects."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Steven Di Fiore",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": "212-351-4500",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Epstein Becker Green has advised clients on AI systems for many years and has been involved in more than 200 AI-related health care and labor or employment projects. They also have a multidisciplinary team consisting of data scientists, social scientists, and attorneys to evaluate machine learning algorithms."
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark E. Lutes",
+          "title": "Member of the Firm",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James (Jim) P. Flynn",
+          "title": "Member of the Firm",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher M. Farella",
+          "title": "Member of the Firm",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia (Trish) M. Wagner",
+          "title": "Member of the Firm",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Katznelson",
+          "title": "Chief Business Development and Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

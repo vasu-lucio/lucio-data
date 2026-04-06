@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Radulescu LLP",
+    "website": "https://www.radulescullp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Patent Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Radulescu LLP is a patent litigation firm specializing in cases requiring a deep understanding of technology and legal issues. They focus on high-stakes, multi-patent, multi-jurisdiction disputes and defending strong patent portfolios.",
+    "notable_facts": [
+      "David C. Radulescu, Ph.D., has litigated more patent cases than any other lawyer in the country in the field of semiconductor light emitting devices (LEDs)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David C. Radulescu",
+        "title": "Partner",
+        "email": "david@radip.com",
+        "phone": "(646) 502-5951",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Etai Lahav",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin S. Kudlac",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Auerbach",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bryon T. Wasserman",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,170 @@
+{
+  "firm_data": {
+    "firm_name": "Dell & Dean, PLLC",
+    "website": "https://d2triallaw.com",
+    "city": "Garden City",
+    "practice_areas": [
+      "Personal Injury",
+      "Product Liability",
+      "Labor Law",
+      "Medical Malpractice",
+      "Bankruptcy Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Dell & Dean, PLLC is a law firm that represents clients who have suffered serious injuries due to negligence. They have the resources and staff to ensure that every client is zealously represented.",
+    "notable_facts": [
+      "Founded in 1994",
+      "The firm was founded with the goal of leveling the playing field for those injured.",
+      "Joseph G. Dell argued the law-changing win in Davis v. South Nassau Communities Hospital in the New York State Court of Appeals in 2015."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph G. Dell",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "516.880.9700",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David J. Dean",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Sally Nilsen",
+        "title": "Legal Assistant/Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher R. Dean",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay J. Massaro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph C. Muzio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter DeNoto",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristen N. Sinnott",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin D. Dell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua A. Dell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Olga Siamionava-Muzio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea R. Laterza",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey F. Dean",
+          "title": "Partner",
+          "email": "jdean@d2triallaw.com",
+          "phone": "516.880.9700 ext 1146",
+          "linkedin_url": null
+        },
+        {
+          "name": "David M. Spoerer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin S. Curtis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brett Bloom",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marianne Burke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Castillo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

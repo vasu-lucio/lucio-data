@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "DiCello Levitt",
+    "website": "https://dicellolevitt.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Class Action Litigation",
+      "Antitrust and Competition Litigation",
+      "Personal Injury",
+      "Whistleblower Litigation",
+      "Civil Rights Litigation",
+      "Mass Tort Litigation"
+    ],
+    "lawyer_count": 114,
+    "firm_description": "DiCello Levitt is dedicated to achieving justice for clients through class action, business-to-business, public client, whistleblower, personal injury, civil rights, and mass tort litigation. Their lawyers are highly respected for their ability to litigate and win cases for people who have suffered harm, global corporations that have sustained significant economic losses, and public clients seeking to protect their citizens\u2019 rights and interests.",
+    "notable_facts": [
+      "Won over $25 billion for clients",
+      "Appointed to lead 20+ multidistrict litigations (MDLs) in the last four years",
+      "Recognized by The Legal 500, Benchmark Litigation, Chambers USA, and The National Law Journal"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark A. DiCello",
+        "title": "Partner",
+        "email": "madicello@dicellolevitt.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Adam J. Levitt",
+        "title": "Partner",
+        "email": "alevitt@dicellolevitt.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patrick Daniels",
+          "title": "Chair of the Securities and Financial Products Litigation Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

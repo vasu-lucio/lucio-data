@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Zuckerman Spaeder LLP",
+    "website": "https://www.zuckerman.com/",
+    "city": "Washington, D.C.",
+    "practice_areas": [
+      "white collar defense",
+      "government investigations",
+      "complex commercial disputes",
+      "health care litigation",
+      "professional ethics disputes",
+      "class actions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Zuckerman Spaeder LLP is a litigation firm known for trial skill and the ability to work effectively outside the courtroom. They handle high-profile cases and pursue creative solutions to complex legal problems.",
+    "notable_facts": [
+      "Over a third of their lawyers have served in government positions.",
+      "The firm is known for a lean approach to staffing cases.",
+      "They have a reputation as one of the nation\u2019s premier litigation firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "C. B.",
+        "title": "Chief Operating Officer And Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "K. M.",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "P. F.",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

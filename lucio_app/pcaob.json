@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Public Company Accounting Oversight Board",
+    "website": "https://pcaob.org/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Auditing Oversight"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Public Company Accounting Oversight Board (PCAOB) is a nonprofit corporation established by Congress to oversee the audits of public companies in order to protect investors and further the public interest in the preparation of informative, accurate, and independent audit reports. The PCAOB also oversees the audits of brokers and dealers registered with the Securities and Exchange.",
+    "notable_facts": [
+      "The PCAOB oversees the audits of public companies and SEC-registered brokers and dealers.",
+      "The PCAOB was established by Congress."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Pamela C. Dyson",
+        "title": "Chief Information Officer and Director, Office of Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Randy L. Thornton",
+          "title": "Acting Chief Operating Officer and Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barbara Vanich",
+          "title": "Chief Auditor",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Phoebe W. Brown",
+          "title": "Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kara M. Stein",
+          "title": "Former Board Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

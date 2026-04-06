@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Pfalzgraf Beinhauer Grear Harris Schuller LLP",
+    "website": "https://www.pbelderlaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Elder Law",
+      "Estate Planning",
+      "Long Term Care",
+      "Medicaid Planning",
+      "Estate Administration",
+      "Probate"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "PB Elder Law is a Western New York law firm concentrating in elder law and estate planning. They provide legal representation with integrity and compassion, ensuring clients receive the care they need, maintain their personal and financial integrity, and are good stewards of their assets for future generations.",
+    "notable_facts": [
+      "Hall Ricketts Gurbacki PC has joined PB Elder Law.",
+      "The firm concentrates in elder law and estate planning."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Amanda Zanner",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Linda Stravalaci Grear",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean E. Harris",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.pbelderlaw.com/jean-harris-esq/"
+        },
+        {
+          "name": "Daniel J. Schuller",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/danielschuller"
+        },
+        {
+          "name": "Charles W. Beinhauer",
+          "title": "Founding Partner, Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

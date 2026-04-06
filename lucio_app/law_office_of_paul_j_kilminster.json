@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office of Paul J. Kilminster",
+    "website": null,
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury (Workers Compensation)",
+      "Employment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Office of Paul J. Kilminster is an employment and personal injury law firm located in New York.",
+    "notable_facts": [
+      "Paul J. Kilminster was admitted to the New York bar in 2009.",
+      "The firm is located at One State Street Plaza, 31st Floor, New York, NY 10004."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paul Joseph Kilminster",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 440-6553",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Robert Federici",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristian Ellie Alfonso",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Scott Leavy",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anoushka Sharifi Bayley",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

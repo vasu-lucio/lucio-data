@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Richmond Vona, LLC",
+    "website": "https://www.richmondvona.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Car Accidents",
+      "Premises Liability",
+      "Construction Accidents",
+      "Dog Bites",
+      "Truck Accidents",
+      "Wrongful Death",
+      "Personal Injury",
+      "Medical Malpractice",
+      "Product Liability"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "Richmond Vona, LLC is a personal injury law firm located in Buffalo, NY. They provide legal representation to those who have been wrongfully injured.",
+    "notable_facts": [
+      "Over $200M in recoveries",
+      "Awarded the 2023 Excellence in Firm Culture Award by Crisp",
+      "Named to the 2024 Inc. 5000 Best Workplaces list"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Dawn Vona",
+        "title": "Director of Operations",
+        "email": "dvona@richmondvona.com",
+        "phone": "716-500-5678",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Keith R. Vona",
+          "title": "Co-Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/richmond-vona-llc"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

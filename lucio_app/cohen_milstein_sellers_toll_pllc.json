@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen Milstein Sellers & Toll PLLC",
+    "website": "https://cohenmilstein.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Antitrust",
+      "Civil Rights & Employment",
+      "Complex Tort Litigation",
+      "Consumer Protection",
+      "ERISA & Employee Benefits",
+      "Human Rights",
+      "Public Client",
+      "Securities Litigation & Investor Protection",
+      "Whistleblower"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "Cohen Milstein Sellers & Toll PLLC champions the causes of real people\u2014workers, consumers, small business owners, investors, and whistleblowers\u2014working to deliver corporate reforms and fair markets for the common good. With Cohen Milstein on your side, count on uncommon legal talent, high-powered resourcefulness, and impactful results, often delivered in ways never imagined possible.",
+    "notable_facts": [
+      "Founded in 1969",
+      "Has over 150 employees",
+      "Offices in Washington, DC, New York, Philadelphia, Boston, Chicago, Minneapolis, Palm Beach Gardens, and Raleigh"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Benjamin D. Brown",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Rushelle Dacres",
+        "title": "Director Of Accounting",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven J. Toll",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karina Puttieva",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Raymond Sarola",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Corman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

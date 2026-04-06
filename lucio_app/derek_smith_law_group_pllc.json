@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Derek Smith Law Group, PLLC",
+    "website": "https://discriminationandsexualharassmentlawyers.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Sexual Harassment",
+      "Discrimination"
+    ],
+    "lawyer_count": 27,
+    "firm_description": "Derek Smith Law Group, PLLC is a law firm specializing in employment discrimination and sexual harassment cases. They have recovered over $450 million in verdicts and settlements for their clients.",
+    "notable_facts": [
+      "Obtained the Largest Upheld Emotional Distress Verdict Ever In An Employment Law Case In The Entire United States.",
+      "The firm has recovered over $450 million for clients.",
+      "The firm was founded in 1995."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alexander Cabeceiras",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/derek-smith-law-group-pllc/org-chart/alexander-cabeceiras"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Derek Smith",
+          "title": "Partner",
+          "email": "derek@dereksmithlaw.com",
+          "phone": "(800) 807-2209",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": "Human Resources Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Caroline Miller",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Barroukh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dawn Demaio",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

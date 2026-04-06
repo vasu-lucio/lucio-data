@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "GOETZ SCHENKER BLEE & WIEDERHORN LLP",
+    "website": "https://www.gsbwlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Insurance Defense",
+      "Premises Liability",
+      "Product Liability",
+      "Toxic Torts",
+      "Construction Defect",
+      "Lead",
+      "Mold and Asbestos Contamination",
+      "Construction",
+      "Motor Vehicle Liability",
+      "First Party Claims",
+      "Fraud Investigations",
+      "Subrogation",
+      "Appellate Practice"
+    ],
+    "lawyer_count": 37,
+    "firm_description": "GOETZ SCHENKER BLEE & WIEDERHORN LLP is a full-service insurance defense law firm serving clients nationally from offices in New York City and Livingston, N.J. The firm provides legal advice and representation to insurance companies and self-insured corporations across the United States.",
+    "notable_facts": [
+      "The firm has a distinguished appellate practice and has argued cases before the New York Court of Appeals.",
+      "GSBW has a reputation for being fully prepared and efficiently handling complicated matters for their clients for over 25 years.",
+      "The firm serves clients nationally from offices in New York City and Livingston, N.J."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David I. Blee",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marisa Goetz",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert G. Schenker",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven J. Wiederhorn",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Kramer",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

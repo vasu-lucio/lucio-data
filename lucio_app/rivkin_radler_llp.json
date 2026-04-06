@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Rivkin Radler LLP",
+    "website": "https://rivkinradler.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Appeals",
+      "Banking",
+      "Bankruptcy",
+      "Business Dissolution",
+      "Class Actions",
+      "Commercial Litigation",
+      "Complex Torts & Product Liability",
+      "Compliance, Investigations & White Collar",
+      "Construction",
+      "Corporate",
+      "Critical Incident Response",
+      "Directors & Officers Liability",
+      "Elder Law",
+      "General Liability",
+      "Health Services",
+      "Insurance Fraud & Recovery"
+    ],
+    "lawyer_count": 250,
+    "firm_description": "Rivkin Radler consistently delivers focused and effective legal services through six offices and 250 lawyers. The firm provides strong representation and builds client relationships with an unwavering commitment to total client satisfaction.",
+    "notable_facts": [
+      "Named among the Top 100 Private Companies on Long Island by Newsday",
+      "Consistently ranked in the top 50 in the New York Law Journal\u2019s 100 Largest Law Firms in New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Barry Levy",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Evan Krinick",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/rivkin-radler-llp/org-chart/evan-h-krinick"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

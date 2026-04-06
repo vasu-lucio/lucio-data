@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Volz & Vigliotta, PLLC",
+    "website": "https://volzvigliotta.com/",
+    "city": null,
+    "practice_areas": [
+      "Education Law",
+      "Municipal Law"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Volz & Vigliotta, PLLC provides legal services to educational and municipal clients. They offer counsel and representation in areas such as disciplinary matters, contract negotiations, and claims of discrimination and injury.",
+    "notable_facts": [
+      "The firm was founded in 2010.",
+      "The firm focuses on education and municipal law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Thomas M. Volz",
+        "title": "Managing Partner",
+        "email": "tvolz@volzvigliotta.com",
+        "phone": "(631) 366-2700",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael G. Vigliotta",
+          "title": "Partner",
+          "email": "contact@volzvigliotta.com",
+          "phone": "(631) 366-2700",
+          "linkedin_url": null
+        },
+        {
+          "name": "David H. Arntsen",
+          "title": "Partner",
+          "email": "contact@volzvigliotta.com",
+          "phone": "(631) 366-2700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua S. Shteierman",
+          "title": "Partner",
+          "email": "contact@volzvigliotta.com",
+          "phone": "(631) 366-2700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah A. Gyimah",
+          "title": "Associate",
+          "email": "contact@volzvigliotta.com",
+          "phone": "(631) 366-2700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michaela M. Weidtman",
+          "title": "Associate",
+          "email": "contact@volzvigliotta.com",
+          "phone": "(631) 366-2700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tyleana K. Venable",
+          "title": "Associate",
+          "email": "contact@volzvigliotta.com",
+          "phone": "(631) 366-2700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Autumn N. Siegel",
+          "title": "Associate",
+          "email": "contact@volzvigliotta.com",
+          "phone": "(631) 366-2700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

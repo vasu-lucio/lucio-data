@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Garson Jakub & Morris LLP",
+    "website": "https://garsonjakub.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Medical Malpractice Law",
+      "Dental Malpractice",
+      "Professional Discipline and Licensing",
+      "Nursing Home and Aging Services Defense",
+      "Appellate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Garson Jakub & Morris LLP is a litigation firm founded by experienced trial attorneys devoted to the diligent and aggressive defense of high exposure claims. The firm\u2019s partners are nationally recognized advocates who have excelled in defending individuals and institutions in some of the nation\u2019s most challenging venues.",
+    "notable_facts": [
+      "The firm is known for its experience and expertise in the courtroom.",
+      "The firm defends individuals and institutions in challenging venues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew S. Garson",
+          "title": "Partner",
+          "email": "garson@garsonjakub.com",
+          "phone": "(646) 863-8981",
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis E. Jakub, Jr.",
+          "title": "Partner",
+          "email": "jakub@garsonjakub.com",
+          "phone": "(646) 863-8984",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Morris",
+          "title": "Partner",
+          "email": "morris@garsonjakub.com",
+          "phone": "(646) 889-8431",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria S. Black",
+          "title": "Partner",
+          "email": "black@garsonjakub.com",
+          "phone": "(646) 863-8976",
+          "linkedin_url": null
+        },
+        {
+          "name": "Shari B. Fein",
+          "title": "Partner",
+          "email": "fein@garsonjakub.com",
+          "phone": "(646) 863-8979",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

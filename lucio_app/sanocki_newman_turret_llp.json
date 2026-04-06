@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Sanocki Newman & Turret LLP",
+    "website": "https://sntny.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Legal Services",
+      "Medical Malpractice",
+      "Personal Injury",
+      "Products Liability"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Sanocki Newman & Turret LLP is a legal services company specializing in trial and appellate work. With over 100 years of collective experience, the firm's partners are dedicated to providing effective and personal advocacy for those who have been injured.",
+    "notable_facts": [
+      "The firm has 3 offices in the United States.",
+      "The firm's legal team comprises approximately 73% of its workforce."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Edward Sanocki, Jr.",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ira Newman",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Turret",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria Morano",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marissa Joelson",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Tiveron Law PLLC",
+    "website": "https://tiveronlaw.com/",
+    "city": "Getzville",
+    "practice_areas": [
+      "Personal Injury/Medical Malpractice",
+      "Matrimonial & Family Law",
+      "Estate, Estate Planning & Elder Law",
+      "Real Estate Law",
+      "Civil Litigation",
+      "Corporate & Business Law",
+      "Social Security Disability",
+      "Criminal Defense",
+      "Vehicle & Traffic Law"
+    ],
+    "lawyer_count": 35,
+    "firm_description": "Tiveron Law PLLC is a full-service law firm with five offices in Western New York. They offer a wide range of legal services and strive to provide client-focused and effective counsel.",
+    "notable_facts": [
+      "One of the largest law firms in Western New York",
+      "Over 40 years of experience",
+      "Affiliated with numerous legal plans, including AARP, The Arag Group, and Hyatt Legal Plans",
+      "Processes more home closings in the Buffalo area than any other residential real estate law group."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Diane R. Tiveron",
+        "title": "Managing Partner, Business Law Chair",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/hoganwillig-attorneys-at-law/org-chart/diane-r-tiveron"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joanne Berent",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Chmura",
+          "title": "Creative Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Sanders Law Group",
+    "website": "https://sanderslaw.group/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Copyright Infringement",
+      "Consumer Protection",
+      "Commercial Disputes",
+      "Bankruptcy",
+      "Debt Relief",
+      "Credit Record Correction",
+      "Negligence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sanders Law Group is a legal services company with offices in Uniondale, New York and Puerto Rico. The firm focuses on helping individuals and businesses with copyright infringement, consumer protection, commercial disputes and litigation.",
+    "notable_facts": [
+      "Founded in 2000",
+      "Employs 16 people"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Craig B. Sanders",
+          "title": "Founding Partner",
+          "email": "csanders@sanderslaw.group",
+          "phone": "(516) 203-7634",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Donna Halperin",
+          "title": "Director Of Client Relations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan M. Cader",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alain Cesar",
+          "title": "Litigation Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marian Quintero",
+          "title": "Litigation Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

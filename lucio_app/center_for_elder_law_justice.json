@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Center for Elder Law & Justice",
+    "website": "elderjusticeny.org",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Elder Law",
+      "Disability Law",
+      "Poverty Law"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "The Center for Elder Law & Justice is a non-profit civil legal aid provider serving older adults, people with disabilities, and low-income populations in Western New York. They provide free legal services and operate a statewide Senior Legal Advice Helpline.",
+    "notable_facts": [
+      "Founded in 1978",
+      "Provides legal representation in eight Western New York counties",
+      "Manages over $12 million in fiduciary assets through the WNY Coalition Pooled Trust",
+      "Acts as court-appointed legal guardian in cases of elder abuse"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Christine Laks",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Karen L. Nicolson",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rachel Haseley",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kirtan Patel",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Quinn",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsay Heckler",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

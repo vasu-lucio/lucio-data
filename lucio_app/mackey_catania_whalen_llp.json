@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Mackey Catania & Whalen LLP",
+    "website": "https://mackeylawyers.com/",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Mackey Catania & Whalen LLP provides experienced, strategic legal representation tailored to the needs of individuals, businesses, and municipalities. They combine focused legal knowledge with relentless advocacy and a commitment to delivering results.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joshua E. Mackey",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "1 (845) 677-6700",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jana L. Fezza",
+        "title": "Firm Administrator",
+        "email": null,
+        "phone": "1 (845) 452-4000 x 330",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael E. Catania",
+          "title": "Partner",
+          "email": null,
+          "phone": "1 (845) 779-9930",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cara A. Whalen",
+          "title": "Partner",
+          "email": null,
+          "phone": "1 (845) 677-6700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

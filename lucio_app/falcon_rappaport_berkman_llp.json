@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Falcon Rappaport & Berkman LLP",
+    "website": "https://frblaw.com/",
+    "city": "Rockville Centre",
+    "practice_areas": [
+      "Real Estate",
+      "Taxation",
+      "Corporate and Securities",
+      "Litigation",
+      "Trusts and Estates",
+      "Elder Law",
+      "Labor and Employment",
+      "Bankruptcy Law",
+      "Intellectual Property",
+      "Blockchain Technology",
+      "Cannabis"
+    ],
+    "lawyer_count": 70,
+    "firm_description": "Falcon Rappaport & Berkman LLP is a full-service business law firm that combines the deep knowledge and understanding of attorneys who proudly advise clients seeking solutions to their most complex matters. The firm differentiates itself by approaching matters with a level of depth and variety of skills unmatched by typical advisors and offering access to thought leaders in numerous areas of professional practice.",
+    "notable_facts": [
+      "Founded in 2018",
+      "Acquired Jeffrey M. Verdon Law in 2022",
+      "The firm emphasizes collaboration, radical transparency, and a client-focused approach.",
+      "The firm has a flexible work environment and a personal approach to workplace culture and client interactions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kenneth J. Falcon",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Moish E. Peltz",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Chuck D Bernstein",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew E. Rappaport",
+          "title": "Vice Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey W. Berkman",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michele Schlereth",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

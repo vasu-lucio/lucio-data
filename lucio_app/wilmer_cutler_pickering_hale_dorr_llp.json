@@ -1,0 +1,59 @@
+{
+  "firm_data": {
+    "firm_name": "Wilmer Cutler Pickering Hale and Dorr LLP",
+    "website": "wilmerhale.com",
+    "city": "Washington, D.C.",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 1201,
+    "firm_description": "Wilmer Cutler Pickering Hale and Dorr LLP (WilmerHale) is a leading international law firm with more than 1,200 lawyers located throughout 12 offices in the United States and Europe. Our lawyers work at the intersection of government, technology and business.",
+    "notable_facts": [
+      "Formed in 2004 through the merger of Hale and Dorr and Wilmer Cutler & Pickering",
+      "Operates in 14 countries"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anjan Sahni",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Joel S. Green",
+        "title": "Deputy Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Christopher Lupo",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rich Taylor",
+          "title": "Chief Information and Innovation Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

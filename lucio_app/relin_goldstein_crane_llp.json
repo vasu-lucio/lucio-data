@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Relin, Goldstein & Crane LLP",
+    "website": "https://www.rgcattys.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Commercial and Retail Collections",
+      "Commercial Litigation",
+      "Bankruptcy",
+      "Real Property Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Relin, Goldstein & Crane LLP, established in 1927 in Rochester, New York, concentrates its practice in commercial and retail collections, commercial litigation, bankruptcy, and real property law. The firm practices foreclosure law through its sister firm, Fein, Such and Crane, LLP.",
+    "notable_facts": [
+      "Established in 1927",
+      "Member of the Commercial Law League of America",
+      "Practices foreclosure law through sister firm, Fein, Such and Crane, LLP",
+      "Clients include financial institutions, local and state-wide businesses, and individuals"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph Shur",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Nathan Relin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Angelina Micci",
+          "title": "Director, Foreclosure Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Hang & Associates, PLLC",
+    "website": "https://hanglaw.com/",
+    "city": "Flushing",
+    "practice_areas": [
+      "Unpaid overtime and minimum wages",
+      "Fixed Salaries",
+      "Off the clock work",
+      "Tip Pooling violations/tipped employees",
+      "Domestic employees",
+      "Discrimination and harassment"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Hang & Associates, PLLC is a boutique law firm that offers specialization in its areas of practice: unpaid overtime and minimum wages, tip pooling violations/tipped employees, domestic employees, and discrimination and harassment. Our team of experienced attorneys and supporting professionals are bicultural and bilingual speaking Chinese, Spanish, and Korean languages.",
+    "notable_facts": [
+      "Boutique law firm",
+      "Bicultural and bilingual team",
+      "Team speaks Chinese, Spanish, and Korean"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

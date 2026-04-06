@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Marc J. Bern & Partners LLP",
+    "website": "http://bernllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Construction Accident",
+      "Defective Product",
+      "Dangerous Medication",
+      "Consumer Fraud",
+      "Product Liability",
+      "Nursing Home Negligence",
+      "World Trade Center Claims",
+      "Zadroga Act Claims",
+      "Railroad Cancer Victims",
+      "Camp Lejeune Water Contamination",
+      "Federal Employer Liability Act (FELA)"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Marc J. Bern & Partners LLP is a law firm based in New York that represents clients in personal injury, medical malpractice, construction accident, defective product, dangerous medication, consumer fraud, and product liability cases. They have over 60 years of combined experience recovering multi-million dollar verdicts and settlements.",
+    "notable_facts": [
+      "The partners have handled numerous high-profile cases across the United States.",
+      "They have been part of cases that have resulted in excess of $3 billion in settlements and awards.",
+      "They have over 60 years of combined experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Marc Jay Bern",
+          "title": "Founding Partner",
+          "email": "mbern@bernllp.com",
+          "phone": "1-800-LAW-5432",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph J. Cappelli",
+          "title": "Senior Partner",
+          "email": "jcappelli@bernllp.com",
+          "phone": "1-800-LAW-5432",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas J. Joyce",
+          "title": "Partner",
+          "email": "tjoyce@bernllp.com",
+          "phone": "1-800-LAW-5432",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Monroe",
+          "title": "Partner",
+          "email": "smonroe@bernllp.com",
+          "phone": "1-800-LAW-5432",
+          "linkedin_url": null
+        },
+        {
+          "name": "Shawn M. Sassaman",
+          "title": "Partner",
+          "email": "ssassaman@bernllp.com",
+          "phone": "1-800-LAW-5432",
+          "linkedin_url": null
+        },
+        {
+          "name": "Margaret E. Cordner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

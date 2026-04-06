@@ -1,0 +1,59 @@
+{
+  "firm_data": {
+    "firm_name": "Lasser Law Group",
+    "website": "https://lasserlg.com/",
+    "city": "Manhattan",
+    "practice_areas": [
+      "Real Estate",
+      "Construction",
+      "Commercial Litigation",
+      "Landlord-Tenant Litigation",
+      "Cooperative, Condominium and HOA Representation",
+      "Commercial Leasing",
+      "Condominium Development",
+      "Bankruptcy and Collections",
+      "Zoning and Land Use"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lasser Law Group is a real estate, construction and commercial litigation law firm with offices in Manhattan, Long Island and Westchester, which serves the entire New York metropolitan area including the Hudson Valley. Our clients include landlords, developers, cooperative corporations, condominium associations, contractors and business owners.",
+    "notable_facts": [
+      "Represents over 200 cooperative, condominium and homeowners associations throughout the five boroughs of New York City and Westchester, Rockland, Orange, Ulster, Dutchess, Nassau and Putnam Counties.",
+      "Provides a free seminar series, including one on avoiding discrimination claims for Co-op, Condo and HOA Boards."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Stephen M. Lasser",
+        "title": "Managing Partner",
+        "email": "slasser@lasserlg.com",
+        "phone": "212-292-3075",
+        "linkedin_url": "https://www.linkedin.com/in/stephen-m-lasser-306475b"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

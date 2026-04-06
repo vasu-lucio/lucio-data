@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Neufeld Scheck Brustin Hoffmann & Freudenberger, LLP",
+    "website": "https://nsbhf.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Rights Litigation",
+      "Wrongful Conviction Litigation",
+      "Racial Discrimination",
+      "Police Misconduct",
+      "Sexual Assault",
+      "Unlawful Shootings",
+      "Wrongful Deaths in Prisons and Jails"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Neufeld Scheck Brustin Hoffmann & Freudenberger, LLP is a national leader in civil rights litigation, specializing in federal \u00a71983 wrongful conviction litigation and related state claims, and representing clients who have experienced racial discrimination and serious injury.",
+    "notable_facts": [
+      "The firm has won more in total awards from settlements and verdicts from the City of New York in wrongful conviction cases than any other law firm.",
+      "The firm's founding partners pioneered using civil discovery to gain insight into the misconduct behind wrongful convictions.",
+      "The firm is known for forcing systemic changes such as independent audits of crime labs and police internal affairs units, and police departments to videotape interrogations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter Neufeld",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barry Scheck",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Andrea Alexander",
+        "title": "Managing Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Antonio J. Barros",
+          "title": "Controller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nick Brustin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna Benvenutti Hoffmann",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emma Freudenberger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amelia Green",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

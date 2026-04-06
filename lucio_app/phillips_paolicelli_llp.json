@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Phillips & Paolicelli, LLP",
+    "website": "https://p2law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Arbeitsrecht",
+      "Toxic Exposure",
+      "Product Liability",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Phillips & Paolicelli is committed to representing injured children, workers and individuals who are harmed by wrongful toxic exposures, dangerous medical devices, pharmaceuticals, and sub-standard medical care. They find the scientific and legal connections other professionals aren\u2019t trained to see, and they are willing and able to blaze the trail into new legal territory.",
+    "notable_facts": [
+      "The firm specializes in representing victims of corporate and healthcare misconduct.",
+      "The firm was formed to take on groundbreaking cases related to concealed corporate and healthcare misconduct."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steven J. Phillips",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/steven-j-phillips-84312918"
+        },
+        {
+          "name": "Diane Paolicelli",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel J. Woodard",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victoria Phillips",
+          "title": "Partner",
+          "email": "VPhillips@p2law.com",
+          "phone": "646-581-9224",
+          "linkedin_url": "https://www.linkedin.com/in/victoria-phillips-7834911a"
+        },
+        {
+          "name": "Melissa L. Stewart",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ari L. Taub",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yitzchak Fogel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

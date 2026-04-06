@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Spivak Lipton LLP",
+    "website": "https://www.spivaklipton.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Labor Law",
+      "Employment Law",
+      "Employee Benefits",
+      "Wage Claims",
+      "Workplace Conduct",
+      "Workplace Transitions"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Spivak Lipton represents individual employees, unions, and employee benefit funds in all areas of labor and employment law. The firm is committed to building caring and trusting relationships with their clients to support them in igniting workplace change and improving working conditions.",
+    "notable_facts": [
+      "The firm was founded in 1989.",
+      "Spivak Lipton represents numerous private and public sector unions and benefit funds in a range of industries, including entertainment, construction, transportation, education, health care, legal services, and social services.",
+      "The firm was formed through the merger of Spivak, Rosenman & Spivak, founded in the 1940s, with attorneys from Cohen, Glickstein, Lurie, Ostrin, Lubell & Lubell\u2014a firm that originated as Boudin, Cohen & Glickstein in 1898."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Harold Spivak",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neil Lipton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Glenda Malave",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sara A. Corello",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gillian Costello",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denis P. Duffey, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

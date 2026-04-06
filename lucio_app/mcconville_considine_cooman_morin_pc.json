@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "McConville, Considine, Cooman & Morin, P.C.",
+    "website": "https://mccmlaw.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Bankruptcy and Creditor Debtor Rights / Insolvency and Reorganization Law",
+      "Business Organizations (including LLCs and Partnerships)",
+      "Closely Held Companies and Family Businesses Law",
+      "Municipal Law",
+      "Commercial Litigation",
+      "Corporate Law",
+      "Health Care Law",
+      "Land Use and Zoning Law",
+      "Real Estate Law",
+      "Trusts and Estates Law",
+      "Litigation - Health Care"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "McConville Considine Cooman & Morin, P.C. is a full-service law firm based in Rochester, New York, providing high-quality legal services to businesses and individuals since 1979. The firm is large enough to provide expertise in a broad range of practice areas, yet small enough to devote prompt, personal attention to its clients.",
+    "notable_facts": [
+      "Founded in 1979",
+      "Honored in 2026 Edition of the \u201cBest Law Firms\u201d Across Eleven Practice Areas",
+      "Has had many distinguished \"alumni\" attorneys who have served the community in a variety of government capacities"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Peter J. Weishaar",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Johanna Winter",
+        "title": "Director Of Operations, Law Firm Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin S. Cooman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mikal J. Krueger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael F. McConville",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lucien A. Morin, II",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy L. Varel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel S. Williford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Safe Horizon",
+    "website": "https://www.safehorizon.org/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Safe Horizon is the nation\u2019s largest victim services agency, providing support to victims of crime and abuse throughout New York City.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Liz Roberts",
+        "title": "CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/safe-horizon/org-chart/liz-roberts"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "VP, Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa A. O\u2019Connor",
+          "title": "Deputy CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vicky Royter",
+          "title": "VP, Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sonia Sande",
+          "title": "Board Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Luke Sarsfield",
+          "title": "Board Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

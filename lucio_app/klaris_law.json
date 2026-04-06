@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Klaris Law PLLC",
+    "website": "https://klarislaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Media Law",
+      "Entertainment Law",
+      "Technology Law",
+      "Intellectual Property Law",
+      "First Amendment Law"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Klaris Law PLLC is a boutique media, entertainment, technology, and intellectual property law firm. They guide clients through a changing IP and digital environment, offering legal solutions, deal making, advisory, and litigation services.",
+    "notable_facts": [
+      "Founded in 2014",
+      "The firm's culture includes a daily group \u201chuddle\u201d to share questions, best practices, suggestions, and personal stories."
+    ],
+    "technology_signals": [
+      "Tech Stack: amp",
+      "Assists clients with website user data agreements"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Edward Klaris",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Rory Stanton",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexia Bedat",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Leish",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lance Koonce",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sam Borenzweig",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gili Karev",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

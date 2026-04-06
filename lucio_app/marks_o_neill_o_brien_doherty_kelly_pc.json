@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Marks, O'Neill, O'Brien, Doherty & Kelly, P.C.",
+    "website": "https://moodklaw.com",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Professional Liability",
+      "Casualty",
+      "Products Liability",
+      "Coverage",
+      "Toxic Tort",
+      "Mass Tort",
+      "Environmental and Products Liability",
+      "Construction Accident/Construction Defect"
+    ],
+    "lawyer_count": 122,
+    "firm_description": "Marks, O'Neill, O'Brien, Doherty & Kelly, P.C. is a regional insurance defense law firm with offices in Philadelphia, Pittsburgh, New Jersey, New York, Delaware and Maryland. They provide cutting edge defense litigation services in all areas of practice including professional liability, casualty, products liability and coverage.",
+    "notable_facts": [
+      "The firm has been at the forefront of defense litigation for over a quarter of a century.",
+      "They represent the interests of corporations, carriers and individual clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kaitlyn Long",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/marks-o%27neill-o%27brien-doherty-%26-kelly-p-c-"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph O'Neill",
+          "title": "Owner",
+          "email": "JOneill@moodklaw.com",
+          "phone": "215-832-4208",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Konstance",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Moreland",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Casey McCurdy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joan Devlin Daly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

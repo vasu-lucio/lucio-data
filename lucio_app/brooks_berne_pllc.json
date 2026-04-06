@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Brooks & Berne, PLLC",
+    "website": "https://www.brooksandbernelaw.com/",
+    "city": "Elmsford",
+    "practice_areas": [
+      "Insurance Defense",
+      "Corporate/Business Representation",
+      "Insurance & Insurers",
+      "Workers' Compensation",
+      "Premises Liability",
+      "General Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Brooks & Berne, PLLC is a minority owned firm where diversity is key. They provide aggressive, proactive representation and aim to achieve the best possible results in a cost-effective way.",
+    "notable_facts": [
+      "Minority-owned firm",
+      "Member of the National Association of Minority & Women Owned Law Firms (NAMWOLF)",
+      "Minority Business Enterprise (MBE) certified"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Richard Berne",
+        "title": "Co Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chevon Andre Brooks",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Andreou",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Candace Johnson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara Mandelbaum",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eva Galchenko",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

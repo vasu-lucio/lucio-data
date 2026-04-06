@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Jun Wang & Associates, P.C.",
+    "website": "https://junwanglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Art & Entertainment Law",
+      "China Practice",
+      "Business & Corp. Law",
+      "Business Immigration",
+      "Estate Planning"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Jun Wang & Associates, P.C. is a New York based law firm delivering a full range of legal services. The firm provides practical legal solutions for its clients, whether it be an acquisition of property, formation of business, the purchase or sale of a business, or other associated legal needs such as business immigration.",
+    "notable_facts": [
+      "The firm was founded in 2009.",
+      "The firm has established relationships with business partners, such as major commercial bankers, institutional lenders for FDI, NGOs, educational and financial advisors, and wealth management consultants."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jun Wang",
+          "title": "Founder/Partner",
+          "email": "jwang@junwanglaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Karine K. Wang",
+          "title": "Managing Attorney / Partner",
+          "email": "kwang@junwanglaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Xiaozhu Zhao",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yan F",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

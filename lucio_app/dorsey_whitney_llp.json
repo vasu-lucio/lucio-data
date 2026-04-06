@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Dorsey & Whitney LLP",
+    "website": "https://www.dorsey.com/",
+    "city": "Minneapolis",
+    "practice_areas": [
+      "Banking",
+      "Development & Infrastructure",
+      "Energy & Natural Resources",
+      "Food, Beverage & Agribusiness",
+      "Healthcare",
+      "Technology"
+    ],
+    "lawyer_count": 650,
+    "firm_description": "Dorsey & Whitney LLP is an international law firm with locations across the United States, Canada, Europe and Asia, providing an integrated, proactive approach to its clients' legal and business needs. The firm represents a number of the world's most successful companies from a wide range of industries and is known for its leadership in mergers and acquisitions work.",
+    "notable_facts": [
+      "Ranks in the top 10 among all law firms for the number of US M&A deals completed every year since 1994.",
+      "Largest office is in Minneapolis, Minnesota.",
+      "More than one-third of Fortune 100 companies are clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Peter Nelson",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "E. Eric Rytter",
+          "title": "Chair of Dorsey\u2019s Policy Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bill Stoeri",
+          "title": "current Dorsey Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Schneider Buchel LLP",
+    "website": "https://www.schneiderbuchel.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Condominium Law",
+      "Co-op Law",
+      "Homeowners Association Law",
+      "Real Estate",
+      "Commercial Litigation",
+      "Foreclosures",
+      "Construction Litigation",
+      "Landlord/Tenant Matters",
+      "Employment Discrimination Law",
+      "Housing Discrimination Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schneider Buchel LLP is a New York law firm specializing in community association law, representing over 1,000 HOAs, Co-ops, Condos, and Property Owners Associations. The firm offers legal support in areas such as enforcement of governing documents, contract drafting, dispute resolution, and policy creation.",
+    "notable_facts": [
+      "Largest, fully focused Community Association law firm in New York.",
+      "Represents over 1,000 community associations.",
+      "Departmentalized structure for specialized legal services."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marc H. Schneider",
+        "title": "CEO and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Marc H. Schneider",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Justin S. Buchel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Goodman",
+          "title": "Transactional Department Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitchell J. Flachner",
+          "title": "Litigation Department Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victoria M. Waller",
+          "title": "Real Estate Department Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Smith, Sovik, Kendrick & Sugnet, P.C.",
+    "website": "https://smithsovik.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Medical Malpractice Liability",
+      "Automobile and Trucking Litigation",
+      "Construction and Labor Law Litigation",
+      "General Negligence / Premises Liability / Retail",
+      "Labor and Employment Practices Liability",
+      "Products Liability",
+      "Commercial Law",
+      "Personal Injury"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Smith Sovik Kendrick & Sugnet, P.C., founded in 1946, is a litigation boutique law firm serving clients across New York State. They defend individuals, professionals, corporations, and other entities against personal injury, malpractice, and commercial claims.",
+    "notable_facts": [
+      "Founded in 1946",
+      "Offices in Syracuse, Uniondale, Fishkill, and Williamsville",
+      "Aggressive and cost-effective approach"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Laurence \u201cLarry\u201d Sovik",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Timothy Smith",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Coghlan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan Bedenko",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward J Smith",
+          "title": "Partner",
+          "email": "esmith@smithsovik.com",
+          "phone": "(315) 474-2911",
+          "linkedin_url": "https://www.linkedin.com/in/edward-j-smith-iii-8a42442a"
+        },
+        {
+          "name": "Brandon King",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaclyn Wanemaker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

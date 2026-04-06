@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "DelBello Donnellan Weingarten Wise & Wiederkehr, LLP",
+    "website": "https://ddw-law.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Real Estate",
+      "Business Law",
+      "Estate Planning",
+      "Commercial Litigation",
+      "Corporate Law",
+      "Banking and Commercial Finance",
+      "Construction",
+      "Leasing",
+      "Land Use and Zoning",
+      "Government Relations",
+      "Employment Matters",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "DelBello Donnellan Weingarten Wise & Wiederkehr LLP is a law firm serving Westchester County, the Hudson Valley, and surrounding areas. They deliver tailored and comprehensive legal solutions to meet the unique needs of their clients.",
+    "notable_facts": [
+      "Founded in Westchester in 1995.",
+      "Instrumental in some of the most skyline-altering real estate development projects in the region.",
+      "Celebrating their 30th anniversary in 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alfred E. Donnellan",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark Weingarten",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nelida Lara",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian J. Donnellan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

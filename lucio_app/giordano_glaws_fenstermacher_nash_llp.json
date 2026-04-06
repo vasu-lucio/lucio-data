@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Giordano, Glaws, Fenstermacher & Nash, LLP",
+    "website": "https://ggfnlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Insurance Defense",
+      "Coverage",
+      "Injury and Accident Litigation",
+      "Automobile Accident Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Giordano, Glaws, Fenstermacher & Nash LLP is a full-service defense litigation firm that represents major corporations, business enterprises, institutions, and insureds throughout New York State. With more than 80 years of combined experience and more than 100 jury trials, the firm's New York insurance defense litigators have earned their reputations as accomplished trial and appellate advocates and effective settlement negotiators.",
+    "notable_facts": [
+      "Attorneys have been named to the New York Super Lawyers list.",
+      "Included within Best's Directory of Recommended Insurance Attorneys and Adjusters.",
+      "The firm has experience briefing and arguing over 100 appeals in both state and federal court."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Louis P. Giordano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles T. Glaws",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erica W. Fenstermacher",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Nash",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jenna Krueger",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Traub",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John R. Wiess",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

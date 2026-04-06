@@ -1,0 +1,132 @@
+{
+  "firm_data": {
+    "firm_name": "Sadis & Goldberg LLP",
+    "website": "https://sadis.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Financial Services",
+      "Investment Funds",
+      "Litigation",
+      "Corporate Law",
+      "Real Estate",
+      "Tax",
+      "ERISA",
+      "Regulatory Law",
+      "Mergers and Acquisitions",
+      "Private Funds"
+    ],
+    "lawyer_count": 32,
+    "firm_description": "Sadis & Goldberg LLP is a law firm specializing in financial services, investment funds, litigation, corporate law, real estate, tax, ERISA, and regulatory law. They pride themselves on delivering legal services that are tailored to drive business success.",
+    "notable_facts": [
+      "Launch over 80 private funds annually.",
+      "Specialize in family office direct investing, investing strategies and fee structures.",
+      "Represent investment advisers, investors, service providers, directors, liquidators, receivers and business owners in a wide range of disputes and regulatory proceedings."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James Ancone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Restagno",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth Lebowitz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Fitzgerald",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Bernstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Cromwell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Rossan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas Hirsch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitchell Taras",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Fasciano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

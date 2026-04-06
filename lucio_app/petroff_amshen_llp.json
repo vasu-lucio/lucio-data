@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Petroff Amshen LLP",
+    "website": "https://www.petroffamshen.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Civil Litigation",
+      "Consumer Law",
+      "Foreclosure Defense",
+      "Mortgage Dispute Resolution",
+      "Consumer Protection Matters",
+      "Appellate Practice",
+      "Debtor Creditor",
+      "Commercial Litigation",
+      "Commercial Leasing",
+      "Trust & Estate",
+      "Federal Litigation",
+      "Financial Litigation",
+      "Nonprofit Organizations",
+      "Real Estate Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Petroff Amshen LLP is a law firm in Brooklyn, New York, providing legal services in areas such as foreclosure defense, civil litigation, and real estate litigation.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven Amshen",
+        "title": "Founding Partner & Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Serge F. Petroff",
+        "title": "Founding Partner & Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jill Schaefer",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Tierney",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria Garber",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

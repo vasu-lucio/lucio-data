@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Kudman Trachten Aloe Posner LLP",
+    "website": "https://www.kudmanlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Law",
+      "Complex Commercial Litigation",
+      "Mergers and Acquisitions",
+      "Corporate Finance",
+      "Healthcare",
+      "White-Collar Crime & Government Investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kudman Trachten Aloe Posner LLP is a commercial law firm with a broad domestic and international reach. They work with businesses and entrepreneurial individuals in all manner of commercial transactions and disputes.",
+    "notable_facts": [
+      "The firm has been ranked in Chambers USA Florida and New York Spotlight Guide 2026.",
+      "KTAP has a Florida Office and has expanded its White Collar Practice",
+      "KTAP traces its roots back to 1986."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stuart Kudman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Trachten",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tama Beth Kudman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael S. Aloe",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven R. Posner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

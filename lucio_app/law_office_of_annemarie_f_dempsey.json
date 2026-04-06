@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office of Annemarie F. Dempsey",
+    "website": null,
+    "city": "Tarrytown",
+    "practice_areas": [
+      "Family Law",
+      "Estate Planning",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Annemarie Dempsey Law Office, located in Tarrytown, NY, offers a range of legal services focused on family law, estate planning, and real estate matters. The firm provides personalized attention to clients and aims to address their specific needs through legal consultation and representation.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Annemarie F. Dempsey",
+        "title": null,
+        "email": "afdempse(a)travelers.com",
+        "phone": "(914) 285-8500",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nancy R Schembri",
+          "title": null,
+          "email": null,
+          "phone": "(914) 285-8562",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary Elizabeth Marzolla",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicola D. Migliaccio",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Louis Mamone",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Harvey Green",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

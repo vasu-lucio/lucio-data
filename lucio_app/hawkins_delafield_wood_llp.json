@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Hawkins Delafield & Wood LLP",
+    "website": "https://hawkins.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Public Finance",
+      "Infrastructure Transactions"
+    ],
+    "lawyer_count": 90,
+    "firm_description": "Hawkins Delafield & Wood LLP provides legal services and sophisticated counsel to governmental agencies, financial institutions, non-profit entities, and borrowers in finance and infrastructure transactions. The firm is a nationally recognized leader in public finance.",
+    "notable_facts": [
+      "Founded in 1854",
+      "Closed over $1 trillion in public finance transactions",
+      "Ranked among the very top bond counsel and underwriters\u2019 counsel nationally"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John Renken",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Anna Lau",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Takashi Iwata",
+          "title": "Managing Director Of The Financial Analysis & Services Group",
+          "email": null,
+          "phone": "212.820.9432",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Thomas Hahn Sr.",
+          "title": "General Counsel",
+          "email": null,
+          "phone": "212 820 9443",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

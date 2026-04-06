@@ -1,0 +1,161 @@
+{
+  "firm_data": {
+    "firm_name": "Kloss Stenger & Gormley LLP",
+    "website": "https://klosslaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business & Corporate Law",
+      "Civil & Commercial Litigation",
+      "Intellectual Property",
+      "Real Estate Transactions",
+      "Personal Injury",
+      "Commercial Litigation",
+      "Business Formation",
+      "Contract Law",
+      "Corporate Transactions",
+      "Employment Law",
+      "Startup Business",
+      "Patent Infringement Litigation",
+      "Trademark Infringement Litigation",
+      "Product Liability",
+      "Real Estate",
+      "Criminal Defense",
+      "Wills, Trusts & Estates",
+      "Alternative Dispute Resolution",
+      "Dual Citizenship"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Kloss Stenger & Gormley LLP is a full-service law firm that offers the benefits of big firms, while maintaining a commitment to be cost conscious in representation. They are recognized for excellence and trusted by businesses, entrepreneurs & inventors.",
+    "notable_facts": [
+      "The firm provides comprehensive legal services in Business & Corporate Law, Civil & Commercial Litigation, Intellectual Property, Real Estate Transactions, and Personal Injury.",
+      "They are trusted by businesses, entrepreneurs, and inventors."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David W. Kloss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin Kloss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://klosslaw.com/attorneys/justin-kloss/"
+        },
+        {
+          "name": "Mitch Stenger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://klosslaw.com/attorneys/mitch-stenger/"
+        },
+        {
+          "name": "Erin Gormley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://klosslaw.com/attorneys/erin-gormley/"
+        },
+        {
+          "name": "Christopher Bopst",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Delaney M. Shaw",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeremy Colby",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Marusak",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristin Kozlowski",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Phil Abramovitz",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William Nowakowski",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victoria Gaona",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy Albright",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

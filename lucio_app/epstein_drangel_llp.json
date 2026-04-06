@@ -1,0 +1,55 @@
+{
+  "firm_data": {
+    "firm_name": "Epstein Drangel LLP",
+    "website": "https://epstein-drangel.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Intellectual Property",
+      "Trademark prosecution",
+      "Copyright litigation",
+      "Anti-counterfeiting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Epstein Drangel LLP is a leading intellectual property law firm. They are experienced in the complexities and nuances of clearing, securing, and enforcing intellectual property rights throughout the world.",
+    "notable_facts": [
+      "Offers expertise in trademark, patent and copyright matters.",
+      "Focus on strategy counseling, prosecution work and enforcement actions.",
+      "Expertise in portfolio management and anticounterfeiting issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jason M. Drangel",
+        "title": "Managing Partner",
+        "email": "jdrangel@ipcounselors.com",
+        "phone": "212.292.5390",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

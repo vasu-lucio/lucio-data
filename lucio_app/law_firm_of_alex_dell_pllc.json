@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Law Firm of Alex Dell, PLLC",
+    "website": "https://alexdell.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Social Security Disability",
+      "Supplemental Security Income",
+      "Disability Retirement",
+      "Veterans Affairs Claims",
+      "Public Safety Officers Benefits"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Firm of Alex Dell, PLLC, established in 2005, focuses on representing injured and disabled individuals with their workers\u2019 compensation, disability retirement, Social Security disability, and Veterans Affairs claims.",
+    "notable_facts": [
+      "Alex Dell was inducted into the College of Workers\u2019 Compensation Lawyers in 2016.",
+      "Alex Dell is a contributing author on New York Workers\u2019 Compensation Law and Practice, published by the New York State Bar Association.",
+      "Alex Dell was elected to the Board of Directors of Kids\u2019 Chance of New York in 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alex Dell",
+          "title": "Founding Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brittany Kounoupis",
+          "title": "Firm Administrator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca Striker",
+          "title": "Director of Marketing and Client Relations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine O'Malley",
+          "title": "Intakes / Internal Operations Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Ferro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

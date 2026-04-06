@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "d'Arcambal, Ousley & Cuyler Burk LLP",
+    "website": "https://www.darcambal.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Insurance",
+      "Financial",
+      "Hospitality",
+      "Products Liability",
+      "Life, Annuities, Health, and Disability Products and Plan Litigation",
+      "ERISA & Group Litigation",
+      "Insurance Coverage Litigation",
+      "Regulatory Law and Insurance Products & Employee Benefit Plan and Advice"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "D'Arcambal, Ousley & Cuyler Burk LLP is a commercial litigation boutique with an ever-evolving and adapting model. The firm is an AV-rated women-owned enterprise comprised of skilled and seasoned lawyers.",
+    "notable_facts": [
+      "The firm is an active member of the National Association of Women and Minority-Owned Law Firms (\u201cNAMWOLF\u201d).",
+      "The firm is a certified Women\u2019s Business Enterprise (\u201cWBE\u201d)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle J. D\u2019Arcambal",
+          "title": "Partner",
+          "email": "[[email&#160;protected]]",
+          "phone": "212-971-3175",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jodie L. Ousley",
+          "title": "Partner",
+          "email": "[[email&#160;protected]]",
+          "phone": "212-971-3175",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaclyn DiLascio Malyk",
+          "title": "Partner",
+          "email": "[[email&#160;protected]]",
+          "phone": "973-734-3278",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nada M. Peters",
+          "title": "Partner",
+          "email": "[[email&#160;protected]]",
+          "phone": "215-665-5658",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen D. Cuyler",
+          "title": "Retired Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Perkins Coie",
+    "website": "https://www.perkinscoie.com",
+    "city": "Seattle",
+    "practice_areas": [
+      "Emerging Company and Venture Capital",
+      "Patent Litigation",
+      "Private Equity and Mergers and Acquisitions",
+      "White Collar and Securities Litigation",
+      "Infrastructure Development",
+      "Environmental Law",
+      "Transportation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Perkins Coie is an international law firm that provides a full array of legal services to businesses and individuals. They are known for their work in technology, energy, and financial services.",
+    "notable_facts": [
+      "Opened new offices in Austin and London.",
+      "Doubled its presence in New York.",
+      "Consistently achieved strong financial results and risen in industry rankings.",
+      "Earned national accolades for client service, pro bono, diversity and inclusion, and workplace culture."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William G. Malley",
+        "title": "Managing Partner",
+        "email": "WMalley@perkinscoie.com",
+        "phone": "202.654.6250",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joe Conroy",
+          "title": "Partner and Chairman",
+          "email": "jconroy@cooley.com",
+          "phone": "+1 212 479 6620",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Ende",
+          "title": "Chief Operating Officer",
+          "email": null,
+          "phone": "+1.617.832.1120",
+          "linkedin_url": null
+        },
+        {
+          "name": "John Harrity",
+          "title": "Co-Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Gurzo",
+          "title": "Co-Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/perkins-coie-llp"
+  },
+  "email": {}
+}

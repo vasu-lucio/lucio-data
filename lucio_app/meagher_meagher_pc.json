@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Meagher & Meagher, P.C.",
+    "website": "https://www.meagherandmeagherpc.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury",
+      "Wrongful Death",
+      "Sexual Abuse Claims",
+      "Car Accidents",
+      "Serious Falls"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Meagher & Meagher, P.C., founded in Westchester County, has a reputation for excellence in medical malpractice and personal injury litigation. The firm's legal team has the knowledge and resources to take complex claims through trial or appeal.",
+    "notable_facts": [
+      "Christopher B. Meagher has obtained many notable verdicts and settlements for clients, including two of the highest-value medical malpractice verdicts ever handed down by New York juries.",
+      "The firm has obtained a $60.9 Million damage award for the family of an infant disabled at birth.",
+      "The firm obtained a $47.95 Million award for the victim of a failure to diagnose a spinal tumor."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christopher B. Meagher",
+        "title": "Principal trial lawyer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas F. Meagher",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Cossifos Patrissi",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Collins II",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Meagher",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Miranda Zumbado",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mariah Agbonkpolo",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

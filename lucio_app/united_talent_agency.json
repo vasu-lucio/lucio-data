@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "United Talent Agency",
+    "website": "https://unitedtalent.com/",
+    "city": "Beverly Hills",
+    "practice_areas": [
+      "Filmed Entertainment",
+      "Music",
+      "Comedy",
+      "Sports",
+      "Brands",
+      "News",
+      "Publishing",
+      "Speakers",
+      "Theatre"
+    ],
+    "lawyer_count": null,
+    "firm_description": "United Talent Agency (UTA) is a premier global talent agency built for the future of entertainment and media, representing celebrated artists, creatives, and brands across various fields.",
+    "notable_facts": [
+      "Founded in 1991 through a merger of Bauer-Benedek Agency and Leading Artists Agency.",
+      "Acquired ROOF Athlete Management, JUV Consulting, and REP 1 Baseball in recent years.",
+      "UTA employs 1,500 people and has an annual revenue of $200 million."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter Benedek",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jim Berkus",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Bob Roback",
+        "title": "COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Shahin Mohammadkhani",
+        "title": "Vice President of Engineering & Artificial Intelligence",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeremy Zimmer",
+          "title": "Executive Chairman & Board Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lyndsay Harding",
+          "title": "CFO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay Sures",
+          "title": "Vice Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.unitedtalent.com/bio/jay-sures"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

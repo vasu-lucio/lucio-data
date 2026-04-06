@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Connell Foley LLP",
+    "website": "https://www.connellfoley.com/",
+    "city": "Roseland, NJ",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Connell Foley has the experience, insight and ingenuity to evaluate short-term goals and long-term strategies and provide targeted results. With a powerful network across the legal and business communities, they work shoulder to shoulder with their clients, not just as lawyers but as trusted members of the team.",
+    "notable_facts": [
+      "Timothy E. Corriston has been Connell Foley\u2019s Managing Partner since 2022.",
+      "Connell Foley achieved Mansfield Rule 6.0 Certification status, a prestigious designation awarded to law firms with a demonstrated commitment to diversity, equity, and inclusion."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Timothy E. Corriston",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "George Garcia",
+          "title": "Partner and Co-Chair, Real Estate and Land Use Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leo Hurley",
+          "title": "Partner and Co-Chair, Commercial Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Margot Wilensky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Petrozelli",
+          "title": "V.p. Of Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tuyet Dorr",
+          "title": "Marketing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

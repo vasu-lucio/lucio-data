@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Vishnick McGovern Milizio, LLP",
+    "website": "http://www.vmmlegal.com/",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Alternative Dispute Resolution",
+      "Bankruptcy",
+      "Business and Transactional Law",
+      "Charitable Bequests Management",
+      "Commercial Litigation",
+      "Elder Law",
+      "Employment Law",
+      "Exit Planning for Business Owners",
+      "Fiduciary Accounting",
+      "Guardianships",
+      "LGBTQ Representation",
+      "Matrimonial & Family Law",
+      "Mergers and Acquisitions",
+      "Personal Injury",
+      "Real Estate Litigation",
+      "Real Estate Transactions",
+      "Special Needs Planning",
+      "Surrogacy, Adoption, and Assisted Reproduction",
+      "Trust & Estate Accounting",
+      "Trust & Estate Administration",
+      "Trust & Estate Litigation",
+      "Trust & Estate Planning",
+      "Wills, Trusts, and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Vishnick McGovern Milizio LLP is a full-service law firm providing counsel and representation in a variety of matters for private and business clients. They combine the expertise and resources of a large firm with the personal attention of a small firm.",
+    "notable_facts": [
+      "Named one of the Best Law Firms in America by U.S. News & World Report\u2013Best Lawyers",
+      "Recognized as the Top Law Firm of Long Island consecutively since 2019 by the Long Island Herald",
+      "Selected to the gold-standard Chambers USA",
+      "Recipient of a Special Congressional Recognition",
+      "Over 40% of VMM attorneys are listed in Super Lawyers and Best Lawyers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph G. Milizio",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(516) 437-4385",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard H. Apat",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bernard F. McGovern",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bernard Vishnick",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

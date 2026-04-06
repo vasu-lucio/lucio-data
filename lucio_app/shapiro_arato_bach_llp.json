@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Shapiro Arato Bach",
+    "website": "https://shapiroarato.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Criminal Matters (White Collar)",
+      "Complex Civil Litigation",
+      "Media and Entertainment",
+      "Intellectual Property",
+      "Employment",
+      "Financial and Commercial Disputes",
+      "Appeals"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Shapiro Arato Bach is a premier litigation boutique in New York City that handles high-stakes, high-profile disputes and cutting-edge litigation across a broad range of clients and industries. They defend individuals and entities facing existential threats to their reputations, businesses, and livelihoods.",
+    "notable_facts": [
+      "Rated among the nation\u2019s top practitioners.",
+      "Proven track record of winning in federal and state courts at all levels across the nation, including the Supreme Court of the United States.",
+      "Named partners Alexandra Shapiro, Cynthia Arato, and Jonathan Bach have been identified as among the \u201c500 Leading Litigators in America\u201d by Lawdragon."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexandra Shapiro",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-257-4881",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cynthia Arato",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-257-4882",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Bach",
+          "title": "Partner",
+          "email": "jbach@shapiroarato.com",
+          "phone": "212-257-4897",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan O\u2019Neill",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-257-4885",
+          "linkedin_url": null
+        },
+        {
+          "name": "Fabien Thayamballi",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-257-4891",
+          "linkedin_url": null
+        },
+        {
+          "name": "Julian Moore",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-257-4889",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alice BrightSky",
+          "title": "Counsel",
+          "email": null,
+          "phone": "212-257-4888",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Centolella Law, P.C.",
+    "website": "https://centolellalegal.com/",
+    "city": "DeWitt",
+    "practice_areas": [],
+    "lawyer_count": 3,
+    "firm_description": "Centolella Law, P.C. has local roots and a nationwide reach. They collaborate with hospital systems, healthcare professionals, and group practices.",
+    "notable_facts": [
+      "Founded in 2021",
+      "Jason Centolella has 17 years of experience in healthcare law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason John Centolella",
+          "title": null,
+          "email": "jason@cglawpc.com",
+          "phone": "(315) 913-4924",
+          "linkedin_url": null
+        },
+        {
+          "name": "Leah Kristine Folgherait",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric T Bronstad",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

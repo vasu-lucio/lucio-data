@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Arciero & Burgess, PC",
+    "website": "https://ambpclaw.com/",
+    "city": "New Windsor",
+    "practice_areas": [
+      "Medical Malpractice",
+      "General Liability",
+      "Commercial Litigation",
+      "Real Estate Transactions"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Arciero & Burgess, PC focuses on achieving exceptional client representation, satisfaction, and results by providing the highest quality, timely, and cost-effective legal services. The firm provides individual attention for each and every client.",
+    "notable_facts": [
+      "Founded in 2019",
+      "Attorneys actively give back by volunteering time and lending financial support to a range of charitable organizations.",
+      "Attorneys regularly lecture at professional conferences and contribute articles to legal publications."
+    ],
+    "technology_signals": [
+      "Tech Stack: well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Maureen M. Arciero",
+          "title": "Partner",
+          "email": "marciero@ambpclaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig A. Burgess",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristin L. Doyle",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Stafford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathan Shook",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/regenbaum-arciero-mcmillan-burgess-pc"
+  },
+  "email": {}
+}

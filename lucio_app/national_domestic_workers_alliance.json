@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "National Domestic Workers Alliance",
+    "website": "https://domesticworkers.org/",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The National Domestic Workers Alliance (NDWA) works to win respect, recognition, and labor rights and protections for the nearly 2.5 million nannies, housecleaners, and homecare workers who do the essential work of caring for our loved ones and our homes. It is one of the country\u2019s leading social movement organizations.",
+    "notable_facts": [
+      "NDWA was founded in June 2007.",
+      "NDWA has over 70 local affiliate organizations and chapters and over 200,000 members."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jenn Stowe",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ai-jen Poo",
+          "title": "President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Palak Shah",
+          "title": "Social Innovations Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allison Julien",
+          "title": "Dorothy Bolden Fellow / New York Chapter We Dream in Black Co-Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barbara Young",
+          "title": "National Organizer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

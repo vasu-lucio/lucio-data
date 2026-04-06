@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Pitta LLP",
+    "website": "https://www.pittalaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor and Employment Law",
+      "Employee Benefits / ERISA",
+      "Political Campaign Compliance",
+      "Real Estate"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Pitta LLP is a law firm located in New York, New York, with a practice dedicated to employment, employee benefits and labor law, representing unions for more than 40 years. Our attorneys counsel and partner with clients to formulate strategies designed to anticipate and avoid workplace problems before they start.",
+    "notable_facts": [
+      "Represents unions in New York and New Jersey.",
+      "Affiliated with Bishop & Del Giorno, LLC, a government relations/consulting firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mickey Cekovic",
+        "title": "Chief Financial Officer and Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Bishop",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-257-3973",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aldo G. Zammit",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keith E. Secular",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Delgiorno",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

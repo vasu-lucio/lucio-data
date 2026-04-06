@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Mejias Milgrim Alvarado & Lindo P.C.",
+    "website": "https://mylongislandlawyers.com",
+    "city": "Glen Cove",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Personal Injury",
+      "Criminal Law",
+      "Traffic Law"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Mejias, Milgrim, Alvarado & Lindo, P.C. has been fighting for the rights of our clients for more than 20 years. They provide personal injury, criminal and traffic law services and take pride in getting to know their clients personally.",
+    "notable_facts": [
+      "David Mejias was elected to the Nassau County Legislature in 2003.",
+      "David Mejias was named as one of Long Island Business News \u201c40 Rising Stars Under 40\u201d to watch, and named to the Long Island Press Power List as one of the 50 Most Powerful & Influential Long Islanders for four consecutive years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dave Mejias",
+        "title": "Managing Partner",
+        "email": "info@mejiaslaw.com",
+        "phone": "516.333.7777",
+        "linkedin_url": "https://cn.linkedin.com/company/mejias-milgrim-alvarado-lindo-p-c?trk=similar-pages_result-card_full-click"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Randi Milgrim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://cn.linkedin.com/company/mejias-milgrim-alvarado-lindo-p-c?trk=similar-pages_result-card_full-click"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

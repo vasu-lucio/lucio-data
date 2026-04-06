@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Stanley Law Offices",
+    "website": "https://stanleylawoffices.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accidents",
+      "Premises Liability",
+      "Medical Malpractice",
+      "Product Failure",
+      "Wrongful Death",
+      "Construction Site Injuries",
+      "Motorcycle Accidents",
+      "Nursing Home Abuse and Neglect",
+      "Workers\u2019 Compensation",
+      "Social Security Disability"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Stanley Law Offices is a Legal Services company providing legal representation to clients in New York and Pennsylvania. The firm specializes in personal injury law, workers' compensation, and social security disability benefits.",
+    "notable_facts": [
+      "Founded in 1987",
+      "Has six office locations throughout Upstate NY and PA",
+      "Uses the 'Stanley System' to maximize awards for clients",
+      "Joe Stanley hosts a weekly radio show answering legal questions"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joe Stanley",
+        "title": "Founding Partner",
+        "email": "joe@stanleylawoffices.com",
+        "phone": "800-608-3333",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "H. Ronald Stanley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

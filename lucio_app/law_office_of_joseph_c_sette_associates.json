@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Office of Joseph C. Sette and Associates",
+    "website": null,
+    "city": "Uniondale",
+    "practice_areas": [
+      "Insurance Defense",
+      "Personal Injury",
+      "Wrongful Death",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Office of Joseph C. Sette and Associates is an insurance defense firm. Joseph Sette has over 25 years of experience in the insurance defense industry.",
+    "notable_facts": [
+      "Joseph C. Sette was previously a managing partner of one of the largest litigation firms serving the entire state of Florida.",
+      "The firm handles BI, PIP, UM, Subrogation and Homeowners for Plymouth Rock Assurance."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph Charles Sette",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": "(516) 941-1392",
+        "linkedin_url": "https://www.linkedin.com/in/joseph-c-sette-06907596"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Janine L. Gentile",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(516) 403-1777",
+          "linkedin_url": null
+        },
+        {
+          "name": "Terence John Kemp",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(516) 388-2989",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stamatis T. Michelakos",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Daniel Levine",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

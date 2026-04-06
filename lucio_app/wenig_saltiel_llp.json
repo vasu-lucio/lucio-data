@@ -1,0 +1,60 @@
+{
+  "firm_data": {
+    "firm_name": "Wenig Saltiel LLP",
+    "website": "https://www.wenigsaltiel.com/",
+    "city": "NYC",
+    "practice_areas": [
+      "Real Estate Litigation",
+      "Landlord Tenant Law"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Wenig Saltiel LLP is led by Meryl L. Wenig and Jeffrey L. Saltiel, and comprised of an experienced team of dedicated, innovative and passionate attorneys. The firm is committed to promoting their client's objective and delivering results and are adept at handling complex litigation issues.",
+    "notable_facts": [
+      "Meryl L. Wenig has over 25 years of experience in Landlord/Tenant Law and is recognized as a tough, no-nonsense litigator.",
+      "Jeffrey L. Saltiel has been called upon to serve various courts as a Guardian Ad Litem and has represented numerous Receivers and other court appointed fiduciaries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey L. Saltiel",
+        "title": "Managing Partner",
+        "email": "JSaltiel@Ltattorneys.com",
+        "phone": "917-277-3605",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Meryl L. Wenig",
+        "title": "Partner",
+        "email": "MWenig@Ltattorneys.com",
+        "phone": "917-423-6858",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dan Blumenthal",
+          "title": "Special Counsel",
+          "email": "dblumenthal@ltattorneys.com",
+          "phone": "917-672-3277",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

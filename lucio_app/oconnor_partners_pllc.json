@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "O'Connor & Partners, PLLC",
+    "website": "https://oconnorpersonalinjury.com/",
+    "city": "Kingston",
+    "practice_areas": [
+      "Personal Injury",
+      "Auto Accidents",
+      "Motorcycle Accidents",
+      "Truck Accidents",
+      "Brain Injuries",
+      "Bicycle Accident Lawyers",
+      "Construction Accidents",
+      "Slip & Fall Accidents",
+      "Dog Bite Injuries",
+      "Medical Malpractice",
+      "Wrongful Death",
+      "Criminal Defense Lawyers",
+      "Mass Tort Attorneys"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "O\u2019Connor & Partners is a New York personal injury law firm dedicated to maximizing compensation for the people we represent. Our attorneys have years of experience \u2014 not to mention a record of fighting, winning, and making a difference in our clients\u2019 lives.",
+    "notable_facts": [
+      "The firm advances the costs of litigation.",
+      "They do not charge clients a fee unless they get them money.",
+      "Cases have been featured on television on the Today Show and Anderson 360 and in The Wall Street Journal, The New York Times and the New York Journal."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph E. O'Connor",
+        "title": "CEO - Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/joseph-o-connor-0841504a"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carey Castiglione Beyer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

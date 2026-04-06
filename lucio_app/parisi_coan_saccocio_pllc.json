@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Parisi, Coan & Saccocio PLLC",
+    "website": "https://www.pcsattorneys.com/",
+    "city": "Schenectady",
+    "practice_areas": [
+      "Real Estate Law",
+      "Business Law",
+      "Title IX",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Parisi, Coan & Saccocio, PLLC provides individualized legal counsel to clients in New York for a wide range of legal issues. They have over 65 years of combined experience in the legal profession.",
+    "notable_facts": [
+      "The firm was founded in 1999.",
+      "The firm has offices in Schenectady and New York City, and client meeting locations in Brooklyn, White Plains, and Charlotte, NC.",
+      "The firm's attorneys are selective about the cases they accept to provide the best possible representation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gerard F. Parisi",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Saccocio",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.pandslawtitleix.com/firm-overview/patrick-j-saccocio/"
+        },
+        {
+          "name": "Robert P. Coan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Ferri",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

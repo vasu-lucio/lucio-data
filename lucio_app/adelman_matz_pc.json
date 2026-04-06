@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Adelman Matz P.C.",
+    "website": "https://www.adelmanmatz.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Corporate Law",
+      "Business Services",
+      "Intellectual Property",
+      "Branding",
+      "Litigation",
+      "Employment",
+      "Technology",
+      "Hospitality",
+      "Entertainment Law"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Adelman Matz P.C. is a midsize firm headquartered in New York City with offices in Los Angeles, Austin and Atlanta. They offer experience in all areas of Corporate Law, Business Services, Intellectual Property, Branding, Litigation, Employment, Technology, Hospitality and Entertainment Law.",
+    "notable_facts": [
+      "The firm was formed in 2013 by Gary Adelman and Sarah Matz.",
+      "They have sister firms in over 20 states and 100 countries.",
+      "The firm represents clients in music, film, apparel, health & beauty, technology and products industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gary Adelman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(646) 650-2207",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gary Adelman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Matz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sarah Matz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Krishna Parekh",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sebastian Hoskins",
+          "title": "Department Head - Corporate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/adelman-matz-p-c-"
+  },
+  "email": {}
+}

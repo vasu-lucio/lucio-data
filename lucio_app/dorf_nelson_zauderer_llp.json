@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Dorf Nelson & Zauderer LLP",
+    "website": "https://www.dorflaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Commercial Real Estate & Land Use",
+      "Fractional General Counsel Practice",
+      "Labor & Employment",
+      "Matrimonial & Family Law",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 50,
+    "firm_description": "Dorf Nelson & Zauderer LLP is a national law firm with offices in New York, New Jersey, and California. The firm provides legal services and solutions to corporations, entrepreneurs, growing businesses, and successful companies.",
+    "notable_facts": [
+      "Ranked by Chambers and Partners\u2019 Spotlight New York 2026 guide as a leading law firm in the area of Commercial Litigation.",
+      "Has been providing legal services for over three decades."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jon A. Dorf",
+        "title": "Managing Partner",
+        "email": "jdorf@dorflaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan B. Nelson",
+          "title": "Partner Co-Chair, Litigation Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark C. Zauderer",
+          "title": "Partner Co-Chair, Litigation Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel R. Alcott",
+          "title": "Partner Corporate DepartmentGroup Head, Not-For-Profit Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura G. Alcott",
+          "title": "Partner Co-Chair, Commercial Real Estate & Land Use Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

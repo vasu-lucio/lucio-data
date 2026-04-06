@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Newman Ferrara LLP",
+    "website": "https://www.nfllp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Commercial Litigation",
+      "Landlord-Tenant",
+      "Class Action",
+      "Civil Rights",
+      "Securities Violation"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Newman Ferrara represents many of the city's largest property owners and managing agents, and handles some of the nation's most significant class actions and civil rights matters. With over five decades of experience, the firm has evolved into a national practice focused on Real Estate, Commercial Litigation, Civil Rights, Class Actions and other Complex, Multiparty Litigation.",
+    "notable_facts": [
+      "The firm's attorneys are regularly called upon by the media to offer their unique insights on the latest legal developments and trends.",
+      "Newman Ferrara represents many of the city's largest property owners and managing agents."
+    ],
+    "technology_signals": [
+      "Facebook Pixel",
+      "Element UI",
+      "jQuery",
+      "Google Maps",
+      "SWFObject",
+      "HSTS",
+      "X-Content-Type-Options",
+      "Google Analytics"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan H. Newman",
+        "title": "Partner",
+        "email": "JNewman@nfllp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lucas A. Ferrara",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jarred I. Kassenoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey M. Norton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ricardo M. Vera",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

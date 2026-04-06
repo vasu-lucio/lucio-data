@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "Furman Kornfeld & Brennan LLP",
+    "website": "https://www.fkblaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Podiatric Malpractice",
+      "Pharmaceutical Medical Device Litigation",
+      "Medical Professional Discipline",
+      "Medical Malpractice Defense",
+      "General Liability Litigation",
+      "Diagnostic Laboratory Litigation",
+      "Dental Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Furman Kornfeld & Brennan LLP is a law firm based in New York, NY. They offer legal services in various areas of practice including medical malpractice defense and general liability litigation.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Patrick J. Brennan",
+          "title": "Partner",
+          "email": "pbrennan@fkblaw.com",
+          "phone": "212-867-4100",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Arkin Solbakken LLP",
+    "website": "https://www.arkin-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business & Civil Litigation",
+      "Regulatory Litigation",
+      "Entrepreneurial & Business Transactions",
+      "Construction Law & Litigation"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Arkin Solbakken LLP comprises experienced litigators committed to providing its clients the highest quality legal representation. Known for both their courtroom skills and their ability to execute unconventional strategies, the firm\u2019s lawyers deploy innovative thinking and sound judgment to achieve for their clients the best commercial results possible.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lisa C. Solbakken",
+        "title": "Managing Partner",
+        "email": "lsolbakken@arkin-law.com",
+        "phone": "212-333-0226",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert C. Angelillo",
+          "title": "Partner",
+          "email": "rangelillo@arkin-law.com",
+          "phone": "212-333-0216",
+          "linkedin_url": null
+        },
+        {
+          "name": "Deana Davidian",
+          "title": "Partner",
+          "email": "ddavidian@arkin-law.com",
+          "phone": "212-333-0252",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex Reisen",
+          "title": "Counsel",
+          "email": "areisen@arkin-law.com",
+          "phone": "212-333-0258",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stanley S. Arkin",
+          "title": "Founding Member",
+          "email": "sarkin@arkin-law.com",
+          "phone": "212-333-0208",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/arkin-solbakken-llp",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

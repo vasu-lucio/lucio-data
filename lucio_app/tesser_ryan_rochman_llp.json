@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Tesser, Ryan & Rochman, LLP",
+    "website": "https://tesserryan.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Corporate and Commercial Law",
+      "Commercial Litigation",
+      "Criminal Defense",
+      "Trust & Estate Planning",
+      "Professional Discipline"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Tesser, Ryan & Rochman, LLP is a New York City law firm that serves as outside general counsel for business clients, providing skilled legal advice and counsel to assist business clients in their day-to-day operations. The firm also represents individuals in litigation and criminal defense matters.",
+    "notable_facts": [
+      "The firm was founded in 1984.",
+      "Tesser, Ryan & Rochman, LLP has been recognized by Chambers and Partners for its Corporate and Commercial practice.",
+      "The firm provides legal services in the New York Metro area."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory J. Ryan",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Lewis Tesser",
+          "title": "Founding Partner and Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexandra Lyras",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Kontogiannis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Irwin Rochman",
+          "title": "Senior Partner and Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Omar Evans",
+          "title": "Office Manager/Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

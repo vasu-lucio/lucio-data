@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Tarbet & Lester PLLC",
+    "website": "https://www.tarbetlester.com/",
+    "city": null,
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Estate Planning",
+      "Probate",
+      "Administration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tarbet & Lester PLLC offers legal solutions with local knowledge and experienced legal advice.",
+    "notable_facts": [
+      "The firm has expanded its Personal Injury/Medical Malpractice practice with Jeff S. Korek as of counsel.",
+      "Laura Molinari, Esq. and Gina C. Plansker, Esq. focus their practice on estate planning, probate, and administration."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeff S. Korek",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura Molinari",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gina C. Plansker",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

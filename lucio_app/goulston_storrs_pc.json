@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Goulston & Storrs",
+    "website": "https://goulstonstorrs.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Real Estate",
+      "Corporate",
+      "Capital Markets",
+      "Finance",
+      "Litigation",
+      "Private Client & Trust",
+      "Tax"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Goulston & Storrs is a law firm with leading-edge corporate, capital markets and finance, litigation, private client and trust, and tax practices. It is known for its collaborative approach and deep expertise.",
+    "notable_facts": [
+      "Founded in 1900",
+      "Has offices in Boston, New York, and Washington, D.C., with presence in the United Kingdom and Israel",
+      "Recognized for its strong real estate practice"
+    ],
+    "technology_signals": [
+      "Salesforce",
+      "Microsoft Office 365",
+      "CloudFlare CDN",
+      "Brightcove",
+      "Atlassian Cloud"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "John Arsneault",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christine Roddy",
+          "title": "Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Eagan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Seltzer",
+          "title": "Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Hunter Cottingham PLLC",
+    "website": null,
+    "city": "New York City",
+    "practice_areas": [
+      "Entertainment Law"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Entertainment law firm based in New York City and Nashville.",
+    "notable_facts": [
+      "Founded in 2026"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Reid Hunter",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(917) 558-2172",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory W. Brooks",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

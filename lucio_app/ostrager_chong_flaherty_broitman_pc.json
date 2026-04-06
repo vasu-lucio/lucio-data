@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Ostrager Chong Flaherty & Broitman P.C.",
+    "website": "https://ocfblaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patent",
+      "Trademark",
+      "Copyright",
+      "Trade Secrets",
+      "Unfair Competition",
+      "Publicity Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ostrager Chong Flaherty and Broitman is a boutique Intellectual Property law firm with a 35 year history of excellence. Our clientele includes Fortune 50 companies, start-ups, small and medium sized businesses, and independent entrepreneurs in a wide variety of industries.",
+    "notable_facts": [
+      "The firm has extensive experience in due diligence investigations relating to product development, technology startups, technology transfer agreements, and administrative practice in patent, trademark, and copyright matters.",
+      "OCFB\u2019s attorneys are highly experienced in science and technical fields such as aerodynamics, electrical, mechanical, and industrial engineering, materials science, and biotechnology"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Glenn F. Ostrager",
+          "title": "Partner",
+          "email": "gostrager@ocfblaw.com",
+          "phone": "(212) 702-7041",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua S. Broitman",
+          "title": "Partner",
+          "email": "jbroitman@ocfblaw.com",
+          "phone": "(212) 702-7049",
+          "linkedin_url": null
+        },
+        {
+          "name": "Roberto L. Gomez",
+          "title": "Associate",
+          "email": "rgomez@ocfblaw.com",
+          "phone": "(212) 702-7051",
+          "linkedin_url": null
+        },
+        {
+          "name": "Manette Dennis",
+          "title": "Of Counsel",
+          "email": "mdennis@ocfblaw.com",
+          "phone": "(718) 614-4268",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

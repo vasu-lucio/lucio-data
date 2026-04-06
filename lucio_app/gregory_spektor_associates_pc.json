@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Gregory Spektor & Associates P.C.",
+    "website": "https://www.spektorlaw.com/law-firm/",
+    "city": "New York",
+    "practice_areas": [
+      "automobile accident litigation",
+      "construction accident lawsuits",
+      "slip and fall",
+      "wrongful death claims",
+      "medical malpractice",
+      "premise liability claims",
+      "personal injury cases"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gregory Spektor & Associates P.C. is a New York-based law firm specializing in a wide variety of legal matters. They are known for providing high-quality legal representation in areas including automobile accident litigation, construction accident lawsuits, premise liability claims, and personal injury cases.",
+    "notable_facts": [
+      "The firm has received awards such as Gold Client Champion and Avvo Client's Choice.",
+      "Gregory Spektor is admitted to practice in New York and New Jersey, as well as U.S. Southern and Eastern District Courts of New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory Spektor",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/gregory-spektor-277466115"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

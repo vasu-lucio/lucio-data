@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Walsh Markus McDougal & DeBellis LLP",
+    "website": "https://walshcounsel.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Real Estate",
+      "Land Use and Zoning",
+      "Cooperatives and Condominiums",
+      "Commercial Litigation",
+      "Personal Injury Litigation",
+      "Estate Planning and Administration",
+      "Appellate Practice",
+      "Municipal Law",
+      "Foreclosures"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Walsh Markus McDougal & DeBellis LLP is a multi-practice law firm centrally located in Nassau County in the Village of Garden City. The firm has extensive experience in matters relating to commercial and residential real estate transactions, municipal, zoning, cooperatives and condominiums, foreclosures, complex commercial litigation, personal injury litigation, estate planning and administration, and appellate practice.",
+    "notable_facts": [
+      "The firm was founded in 2003.",
+      "The firm represents clients throughout Nassau, Suffolk, and Westchester County as well as any of the boroughs of New York City.",
+      "The firm represents clients in administrative and municipal hearings, State and Federal Courts, on both the trial and appellate level."
+    ],
+    "technology_signals": [
+      "sage"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin M. Walsh",
+        "title": "Founding and Managing Partner",
+        "email": "kwalsh@walshcounsel.com",
+        "phone": "(516) 408-9002",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paul R. McDougal",
+          "title": "Founding Partner",
+          "email": "pmcdougal@walshcounsel.com",
+          "phone": "(516) 408-9009",
+          "linkedin_url": null
+        },
+        {
+          "name": "Claudio DeBellis",
+          "title": "Partner",
+          "email": "cdebellis@walshcounsel.com",
+          "phone": "(516) 408-9010",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

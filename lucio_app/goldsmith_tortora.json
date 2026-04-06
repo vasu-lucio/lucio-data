@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Goldsmith & Tortora",
+    "website": "https://gntcomplaw.com/",
+    "city": "Jericho",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Social Security Disability Law",
+      "Veterans' Benefits",
+      "Employer Issues"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Goldsmith and Tortora is a law firm specializing in workers' compensation and social security disability law, serving clients for over two decades. They offer services including workers' compensation, social security, veterans' benefits, and employer issues.",
+    "notable_facts": [
+      "The firm was founded in 1997.",
+      "They have two offices in New York.",
+      "They have been representing vulnerable members of society for 23 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steven Goldsmith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Tortora",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric Gringhaus",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kris Hedquist",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

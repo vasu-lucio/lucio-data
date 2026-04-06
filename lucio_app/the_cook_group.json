@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "The Cook Group",
+    "website": "https://cookgrouplegal.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Litigation"
+    ],
+    "lawyer_count": 60,
+    "firm_description": "The Cook Group is a minority & women-owned law firm committed to client service with legal talent across multiple jurisdictions and disciplines. They focus on modernizing practices to efficiently serve clients while aggressively advancing and protecting their interests.",
+    "notable_facts": [
+      "Minority and women-owned law firm",
+      "Offices in multiple major US cities",
+      "Mansfield Rule Plus certified",
+      "Women\u2019s Business Enterprise National Council certified",
+      "National Gay & Lesbian Chamber of Commerce certified"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kerryann M. Cook",
+        "title": "Founding Partner, Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Cate E. Bell",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Casimir",
+          "title": "Founding Partner, Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Lorene Rome",
+        "title": "Director of Operations & Paralegals",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christine D. Calareso",
+          "title": "Managing Partner - California",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jackie Miller",
+          "title": "Managing Partner - Chicago Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hanson D. Horn",
+          "title": "Trial Attorney, Managing Partner - Fort Lauderdale",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joe Hargraves",
+          "title": "Managing Partner - St. Louis Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Liza Stagliano",
+          "title": "Managing Partner - Philadelphia",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

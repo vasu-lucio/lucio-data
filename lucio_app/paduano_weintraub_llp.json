@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Paduano & Weintraub LLP",
+    "website": "https://www.pwlawyers.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Litigation",
+      "Employment Litigation",
+      "Employment Counseling",
+      "Restrictive Covenants",
+      "Financial Services Litigation and Regulatory Matters"
+    ],
+    "lawyer_count": 27,
+    "firm_description": "Paduano & Weintraub LLP is a boutique full-service litigation firm dedicated to providing its clients with the highest level of service and meeting all of their litigation needs. They represent clients in the areas of business, financial services and employment litigation, employment counseling, and restrictive covenants.",
+    "notable_facts": [
+      "Founded in 2000 by Anthony Paduano and Len Weintraub",
+      "Offices in New York and Los Angeles",
+      "Represent clients in federal and state courts across the country, and before arbitration panels in 40 states."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Anthony Paduano",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Len Weintraub",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Meredith Cavallaro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine Harrison",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisia Leon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

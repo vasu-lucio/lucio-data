@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "The Pickel Law Firm, LLC",
+    "website": "https://www.pickellaw.com/",
+    "city": "Stamford",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Divorce",
+      "Family Law",
+      "Civil Litigation",
+      "Commercial Litigation",
+      "Workers\u2019 Compensation"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "The Pickel Law Firm has helped individuals and families across Connecticut navigate the complexities of personal injury and medical malpractice law for over thirty years. The Firm has committed itself to securing justice for those who have been injured and has recovered millions of dollars for its clients.",
+    "notable_facts": [
+      "The firm was founded in 1990.",
+      "Attorney Alan Scott Pickel is frequently appointed by the Connecticut Superior Court to serve as an Attorney Trial Referee, Fact Finder, Arbitrator, and Mediator.",
+      "The firm has secured multimillion-dollar settlements in complex cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alan Scott Pickel",
+        "title": "Founder & Managing Partner",
+        "email": "apickel@nullpickellaw.com",
+        "phone": "203-348-4100",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven A. Landis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Trevor J. Larrubia",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley T. Rivera",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

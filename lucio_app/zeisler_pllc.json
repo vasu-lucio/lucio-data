@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "ZEISLER PLLC",
+    "website": "https://www.zeisler-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Intellectual Property Litigation",
+      "Taxation",
+      "Not-For-Profit & Tax-Exempt Orgs",
+      "Employment Law",
+      "Insurance Law",
+      "Intellectual Property Counseling"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "ZEISLER PLLC litigates commercial and intellectual property disputes and counsels businesses, private funds and individuals in a sophisticated yet cost-effective manner. They are experienced lawyers with expertise in complex business and intellectual property matters.",
+    "notable_facts": [
+      "The firm was founded in New York City in 2014.",
+      "The firm serves as outside \u201cin-house\u201d counsel to a number of their corporate and fund clients.",
+      "Aaron M. Zeisler and his colleagues secured the dismissal of trade secret misappropriation, breach of contract and unfair competition claims in an arbitration in New York brought by Bridgewater Associates against two former employees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Aaron M. Zeisler",
+        "title": "Managing Member",
+        "email": "aaron@zeisler-law.com",
+        "phone": "(917) 410-7712",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel B. Ravicher",
+          "title": "Member",
+          "email": "dan@zeisler-law.com",
+          "phone": "(786) 505-1205",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

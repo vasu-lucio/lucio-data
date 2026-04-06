@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Rolnick Kramer Sadighi LLP",
+    "website": "https://www.rksllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Opt-Out and Structured Finance Litigation",
+      "Creditor and Debtholder Rights",
+      "Valuation Litigation and Shareholder Rights",
+      "M&A and Activist Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rolnick Kramer Sadighi LLP is a firm focused on securities opt-out and structured finance litigation, creditor and debtholder rights, valuation litigation and shareholder rights, and M&A and activist litigation. They are trusted partners to clients with more than $4 Trillion AUM.",
+    "notable_facts": [
+      "The firm was founded to focus on investor rights and recoveries.",
+      "The firm's compensation model is focused on results, rather than on hours billed."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Sheila Sadighi",
+        "title": "Managing Partner",
+        "email": "ssadighi@rksllp.com",
+        "phone": "212.597.2808",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lawrence Rolnick",
+          "title": "Partner",
+          "email": "lrolnick@rksllp.com",
+          "phone": "212.597.2838",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc Kramer",
+          "title": "Partner",
+          "email": "Mkramer@rksllp.com",
+          "phone": "212.597.2828",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Hecht",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Hampson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

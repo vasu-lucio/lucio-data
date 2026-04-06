@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Floyd Zadkovich",
+    "website": "https://www.floydzad.com/",
+    "city": "New York",
+    "practice_areas": [
+      "International Trade",
+      "Maritime Law",
+      "Commodities"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Floyd Zadkovich is an international commercial law firm focusing on international trade and maritime sectors, with experience in energy, commodities, logistics, shipping, and insurance. They provide disputes advice and bespoke advisory services.",
+    "notable_facts": [
+      "The firm has offices in Houston, Sydney, Chicago, London, and New York.",
+      "They offer cross-jurisdictional capabilities, particularly for matters involving substantive law in one jurisdiction and security/enforcement proceedings in another.",
+      "The firm's managing partner, Luke Zadkovich, co-hosts the legal podcast, Case by Case."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Luke Zadkovich",
+        "title": "Managing Partner",
+        "email": "luke.zadkovich@floydzad.com",
+        "phone": "+1 917 868 1245",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Edward W. Floyd",
+          "title": "Partner",
+          "email": "edward.floyd@floydzad.com",
+          "phone": "+1 917 999 6914",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexandra Dean",
+          "title": "Senior Operations and HR Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "WTW",
+    "website": "https://www.willistowerswatson.com",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "WTW provides data-driven, insight-led solutions in the areas of people, risk and capital.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Alexis Faber",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carl Hess",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Krasner",
+          "title": "Chief Financial Officer, Co-head of Corporate Development",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristy Banas",
+          "title": "Chief Human Resources Officer, Marketing and Communication",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Furman",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

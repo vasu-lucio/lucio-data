@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Winget, Spadafora & Schwartzberg, LLP",
+    "website": "https://wssllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Professional Liability",
+      "Labor and Employment",
+      "Directors & Officers",
+      "Intellectual Property",
+      "Cyber Liability",
+      "Fiduciary Liability",
+      "Reinsurance",
+      "Fidelity and Surety",
+      "General Liability",
+      "Products Liability",
+      "Construction Defect"
+    ],
+    "lawyer_count": 62,
+    "firm_description": "Winget, Spadafora & Schwartzberg, LLP is a nationally recognized law firm providing comprehensive defense litigation and insurance coverage services. They represent professionals, businesses, financial institutions, and insurance companies.",
+    "notable_facts": [
+      "Founded in 1993",
+      "Represents many leading insurance companies and financial institutions",
+      "Provides personalized and collaborative approach"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Denis Dice",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Michael Schwartzberg",
+        "title": "co-managing partner",
+        "email": null,
+        "phone": "212-221-6900",
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William G. Winget",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "212-221-6900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Luigi Spadafora",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Margaret Hughes",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carolyn Roch",
+          "title": "Managing Partner \u2014Texas",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

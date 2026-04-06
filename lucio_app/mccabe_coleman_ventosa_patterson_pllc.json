@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "McCabe, Coleman, Ventosa & Patterson PLLC",
+    "website": "https://www.mccabecoleman.com/",
+    "city": "Poughkeepsie",
+    "practice_areas": [
+      "Business and Contract Law",
+      "Real Estate Law",
+      "Wills, Trusts, Estate Planning & Administration",
+      "Criminal Defense",
+      "DWI Defense",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "McCabe, Coleman, Ventosa & Patterson is a law firm serving Dutchess & Ulster counties and the greater Hudson Valley. They offer experienced, results-driven legal representation in diverse practice areas.",
+    "notable_facts": [
+      "The firm has over 200 years of combined experience among its attorneys.",
+      "The firm is committed to providing trusted legal representation where clients live and work."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher S. Coleman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J. Ventosa",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven K. Patterson",
+          "title": "Partner",
+          "email": "steve@mccabecoleman.com",
+          "phone": "(845)-443-7450",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer J. Clark",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. McCabe",
+          "title": "Partner Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Forvis Mazars",
+    "website": "https://www.forvismazars.com",
+    "city": null,
+    "practice_areas": [
+      "Accounting",
+      "Audit & Assurance",
+      "Tax",
+      "Advisory & Consulting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Forvis Mazars is a global professional services network. They specialize in audit, tax, and advisory services across a range of markets and sectors.",
+    "notable_facts": [
+      "Formed from the merger of equals of BKD and DHG."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James Gilbey",
+          "title": "UK CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.forvismazars.com/uk/en/users/our-team/james-gilbey"
+        },
+        {
+          "name": "Tom Watson",
+          "title": "CEO, Forvis Mazars US",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Maynard, O'Connor, Smith & Catalinotto LLP",
+    "website": "https://maynardoconnorlaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Appeals",
+      "Business and Commercial Litigation",
+      "Employment Law",
+      "Estate Litigation",
+      "Family and Matrimonial Law",
+      "General Litigation",
+      "Personal Injury Defense",
+      "Insurance Coverage Disputes",
+      "Medical Malpractice Defense",
+      "Personal Injury",
+      "Professional Licensing and Discipline",
+      "Real Property Law and Litigation",
+      "Trusts, Wills, Estates & Elder Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Maynard, O'Connor, Smith & Catalinotto LLP is a full-service law firm with a wealth of experience representing clients in a broad array of practice areas. They bring professionalism, service and commitment to obtaining the most successful result possible.",
+    "notable_facts": [
+      "Founded in 1919",
+      "The firm employs 16 people",
+      "Annual revenue of $5.0M-$25.0M"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "James R. Schultz",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Scott Adelmann",
+        "title": "Firm Administrator",
+        "email": "adelmann@moscllp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael E. Catalinotto",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael E. Catalinotto Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert A. Rausch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin W. Gray",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen A. Butler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bridget Schultz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

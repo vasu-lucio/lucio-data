@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Liberty International Underwriters",
+    "website": "http://www.libertyiu.com",
+    "city": "London",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Liberty International Underwriters is a global specialty lines insurer. They provide a range of insurance products and services to businesses worldwide.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Phil Hobbs",
+        "title": "President & Managing Director",
+        "email": null,
+        "phone": "+44 (0)20 3758 0103",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Defne Turkes",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": "6563280699",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paul McCarthy",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nigel Davenport",
+          "title": "General Counsel",
+          "email": null,
+          "phone": "+44 (0)20 3758 0858",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

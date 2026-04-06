@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "HAMBERGER & WEISS LLP",
+    "website": "https://hambergerandweiss.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Workers\u2019 Compensation Law"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Hamberger & Weiss LLP limits its practice to the representation of insurance carriers and self-insured employers in workers\u2019 compensation claims and related matters. They are known for their exceptional legal abilities and have received the av pre-eminent rating.",
+    "notable_facts": [
+      "Founded in 1991",
+      "Recognized as a 2025 Best Law Firm by Best Lawyers for Workers\u2019 Compensation Law-Employers in New York",
+      "Offer personalized counsel for litigation avoidance and strategic early exit strategies"
+    ],
+    "technology_signals": [
+      "amp",
+      "linkedin",
+      "wordpress",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "F. Daniel Bowers",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph DeCoursey",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Renee E. Heitger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark W. Hamberger",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald E. Weiss",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Levine Lee LLP",
+    "website": "https://levinelee.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex business litigation",
+      "White collar criminal defense",
+      "Securities litigation"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Levine Lee LLP is a preeminent litigation boutique for complex business litigation, white collar and securities enforcement matters, and internal investigations. The firm is known for its client-focused, steadfast advocacy.",
+    "notable_facts": [
+      "White Collar Practice Group of the Year (Law360)",
+      "Ranked by Benchmark Litigation in its highest category for Dispute Resolution"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Seth L. Levine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth E. Lee",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chad P. Albert",
+          "title": "Partner",
+          "email": "calbert@levinelee.com",
+          "phone": "212-257-5926",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alison M. Bonelli",
+          "title": "Partner",
+          "email": "abonelli@levinelee.com",
+          "phone": "212-257-5929",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven L. Chanenson",
+          "title": "Of Counsel",
+          "email": "schanenson@levinelee.com",
+          "phone": "212-257-5930",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

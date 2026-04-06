@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "The Alber Firm P.C.",
+    "website": "https://alberlegal.com/",
+    "city": "Huntington Station",
+    "practice_areas": [
+      "Criminal Law",
+      "Divorce / Family Law",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Alber Firm, P.C. is a boutique litigation firm concentrating in Matrimonial and Family Law, Criminal Law, and Civil Litigation. The firm's mission is to work endlessly for results and strives to have clients\u2019 questions answered immediately without delay.",
+    "notable_facts": [
+      "Michael Alber was selected to Super Lawyer 2019-2025.",
+      "Michael Alber was a 2025 Nominee for Best Divorce Lawyer and Law Firm Best of Long Island.",
+      "Michael Alber was LLS Man of the Year 2019."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael J. Alber",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "844-283-2648",
+        "linkedin_url": "https://www.linkedin.com/in/michaeljalber"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc H. Stein",
+          "title": "Partner, Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean Mercurio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wayne J. Mazur",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Raymond C. Baierlein",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary Hughes",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

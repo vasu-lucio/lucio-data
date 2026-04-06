@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Mintz & Gold LLP",
+    "website": "https://mintzandgold.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 45,
+    "firm_description": "Mintz & Gold was founded in 1993 to provide its clients the highest quality legal representation at a fair and reasonable cost. The firm provides legal advice and counsel to clients from New York City and the tri-state area, and throughout the United States.",
+    "notable_facts": [
+      "Founded in 1993",
+      "17 attorneys named to the 2025 New York Super Lawyers list, including 4 Rising Stars"
+    ],
+    "technology_signals": [
+      "operative"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Steven W. Gold",
+        "title": "Founding Partner",
+        "email": "gold@mintzandgold.com",
+        "phone": "212-696-4848",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven G. Mintz",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James W Kennedy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Spector",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julia Milne",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

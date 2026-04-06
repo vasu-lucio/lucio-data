@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "Cantor, Wolff, Nicastro & Hall LLC",
+    "website": "https://www.buffalolaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Personal Injury Law",
+      "Motor Vehicle Collisions",
+      "Medical Malpractice",
+      "Slip & Falls",
+      "Construction Accidents",
+      "Premises Liability",
+      "Workplace Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cantor, Wolff, Nicastro & Hall LLC is a personal injury law firm that puts clients\u2019 needs first, striving to recover the maximum amount of compensation available. They have a reputation as a small firm that delivers big results, built on referrals from people they have helped.",
+    "notable_facts": [
+      "The firm has recovered millions of dollars in settlements and jury awards for clients.",
+      "They have offices in Buffalo, Niagara Falls, and Albany (appointment only for Niagara Falls and Albany).",
+      "The firm focuses on helping those injured due to someone else's negligence."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michele Laney",
+        "title": "Controller",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Renee Gargac",
+          "title": "Office Manager/Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

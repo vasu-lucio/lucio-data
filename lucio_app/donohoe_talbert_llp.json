@@ -1,0 +1,115 @@
+{
+  "firm_data": {
+    "firm_name": "Donohoe Talbert LLP",
+    "website": "https://donohoetalbert.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Divorce",
+      "Custody",
+      "Support",
+      "Pre- & Post-Nuptial",
+      "Complex Asset Division",
+      "Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Donohoe Talbert LLP provides clients throughout the New York metropolitan area with exceptional legal services in all aspects of family law. They handle sophisticated and complex financial situations with discretion and compassion.",
+    "notable_facts": [
+      "Founded in 2012",
+      "Focuses on complex family law matters",
+      "Represents diverse clients including entrepreneurs, asset managers, and entertainers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Margaret M. Donohoe",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul M. Talbert",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Emily S. Pollock",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa M. Gardner",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nassim Hosseinzadeh",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bernadette Schneider",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan Ulrich",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cassandra R. Volkheimer",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

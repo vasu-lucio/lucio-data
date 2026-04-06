@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Presidio Law Firm LLP",
+    "website": "https://presidiofirm.com/",
+    "city": "Santa Barbara",
+    "practice_areas": [
+      "Civil Litigation",
+      "Business Litigation",
+      "Real Estate Litigation",
+      "Class Actions",
+      "Partnership and Fiduciary Duty Disputes",
+      "Commercial Business Conflicts",
+      "Real Estate Fraud and Elder Abuse Cases",
+      "Catastrophic Loss, Wildfire, and Property Damage Claims",
+      "Wrongful Death and Major Injury Actions",
+      "Cannabis Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Presidio Law Firm LLP is a modern practice rooted in trial excellence, practical judgment, and exceptional client service, focusing on protecting clients\u2019 property, relationships, and rights. They specialize in civil, business, and real estate litigation, with a client-focused model designed to deliver meaningful, lasting results.",
+    "notable_facts": [
+      "Founded in 2025 by Travis C. Logue and Lawrence J. Conlan.",
+      "Secured more than $1.5 billion in verdicts, settlements, and real estate transactions.",
+      "Won one of the nation\u2019s top jury verdicts of 2024 for insurance bad faith against Starr Indemnity & Liability Company."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Travis C. Logue",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence J. Conlan",
+          "title": "Founding Partner",
+          "email": "ljc@presidiofirm.com",
+          "phone": "805.399.3007",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

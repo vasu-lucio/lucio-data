@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Mcnamee Walker PLLC",
+    "website": "https://opengovny.com/attorney/2870772",
+    "city": "Melville",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Mcnamee Walker PLLC is a law firm located in Melville, New York.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Glenn Paul Mcnamee",
+          "title": "Attorney",
+          "email": "gmcnamee(a)cmhmlaw.com",
+          "phone": "(516) 873-3900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Felix Murray",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sabrina Ann Chancy",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerald Thomas Murphy Jr.",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Paul Corcoran",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

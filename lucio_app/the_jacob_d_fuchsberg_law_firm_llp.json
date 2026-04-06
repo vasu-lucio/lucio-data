@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Jacob D. Fuchsberg Law Firm",
+    "website": "https://www.fuchsberg.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Civil Rights",
+      "Personal Injury",
+      "Construction Accidents",
+      "Employment & Whistleblower Actions",
+      "Mass Torts & Toxic Exposure"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Jacob D. Fuchsberg Law Firm is a litigation practice known for taking on complex, high-stakes cases. They represent individuals and families in medical malpractice, civil rights, personal injury, and other areas.",
+    "notable_facts": [
+      "The firm has recovered millions of dollars in verdicts and settlements.",
+      "The firm was founded by Jacob D. Fuchsberg, a former Associate Judge of the New York Court of Appeals.",
+      "The firm secured a $130 million settlement in a civil rights case involving sexual abuse at FCI Dublin."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alan Fuchsberg",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Bradley Zimmerman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jacob D. Fuchsberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eli Fuchsberg",
+          "title": "Partner",
+          "email": "e.fuchsberg@fuchsberg.com",
+          "phone": "(212) 869-3500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaehyun Oh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Bergstein Flynn Knowlton & Pollina PLLC",
+    "website": "https://bflawoffice.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Business Law",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bergstein Flynn Knowlton & Pollina PLLC is a full-service boutique New York law firm. They achieve big-firm results with a transparent and intimate small-firm approach.",
+    "notable_facts": [
+      "The firm combines litigation and transactional acumen with a hands-on, tech-savvy approach.",
+      "The firm's attorneys work together to answer questions and provide multi-faceted solutions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lee Bergstein",
+          "title": "PARTNER",
+          "email": "lee@bfklawoffice.com",
+          "phone": "(212) 803-9025",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Flynn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/michael-flynn-9428404a"
+        },
+        {
+          "name": "Cooper Knowlton",
+          "title": "PARTNER",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bradley Pollina",
+          "title": "PARTNER",
+          "email": "brad@bfklawoffice.com",
+          "phone": "(212) 803-9025",
+          "linkedin_url": null
+        },
+        {
+          "name": "Rhonda Schwartz",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emily Ashe",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bergsteinflynnpllc",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

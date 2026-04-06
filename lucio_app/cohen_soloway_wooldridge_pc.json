@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen, Soloway & Wooldridge, P.C.",
+    "website": "https://www.estatelawny.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Trusts and Estates",
+      "Elder Law",
+      "Estate Planning",
+      "Trust and Estate Administration",
+      "Elder Law/Asset Protection",
+      "Guardianship Proceedings"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Cohen, Soloway & Wooldridge, P.C. concentrates in the critical areas of Trusts and Estates and Elder Law. They guide clients through significant challenges in a practical and supportive way.",
+    "notable_facts": [
+      "The firm was renamed Cohen, Soloway & Wooldridge, P.C. in January 2022.",
+      "Kevin H. Cohen served as an assistant adjunct professor at New York University\u2019s Center for Finance, Law and Taxation.",
+      "The firm's involvement frequently occurs at a difficult time for their clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin H. Cohen",
+        "title": null,
+        "email": null,
+        "phone": "(914) 949-3411",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Shari L. Soloway",
+        "title": null,
+        "email": null,
+        "phone": "(914) 949-3411",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Shari L. Soloway",
+        "title": null,
+        "email": null,
+        "phone": "(914) 949-3411",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexander J. Wooldridge",
+          "title": null,
+          "email": null,
+          "phone": "(914) 949-3411",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eliza A. Fraser",
+          "title": "Partner",
+          "email": null,
+          "phone": "(914) 949-3411",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrice Fraccio",
+          "title": null,
+          "email": null,
+          "phone": "(914) 949-3411",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tami Alpert",
+          "title": null,
+          "email": null,
+          "phone": "(914) 949-3411",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jamie Wolf",
+          "title": null,
+          "email": null,
+          "phone": "(914) 949-3411",
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Manna-Williams",
+          "title": null,
+          "email": null,
+          "phone": "(914) 949-3411",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Frisenda",
+          "title": null,
+          "email": null,
+          "phone": "(914) 949-3411",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

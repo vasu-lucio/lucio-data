@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Bilello, Zapantis, Garner and Puglisi",
+    "website": null,
+    "city": "Westbury",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": null,
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James Gasper Bilello",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(516) 861-1960",
+          "linkedin_url": null
+        },
+        {
+          "name": "Chrisanthy N. Zapantis",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew C. Puglisi",
+          "title": "Attorney",
+          "email": "apuglisi(a)geico.com",
+          "phone": "(516) 861-1806",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna L. Loiselle",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(631) 602-9415",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Ernest Vegliante",
+          "title": "Attorney",
+          "email": "bilelloandassociates(a)geico.com",
+          "phone": "(516) 861-1797",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

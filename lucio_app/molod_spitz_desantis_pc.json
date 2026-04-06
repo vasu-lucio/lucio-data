@@ -1,0 +1,160 @@
+{
+  "firm_data": {
+    "firm_name": "Molod Spitz & DeSantis, P.C.",
+    "website": "https://molodspitz.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance",
+      "Litigation",
+      "Personal Injury",
+      "Construction Accidents",
+      "Environmental Litigation",
+      "Vehicle Accidents",
+      "General Liability",
+      "Slip and Fall",
+      "Product Liability",
+      "Insurance Coverage"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Molod Spitz & DeSantis, P.C. is a law firm that defends clients in complex liability matters in New York and New Jersey courts. They provide responsive, cost-effective, high-quality legal services to their clients.",
+    "notable_facts": [
+      "Founded in 1996",
+      "Attorneys have over 50 years of trial experience",
+      "Member of The Harmonie Group, an international organization of trial attorneys"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alice Spitz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Salvatore DeSantis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Owens",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis J. Monaco",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Von Hagen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Murad Sardar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary B. Dolan Roche",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack Glanzberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julie Molod",
+          "title": "Sr. Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan Foster",
+          "title": "Sr. Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William Cohen",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex Janoso",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Briann Ricks",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fred Molod",
+          "title": "Partner Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

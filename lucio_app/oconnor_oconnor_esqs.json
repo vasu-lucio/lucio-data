@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "O'Connor & O'Connor, Esqs.",
+    "website": "https://oconnorlaw.co/",
+    "city": "Northport",
+    "practice_areas": [
+      "General Liability",
+      "Insurance Defense",
+      "Commercial Litigation",
+      "Municipal Defense",
+      "Insurance Coverage Litigation",
+      "Appellate Practice",
+      "Personal Injury Litigation",
+      "Construction and Labor Law Litigation",
+      "Products Liability",
+      "Corporate Litigation"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "O'Connor & O'Connor, Esqs. is a full service general liability, insurance and corporate litigation firm located in Northport, New York. The attorneys at O'Connor & O'Connor, Esqs. are highly skilled litigators who offer expertise and counseling in the areas of sophisticated construction and labor law litigation, general liability, insurance coverage, products liability and appellate practice.",
+    "notable_facts": [
+      "The firm combines the skill and expertise of larger defense firms with the personal touch and cost cutting abilities of a smaller firm.",
+      "O'Connor & O'Connor, Esqs. is committed to actively recruiting and retaining high quality attorneys and paralegals with diverse backgrounds."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Thomas M. O'Connor",
+        "title": "Partner",
+        "email": "info@oconnorlaw.co",
+        "phone": "631.261.7778",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patricia A. O'Connor",
+          "title": "Partner",
+          "email": "info@oconnorlaw.co",
+          "phone": "631.261.7778",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tanya M. DeMaio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael I. Feiner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph T. O'Connor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

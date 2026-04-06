@@ -1,0 +1,132 @@
+{
+  "firm_data": {
+    "firm_name": "Himmelstein McConnell Gribben & Joseph LLP",
+    "website": "https://hmgdjlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Tenant\u2019s Rights",
+      "Commercial Tenants",
+      "Co-op & Condos",
+      "Real Estate",
+      "Real estate litigation",
+      "Real estate transactions",
+      "Loft Law"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Himmelstein McConnell Gribben & Joseph LLP specializes in real estate litigation and transactions and provides representation to tenants, shareholders, and condo unit owners in commercial and residential landlord-tenant matters and Loft Law proceedings. The firm was founded in 1981.",
+    "notable_facts": [
+      "Represents clients in Housing Court, Civil Court, Supreme Court, all state Appellate Courts, the Division of Housing and Community Renewal and the New York Department of Housing Preservation and Development.",
+      "Represents tenant groups in cooperative and condominium conversions.",
+      "Represents cooperative and condominium boards, purchasers and sellers of real estate, and homeowners and tenants in foreclosure proceedings."
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Samuel J. Himmelstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Gribben",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Serge Joseph",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jesse Gribben",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Hershey-Webb",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald S. Languedoc",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Catharine Grad",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Nakos",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Milad Momeni",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Vanessa Vecchiarello",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-349-3000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Foley Hoag LLP",
+    "website": "http://foleyhoag.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "IP",
+      "Administrative Law",
+      "Life Sciences",
+      "Healthcare",
+      "Technology",
+      "Energy/Renewables",
+      "Cannabis"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Foley Hoag represents public and private clients in a wide range of disputes and transactions. Founded in 1943, they have grown into a unique international firm that blends innovation, deep knowledge and superior legal skill.",
+    "notable_facts": [
+      "Foley Hoag is well known for its commitment to helping clients achieve their desired results across a broad spectrum of legal matters and industries.",
+      "The firm has established a lengthy record of success in the innovation industries of life sciences, health care, technology, energy/renewables and cannabis.",
+      "Foley Hoag has a strong international litigation and arbitration practice, with an office in Paris."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jim Bucking",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Caroline Donovan",
+          "title": "Co-chair of the firm\u2019s Litigation Department",
+          "email": "cdonovan@foleyhoag.com",
+          "phone": "+1.617.832.1165",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristyn DeFilipp",
+          "title": "Co-chair of the firm\u2019s Litigation Department",
+          "email": "kbuncedefilipp@foleyhoag.com",
+          "phone": "+1.617.832.1218",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Connolly",
+          "title": "Co\u2011chair of the Business Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brendan Burke",
+          "title": "Co-chair of the Emerging Company & Venture Capital Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Colin Kirby",
+          "title": "Co-chair of the Emerging Company & Venture Capital Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Lin",
+          "title": "Co\u2011chair of the Technology Industry Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

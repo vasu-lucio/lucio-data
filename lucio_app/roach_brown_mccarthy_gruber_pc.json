@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Roach, Brown, McCarthy & Gruber, PC",
+    "website": "https://www.roachbrown.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "General Liability Defense",
+      "Construction Accidents",
+      "Industrial Accidents",
+      "Products Liability",
+      "Patent Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Roach, Brown, McCarthy & Gruber, P.C. has been engaged in litigation defense for 110 years, focusing on the defense of medical professionals and their allied professions for the past thirty years.",
+    "notable_facts": [
+      "The firm is recommended by AM Best\u2122 and The American Bar\u2122.",
+      "The firm has achieved an \u201cA-V\u201d rating from Martindale Hubbel\u2122.",
+      "Three attorneys have been elected as Fellows of the American College of Trial Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin D. McCarthy",
+          "title": null,
+          "email": "kdmccarthy@roachbrown.com",
+          "phone": "716.852.0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "J. Mark Gruber",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John P. Danieu",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kayla A. Hughes",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Kelly",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

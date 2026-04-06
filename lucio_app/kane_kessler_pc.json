@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Kane Kessler, P.C.",
+    "website": "https://www.kanekessler.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Business Law",
+      "Litigation",
+      "Hedge Funds",
+      "Private Equity",
+      "Alternative Investment Vehicles",
+      "Consumer Products",
+      "Outdoor Recreation",
+      "Fashion Apparel",
+      "Footwear",
+      "Advertising",
+      "Commercial Production",
+      "Public Relations",
+      "Contemporary Art",
+      "Life Sciences",
+      "Coops",
+      "Condominiums",
+      "Defense",
+      "Law Enforcement",
+      "Government Contracting",
+      "Hotels",
+      "Restaurants",
+      "Hospitality"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kane Kessler is a mid-sized, New York City-based full-service law firm serving clients throughout the United States and globally. They provide efficient, leading-edge legal services and build long-term relationships.",
+    "notable_facts": [
+      "Founded over 85 years ago.",
+      "Offers big-firm capability in a mid-size package.",
+      "Attorneys have broad real world, industry experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert L. Lawrence",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas Kane",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sid Kessler",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Jonathan M. Sabin",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Jonathan M. Sabin is a member of the Firm\u2019s Technology and Artificial Intelligence Committees. He advises on the implementation of responsible and defensible AI workflows including AI aware ESI protocols, Copilot/AI enablement for litigation groups and discovery cost control using AI-assisted review."
+      },
+      "additional_contacts": [
+        {
+          "name": "Ronald L. Nurnberg",
+          "title": "Of Counsel/Consultant and Managing Partner, Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey S. Tullman",
+          "title": "Of Counsel and Managing Partner, Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

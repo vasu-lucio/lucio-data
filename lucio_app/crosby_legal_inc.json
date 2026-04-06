@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Crosby",
+    "website": "https://www.crosbylegal.com/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": 46,
+    "firm_description": "Crosby is an AI-powered law firm that helps rapidly growing businesses execute faster by combining the speed and intelligence of AI with lawyer oversight to review contracts quickly. They aim to provide Big Law quality at AI speed with upfront pricing.",
+    "notable_facts": [
+      "Crosby uses AI to review MSAs, DPAs, and NDAs.",
+      "They claim to review contracts in under an hour.",
+      "They have raised $5.8m from Sequoia Capital, Bain Capital Ventures, and the founders of Ramp, Instacart and Flatiron Health."
+    ],
+    "technology_signals": [
+      "AI-powered legal services",
+      "Use of custom legal agents that get smarter with each review",
+      "Slack integration for legal requests"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ryan Daniels",
+          "title": "Co-founder & CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

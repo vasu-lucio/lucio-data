@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen Seglias Pallas Greenhall & Furman PC",
+    "website": "https://cohenseglias.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Construction Law",
+      "Corporate Law",
+      "Real Estate",
+      "Financial Services",
+      "Professional Services",
+      "Higher Education",
+      "Health Care",
+      "Labor and Employment",
+      "Commercial Litigation",
+      "Business Transactions",
+      "Federal Government Investigations"
+    ],
+    "lawyer_count": 90,
+    "firm_description": "Cohen Seglias is a construction and corporate law firm that serves clients in the construction, real estate, financial services, professional services, higher education, and health care industries. The firm offers a full range of legal services from construction litigation to labor and employment guidance.",
+    "notable_facts": [
+      "Founded in 1988.",
+      "Has nine offices.",
+      "The firm and its attorneys are consistently recognized as top leaders in legal rankings such as Chambers USA, Legal 500, Law 360, and Best Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "George Pallas",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kathleen Garrity",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Roy Cohen",
+          "title": "President and Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Copley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Greenhall",
+          "title": "CEO",
+          "email": "[[email&#160;protected]]",
+          "phone": "215-564-1700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

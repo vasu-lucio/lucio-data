@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Capetola & Divins, P.C.",
+    "website": "https://capetoladivins.com/",
+    "city": "Williston Park",
+    "practice_areas": [
+      "Matrimonial Law",
+      "Divorce",
+      "Commercial Litigation",
+      "Family Law",
+      "Bankruptcy Law",
+      "Child Custody",
+      "Child Support",
+      "Equitable Distribution",
+      "Father's Rights",
+      "Grandparents Rights",
+      "Grounds for Divorce",
+      "Legal Separation",
+      "Orders of Protection",
+      "Prenuptial & Postnuptial Agreements",
+      "Spousal Maintenance"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Capetola & Divins, P.C. is a legal assistance company that specializes in matrimonial law, divorce, and commercial litigation. They have decades of experience handling a variety of legal disputes and offer a one-stop shopping approach to their clients.",
+    "notable_facts": [
+      "Employs 10 people",
+      "Anthony A. Capetola was named a 2026 AV Preeminent\u00ae Attorney"
+    ],
+    "technology_signals": [
+      "amp",
+      "c",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry J Fisher",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Byron Divins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Garber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

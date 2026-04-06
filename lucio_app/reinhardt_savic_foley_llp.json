@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Reinhardt Savic Foley LLP",
+    "website": "https://rsf-llp.com/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": 14,
+    "firm_description": "Reinhardt Savic Foley is an international law firm with offices in New York, London, Denver, and Stuttgart, and with strong affiliation in Brazil, Italy, Japan, and Switzerland. The strategic location of our offices, paired with the wealth of our domestic and international experience, makes Reinhard Savic Foley a unique legal services provider for companies, high-net-worth individuals, entrepreneurs, and investors operating both domestically and internationally.",
+    "notable_facts": [
+      "Offices in New York, London, Denver, and Stuttgart.",
+      "Strong affiliations in Brazil, Italy, Japan, and Switzerland."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stefan Savic",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

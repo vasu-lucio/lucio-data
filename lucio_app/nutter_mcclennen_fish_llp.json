@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Nutter McClennen & Fish LLP",
+    "website": "https://nutter.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Corporate + Transactions",
+      "Intellectual Property",
+      "Litigation",
+      "Real Estate",
+      "Labor, Employment + Benefits",
+      "Tax",
+      "Private Client Law Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Nutter is a nationally-ranked law firm providing legal counsel to industry-leading companies, early stage entrepreneurs, institutions, foundations, and families. The firm's main areas of practice include Corporate + Transactions, Intellectual Property, Litigation, Real Estate, Labor, Employment + Benefits, Tax, and Private Client Law Services.",
+    "notable_facts": [
+      "Co-founded in 1879 by Louis D. Brandeis, a future U.S. Supreme Court Justice",
+      "Ranked among the top tiers by Chambers USA and Best Lawyers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Liam T. O'Connell",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": "617.439.2449",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Bob Blakeley",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael E. Scott",
+          "title": "Co-Managing Partner",
+          "email": null,
+          "phone": "617.439.2811",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alicia K. Mack",
+          "title": "Chief Business Development & Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charlie Wise",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

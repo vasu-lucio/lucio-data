@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Archer & Greiner, P.C.",
+    "website": "https://archerlaw.com/",
+    "city": "Voorhees",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 175,
+    "firm_description": "Archer & Greiner is a full-service, regional law firm with a reputation for providing the highest quality, result-driven legal services to corporate and individual clients. One of the largest law firms in the Delaware Valley and among the ten largest in New Jersey, Archer & Greiner serves businesses and individuals throughout the region and in an increasing number of other states and jurisdictions.",
+    "notable_facts": [
+      "Founded in 1928",
+      "Employs 228 people",
+      "Has presence in Egypt"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Craig F. Ehredt",
+        "title": "Chief Information Officer",
+        "email": "cehredt@archerlaw.com",
+        "phone": "856.354.3062",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Auritt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stuart Goldfarb",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Leo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Pina",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Strikowsky Drachman & Shapiro PLLC",
+    "website": "https://www.strikowsky.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Litigation",
+      "Defense Litigation",
+      "Insurance Coverage",
+      "Appellate Practice"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Strikowsky Drachman & Shapiro PLLC is a civil litigation firm that concentrates in defense litigation and insurance coverage. They practice in state and federal courts in New York and New Jersey, and they provide insurance advice and serve as monitoring counsel in matters nationwide.",
+    "notable_facts": [
+      "Recognized in the Chambers and Partners 2026 New York Spotlight Guide.",
+      "Allison Drachman, Sim Shapiro, Ted Hecht and Bruce Strikowsky have been recognized as Super Lawyers.",
+      "Founded by partners at a prominent national law firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bruce M. Strikowsky",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Allison Fihma Drachman",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Debra Arroyo",
+        "title": "Law Practice Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sim R. Shapiro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Pozner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Theodore L. Hecht",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

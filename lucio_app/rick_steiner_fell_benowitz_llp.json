@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Rick, Steiner, Fell & Benowitz, LLP",
+    "website": "https://www.ricksteinerlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Banking & Finance",
+      "Employment Law & Executive Compensation",
+      "Commercial Transactions",
+      "Real Estate",
+      "Trust & Estates",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rick Steiner Fell & Benowitz (RSF&B) is based in the heart of New York\u2019s Financial District, where, for more than 60 years, the firm and partners have earned an extraordinary reputation for providing legal services. RSF&B provides the interdisciplinary expertise of a large law firm with all of the benefits of a small one, offering unmatched, personalized service from the partner level while being mindful to operate within defined budget expectations.",
+    "notable_facts": [
+      "Based in the heart of New York\u2019s Financial District.",
+      "More than 60 years experience.",
+      "Provides interdisciplinary expertise of a large law firm with the benefits of a small one."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alan Fell",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 422-0488",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Benowitz",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 422-0488",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

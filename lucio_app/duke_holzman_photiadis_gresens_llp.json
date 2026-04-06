@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Duke, Holzman, Photiadis & Gresens LLP",
+    "website": "https://dhpglaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business and Corporate Law",
+      "Construction Law",
+      "Civil Litigation and Appellate Practice",
+      "Labor and Employment",
+      "Real Estate and Environmental",
+      "Personal Injury",
+      "Insurance Coverage",
+      "Estates and Trusts",
+      "Taxation"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "Duke, Holzman, Photiadis & Gresens LLP is a law firm based in Buffalo, New York providing legal services in areas such as Business and Corporate Law, Construction Law, and Civil Litigation. They have been providing clientele with results for over 50 years.",
+    "notable_facts": [
+      "The firm was established in 1970.",
+      "The firm is located in Buffalo\u2019s Historic Larkin District.",
+      "The firm has 14 partners."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Charles C Ritter, Jr.",
+        "title": "Senior Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gregory P. Photiadis",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher M. Berloth",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John D. Celani",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis P. Cleary",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Gillen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James W. Gresens",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth A. Kraengel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

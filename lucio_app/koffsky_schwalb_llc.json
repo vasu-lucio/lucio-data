@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Koffsky Schwalb LLC",
+    "website": "https://koffskyschwalb.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Civil Litigation",
+      "Intellectual Property",
+      "Employment Law",
+      "Real Estate"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Koffsky Schwalb LLC provides customized legal and business counsel to domestic and international clients. They combine zealous representation with personal attention to meet clients\u2019 needs and budgets.",
+    "notable_facts": [
+      "Attorneys have experience in prominent law firms, the federal government, and public companies.",
+      "The firm offers services in a diverse range of practice areas."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark I. Koffsky",
+          "title": "Partner",
+          "email": null,
+          "phone": "1.646.553.1590 x101",
+          "linkedin_url": null
+        },
+        {
+          "name": "Efrem Schwalb",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1.646.553.1590 x102",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Serbin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven A. Weg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tal S. Benschar\u200b",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

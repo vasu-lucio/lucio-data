@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Lemery Greisler LLC",
+    "website": "https://lemerygreisler.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Banking and Commercial Finance",
+      "Bankruptcy",
+      "Commercial Loan Workout and Foreclosure",
+      "Corporate Mergers and Acquisitions",
+      "Economic Development",
+      "Employment Law",
+      "Healthcare",
+      "Intellectual Property and Technology",
+      "Land Use and Zoning",
+      "Litigation",
+      "Non-Profit",
+      "Professional Licensing and Misconduct",
+      "Medical Malpractice",
+      "Public Finance",
+      "Real Estate",
+      "Tax",
+      "Underground Storage Tank Regulation and Litigation",
+      "Trust Estate Planning and Succession Planning"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Lemery Greisler LLC is a business law firm built on strong national experience and relationships with clients in New York's Capital Region. They provide legal expertise to turn client goals into realities, focusing on business needs and keeping abreast of changing legal parameters.",
+    "notable_facts": [
+      "Offices in Albany and Saratoga Springs, New York",
+      "Clients include FORTUNE 500 companies, financial institutions, developers, non-for-profits, and public entities",
+      "Recognized for excellence and top-rated by Martindale Hubbell"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James Carminucci",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James E. Braman",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meghan M. Breen",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter M. Damin",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles B. Dumas",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

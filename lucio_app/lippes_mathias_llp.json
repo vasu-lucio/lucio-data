@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Lippes Mathias LLP",
+    "website": "https://lippes.com/",
+    "city": "Buffalo",
+    "practice_areas": [],
+    "lawyer_count": 230,
+    "firm_description": "Lippes Mathias is a full-service law firm serving clients regionally, nationally, and internationally. They pride themselves on their accessibility and responsiveness to their clients and on their ability to develop strong and trusting relationships through their pragmatic, entrepreneurial approach.",
+    "notable_facts": [
+      "Chairman and Managing Partner Kevin J. Cross was ranked No. 62 on Buffalo Business First\u2019s 2025 Power 250 list.",
+      "Lippes Mathias was selected as a Buffalo Business First 2025 Company of the Year.",
+      "The firm has expanded its national platform through combinations with Ward Damon, PL, and CCBLaw."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin J. Cross",
+        "title": "Chairman and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amy Habib Rittling",
+          "title": "Partner | Chief Legal Officer | Team Leader - Employment",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew M. Wilson",
+          "title": "Partner | Chief Advisory Officer | Team Co-Leader - Immigration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian J. Bocketti",
+          "title": "Chief Growth Officer | Partner | Executive Committee | Team Co-Leader - Banking & Finance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael R. Bakst",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rilyn A. Carnahan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

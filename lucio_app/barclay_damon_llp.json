@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Barclay Damon LLP",
+    "website": "https://barclaydamon.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 300,
+    "firm_description": "Barclay Damon LLP is a leading regional law firm operating from offices in the Northeastern United States, Washington DC, and Toronto. The firm's attorneys team across offices and practices to provide customized, targeted solutions grounded in industry knowledge and a deep understanding of clients\u2019 businesses.",
+    "notable_facts": [
+      "Founded in 1855",
+      "Acquired Shapiro Lifschitz & Schram (2024-01-10)",
+      "Acquired Gilberti Stinziano Heintz & Smith, P.C. (2017-11-01)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Connie Cahill",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David Burch",
+        "title": "Deputy Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jeff Koehne",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chris Centore",
+          "title": "Partner and Financial Services Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carolyn Marcotte Crowley",
+          "title": "Partner, Co-Chair of the Commercial Litigation & Complex Trials Practice Area",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Moses",
+          "title": "Partner, Leader of Nuclear Energy Team and Data Center & Digital Infrastructure Team",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barclaydamonllp"
+  },
+  "email": {}
+}

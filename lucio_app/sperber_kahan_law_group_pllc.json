@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Sperber Kahan Law Group PLLC",
+    "website": "https://www.sklawpllc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Litigation",
+      "Transactional Law",
+      "Landlord and Tenant Disputes",
+      "Complex Real Estate Issues",
+      "Administrative Proceedings"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Sperber Kahan Law Group PLLC is a full service firm focusing on New York Real Estate litigation & transactional law. With a wealth of experience in real estate litigation and transactions, SK lawyers have consistently achieved favorable legal results and resolutions for our clients in an efficient and effective manner.",
+    "notable_facts": [
+      "Established by Steven B. Sperber and Eric H. Kahan.",
+      "Represents owner/landlords, contractors, developers, non-for-profit corporations, educational institutions and/or sponsors.",
+      "Handles matters in Civil Courts, State Supreme Court, Federal Courts, as well as the Appellate Terms and Appellate Divisions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven B. Sperber",
+        "title": "Managing Member & Founder",
+        "email": "Steven@sklawpllc.com",
+        "phone": "+1(917) 351-1285",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Eric H. Kahan",
+        "title": "Managing Member & Founder",
+        "email": "Eric@sklawpllc.com",
+        "phone": "+1(917) 351-1287",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ross Gilmore",
+          "title": "Partner",
+          "email": "RGilmore@sklawpllc.com",
+          "phone": "+1(917)351-1335 ext. 225",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna Zhou",
+          "title": "Partner",
+          "email": "AZhou@sklawpllc.com",
+          "phone": "+1(917)351-1335 ext. 224",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex Kotz",
+          "title": "Partner",
+          "email": "Alex@sklawpllc.com",
+          "phone": "+1(917)351-1335",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

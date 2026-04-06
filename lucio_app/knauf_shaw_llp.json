@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Knauf Shaw LLP",
+    "website": "https://nyenvlaw.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Environmental Law",
+      "Energy Law",
+      "Commercial Real Estate",
+      "Land Use",
+      "Zoning",
+      "Municipal Law",
+      "Brownfield Redevelopment",
+      "Environmental and Land Use Litigation",
+      "Environmental Compliance",
+      "Water and Wetlands Law",
+      "Renewable Energy"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Knauf Shaw LLP concentrates its practice in environmental and energy law, commercial real estate, land use, zoning and municipal law. The firm guides businesses, developers, landowners, municipalities, and other clients through New York's many review and approval processes.",
+    "notable_facts": [
+      "Recognized as one of five Top Law Firms in New York in Construction, Real Estate, & Environmental Law by Super Lawyers.",
+      "Recognized as a Tier One Best Lawyers Best Law Firms in Environmental Law and Litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alan J. Knauf",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Linda R. Shaw",
+          "title": "Partner",
+          "email": "lshaw@nyenvlaw.com",
+          "phone": "585.546.8430",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dwight E. Kanyuck",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy K. Kendall",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan R. Tantillo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eamon Danieu",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

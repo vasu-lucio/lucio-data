@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Rubin Paterniti Gonzalez Rizzo Kaufman LLP",
+    "website": "https://www.rpgrklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "Employment Law",
+      "General Liability Defense",
+      "Appellate & Litigation Support",
+      "Healthcare Law",
+      "Construction / Labor Law",
+      "Property & Casualty Loss"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rubin Paterniti Gonzalez Rizzo Kaufman LLP was established by a group of experienced litigators with a proven record of delivering premier legal representation to clients in the healthcare industry as well as clients in a range of general liability, commercial and employment law matters. The Firm is comprised of litigators with expertise in all aspects of complex litigation.",
+    "notable_facts": [
+      "The Firm has principal offices in mid-town Manhattan and Garden City, New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christina Papadopoulos",
+        "title": "MANAGING PARTNER",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven I. Rubin",
+          "title": "PARTNER",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John D. Paterniti",
+          "title": "PARTNER",
+          "email": "paterniti@rpgrklaw.com",
+          "phone": "646 893-2389",
+          "linkedin_url": null
+        },
+        {
+          "name": "Juan C. Gonzalez",
+          "title": "PARTNER",
+          "email": "gonzalez@rpgrklaw.com",
+          "phone": "646 893-2386",
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig V. Rizzo",
+          "title": "OF COUNSEL",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roy F. Kaufman",
+          "title": "PARTNER",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

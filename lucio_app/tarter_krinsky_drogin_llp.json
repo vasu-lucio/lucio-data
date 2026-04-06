@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Tarter Krinsky & Drogin LLP",
+    "website": "https://tarterkrinsky.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy & Corporate Restructuring",
+      "Commercial Finance",
+      "Construction",
+      "Cooperative & Condominium Law",
+      "Corporate & Securities",
+      "Immigration",
+      "Intellectual Property",
+      "International",
+      "Labor & Employment",
+      "Litigation",
+      "Not-for-Profit & Education",
+      "Qualified Opportunity Zones",
+      "Real Estate",
+      "Reputation Management",
+      "Retail",
+      "Staffing",
+      "Tax",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 87,
+    "firm_description": "Tarter Krinsky & Drogin is a bicoastal midsize law firm with an established international reputation. They partner with clients to achieve their goals, offering holistic and practical legal advice, and devising creative strategies for complex disputes.",
+    "notable_facts": [
+      "Founded in 2001",
+      "Named as one of New York Law Journal\u2019s Distinguished Leaders",
+      "Crain\u2019s New York\u2019s Best Places to Work seven times",
+      "National Law Journal\u2019s Midsize Hotlist"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alan M. Tarter",
+        "title": "Managing Partner",
+        "email": "atarter@tarterkrinsky.com",
+        "phone": "+1 212 216 8010",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laurent Drogin",
+          "title": "Partner And Head Of Labor & Employment Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roxanne Levine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip Braginsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cory L Weiss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

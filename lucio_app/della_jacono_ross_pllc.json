@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Della Jacono & Ross PLLC",
+    "website": "https://djr-law.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Civil Defense",
+      "Personal Injury",
+      "Premises Law",
+      "Product Liability",
+      "Medical Malpractice",
+      "Labor Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Della Jacono & Ross PLLC is a full-service law firm providing high-level legal representation in civil litigation. They are known for zealous advocacy and achieving favorable outcomes for their clients.",
+    "notable_facts": [
+      "The firm was founded by John F. Della Jacono and Kenneth Ross.",
+      "The firm has multiple office locations in White Plains, New York City, and Fairfield, CT."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John F. Della Jacono",
+          "title": "Founder and Partner",
+          "email": "Jdellajacono@djr-law.com",
+          "phone": "914-521-4970",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth S. Ross",
+          "title": "Founder and Partner",
+          "email": "Kross@djr-law.com",
+          "phone": "914-521-4970",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "C. Tina Petrillo",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": "914-521-4970",
+          "linkedin_url": null
+        },
+        {
+          "name": "Darlene E. Reda",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": "914-521-4970",
+          "linkedin_url": "https://www.linkedin.com/in/darlene-reda-15123235"
+        },
+        {
+          "name": "Stephen P. Falvey",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": "914-521-4970",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher J. Walsh",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": "914-521-4970",
+          "linkedin_url": null
+        },
+        {
+          "name": "William K. Kerrigan",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": "914-521-4970",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

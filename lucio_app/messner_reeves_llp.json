@@ -1,0 +1,54 @@
+{
+  "firm_data": {
+    "firm_name": "Messner Reeves LLP",
+    "website": "https://messner.com/",
+    "city": "Denver",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Messner Reeves is a full-service corporate and business law firm working to understand your business and what you are trying to accomplish, looking at creative and flexible solutions to solve complex problems in partnership with you.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Caleb Meyer",
+        "title": "Managing Partner & CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David A. Reeves",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michelle L. Harden",
+        "title": "COO & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mikhail A. Shah",
+          "title": "Managing Partner of New York Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "PMV Legal Group, PLLC",
+    "website": "https://www.pmvlegal.com/",
+    "city": null,
+    "practice_areas": [
+      "Landlord-Tenant Law",
+      "Municipal and Public Law",
+      "Education Law",
+      "Fire District Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "PMV Legal Group, PLLC, empowers property owners and local governments by providing practical and trusted legal counsel rooted in regional knowledge and experience. They are dedicated to protecting property rights, fostering safe communities, and guiding their clients through the complexities of landlord-tenant and municipal law.",
+    "notable_facts": [
+      "The firm was formed in September 2025 by Michael Perehinec, Gina Middleton and Nathan VanWhy.",
+      "The firm focuses on the needs of landlords and municipal entities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael C. Perehinec, Jr",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gina Middleton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathan VanWhy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

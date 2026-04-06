@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Schoenberg Law Office",
+    "website": "https://www.schoenberglawoffice.com/",
+    "city": null,
+    "practice_areas": [
+      "Employment Law",
+      "Labor Law",
+      "Preventive Counseling",
+      "Employment Litigation",
+      "Labor Relations",
+      "Training",
+      "Investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schoenberg Law Office is a defense firm engaged in the practice of employment and labor law on behalf of Pennsylvania and New Jersey based employers. Practice areas include preventive counseling, employment litigation, labor relations, training and investigations.",
+    "notable_facts": [
+      "Represents employers in Pennsylvania and New Jersey.",
+      "Serves as local counsel to law firms headquartered in other jurisdictions.",
+      "Founded in 1992."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Claude Schoenberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Schoenberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew W. Cole",
+          "title": "Part-time Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marjorie Ochroch",
+          "title": "Of Counsel Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

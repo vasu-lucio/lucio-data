@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Lovell Stewart Halebian Jacobson LLP",
+    "website": "https://www.lshllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commodity Manipulation",
+      "Price Fixing",
+      "Antitrust",
+      "Exchange Related Antitrust Claims"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lovell Stewart Halebian Jacobson LLP is the premier class action law firm prosecuting claims involving commodity manipulation and price fixing, and exchange related antitrust claims. When the Firm began in 1980, there was substantial precedent indicating that claims for commodity futures contract manipulation and price fixing were\u2026",
+    "notable_facts": [
+      "The firm began in 1980.",
+      "They focus on commodity manipulation and price fixing cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary S. Jacobson",
+          "title": "Partner",
+          "email": "GSJacobson@lshllp.com",
+          "phone": "914-234-7174",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Lovell",
+          "title": "Partner",
+          "email": "CLovell@lshllp.com",
+          "phone": "(212) 608-1900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ian T. Stoll",
+          "title": "Partner",
+          "email": "IStoll@lshllp.com",
+          "phone": "914-977-3804",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

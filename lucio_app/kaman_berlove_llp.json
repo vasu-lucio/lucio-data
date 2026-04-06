@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Kaman Berlove LLP",
+    "website": "https://kamanesq.com/",
+    "city": "Rochester",
+    "practice_areas": [],
+    "lawyer_count": 20,
+    "firm_description": "Kaman Berlove LLP represents businesses and individuals with a distinct difference: Our firm can handle most complex legal matters, yet we are small enough to provide personalized attention. Representing clients throughout upstate New York since the early 1920\u2019s, Kaman Berlove LLP provides the highest level of professional service.",
+    "notable_facts": [
+      "The firm traces its roots to 1923.",
+      "The firm has earned an \u201cAV\u201d rating from Martindale Hubbell."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Maurice Kaman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harold Berlove",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack Kaman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Diana Deyo Ryan",
+          "title": "Partner",
+          "email": null,
+          "phone": "585.325.7440",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jon M. Stern",
+          "title": "Partner",
+          "email": "jstern(a)kamanesq.com",
+          "phone": "(585) 325-7440",
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel H. Caruso, Jr.",
+          "title": null,
+          "email": null,
+          "phone": "585.325.7440",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard G. Curtis",
+          "title": null,
+          "email": null,
+          "phone": "585.325.7440",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

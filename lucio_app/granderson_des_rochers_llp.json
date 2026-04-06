@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Granderson Des Rochers, LLP",
+    "website": "http://gdrfirm.com/",
+    "city": "Beverly Hills",
+    "practice_areas": [
+      "Entertainment Law",
+      "Music Law",
+      "Film",
+      "Television",
+      "Digital Media"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Granderson Des Rochers, LLP is one of the most diverse entertainment law firms, with offices in Beverly Hills and New York. The firm specializes in negotiating, structuring and executing transactions on behalf of its clients in the music, film, and television industries.",
+    "notable_facts": [
+      "Represents top-tier talent in entertainment.",
+      "Focuses on protecting clients\u2019 intellectual property.",
+      "Firm is committed to fostering diversity."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Andre Des Rochers",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Damien Granderson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Guy Blake",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Corey Martin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Moody",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

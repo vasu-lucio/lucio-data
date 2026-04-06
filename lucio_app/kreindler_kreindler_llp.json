@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Kreindler & Kreindler LLP",
+    "website": "https://kreindler.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Aviation Accident Attorneys",
+      "Airplane Passenger Injury Attorney",
+      "Helicopter Accidents",
+      "September 11th Victim Compensation Fund",
+      "Camp Lejeune Water Contamination Lawsuit",
+      "Maritime & Boating Accidents",
+      "Train, Bus & Subway Accidents",
+      "Auto, Truck & Rideshare Accidents",
+      "Terrorism Litigation",
+      "Workplace & Construction Injury",
+      "Premises Liability",
+      "Pharmaceutical & Medical Injury",
+      "Travel & Tourism Accidents",
+      "Recreational Activity Injury",
+      "Consumer Product Injury",
+      "Toxic & Environmental Injury",
+      "Mass Torts",
+      "Wrongful Death & Serious Injury"
+    ],
+    "lawyer_count": 60,
+    "firm_description": "Kreindler & Kreindler LLP is a leading law firm representing plaintiffs from around the United States and the world. Since 1950, Kreindler & Kreindler LLP has earned its reputation as the premier aviation accident litigation law firm representing plaintiffs.",
+    "notable_facts": [
+      "Founded in 1950",
+      "Premier aviation accident litigation law firm",
+      "Representing plaintiffs from around the United States and the world"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Noah H. Kushlefsky",
+        "title": "Managing Partner",
+        "email": "nkushlefsky@kreindler.com",
+        "phone": "212.973.3448",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Vaneat Bellizzi",
+        "title": "Chief Operating Officer",
+        "email": "vbellizzi@kreindler.com",
+        "phone": "212.973.3413",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Javier A. Cisneros",
+          "title": "Director of Information Services",
+          "email": "jcisneros@kreindler.com",
+          "phone": "212.973.3481",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

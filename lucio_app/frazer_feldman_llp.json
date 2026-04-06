@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "FRAZER & FELDMAN, LLP",
+    "website": "ffedlaw.com",
+    "city": "Westbury",
+    "practice_areas": [
+      "education law",
+      "special education law",
+      "public sector labor law",
+      "employment law",
+      "collective bargaining",
+      "administrative law",
+      "civil litigation"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "FRAZER & FELDMAN, LLP is devoted to representing public school districts and boards of education. They maintain a close working relationship with their clients, brainstorming with them about their most difficult decisions, providing them with input before they act, and advising them regularly of changes in the law that require their immediate attention.",
+    "notable_facts": [
+      "Founded in 1992",
+      "Offices located in Garden City, New York",
+      "Represent boards of education"
+    ],
+    "technology_signals": [
+      "juris"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Florence T. Frazer",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob S. Feldman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Abigail A. Hoglund-Shen",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rory G. Schnurr",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wade Christopher Wilkinson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James H. Pyun",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura A. Ferrugiari",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

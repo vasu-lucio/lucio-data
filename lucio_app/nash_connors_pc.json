@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Nash Connors, P.C.",
+    "website": "https://nashconnors.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Insurance Defense",
+      "Appellate",
+      "Rapid-Response Team",
+      "Personal Injury",
+      "Civil Litigation",
+      "Insurance Law",
+      "Premises Liability",
+      "Motor Vehicle Accidents",
+      "Products Liability",
+      "Construction Incidents",
+      "Aviation Accidents",
+      "Commercial and Business Disputes",
+      "Municipal Law",
+      "Zoning Issues",
+      "Article 78 proceedings",
+      "Police-related matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Nash Connors, P.C. is a boutique litigation firm in Buffalo, New York. The law firm\u2019s founders, Jim Nash and Dan Connors, previously were partners in one of the city\u2019s oldest law firms and were Chairs of its Litigation Department.",
+    "notable_facts": [
+      "Martindale-Hubbell has rated the law firm \u201cAV Preeminent,\u201d the highest rating for legal ability and ethics.",
+      "Super Lawyers magazine has highlighted the work of a majority of the attorneys.",
+      "The attorneys handle legal matters throughout Western New York, which includes Buffalo, Rochester and Syracuse."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "James Nash",
+          "title": "Founding Partner",
+          "email": "info@nashconnors.com",
+          "phone": "(716) 842-4121",
+          "linkedin_url": "https://www.linkedin.com/in/jamesjnash"
+        },
+        {
+          "name": "Daniel Connors",
+          "title": "Founding Partner",
+          "email": "info@nashconnors.com",
+          "phone": "(716) 842-4121",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

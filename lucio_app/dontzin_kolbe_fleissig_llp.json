@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Dontzin Kolbe & Fleissig LLP",
+    "website": "https://dkfllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Art Law",
+      "Employment Law",
+      "Corporate Law",
+      "Banking & Financial Services",
+      "Executive Compensation",
+      "Regulatory Investigations & White Collar",
+      "International Litigation & Cross Border Disputes",
+      "Complex Commercial Litigation & Trial Practice",
+      "Public Interest Litigation"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Dontzin Kolbe & Fleissig LLP (DKF) is an elite litigation firm with a 30-year history of delivering decisive results in high-stakes disputes. Renowned for courtroom strength and strategic precision, DKF fights to win\u2014and our track record reflects that commitment.",
+    "notable_facts": [
+      "The firm represents some of the world\u2019s largest banks, hedge funds, and asset managers, ultra-high-net-worth individuals, internationally acclaimed artists and galleries, and leading companies across a wide range of industries.",
+      "DKF is also entrusted to represent attorneys and major law firms when they face disputes of their own.",
+      "The firm consistently achieves successful outcomes for both plaintiffs and defendants in complex, high-profile matters throughout the United States and Europe."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Matthew S. Dontzin",
+          "title": "Founding Partner",
+          "email": "mdontzin@dkfllp.com",
+          "phone": "212) 717-2900",
+          "linkedin_url": "https://www.linkedin.com/in/matthewdontzin"
+        }
+      ],
+      "tech_contact": {
+        "name": "Ashley Segerman",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason A. Kolbe",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David A. Fleissig",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ruben G. Perlmutter",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Wolf Haldenstein Adler Freeman & Herz LLP",
+    "website": "https://www.whafh.com/",
+    "city": "New York",
+    "practice_areas": [
+      "U.S. Securities",
+      "Antitrust",
+      "Entertainment",
+      "Copyright & Intellectual Property",
+      "Commercial & Business",
+      "Consumer"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Founded in 1888, Wolf Haldenstein Adler Freeman & Herz LLP has provided exceptional legal service to individuals, businesses, institutional investors, and family offices for 135 years. The Firm is recognized for its excellence and integrity in complex litigation.",
+    "notable_facts": [
+      "Over $7 billion in recoveries for shareholders.",
+      "Achieved significant corporate governance reforms for shareholders and corporations.",
+      "Over $2 billion in recoveries for antitrust violations.",
+      "Received global acclaim for freeing the copyrights to Happy Birthday to You, the world\u2019s most famous song, and We Shall Overcome, the most powerful song of the 20th Century.",
+      "Over $300 million recovered for workers for wage and hour law violations."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Malcolm T. Brown",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas H. Burt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rachele R. Byrd",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew M. Guiney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Y. Kaufman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

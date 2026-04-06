@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Schoeman Updike & Kaufman LLP",
+    "website": "https://schoeman.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex litigation and dispute resolution",
+      "Employment counseling and defense",
+      "Real estate and commercial transactions",
+      "Workouts and restructurings",
+      "Professional liability and investigations",
+      "Pharmaceutical and other life sciences",
+      "Intellectual property and technology",
+      "Trusts and estates",
+      "Family law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schoeman Updike & Kaufman LLP provides legal counsel to clients ranging from Fortune 50\u00ae public corporations and large financial institutions to smaller public and privately held companies, partnerships and individuals. The firm's work encompasses complex litigation and dispute resolution, employment counseling and defense, real estate and commercial transactions, workouts and restructurings, professional liability, internal investigations, intellectual property and technology, trusts and estates, and family law.",
+    "notable_facts": [
+      "Certified Women-Owned Firm",
+      "Firm includes former federal clerks, a former Assistant United States Attorney, and partners with extensive trial and appellate experience.",
+      "The firm received the 2010 Economic Empowerment Award, awarded by InsideCounsel"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Beth L. Kaufman",
+          "title": "Partner",
+          "email": "bkaufman@schoeman.com",
+          "phone": "212-661-5030",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher M. McFadden",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-661-5030",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles B. Updike",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-661-5030",
+          "linkedin_url": null
+        },
+        {
+          "name": "Silvia S. Larizza",
+          "title": "Counsel",
+          "email": null,
+          "phone": "212-661-5030",
+          "linkedin_url": null
+        },
+        {
+          "name": "Norman L. Greene",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": "212-661-5030",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

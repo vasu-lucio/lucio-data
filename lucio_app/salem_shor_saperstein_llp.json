@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Salem, Shor & Saperstein, LLP",
+    "website": "http://lakesuccesslaw.com",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Elder Law",
+      "Trusts and Estates",
+      "Estate Planning",
+      "Guardianship and Conservatorship",
+      "Wills and Probate",
+      "Real Estate",
+      "Estate Administration",
+      "Medicaid Planning"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Salem, Shor & Saperstein, LLP is a boutique Elder Law, Trusts and Estate law firm centrally located in Lake Success, NY. They assist families with planning for the future, including estate planning, elder law, and estate administration.",
+    "notable_facts": [
+      "Founded in 2006",
+      "Located in Lake Success, New York"
+    ],
+    "technology_signals": [
+      "Cloudflare CDN",
+      "WordPress",
+      "oEmbed",
+      "Font Awesome",
+      "jQuery",
+      "Divi",
+      "Adobe Tag Manager",
+      "FitVids.js"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Saul Shor",
+          "title": "Partner",
+          "email": null,
+          "phone": "516-689-0248",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tzvi Saperstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cheryl L Erato",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Avizov",
+          "title": "Legal Intern",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

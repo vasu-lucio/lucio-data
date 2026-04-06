@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "McManus Ateshoglou Aiello & Apostolakos, PLLC",
+    "website": "https://maaalaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial and Corporate Litigation",
+      "Construction Defect Litigation",
+      "Insurance Coverage",
+      "Motor Vehicle Accidents",
+      "Municipal Liability",
+      "Premises Liability",
+      "Products Liability",
+      "Professional Liability",
+      "Property Damage",
+      "Shareholder, Member, and Partnership Disputes",
+      "Subrogation",
+      "Wage and Hour Claims"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "McManus Ateshoglou Aiello & Apostolakos PLLC (MAAA) is a Wall Street based litigation firm that offers legal representation to businesses, individuals, insurance carriers and municipalities involved in civil litigation. They provide legal representation and counsel from the commencement of an action through trial and appeal.",
+    "notable_facts": [
+      "The firm's culture emphasizes aggressive litigation.",
+      "MAAA has offices in Manhattan and Nassau County, and plans to open an office in New Jersey.",
+      "The firm was founded in 2015."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John A. McManus",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven D. Ateshoglou",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip V. Aiello",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Athanasia Apostolakos",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas K. Neonakis",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

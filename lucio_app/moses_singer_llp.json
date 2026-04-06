@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Moses Singer",
+    "website": "https://mosessinger.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Accounting Law",
+      "International Trade",
+      "Asset Protection",
+      "Litigation",
+      "Banking & Finance",
+      "Matrimonial",
+      "Bankruptcy",
+      "Real Estate",
+      "Corporate/M&A",
+      "Tax",
+      "Employment",
+      "T&E",
+      "Entertainment",
+      "White Collar Crime",
+      "Healthcare",
+      "Hotel",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 91,
+    "firm_description": "Moses Singer provides legal services to companies, individuals and families in the New York City area. The firm's attorneys have played a central role in landmark cases and major transactions, and are known for their creativity, skill and aggressiveness in representing the interests of corporate and individual clients.",
+    "notable_facts": [
+      "Founded in 1919",
+      "Provides legal services across various sectors including banking, finance, entertainment, media, real estate, healthcare, and hospitality"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dean Swagert",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Henry L. Moses",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Henry B. Singer",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Therese Cesaro",
+        "title": "Chief Administrative Officer (CAO)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Robert Rosenberg",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Robert Rosenberg will draw on his experience in advising clients on issues at the intersection of media, technology, and law, including issues related to artificial intelligence. He will also offer strategic consulting services through MS Strategic Solutions, Moses Singer\u2019s consulting company, where he will serve as Managing Director."
+      },
+      "additional_contacts": [
+        {
+          "name": "Elizabeth A. Corradino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Toby Butterfield",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Gross Shuman P.C.",
+    "website": "https://www.gross-shuman.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business and Corporate Law",
+      "Business Litigation",
+      "Personal Injury",
+      "Healthcare",
+      "Trusts and Estates",
+      "Labor and Employment",
+      "Civil Rights",
+      "Law Enforcement Liability",
+      "Municipal Liability Defense",
+      "Securities"
+    ],
+    "lawyer_count": 26,
+    "firm_description": "Gross Shuman P.C. is a law firm serving the needs of businesses and individuals in New York for over 65 years. The firm offers legal strategies, guidance, and outcomes with a focus on communication and client service.",
+    "notable_facts": [
+      "The firm was founded in 1959.",
+      "The firm has a location in Buffalo, NY and the Greater Toronto Area.",
+      "The firm has 15 attorneys who have been practicing law for more than 20 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gordon R. Gross",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Gonson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Irving M. Shuman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jennifer Waley",
+        "title": "Director, Technology Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael P. McClaren",
+          "title": "Member Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter S. Gilfillan",
+          "title": "longtime Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

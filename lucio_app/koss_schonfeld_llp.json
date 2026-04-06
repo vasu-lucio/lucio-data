@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Koss & Schonfeld \u2013 LLP",
+    "website": "https://kandsllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate Practice",
+      "Class Actions",
+      "Commercial Litigation",
+      "Mergers & Acquisitions",
+      "Personal Injury",
+      "Products Liability",
+      "Real Estate",
+      "Securities Litigation",
+      "Medical Malpractice",
+      "Healthcare"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Koss & Schonfeld, LLP is recognized as a leader in the legal industry, providing skillful representation to clients in transactional and litigation matters. Our attorneys have closed billions of dollars in transactions, with an emphasis on the healthcare industry.",
+    "notable_facts": [
+      "The firm was founded in 2008.",
+      "The firm's attorneys have closed billions of dollars in transactions, with an emphasis on the healthcare industry."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Allen V. Koss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Simcha D. Schonfeld",
+          "title": "Partner",
+          "email": "sds@kandsllp.com",
+          "phone": "(212) 796-8916",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jacob J. Schindelheim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shuye Chen",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Repollet",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

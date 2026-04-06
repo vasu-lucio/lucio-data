@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Tanenbaum Keale LLP",
+    "website": "https://tktrial.com/",
+    "city": "Newark",
+    "practice_areas": [
+      "Product Liability",
+      "Mass Tort",
+      "Resolution Counsel",
+      "Complex Casualty",
+      "Construction Litigation",
+      "Insurance Coverage",
+      "Commercial",
+      "PFAS",
+      "Automotive",
+      "Technology"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tanenbaum Keale LLP is a litigation boutique dedicated to providing its clients with multidimensional solutions to meet their business and litigation needs whether they are being resolved in the courtroom or the boardroom. Tanenbaum Keale LLP was created to partner closely with clients to identify the issues that arise in today\u2019s litigious world and resolve those challenges efficiently and effectively.",
+    "notable_facts": [
+      "In January 2026, Tanenbaum Keale LLP added 10 attorneys from Connell Foley LLP, expanding the firm\u2019s litigation team.",
+      "The firm's culture is described as collegial and interactive, geared towards mentoring and educational development."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Phil McGovern",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James H. Keale",
+          "title": "Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Tanenbaum",
+          "title": "Tanenbaum Keale LLP",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/michael-tanenbaum-8429591b/"
+        },
+        {
+          "name": "Catherine G. Bryan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey L. O\u2019Hara",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

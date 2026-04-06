@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Stroock & Stroock & Lavan LLP",
+    "website": "https://stroock.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 300,
+    "firm_description": "Stroock & Stroock & Lavan LLP is a law firm providing transactional, regulatory and litigation guidance to leading financial institutions, multinational corporations, investment funds and entrepreneurs in the U.S. and abroad. The firm is winding down its affairs and liquidating its assets under the supervision of a liquidation manager.",
+    "notable_facts": [
+      "Founded in 1876",
+      "Currently undergoing a process under the supervision of a liquidation manager.",
+      "Teneo Capital LLC is leading the company."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ron Kriss",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher Doyle",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce Schneider",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Moerdler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marvin Goldstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

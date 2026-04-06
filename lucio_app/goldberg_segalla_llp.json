@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Goldberg Segalla",
+    "website": "https://goldbergsegalla.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Civil Litigation",
+      "Commercial Litigation",
+      "Insurance Coverage",
+      "Construction",
+      "Employment and Labor",
+      "Product Liability"
+    ],
+    "lawyer_count": 500,
+    "firm_description": "Goldberg Segalla is a national civil litigation firm with a diverse team of attorneys, partnering with clients to understand their business and industry and anticipate challenges. They mobilize resources quickly to minimize risk and maximize favorable outcomes.",
+    "notable_facts": [
+      "Recognized by The American Lawyer as one of the top 200 law firms in the nation.",
+      "Recognized by Chambers USA as among the elite firms in several practice areas.",
+      "Designated as a Mansfield Certified firm for ensuring fair and equitable leadership opportunities for historically underrepresented attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Christopher J. Belter",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/christopher-j-belter-76a46719/"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David L. Brown",
+          "title": "Co-chair of Goldberg Segalla\u2019s Global Insurance Services practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/david-l-brown-9605a217/"
+        },
+        {
+          "name": "Damon M. Gruber",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

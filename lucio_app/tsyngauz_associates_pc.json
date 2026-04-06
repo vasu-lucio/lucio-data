@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Tsyngauz & Associates, P.C.",
+    "website": "https://www.nytlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Real Estate Transactions",
+      "Offering Plans",
+      "Development",
+      "Construction Litigation",
+      "Commercial Leasing",
+      "Condominium formation",
+      "Real Estate Development",
+      "Business Formation",
+      "RPAPL \u00a7881 Litigation"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Tsyngauz & Associates, P.C. is a boutique law firm located in Downtown Manhattan specializing in complex real estate transactions and litigation matters. The firm's commitment to clients is linked by a focus on real estate and reshaping the skyline of New York City.",
+    "notable_facts": [
+      "Founded in 2001",
+      "The firm has become a trusted advisor to major developers, businesses and individuals in NYC.",
+      "Yevgeny Tsyngauz has numerous published legal decisions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Yevgeny Tsyngauz",
+        "title": "Founder & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/tsyngauz-associates-p-c"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mikhail Litt",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan Banich",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna Buzhor",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Galina Labinskaya",
+          "title": "Accounting",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Larysa Nyahay",
+          "title": "Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Slava Melnyk",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

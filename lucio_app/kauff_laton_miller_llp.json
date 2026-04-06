@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Kauff Laton Miller LLP",
+    "website": "https://www.klmllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Litigation",
+      "Criminal Defense",
+      "Government Enforcement Proceedings",
+      "Securities Litigation",
+      "White Collar Crime",
+      "Commercial Litigation",
+      "Insurance",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kauff Laton Miller LLP is a litigation firm that provides exceptional representation to individuals and business entities in civil litigations, criminal defense matters and government enforcement proceedings. We deliver the sophistication and expertise of the world\u2019s leading law firms and the responsiveness of a boutique firm.",
+    "notable_facts": [
+      "The firm's attorneys include former prosecutors and federal clerks.",
+      "The firm handles cases strategically as if the matter is headed to trial."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Adam M. Kauff",
+          "title": "Partner",
+          "email": "akauff@klmllp.com",
+          "phone": "212-906-3441",
+          "linkedin_url": "https://www.linkedin.com/in/adam-kauff-13b31816"
+        },
+        {
+          "name": "Scott D. Laton",
+          "title": "Partner",
+          "email": "slaton@klmllp.com",
+          "phone": "212-906-3443",
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam S. Miller",
+          "title": "Partner",
+          "email": "amiller@klmllp.com",
+          "phone": "212-906-3442",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

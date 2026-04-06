@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Hecht Partners LLP",
+    "website": "https://www.hechtpartners.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex commercial disputes",
+      "High-stakes trials",
+      "International arbitration",
+      "Domestic class actions",
+      "Public international law",
+      "Intellectual property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hecht Partners is a litigation boutique focused on complex commercial disputes, high-stakes trials, and international arbitration. They represent individuals, start-ups, and small to mid-cap companies whose interests align with the rule of law, corporate accountability, and ESG principles.",
+    "notable_facts": [
+      "Recently won a $20.75 million trial victory in the BNP case",
+      "The firm integrates deep experience in domestic class actions, public international law, and intellectual property, operating at the intersection of law, science, and technology.",
+      "Entrepreneurial culture and lean, technology-enabled infrastructure"
+    ],
+    "technology_signals": [
+      "Technology-enabled infrastructure",
+      "Impact Team composed of lawyers, technologists, and scientists"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David L. Hecht",
+        "title": "Partner",
+        "email": "dhecht@hechtpartners.com",
+        "phone": "(212) 851-6821",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kathryn (Lee) Boyd",
+          "title": "Partner",
+          "email": "lboyd@hechtpartners.com",
+          "phone": "(646) 502-9515",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maxim Price",
+          "title": "Partner",
+          "email": "mprice@hechtpartners.com",
+          "phone": "(646) 480-1454",
+          "linkedin_url": null
+        },
+        {
+          "name": "Delphine Knight Brown",
+          "title": "Partner",
+          "email": "dkbrown@hechtpartners.com",
+          "phone": "(646) 762-8868",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Eggenberger",
+          "title": "Partner",
+          "email": "meggenberger@hechtpartners.com",
+          "phone": "(646) 777-2489",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

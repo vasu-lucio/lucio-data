@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Chiesa Shahinian & Giantomasi PC",
+    "website": "https://csglaw.com/",
+    "city": "Roseland",
+    "practice_areas": [],
+    "lawyer_count": 200,
+    "firm_description": "Chiesa Shahinian & Giantomasi PC (CSG Law) is a full-service law firm providing strategic guidance and solutions to clients ranging from private enterprises and governmental entities to individuals. More than 200 attorneys are dedicated to serving clients effectively and efficiently through offices in New Jersey and New York.",
+    "notable_facts": [
+      "Recognized as a Regional Powerhouse by Law360 and Law Firm of the Year by the New Jersey Law Journal.",
+      "ISO 27001 certified, demonstrating a commitment to data security.",
+      "Mansfield Certified for 2023-2024, demonstrating a commitment to diversity, equity and inclusion."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marie L. Mathews",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Hany Moussa",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard C. Murray",
+          "title": "Chief Operating & Finance Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Paldino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Tripodi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Morris Bienenfeld",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

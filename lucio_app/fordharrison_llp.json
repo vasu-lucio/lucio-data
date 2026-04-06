@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "FordHarrison LLP",
+    "website": "https://www.fordharrison.com/",
+    "city": "Atlanta, Georgia",
+    "practice_areas": [
+      "Labor and Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "FordHarrison is a labor and employment law firm with 25 offices throughout the United States. Their attorneys provide legal advice, practical counseling, and client service adhering to the principles of the FH Promise.",
+    "notable_facts": [
+      "The firm is managed by managing partner John Monroe and governed by an Executive Committee.",
+      "FordHarrison has implemented FHind, a searchable internal database powered by Lexis Search Advantage, for knowledge management.",
+      "The firm utilizes the Lexis CaseMap Suite for litigation management."
+    ],
+    "technology_signals": [
+      "FHind database",
+      "Lexis CaseMap Suite",
+      "Concordance discovery management software"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "John L. Monroe, Jr.",
+        "title": "Managing Partner",
+        "email": "jmonroe@fordharrison.com",
+        "phone": "404-888-3881",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Scott Shaw",
+        "title": "Chief Technology Officer",
+        "email": "sshaw@fordharrison.com",
+        "phone": "813-261-7805",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric Holman",
+          "title": "Chief Financial Officer",
+          "email": "eholman@fordharrison.com",
+          "phone": "404-888-3899",
+          "linkedin_url": null
+        },
+        {
+          "name": "Melodie Tilley",
+          "title": "Chief Client Development Officer",
+          "email": "mtilley@fordharrison.com",
+          "phone": "404-888-3858",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lavern J. Wilson",
+          "title": "Talent and Recruiting Partner / General Counsel",
+          "email": "lwilson@fordharrison.com",
+          "phone": "404-888-3824",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

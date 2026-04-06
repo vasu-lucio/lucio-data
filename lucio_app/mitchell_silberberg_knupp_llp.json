@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Mitchell Silberberg & Knupp LLP",
+    "website": "https://msk.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Entertainment & IP Litigation",
+      "Labor & Employment",
+      "Motion Picture | Music | Television Transactions",
+      "Immigration",
+      "Corporate Securities",
+      "Regulatory",
+      "Tax",
+      "Trusts & Estates",
+      "Real Estate",
+      "International Trade"
+    ],
+    "lawyer_count": 130,
+    "firm_description": "Mitchell Silberberg & Knupp LLP (MSK) is a law firm with offices in Los Angeles, New York, and Washington D.C. The firm specializes in a variety of practice areas, including Entertainment & IP Litigation, Labor & Employment, and Corporate Securities.",
+    "notable_facts": [
+      "Founded in 1908",
+      "Offices in Los Angeles, New York, and Washington D.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Greg Hessinger",
+        "title": "Chair",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Yakub Hazzard",
+        "title": "Vice-Chair",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Doug Gold",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": "310-312-3712",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Steinberg",
+          "title": "Partner, Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lucia Coyoca",
+          "title": "Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

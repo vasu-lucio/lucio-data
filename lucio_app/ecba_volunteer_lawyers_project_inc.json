@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "ECBA Volunteer Lawyers Project - VLP",
+    "website": "https://ecbavlp.com",
+    "city": "Buffalo, NY",
+    "practice_areas": [
+      "Civil Legal Services",
+      "Family Law",
+      "Housing",
+      "Estates & Wills",
+      "Divorce",
+      "Bankruptcy & Debt",
+      "Immigration Law",
+      "Non-Profit Organizations"
+    ],
+    "lawyer_count": 29,
+    "firm_description": "ECBA Volunteer Lawyers Project - VLP provides free civil legal services to low income individuals and small not-for-profit groups in Erie County. VLP has been helping Buffalo and Erie County since 1983.",
+    "notable_facts": [
+      "Provides free civil legal services to low income individuals and small not-for-profit groups.",
+      "Founded in 1983.",
+      "Offers legal advice clinics such as the Family Court Help Desk and Federal Pro Se Assistance Program."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nikole Wynn",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gretchen Gonzalez",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julie Gee",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

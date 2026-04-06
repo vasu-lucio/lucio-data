@@ -1,0 +1,122 @@
+{
+  "firm_data": {
+    "firm_name": "Kaplan Kirsch LLP",
+    "website": "https://www.kaplankirsch.com/",
+    "city": "Denver",
+    "practice_areas": [
+      "Natural Resources",
+      "Energy",
+      "Water",
+      "Infrastructure",
+      "Public Projects",
+      "Land Use",
+      "Development",
+      "Environmental Law",
+      "Tribal Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kaplan Kirsch LLP solves problems involving natural resources, energy, water, infrastructure, public projects, land use, development, environmental and tribal law. They are known for crafting innovative solutions to high-risk and seemingly intractable problems.",
+    "notable_facts": [
+      "Kaplan Kirsch is recognized as a Best Law Firm in America\u00ae for 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew G. Adams",
+          "title": null,
+          "email": "madams@kaplankirsch.com",
+          "phone": "415.907.8707",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara A. Dutschke",
+          "title": null,
+          "email": "sdutschke@kaplankirsch.com",
+          "phone": "415.907.8706",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas A. Bloomfield",
+          "title": null,
+          "email": "tbloomfield@kaplankirsch.com",
+          "phone": "303.825.6390",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole E. Grigg",
+          "title": null,
+          "email": "ngrigg@kaplankirsch.com",
+          "phone": "415.907.8709",
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather J. Haney",
+          "title": null,
+          "email": "hhaney@kaplankirsch.com",
+          "phone": "303.825.7000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah M. Keane",
+          "title": null,
+          "email": "skeane@kaplankirsch.com",
+          "phone": "303.825.7028",
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel Kohn",
+          "title": null,
+          "email": "Skohn@kaplankirsch.com",
+          "phone": "415.907.8705",
+          "linkedin_url": null
+        },
+        {
+          "name": "William C. Mumby",
+          "title": null,
+          "email": "wmumby@kaplankirsch.com",
+          "phone": "415.907.8708",
+          "linkedin_url": null
+        },
+        {
+          "name": "William D. Marsh",
+          "title": null,
+          "email": "wmarsh@kaplankirsch.com",
+          "phone": "415.907.8711",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

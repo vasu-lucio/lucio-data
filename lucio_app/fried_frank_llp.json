@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Fried Frank",
+    "website": "https://www.friedfrank.com/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Fried Frank is a global law firm offering legal services across various sectors. They are known for handling complex legal matters and have offices in key financial centers.",
+    "notable_facts": [
+      "The firm has offices in New York, London, Washington, D.C., Frankfurt, and Brussels.",
+      "Recent deals include SL Green Refinancing One Madison Avenue for $1.65B and OLAPLEX being acquired by Henkel for $1.4B."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Sean J. Sullivan",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joanne Southern",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Hallihan",
+          "title": "Chief Operating Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

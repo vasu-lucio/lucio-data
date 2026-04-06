@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Aurelian Law PLLC",
+    "website": "https://aurelianlaw.com/",
+    "city": "Pittsford",
+    "practice_areas": [
+      "Crisis Response",
+      "White-Collar Defense",
+      "Independent Investigations",
+      "Internal Investigations",
+      "Litigation",
+      "Healthcare Disputes",
+      "False Claims Act",
+      "Appeals",
+      "Pro Bono Representation",
+      "Class Action"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Aurelian Law PLLC serves clients responding to crises, litigating high-stakes matters, and pursuing the public interest. Based in Western New York, rather than New York City, Aurelian offers grounded perspective and value to clients.",
+    "notable_facts": [
+      "The firm was founded in 2024.",
+      "The firm's client base includes healthcare entities, educational institutions, nonprofits, financial institutions, and public and private companies.",
+      "The firm's name is inspired by the Roman emperor Aurelian."
+    ],
+    "technology_signals": [
+      "well, c (Tech Stack listed on their website)"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian M. Feldman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/aurelian-law-pllc"
+        },
+        {
+          "name": "Laura K. Schwalbe",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Farber",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sheila Baynes",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Harp",
+          "title": "Investigations attorney and litigator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/aurelian-law-pllc",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

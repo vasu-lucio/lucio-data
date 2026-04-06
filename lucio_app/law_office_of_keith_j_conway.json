@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office Of Keith J. Conway",
+    "website": null,
+    "city": "Melville",
+    "practice_areas": [
+      "Immigration",
+      "Accident & Injury",
+      "Lawsuit & Dispute"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Law Office Of Keith J. Conway is a law firm in Melville, NY. They practice in Immigration, Accident & Injury, Lawsuit & Dispute.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Keith Joseph Conway",
+          "title": "General Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Joseph Malagreca",
+          "title": "Immigration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jerry Christoforatos",
+          "title": "General Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberly A. Von Arx",
+          "title": "Accident & Injury, Criminal, Divorce & Family Law",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia K. Rech",
+          "title": "Accident & Injury, General Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

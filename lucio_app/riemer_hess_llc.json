@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "Riemer Hess LLC",
+    "website": "https://www.riemerhess.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Long Term Disability Claims",
+      "ERISA"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Riemer Hess LLC is a firm of disability attorneys headquartered in New York City, and is a nationwide leader in long-term disability claims, appeals and litigation. They focus on maximizing clients' long term disability benefits and addresses the unique needs of professionals and executives.",
+    "notable_facts": [
+      "The firm has obtained hundreds of millions of dollars in benefits, settlements and judgments.",
+      "The firm was founded in 1994."
+    ],
+    "technology_signals": [
+      "State-of-the-art paperless office"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Hess",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-297-0700",
+          "linkedin_url": "https://www.linkedin.com/in/jennifer-hess-2a9b3b48"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

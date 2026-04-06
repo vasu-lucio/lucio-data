@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Jones Jones LLC",
+    "website": "https://jonesjonesllc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Workers' Compensation",
+      "No-Fault Defense",
+      "Loss Transfer",
+      "Subrogation",
+      "Uninsured/Underinsured Motorist Defense"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Jones Jones LLC is a law firm with 100 years of experience in insurance defense, focusing on workers' compensation, no-fault defense, loss transfer, and subrogation. They represent insurance carriers, self-insured employers, and third-party administrators.",
+    "notable_facts": [
+      "24 hr turnaround time for all communications",
+      "75% of workers' comp cases resolved with a full and final settlement",
+      "91.3% loss transfer recovery rate",
+      "Founded in 1947",
+      "Appointed as counsel to the New York Claim Association"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Jones",
+          "title": "Executive Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William Jones",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/william-jones-7640617"
+        },
+        {
+          "name": "Kristina Jones",
+          "title": "Operations Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Thomas",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

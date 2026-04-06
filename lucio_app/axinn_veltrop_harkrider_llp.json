@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Axinn, Veltrop & Harkrider LLP",
+    "website": "https://axinn.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust",
+      "Intellectual Property",
+      "High-Stakes Litigation"
+    ],
+    "lawyer_count": 85,
+    "firm_description": "Axinn, Veltrop & Harkrider LLP is a law firm that protects client interests and accelerates business growth, combining scalability with insightful strategic acumen. Focusing on antitrust, intellectual property, and high-stakes litigation, the firm has extensive teams in the U.S. with deep knowledge and client-side experience across a range of sectors, including technology, healthcare, life sciences, and consumer products.",
+    "notable_facts": [
+      "Founded in 1997",
+      "Offices in the U.S., Germany, and United Kingdom"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeny M. Maier",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael L. Keeley",
+          "title": "Antitrust Practice Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew J. Becker",
+          "title": "Intellectual Property Practice Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denise L. Plunkett",
+          "title": "Litigation & Trials Practice Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Harkrider",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Alexander",
+          "title": "Antitrust Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/axinn-veltrop-harkrider-llp"
+  },
+  "email": {}
+}

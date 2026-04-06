@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Potomac Law Group",
+    "website": "https://potomaclaw.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Intellectual Property",
+      "Corporate and Transactional",
+      "Litigation",
+      "Government Investigations",
+      "Administrative Law and Regulatory Practice",
+      "Banking and Commercial Loans",
+      "Education",
+      "Employment and Labor",
+      "Energy",
+      "Environmental",
+      "Government Contracts",
+      "Health Care",
+      "Insurance Recovery and Risk Management",
+      "Real Estate and Finance",
+      "Restructuring and Bankruptcy",
+      "Taxation",
+      "Privacy and Cybersecurity"
+    ],
+    "lawyer_count": 175,
+    "firm_description": "Potomac Law Group (PLG) is a law firm that provides legal services to companies of all sizes across all industries. It is known for its innovative business model and collaborative culture.",
+    "notable_facts": [
+      "Attorneys have an average of 17 years of experience.",
+      "PLG represents nearly 20% of the Fortune 100.",
+      "The firm has offices in 25 states."
+    ],
+    "technology_signals": [
+      "Uses latest technology to practice law in a low-overhead environment.",
+      "Investments in Artificial Intelligence technology."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Benjamin Lieber",
+        "title": "Founder & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Marlene E. Laro",
+        "title": "Partner & COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The Firm utilizes experience and technology in its representation and litigation strategies. In addition to cutting-edge legal research tools, the Firm has made significant investments in Artificial Intelligence technology. Our AI legal tools have improved the effectiveness of our professional staff while reducing costs associated with routine functions of legal representation."
+      },
+      "additional_contacts": [
+        {
+          "name": "Galia Messika",
+          "title": "Partner & General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

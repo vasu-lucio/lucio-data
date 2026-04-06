@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "P&K Park LLP",
+    "website": "https://pkparkllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Product Liability",
+      "Regulatory Compliance",
+      "Product Recall Investigations",
+      "General Liability",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "P&K Park manages high stakes litigation for international and domestic clients nationwide, focusing on efficient and targeted advocacy to meet client business goals. They specialize in complex product liability cases, offering comprehensive defense strategies.",
+    "notable_facts": [
+      "Over 100 years of combined experience among attorneys.",
+      "Serve as national and regional counsel to major global companies.",
+      "Assist Korean companies with complex litigation and commercial transactions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Yong Jin Park",
+        "title": "Managing Partner",
+        "email": "yongjin.park@pkparkllp.com",
+        "phone": "(646) 330-8774",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sei Joon (Steve) Park",
+          "title": "Partner",
+          "email": "steve.park@pkparkllp.com",
+          "phone": "(315) 530-2256",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. Kain",
+          "title": "Partner",
+          "email": "daniel.kain@pkparkllp.com",
+          "phone": "(646) 257-0510",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine M. Emery",
+          "title": "Partner",
+          "email": "christine.emery@pkparkllp.com",
+          "phone": "(609) 207-5572",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert D. Wilson, Jr.",
+          "title": "Partner",
+          "email": "robert.wilson@pkparkllp.com",
+          "phone": "(203) 705-9420",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Y. Kim",
+          "title": "Partner",
+          "email": "amanda.kim@pkparkllp.com",
+          "phone": "(571) 425-2272",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Gilliam-Brownlee",
+          "title": "Associate",
+          "email": "cgilliam-brownlee@pkparkllp.com",
+          "phone": "(267) 670-0149",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

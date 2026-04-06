@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Barbiero Bisch O'Connor & Commander LLP",
+    "website": "https://bbollp.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Construction",
+      "Trucking",
+      "Significant Injury Cases",
+      "Civil Litigation",
+      "Transportation",
+      "Hospital & Health Care",
+      "Construction Entities",
+      "Municipal Defendants",
+      "Complex Tort Litigation",
+      "Architectural and Engineering Malpractice",
+      "Roadway Design Issues",
+      "High Exposure Property Damage",
+      "Civil Rights Violations",
+      "Corporate/Commercial Litigation",
+      "Construction Accident Litigation",
+      "Personal Injury",
+      "Property Damage",
+      "Commercial Litigation",
+      "Premises Liability",
+      "Motor Vehicle Accidents",
+      "Nursing Home",
+      "Medical Malpractice Claims",
+      "Mental Hygiene Law",
+      "Subrogation",
+      "False Arrest/Imprisonment",
+      "Excessive Force"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Barbiero Bisch O'Connor & Commander LLP is a multidisciplinary law firm with a personalized, result-driven approach to litigation. Our attorneys are highly skilled advocates, who handle a wide variety of claims in a cost-effective manner.",
+    "notable_facts": [
+      "The firm has a results-driven model.",
+      "The firm represents clients before the Office of Professional Medical Conduct, the Office of Professional Discipline, and the New York State Commission of Correction.",
+      "The firm handles matters from inception through trial and post-trial appellate practice."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anthony Barbiero",
+        "title": "Managing Partner",
+        "email": "abarbiero@bbollp.com",
+        "phone": "631.481.2385",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph O'Connor",
+          "title": "Partner",
+          "email": "joconnor@bbollp.com",
+          "phone": "631.481.2389",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen Commander",
+          "title": "Partner",
+          "email": "kcommander@bbollp.com",
+          "phone": "631.481.2390",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barbiero-bisch-o-connor-commander-llp"
+  },
+  "email": {}
+}

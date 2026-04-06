@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Steptoe",
+    "website": "https://www.steptoe.com/en/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "White-collar defense",
+      "Complex commercial litigation",
+      "Patent and technology litigation",
+      "International corporate compliance",
+      "Regulatory issues"
+    ],
+    "lawyer_count": 500,
+    "firm_description": "Steptoe is an international law firm known for vigorous representation of clients before governmental agencies, successful advocacy in litigation and arbitration, and innovative advice in structuring business transactions. The firm has more than 500 lawyers and other professional staff across offices in the United States, Europe and Asia.",
+    "notable_facts": [
+      "The firm is particularly noted for its capabilities in white-collar defense and government investigations.",
+      "Steptoe has a strong focus on complex commercial claims and cross-border disputes.",
+      "The firm has been recognized for exceptional cross-border litigation work in China."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher Suarez",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1 202 429 8131",
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine D. Cappaert",
+          "title": "Partner",
+          "email": null,
+          "phone": "+1 202 429 6252",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

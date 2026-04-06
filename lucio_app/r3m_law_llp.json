@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "R3M Law, LLP",
+    "website": "https://www.r3mlaw.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Corporate & Commercial Law",
+      "Commercial & Business Litigation",
+      "Business Disputes And Partnership Disputes",
+      "Business Bankruptcy",
+      "Commercial Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "R3M Law, LLP is a New York City-based boutique commercial law firm combining decades of high-profile experience into a cohesive team dedicated to practical, cost-effective legal solutions. The firm draws on the backgrounds of former partners from larger practices to deliver large-firm quality with boutique-level attention.",
+    "notable_facts": [
+      "Attorneys are former partners or counsel from prominent law firms.",
+      "Offers services nationwide."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Howard Magaliff",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey N. Rich",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Koren Blair",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elwood F. Collins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William C. Buzzini",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

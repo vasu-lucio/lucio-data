@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Elman Freiberg PLLC",
+    "website": "https://ef-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trust and Estate Litigation",
+      "Defending Lawyers and Law Firms",
+      "Commercial Litigation",
+      "Real Estate Litigation",
+      "Employment Law",
+      "Appeals"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Elman Freiberg PLLC is a litigation boutique with a national reputation in trust and estate disputes and attorney liability defense. The firm focuses on niche practice areas and fosters a culture of collaboration to deliver exceptional results.",
+    "notable_facts": [
+      "The firm does not have junior associates.",
+      "All lawyers are counsel or partners."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jay W. Freiberg",
+        "title": "Managing Member",
+        "email": null,
+        "phone": "(646) 780-8108",
+        "linkedin_url": "https://www.linkedin.com/in/jayfreiberg"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Howard I. Elman",
+          "title": "Partner",
+          "email": null,
+          "phone": "(646) 780-8101",
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin S. Litman",
+          "title": "Partner",
+          "email": null,
+          "phone": "(646) 780-8040",
+          "linkedin_url": null
+        },
+        {
+          "name": "Yelena Rapoport",
+          "title": "Partner",
+          "email": null,
+          "phone": "(646) 780-8104",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Barres",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": "(646) 780-8107",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

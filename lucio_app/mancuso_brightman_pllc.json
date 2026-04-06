@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Mancuso Brightman PLLC",
+    "website": "https://www.mbnylaw.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Immigration law",
+      "Municipal law",
+      "Real estate law",
+      "Litigation",
+      "Land Use and Zoning",
+      "Labor, Employment and Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mancuso Brightman PLLC brings big-firm experience to a small-firm setting, providing sound solutions to complex legal problems. With offices in Baldwinsville and Rochester, they assist New York clients with a wide variety of legal conflicts.",
+    "notable_facts": [
+      "The firm has offices in Baldwinsville and Rochester, serving the greater Syracuse area.",
+      "John A. Mancuso was named a New York Super Lawyers Rising Star between 2014-2019."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John A. Mancuso",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/johnamancuso"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kristy M. Brightman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna M. Patton",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin L. Overton",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lucrecia Z. Knapp",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin E. Elmouji",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren Baron",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

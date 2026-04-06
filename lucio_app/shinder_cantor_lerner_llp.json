@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Shinder Cantor Lerner LLP",
+    "website": "https://scl-llp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Antitrust Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Shinder Cantor Lerner LLP is a full-service antitrust boutique law firm with offices in New York City and Washington, D.C. The firm litigates high-stakes matters on behalf of both plaintiffs and defendants and advises clients on antitrust issues across a variety of industry sectors.",
+    "notable_facts": [
+      "SCL attorneys helped secure a landmark $3 billion settlement in Visa Check/MasterMoney Antitrust Litigation.",
+      "SCL attorneys helped lead the Air Cargo Shipping Services Antitrust Litigation, resulting in more than $1.2 billion for plaintiffs.",
+      "The firm was launched in October 2024 by prominent antitrust attorneys."
+    ],
+    "technology_signals": [
+      "The firm embraces cutting-edge technology as a tool to enhance their legal practice.",
+      "SCL uses AI for enhanced legal research, streamlined document review, support to business operations, and initial draft preparation.",
+      "SCL exclusively uses AI tools that provide enterprise-level security and guarantees that client data will not be used to train public models or shared with third parties."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Kellie Lerner",
+        "title": "Managing Partner",
+        "email": "kellie@scl-llp.com",
+        "phone": "(646) 960-8608",
+        "linkedin_url": "https://www.linkedin.com/in/kellie-lerner-8a058a6/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jeffrey I. Shinder",
+          "title": "Founding Partner",
+          "email": "jeffrey@scl-llp.com",
+          "phone": "(646) 960-8602",
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-shinder-85986b4/"
+        },
+        {
+          "name": "Matthew L. Cantor",
+          "title": "Founding Partner",
+          "email": "matthew@scl-llp.com",
+          "phone": "(646) 960-8606",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-l-cantor-a088494/"
+        }
+      ],
+      "tech_contact": {
+        "name": "Audra O'Rourke",
+        "title": "Practice Manager",
+        "email": "aorourke@scl-llp.com",
+        "phone": "(646) 960-8620",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "SCL embraces AI technology to enhance their legal practice, including enhanced legal research, streamlined document review, and initial draft preparation. They exclusively use AI tools that provide enterprise-level security, dedicated servers, and explicit guarantees that client data will not be used to train public models or shared with third parties."
+      },
+      "additional_contacts": [
+        {
+          "name": "James J. Kovacs",
+          "title": "Partner",
+          "email": "james@scl-llp.com",
+          "phone": "(646) 960-8611",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

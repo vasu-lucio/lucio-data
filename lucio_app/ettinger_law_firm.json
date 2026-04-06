@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Ettinger Law Firm",
+    "website": "https://trustlaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Elder Law",
+      "Estate Planning",
+      "Medicaid Strategies",
+      "Special Needs Trusts",
+      "Probate & Trust Administration"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Ettinger Law Firm is a New York estate planning attorney firm that provides elder law services, including living trusts, asset protection trusts, medicaid applications, wills, probate, estate administration, and special needs trusts. They have over 34 years of experience and offer free consultations.",
+    "notable_facts": [
+      "Ettinger Law Firm has served over thirty thousand satisfied clients since 1991",
+      "The firm has a trademarked \u201cLifetime Estate Planning Process\u201d",
+      "The firm has twelve offices in New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Ettinger",
+        "title": "Attorney/Partner and Counselor at Law",
+        "email": "[[email protected]]",
+        "phone": "800-500-2525 Ext: 114",
+        "linkedin_url": "https://www.linkedin.com/in/michaelettinger"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bonnie Kraham",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Suzanne Ettinger",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Danielle Becker",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Asquith",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

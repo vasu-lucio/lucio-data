@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Weinberg, Gross & Pergament LLP",
+    "website": "https://wgplaw.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Corporate Law",
+      "Commercial Real Estate",
+      "Bankruptcy",
+      "Commercial Litigation",
+      "Corporate and Personal Bankruptcy",
+      "Commercial Litigation",
+      "Comprehensive Corporate Law",
+      "Commercial and Residential Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Weinberg, Gross & Pergament LLP provides expert practical and economical legal services to meet the diverse business needs of clients. They offer thoughtful and informed corporate and real estate counsel, and aggressive representation in litigation, bankruptcy, workout or restructuring.",
+    "notable_facts": [
+      "The firm has earned the highest \"AV\" Rating from legal publisher Martindale-Hubbell."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Harvey Weinberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard R. Gross",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc A. Pergament",
+          "title": "Partner",
+          "email": "mpergament@wgplaw.com",
+          "phone": "(516) 877-2424 ex:226",
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth M. Choset",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Miller",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc J. Weingard",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Amini LLC",
+    "website": "https://aminillc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Commercial Disputes",
+      "Bankruptcy Litigation",
+      "Corporate Governance",
+      "Estate Litigation",
+      "Intellectual Property",
+      "Professional Malpractice"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Amini LLC is a premier NYC boutique litigation firm handling high-stakes, complex commercial litigation and trial matters nationwide. The firm represents clients in diverse areas of law, delivering decisive, trial-ready strategies and multi-million-dollar results.",
+    "notable_facts": [
+      "Recognized by Chambers and Partners\u2019 New York Spotlight Guide for 2025 as a leading small to mid-sized firm.",
+      "The firm's founding members have secured hundreds of millions of dollars in judgments, awards and settlements.",
+      "Amini LLC was established in 2019."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bijan Amini",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lita Beth Wright",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Avery Samet",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey Chubak",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "J&G Law, LLP",
+    "website": "https://www.jglaw.law/",
+    "city": "Monticello",
+    "practice_areas": [
+      "Municipal Law",
+      "Arts & Entertainment Law",
+      "Business Law",
+      "Land Use Development",
+      "Elder Law",
+      "Estate Planning",
+      "Litigation",
+      "Family Law",
+      "Real Estate"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "J&G Law, LLP has been providing legal services in New York for nearly 60 years, combining legal remedies with client service. They offer counsel to individuals, families, municipalities, and businesses on a wide range of legal issues.",
+    "notable_facts": [
+      "The firm has nearly 60 years of experience.",
+      "They have a team of 20 attorneys.",
+      "They offer discounts to veterans.",
+      "Full-service legal representation in over 30 areas of practice"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kelly A. Pressler",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "845-778-2121",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "J. Benjamin Gailey",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-778-2121",
+          "linkedin_url": null
+        },
+        {
+          "name": "John C. Cappello",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-778-2121",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary M. Schuster",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-778-2121",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kara J. Cavallo",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-778-2121",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michele P. Ellerin",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-778-2121",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Wagner",
+          "title": "Partner",
+          "email": null,
+          "phone": "845-778-2121",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

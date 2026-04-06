@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "AMATO LAW GROUP, PLLC",
+    "website": "https://amatolawgroup.com",
+    "city": "Garden City",
+    "practice_areas": [
+      "Real Estate Development",
+      "Land Use and Zoning",
+      "Environmental Law",
+      "Renewable Energy",
+      "Landlord and Tenant Law",
+      "Wireless Telecommunication Law",
+      "Construction",
+      "Corporate Law",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Amato Law Group, PLLC offers full-service support to clients facing a variety of property-based legal issues. The firm's real estate department ranks among the five largest real estate firms on Long Island.",
+    "notable_facts": [
+      "Founded in 1995 by Alfred L. Amato",
+      "Offices in Garden City, Manhattan and Metuchen, NJ",
+      "Represents Fortune 100 companies, national banks, real estate developers, small businesses, private lenders, start-up entities and individuals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alfred L. Amato",
+        "title": "Founder & Managing Attorney",
+        "email": "info@amatofirm.com",
+        "phone": "516-227-6363",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alfred L. Amato",
+          "title": "Founder & Managing Attorney",
+          "email": "info@amatofirm.com",
+          "phone": "516-227-6363",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven H. Mark",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kerry A. Foster",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory R. Alvarez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "India DeCarmine",
+          "title": "Senior Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/amato-law-group-pllc"
+  },
+  "email": {}
+}

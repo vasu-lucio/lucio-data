@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office Of Brian Rayhill",
+    "website": null,
+    "city": "Elmsford",
+    "practice_areas": [
+      "Accident & Injury",
+      "Divorce & Family Law",
+      "Criminal Law",
+      "Education Law",
+      "Litigation",
+      "White Collar Crime",
+      "Products Liability",
+      "Business & Trade",
+      "DUI-DWI",
+      "Family Law",
+      "General Practice",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Law Office Of Brian Rayhill is a law firm in Elmsford, NY.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Joseph Rayhill",
+          "title": "Lawyer",
+          "email": null,
+          "phone": "(914) 493-0143",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aida Serrano-Rivera",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amory Cummings Minot",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Grant David Zacharias",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Mccormick Queenan",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence Getzler",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

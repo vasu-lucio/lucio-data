@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Mandelbaum Barrett PC",
+    "website": "https://www.mblawfirm.com/",
+    "city": "Roseland",
+    "practice_areas": [
+      "Real Estate",
+      "Corporate Law",
+      "Litigation",
+      "Bankruptcy",
+      "Cannabis Law",
+      "Healthcare Law"
+    ],
+    "lawyer_count": 189,
+    "firm_description": "Mandelbaum Barrett PC is a full-service law firm with offices in New Jersey, New York, Connecticut, Florida, and Colorado, providing clients with sophisticated, hands-on attention to their legal needs since 1930. The firm's multidisciplinary team offers a collaborative and proactive approach to best serve clients\u2019 needs.",
+    "notable_facts": [
+      "Welcomed attorneys of Ivey, Barnum & O\u2019Mara effective January 1, 2026.",
+      "Provides service in over 30 distinct legal practice areas.",
+      "Offices in New Jersey, New York, Connecticut, Florida, and Colorado."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Cheryl H. Burstein",
+        "title": "COO",
+        "email": "cburstein@mblawfirm.com",
+        "phone": "(973) 243-7914",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William S. Barrett",
+          "title": "CEO",
+          "email": "wbarrett@mblawfirm.com",
+          "phone": "(973) 243-7952",
+          "linkedin_url": null
+        },
+        {
+          "name": "Barry R. Mandelbaum",
+          "title": "Chairman",
+          "email": "bmandelbaum@mblawfirm.com",
+          "phone": "(973) 243-7920",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven I. Adler",
+          "title": "Partner",
+          "email": "sadler@mblawfirm.com",
+          "phone": "(973) 243-7930",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis J. Alessi",
+          "title": "Partner",
+          "email": "dalessi@mblawfirm.com",
+          "phone": "(973) 243-7968",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

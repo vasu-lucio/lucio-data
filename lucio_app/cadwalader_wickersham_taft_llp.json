@@ -1,0 +1,52 @@
+{
+  "firm_data": {
+    "firm_name": "Cadwalader, Wickersham & Taft LLP",
+    "website": "https://cadwalader.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporations",
+      "Financial Institutions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cadwalader, Wickersham & Taft LLP is a law firm with over 230 years of legal experience, advising corporations and financial institutions. They are known for crafting innovative business and financial solutions and developing precedent-setting legal strategies.",
+    "notable_facts": [
+      "One of the world's leading advisors to corporations and financial institutions.",
+      "The firm has offices in New York, London, Dublin, Charlotte, N.C., and Washington, D.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Patrick T. Quinn",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

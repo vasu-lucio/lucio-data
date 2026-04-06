@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen Clair Lans Greifer & Simpson LLP",
+    "website": "https://www.cohenclairlans.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Prenuptial Agreements",
+      "Postnuptial Agreements",
+      "Paternity Disputes",
+      "Custody Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cohen Clair Lans Greifer & Simpson LLP is a New York City-based family law firm with a global reach, known for handling complex, high-profile divorce actions and other family law matters.",
+    "notable_facts": [
+      "The firm handles billion and multi-billion dollar estates.",
+      "They have successfully tried some of the largest divorce cases in the U.S., including the largest equitable distribution case in New York State.",
+      "The firm is committed to undertaking a significant amount of pro bono work."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Shannon Rogers Simpson",
+        "title": "Co-Chair and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Jad Greifer",
+        "title": "Co-Chair",
+        "email": "jgreifer@cohenclairlans.com",
+        "phone": "212.300.1100",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Stephan Cohen",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Deborah E. Lans",
+          "title": "Partner",
+          "email": "dlans@cohenclairlans.com",
+          "phone": "212.326.1704",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bernard E. Clair",
+          "title": "Co-Chair Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

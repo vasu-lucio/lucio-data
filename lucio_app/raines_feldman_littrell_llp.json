@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Raines Feldman Littrell LLP",
+    "website": "https://raineslaw.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Technology and Ventures",
+      "Affordable Housing",
+      "Bankruptcy",
+      "Data Security & Privacy",
+      "Corporate, Finance, Securities & M&A",
+      "Environmental, Land Use, and Natural Resources",
+      "Intellectual Property",
+      "Entertainment & Media",
+      "Labor & Employment",
+      "Real Estate & Affordable Housing",
+      "Wealth Preservation, Tax and Succession Planning",
+      "Trials, Litigation & Dispute Resolution",
+      "Cross-Border & International Practice",
+      "Fiduciary Representation Services",
+      "Private Client Services",
+      "Restaurant & Hospitality"
+    ],
+    "lawyer_count": 120,
+    "firm_description": "Raines Feldman Littrell LLP is a full-service business law firm committed to outstanding results through purpose, discipline, and precision. With a national presence, the firm offers comprehensive counsel across various key practice areas.",
+    "notable_facts": [
+      "The firm has 7 US locations.",
+      "The firm has 16 states of admission.",
+      "The firm was formerly known as Raines Feldman."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan Littrell",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Miles Feldman",
+          "title": "Co-founder, and chair of the firm\u2019s Litigation practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Raines",
+          "title": "Co-founder, and chair of the firm\u2019s Real Estate practice group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

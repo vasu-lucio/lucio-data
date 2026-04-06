@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Kenney Shelton Liptak Nowak LLP",
+    "website": "https://www.kslnlaw.com",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Insurance Defense",
+      "Insurance Coverage",
+      "Civil Litigation",
+      "Business Services",
+      "Estate Planning",
+      "Real Estate",
+      "Employment Law",
+      "Bankruptcy",
+      "Construction Risk Management",
+      "Cybersecurity & Privacy"
+    ],
+    "lawyer_count": 35,
+    "firm_description": "Kenney Shelton Liptak Nowak LLP is a civil litigation law firm with offices across New York State. They represent individuals, families, small businesses, corporations and industry professionals across a number of practice areas.",
+    "notable_facts": [
+      "The firm was founded in 1994.",
+      "KSLN has offices in Buffalo, Rochester, Syracuse, White Plains, and New York City.",
+      "The firm focuses on civil litigation and business services."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Thomas Liptak",
+        "title": "Founding and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Pat Kenney",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Judi Shelton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Liptak",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey A Carlino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer R Collesano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Collesano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

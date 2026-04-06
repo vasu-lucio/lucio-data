@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "DeSena & Sweeny, LLP",
+    "website": "https://www.desenasweeney.com/",
+    "city": "Hauppauge",
+    "practice_areas": [
+      "Litigation defense",
+      "Insurance coverage",
+      "Negligence defense",
+      "Arbitration",
+      "Premises liability",
+      "No-fault",
+      "UM/SUM",
+      "Labor Law",
+      "Bankruptcy",
+      "Copyright infringement",
+      "Contract matters",
+      "Property disputes",
+      "Title disputes",
+      "Tort actions"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "DeSena & Sweeney, LLP is a full-service law firm committed to quality representation while maintaining a cost-effective approach to litigation. The firm specializes in litigation defense work for insurance carriers as well as self-insured clients.",
+    "notable_facts": [
+      "Established in 2000",
+      "Has an additional office location in Mineola, NY",
+      "Represents major insurance companies, corporations, third party administrators, and private entities",
+      "Utilizes virtual paperless files and advanced case management software",
+      "Attorneys average over twenty years of experience in trial work"
+    ],
+    "technology_signals": [
+      "Windows Server",
+      "Google Analytics",
+      "Microsoft ASP.NET",
+      "Microsoft IIS",
+      "Virtual paperless files",
+      "Advanced case management software",
+      "Wireless communication",
+      "Internet"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert P. Sweeney",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louis J. DeSena",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Marino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Arthur T. Wade",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

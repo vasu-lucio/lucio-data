@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "LaMonica Herbst & Maniscalco LLP",
+    "website": "http://www.lhmlawfirm.com",
+    "city": "Wantagh",
+    "practice_areas": [
+      "Bankruptcy",
+      "Litigation",
+      "Real Estate"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "LaMonica Herbst & Maniscalco LLP is a full service bankruptcy, litigation and business law firm. Since 1998, LH&M has maintained strong relationships with a diverse client base.",
+    "notable_facts": [
+      "The firm has almost 150 years of combined legal experience among its attorneys.",
+      "The firm was founded in 1998."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Salvatore LaMonica",
+          "title": "Partner",
+          "email": "sl@lhmlawfirm.com",
+          "phone": "516.826.6500 x208",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary F. Herbst",
+          "title": "Partner",
+          "email": "gfh@lhmlawfirm.com",
+          "phone": "516.826.6500 x223",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph S. Maniscalco",
+          "title": "Partner",
+          "email": "jsm@lhmlawfirm.com",
+          "phone": "516.826.6500 x218",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam P. Wofse",
+          "title": "Partner",
+          "email": "awofse@lhmlawfirm.com",
+          "phone": "516.826.6500 x213",
+          "linkedin_url": null
+        },
+        {
+          "name": "Melanie A. FitzGerald",
+          "title": "Partner",
+          "email": "mfitzgerald@lhmlawfirm.com",
+          "phone": "516.826.6500 x220",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

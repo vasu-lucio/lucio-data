@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen, Weiss and Simon LLP",
+    "website": "https://cwsny.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor Union Representation",
+      "Discrimination Harassment Prevention and DEI Practice",
+      "Employee Benefits",
+      "Individual Employment Matters",
+      "Bankruptcy & Restructuring",
+      "Workplace Litigation"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Cohen, Weiss and Simon LLP is a leading firm devoted exclusively to the interests of labor and working people. Since the firm's origins in the 1930s, their lawyers have been dedicated to advancing and defending labor and employee rights.",
+    "notable_facts": [
+      "The firm was founded in the 1930s.",
+      "They represent unions, union-affiliated benefit plans, and individual employees.",
+      "The firm has a long record of appellate victories."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Susan Davis",
+        "title": "Managing Partner",
+        "email": "sdavis@cwsny.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Delores F. Browne",
+        "title": "IT Director",
+        "email": "dfbrowne@cwsny.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Georgia M. Vlanis",
+          "title": "Executive Director",
+          "email": "gvlanis@cwsny.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul M. Schwartz",
+          "title": "Director of Finance",
+          "email": "pschwartz@cwsny.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

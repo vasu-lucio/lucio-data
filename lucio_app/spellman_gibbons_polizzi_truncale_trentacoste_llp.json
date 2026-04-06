@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Spellman Gibbons Polizzi Truncale & Trentacoste, LLP",
+    "website": "https://spellmanlaw.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Municipal Law",
+      "Real Estate, Land Use and Zoning",
+      "Civil and Commercial Litigation",
+      "Not-For-Profit / Education Law",
+      "Estate Planning",
+      "Estate Administration",
+      "Adoption Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Spellman Gibbons Polizzi Truncale & Trentacoste, LLP combines decades of knowledge and experience with the personalized attention all clients deserve.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John M. Spellman",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George F. Rice",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John P. Gibbons, Jr.",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Phyllisann Polizzi Kalenka",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin J. Truncale, Jr.",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter S. Trentacoste",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine M. Farrell",
+          "title": "Esq.",
+          "email": "cfarrell(a)spellmanlaw.com",
+          "phone": "(516) 592-6836",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

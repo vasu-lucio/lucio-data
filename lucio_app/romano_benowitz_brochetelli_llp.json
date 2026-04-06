@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Romano Benowitz & Brochetelli LLP",
+    "website": "https://www.rbnylaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Litigation",
+      "Construction",
+      "Premises Liability",
+      "Sports and Recreation",
+      "Personal Injury",
+      "Contract Disputes",
+      "Products Liability Disputes",
+      "Insurance Coverage",
+      "Employment Discrimination"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Romano Benowitz & Brochetelli LLP approaches every case with a focus on prompt, professional service and employs cost effective resolution strategies. The firm's attorneys have a proven track record of success at trial in both state and federal courts.",
+    "notable_facts": [
+      "The firm utilizes dispositive motion practice to resolve lawsuits.",
+      "The firm is committed to providing clients with unique and proactive resolution strategies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan Romano",
+          "title": "Partner",
+          "email": "sromano@rbnylaw.com",
+          "phone": "929-777-2250",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lance Benowitz",
+          "title": "Partner Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/lance-benowitz-77918a14"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

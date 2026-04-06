@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Weber Gallagher Simpson Stapleton Fires & Newby, LLP",
+    "website": "https://www.wglaw.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Employment",
+      "Business & Corporate Law",
+      "Casualty",
+      "Family Law"
+    ],
+    "lawyer_count": 130,
+    "firm_description": "Weber Gallagher delivers high standards in legal work and client-service. The firm provides legal counseling and representation to local, national, and international clients.",
+    "notable_facts": [
+      "The firm has 13 offices throughout the Mid-Atlantic and Midwest United States and South Florida.",
+      "Weber Gallagher was founded in the early 1990s.",
+      "Several of the firm's lawyers have become judges."
+    ],
+    "technology_signals": [
+      "Moved to a cloud-based environment using SaaS products.",
+      "Utilizes cloud-based platforms such as Microsoft 365, Teams, Azure, iManage, and Aderant.",
+      "Uses threat detection and vulnerability scanning products and a 24/7 network operations center.",
+      "Internal Artificial Intelligence task force is investigating ways to use AI."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew L. Indeck",
+        "title": "Managing Partner & Firm Chair",
+        "email": "aindeck@wglaw.com",
+        "phone": "973.854.1064",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Greg Largent",
+        "title": "Chief Technology Officer",
+        "email": "glargent@wglaw.com",
+        "phone": "215.825.7213",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm\u2019s internal Artificial Intelligence task force is looking to the future, investigating the best ways to safely and responsibly use AI to increase efficiencies and better service our client\u2019s needs."
+      },
+      "additional_contacts": [
+        {
+          "name": "Geralyn Brown",
+          "title": "Chief Operations Officer",
+          "email": "gbrown@wglaw.com",
+          "phone": "215.972.7929",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul M. Fires",
+          "title": "Firm Chair Emeritus & Workers\u2019 Compensation Co-Managing Partner",
+          "email": "pfires@wglaw.com",
+          "phone": "215.972.7904",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

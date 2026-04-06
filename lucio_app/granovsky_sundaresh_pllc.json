@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Granovsky & Sundaresh PLLC",
+    "website": "https://g-s-law.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Employment Law",
+      "Severance Agreements",
+      "Discrimination",
+      "Harassment",
+      "Hostile Work Environment",
+      "Retaliation",
+      "Wrongful Termination",
+      "Wage and Hour",
+      "Non-Competition Agreements"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Granovsky & Sundaresh PLLC is an employment law firm with offices in New York City and Cleveland. The firm handles all aspects of employment law including severance, discrimination, harassment, hostile work environment, retaliation, wrongful termination, wage and hour, overtime, and non-competition and non-solicitation issues.",
+    "notable_facts": [
+      "Firm was founded in 2010 by husband and wife team, Alex Granovsky and Neeti Sundaresh.",
+      "Attorneys have been recognized by Super Lawyers and Avvo.",
+      "The firm offers legally mandated Anti-Harassment Training and other services for employers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alex Granovsky",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neeti Sundaresh",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Benjamin Rudolph Delson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denise Rubin Glatter",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Fenster, Lewis & Good, LLC",
+    "website": "https://fensterlewis.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Estate Planning",
+      "Estate Administration",
+      "Business Planning",
+      "Taxation",
+      "Elder Law",
+      "Real Estate",
+      "Corporate and Business Law",
+      "Not-For-Profit Corporation Law",
+      "General Practice"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Fenster, Lewis & Good, LLC was formed in 1993 and provides legal services with a focus on client education and peace of mind. They offer fixed-fee arrangements and focus on estate planning, estate and trust administration, business planning, taxation, and elder law.",
+    "notable_facts": [
+      "The firm was initially founded as Fenster & Lewis in 1993.",
+      "The firm changed its name to Fenster, Lewis & Good, LLC in 2014 after Christina L. Good joined the firm.",
+      "The firm provides legal services on a fixed-fee basis for most work.",
+      "The initial planning meeting with a client is without charge."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David D. Fenster",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Beverly A. Lewis",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christina L. Good",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah E. Fenster",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole N. Mutignani",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary Kieser",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard H. Murphy",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

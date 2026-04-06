@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Anderson Bowman PLLC",
+    "website": "https://www.abwpllc.com/",
+    "city": "Queens",
+    "practice_areas": [
+      "Real Estate Transactions",
+      "Real Estate Partitions",
+      "Real Estate Litigation",
+      "Quiet Title Actions",
+      "Landlord-Tenant Law",
+      "Immigration",
+      "Foreclosure Defense",
+      "Family Law & Divorce",
+      "Estate Planning & Administration",
+      "Construction Disputes",
+      "Commercial Litigation",
+      "Business Transactions",
+      "Bankruptcy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Anderson Bowman PLLC provides legal guidance for individuals, property owners, investors, and businesses facing complex legal and financial matters. With a strong concentration in real estate law, bankruptcy, and commercial litigation, the firm supports clients through high-stakes situations where legal decisions directly impact long-term financial and business outcomes.",
+    "notable_facts": [
+      "Providing Expert Legal Services Across Queens & the New York Metro Area Since 2012",
+      "Decades of Dedicated Representation in Queens & Throughout New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dustin Bowman",
+        "title": "Partner",
+        "email": null,
+        "phone": "929-590-5053",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark Anderson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberly Wroblewski",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nick Neocleous",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Routh",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/andersonbowmanpllc"
+  },
+  "email": {}
+}

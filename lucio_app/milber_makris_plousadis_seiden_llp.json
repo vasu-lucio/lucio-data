@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Milber Makris Plousadis & Seiden, LLP",
+    "website": "https://milbermakris.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Litigation",
+      "Appellate",
+      "Arbitration",
+      "Bonds",
+      "Civil Rights"
+    ],
+    "lawyer_count": 154,
+    "firm_description": "Milber Makris Plousadis & Seiden, LLP is a full-service civil litigation defense firm and business partner to the insurance industry. They are committed to providing legal services of exceptional quality and value.",
+    "notable_facts": [
+      "Founded in 1998",
+      "Headquartered in Woodbury, New York",
+      "Full-service civil litigation defense firm"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Harry Makris",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Danielle Rizzo",
+          "title": "Partner",
+          "email": "dpascucci@milbermakris.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tyler Levenson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

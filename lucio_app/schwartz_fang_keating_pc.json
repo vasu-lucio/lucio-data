@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Schwartz, Fang & Keating, P.C.",
+    "website": "https://www.inheritlawyers.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Estate Planning",
+      "Probate",
+      "Estate Tax",
+      "Elder Law",
+      "Real Estate",
+      "Corporate/Business Planning and Formation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schwartz, Fang & Keating, P.C. is a premier New York State and New Jersey law firm with over 30 years of experience. Our attorneys are proficient in the areas of estate planning, probate, estate tax, elder law, real estate, and corporate/business planning and formation.",
+    "notable_facts": [
+      "The firm has over 30 years of experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Neil B. Fang",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/neil-fang-266b6649"
+        },
+        {
+          "name": "Stephen J. Schwartz",
+          "title": "Esq. CPA",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie M. Reilly Keating",
+          "title": "Esq. CPA",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

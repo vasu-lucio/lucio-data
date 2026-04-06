@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Katz Banks Kumin LLP",
+    "website": "https://katzbanks.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Employment Law",
+      "Whistleblower Law",
+      "Workplace Harassment",
+      "Civil Rights",
+      "Wage and Hour Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Katz Banks Kumin LLP is a nationally recognized law firm focusing on employment law, whistleblower law, sexual harassment, civil rights, and wage and hour matters. They represent individuals in disputes with employers and other organizations.",
+    "notable_facts": [
+      "The firm was founded in 2006.",
+      "They represent clients nationally and internationally.",
+      "They are known for representing high-profile whistleblowers and victims of discrimination."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Debra S. Katz",
+          "title": "Partner",
+          "email": "katz@katzbanks.com",
+          "phone": "202-299-1140",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa J. Banks",
+          "title": "Partner",
+          "email": "banks@katzbanks.com",
+          "phone": "202-299-1140",
+          "linkedin_url": null
+        },
+        {
+          "name": "Avi Kumin",
+          "title": "Partner",
+          "email": "kumin@katzbanks.com",
+          "phone": "202-299-1140",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexis Ronickher",
+          "title": "Partner",
+          "email": "ronickher@katzbanks.com",
+          "phone": "202-299-1140",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Massumi + Consoli",
+    "website": "https://mcllp.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Private Equity",
+      "Mergers & Acquisitions",
+      "Debt Finance",
+      "Growth Equity",
+      "Litigation & Dispute Resolution",
+      "Family Offices & Private Investment",
+      "Corporate Counseling & Governance",
+      "Tax",
+      "Executive Compensation & Benefits",
+      "Labor & Employment",
+      "Real Estate",
+      "Energy & Infrastructure",
+      "Environmental, Health & Safety",
+      "Healthcare",
+      "Technology & IP Transactions",
+      "Cybersecurity & Data Privacy"
+    ],
+    "lawyer_count": 66,
+    "firm_description": "Massumi + Consoli is a nationwide law firm that delivers exceptional expertise and an unmatched client experience specifically tailored to the middle market needs of private equity firms and other financial sponsors, as well as dynamic and acquisitive enterprises. Our approach combines the proficiency of the best large international law firms with a highly personalized, boutique experience.",
+    "notable_facts": [
+      "Founded in 2015",
+      "5 offices in key financial centers around the U.S.",
+      "16 practice areas"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter Massumi",
+          "title": "Co-founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Consoli",
+          "title": "Co-founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel Dubelman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Parsa Ansari",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Young",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Kang",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Washor Kool Sosa Maiorana & Schwartz, LLP",
+    "website": "https://wksmlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Motor Vehicle Accidents",
+      "Construction Accidents",
+      "Brain Injuries",
+      "Wrongful Death",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Washor Kool Sosa Maiorana & Schwartz, LLP is a New York personal injury law firm with a proven record of success. They are committed to delivering justice for those affected by the negligence of others and have recovered over $1 billion in compensation for clients.",
+    "notable_facts": [
+      "Recovered over $1 billion in compensation for clients",
+      "99.9% client satisfaction rate"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry Washor",
+          "title": "Personal Injury Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonny Kool",
+          "title": "Personal Injury Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://wksmlaw.com/jonny-kool"
+        },
+        {
+          "name": "Brian S. Schwartz",
+          "title": "Personal Injury Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://wksmlaw.com/brian-s-schwartz"
+        },
+        {
+          "name": "Pablo A. Sosa",
+          "title": "Personal Injury Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Maiorana",
+          "title": "Personal Injury Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

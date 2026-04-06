@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Belluck Law, LLP",
+    "website": "https://www.bellucklaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Mesothelioma",
+      "Asbestos Litigation",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Belluck Law, LLP is a national firm focusing on mesothelioma cases and other serious injuries, holding negligent companies accountable. They have recovered over $1 billion in compensation for their clients.",
+    "notable_facts": [
+      "The firm has a strong national presence with a local neighborhood feel.",
+      "Belluck Law focuses on mesothelioma cases, holding negligent companies accountable.",
+      "They have won over $1 billion in compensation for their clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph W. Belluck",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/joseph-belluck-9b4b4710"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Francine E. Lahm",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Seth A. Dymond",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Farco",
+          "title": "IT Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bellucklaw"
+  },
+  "email": {}
+}

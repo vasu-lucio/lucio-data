@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Feerick Nugent MacCartney PLLC",
+    "website": "https://fnmlawfirm.com/",
+    "city": "South Nyack",
+    "practice_areas": [
+      "Municipal Representation",
+      "Personal Injury",
+      "Appellate Practice",
+      "Zoning, Planning, Land Use & Property Rights",
+      "Commercial / Corporate Law",
+      "Criminal Defense",
+      "Employment Law",
+      "Tax Certiorari (Residential / Commercial)"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Feerick Nugent MacCartney PLLC serves clients on a broad range of personal and business matters, with particular emphasis in the practice areas of municipal law, personal injury, litigation, appellate work, property rights, civil rights and criminal law. The firm serves as legal counsel to numerous local governments in the Greater Hudson Valley Region and all five boroughs of New York City.",
+    "notable_facts": [
+      "Proudly recognizing 20 years of dedicated service to our clients.",
+      "The firm handles litigation in all their practice areas in State and Federal Courts.",
+      "Feerick Nugent MacCartney achieves victory in New York State's highest court (Court of Appeals) for the Town of Fishkill Hudson View Park v. Fish Kill (2025)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Donald J. Feerick, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian D. Nugent",
+          "title": "Partner",
+          "email": null,
+          "phone": "(845) 353-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "J. David MacCartney, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": "(845) 353-2000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen M. Honan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alak Shah",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

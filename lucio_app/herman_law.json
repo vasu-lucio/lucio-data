@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "Herman Law Firm",
+    "website": "https://herman-lawfirm.com/",
+    "city": "Dallas",
+    "practice_areas": [
+      "Managed Care Litigation",
+      "Healthcare Compliance",
+      "ERISA",
+      "Affordable Care Act"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Herman Law Firm is a boutique law firm representing health insurers, self-funded plans, and plan administrators. They focus on reimbursement disputes and advise clients on regulatory matters pertaining to Medicaid, Marketplace, and Medicare.",
+    "notable_facts": [
+      "Publishes Managed Care Litigation Update, a bi-weekly electronic publication.",
+      "Represents health insurers in high-profile cases navigating healthcare laws.",
+      "Offices in Texas, Louisiana, Mississippi, Massachusetts & California"
+    ],
+    "technology_signals": [
+      "Uses cutting-edge technology in the firm and in the courtroom (according to website)."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan M. Herman",
+        "title": "Managing Member",
+        "email": "jherman@herman-lawfirm.com",
+        "phone": "(214) 624-9805 ext. 101",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

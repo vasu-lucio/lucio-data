@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Rosenberg & Estis, P.C.",
+    "website": "https://rosenbergestis.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law",
+      "Litigation"
+    ],
+    "lawyer_count": 95,
+    "firm_description": "Rosenberg & Estis, P.C. is a premier real estate law firm in New York City that has been helping shape the skyline since 1975. They provide full-service representation and advice in every aspect of real estate.",
+    "notable_facts": [
+      "Consistently top-ranked by The Real Deal Magazine among New York City\u2019s largest real estate practices.",
+      "In 2018, R&E received the highest honor from The New York Law Journal: Litigation Department of the Year, Real Estate."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael E. Lefkowitz",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Warren Estis",
+          "title": "PARTNER",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Turkel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel Reiser",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Horn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frederick E Park",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

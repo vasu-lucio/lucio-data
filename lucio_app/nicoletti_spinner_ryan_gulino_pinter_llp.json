@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Nicoletti Spinner Ryan Gulino Pinter LLP",
+    "website": "https://www.nicolettilaw.com/index.html",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Defense Litigation",
+      "Insurance Coverage"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Nicoletti Spinner Ryan Gulino Pinter LLP represents major national and international insurance and reinsurance companies, commercial and private clients in a wide range of insurance-related matters in the state and federal courts in New York and New Jersey. NSRGP has established an excellent reputation within the legal community for its aggressive, yet practical, handling of cases which has led to continued success for its clients.",
+    "notable_facts": [
+      "Claire Rush joined the firm as a Senior Partner in 2021.",
+      "The firm was founded in 1995 by Frank Nicoletti.",
+      "The firm has over 40 attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank Nicoletti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Claire Rush",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marina A. Spinner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph J. Gulino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin M. Ryan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Pinter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

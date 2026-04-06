@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Lauren L. Hunt Esq., PLLC",
+    "website": "https://laurenhuntesq.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Divorce",
+      "Family Law",
+      "Prenuptial Agreements",
+      "Child Support",
+      "Custody & Adoption",
+      "Mediation & Collaborative Law",
+      "Spousal Maintenance",
+      "Property & Debt Division"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Lauren L. Hunt Esq., PLLC is a family law firm located in Albany, NY. The firm focuses on helping families navigate divorce, separation, and other family transitions.",
+    "notable_facts": [
+      "Lauren L. Hunt has been named a Super Lawyer from 2014-2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lauren L. Hunt",
+        "title": "Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kimberly A. McCall",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lila Dodge",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine M. Wilson-Smith",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kayleigh Robinson",
+          "title": "Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emma Hjelmma",
+          "title": "Intake Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

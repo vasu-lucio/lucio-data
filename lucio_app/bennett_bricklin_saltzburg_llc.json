@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Bennett, Bricklin & Saltzburg LLC",
+    "website": "https://bbs-law.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Insurance Coverage",
+      "Bad Faith",
+      "Special Investigations and Fraud",
+      "Premises Liability",
+      "Construction Litigation",
+      "Products Liability",
+      "Automobile Insurance and Liability",
+      "Commercial Transportation",
+      "Employment Law",
+      "Food, Restaurant and Retail Liability Defense",
+      "Municipal Liability and Civil Rights Litigation",
+      "Aviation Law",
+      "Appellate Advocacy"
+    ],
+    "lawyer_count": 53,
+    "firm_description": "Bennett, Bricklin & Saltzburg LLC is committed to providing our clients high quality yet cost effective civil litigation services. From the inception of the firm in 1946, our highest priority has been service to our clients and we believe this is reflected by many companies having been clients of the firm for 40, 50, and 60 or more years.",
+    "notable_facts": [
+      "Founded in 1946",
+      "Ranked 2nd in percentage of female attorneys among the 100 largest law firms in Pennsylvania in 2019",
+      "Has offices in Philadelphia, Allegheny County, Montgomery County, Lancaster County, Chester County, Pennsylvania, Marlton, New Jersey, and New York City"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Theresa A. Meyer",
+        "title": "Human Resources Director",
+        "email": "meyer@bbs-law.com",
+        "phone": "215.561.4300",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michele E. Turner",
+          "title": "Member, Chairperson of the firm's Diversity Committee",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Cummins",
+          "title": "Member, Appellate Advocacy Practice Group Leader",
+          "email": "cummins@bbs-law.com",
+          "phone": "215-665-3328",
+          "linkedin_url": null
+        },
+        {
+          "name": "Beth Carter",
+          "title": "Member, Automobile Liability Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Moraglia",
+          "title": "Member, Automobile Liability Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Saltzburg",
+          "title": "Member, Automobile Liability Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bennett-bricklin-&-saltzburg-llc"
+  },
+  "email": {}
+}

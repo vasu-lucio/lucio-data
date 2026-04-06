@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Turley Redmond & Rosasco, L.L.P.",
+    "website": "https://www.nydisabilitylaw.com",
+    "city": "Ronkonkoma",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Social Security Disability",
+      "Construction Accident Law"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Turley Redmond & Rosasco, L.L.P., has over 30 years\u2019 experience representing injured and disabled workers in NYC and Long Island. Workers\u2019 compensation, Social Security Disability and construction accident law are all we do!",
+    "notable_facts": [
+      "The firm has recovered over $250,000,000 for their clients in the past 29 years.",
+      "The firm offers free case evaluations and a free \u201csecond opinion\u201d service for those who already have legal representation.",
+      "The firm has six convenient offices across New York City, Suffolk County and Nassau County."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Craig E. Rosasco",
+        "title": "Managing Partner",
+        "email": "Craig@nydisabilitylaw.com",
+        "phone": "516 308-2013",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Turley",
+          "title": "Of Counsel",
+          "email": "William@nydisabilitylaw.com",
+          "phone": "631-518-6124",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Redmond",
+          "title": "Of Counsel",
+          "email": "Christopher@nydisabilitylaw.com",
+          "phone": "631-490-8090",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aimee Berlin",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaclyn Simmons",
+          "title": "Junior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

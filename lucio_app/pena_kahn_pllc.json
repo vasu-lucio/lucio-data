@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Pe\u00f1a & Kahn PLLC",
+    "website": "https://www.penakahn.com/",
+    "city": "Bronx",
+    "practice_areas": [
+      "Auto Accidents",
+      "Construction Site Accidents",
+      "Slip-and-Fall Accidents",
+      "Landlord Negligence",
+      "Police Brutality",
+      "Accidents at School"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Pe\u00f1a & Kahn, PLLC is a New York law firm founded by Jes\u00fas J. Pe\u00f1a and joined by Steven Kahn in 1998. The firm focuses on serving the community with a bilingual team of experienced attorneys in personal injury law.",
+    "notable_facts": [
+      "Over $1 billion recovered in settlements and verdicts",
+      "Over 7500 cases won",
+      "350+ years of combined experience amongst attorneys"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jes\u00fas J. Pe\u00f1a",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven Kahn",
+          "title": "Trial Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/stephen-b-kahn-2575ba56"
+        },
+        {
+          "name": "Jonathan O Michaels",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "L. David Rahmanan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew J. Ross",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

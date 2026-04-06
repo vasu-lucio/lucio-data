@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Menken Simpson & Rozger LLP",
+    "website": "https://nyemployeelaw.com",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Discrimination",
+      "Sexual Harassment",
+      "Wage and Hour",
+      "Wrongful Discharge",
+      "Whistleblowing",
+      "Contracts",
+      "Severance"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Menken Simpson & Rozger LLP is a NYC employment law firm that provides legal services for workers in the workplace, including employment discrimination, wage theft, sexual harassment, and retaliation. They represent individual employees and groups or classes.",
+    "notable_facts": [
+      "The firm was founded in 1998.",
+      "They have recovered significant judgments and settlements under statutes such as the Americans with Disabilities Act; Title VII of the Civil Rights Act; Sarbanes-Oxley Act; the Federal False Claims Act; and the Fair Labor Standards Act.",
+      "Partners Scott Simpson and Bruce Menken were named to the 2023 Lawdragon \u201c500 Leading Civil Rights & Plaintiff Employment Lawyers in America\u201d Guide."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bruce E. Menken",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Scott Simpson",
+        "title": "Partner",
+        "email": "ssimpson@nyemployeelaw.com",
+        "phone": "212-509-0314",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason J. Rozger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edwin Gonzalez",
+          "title": "Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

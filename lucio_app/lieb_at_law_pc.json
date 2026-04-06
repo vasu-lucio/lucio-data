@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Lieb at Law, P.C.",
+    "website": "https://www.liebatlaw.com/",
+    "city": "Smithtown",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Real Estate Brokerage and Regulatory Law",
+      "Employment and Whistleblower Law",
+      "Discrimination and Civil Rights",
+      "AI Compliance and Emerging Technology Litigation",
+      "Estate and Fiduciary Litigation",
+      "Plaintiff\u2019s Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lieb at Law, P.C. is a litigation and trial law firm recognized for handling high-profile cases for individuals, regional businesses, and publicly traded companies. The firm's trial attorneys handle complex cases in business, real estate, employment, discrimination, estate, and AI compliance law across NY, NJ, CT, and CO.",
+    "notable_facts": [
+      "Founded in 2008 by Attorney Andrew M. Lieb.",
+      "Attorneys are licensed to practice in New York, New Jersey, Connecticut, and Colorado.",
+      "Represents both plaintiffs and defendants."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew Lieb",
+        "title": "Managing Partner",
+        "email": "andrew@liebatlaw.com",
+        "phone": "(646) 216-8009",
+        "linkedin_url": "https://www.linkedin.com/in/andrew-lieb-mph-esq-7144175/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Claudia Cannam",
+        "title": "Associate Attorney",
+        "email": "claudia@liebatlaw.com",
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm handles AI Compliance and Emerging Technology Litigation including algorithmic bias and compliance."
+      },
+      "additional_contacts": [
+        {
+          "name": "Cheryl Berger",
+          "title": "Partner",
+          "email": "cheryl@liebatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mordy Yankovich",
+          "title": "Partner",
+          "email": "mordy@liebatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberly Morgan",
+          "title": "Senior Associate Attorney",
+          "email": "kimberly.johnson@liebatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Natalie Donaldson Esq.",
+          "title": "Senior Associate Attorney",
+          "email": "natalie@liebatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

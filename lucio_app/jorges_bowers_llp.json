@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Jorges & Bowers, LLP",
+    "website": "https://www.jorgesbowers.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate Law",
+      "Estate Planning",
+      "Administration of Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jorges & Bowers, LLP is a New York City law firm providing legal services in real estate and estate planning. They are committed to providing clients with an unparalleled level of responsiveness.",
+    "notable_facts": [
+      "The firm's attorneys have participated in thousands of real estate transactions with an aggregate value in excess of $5 billion.",
+      "Andrew C. Jorges has been selected to the Super Lawyers New York Metro Rising Stars list in the area of Real Estate Law and Business (2017-2022).",
+      "Both Andrew C. Jorges and Nicholas E. Bowers are licensed by the New York Department of State to teach continuing education courses in the field of residential and commercial real estate."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Andrew C. Jorges",
+          "title": "Founding Partner",
+          "email": "acj@jorgesbowers.com",
+          "phone": "212-768-0088, ext. 1",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas E. Bowers",
+          "title": "Founding Partner",
+          "email": "nb@jorgesbowers.com",
+          "phone": "212-768-0088, ext. 2",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paul A. Carlotto",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Judith E. Turkel",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard M. Forman",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle Charbonneau",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Wilkinson Stekloff",
+    "website": "https://www.wilkinsonstekloff.com/",
+    "city": "Washington",
+    "practice_areas": [
+      "High-stakes trials",
+      "Civil Litigation",
+      "Criminal Cases"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wilkinson Stekloff is a trial litigation boutique focused on winning high-stakes trials. They represent clients across the country in complex civil and criminal cases.",
+    "notable_facts": [
+      "The firm was named \"Trial Firm of the Year\" by Benchmark Litigation for the third consecutive year in 2026.",
+      "Beth Wilkinson was inducted into Benchmark's \"Hall of Fame\" in 2026.",
+      "The firm is celebrating its 10th anniversary in 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Beth Wilkinson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian L. Stekloff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cali Arat",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keri Arnold",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeremy Barber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

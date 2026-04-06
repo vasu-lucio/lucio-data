@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Golden Rothschild Spagnola Lundell Boylan Garubo & Bell P.C.",
+    "website": "https://grsl.com/",
+    "city": "Bridgewater",
+    "practice_areas": [
+      "General Liability",
+      "Construction",
+      "Professional Liability",
+      "Insurance Coverage",
+      "Workers\u2019 Compensation",
+      "Labor & Employment",
+      "Civil Rights",
+      "Asbestos/Toxic Tort",
+      "Mediation/ADR",
+      "Municipal / Traffic"
+    ],
+    "lawyer_count": 34,
+    "firm_description": "Golden Rothschild Spagnola Lundell Boylan Garubo & Bell P.C. is a New Jersey and New York law firm with over 50 years of experience defending clients. They offer associates the opportunity to gain hands-on litigation experience and exposure to the firm\u2019s diverse legal practice.",
+    "notable_facts": [
+      "GRSLBG&B has been defending clients for over 50 years.",
+      "The firm has offices in Bridgewater, New Jersey and New York, New York.",
+      "GRSLBG&B offers a hybrid-work model with the flexibility to work remotely."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert Golden",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": "Office Administrator",
+        "email": "Recruitment@grsl.com",
+        "phone": "908-722-6300",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nicholas Grau",
+          "title": "Workers' Compensation Department Head",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

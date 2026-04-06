@@ -1,0 +1,151 @@
+{
+  "firm_data": {
+    "firm_name": "Joseph Hage Aaronson LLC",
+    "website": "https://jhany.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Arbitration",
+      "Securities",
+      "RICO",
+      "Corporate and Contract Disputes",
+      "Credit Default Swaps",
+      "Derivatives",
+      "Class, Mass, and Derivative Actions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Joseph Hage Aaronson LLC (JHA) is a New York-based law firm specializing in complex commercial litigation and arbitration. The firm handles a range of disputes, including securities, RICO, corporate and contract disputes, credit default swaps, derivatives, and class, mass, and derivative actions, and also represents law firms in major disputes.",
+    "notable_facts": [
+      "Recognized as having a 'sweet spot' for big-dollar complex financial transactions.",
+      "Handles cases involving the Racketeer Influenced and Corrupt Organizations Act and securities claims, credit default swaps and derivatives.",
+      "The firm was described as one of 10 Best Law Firms in New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher J. Stanley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Courtney A. Solomon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mara Leventhal",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter R. Jerdee",
+          "title": "Partner",
+          "email": "pjerdee@jhany.com",
+          "phone": "+1 (212) 407-1240",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sandra M. Lipsman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin A. Taylor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roman Asudulayev",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rachel M. Cherington",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric K. Stodola",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory P. Joseph",
+          "title": "In Memoriam",
+          "email": "gjoseph@jhany.com",
+          "phone": "+1 (212) 407-1200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Honey L. Kober",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel N. Fraidin",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hon. Robert E. Gerber",
+          "title": "Of Counsel (USBJ Retired)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

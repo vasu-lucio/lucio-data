@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Fischetti & Pesce, LLP",
+    "website": "https://fandplaw.net/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Casualty Litigation",
+      "General Liability",
+      "Construction and Labor Law",
+      "Municipal Liability",
+      "Product Liability",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fischetti & Pesce, LLP specializes in casualty litigation, representing insurance companies and self-insured clients. They offer personalized legal representation with over a century of combined experience.",
+    "notable_facts": [
+      "The firm has over 100 years of combined experience.",
+      "They represent clients in New York, including Bronx, Brooklyn, Manhattan, Queens, Staten Island, Nassau County, Suffolk County, Westchester County, Orange County, Rockland County, and Erie County.",
+      "The firm retains a Legal Nurse Consultant for assistance in review of complicated medical records and for in-depth medical research."
+    ],
+    "technology_signals": [
+      "The firm works with various electronic billing systems including Serengeti, Bottom Line, LSS, Legal Exchange, Quovant, CounselLink and Wolters Kluwer (Collaboration Portal)."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank V. Pesce",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony M. Fischetti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michelle A. Gellman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Twomey, Latham, Shea, Kelley, Dubin & Quartararo, LLP",
+    "website": "https://www.suffolklaw.com/",
+    "city": "Riverhead",
+    "practice_areas": [
+      "Business and Corporate Law",
+      "Civil Litigation",
+      "Environmental Law",
+      "Estate Planning",
+      "Real Estate"
+    ],
+    "lawyer_count": 34,
+    "firm_description": "Twomey Latham is a full-service legal practice located in Suffolk County, providing legal services to a broad range of corporate and individual clients. The firm's multidisciplinary practice ensures that every client is well advised and provided with strong advocacy and attention counsel.",
+    "notable_facts": [
+      "Established in 1973.",
+      "Largest law firm in eastern Long Island.",
+      "The firm has five offices across Long Island (Riverhead, East Hampton, Hauppauge, Southampton and Southold)."
+    ],
+    "technology_signals": [
+      "Automated page speed optimizations for fast site performance"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephen B. Latham",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David M. Dubin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey W Pagano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathryn Dalli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bryan Drago",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

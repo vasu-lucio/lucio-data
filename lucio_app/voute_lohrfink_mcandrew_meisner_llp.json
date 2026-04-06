@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Vout\u00e9, Lohrfink, McAndrew & Meisner, LLP",
+    "website": null,
+    "city": "White Plains",
+    "practice_areas": [
+      "Litigation",
+      "Professional liability",
+      "Malpractice",
+      "Business litigation"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "Vout\u00e9, Lohrfink, McAndrew & Meisner, LLP has built an unsurpassed reputation for aggressive defense of professionals, corporations, municipalities, healthcare organizations and individuals in State and Federal courts in the New York metropolitan area. The depth and breadth of our litigation experience inspires the respect of clients, opposing counsel and judges alike.",
+    "notable_facts": [
+      "Firm has been operating for more than 60 years.",
+      "The firm defends professionals, corporations, and healthcare organizations.",
+      "The firm practices in State and Federal courts in the New York metropolitan area."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael N. Romano",
+        "title": "Managing Partner & Appellate Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/posts/michael-n-romano-4b099341_im-happy-to-share-that-i-have-started-a-activity-7288926913836777472-W6Bf"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles D. Lohrfink Jr.",
+          "title": "Senior Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark McAndrew",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian D. Meisner",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

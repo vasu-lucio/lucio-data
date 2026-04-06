@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "A.Y. Strauss, LLC",
+    "website": "https://www.aystrauss.com/",
+    "city": "Livingston",
+    "practice_areas": [
+      "Real Estate",
+      "Construction",
+      "Employment",
+      "Cannabis",
+      "Immigration",
+      "Family Law",
+      "Corporate Bankruptcy"
+    ],
+    "lawyer_count": 42,
+    "firm_description": "A.Y. Strauss provides legal counsel for commercial transactions and litigation. With the intellectual depth of a large firm and the personalized touch of a boutique, the firm\u2019s lawyers handle a broad variety of matters for emerging businesses, institutional clients, and high net worth individuals.",
+    "notable_facts": [
+      "Offices in Livingston, NJ and New York, NY",
+      "Founded in 2010"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Aaron Y. Strauss",
+        "title": "Managing Partner",
+        "email": "ays@aystrauss.com",
+        "phone": "973-287-3561",
+        "linkedin_url": "https://www.linkedin.com/in/aaronstrauss"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Sharon Swanson",
+        "title": "Executive Director of Business Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Audra Grosso",
+          "title": "Operations Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Effie Langberg",
+          "title": "Human Resources Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

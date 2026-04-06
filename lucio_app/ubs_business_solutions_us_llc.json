@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "UBS BUSINESS SOLUTIONS US LLC",
+    "website": null,
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "UBS BUSINESS SOLUTIONS US LLC is a legal firm, registered with the Office of Court Administration (OCA) of New York State Unified Court System.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Iris Chiu",
+          "title": "Managing Director And Head Of Global Banking Legal Americas",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/ubs/org-chart/iris-chiu"
+        },
+        {
+          "name": "John Burke",
+          "title": "Managing Director, Outside Counsel Management",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

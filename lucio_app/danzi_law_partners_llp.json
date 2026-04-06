@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Danzi Law Partners LLP",
+    "website": "https://danzilaw.com/",
+    "city": "Jericho",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Wrongful Death",
+      "Workplace Accidents",
+      "Motor Vehicle Accidents",
+      "Premises Liability"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Danzi Law Partners LLP is a team of dedicated trial lawyers who have been advocating in medical malpractice and wrongful death cases for more than three decades. The firm focuses exclusively on representing individuals who have sustained serious injuries or lost loved ones due to negligence.",
+    "notable_facts": [
+      "Attorneys at the firm have over 150 years of combined experience.",
+      "Achieved many multi-million-dollar verdicts and settlements for clients.",
+      "Robert F. Danzi earned an AV Preeminent rating from Martindale-Hubbell."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert F. Danzi",
+        "title": "Managing Partner",
+        "email": "bob@danzilaw.com",
+        "phone": "516-228-4226",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John R. Danzi",
+          "title": "Partner",
+          "email": "john@danzilaw.com",
+          "phone": "516-228-4226",
+          "linkedin_url": null
+        },
+        {
+          "name": "Linda M. Oliva",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine C. Coscia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joan M. Ferretti",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

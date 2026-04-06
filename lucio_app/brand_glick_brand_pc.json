@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Brand Glick & Brand, PC",
+    "website": "https://bgbfirm.com/",
+    "city": "East Meadow",
+    "practice_areas": [
+      "Litigation",
+      "Auto",
+      "Workers Comp",
+      "Premises Liability"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Brand Glick & Brand is a law firm of NJ & NY attorneys specializing in multiple areas of practice, including auto, workers comp, premises liability & more. Brand Glick Brand is your firm for ingenuity in trial work, relentless negotiation, and outstanding preparedness to ensure your success.",
+    "notable_facts": [
+      "The firm has two offices in New York.",
+      "The firm was founded on the principle that clients' needs come first."
+    ],
+    "technology_signals": [
+      "The firm uses juris, well, adobe, and microsoft."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Robert A. Glick",
+        "title": "Managing Partner",
+        "email": "rglick@bgbfirm.com",
+        "phone": "(516) 284-2220",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David W. Brand",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Costigan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/brand-glick-%26-brand"
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/brand-glick-&-brand"
+  },
+  "email": {}
+}

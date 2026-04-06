@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "BraunHagey & Borden LLP",
+    "website": "https://braunhagey.com/",
+    "city": "San Francisco",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Impact Litigation",
+      "Intellectual Property",
+      "Antitrust",
+      "Class Action Defense",
+      "Corporate Governance",
+      "Financial Fraud",
+      "Trade Secrets",
+      "Unfair Competition",
+      "Digital Assets",
+      "Securities Litigation",
+      "Founders\u2019 Disputes",
+      "Investor Litigation",
+      "Contested Bankruptcies",
+      "Economic and Social Justice",
+      "Human Rights",
+      "Environmental Cases"
+    ],
+    "lawyer_count": null,
+    "firm_description": "BraunHagey & Borden LLP is the nation\u2019s leading bi-coastal litigation boutique. We represent innovative businesses, entrepreneurs and investors in bet-the-company disputes across the country, and have a unique Impact Practice that helps protect underserved communities and causes in an array of civil and human rights disputes affecting millions of people.",
+    "notable_facts": [
+      "The firm was founded in 2009.",
+      "The firm has secured judgments and settlements exceeding several billion dollars, including multiple Top-100 national judgments.",
+      "Recognized as a Finalist for the 2025 AmLaw California Legal Awards for impact work.",
+      "Awarded the 2024 Father Cuchulain Moriarty Award for immigration justice by the Lawyers\u2019 Committee for Civil Rights of the San Francisco Bay Area."
+    ],
+    "technology_signals": [
+      "quickbooks",
+      "quickbooks online",
+      "impact",
+      "westlaw",
+      "microsoft",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "J. Noah Hagey",
+        "title": "Managing Partner & Co-founder",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Matthew Borden",
+          "title": "Partner & Co-founder",
+          "email": "borden@braunhagey.com",
+          "phone": "415-599-0212",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Ryan Hill",
+        "title": "Head Of Finance And Accounting",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Allison Roseman Hagey",
+          "title": "Head of IP & Hiring Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Spry",
+          "title": "Head Of Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

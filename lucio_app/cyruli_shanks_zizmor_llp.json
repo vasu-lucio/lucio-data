@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Cyruli Shanks",
+    "website": "https://www.cszlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Dealer Law",
+      "Corporate Law",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Cyruli Shanks delivers bold advocacy, dynamic thought, and pragmatic counsel, devoting personalized attention at favorable rates. The Firm is staffed with talented, innovative professionals, each possessing an unrelenting sense of purpose.",
+    "notable_facts": [
+      "The firm has a satellite office in New Jersey.",
+      "The firm represents institutional and publicly-traded landlords, REITS and asset managers, as well as privately-held concerns.",
+      "The firm has extensive experience in franchise issues and automotive litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert J. Cyruli",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard A Gilbert",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stuart T Bassel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brad R Becker",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Ruderman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

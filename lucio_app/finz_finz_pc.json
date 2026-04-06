@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Finz & Finz, P.C.",
+    "website": "https://finzfirm.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Product Liability"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Finz & Finz, P.C. is a full-service law firm that fights for maximum compensation in New York, assisting those who suffer tragic injuries through the neglect of others.",
+    "notable_facts": [
+      "Founded by former New York State Supreme Court Justice Leonard L. Finz in 1984.",
+      "Recognized as one of New York's most preeminent personal injury, medical malpractice and product liability law firms.",
+      "Obtained 4 of the top 20 personal injury settlements in New York in 2020."
+    ],
+    "technology_signals": [
+      "c",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Cheri Finz",
+        "title": "Partner and Managing Attorney",
+        "email": "cfinz@finzfirm.com",
+        "phone": "(516) 433-3000",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Leonard L. Finz",
+          "title": "Founder and Former NYS Supreme Court Justice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stuart L. Finz",
+          "title": "Partner, Trial Attorney, and CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd M. Rubin",
+          "title": "Partner and Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacquelin Finz",
+          "title": "Associate Attorney",
+          "email": "jfinz@finzfirm.com",
+          "phone": "(516) 433-3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brandon S. Finz",
+          "title": "Trial Attorney",
+          "email": "bfinz@finzfirm.com",
+          "phone": "(516) 433-3000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

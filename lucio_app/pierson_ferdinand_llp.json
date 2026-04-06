@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Pierson Ferdinand LLP",
+    "website": "https://pierferd.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Intellectual Property",
+      "Employment, Labor, and Benefits",
+      "Banking and Financial Services",
+      "FinTech and Blockchain",
+      "Government and Government Affairs",
+      "Private Equity and Venture Capital",
+      "Private Investment Funds",
+      "Securities",
+      "Broker-Dealer Regulation"
+    ],
+    "lawyer_count": 280,
+    "firm_description": "Pierson Ferdinand is a tech-driven, full-service law firm delivering outcomes and shared success for its global clients. The firm provides legal counsel and representation to clients worldwide from 25+ key markets in the US and UK.",
+    "notable_facts": [
+      "The firm was founded on legal innovation.",
+      "Pierson Ferdinand has a global presence, serving clients from 25+ key markets in the US and UK.",
+      "The firm achieved a 61% year-over-year increase in billings and 35% year-over-year headcount growth in 2025.",
+      "The firm is building a new type of law firm with automation and algorithms."
+    ],
+    "technology_signals": [
+      "The firm is tech-driven",
+      "The firm uses proprietary algorithms and practice management systems",
+      "The firm prioritizes technology and security when handling client matters",
+      "The firm embraces remote work"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Michael Pierson",
+        "title": "Co-Chairman",
+        "email": "michael.pierson@pierferd.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm is utilizing a technology-driven infrastructure and an AI-native model."
+      },
+      "additional_contacts": [
+        {
+          "name": "Joel Ferdinand",
+          "title": "Co-Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam M. Acosta",
+          "title": "Partner, Litigation Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel (Dan) M. Braude",
+          "title": "Partner, Litigation Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Finigan",
+          "title": "Partner, Corporate Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

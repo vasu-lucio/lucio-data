@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Harris Beach Murtha Cullina PLLC",
+    "website": "https://www.harrisbeachmurtha.com",
+    "city": "Pittsford",
+    "practice_areas": [],
+    "lawyer_count": 250,
+    "firm_description": "Harris Beach Murtha Cullina PLLC is a full-service law firm providing legal and professional services to clients across New York state, as well as nationally and internationally. The firm has grown to 250 attorneys across 17 locations.",
+    "notable_facts": [
+      "The firm was formed through the combination of Harris Beach PLLC and Murtha Cullina LLP.",
+      "Harris Beach is ranked as a BTI Elite law firm based on interviews of corporate counsel."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Brendan M. Palfreyman",
+        "title": null,
+        "email": "bpalfreyman@harrisbeachmurtha.com",
+        "phone": "(315) 214-2161",
+        "linkedin_url": null,
+        "ai_notes": "The firm launched an Artificial Intelligence Industry Team to assist clients with navigating the legal, ethical, regulatory and business challenges raised by AI. The team is comprised of more than a dozen attorneys and is led by Brendan M. Palfreyman, Timothy J. Plunkett, and Alan M. Winchester."
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher D. Jagel",
+          "title": "Chief Executive Officer",
+          "email": "cjagel@harrisbeachmurtha.com",
+          "phone": "(585) 419-8617",
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy J. Plunkett",
+          "title": "Senior Counsel",
+          "email": "tplunkett@harrisbeachmurtha.com",
+          "phone": "(914) 298-3004",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan M. Winchester",
+          "title": "Member",
+          "email": "awinchester@harrisbeachmurtha.com",
+          "phone": "(212) 313-5403",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

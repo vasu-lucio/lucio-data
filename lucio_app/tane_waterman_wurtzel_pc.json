@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Tane Waterman & Wurtzel, P.C.",
+    "website": "https://www.tww.nyc/",
+    "city": "New York",
+    "practice_areas": [
+      "Residential & Commercial Real Estate Transactions",
+      "Co-Op & Condominium Representation",
+      "Landlord & Tenant Representation",
+      "Commercial Litigation",
+      "Real Estate Litigation",
+      "Construction Law",
+      "Corporate Governance",
+      "General Business Representation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tane Waterman & Wurtzel, P.C., founded in 1992, provides legal representation to individuals and businesses throughout the five boroughs of New York City in real estate and business law matters. They handle commercial and residential real estate, including landlord-tenant issues, co-op and condominium matters, and construction law.",
+    "notable_facts": [
+      "Founded in 1992",
+      "Represents cooperatives and condominiums throughout the metropolitan area",
+      "Serves as general counsel to boards of directors and boards of managers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stewart Edward Wurtzel",
+          "title": "Founding Partner",
+          "email": "swurtzel@tww.nyc",
+          "phone": "(212) 766-4000",
+          "linkedin_url": null
+        },
+        {
+          "name": "David A. Tane",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Moshe Chaim Bobker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ethan Alan Sukonik",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jieman Tan",
+          "title": "Litigation Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew David Stern",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

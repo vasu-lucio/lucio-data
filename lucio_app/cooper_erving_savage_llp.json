@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Cooper Erving & Savage LLP",
+    "website": "https://coopererving.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Civil and commercial litigation",
+      "Trusts and estates planning",
+      "Real estate transactions",
+      "Labor and employment law",
+      "Personal injury actions",
+      "Banking and Creditor\u2019s Rights",
+      "Tax Certiorari",
+      "Real Property Litigation",
+      "Complex Commercial Litigation"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Cooper Erving & Savage LLP is a full-service law firm comprised of 15+ attorneys, headquartered in Albany, New York. Established in 1785, Cooper Erving represents businesses and non-profits, government entities and representatives, and individuals.",
+    "notable_facts": [
+      "The firm was founded in 1785, making it one of the oldest law firms in the country.",
+      "The firm has a 200-year history of legal success."
+    ],
+    "technology_signals": [
+      "box"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Caroline Lang",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Minniefield",
+          "title": "Partner",
+          "email": "Mminniefield@coopererving.com",
+          "phone": "518-449-3900",
+          "linkedin_url": "https://coopererving.com/matthew-e-minniefield/"
+        },
+        {
+          "name": "Carlo A C De Oliveira",
+          "title": "Partner",
+          "email": "cdeoliveira@coopererving.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

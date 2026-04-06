@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Margolin, Weinreb & Nierer LLP",
+    "website": "https://nyfclaw.com/",
+    "city": "Syosset",
+    "practice_areas": [
+      "Creditor\u2019s Rights Law",
+      "Appeals",
+      "Bank Closings",
+      "Bankruptcy Matters/Litigation",
+      "Deeds-In-Lieu of Foreclosure",
+      "Evictions/Eviction Litigation",
+      "Federal Mortgage Foreclosures",
+      "Mortgage Foreclosures/Foreclosure Litigation",
+      "REO Closings",
+      "Tax Lien Foreclosures/Tax Lien Litigation",
+      "Title Clearance/Litigation"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Margolin, Weinreb & Nierer, LLP is a boutique law firm that offers its clients comprehensive representation in all aspects of creditor\u2019s rights law throughout the States of New York and New Jersey. The firm\u2019s experienced attorneys and paralegals handle all matters expeditiously and efficiently\u2014making sure to keep our clients informed.",
+    "notable_facts": [
+      "Founded in 2013",
+      "Represents lenders, servicers, and investors",
+      "Provides counsel in New York and New Jersey"
+    ],
+    "technology_signals": [
+      "amp",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alan Weinreb",
+          "title": "Founding Partner",
+          "email": "info@nyfclaw.com",
+          "phone": "516-921-3838",
+          "linkedin_url": null
+        },
+        {
+          "name": "C. Lance Margolin",
+          "title": "Partner Emeritus and Director of Eviction and REO Services",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cynthia A. Nierer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

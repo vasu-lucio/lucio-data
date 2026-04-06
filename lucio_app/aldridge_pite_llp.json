@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Aldridge Pite, LLP",
+    "website": "https://aldridgepite.com/",
+    "city": "Atlanta, GA",
+    "practice_areas": [
+      "Mortgage Default",
+      "Real Estate",
+      "Bankruptcy",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 101,
+    "firm_description": "Aldridge Pite, LLP is a multi-state law firm offering services to depository and non-depository financial institutions. The firm's comprehensive mortgage default practice includes foreclosure, eviction proceedings, bankruptcy actions, REO property disposition, and commercial litigation.",
+    "notable_facts": [
+      "Offers services in Alabama, Alaska, Arizona, California, Florida, Georgia, Hawaii, Idaho, Maryland, Nevada, New Mexico, New York, Oregon, Tennessee, Texas, Utah, Virginia, Washington and Washington DC.",
+      "Utilizes technology to create workflow synergies with clients and business partners.",
+      "Employs a team of professionals devoted to loss mitigation solutions."
+    ],
+    "technology_signals": [
+      "Elite ProLaw",
+      "Font Awesome",
+      "jQuery Migrate",
+      "Microsoft Azure",
+      "JSON",
+      "PHP",
+      "GoDaddy"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "John G. Aldridge, Jr.",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "kenny Daniel",
+        "title": "COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeff Garrity",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jody Charbonnet",
+          "title": "IT PMO Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/aldridge-pite-llp"
+  },
+  "email": {}
+}

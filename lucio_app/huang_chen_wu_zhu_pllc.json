@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Huang, Chen, Wu & Zhu Pllc",
+    "website": null,
+    "city": "Flushing",
+    "practice_areas": [
+      "General Practice",
+      "Lawsuit & Dispute",
+      "Intellectual Property",
+      "Business"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Huang, Chen, Wu & Zhu Pllc is a law firm in Flushing, NY.",
+    "notable_facts": [
+      "The firm was established on December 4, 2019.",
+      "The firm's document number is 5666210."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ling Wu",
+          "title": "Attorney",
+          "email": "lingwuesq(a)gmail.com",
+          "phone": "(718) 886-5900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Song Chen",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(718) 886-5900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Xinyu Zhu",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Xue Jing Huang",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Liu",
+          "title": "Attorney",
+          "email": null,
+          "phone": "718-886-5900",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

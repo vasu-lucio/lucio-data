@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Klee Woolf Goldman & Filpi, LLP",
+    "website": "https://www.kleewoolflaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Accidents And Injuries",
+      "Social Security Disability",
+      "Litigation",
+      "Personal Injury"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Klee Woolf Goldman & Filpi, LLP, offers legal solutions for injured workers throughout New York State and Social Security Disability applicants in the tri-state area. They provide counsel, strategies, and personal service in every case.",
+    "notable_facts": [
+      "The firm has been serving clients since 2000.",
+      "They offer free consultations and evening appointments.",
+      "The firm can assist clients in 15 languages."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan Robert Klee",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "51*****524",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew Woolf",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Davin Goldman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea Elizabeth Filpi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven P. Glaser",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Kilpatrick Townsend & Stockton LLP",
+    "website": "http://kilpatricktownsend.com",
+    "city": "Atlanta",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Kilpatrick\u2019s management team is committed to driving innovative solutions that deliver value to our clients. Through our managing partners, department chairs, team leaders, and office managing partners, we seek to foster a collaborative environment that enhances our client and professional relationships through greater productivity, creativity, and efficiencies.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Roger D. Wylie",
+        "title": "Firm Managing Partner",
+        "email": null,
+        "phone": "206.516.3092",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Alexander Rahm IV",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": "404.815.6075",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Wab Kadaba",
+          "title": "Chair",
+          "email": null,
+          "phone": "404.532.6959",
+          "linkedin_url": null
+        },
+        {
+          "name": "Susan M. Spaeth",
+          "title": "Chief Legal Officer",
+          "email": null,
+          "phone": "650.324.6335",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brett A. Fazio",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": "310.966.4949",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,117 @@
+{
+  "firm_data": {
+    "firm_name": "Thomas, Drohan, Waxman & Petigrow LLP",
+    "website": "http://www.tdwpm.com/",
+    "city": "Hudson Valley",
+    "practice_areas": [
+      "Education Law",
+      "Municipal Law",
+      "Labor and Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Thomas, Drohan, Waxman & Petigrow LLP offers management-side legal services to educational, municipal and private clients throughout the Hudson Valley area. They frequently act as general counsel to educational institutions and represent clients in state and federal court matters.",
+    "notable_facts": [
+      "Represents educational institutions, municipal clients and employers in the Hudson Valley.",
+      "Acts as general counsel to educational institutions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stuart S. Waxman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Petigrow",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neelanjan Choudhury",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David H. Strong",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa N. Knapp",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven L. Banks",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allison E. Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pamela D. Bass",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James P. Drohan",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

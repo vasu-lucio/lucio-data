@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Parker Waichman LLP",
+    "website": "https://www.yourlawyer.com/",
+    "city": null,
+    "practice_areas": [
+      "Personal Injury",
+      "Mass Torts",
+      "Product Liability",
+      "Pharmaceutical Claims",
+      "Defective Medical Devices"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Parker Waichman LLP is a personal injury and mass torts law firm. They handle cases involving defective medical devices, pharmaceutical claims, and other product liability matters.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jerrold S. Parker",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Herbert L. Waichman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Annmarie George",
+          "title": "Law Firm Administrator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

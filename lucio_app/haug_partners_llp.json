@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Haug Partners LLP",
+    "website": "https://haugpartners.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust Litigation",
+      "Commercial Litigation",
+      "FDA Compliance",
+      "Intellectual Property",
+      "Licensing & Transactions",
+      "Trademarks & Unfair Competition"
+    ],
+    "lawyer_count": 37,
+    "firm_description": "Haug Partners has provided synthesized multidisciplinary legal services for life science and technology businesses for over 25 years. They deliver added value to their clients by assembling a multidisciplinary team tailored to each client\u2019s needs.",
+    "notable_facts": [
+      "Founded in 1997",
+      "Focuses on life science and technology businesses",
+      "Headquartered in New York, NY"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ed Haug",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Sandy Kuzmich",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Colletti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jon Gordon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ralph E. Labaton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

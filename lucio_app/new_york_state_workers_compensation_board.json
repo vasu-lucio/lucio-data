@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "New York State Workers' Compensation Board",
+    "website": "https://wcb.ny.gov/",
+    "city": "Albany",
+    "practice_areas": [
+      "Workers' Compensation Law",
+      "Disability Benefits",
+      "Paid Family Leave"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The New York State Workers\u2019 Compensation Board protects the rights of employees and employers by ensuring the proper delivery of benefits and by promoting compliance with the law. The Board administers workers' compensation, disability benefits and Paid Family Leave.",
+    "notable_facts": [
+      "The agency\u2019s operating expenses are not paid from tax revenue, but rather from assessments on employers.",
+      "The Board maintains district offices and service centers throughout New York State."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Steven Scotti",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Freida D. Foster",
+          "title": "Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Renee L. Delgado",
+          "title": "Vice Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Clarissa M. Rodriguez",
+          "title": "Former Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Bergin",
+          "title": "Board Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

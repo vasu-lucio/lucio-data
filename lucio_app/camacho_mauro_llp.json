@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Camacho Mauro, LLP",
+    "website": "https://www.cmmattorneys.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction",
+      "Premises Liability",
+      "Products Liability",
+      "Trucking and Transportation",
+      "Liquor Liability and Negligent Security",
+      "Employment Law",
+      "Insurance Coverage",
+      "Nursing Home Negligence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Camacho Mauro, LLP is an experienced and aggressive law firm dedicated to providing quality legal services in a cost-efficient manner. They treat their clients as partners by apprising them of all developments, promptly responding to their inquiries, serving their interests with the utmost trustworthiness and integrity, and working with them, as a team, to develop and execute common-sense strategies best suited to each individual case.",
+    "notable_facts": [
+      "The firm has offices in New York and New Jersey",
+      "The founding partners have over 35 years of experience in the private and public sector"
+    ],
+    "technology_signals": [
+      "RSS",
+      "Google Fonts API",
+      "JSON-LD",
+      "jQuery",
+      "Google Analytics",
+      "Nginx"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrea Sacco Camacho",
+          "title": "Partner",
+          "email": "Acamacho@cmmattorneys.com",
+          "phone": "212-947-4999",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher C. Mauro",
+          "title": "Partner",
+          "email": "Cmauro@cmmattorneys.com",
+          "phone": "609-436-5062",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Rusk, Wadlin, Heppner & Martuscello, LLP",
+    "website": "https://rwhm.com/",
+    "city": "Marlboro",
+    "practice_areas": [
+      "Personal Injury",
+      "Family Law",
+      "Divorce",
+      "Bankruptcy",
+      "Real Estate",
+      "Estates and Trusts",
+      "Commercial Litigation",
+      "Banking Law",
+      "Matrimonial Law",
+      "Elder Law",
+      "Municipal Law"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Rusk, Wadlin, Heppner & Martuscello, LLP is a general practice law firm serving the Hudson Valley since 1870, with offices in Kingston and Marlboro, Ulster County. The firm provides legal advice and representation in various practice areas.",
+    "notable_facts": [
+      "The oldest law firm in Ulster County, New York, established in 1870.",
+      "AV-rated law firm"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel J. Rusk",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Lori Guillon",
+        "title": "Administrator",
+        "email": "lguillon@rwhm.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel G. Heppner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John G. Rusk",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Rusk, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel M. Martuscello",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

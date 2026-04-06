@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Bikel Rosenthal & Schanfield, LLP",
+    "website": "https://bikellaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Matrimonial & Family Law",
+      "High Stakes Divorces",
+      "Custody & Divorce Trials",
+      "Hidden Assets & Forensic Accounting",
+      "Business Valuations",
+      "Prenuptial & Postnuptial Agreements",
+      "International Divorce",
+      "Interstate Divorce",
+      "LGBTQ+ Divorce",
+      "Domestic Violence",
+      "Spousal & Partner Agreements"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Bikel Rosenthal & Schanfield, LLP is a New York-based divorce and custody law firm that focuses on high conflict divorce and custody matters for new Yorkers who anticipate or anticipate an unusually difficult marital split. The firm's Manhattan-based trial attorneys are strategic, relentless, and built for high-stakes conflict.",
+    "notable_facts": [
+      "Founded in 2008",
+      "Focuses on high-conflict divorce and custody matters",
+      "Represents individuals with substantial assets, intricate business interests, and contested parental rights"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Karen B. Rosenthal",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/karen-b-rosenthal-esq-b4454318/"
+        },
+        {
+          "name": "Dror Bikel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/dror-bikel-esq-4690479/"
+        },
+        {
+          "name": "Naomi Schanfield",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eileen Gong",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "I\u200b\u200b\u200blana B. Sharan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maggie Revera",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Suzanna Neal",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

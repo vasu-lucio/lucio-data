@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "The Odierno Law Firm, P.C.",
+    "website": "https://o2law.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Personal Injury",
+      "No-Fault Benefits"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "The Odierno Law Firm, P.C. provides legal services for personal injuries in Long Island, with over four decades of experience helping wrongfully injured victims and their families. They also represent medical providers in obtaining no-fault benefits denied by insurance companies.",
+    "notable_facts": [
+      "The firm has over 150 years of combined experience.",
+      "They have recovered more than $300 million for injured clients.",
+      "Founded in 1978."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lee J. Odierno",
+          "title": "Long Island Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samantha U Whelpley",
+          "title": "Director Human Resources Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hardik Sevak",
+          "title": "Legal Operations Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

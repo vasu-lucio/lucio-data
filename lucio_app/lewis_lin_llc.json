@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Lewis & Lin LLC",
+    "website": "http://www.ilawco.com",
+    "city": "New York",
+    "practice_areas": [
+      "Internet Law",
+      "Domain Name Law",
+      "Trademark Law",
+      "Copyright Law",
+      "Defamation & Business Reputation",
+      "Fashion Industry Law",
+      "Licensing Agreements",
+      "Intellectual Property Litigation"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Lewis & Lin\u2019s practice focuses on the core legal needs of our Internet, Technology, and Entertainment clients and those who have a significant online presence. We have extensive knowledge in the legal issues affecting the Internet services industry, as well as in-depth experience representing companies and individuals with sophisticated Internet presences.",
+    "notable_facts": [
+      "Attorneys include a former in-house counsel to a major Internet domain registrar.",
+      "Attorneys include a former Trademark Examiner at the United States Patent & Trademark Office.",
+      "Attorneys include a former federal appeals court law clerk."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brett E. Lewis",
+          "title": "partner",
+          "email": "brett@iLawco.com",
+          "phone": "(347) 414-8601",
+          "linkedin_url": null
+        },
+        {
+          "name": "David D. Lin",
+          "title": "Partner",
+          "email": "david@iLawco.com",
+          "phone": "(718) 243-9325",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric C. Belanger",
+          "title": null,
+          "email": "eric@iLawco.com",
+          "phone": "(617) 947-1850",
+          "linkedin_url": null
+        },
+        {
+          "name": "GABRIELLA ePLEY",
+          "title": null,
+          "email": "gabriella@iLawco.com",
+          "phone": "(929) 387-4678",
+          "linkedin_url": null
+        },
+        {
+          "name": "Francisco Cabrera L\u00f3pez",
+          "title": null,
+          "email": "francisco@iLawco.com",
+          "phone": "(929) 387-4703",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

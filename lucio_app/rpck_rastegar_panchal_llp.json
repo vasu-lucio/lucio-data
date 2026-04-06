@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "RPCK Rastegar Panchal",
+    "website": "https://www.rpck.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Impact Investing",
+      "Social Enterprise",
+      "Private Equity",
+      "Family Office",
+      "Venture Capital",
+      "Emerging Company",
+      "Debt Finance",
+      "Corporate Law",
+      "Finance",
+      "M&A"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "RPCK Rastegar Panchal is an international boutique law firm focused on providing highly-tailored and innovative solutions to investors, entrepreneurs and growth enterprises around the world. The firm advises asset owners, fund managers, advisors, entrepreneurs, and mission-driven companies.",
+    "notable_facts": [
+      "Recognized as an early leader in the Impact Investing space",
+      "Featured in Chambers & Partners\u2019 Alternative Funds 2025 guide",
+      "Offices in New York City, Denver, and Vienna"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Chintan Panchal",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keyvan Rastegar",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Mark Javello",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alisa Friedman",
+          "title": "Controller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aaron Bourke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Teitelbaum",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

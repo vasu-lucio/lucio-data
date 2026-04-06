@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "O\u2019Connell & Aronowitz",
+    "website": "https://oalaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Accidents & Catastrophic Personal Injuries",
+      "Bankruptcy",
+      "Business Law & Transactions",
+      "Criminal Defense",
+      "Divorce | Family | Matrimonial",
+      "Health Law",
+      "Labor & Employment Law",
+      "Estate Planning and Elder Law"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "O\u2019Connell and Aronowitz is one of the area\u2019s oldest law firms, having first opened its doors with two attorneys in 1925. Since that time, the firm has grown to 30 attorneys and is one of the Capital Region\u2019s largest broad service firms with offices in Latham and Saratoga Springs.",
+    "notable_facts": [
+      "Firm opened in 1925.",
+      "Has the largest Lead Poisoning & Toxic Exposure department in upstate New York.",
+      "Has been at the forefront of precedent-setting federal and state litigation including successful representation of the hospital industry in two appeals before the United States Supreme Court."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Edward J. O\u2019Connell",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel E. Aronowitz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Laurie Springer Brandon",
+        "title": "COO O Connell And Aronowitz",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William F. Berglund",
+          "title": "Shareholder",
+          "email": null,
+          "phone": "(518) 462-5601",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kurt E. Bratten",
+          "title": "Shareholder",
+          "email": null,
+          "phone": "(518) 462-5601",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen R. Coffey",
+          "title": "Shareholder",
+          "email": null,
+          "phone": "(518) 462-5601",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

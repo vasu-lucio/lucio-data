@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Lundberg Price P.C.",
+    "website": "http://www.lp-pc.com/",
+    "city": "Jamestown",
+    "practice_areas": [
+      "Education Law",
+      "Municipal Law",
+      "Labor & Employment Law",
+      "Corporate Law",
+      "Civil Litigation",
+      "Wills & Estates",
+      "Estate Administration",
+      "Real Estate Transactions",
+      "Lake Property Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lundberg Price P.C. aims to satisfy the legal needs of their clients in a dedicated and ethical manner, maintaining trust and respect with individuals, corporations, school districts, and municipalities throughout Western New York.",
+    "notable_facts": [
+      "The firm was formed through a merger between Price Flowers Malin & Westerburg and Lundberg Law Offices.",
+      "The firm is active in the Jamestown community and its various charitable, cultural, and civic groups."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dana A. Lundberg",
+        "title": "Esq.",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Myra V. Blasius",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthea W. Ross",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen M. Abdella",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

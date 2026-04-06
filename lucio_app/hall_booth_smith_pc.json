@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Hall Booth Smith, P.C.",
+    "website": "https://hallboothsmith.com/",
+    "city": "Atlanta, Georgia",
+    "practice_areas": [],
+    "lawyer_count": 420,
+    "firm_description": "Hall Booth Smith, P.C. (HBS) is a full-service law firm headquartered in Atlanta, Georgia, with regional offices strategically located throughout Georgia and the United States. HBS prides itself on providing knowledgeable, proactive, client-specific counsel to individuals, domestic and international corporations, state and federal agencies, and nonprofit organizations.",
+    "notable_facts": [
+      "Established in 1989",
+      "Has more than 420 attorneys across 30+ offices in 13 states"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John E. Hall, Jr.",
+          "title": "Founding Partner",
+          "email": "jhall@hallboothsmith.com",
+          "phone": "404.954.6927",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex Booth",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rush Smith",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Juanita Kendall",
+        "title": "Chief Human Resources Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Hall traced the firm\u2019s evolution through a pivotal 1998 strategic shift that moved the practice away from individual profitability toward a collaborative, growth-oriented model. \u201cWhat could have been a setback became a catalyst,\u201d he noted, describing how the loss of a major client accelerated the firm\u2019s expansion rather than slowing it down.On technology, Hall drew a striking parallel: \u201cI often compare [AI] to the automobile in the late nineteenth century. Its full impact has yet to be realized, but its potential is transformative.\u201d He emphasized that the firm invests heavily in technology \u2014 including data center infrastructure \u2014 to work faster, think more deeply, and serve clients more effectively, while ensuring that innovation is implemented with discipline and responsibility."
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephanie Rodriguez",
+          "title": "Miami attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jake Evans",
+          "title": "Alpharetta Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

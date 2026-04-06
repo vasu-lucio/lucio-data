@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Wisselman Harounian Family Law",
+    "website": "http://lawjaw.com/",
+    "city": "Carle Place",
+    "practice_areas": [
+      "Family Law",
+      "Matrimonial Law",
+      "Estate Planning",
+      "Prenuptial Agreements"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wisselman Harounian Family Law is a New York family law firm that has been guiding clients through complex and sensitive matters for half a century. The firm is led by Jacqueline Harounian and is known for working with high net worth families.",
+    "notable_facts": [
+      "Firm was established in 1976",
+      "Recognized as a leader in the field of matrimonial and family law for nearly 50 years",
+      "Named Top Matrimonial Firm in 2025 by Long Island Business News",
+      "A+ rated by the Better Business Bureau"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jacqueline Harounian",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Karen Radoslovich",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Derrick A. Rubin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lloyd C. Rosen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan E. Trager",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

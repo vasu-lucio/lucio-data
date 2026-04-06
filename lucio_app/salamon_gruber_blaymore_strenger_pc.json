@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Salamon Gruber Blaymore & Strenger PC",
+    "website": "https://sgnblaw.com/",
+    "city": "Roslyn Heights",
+    "practice_areas": [
+      "Real Estate",
+      "Litigation",
+      "Corporate Law",
+      "Estate Planning"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Salamon, Gruber, Blaymore & Strenger PC is a law firm specializing in Real Estate, Litigation, Corporate law and Estate Planning. Their clients range from individuals and small businesses to major public corporations.",
+    "notable_facts": [
+      "Founded in 1966",
+      "Annual revenue of $16.3M"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sanford Strenger",
+          "title": "Partner",
+          "email": "sstrenger@sgnblaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael D. Blaymore",
+          "title": "Managing Partner",
+          "email": "mblaymore@sgnblaw.com",
+          "phone": "+1516625****",
+          "linkedin_url": "https://www.success.ai/profile/Michael-Blaymore-7898486896"
+        },
+        {
+          "name": "David Gruber",
+          "title": null,
+          "email": "dgruber@sgnblaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Gruber",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

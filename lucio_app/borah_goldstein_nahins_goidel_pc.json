@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Borah, Goldstein, Nahins & Goidel, P.C.",
+    "website": "https://www.borahgoldstein.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate Law",
+      "Rent Regulation/DHCR",
+      "Administrative Proceedings",
+      "Appellate Litigation",
+      "Supreme Court Litigation",
+      "Landlord/ Tenant and Eviction Proceedings",
+      "Bankruptcy",
+      "Judgment Enforcement and Collections",
+      "Cooperative And Condominium Law",
+      "Loft Law",
+      "Real Estate Transactions"
+    ],
+    "lawyer_count": 51,
+    "firm_description": "Borah, Goldstein, Nahins & Goidel, P.C., represents property owners and management companies in New York City and surrounding counties, providing advice regarding all aspects of real estate management and litigation. Their team of over 50 attorneys is dedicated to serving clients in a personal and professional manner, striving to find solutions to meet their individual needs.",
+    "notable_facts": [
+      "Recognized as pioneers in the real estate industry for over four decades.",
+      "Full-service Real Estate Firm.",
+      "Appears in front of all state and federal courts and administrative agencies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric M. Goidel",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": "855-720-2776",
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd I. Nahins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/todd-nahins-72431a8"
+        },
+        {
+          "name": "David R. Brody",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David B. Cabrera",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert D. Goldstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carlos Perez-Hall",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/wolferealtyservices"
+  },
+  "email": {}
+}

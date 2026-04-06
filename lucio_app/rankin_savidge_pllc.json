@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Rankin Savidge PLLC",
+    "website": "https://rankinsavidgelaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Alternate Dispute Resolution",
+      "First Party Claims",
+      "Premises Liability",
+      "Automobile Liability",
+      "General Liability Defense",
+      "Rental Vehicles",
+      "Commercial Transport",
+      "Insurance Coverage",
+      "UM/SUM and No-Fault"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rankin Savidge Law is a boutique insurance defense firm that has extensive experience representing clients in the defense of automobile and general liability claims.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Carolyn S. Rankin",
+        "title": "Partner",
+        "email": "crankin@rankinsavidgelaw.com",
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/carolyn-rankin-5a051b107"
+      },
+      "co_managing_partner": {
+        "name": "Edward J. Savidge",
+        "title": "Partner",
+        "email": "esavidge@rankinsavidgelaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John S. Meade IV",
+          "title": "Partner",
+          "email": "jmeade@rankinsavidgelaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian R. Kenney",
+          "title": "Partner",
+          "email": "bkenney@rankinsavidgelaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Russell A. Vogel",
+          "title": "Associate",
+          "email": "rvogel@rankinsavidgelaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,113 @@
+{
+  "firm_data": {
+    "firm_name": "Hunter Taubman Fischer & Li LLC",
+    "website": "https://htflawyers.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities",
+      "Litigation",
+      "Asia Practice",
+      "Business Immigration"
+    ],
+    "lawyer_count": 27,
+    "firm_description": "Hunter Taubman Fischer & Li LLC is a boutique corporate and securities law firm providing transactional and litigation services to small and medium sized companies, institutional investors and broker-dealers. They also have extensive experience handling cross border transactions between the U.S. and Asia, Latin America, the Middle East and Europe.",
+    "notable_facts": [
+      "Recognized as top small firm in the New York Chambers Spotlight 2025 Guide.",
+      "Promoted Warren Wang to Partner on Jul 1st '25."
+    ],
+    "technology_signals": [
+      "WordPress",
+      "Open Graph",
+      "Swiper",
+      "Ubuntu",
+      "Adobe Fonts",
+      "Yii",
+      "GoDaddy",
+      "Apache"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Guillaume De Sampigny",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Warren Wang",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sally Yin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jenny Johnson-sardella",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Margolis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fab\u00edola Bueno",
+          "title": "Director Of Client Relations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarai Bryant Stewart",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

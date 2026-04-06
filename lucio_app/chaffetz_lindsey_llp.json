@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Chaffetz Lindsey LLP",
+    "website": "https://www.chaffetzlindsey.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "International Arbitration"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Chaffetz Lindsey LLP is a litigation and international arbitration boutique based in New York. They represent clients in disputes before U.S. courts and arbitral tribunals around the world.",
+    "notable_facts": [
+      "Founded in 2009",
+      "Focuses on resolving client disputes in court or arbitration",
+      "Offers flexibility on fees and has limited conflicts"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter Chaffetz",
+          "title": "Founding Partner",
+          "email": "Email Peter",
+          "phone": "+1 212 257 6961",
+          "linkedin_url": null
+        },
+        {
+          "name": "James Hosking",
+          "title": "Founding Partner",
+          "email": "Email James",
+          "phone": "+1 212 257 6963",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Lindsey",
+          "title": "Founding Partner",
+          "email": "Email David",
+          "phone": "+1 212 257 6966",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cecilia Froelich Moss",
+          "title": "Founding Partner",
+          "email": "Email Cecilia",
+          "phone": "+1 212 257 6964",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles Scibetta",
+          "title": "Founding Partner",
+          "email": "Email Charles",
+          "phone": "+1 212 257 6962",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

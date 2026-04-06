@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Forchelli Deegan Terrana LLP",
+    "website": "https://www.forchellilaw.com/",
+    "city": "Uniondale",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Forchelli Deegan Terrana LLP is a full-service law firm with attorneys who are known problem solvers that develop innovative, practical solutions.",
+    "notable_facts": [
+      "Fifteen attorneys were named to 2026 The Best Lawyers in America and Best Lawyers: Ones to Watch in America Lists [forchellilaw.com](https://www.forchellilaw.com/announcements/fifteen-forchelli-deegan-terrana-llp-attorneys-named-to-2026-the-best-lawyers-in-america-and-best-lawyers-ones-to-watch-in-america-lists/)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey D. Forchelli",
+        "title": "Chairman of the Firm and Co-Managing Partner",
+        "email": "jforchelli@forchellilaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "John V. Terrana",
+        "title": "Co-Managing Partner",
+        "email": "jterrana@forchellilaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Judy Lynn Simoncic",
+          "title": "Deputy Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel P. Deegan",
+          "title": "Partner",
+          "email": "ddeegan@forchellilaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

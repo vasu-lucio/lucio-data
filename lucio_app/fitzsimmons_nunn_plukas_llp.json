@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Fitzsimmons, Nunn & Plukas, LLP",
+    "website": "https://fitznunn.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Personal Injury",
+      "Estate Planning",
+      "Real Estate Law",
+      "Criminal Law",
+      "Nursing Home Negligence",
+      "Medical Malpractice",
+      "Probate",
+      "Commercial Debt Collection",
+      "Guardianship"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fitzsimmons, Nunn & Plukas, LLP is a Rochester, NY law firm offering comprehensive legal services. They focus on personalized client representation and have been serving the community for over 80 years.",
+    "notable_facts": [
+      "The firm was founded in 1926.",
+      "They are purposefully small to ensure personal attention to each case.",
+      "A significant portion of their business comes from referrals from other lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John B. Fitzsimmons",
+          "title": "Owner",
+          "email": "johnfitz@fitznunn.com",
+          "phone": "(585) 546-5270",
+          "linkedin_url": "https://www.linkedin.com/in/john-fitzsimmons-5150328"
+        },
+        {
+          "name": "Mark Nunn",
+          "title": "Attorney",
+          "email": "marknunn@fitznunn.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard A. Plukas",
+          "title": "Attorney",
+          "email": "plukas@fitznunn.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason E. Abbott",
+          "title": "Attorney",
+          "email": "jabbott@fitznunn.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph R. Plukas",
+          "title": "Attorney",
+          "email": "josephplukas@fitznunn.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

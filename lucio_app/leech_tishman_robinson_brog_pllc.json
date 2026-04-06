@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Leech Tishman Robinson Brog PLLC",
+    "website": "https://www.leechtishman.com/",
+    "city": "Pittsburgh",
+    "practice_areas": [
+      "Business Restructuring & Insolvency",
+      "Corporate",
+      "Litigation",
+      "Real Estate",
+      "Aviation & Aerospace",
+      "Cannabis",
+      "Construction",
+      "Emerging Cyber Technologies",
+      "Energy & Natural Resources",
+      "Healthcare",
+      "Hospitality"
+    ],
+    "lawyer_count": 150,
+    "firm_description": "Leech Tishman is a full-service law firm dedicated to assisting individuals, businesses, and institutions, offering the value you expect and a thoughtful approach. With nearly 150 attorneys nationwide, you can expect their team whenever and wherever you need them.",
+    "notable_facts": [
+      "Robinson Brog attorneys joined Leech Tishman in 2022",
+      "The firm has offices in Chicago, Los Angeles, Philadelphia, Pittsburgh, Sarasota, and Washington, D.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Pete Fuscaldo",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "John Steiner",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mala Mason",
+          "title": "Chief People Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David V. Weicht",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harry J. Nelson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

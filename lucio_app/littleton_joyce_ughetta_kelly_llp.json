@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Littleton Joyce Ughetta & Kelly LLP",
+    "website": "https://littletonjoyce.com/",
+    "city": "Purchase",
+    "practice_areas": [
+      "Product Liability",
+      "Mass Tort",
+      "Insurance Coverage Litigation",
+      "Crisis Management",
+      "Labor & Employment Law",
+      "Commercial Disputes"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "Littleton Joyce Ughetta & Kelly LLP represents corporate clients in complex litigation across the country. The firm combines the attributes of a boutique with the ability to manage national cases for global corporations.",
+    "notable_facts": [
+      "The firm has seven offices in the U.S.",
+      "Kristen E. Dennison was named a BTI Client Service All-Star in 2025.",
+      "C. Scott Toomey received the BTI Client Service All-Star award in 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kristen E. Dennison",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "321-549-2855",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert W. Littleton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert L. Joyce",
+          "title": null,
+          "email": null,
+          "phone": "914-417-3412",
+          "linkedin_url": null
+        },
+        {
+          "name": "James C. Ughetta",
+          "title": null,
+          "email": null,
+          "phone": "914-417-3410",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert J. Kelly",
+          "title": null,
+          "email": null,
+          "phone": "732-530-9101",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael H. Bai",
+          "title": "Office Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

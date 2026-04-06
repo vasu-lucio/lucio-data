@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Adler & Stachenfeld LLP",
+    "website": "https://www.adstach.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Corporate",
+      "Finance",
+      "Litigation",
+      "Bankruptcy",
+      "Land Use",
+      "Leasing",
+      "Tax",
+      "Corporate Real Estate",
+      "International",
+      "Opportunity Zones"
+    ],
+    "lawyer_count": 50,
+    "firm_description": "Adler & Stachenfeld LLP is a law firm focused on real estate law. The firm represents clients throughout all levels of the equity and debt capital stacks in the real estate industry.",
+    "notable_facts": [
+      "The firm is known as The Pure Play in Real Estate Law.",
+      "A&S focuses on helping clients grow their real estate businesses.",
+      "The firm has a blue-chip client base, including NYC developers, investment funds, and public companies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Terri L. Adler",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(212) 692-5533",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bruce Stachenfeld",
+          "title": "Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Danielle Ash",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 692-5531",
+          "linkedin_url": null
+        },
+        {
+          "name": "YuhTyng Patka",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 692-5532",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric G. Menkes",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 692-5522",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/adler-and-stachenfeld-llp"
+  },
+  "email": {}
+}

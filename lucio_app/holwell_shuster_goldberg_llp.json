@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Holwell Shuster & Goldberg LLP",
+    "website": "https://hsgllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Financial Disputes",
+      "Securities",
+      "Antitrust",
+      "Bankruptcy"
+    ],
+    "lawyer_count": 70,
+    "firm_description": "Holwell Shuster & Goldberg is a litigation boutique specializing in the trial of complex commercial cases, with a particular focus on sophisticated financial, securities, antitrust, and bankruptcy-related disputes. The firm strives to provide the highest level of service by furnishing unparalleled judgment and offering fee arrangements that ensure complete alignment of interests between the firm and its clients.",
+    "notable_facts": [
+      "Founded in 2012 by Richard Holwell, Michael Shuster, and Daniel Goldberg.",
+      "Recognized as Benchmark Litigation\u2019s New York Law Firm of the Year and General Commercial Firm of the Year.",
+      "Selected as the nation\u2019s Top Firm for Pro Bono (with fewer than 100 attorneys) by Law360."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard J. Holwell",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel P. Goldberg",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Chris Vitale",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael S. Shuster",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dwight Healy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack Millman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

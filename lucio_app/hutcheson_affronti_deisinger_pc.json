@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Hutcheson, Affronti & Deisinger, P.C.",
+    "website": "https://hutchaffronti.com/",
+    "city": "Niagara Falls",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Hutcheson, Affronti, and Deisinger is a law firm located in Niagara Falls, New York.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin Vasquez Hutcheson",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Patrick Deisinger",
+          "title": "Attorney",
+          "email": "adeisinger(a)roachbrown.com",
+          "phone": "716.402.6099",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Ronald Affronti",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexis Lee Ackerson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

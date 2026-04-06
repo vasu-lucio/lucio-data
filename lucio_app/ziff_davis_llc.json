@@ -1,0 +1,116 @@
+{
+  "firm_data": {
+    "firm_name": "Ziff Davis",
+    "website": "https://www.ziffdavis.com/",
+    "city": null,
+    "practice_areas": [
+      "Technology",
+      "Shopping",
+      "Gaming & Entertainment",
+      "Health & Wellness",
+      "Connectivity",
+      "Cybersecurity",
+      "Martech"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ziff Davis is a vertically focused digital media and internet company whose portfolio includes leading brands in technology, shopping, gaming and entertainment, health and wellness, connectivity, cybersecurity, and martech. With over $3 billion of capital deployed on M&A, Ziff Davis\u2019 M&A success stems from our rigorous and analytical approach leveraging our deep industry knowledge, technological expertise and investment acumen.",
+    "notable_facts": [
+      "Ziff Davis has a systematic and repeatable acquisition program.",
+      "The company has deployed over $3 billion in M&A.",
+      "Ziff Davis reported $1.5B in revenue in FY 2025.",
+      "Ziff Davis completed 97 acquisitions from 2013 through 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vivek Shah",
+          "title": "President & Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bret Richter",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle Dvorkin",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Bye",
+          "title": "President, Connectivity",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steve Horowitz",
+          "title": "President, Technology & Shopping",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nate Simmons",
+          "title": "President, Cybersecurity & Martech",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Stone",
+          "title": "President, Everyday Health Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yael Prough",
+          "title": "President, Gaming & Entertainment",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

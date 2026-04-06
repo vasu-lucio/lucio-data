@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Fabiani Cohen & Hall, LLP",
+    "website": "https://fcllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Litigation",
+      "Insurance Litigation",
+      "Premises Liability",
+      "Products Liability",
+      "Commercial Transportation Liability",
+      "Professional Liability"
+    ],
+    "lawyer_count": 29,
+    "firm_description": "Fabiani Cohen & Hall, LLP is a mid-sized litigation law firm specializing in construction and insurance litigation, representing owners, developers, contractors, municipalities, and municipal corporations. The firm is known for its aggressive, result-oriented approach and provides counseling designed to assist in the prevention of future losses and litigation.",
+    "notable_facts": [
+      "The firm has an Accident Response Team available 24/7.",
+      "They have a satellite office in Connecticut in addition to their New York City office.",
+      "The firm's attorneys are actively engaged in litigation, from inception through trial and appeal."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stephen M. Cohen",
+          "title": "Partner",
+          "email": "cohens@fchllp.com",
+          "phone": "212.644.4420 ext: 240",
+          "linkedin_url": "https://www.linkedin.com/in/stephen-cohen-30184531"
+        },
+        {
+          "name": "John V. Fabiani",
+          "title": "Partner",
+          "email": "fabianij@fchllp.com",
+          "phone": "212.644.4420 ext: 235",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas J. Hall",
+          "title": "Partner",
+          "email": "hallt@fchllp.com",
+          "phone": "212.644.4420 ext: 240",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Aurilia",
+          "title": "Partner",
+          "email": "auriliap@fchllp.com",
+          "phone": "212.644.4420 ext: 388",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sandro Battaglia",
+          "title": "Partner",
+          "email": "battaglias@fchllp.com",
+          "phone": "212.644.4420 ext: 255",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

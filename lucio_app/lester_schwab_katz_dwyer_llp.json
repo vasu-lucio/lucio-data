@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Lester Schwab Katz & Dwyer",
+    "website": "https://lskdnylaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate",
+      "Commercial & Business Litigation",
+      "Complex Tort",
+      "Construction Defect & Labor Law",
+      "Copyright & Trademark",
+      "Employment & Labor Law",
+      "Environmental & Toxic Tort",
+      "Food Borne Illness",
+      "General Liability",
+      "Health, Life, Accident and Disability Insurance Services and Coverage Litigation",
+      "Marine & Cargo",
+      "Products Liability",
+      "Professional Liability",
+      "Property Loss and Subrogation",
+      "Retail & Hospitality",
+      "Trucking and Transportation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lester Schwab Katz and Dwyer was established in 1974 and has a reputation for high quality in litigation matters, remaining true to the ideals that have been the basis of their practice since its formation.",
+    "notable_facts": [
+      "Recognized as a leading defense firm by the judicial community, peers, and clients.",
+      "Selected as one of the top firms in the country in an American Lawyer survey based upon service, quality and value; the only defense firm in New York City to be given this recognition.",
+      "Defended notable cases such as the Empire State Building shooting and the Long Island Railroad shooting."
+    ],
+    "technology_signals": [
+      "Microsoft Office 365",
+      "Mimecast",
+      "Remote"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Michael McDonagh",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://rocketreach.co/lester-schwab-katz-dwyer-management_b5c6f1f1f42e0cd5"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "David Glicksman",
+        "title": "Director of Finance",
+        "email": "dglicksman@lskdnylaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tony Lee",
+          "title": "Director of Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberly Schirripa",
+          "title": "Equity Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.zoominfo.com/pic/lester-schwab-katz--dwyer-llp/68879593"
+        },
+        {
+          "name": "Jeffrey Aronwald",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.zoominfo.com/pic/lester-schwab-katz--dwyer-llp/68879593"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

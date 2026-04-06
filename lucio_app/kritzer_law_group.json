@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Kritzer Law Group",
+    "website": "https://www.kritzerlawgroup.com/",
+    "city": "Smithtown",
+    "practice_areas": [
+      "Insurance Defense Litigation",
+      "Business and Commercial Litigation",
+      "Appellate Advocacy",
+      "Automobile and Premises Liability Cases",
+      "General Liability Claims",
+      "Construction Accidents",
+      "New York State Labor Law Matters",
+      "Products Liability Cases",
+      "Professional Liability Claims",
+      "Trucking and Transportation Cases",
+      "Real Property Matters",
+      "Insurance Coverage Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kritzer Law Group provides defense representation, taking an aggressive approach while treating clients with respect. They offer personalized, professional, and effective legal representation.",
+    "notable_facts": [
+      "Located in Smithtown, Long Island, NY.",
+      "Represents clients in federal and state courts throughout downstate New York, including all five boroughs of New York City as well as Long Island and the upstate New York regions.",
+      "Represents insurance companies, risk management service companies, municipalities, corporations, common carriers, and self-insured entities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

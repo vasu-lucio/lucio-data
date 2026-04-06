@@ -1,0 +1,124 @@
+{
+  "firm_data": {
+    "firm_name": "Marin/Goodman LLP",
+    "website": "https://www.maringoodman.com/home",
+    "city": "Harrison",
+    "practice_areas": [
+      "Litigation",
+      "Transactional Law",
+      "Technology",
+      "Entertainment",
+      "Social Media",
+      "Licensing",
+      "Publishing",
+      "Financing",
+      "Distribution"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Marin/Goodman, LLP is committed to providing sophisticated and practical legal services in a cost-effective manner. We are a full-service litigation firm handling matters venued throughout New York State and New Jersey and manage national risks as coordinating, regional and local counsel.",
+    "notable_facts": [
+      "Provides concierge counsel to businesses and high net worth individuals.",
+      "Handles matters throughout New York State and New Jersey.",
+      "Manages national risks as coordinating, regional, and local counsel."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Richard P. Marin",
+        "title": "Senior Partner",
+        "email": "richardpmarin@maringoodman.com",
+        "phone": "(212)661-1151",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Fredric B. Goodman",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Russell S. Jamison",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander J. Drago",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott W. Epstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan C. Pitcairn",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rita Marin",
+          "title": "Of Counsel",
+          "email": "ritamarin@maringoodman.com",
+          "phone": "(212)661-1151",
+          "linkedin_url": null
+        },
+        {
+          "name": "David J. Novack",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine M. Delaney",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Terence W. Camp",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Diane H. Miller",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

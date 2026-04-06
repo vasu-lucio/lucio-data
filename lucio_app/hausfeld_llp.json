@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Hausfeld",
+    "website": "https://www.hausfeld.com/",
+    "city": "Washington, DC",
+    "practice_areas": [
+      "Antitrust / Competition",
+      "Commercial & Financial Disputes",
+      "Environmental & Product Liability",
+      "Human Rights",
+      "Technology & Data Breach"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hausfeld is a global law firm dedicated to providing results-oriented legal representation to businesses and individuals in antitrust, commercial and financial disputes, environmental and product liability, human rights, and technology and data breach matters.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael D. Hausfeld",
+          "title": "Chair Emeritus",
+          "email": "mhausfeld@hausfeld.com",
+          "phone": "+1 202 540 7200",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mary Sameera Van Houten Harper",
+          "title": null,
+          "email": "mvanhouten@hausfeld.com",
+          "phone": "+1 202 540 7383",
+          "linkedin_url": null
+        },
+        {
+          "name": "Emma Janson",
+          "title": null,
+          "email": "ejanson@hausfeld.com",
+          "phone": "+44 20 3096 7022",
+          "linkedin_url": null
+        },
+        {
+          "name": "Uchechi Durunna",
+          "title": null,
+          "email": "udurunna@hausfeld.com",
+          "phone": "+1 202 849 4144",
+          "linkedin_url": null
+        },
+        {
+          "name": "Shahrina Quader",
+          "title": null,
+          "email": "squader@hausfeld.com",
+          "phone": "+44 20 7645 5462",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

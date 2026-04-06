@@ -1,0 +1,125 @@
+{
+  "firm_data": {
+    "firm_name": "Rozario Touma, P.C.",
+    "website": "http://www.rozariolaw.com",
+    "city": "New York City",
+    "practice_areas": [
+      "Banking and Finance Litigation",
+      "Construction Litigation",
+      "Construction Contracts",
+      "Litigation/Trials",
+      "Real Estate",
+      "Real Estate/Commercial Transactions",
+      "Land Use Planning and Entitlements",
+      "Development",
+      "Commercial Leases",
+      "Acquisitions, Leasing, and Dispositions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rozario Touma, P.C., is a New York City-based full-service law firm founded in 2005. Our primary mission is to provide unparalleled client services.",
+    "notable_facts": [
+      "The firm serves individuals and businesses of all types and sizes, both in the private and public sectors.",
+      "The firm is a certified MBE and WBE."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Rovin R. Rozario",
+          "title": "Founding Partner, Chief Executive Officer",
+          "email": "rrozario@rozariolaw.com",
+          "phone": "212.301.2770",
+          "linkedin_url": null
+        },
+        {
+          "name": "Hiba Touma",
+          "title": "Founding Partner, Chief Operating Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Hiba Touma",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michele P. Rannie",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pamela Norbert",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Avinash Chokshi",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sasha M. Mesquita Kaczor",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Kais",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mieola Easter",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John H. Small",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

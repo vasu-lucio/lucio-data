@@ -1,0 +1,115 @@
+{
+  "firm_data": {
+    "firm_name": "Denlea & Carton, LLP",
+    "website": "https://denleacarton.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Media and Entertainment Disputes",
+      "Employment Law",
+      "Shareholder and Partnership Disputes",
+      "Corporate Litigation"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Denlea & Carton, LLP is a litigation boutique representing parties in complex, high stakes business disputes. They provide services in commercial litigation, media and entertainment disputes, employment law, shareholder and partnership disputes, and corporate litigation.",
+    "notable_facts": [
+      "Premier law firm in Westchester County",
+      "Founded in 2012"
+    ],
+    "technology_signals": [
+      "amp",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James R. Denlea",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey I. Carton",
+          "title": "Attorney",
+          "email": "[[email protected]]",
+          "phone": "(914) 331-0100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Catherine Friesen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Cepler",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Schoenfeld",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amber Wallace",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Kane",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chris Gallagher",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

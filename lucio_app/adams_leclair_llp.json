@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Adams Leclair LLP",
+    "website": "https://adamsleclair.law",
+    "city": "Rochester",
+    "practice_areas": [
+      "Litigation"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Adams Leclair LLP is a litigation law firm headquartered in Rochester, New York. They concentrate their practice in commercial and construction advocacy throughout upstate NY.",
+    "notable_facts": [
+      "The firm has two offices in the U.S.",
+      "In September 2019, Adams Leclair combined the talents of the construction litigation practitioners from Adams Bell Adams, PC and the experienced commercial litigators from Leclair Korona Cole LLP."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven E. Cole",
+        "title": "Managing Partner",
+        "email": "scole@adamsleclair.law",
+        "phone": "585 / 327.4108",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony J. Adams, Jr.",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel P. Adams",
+          "title": "Founding Partner",
+          "email": "dadams@adamsleclair.law",
+          "phone": "585 / 327.4160",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul L. Leclair",
+          "title": "Founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacey E. Trien",
+          "title": "Founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/adams-leclair-llp"
+  },
+  "email": {}
+}

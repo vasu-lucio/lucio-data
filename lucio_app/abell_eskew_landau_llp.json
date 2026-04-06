@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Abell Eskew Landau LLP",
+    "website": "https://aellaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "White Collar Criminal Defense",
+      "Healthcare Regulatory Counseling",
+      "Commercial and Civil Litigation",
+      "Internal Investigations",
+      "False Claims Act Cases"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Abell Eskew Landau LLP is a boutique law firm serving New York and New Jersey, focusing on white collar and healthcare matters. They are experts in parallel investigations and False Claims Act cases, with accomplished white collar criminal defense attorneys.",
+    "notable_facts": [
+      "Recognized by Chambers USA 2025 as a leading law firm for White Collar (NY and NJ), Healthcare (NY and NJ), and NY Real Estate Litigation.",
+      "Scott R. Landau was recognized as the 2026 \u201cLawyer of the Year\u201d in Health Care Law for New York City by Best Lawyers\u00ae."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Kenneth Abell",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Eskew",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Landau",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Heather Suchorsky",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jarrod L. Schaeffer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/abelleskewlandau",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Coughlin & Gerhart LLP",
+    "website": "https://cglawoffices.com/",
+    "city": "Binghamton",
+    "practice_areas": [],
+    "lawyer_count": 50,
+    "firm_description": "Coughlin & Gerhart, LLP is a multi-service law firm providing legal services regionally and across the State of New York. The firm has more than 50 active lawyers and a professional support staff.",
+    "notable_facts": [
+      "Founded in 1898",
+      "Offices in Binghamton, Ithaca, Owego, Bainbridge, Cortland, Hancock, Walton, NY, and Montrose, PA",
+      "Many lawyers selected for inclusion in Best Lawyers in America and Super Lawyers, Upstate New York Edition"
+    ],
+    "technology_signals": [
+      "Elite ProLaw",
+      "Cloudflare CDN",
+      "Facebook Pixel",
+      "RSS",
+      "LinkedIn",
+      "FedEx",
+      "Brightcove",
+      "WordPress Multisite"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Rachel A. Abbott",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Caroline Guiles",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meiying Z. Austin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brady L. Begeal",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey A. Brown",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

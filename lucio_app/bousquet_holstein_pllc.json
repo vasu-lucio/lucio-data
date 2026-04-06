@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Bousquet Holstein PLLC",
+    "website": "https://www.bhlawpllc.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Brownfields",
+      "Business and Commercial Law",
+      "Mergers and Acquisitions",
+      "Trusts and Estates",
+      "Real Estate"
+    ],
+    "lawyer_count": 58,
+    "firm_description": "Bousquet Holstein PLLC is a versatile law firm representing clients across many industries. The firm\u2019s clientele is comprised of businesses and individual clients for whom they provide legal advice and counsel on a broad range of matters covering more than 30 different practice areas.",
+    "notable_facts": [
+      "Firm has offices in Syracuse and Ithaca, New York.",
+      "The firm was founded by Larry Bousquet, Phil Bousquet, and David Holstein."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Laurence G. Bousquet",
+          "title": "Member & Board Of Managers",
+          "email": "lbousquet@bhlawpllc.com",
+          "phone": "315-701-6383",
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip S. Bousquet",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Lisa K. Bachar",
+        "title": "Director of Human Resources",
+        "email": "lbachar@bhlawpllc.com",
+        "phone": "315-701-6413",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan R. Katzoff",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tania S. Anderson",
+          "title": "Of Counsel",
+          "email": "tanderson@bhlawpllc.com",
+          "phone": "315) 701-6495",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

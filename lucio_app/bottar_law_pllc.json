@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Bottar Law, PLLC",
+    "website": "https://www.bottarlaw.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury",
+      "Workplace Accident",
+      "Dangerous Product",
+      "Wrongful Death"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bottar Law, PLLC, is a nationally recognized upstate New York law firm dedicated to the prosecution and trial of medical malpractice, workplace accident, dangerous product, severe personal injury and wrongful death cases. Since 1983, the firm has served clients throughout the State of New York and the northeast United States.",
+    "notable_facts": [
+      "The firm has a history of record recoveries, including one of the largest plaintiff\u2019s personal injury verdicts in New York State history ($47,700,000.00).",
+      "Bottar Law is the only law firm in central New York featured in Newsweek and TIME.",
+      "The firm is listed as \u201cfirst-tier\u201d for personal injury litigation in the best law firms edition of U.S. News and World Report."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anthony S. Bottar",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael A. Bottar",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "http://www.bottarleone.com/our-team/michael-a-bottar/"
+        },
+        {
+          "name": "Samantha C. Riggi",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward S. Leone",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bottar-leone-pllc"
+  },
+  "email": {}
+}

@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Dantzig & Zigman, P.C.",
+    "website": null,
+    "city": "Carle Place",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Dantzig & Zigman, P.C. is a law firm located in Carle Place, New York.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan E. Dantzig",
+          "title": null,
+          "email": "sdantzig(a)scohnlaw.com",
+          "phone": "(516) 294-6410",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan Scott Zigman",
+          "title": null,
+          "email": null,
+          "phone": "(516) 294-6410",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Cohn",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Thomas Feinman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitchell Robert Goldklang",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Togut, Segal & Segal LLP",
+    "website": "https://togutlawfirm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy",
+      "Corporate Reorganization",
+      "Fiduciary Representation",
+      "Creditors\u2019 Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Togut, Segal & Segal LLP is a highly specialized \u201cboutique\u201d law firm with a national reputation for excellence in bankruptcy, corporate reorganization, fiduciary representation, and creditors\u2019 rights. Established in 1980, the Togut Firm has extensive expertise in representing debtors, official committees, secured and unsecured creditors, and bankruptcy trustees in a variety of contexts, including in- and out-of-court restructurings.",
+    "notable_facts": [
+      "The firm was founded in 1980.",
+      "They have served as counsel in hundreds of bankruptcy cases, including LATAM Airlines, McClatchy Newspapers, Enron, Chrysler, GM, City of Detroit, Pacific Drilling, Toisa, Westinghouse, A\u00e9ropostale, SunEdison, Trident Healthcare, Frontier Airlines, Tronox, Dewey & LeBoeuf LLP, St. Vincent\u2019s Hospital, Rockefeller Center Properties, Ames Department Stores, Contimortgage and many more."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Albert Togut",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-594-5000",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Elizabeth Stevens",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John C. Gallego",
+          "title": "Associate",
+          "email": null,
+          "phone": "212-594-5000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda C. Glaubach",
+          "title": "Associate",
+          "email": null,
+          "phone": "212-594-5000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Oswald",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-594-5000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

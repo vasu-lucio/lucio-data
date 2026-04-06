@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Wang Hecker LLP",
+    "website": "https://www.wanghecker.com/",
+    "city": null,
+    "practice_areas": [
+      "Civil Rights Litigation",
+      "Employment Discrimination",
+      "Sexual Abuse and Assault",
+      "Police and Prisoner Abuse",
+      "Housing Discrimination",
+      "Education Law",
+      "Foster Care Abuse",
+      "Class Actions and Group Actions",
+      "Election Law",
+      "Workers\u2019 Rights",
+      "First Amendment",
+      "Commercial Litigation",
+      "Criminal Defense and Regulatory Investigations"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Wang Hecker LLP is one of the nation\u2019s premier civil rights litigation boutiques. We pursue justice for our clients against institutions, governments, and powerful individuals.",
+    "notable_facts": [
+      "Represented dozens of individuals victimized by Jeffrey Epstein.",
+      "Obtained a $53 million settlement on behalf of a class of pre-trial detainees and parolees placed in unlawful solitary confinement in New York City.",
+      "Founding Partners: Mariann Wang and Eric Hecker"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Mariann Meier Wang",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Hecker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexander Goldenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alice Goldman Reiter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Mullkoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather Gregorio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

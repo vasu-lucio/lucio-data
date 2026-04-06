@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Aswad & Ingraham, LLP",
+    "website": "https://www.ailaw.com/",
+    "city": "Binghamton",
+    "practice_areas": [
+      "Civil Litigation",
+      "Appellate Practice",
+      "Medical and Legal Malpractice Defense",
+      "Banking and Federal Credit Union Law",
+      "Commercial Transactions",
+      "Real Estate",
+      "Probate",
+      "Labor Relations",
+      "Administrative Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Aswad & Ingraham, LLP represents business, banking, institutional, and individual clients in a wide variety of legal matters, across New York State, and in Pennsylvania. Its focus is on obtaining the best results for its clients through advice, planning, negotiation and litigation when necessary.",
+    "notable_facts": [
+      "Maintains an AV rating from Martindale Hubbell Law Directory"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Charles O. Ingraham",
+          "title": "Retired",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard N. Aswad",
+          "title": "Partner",
+          "email": "dick.aswad@ailaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William M. Thomas",
+          "title": "Partner",
+          "email": "wm.thomas@ailaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberlee N. DeFazio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cosette G. Cole",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin"
+  },
+  "email": {}
+}

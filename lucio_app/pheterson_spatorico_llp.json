@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Pheterson Spatorico LLP",
+    "website": "http://www.psnlawgroup.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Real Estate",
+      "Civil Litigation",
+      "Personal Injury",
+      "Estate Planning",
+      "Business Services",
+      "Employment Law",
+      "Professional Liability Defense",
+      "Business Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pheterson Spatorico LLP is a Rochester-based law firm dedicated to providing high-quality legal services with a focus on experience, efficiency, and results. With over a century of combined legal experience, our attorneys and staff are committed to delivering strategic, cost-effective solutions tailored to each client\u2019s unique goals.",
+    "notable_facts": [
+      "The firm has been providing legal services to the citizens of New York State for more than 40 years.",
+      "The firm has over 100 years of combined legal experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Derrick A. Spatorico",
+        "title": "Managing Partner",
+        "email": "derrick@psnlawgroup.com",
+        "phone": "585-360-1219",
+        "linkedin_url": "https://www.linkedin.com/in/derrickspatorico"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven J. Pheterson",
+          "title": "Partner",
+          "email": "stevep@psnlawgroup.com",
+          "phone": "585-360-1203",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael D. Leess",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Lee",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

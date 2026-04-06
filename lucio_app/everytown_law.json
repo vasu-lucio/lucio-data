@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Everytown Law",
+    "website": "https://everytownlaw.org/",
+    "city": "New York",
+    "practice_areas": [
+      "Gun Safety Law",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Everytown Law is the largest and most experienced team of litigators in the country dedicated to advancing gun safety in the courts and through the civil and criminal justice systems. They provide free legal representation and advice to both individual and government clients across the country.",
+    "notable_facts": [
+      "Everytown Law has won major victories in cases against firearms manufacturers, distributors, and retailers.",
+      "The team has also successfully defended and helped defend many state and local gun safety laws against Second Amendment and preemption challenges.",
+      "Everytown\u2019s work to advance gun safety reaches all across the country, including lawsuits in federal and state courts in over 20 states and the District of Columbia."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Eric Tirschwell",
+        "title": "Executive Director and Chief Litigation Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alison Barnes",
+          "title": "Director, Affirmative Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Janet Carter",
+          "title": "Managing Director, Second Amendment Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alla Lefkowitz",
+          "title": "Managing Director, Affirmative Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Lowy",
+          "title": "Special Litigation Advisor",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://everytownlaw.org/person/jonathan-lowy/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

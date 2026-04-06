@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Coviello Weber & Dahill LLP",
+    "website": "https://cwdlaw.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Corporate Law",
+      "Litigation",
+      "Employment Law",
+      "Business and Corporate Transactions",
+      "Dispute Resolution"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Coviello Weber & Dahill LLP is a Chambers-ranked boutique law firm offering cost-efficient legal solutions. They focus on corporate, litigation, and employment law, providing a personalized approach to each client.",
+    "notable_facts": [
+      "Founded in 2022 by Gerald and Jeff Coviello, William Dahill, and Paul Weber",
+      "Located in The Exchange at Westchester, White Plains, NY",
+      "The firm's lawyers are particularly active in securities and investment-related litigation, bankruptcy-related litigation, and partnership and employment-related disputes."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gerald Coviello",
+        "title": "Co-Founder & Managing Partner",
+        "email": "gcoviello@cwdlaw.com",
+        "phone": "(914) 461-4348",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey Coviello",
+          "title": "Co-Founder & Partner",
+          "email": "jcoviello@cwdlaw.com",
+          "phone": "(914) 461-3332",
+          "linkedin_url": null
+        },
+        {
+          "name": "William Dahill",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Weber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

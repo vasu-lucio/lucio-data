@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Danziger & Markhoff LLP",
+    "website": "https://danzigermarkhoff.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Pension and employee benefits",
+      "ESOPs",
+      "Trusts and estates",
+      "Tax planning",
+      "Probate",
+      "Corporate law",
+      "Healthcare and professional practices"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Danziger & Markhoff LLP is a business and tax-oriented law firm in White Plains, New York that has been representing clients in the New York metropolitan area for over 45 years. The firm's core areas of practice are pension and employee benefits, ESOPs, trusts and estates and tax planning, probate, corporate law and healthcare and professional practices.",
+    "notable_facts": [
+      "The firm has a full-service pension administration department including four full-time enrolled actuaries.",
+      "The firm works closely with accountants and financial advisors using a team approach to identify clients' goals and produce practical and comprehensive business solutions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Harris Markhoff",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "914-948-1556",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Debbie Potash-turner",
+        "title": "CFO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Josh Levine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew E Roth",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Greg Tapfar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Danziger",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Hamilton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

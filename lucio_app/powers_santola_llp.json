@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Powers & Santola, LLP",
+    "website": "https://powers-santola.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Personal Injury",
+      "Construction Site Accidents",
+      "Car & Truck Accidents"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Powers & Santola, LLP is a preeminent medical malpractice and personal injury law firm devoted to representing individuals who have been severely injured or killed due to medical and hospital malpractice or negligence. The firm focuses on cases involving traumatic brain injury, spinal cord injuries, and failures in diagnosing cancer, and they have offices in Albany, Syracuse, and Rochester.",
+    "notable_facts": [
+      "Recognized as one of the nation\u2019s \u201cBest Law Firms\u201d by U.S. News and World Report and Best Lawyers.",
+      "Awarded a tier one ranking in Plaintiff\u2019s Medical Malpractice Law and Plaintiff\u2019s Personal Injury Litigation for the Albany, NY metropolitan area.",
+      "Founded in 1987."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John K. Powers",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "518-720-6188",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel R. Santola",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "518-720-6188",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kelly Wolford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Margie A. Soehl",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amber L. Wright",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Hutter Jr.",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole R. Tricchinelli",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

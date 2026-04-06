@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Katz Melinger PLLC",
+    "website": "https://katzmelinger.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Civil Litigation",
+      "Commercial Collections",
+      "Judgment Enforcement"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Katz Melinger PLLC is an experienced and highly respected employment law, civil litigation and business transactions firm in New York. Our attorneys take the time to listen to and build real connections with everyone we represent, striving to provide an honest assessment of the legal and practical aspects of each client's needs.",
+    "notable_facts": [
+      "The firm was founded in 2012.",
+      "The firm represents employees in New York and New Jersey in employment law matters.",
+      "The firm also represents businesses and commercial creditors in commercial collections and judgment enforcement matters in NY/NJ."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kenneth J. Katz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "212-460-0047",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nicole D. Grunfeld",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam J. Sackowitz",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine Morales",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jarret Bodo",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael W. Melinger",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

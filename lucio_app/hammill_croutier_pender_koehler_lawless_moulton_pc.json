@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Hammill Croutier Pender Koehler Lawless & Moulton, P.C.",
+    "website": "https://hcpklaw.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "General Litigation",
+      "Premises Liability",
+      "Labor Law",
+      "Auto Accidents",
+      "Product Liability",
+      "Appellate Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hammill Croutier Pender Koehler Lawless & Moulton, P.C. is a general civil litigation law firm located in Long Island, New York. The firm was founded in 1890 and adopted its present name in the year 2023.",
+    "notable_facts": [
+      "The firm was founded in 1890.",
+      "The firm adopted its present name in 2023.",
+      "The firm specializes in trial and appellate practice in all New York federal and state courts in the five boroughs of New York City and the surrounding counties."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William J. Croutier, Jr.",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael J. Pender",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard C. Koehler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul D. Lawless",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca J. Moulton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anton Piotroski",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia A. Donohoe",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

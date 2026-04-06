@@ -1,0 +1,60 @@
+{
+  "firm_data": {
+    "firm_name": "Jaroslawicz & Jaros, PLLC",
+    "website": "https://jaroslawiczandjaros.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accidents",
+      "Slip & Fall",
+      "Construction Accidents",
+      "Medical Malpractice",
+      "Insurance Law",
+      "Sexual Harassment",
+      "Employment Law",
+      "Litigation & Appeals"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Jaroslawicz & Jaros, PLLC is a New York-based personal injury law firm. They handle matters ranging from personal injury and medical malpractice to construction and commercial litigation.",
+    "notable_facts": [
+      "The firm was founded by David Jaroslawicz and Abraham Jaros.",
+      "David Jaroslawicz has argued cases before the United States Supreme Court and the New York State Court of Appeals.",
+      "Abraham Jaros secured the first $1 million and $2 million verdicts in Sullivan and Albany Counties, respectively, in medical malpractice cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Jaroslawicz",
+        "title": "Partner",
+        "email": "dj@lawjaros.com",
+        "phone": "212-227-2780",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Abraham Jaros",
+        "title": "Partner",
+        "email": "ajaros@lawjaros.com",
+        "phone": "917.842.9544",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

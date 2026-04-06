@@ -1,0 +1,110 @@
+{
+  "firm_data": {
+    "firm_name": "Palermo Law, P.L.L.C.",
+    "website": "https://palermolawyers.com/",
+    "city": "Long Island",
+    "practice_areas": [
+      "Assault",
+      "Back and Neck Injuries",
+      "Bicycle Accidents",
+      "Birth Defects",
+      "Brain Injuries",
+      "Burn Injuries",
+      "Car Accidents",
+      "Catastrophic Injuries",
+      "Complex Regional Pain Syndrome",
+      "Construction Accidents",
+      "Distracted Driving",
+      "Dog Bites",
+      "Drunk Driving Accident Victims",
+      "Fractures",
+      "Hit and Run Accident Victims",
+      "Hospital Errors",
+      "Lacerations",
+      "Liquor Liability Injuries",
+      "Medical Malpractice",
+      "Motorcycle Accidents",
+      "No-Fault Insurance Claims",
+      "Nursing Home Neglect",
+      "Pedestrian Accidents",
+      "Personal Injury",
+      "Scooter & E-Bike Accidents",
+      "Slip Trip & Fall Accidents",
+      "Soft Tissue Injuries",
+      "Truck Accidents",
+      "Workers Comp",
+      "Wrongful Death"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Palermo Law was built by Steven Palermo based on firsthand experience as an injured person navigating the insurance system. Today, that firsthand experience guides Steven and the entire Palermo Law team in representing injured people throughout Long Island and the surrounding communities.",
+    "notable_facts": [
+      "Over $75 million recovered for injured clients.",
+      "Over 400 five-star Google reviews.",
+      "Recognized as Best of Long Island."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven Palermo",
+        "title": "Esq.",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Edward Palermo",
+        "title": "Esq.",
+        "email": null,
+        "phone": "(631) 265-1052",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher Palermo",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Courtney Troyan",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Riley Perry",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Maragno",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

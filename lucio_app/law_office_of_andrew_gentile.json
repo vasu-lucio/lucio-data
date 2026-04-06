@@ -1,0 +1,48 @@
+{
+  "firm_data": {
+    "firm_name": "Gentile & Tambasco",
+    "website": "https://www.lawyer.com/andrew-gentile.html",
+    "city": "Melville",
+    "practice_areas": [
+      "General Practice"
+    ],
+    "lawyer_count": 1,
+    "firm_description": "Gentile & Tambasco is a general practice law firm.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew James Gentile",
+        "title": "Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

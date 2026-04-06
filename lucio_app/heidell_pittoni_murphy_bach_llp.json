@@ -1,0 +1,127 @@
+{
+  "firm_data": {
+    "firm_name": "Heidell Pittoni Murphy & Bach LLP",
+    "website": "https://hpmb.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical liability",
+      "Product liability",
+      "Healthcare law",
+      "Civil rights law",
+      "General and commercial litigation",
+      "Appellate Services",
+      "Education Law",
+      "Tax Law",
+      "Employment Law",
+      "Labor Law"
+    ],
+    "lawyer_count": 85,
+    "firm_description": "Heidell, Pittoni, Murphy & Bach, LLP is widely regarded as one of the premier mid-sized law firms in the Northeast, with offices in New York and Connecticut. Our firm provides a full range of litigation, counseling and appellate services to our clients.",
+    "notable_facts": [
+      "Client base includes Fortune 500 companies as well as small and medium-sized corporations, drug and medical device manufacturers, major university medical centers and community hospitals, insurance companies, municipalities, educational institutions, professionals, entrepreneurs and retailers.",
+      "Acquired Thorn Gershon Tymann and Bonanni"
+    ],
+    "technology_signals": [
+      "Google Tag Manager",
+      "Outlook"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Scott Dolsky",
+        "title": "IT Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gabriella Ruggiero",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denise Holzka",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Mcnamara",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen Ryan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hayley Newman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mccallion Campbell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Dlugacz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas G",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Silvia Durri Manashirov",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

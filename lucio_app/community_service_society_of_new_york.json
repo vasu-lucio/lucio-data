@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Community Service Society of New York",
+    "website": "https://cssny.org/",
+    "city": "New York",
+    "practice_areas": [
+      "Health Care",
+      "Housing",
+      "Employment",
+      "Consumer Debt Assistance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Community Service Society of New York (CSS) has worked with and for New Yorkers since 1843 to promote economic opportunity and champion an equitable city and state. Through a strategic combination of data-driven research, direct services, and people-driven advocacy, we ensure New Yorkers have the power to create change in their lives and the life of our city and state.",
+    "notable_facts": [
+      "Founded in 1843",
+      "Advocates for equitable access to fundamental rights and opportunities",
+      "Works with community members, activists, volunteers, government officials, and grassroots organizations"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David R. Jones",
+        "title": "President and Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Steven L. Krause",
+        "title": "Executive Vice President and Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rob LoBue",
+          "title": "Director of Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara Gribbon",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "M. Dean Bradley",
+          "title": "Vice President for Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alia Winters",
+          "title": "Vice President, Digital Strategy",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

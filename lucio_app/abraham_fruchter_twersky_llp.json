@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Abraham, Fruchter & Twersky, LLP",
+    "website": "https://aftlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Litigation",
+      "Corporate Law",
+      "Unfair Trade Practices",
+      "Shareholder Derivative Litigation",
+      "Litigation under ERISA",
+      "Consumer Class Action"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Abraham, Fruchter & Twersky, LLP is a law firm that provides case analysis, investigation, and extensive knowledge of securities, corporate, and unfair trade practices law. They represent global investors and protect pensions for teachers, firefighters, police officers, and front-line workers across the nation.",
+    "notable_facts": [
+      "The firm represents global investors.",
+      "They protect pensions for public sector workers.",
+      "The firm has recovered 20% of maximum provable damages in Liberty Capital Group, Inc. v. Kongzhong Corporation, which is well in excess of the average recovery of 2-3% of damages in securities fraud litigation."
+    ],
+    "technology_signals": [
+      "Microsoft Office",
+      "Adobe",
+      "Adobe Acrobat",
+      "Westlaw",
+      "Microsoft",
+      "Well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey S. Abraham",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack G. Fruchter",
+          "title": "Founding Partner",
+          "email": "jfruchter@aftlaw.com",
+          "phone": "(212) 279-5050",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitchell M.Z. Twersky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Klein",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Atara Hirsch",
+          "title": "Director of Institutional Investor Services",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/abraham-fruchter-&-twersky-llp"
+  },
+  "email": {}
+}

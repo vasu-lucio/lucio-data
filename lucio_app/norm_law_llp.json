@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Norm Law, LLP",
+    "website": "https://www.normlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Investment Funds",
+      "Regulatory",
+      "Private Equity",
+      "Venture Capital",
+      "Private Credit"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Norm Law is an AI-native law firm built for global institutional clients. The firm uses AI agents designed by legal engineers to produce first-draft outputs for legal tasks.",
+    "notable_facts": [
+      "Norm Law is powered by Norm Ai.",
+      "Blackstone has invested in Norm Ai and collaborates with Norm Law.",
+      "Norm Law focuses on financial services and highly regulated clients."
+    ],
+    "technology_signals": [
+      "AI-native law firm",
+      "Uses AI agents for legal tasks",
+      "Legal Engineering approach"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Norm Law utilizes AI agents developed by Norm Ai, leveraging legal engineers to embed legal expertise into these agents. Ben Lawsky, Troy A. Paredes, Tom Glocer, and Dan Berkovitz are on the Legal AI Committee."
+      },
+      "additional_contacts": [
+        {
+          "name": "Mike Schmidtberger",
+          "title": "Chairman, Partner, Head of Investment Funds and Regulatory",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike Rupe",
+          "title": "Partner, Head of Private Credit",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Sorin",
+          "title": "Partner, Head of Private Equity and Venture Capital",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Batya Nadler",
+          "title": "Partner, Investment Funds",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

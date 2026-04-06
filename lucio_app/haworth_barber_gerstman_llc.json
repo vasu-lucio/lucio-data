@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Haworth Barber & Gerstman, LLC",
+    "website": "https://www.hbandglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trial and Litigation",
+      "Product Liability",
+      "Construction Litigation",
+      "Fire and Explosion Matters",
+      "Catastrophic Injury Cases",
+      "Recall Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Haworth Barber & Gerstman, LLC is a boutique trial and litigation law firm. We service national and international manufacturers, retailers and the telecom industry as well as numerous insurance carriers and third-party administrators at both the primary and excess levels.",
+    "notable_facts": [
+      "The firm services national and international manufacturers, retailers and the telecom industry.",
+      "The firm represents insurance carriers and third-party administrators at both the primary and excess levels."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Scott Haworth",
+        "title": "Managing Partner",
+        "email": "shaworth@hbandglaw.com",
+        "phone": "212.952.1101",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Tracy Caruso",
+        "title": "Director of Administration",
+        "email": "TCARUSO@HBANDGLAW.COM",
+        "phone": "212-952-1102",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry L. Gerstman",
+          "title": "Partner",
+          "email": "bgerstman@hbandglaw.com",
+          "phone": "212.952.1103",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard E. Barber",
+          "title": "Partner",
+          "email": "rbarber@hbandglaw.com",
+          "phone": "201.831.1402",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

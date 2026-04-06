@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Hinman Straub P.C.",
+    "website": "http://www.hinmanstraub.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Health Law",
+      "Health Insurance",
+      "Life Insurance",
+      "Financial Planning",
+      "Labor and Employment",
+      "Education",
+      "Government Relations",
+      "Tax Law",
+      "Corporate Transactions",
+      "Real Estate",
+      "Not For Profits",
+      "Trusts & Estates",
+      "Insurance",
+      "Healthcare",
+      "Compliance",
+      "Corporate Law",
+      "Commercial Real Estate",
+      "Estates and Financial Planning",
+      "Government Relations/Lobbying",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hinman Straub P.C. provides a comprehensive array of legal and government relations services. Located in the heart of New York State Government, they offer clients a wide range of practice expertise.",
+    "notable_facts": [
+      "For more than 80 years, Hinman Straub has been a leader in providing legal and government relations services.",
+      "Many of their professionals have previously held high-level positions in New York state and local government, state agencies and organizations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Fredric Bodner",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Carr",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bartley J. Costello III",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Doolan",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip Dunne",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

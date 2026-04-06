@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Eagan & Heimer",
+    "website": "https://www.eaganheimer.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Medical Malpractice Law",
+      "Insurance defense litigation",
+      "Nursing home negligence",
+      "Personal injury",
+      "Professional liability",
+      "Employment law"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Eagan & Heimer aspires to provide comprehensive and innovative legal services while building long-term relationships with clients based on reciprocity and trust. Our clients can rely on our depth of trial experience and work ethic to find solutions for their unique legal needs.",
+    "notable_facts": [
+      "Founded in 2020",
+      "Ranked Tier 2 in Buffalo for Medical Malpractice Law - Defendants by Best Law Firms"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "James E. Eagan",
+        "title": "Partner",
+        "email": "jeagan@eaganheimer.com",
+        "phone": "716.427.0091",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lauren A. Heimer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

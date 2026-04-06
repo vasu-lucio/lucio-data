@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Rappaport, Glass, Levine & Zullo LLP",
+    "website": "https://rglzlaw.com/",
+    "city": "Islandia",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Rappaport, Glass, Levine & Zullo LLP is a personal injury law firm serving Suffolk County and the greater Long Island community since 1968. They are committed to making a positive difference in the lives of their clients.",
+    "notable_facts": [
+      "The firm was founded in 1968.",
+      "They concentrate in personal injury claims.",
+      "They offer free case review services."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Levine",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Christopher Glass",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Murphy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Zullo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Glass",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Margaret Nicosia",
+          "title": "Marketing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

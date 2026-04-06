@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Milberg LLP",
+    "website": "https://www.milberg.com/",
+    "city": "San Juan, Puerto Rico",
+    "practice_areas": [
+      "Class Action Lawsuits",
+      "Commercial Litigation",
+      "Consumer Protection",
+      "Antitrust",
+      "Securities",
+      "Financial Fraud",
+      "Automobile Emissions Claims",
+      "Defective Drugs and Medical Devices",
+      "Environmental Litigation",
+      "Cyber Law and Security",
+      "Information Technology Litigation",
+      "Data Breach Litigation",
+      "Biometrics Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Milberg is a global law firm challenging corporate wrongdoing through class action, mass tort, consumer protection, and shareholder rights litigation. For over 50 years, Milberg has protected victims\u2019 rights and recovered over $50 billion for clients.",
+    "notable_facts": [
+      "Recovered over $50 billion for clients",
+      "Pioneered federal class action litigation",
+      "Recognized as a leader in defending the rights of victims of corporate wrongdoing"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary Klinger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Lietz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Oldnall",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Cardington",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Polly Blenkin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

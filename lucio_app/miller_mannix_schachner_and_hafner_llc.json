@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Miller, Mannix, Schachner & Hafner, LLC",
+    "website": "https://www.millermannix.com/",
+    "city": "Glens Falls",
+    "practice_areas": [
+      "Title Insurance",
+      "Tax Assessment Challenges",
+      "Real Estate",
+      "Property Disputes",
+      "Project Development, Zoning & Environmental",
+      "Municipal Law & Finance",
+      "Litigation Appeals",
+      "Labor & Employment",
+      "Estate Planning",
+      "Contracts & Agreements",
+      "Civil Litigation",
+      "Business Services"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "The MILLER, MANNIX, SCHACHNER & HAFNER law firm was established in Glens Falls, New York in 1963. Since that time, we have always focused on providing exceptional legal service in a professional yet unpretentious manner.",
+    "notable_facts": [
+      "Established in 1963"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark Schachner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert H. Hafner",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": "518-793-6611",
+          "linkedin_url": "https://www.linkedin.com/in/robert-hafner-0b9a068a"
+        },
+        {
+          "name": "Glen T. Bruening",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Reichenbach",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Hill",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

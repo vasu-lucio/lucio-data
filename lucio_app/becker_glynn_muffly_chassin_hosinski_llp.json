@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Becker, Glynn, Muffly, Chassin & Hosinski LLP",
+    "website": "https://www.beckerglynn.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "General Counsel and Corporate Advisory",
+      "Commercial Finance",
+      "Cross-Border Transactions and Foreign Investment",
+      "Mergers and Acquisitions",
+      "Litigation",
+      "Private Client Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Becker Glynn is a full-service law firm located in New York City that has helped clients navigate the complexities of U.S. and global business for over 50 years, providing the personal attention of boutique practices with the specialized services of larger firms.",
+    "notable_facts": [
+      "The firm was officially founded on July 1, 1987, as Becker, Glynn & Melamed, tracing its roots to Fox Glynn & Melamed, founded in May 1968.",
+      "Becker Glynn combines domestic and international practice, representing clients in a wide range of industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard N. Chassin",
+          "title": "Head of Department",
+          "email": null,
+          "phone": "+1 212 888 3033",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jesse T. Conan",
+          "title": "Member",
+          "email": "[email protected]",
+          "phone": "+1 212 888 3033",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robin L. Alperstein",
+          "title": "Member",
+          "email": "[email protected]",
+          "phone": "+1 212 888 3033",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan E. Stern",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bonnie Klugman",
+          "title": "Executive Compensation Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/becker-glynn-melamed-&-muffly-llp",
+    "linkedin_size": "51-200"
+  },
+  "email": {}
+}

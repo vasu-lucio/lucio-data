@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Baker Leshko Saline & Drapeau, LLP",
+    "website": "https://bakerleshko.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Personal Injury Law",
+      "Real Estate",
+      "Commercial Matters",
+      "New York Workers\u2019 Compensation Law",
+      "Social Security Disability Law",
+      "ERISA/Employee Benefits"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Baker Leshko Saline & Drapeau, LLP is a small law firm providing effective and accessible legal services to individuals and businesses in White Plains, New York. They offer a breadth of legal experience in various areas of law.",
+    "notable_facts": [
+      "The firm prides itself on being affordable, accessible, and effective.",
+      "They take the time to listen to clients and delve deeply into the nuances of each case."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mitchell J. Baker",
+          "title": "Partner",
+          "email": null,
+          "phone": "914.681.9500 Ext. 1002",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary L. Leshko",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony \u201cChris\u201d Saline",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen A. Drapeau",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Betsy Gilbride DeSoye",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine Wendle",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cheryl Zeidman",
+          "title": "Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/askbio"
+  },
+  "email": {}
+}

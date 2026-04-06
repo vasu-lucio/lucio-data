@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Silva Thomas PC",
+    "website": "http://www.silvathomas.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Divorce",
+      "Matrimonial Law",
+      "Family Law",
+      "Child Support",
+      "Child Custody",
+      "Pre-marital Agreements",
+      "Post Nuptial Agreements",
+      "Spousal Support (Alimony)",
+      "Paternity Proceedings",
+      "Mediation",
+      "Same-Sex Divorce",
+      "Cohabitation Agreements",
+      "Enforcement and Contempt Proceedings"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Silva Thomas PC is a matrimonial and family law firm headquartered in New York City with offices in Westchester and Long Island. The firm is recognized as one of the largest women owned law firms in New York State.",
+    "notable_facts": [
+      "One of the largest women-owned law firms in New York State.",
+      "Offers in-house team of forensic accountants with CFE certification.",
+      "Specializes in complex business and financial assets in divorce litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michele Silva",
+          "title": "Founder",
+          "email": "info@silvathomas.com",
+          "phone": "+1 212 920 6464",
+          "linkedin_url": "https://www.linkedin.com/in/michele-silva-4b87aa3"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

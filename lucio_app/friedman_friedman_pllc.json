@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Friedman & Friedman PLLC, Attorneys at Law",
+    "website": "https://www.friedman-law.com",
+    "city": "Garden City",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Child Custody",
+      "Child Support",
+      "Alimony",
+      "Fathers\u2019 Rights",
+      "Matrimonial Law",
+      "Commercial Litigation",
+      "Corporate Law",
+      "Civil Litigation"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Friedman & Friedman PLLC is known for their diligence in family law, representing clients throughout Westchester County and Long Island. The firm provides creative and effective solutions to complex legal and business problems.",
+    "notable_facts": [
+      "The firm was founded by Sari M. Friedman.",
+      "The firm has been serving clients since 1971 (under different names, with the current name since 1984).",
+      "The firm has locations in Long Island and Westchester County."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrea B. Friedman",
+        "title": "Westchester Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Sari M. Friedman",
+        "title": "Long Island Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Crystal S. Pannell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laraib Butt",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Moran",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

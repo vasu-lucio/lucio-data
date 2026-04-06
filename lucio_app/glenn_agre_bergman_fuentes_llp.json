@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Glenn Agre Bergman & Fuentes",
+    "website": "https://www.glennagre.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy, Restructuring & Distressed Debt",
+      "Complex Commercial Litigation",
+      "White-Collar"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Glenn Agre Bergman & Fuentes was founded in 2021 by a tight-knit group of lawyers. They are recognized for delivering exceptional results and being a trusted legal advisor for their clients.",
+    "notable_facts": [
+      "The firm was founded in 2021.",
+      "The firm is recognized by Benchmark Litigation, Best Lawyers, Chambers & Partners, Lawdragon, Legal 500, and Octus."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew K. Glenn",
+        "title": "Managing Partner",
+        "email": "aglenn@glennagre.com",
+        "phone": "212.970.1601",
+        "linkedin_url": "https://people.equilar.com/bio/person/andrew-glenn-glenn-agre-bergman--fuentes-llp/54982954"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Megan M. Reilly",
+        "title": "Director of Administration & Special Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jed I. Bergman",
+          "title": "Partner; Chair of the Litigation Department",
+          "email": "jbergman@glennagre.com",
+          "phone": "212.970.1603",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "The Raine Group",
+    "website": "https://raine.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Mergers and Acquisitions",
+      "Private Capital Raising",
+      "Strategic Advisory",
+      "Growth Equity & Venture Capital",
+      "Next-Generation Communications"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Raine Group is a global merchant bank focused on the technology, media, and telecommunications industries. They provide insights, guidance and transaction execution to TMT companies ranging from earlier stage to large corporations.",
+    "notable_facts": [
+      "The firm drives acquisition strategies and creates attractive exit opportunities for clients.",
+      "They assist emerging companies to formulate global growth strategies.",
+      "They identify emerging trends and source attractive investment opportunities.",
+      "They drive growth through active involvement and strategic guidance.",
+      "They create strategic partnerships and exit opportunities through the integrated platform"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joe Ravitch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeff Sine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Alfred (A.J.) Chianese",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin Linker",
+          "title": "Managing Partner, Next-Gen Communications",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gordon Rubenstein",
+          "title": "Managing Partner, Raine Ventures",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Satin",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Renee Risher",
+          "title": "Chief Compliance Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

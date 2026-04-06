@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Kelley Drye & Warren LLP",
+    "website": "https://kelleydrye.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation & Dispute Resolution",
+      "Regulatory & Government Affairs",
+      "Corporate & Business Law",
+      "Privacy & Data Security",
+      "Employment & Labor Law",
+      "Real Estate & Land Use",
+      "Bankruptcy & Restructuring"
+    ],
+    "lawyer_count": 350,
+    "firm_description": "Kelley Drye & Warren LLP is an AmLaw 200 law firm with more than 350 lawyers and other professionals. They provide experienced legal counsel in business, regulatory, and litigation matters.",
+    "notable_facts": [
+      "Founded in 1836",
+      "Offices in New York, Washington, D.C., Chicago, Houston, Los Angeles, San Diego, Parsippany, and Stamford",
+      "Acquired Jackson Gilmour & Dobbs in 2016"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dana Rosenfeld",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Ralph Allen",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Courtney Spence",
+          "title": "Director Of Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott W. Doyle",
+          "title": "Partner",
+          "email": null,
+          "phone": "(202) 342-8845",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kate Stoddard",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

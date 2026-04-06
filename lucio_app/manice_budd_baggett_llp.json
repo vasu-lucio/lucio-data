@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Manice Budd & Baggett LLP",
+    "website": "https://manicebudd.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Estate Planning",
+      "Estate & Trust Administration",
+      "Fiduciary Litigation & Dispute Resolution",
+      "Estate Charitable Giving & Non-Profit Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Manice Budd & Baggett LLP focuses on thoughtful and customized family wealth planning and wealth preservation. Our goal is to serve all of the firm\u2019s clients and their families for generations.",
+    "notable_facts": [
+      "Guiding multi-generational estate planning for over 50 years.",
+      "Specializing in discreet resolutions to preserve family and commercial relationships."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nancy Lau",
+        "title": "Trust Administration & Office Management",
+        "email": "nlau@manicebudd.com",
+        "phone": "212 418 0531",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Charles D. Manice",
+          "title": "Partner",
+          "email": "cmanice@manicebudd.com",
+          "phone": "212 418 0567",
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine L. Baggett",
+          "title": "Partner",
+          "email": "kbaggett@manicebudd.com",
+          "phone": "212 418 0575",
+          "linkedin_url": null
+        },
+        {
+          "name": "Imaan Moughal",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Savitree Latchman",
+          "title": "Trust Administration & Legal Assistance",
+          "email": "slatchman@manicebudd.com",
+          "phone": "212 418 0501",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sandra L. Alberts",
+          "title": "Fiduciary Accountant",
+          "email": "salberts@manicebudd.com",
+          "phone": "212 418 0531",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

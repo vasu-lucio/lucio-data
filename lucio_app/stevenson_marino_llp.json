@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Stevenson Marino LLP",
+    "website": "https://stevensonmarino.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Commercial Law",
+      "Discrimination / Harassment / Retaliation",
+      "Class and Collective Action Litigation",
+      "Wage and Hour Litigation",
+      "Restrictive Covenants",
+      "Employment Litigation",
+      "Employment Counseling",
+      "Maritime Law",
+      "Business Disputes",
+      "Insurance Coverage",
+      "Environmental Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Stevenson Marino LLP delivers elite, responsive, cost-efficient legal services tailored to each client\u2019s needs. They offer a full suite of legal services, including representing individuals and organizations in complex commercial disputes, class and collective actions, as well as counseling them through periods of rapid growth.",
+    "notable_facts": [
+      "The firm uses the latest technologies to streamline processes for their clients.",
+      "Attorneys are admitted to New York, New Jersey, and Connecticut bars."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "J.R. Stevenson",
+          "title": "Partner",
+          "email": "jrs@stevensonmarino.com",
+          "phone": "212.939.7588",
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin R. Marino",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.939.7227",
+          "linkedin_url": "https://www.linkedin.com/in/justin-marino-13ba925"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

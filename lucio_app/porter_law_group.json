@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Porter Law Group",
+    "website": "https://porterprotects.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Personal Injury Law",
+      "Medical Malpractice",
+      "Auto Accidents",
+      "Construction Site Accidents",
+      "Motorcycle Accidents",
+      "Truck Accidents",
+      "Failure to Diagnose",
+      "Birth Injuries",
+      "Defective Products",
+      "Asbestos",
+      "Mesothelioma",
+      "Dog Bites/Attacks",
+      "Burn Injuries",
+      "Nursing Home Abuse",
+      "Slip and Fall Accidents",
+      "Veterans Hospital Malpractice"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Porter Law Group is a Legal Services company specializing in personal injury law. They have consistently achieved top recoveries for individuals who suffered serious personal injury and other financial loss.",
+    "notable_facts": [
+      "Founded in 2009",
+      "Located in Syracuse, New York",
+      "The firm's mission is to provide clients the very best in service and results with core values of integrity, service, and attention to detail.",
+      "The firm employs 10 people.",
+      "Mike and Eric crossed paths representing different parties in a complex personal injury case and joined forces to build the firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael S. Porter",
+        "title": "Founder, Managing Partner",
+        "email": "mporter@porterlawteam.com",
+        "phone": "315.477.9913",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Eric C. Nordby",
+        "title": "Co-Founder, Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Maureen Wagner",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mary E. Langan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey M. Narus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marla E. Raus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aaron J. Ryder",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew P. Germain",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,65 @@
+{
+  "firm_data": {
+    "firm_name": "Starkman Barristers",
+    "website": "http://starkmanbarristers.com/",
+    "city": "Toronto",
+    "practice_areas": [
+      "Real Estate Litigation",
+      "Civil Litigation",
+      "Business Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Starkman Barristers offers creative litigation solutions for real estate, civil, and business disputes in Toronto and Markham.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Paul Starkman",
+        "title": "Lawyer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tracy Pearce",
+          "title": "Law Clerk",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carmela Santoro",
+          "title": "Legal Assistant",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

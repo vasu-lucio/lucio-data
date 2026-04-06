@@ -1,0 +1,142 @@
+{
+  "firm_data": {
+    "firm_name": "William Schwitzer & Associates, PC",
+    "website": "https://wsatlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Construction Site Accidents",
+      "Motor Vehicle Accidents",
+      "Aviation Accidents",
+      "Ferry Boat Accidents"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "William Schwitzer & Associates is dedicated to protecting the rights of the injured against insurance companies and big corporations. They represent people who have suffered catastrophic injuries through no fault of their own and have recovered hundreds of millions of dollars for their clients.",
+    "notable_facts": [
+      "The firm has achieved some of the largest verdicts in the State of New York and throughout the nation.",
+      "William Schwitzer obtained FOUR of the top verdicts in the State of New York in 2017.",
+      "Other personal injury law firms go to William Schwitzer & Associates to have Mr. Schwitzer handle their client\u2019s injury cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John C. Merlino",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William Schwitzer",
+          "title": "Founder and Senior Partner",
+          "email": null,
+          "phone": "(212) 683-3800",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexandra Kuropatkin",
+          "title": null,
+          "email": "ale***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandro Centrone",
+          "title": null,
+          "email": "ale***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barry Semel-weinstein",
+          "title": null,
+          "email": "bar***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cassandra Lopez",
+          "title": null,
+          "email": "cas***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chris Drake",
+          "title": null,
+          "email": "chr***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Damaso Gonzalez",
+          "title": null,
+          "email": "dam***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denise Nolasco",
+          "title": null,
+          "email": "den***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denisse Ceballos",
+          "title": null,
+          "email": "den***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dwayne t Williams",
+          "title": null,
+          "email": "dwa***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eileen Altamar",
+          "title": null,
+          "email": "eil***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Pumarejo-martin",
+          "title": null,
+          "email": "fra***@wsatlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

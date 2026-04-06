@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Aguilar Bentley LLC",
+    "website": "https://aguilarbentley.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Corporate Investigations",
+      "Employment Law",
+      "Insurance Litigation",
+      "Alternative Dispute Resolution"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Aguilar Bentley LLC is a boutique commercial litigation firm located in New York City and New Jersey. The firm\u2019s mission is simple: to obtain the best possible results for our clients.",
+    "notable_facts": [
+      "Certified as a women\u2019s business enterprise by The Women\u2019s Business Enterprise National Council (WBENC).",
+      "Offers litigation-related services to corporate and individual clients throughout the country and around the world."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Anna Aguilar",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Bentley",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa Bentley",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "212-835-1521",
+          "linkedin_url": "https://www.linkedin.com/in/lisa-bentley-61114a63"
+        },
+        {
+          "name": "Anna Aguilar",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "212-835-1521",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

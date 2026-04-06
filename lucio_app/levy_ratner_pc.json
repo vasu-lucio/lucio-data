@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Levy Ratner PC",
+    "website": "https://levyratner.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Discrimination",
+      "Wage and Hour",
+      "Sexual Harassment",
+      "Employment / Separation Agreements",
+      "Labor Representation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Levy Ratner has been protecting and advancing employee rights for 50 years. They seek equal treatment and fair pay for their clients, whether in traditional industries like healthcare, financial services, academia and hospitality, or emerging ones, such as technology and robotics.",
+    "notable_facts": [
+      "Represent labor unions whose memberships total more than half a million workers.",
+      "Actively committed to evolving their practice to meet the demands of the changing workplace.",
+      "Founded in 1971."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard Levy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel J. Ratner",
+          "title": null,
+          "email": "dratner@levyratner.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica I. Apter",
+          "title": null,
+          "email": "japter@levyratner.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan J. Barbur",
+          "title": null,
+          "email": "rbarbur@levyratner.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allyson L. Belovin",
+          "title": null,
+          "email": "abelovin@levyratner.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

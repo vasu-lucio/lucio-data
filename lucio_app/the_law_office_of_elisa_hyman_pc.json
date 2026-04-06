@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Office of Elisa Hyman, P.C.",
+    "website": null,
+    "city": "New York",
+    "practice_areas": [
+      "Special Education",
+      "Disability Discrimination",
+      "Civil Rights"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "The Law Office of Elisa Hyman, P.C. is a law practice providing affordable special education legal services to parents of children with special needs and young adults in New York City. They represent families in impartial hearings, appeals and in individual civil rights and class action cases in federal court challenging systemic policies and inequities in the public education system.",
+    "notable_facts": [
+      "Provides no-cost-up front and pro bono legal services.",
+      "Elisa Hyman has 34 years of experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Elisa Hyman",
+          "title": "Owner",
+          "email": "ehyman(a)specialedlawyer.com",
+          "phone": "(646) 572-9064",
+          "linkedin_url": "https://www.linkedin.com/in/elisa-hyman-86b35510"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Caraline Grace Mikkelsen",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jean M Lucasey",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anishah Aftab Cumber",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara E. Frankel",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

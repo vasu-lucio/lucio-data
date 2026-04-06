@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Nicolini, Paradise, Ferretti & Sabella, PLLC",
+    "website": "https://npfslaw.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Liability",
+      "Insurance",
+      "Subrogation",
+      "Fraud",
+      "Appeals"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Nicolini, Paradise, Ferretti & Sabella, PLLC, was established in 1987 and is an AV-rated New York law firm representing individuals, insurance carriers, self-insureds and third-party administrators. The firm handles cases in the State Supreme Court, the Civil Court of the City of New York, the District Courts of Nassau and Suffolk County, and the United States District Courts for the Eastern and Southern Districts of New York.",
+    "notable_facts": [
+      "Established in 1987",
+      "AV-rated firm",
+      "Represents individuals, insurance carriers, self-insureds and third-party administrators"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John R. Ferretti",
+          "title": "Partner",
+          "email": "jferretti@npfslaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vince A. Sabella",
+          "title": "Partner",
+          "email": "vsabella@npfslaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J. Nicolini",
+          "title": "Partner",
+          "email": "jnicolini@npfslaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Connor",
+          "title": "Of Counsel",
+          "email": "pconnor@npfslaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sandra J. LePorin",
+          "title": "Of Counsel",
+          "email": "sleporin@npfslaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

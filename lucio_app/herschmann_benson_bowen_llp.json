@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Herschmann Benson Bowen LLP",
+    "website": "https://hbb-firm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Arbitration",
+      "Trial Work"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Herschmann Benson Bowen LLP is a law firm focusing on commercial litigation, arbitration, and trial work. They represent a wide variety of individual and corporate clients.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew R. Kurland",
+          "title": "Partner",
+          "email": "akurland@hbb-firm.com",
+          "phone": "(917) 341-4636",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Daniel Herschmann",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Richard Benson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Paul Bowen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Isaac Benson",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 226-4226",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

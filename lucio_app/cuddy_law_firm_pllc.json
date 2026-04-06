@@ -1,0 +1,120 @@
+{
+  "firm_data": {
+    "firm_name": "Cuddy Law Firm, P.L.L.C",
+    "website": "https://cuddylawfirm.com",
+    "city": "Auburn, NY",
+    "practice_areas": [
+      "Special Education Law",
+      "Special Needs Planning",
+      "Guardianship",
+      "Appeals of Decisions of the New York State Office of Persons with Developmental Disabilities"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cuddy Law Firm, P.L.L.C. provides legal services to families of individuals with special needs. The firm represents families in advocacy, administrative proceedings and state and federal courts.",
+    "notable_facts": [
+      "The firm began operating in 2001 as The Law Office of Andrew K. Cuddy.",
+      "In 2012, the firm incorporated and began operation as Cuddy Law Firm and opened an office in White Plains, New York.",
+      "The firm has offices in Auburn & Valhalla, NY, Cleveland, OH, Philadelphia, PA, and Charlotte Metro Area, NC."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew K. Cuddy",
+        "title": "President and Managing Attorney",
+        "email": "acuddy@cuddylawfirm.com",
+        "phone": "315-370-2404",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Andrew K. Cuddy",
+          "title": "Founder",
+          "email": "acuddy@cuddylawfirm.com",
+          "phone": "315-370-2404",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John F. Cuddy",
+          "title": "Attorney",
+          "email": "jcuddy@cuddylawfirm.com",
+          "phone": "704-800-4155",
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary Waldman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Angela Kovacs",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Kopp",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Cuddy, Jr.",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kamal Taneja",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Sulpizio",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Francesca Antorino",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

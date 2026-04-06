@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Douglas & London, P.C.",
+    "website": "https://www.douglasandlondon.com",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Mass Torts",
+      "Consumer Class Action"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Douglas & London, P.C. is a law firm in New York City that handles a wide range of cases and claims, focusing on personal injury, mass torts, and consumer class action cases. They have been recognized as a Top 5 Mass Tort Firm and have secured hundreds of millions in restitution for clients.",
+    "notable_facts": [
+      "The firm was established in 2002.",
+      "They specialize in mass tort cases involving harmful medications, defective medical devices, and environmental toxic exposure.",
+      "The firm has obtained more than $1 billion in verdicts and settlements for their clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gary J. Douglas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael A. London",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Randolph D. Janis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie O\u2019Connor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philippa Ratzki, Esq.",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

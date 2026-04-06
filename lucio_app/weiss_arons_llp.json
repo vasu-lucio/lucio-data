@@ -1,0 +1,66 @@
+{
+  "firm_data": {
+    "firm_name": "Weiss & Arons LLP",
+    "website": "https://www.weissarons.com/",
+    "city": "Spring Valley",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Patent Prosecution",
+      "Post-Grant Proceedings",
+      "Patent Litigation",
+      "Trademark",
+      "Trade Dress",
+      "Copyright",
+      "Unfair Competition"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Weiss & Arons LLP is a full-service intellectual property law firm dedicated to professional excellence and personal attention. They provide outstanding representation to an array of clients ranging from small companies to multi-billion dollar international corporations.",
+    "notable_facts": [
+      "The firm was founded upon a combined 30 years of legal and technical experience.",
+      "The firm has experience in electrical engineering, telecommunication devices and algorithms, financial instruments, material properties, medical devices and imaging, heat transfer and thermodynamics, cellular biology, vaccine immunology, virology, chemistry, optics, numerical heuristics, geophysical exploration and consumer products."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joel Weiss",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/joel-weiss-710a337b"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Edward M. Arons",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

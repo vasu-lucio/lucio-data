@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Petrocelli & Christy LLP",
+    "website": "http://petrocelli-christy.com/",
+    "city": "Mineola",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Petrocelli & Christy LLP has vigorously advocated for its clients in a variety of areas of practice in the State of New York for 36 years. They pride themselves on being proactive and provide respect, personal attention, and a commitment to obtaining the best possible outcome.",
+    "notable_facts": [
+      "The firm has over 100 years of combined experience among its attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Petrocelli",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/michael-petrocelli-a490bb8"
+        },
+        {
+          "name": "Richard N. Petrocelli",
+          "title": "Lawyer",
+          "email": null,
+          "phone": "(212) 571-7000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

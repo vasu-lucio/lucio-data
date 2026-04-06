@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Berkman, Henoch, Peterson & Peddy, P.C.",
+    "website": "https://bhpp.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Berkman Henoch is a full service law firm based on Long Island. They are committed to the success of real estate developers, financial institutions, families, small businesses, municipalities, and individuals.",
+    "notable_facts": [
+      "Founded in 1982",
+      "Employs 8 people",
+      "Annual revenue of $13.6M"
+    ],
+    "technology_signals": [
+      "c",
+      "westlaw"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Kenneth S. Berkman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven J. Peddy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gilbert Henoch",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald Kadin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Carruba",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pesia Kinraich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph E. Macy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/berkman-henoch"
+  },
+  "email": {}
+}

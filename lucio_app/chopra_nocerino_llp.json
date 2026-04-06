@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Chopra & Nocerino, Injury & Accident Attorneys",
+    "website": "https://www.chopranocerino.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Personal Injury",
+      "Accident Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Chopra & Nocerino is a New York personal injury law firm serving Long Island and the surrounding area. They are the exclusive personal injury law firm of the New York Mets, New York Islanders, Brooklyn Nets, UBS Arena & Barclays Center.",
+    "notable_facts": [
+      "Exclusive personal injury law firm of the New York Mets",
+      "Exclusive personal injury law firm of the New York Islanders",
+      "Exclusive personal injury law firm of the Brooklyn Nets",
+      "Exclusive personal injury law firm of the UBS Arena & Barclays Center",
+      "Offers services in English and Spanish"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Sameer Chopra",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(212) 868-3600",
+        "linkedin_url": "https://www.linkedin.com/in/sameer-chopra-4a70b216"
+      },
+      "co_managing_partner": {
+        "name": "Alex Nocerino",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Todd Arbesfeld",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pavlo Pavlatos",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine Duchatellier",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hassan Ahmed",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

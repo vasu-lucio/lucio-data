@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Kosakoff & Cataldo LLP",
+    "website": "https://kcllp.net/",
+    "city": "Melville",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Construction Claims",
+      "Professional Liability Defense",
+      "General Liability Defense",
+      "Municipal and Governmental Litigation",
+      "Insurance",
+      "Corporate and Transactional Services",
+      "Business and Corporate Disputes",
+      "Corporate",
+      "Partnership",
+      "Real Estate"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Kosakoff & Cataldo LLP offers sophisticated litigation and other legal services to an array of clients, with a strong commitment to personal service, professionalism and integrity. The attorneys at K&C are problem solvers, working to find a cost-efficient solution to the unique problems of each of our valued clients.",
+    "notable_facts": [
+      "Founded in 2020",
+      "Maintains a fully-staffed New Jersey office in Woodbridge, New Jersey",
+      "Available to serve as local counsel to attorneys from outside the Long Island area"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan Sinnreich",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/company/sinnreich-kosakoff-%26-messina-llp"
+      },
+      "co_managing_partner": {
+        "name": "David Kosakoff",
+        "title": "Managing Partner",
+        "email": "dkosakoff@kcllp.net",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mike Stanton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Annalee J Cataldo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/posts/annalee-j-cataldo-05753143_so-pleased-to-announce-the-formation-of-my-activity-6712461532539834369-UNKJ"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

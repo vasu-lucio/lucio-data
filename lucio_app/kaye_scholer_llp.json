@@ -1,0 +1,58 @@
+{
+  "firm_data": {
+    "firm_name": "Kaye Scholer",
+    "website": "https://www.bestlawfirms.com/article/kaye-scholer/804",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Kaye Scholer's Diane Holt Frankle has led corporate mergers and acquisitions deals over the last 25 years that have a total value of more than $12 billion. She is an expert in advising public companies, technology startups, and companies in the health care field on M&A and other corporate board-related matters.",
+    "notable_facts": [
+      "Diane Holt Frankle has led corporate mergers and acquisitions deals over the last 25 years that have a total value of more than $12 billion.",
+      "Diane Holt Frankle was chair of the ABA\u2019s subcommittee on public company acquisitions and the editor of the ABA\u2019s Model Merger Agreement for the Acquisition of a Public Company (2011).",
+      "Diane Holt Frankle served as chair of the State Bar of California\u2019s Business Law Section Corporations Committee (1993\u201394)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Diane Holt Frankle",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

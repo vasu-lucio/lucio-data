@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Wissing Miller LLP",
+    "website": "https://www.wissingmiller.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wissing Miller LLP is a New York intellectual property law firm. They offer legal strategies related to IP and aim to provide efficient and business-oriented service.",
+    "notable_facts": [
+      "The firm was founded on a shared philosophy of service and problem-solving.",
+      "They focus on IP as a critical element of business strategy.",
+      "The firm's watermark image evokes a game of Goh, symbolizing strategic thinking."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gerard M. Wissing",
+          "title": "IP Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wendy E. Miller",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "M.J. Williams",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander Reid",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard E. Parke",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

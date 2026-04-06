@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Murray Legal PLLC",
+    "website": "https://murraylegalpllc.com/",
+    "city": "New York City Metropolitan Area",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Regulatory Compliance",
+      "Corporate Law",
+      "Non-Competes & Non-Solicitation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Murray Legal represents clients in all aspects of litigation from pre-suit compliance through appellate practice and everything in between. The firm was founded on the belief that experienced and versatile counsel can provide clients with representation that is pragmatic and cost effective.",
+    "notable_facts": [
+      "Represents commercial finance companies in state and federal court.",
+      "Handles regulatory compliance in the non-bank commercial finance space."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christopher R. Murray",
+        "title": "Managing Member",
+        "email": "cmurray@murraylegalpllc.com",
+        "phone": "516-260-7367",
+        "linkedin_url": "https://www.linkedin.com/in/christopher-murray-028a4a53"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Phillip Spinella",
+          "title": "Partner",
+          "email": "pspinnella@murraylegalpllc.com",
+          "phone": "516-535-0948",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Siegfried",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jamie Polon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Felice Muraca",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabriel Mendelberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

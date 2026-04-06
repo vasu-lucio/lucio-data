@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "CHAU | IP",
+    "website": "https://chauiplaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "AI IP"
+    ],
+    "lawyer_count": null,
+    "firm_description": "CHAU|IP is an award-winning boutique law firm that grows and protects the value of Intellectual Property assets. They specialize in AI and other technically complex expertise.",
+    "notable_facts": [
+      "Ranked #1 New York Firm and #6 US Firm in Quality by IAMS",
+      "The firm has experience working on over 250 complex AI cases in the past 2 years.",
+      "The firm's goal is to reduce the risk of ineffective, narrow, or meaningless IP by thoroughly understanding all aspects of invention and applying the law through IP experts."
+    ],
+    "technology_signals": [
+      "Specializes in AI legal developments",
+      "Uses proprietary software and processes in case management and patent application preparation"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Frank Chau",
+        "title": "Founder",
+        "email": "chau@chauiplaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm provides guidance on how to file and protect AI IP. They have experience working on over 250 complex AI cases in the past 2 years."
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard D. Ratchford, Jr.",
+          "title": "Member",
+          "email": "rratchford@chauiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph B. Gross",
+          "title": "Member",
+          "email": "jgross@chauiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Carey",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William H. Hargett, Jr.",
+          "title": "Associate",
+          "email": "hargett@chauiplaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

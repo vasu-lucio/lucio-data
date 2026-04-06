@@ -1,0 +1,129 @@
+{
+  "firm_data": {
+    "firm_name": "Lankler Siffert & Wohl LLP",
+    "website": "https://lswlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "White Collar Defense",
+      "Government Investigations",
+      "Commercial Litigation",
+      "Regulatory Matters",
+      "Cross-Border Conflicts"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Lankler Siffert & Wohl LLP is a law firm that provides white collar, commercial litigation, enforcement, and internal investigations services to high-stakes commercial, regulatory, and white collar disputes and investigations. The firm offers superb and cost-effective representation for its clients in high-stakes disputes.",
+    "notable_facts": [
+      "Six partners are former U.S. federal prosecutors.",
+      "Every associate is a former judicial law clerk.",
+      "Listed in GIR 100, a worldwide survey that profiles \u201cthe best firms for companies and executives to call on during high-stakes cross-border corporate investigations.\u201d",
+      "Considered 'the lawyers\u2019 lawyers' by colleagues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John Siffert",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Frank Wohl",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Longyear",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Helen Gredd",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Reynolds",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglass Maynard",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabrielle Friedman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jillian Berman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine A Lemire",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Coogan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

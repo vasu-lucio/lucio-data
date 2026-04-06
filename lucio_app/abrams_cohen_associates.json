@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Abrams, Cohen & Associates",
+    "website": "https://abramscohen.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance",
+      "First-Party, No-Fault",
+      "Civil Litigation",
+      "Whistleblower (Qui Tam) Litigation",
+      "Employment Law",
+      "Immigration"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Abrams, Cohen & Associates is a law firm that provides clients throughout New York with impeccable client service relating to civil litigation, insurance defense, insurance coverage issues, appellate matters and other proceedings. Our firm has a relentless attention to client service, values responsive and honest communication, and delivers the highest quality and most cost-effective legal services.",
+    "notable_facts": [
+      "Employs 10 people",
+      "Provides legal services relating to civil litigation, insurance defense, insurance coverage issues, and appellate matters",
+      "Firm was founded with the goal to truly listen to its clients"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry S. Cohen",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "(646) 449-7490",
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Piccininni",
+          "title": "Partner",
+          "email": null,
+          "phone": "(646) 449-7490",
+          "linkedin_url": null
+        },
+        {
+          "name": "Shelly Heffez",
+          "title": "Partner",
+          "email": null,
+          "phone": "(646) 449-7490",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lena Begin",
+          "title": "Associate",
+          "email": null,
+          "phone": "(646) 449-7490",
+          "linkedin_url": null
+        },
+        {
+          "name": "Julia Okin",
+          "title": "Associate",
+          "email": null,
+          "phone": "646-449-7490",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/abrams-&-cohen"
+  },
+  "email": {}
+}

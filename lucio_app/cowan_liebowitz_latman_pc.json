@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Cowan, Liebowitz & Latman, P.C.",
+    "website": "https://cll.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Litigation",
+      "Corporate and Commercial Law",
+      "Customs, International Cargo and Regulatory Compliance",
+      "Employment Law",
+      "Real Estate Law",
+      "Trusts and Estates",
+      "Information Technology",
+      "Military Law",
+      "Advertising, Media & Technology"
+    ],
+    "lawyer_count": 52,
+    "firm_description": "Cowan, Liebowitz & Latman, P.C. is a boutique full-service firm recognized worldwide in the areas of intellectual property law and litigation. They also have practices in the areas of corporate and commercial law, customs, international cargo and regulatory compliance, employment law, real estate law, trusts and estates, information technology and military law.",
+    "notable_facts": [
+      "Founded in 1957",
+      "Recognized as a leading intellectual property law firm",
+      "Achieved Mansfield Certification Plus"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christopher Jensen",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Marvin Cowan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sidney Liebowitz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lazar Emanuel",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Maryann E. Licciardi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anastasia Zhadina",
+          "title": "Patent Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

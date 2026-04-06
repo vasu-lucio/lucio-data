@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Getnick Livingston Atkinson & Priore, LLP",
+    "website": "https://www.getnicklivingston.com/",
+    "city": "Utica",
+    "practice_areas": [
+      "Business Law",
+      "Creditors' Rights",
+      "Estate Planning",
+      "Family Law",
+      "Financial Services",
+      "Litigation",
+      "Personal Injury",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Getnick Livingston Atkinson & Priore, LLP is one of the most diversified and prestigious law firms in Central New York. They provide a complete array of legal services to business and individual clients.",
+    "notable_facts": [
+      "The firm holds the highest rating recognized by Martindale-Hubbell in the Bar Register of Preeminent Lawyers.",
+      "Founded in 1987"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michael Atkinson",
+        "title": "Director, Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas Atkinson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Livingston",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Getnick",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Reale",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Janet Richmond",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

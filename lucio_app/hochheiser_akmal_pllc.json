@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Hochheiser & Akmal PLLC",
+    "website": "https://h-alaw.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Corporate",
+      "Commercial Transactions",
+      "Mergers and Acquisitions",
+      "Joint Ventures",
+      "Technology Transfers",
+      "Distribution",
+      "Software Licensing",
+      "Employment and Labor Law",
+      "Corporate Governance",
+      "Litigation",
+      "Not-for-Profit Law",
+      "Real Estate",
+      "White-Collar Defense & Regulatory Compliance"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Hochheiser & Akmal PLLC is a premier corporate and commercial boutique law firm that focuses on domestic and international corporate and commercial transactions across diverse industries. They offer services including mergers and acquisitions, joint ventures, technology development, and regulatory solutions.",
+    "notable_facts": [
+      "Represents clients on domestic and international corporate and commercial transactions.",
+      "Clients are across diverse manufacturing and distribution industries.",
+      "Attorneys have extensive experience in the beverage distribution industry.",
+      "Provides practical worldwide solutions for regulatory compliance.",
+      "Has a strong litigation practice."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Keith B. Hochheiser",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "516.262.3000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Rizwan Akmal",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc Sabow",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Yuk",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard F.X. Guay",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

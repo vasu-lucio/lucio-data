@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Marsh Law Firm",
+    "website": "https://jamesmarshlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Sexual Abuse",
+      "Discrimination",
+      "Child Sex Abuse",
+      "Online Sexual Exploitation",
+      "Title IX Sex Discrimination",
+      "Campus Sexual Assault and Harassment",
+      "Crime Victim\u2019s Rights",
+      "Sextortion and Revenge Porn",
+      "Federal Tort Claims Act Sexual Abuse",
+      "Internet Privacy Law",
+      "Children\u2019s Rights",
+      "Federal Appeals"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Marsh Law Firm is a legal services company that focuses on representing survivors of sexual abuse and discrimination, advocating for their clients both in and out of the courtroom to secure justice and hold perpetrators and institutions accountable.",
+    "notable_facts": [
+      "Recognized worldwide as a premier law firm representing victims of lapsed claims for childhood sexual abuse.",
+      "Instrumental in passing major laws on behalf of victims and survivors of childhood sexual abuse including the federal Amy Vicky and Andy Act, the Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act, the States and Victims to Fight Online Sex Trafficking Act (FOSTA), Masha\u2019s Law, and New York\u2019s Child Victim\u2019s Act.",
+      "Created the Children\u2019s Justice Fund to serve victims of child trafficking, child sex abuse, online child sexual exploitation, and child pornography."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "James R. Marsh",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jacqueline Marshalleck",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.marshllp.com/attorneys"
+        },
+        {
+          "name": "Aaron A. Tillett",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.marshllp.com/attorneys"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

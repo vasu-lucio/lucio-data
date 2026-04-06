@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Wilson, Bave, Conboy, Cozza & Couzens, P.C.",
+    "website": "https://www.wbccc.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Auto",
+      "Labor Law",
+      "General Liability"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Wilson, Bave, Conboy, Cozza & Couzens, P.C. is a law firm representing clients in the Hudson Valley and lower NY area. They have a proven record of success in medical malpractice, auto, labor law, general liability and a multitude of client specific matters from intake through trial.",
+    "notable_facts": [
+      "Founded in 1946 in Yonkers, New York",
+      "The firm has been representing clients for over 75 years",
+      "The firm's use of technology enhances their attorneys\u2019 effectiveness and efficiency"
+    ],
+    "technology_signals": [
+      "Virtual platforms",
+      "Case, time and billing management software",
+      "Internet based legal research",
+      "Docket management"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William H. Bave, Sr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Donald C. Wilson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William H. Bave, Jr.",
+          "title": "Senior Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John C. Couzens, Jr.",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandra C. Karamitsos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Claudine Weis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

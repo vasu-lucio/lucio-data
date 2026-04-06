@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Tuttle Yick LLP",
+    "website": "https://www.tuttleyick.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Construction",
+      "Commercial Litigation",
+      "Corporate",
+      "Compliance & Licensing",
+      "Professional Liability",
+      "Employment",
+      "Insurance Coverage"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tuttle Yick LLP is a law firm specializing in real estate, construction, and commercial litigation, serving institutional and non-institutional clients. They handle a variety of matters including acquisitions, dispositions, financings, leasing, design and construction agreements, and dispute resolution.",
+    "notable_facts": [
+      "The firm was founded in 2012.",
+      "The firm aims to provide big law performance at boutique pricing.",
+      "The firm emphasizes long-term client relationships."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory O. Tuttle",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Alexander Tuttle",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey Yick",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

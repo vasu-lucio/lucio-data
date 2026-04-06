@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Litchfield Cavo LLP",
+    "website": "https://www.litchfieldcavo.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Coverage and Litigation Defense",
+      "Construction Liability",
+      "General Liability",
+      "Insurance Coverage",
+      "Professional Liability",
+      "Toxic Tort"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Litchfield Cavo LLP is a premier coverage and litigation defense law firm founded in 1998. The Firm is built on a foundation of integrity and our attorneys\u2019 reputations for professionalism and communication.",
+    "notable_facts": [
+      "The firm has 25 offices across the nation as of March 2026.",
+      "Litchfield Cavo opened its 25th office in Willoughby Hills, Ohio in March 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "S. Jan Hueber",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Phillip G. Litchfield",
+          "title": "Partner",
+          "email": null,
+          "phone": "312.781.6584",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas W. Wright",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis R. Fogarty",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew P. Baringer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

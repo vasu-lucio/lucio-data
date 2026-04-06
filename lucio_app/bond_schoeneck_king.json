@@ -1,0 +1,124 @@
+{
+  "firm_data": {
+    "firm_name": "Bond, Schoeneck & King PLLC",
+    "website": "https://bsk.com/",
+    "city": "Syracuse, NY",
+    "practice_areas": [
+      "Agribusiness",
+      "Artificial Intelligence",
+      "Business Restructuring, Creditors' Rights and Bankruptcy",
+      "Business and Transactions",
+      "Class and Collective Action Litigation",
+      "Collegiate Sports",
+      "Commercial Lending",
+      "Cybersecurity and Data Privacy",
+      "Employee Benefits and Executive Compensation",
+      "Environmental and Energy",
+      "Exempt Organizations",
+      "Financial Institutions Regulatory",
+      "Government and Regulatory Affairs",
+      "Health Care",
+      "Higher Education",
+      "Hospitality and Tourism",
+      "Immigration",
+      "Intellectual Property",
+      "Labor and Employment Litigation",
+      "Long Term Care",
+      "Manufacturing",
+      "Mergers and Acquisitions",
+      "Municipalities",
+      "OSHA",
+      "Property Protection For Intellectual Property",
+      "Public Finance",
+      "Real Estate and Construction",
+      "School Law",
+      "Security Semiconductor and Technology Industry",
+      "Sexual and Other Workplace Harassment Training",
+      "Startup and Emerging Business",
+      "Tax",
+      "Tax Assessment, Condemnation & Property Valuation",
+      "The Cannabis Industry",
+      "Title IX",
+      "Toxic Tort and Environmental Litigation",
+      "Trust and Estate"
+    ],
+    "lawyer_count": 300,
+    "firm_description": "Bond, Schoeneck & King PLLC is a full-service law firm with over 300 attorneys counseling individuals, companies, not-for-profits and public sector entities in a wide spectrum of practice areas.",
+    "notable_facts": [
+      "The firm was founded in Syracuse, New York in 1897.",
+      "The firm has ten offices in New York State as well as locations in Florida, Kansas, Massachusetts and New Jersey."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "George H. Bond",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Schoeneck",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Clarence R. King",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tracy Ferguson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bond-schoeneck-&-king-pllc/"
+  },
+  "email": {
+    "to_name": "Bond, Schoeneck & King team",
+    "to_title": "Operations/Technology Leadership",
+    "to_email": null,
+    "subject": "AI for Bond, Schoeneck & King \u2014 built for firms managing 35+ practice areas",
+    "body": "Hi there,\n\nManaging 300+ attorneys across 35+ practice areas\u2014from AI and cybersecurity to agribusiness and cannabis law\u2014is no small feat. I imagine your teams juggle complexity that most software vendors don't understand.\n\nI lead business at Lucio, an AI platform built for full-service law firms that face BigLaw demands with leaner operations. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision across diverse practices, client trust, and real efficiency gains.\n\nHaving completed successful pilots on the East Coast, we're expanding and I'd love to stop by your Syracuse office to show how\u2014as ex-lawyers ourselves\u2014we're helping firms like yours compete with larger competitors without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
+}

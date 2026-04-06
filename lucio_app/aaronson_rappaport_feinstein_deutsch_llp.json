@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Aaronson Rappaport Feinstein and Deutsch, LLP",
+    "website": "https://www.arfdlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appellate Practice",
+      "Automobile Product Liability",
+      "Construction Litigation"
+    ],
+    "lawyer_count": 80,
+    "firm_description": "Aaronson Rappaport Feinstein and Deutsch, LLP is a defense litigation firm. They combine legal, medical, scientific and technical expertise to solve intricate problems for their clients.",
+    "notable_facts": [
+      "More than 95 percent of their caseload comes from litigation.",
+      "Their trial partners average more than 25 years of experience.",
+      "6 ARFD Lawyers recognized as 2026 Best Lawyers in America!"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amelia Choyne",
+          "title": "Partner",
+          "email": "archoyne@arfdlaw.com",
+          "phone": "212-593-8058",
+          "linkedin_url": "https://www.linkedin.com/in/amelia-choyne-386aa736"
+        },
+        {
+          "name": "Lawrence Rosenblatt",
+          "title": null,
+          "email": "lwrosenblatt@arfdlaw.com",
+          "phone": "212-593-3532",
+          "linkedin_url": "https://www.linkedin.com/in/lawrence-w-rosenblatt-9b8a3633/"
+        },
+        {
+          "name": "Daniel Milstein",
+          "title": "Partner",
+          "email": "dwmilstein@arfdlaw.com",
+          "phone": "212-593-5366",
+          "linkedin_url": "https://www.linkedin.com/in/daniel-finnegan-77a23ab4"
+        },
+        {
+          "name": "Jonathan A. Meister",
+          "title": null,
+          "email": "jameister@arfdlaw.com",
+          "phone": "212-593-1738",
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-meister-53008332"
+        },
+        {
+          "name": "Martha Segura",
+          "title": "Human Resources Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/arfdlaw",
+    "linkedin_size": "51-200"
+  },
+  "email": {}
+}

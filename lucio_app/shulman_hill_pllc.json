@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Shulman & Hill PLLC",
+    "website": "https://shulman-hill.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Personal Injury",
+      "Construction Accidents",
+      "Motor Vehicle Accidents",
+      "Premises Accidents",
+      "Slip & Fall"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Shulman & Hill is a New York-based injury law firm that has secured over $700 million in verdicts and settlements for injury victims. They focus on providing compassionate service and legal counsel to injured New Yorkers.",
+    "notable_facts": [
+      "The firm has recovered over $700 million in compensation for clients.",
+      "They have a litigation-first approach.",
+      "They handle a high volume of cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Alex Shulman",
+        "title": "Founding Partner and General Counsel",
+        "email": "[[email protected]]",
+        "phone": "866-932-5558",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alex Shulman",
+          "title": "Founding Partner and General Counsel",
+          "email": "[[email protected]]",
+          "phone": "866-932-5558",
+          "linkedin_url": null
+        },
+        {
+          "name": "JJ Hill",
+          "title": "Founding Partner",
+          "email": "[[email protected]]",
+          "phone": "866-806-6754",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Noah H. Passer",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cary London",
+          "title": "Senior Partner Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

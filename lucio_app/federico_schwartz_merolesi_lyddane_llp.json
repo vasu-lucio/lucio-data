@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Federico Schwartz Merolesi & Lyddane LLP",
+    "website": "https://fsmlesq.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Medical Malpractice Defense",
+      "Professional Disciplinary Hearings"
+    ],
+    "lawyer_count": 16,
+    "firm_description": "Federico Schwartz Merolesi & Lyddane LLP is a boutique litigation firm founded by a team of experienced and talented litigators. The Firm\u2019s senior leadership has decades of experience in the representation of individuals and institutions in high exposure litigation in New York\u2019s most challenging venues.",
+    "notable_facts": [
+      "Offices in Manhattan, Long Island and Westchester",
+      "Boutique litigation firm"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Anna R. Schwartz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel G. Federico",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Lyddane",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Lavietes",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Bruno",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

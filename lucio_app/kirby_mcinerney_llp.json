@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Kirby McInerney LLP",
+    "website": "https://kmllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities",
+      "Antitrust",
+      "Healthcare",
+      "Consumer",
+      "Corporate Governance",
+      "Whistleblower",
+      "ERISA Fraud"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kirby McInerney LLP, founded over 70 years ago, represents institutional investors, governmental entities, and individuals in matters of securities, antitrust, healthcare, consumer, corporate governance, whistleblower, and ERISA fraud. The firm traces its lineage to the dawn of U.S. securities law and has recovered billions of dollars for its clients.",
+    "notable_facts": [
+      "The firm's founder was in the first generation of securities lawyers and rendered service to the SEC in its earliest years.",
+      "Kirby McInerney has offices in New York, NY, California, and Singapore.",
+      "The firm often offers its services on a contingency fee basis."
+    ],
+    "technology_signals": [
+      "Google Font API",
+      "Emotion",
+      "jQuery UI",
+      "PDF.js",
+      "Google Tag Manager",
+      "Google Analytics",
+      "Adobe Fonts",
+      "Microsoft IIS"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel Hume",
+        "title": "Managing Partner",
+        "email": "dhume@kmllp.com",
+        "phone": "212.699.1144",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David E. Kovel",
+        "title": "Managing Partner",
+        "email": "dkovel@kmllp.com",
+        "phone": "212.699.1149",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laura Parcells",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

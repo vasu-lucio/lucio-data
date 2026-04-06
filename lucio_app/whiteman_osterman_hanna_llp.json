@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Whiteman Osterman & Hanna LLP",
+    "website": "https://woh.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Business, Corporate and Commercial",
+      "Education",
+      "Environmental",
+      "Health Care",
+      "Labor and Employment Law",
+      "Litigation and Appeals",
+      "Real Estate",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Whiteman Osterman & Hanna LLP is the Capital Region's largest Albany-based law firm, providing solutions to complex legal issues. They serve businesses, individuals, not-for-profits, municipalities, and governmental agencies with an extensive range of practice areas and industry concentrations.",
+    "notable_facts": [
+      "Employs 136 people.",
+      "Team approach to solve complex issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Robert T. Schofield",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Philip Gitlen",
+          "title": "Co Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Everett",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandra Becker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Sardo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lori Sievers",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Florentino & Grimshaw LLC",
+    "website": "https://www.fglawllc.com/",
+    "city": "Rye Brook",
+    "practice_areas": [
+      "Labor and Employment Law"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Florentino & Grimshaw LLC is a boutique, management-side labor and employment law firm focused on collaborating with employers to navigate all aspects of the employment lifecycle. Our women-owned firm works with employers of all sizes, both for-profit and not-for-profit, in a variety of industries.",
+    "notable_facts": [
+      "Women-owned firm",
+      "Founded in 2019"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Tonianne Florentino",
+        "title": "Managing Member",
+        "email": "tflorentino@fglawllc.com",
+        "phone": "212-324-1715",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kristina Grimshaw",
+          "title": "Member",
+          "email": "kgrimshaw@fglawllc.com",
+          "phone": "212-324-1715",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Baker",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kelly Jines",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Culhane",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sabrina Jorge",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kate Townley",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

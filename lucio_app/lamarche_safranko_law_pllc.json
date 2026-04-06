@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "LaMarche Safranko Law PLLC",
+    "website": "https://lamarchesafrankolaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Personal Injury",
+      "Criminal Defense",
+      "Professional Discipline"
+    ],
+    "lawyer_count": null,
+    "firm_description": "LaMarche Safranko Law, located in Albany NY, provides legal representation to individuals facing personal injury claims, criminal allegations, and professional discipline issues. Their attorneys are recognized by Super Lawyers\u00ae, Best Lawyers in America\u00ae, and as a Best Law Firm in the Capital District.",
+    "notable_facts": [
+      "The firm's attorneys have more than 100 years of combined experience.",
+      "The firm has a satellite office in Albany, NY."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "George E. LaMarche III",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew R. Safranko",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

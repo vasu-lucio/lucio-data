@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "MBJ Law PLLC",
+    "website": "https://michaelben-jacob.com/",
+    "city": "Chestnut Ridge",
+    "practice_areas": [
+      "Tax",
+      "Family",
+      "Financial Planning",
+      "Estate Planning",
+      "Transfer and Income Tax Minimization",
+      "Expatriation Planning",
+      "Audit Defense",
+      "Asset Protection",
+      "Charitable Giving",
+      "Tax Planning for Dispositions of Privately Held Businesses",
+      "Probate Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "MBJ Law PLLC advises U.S. domestic and international families on a wide variety of tax, family, and financial planning matters. They provide comprehensive strategies for U.S. domestic and international estate planning, transfer and income tax minimization, expatriation planning, audit defense, asset protection, charitable giving, tax planning for dispositions of privately held businesses, probate litigation, and related matters.",
+    "notable_facts": [
+      "The firm focuses on long-term results.",
+      "The firm advises high-net-worth individuals and their families, family offices, and closely-held businesses."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Ben-Jacob",
+        "title": "FOUNDER AND CEO",
+        "email": null,
+        "phone": "914.292.0230",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Ovadiah Ben-Jacob",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chana Naftali",
+          "title": "Financial Coordinator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Pudup",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Moshe Ben-Jacob",
+          "title": "ATTORNEY",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yisroel Orlofsky",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ezra Sakkal",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Riordan",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

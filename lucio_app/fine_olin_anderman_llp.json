@@ -1,0 +1,113 @@
+{
+  "firm_data": {
+    "firm_name": "Fine, Olin & Anderman, LLP",
+    "website": "https://www.foalaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Social Security Disability",
+      "Personal Injury",
+      "General Legal Services",
+      "Veterans Disability",
+      "Criminal Law",
+      "Employment Law",
+      "Real Estate",
+      "Estate Planning",
+      "Business Law",
+      "Bankruptcy Law",
+      "DUI",
+      "Criminal Defense Law",
+      "Family Law",
+      "Divorce",
+      "Child Custody"
+    ],
+    "lawyer_count": null,
+    "firm_description": "FOA's attorneys have decades of experience ensuring clients receive the results to which they are entitled, focusing on serving the legal needs of union members.",
+    "notable_facts": [
+      "Represents clients in litigation in Workers\u2019 Compensation, Social Security Disability, Personal Injury, and Veterans Disability.",
+      "Offers general legal services including Wills, divorces, real estate transactions, and health care proxies.",
+      "The firm was recognized as the winner of the Loret Miller Ruppe Award in 2017."
+    ],
+    "technology_signals": [
+      "Facebook Pixel",
+      "oEmbed",
+      "Backbone.js",
+      "SoundManager",
+      "Underscore.js",
+      "WP Engine",
+      "PHP",
+      "Cloudflare Bot Management"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Marvin Anderman",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew G. Finkelstein",
+          "title": "Personal Injury - General",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rodrigo Arcuri",
+          "title": "Workers' Compensation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Fontaine",
+          "title": "Workers' Compensation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent J. Rossillo",
+          "title": "Workers' Compensation, Social Security Disability, Employment & Labor",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

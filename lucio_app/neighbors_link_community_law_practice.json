@@ -1,0 +1,52 @@
+{
+  "firm_data": {
+    "firm_name": "Neighbors Link Community Law Practice",
+    "website": "https://neighborslink.org/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Immigration Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Neighbors Link Community Law Practice is the legal arm of Neighbors Link, providing a full array of immigration legal services, from citizenship applications to removal proceedings, representing immigrant New Yorkers from around the world.",
+    "notable_facts": [
+      "Provides legal services to both detained and non-detained individuals, including adults and children.",
+      "Represents clients in NY Family Court, U.S. Federal courts, Immigration Courts (EOIR), The Board of Immigration Appeals (BIA) and before DHS (ICE and USCIS).",
+      "Offers a weekly Immigration Law Helpline on Thursdays from 8 a.m. - 8 p.m."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

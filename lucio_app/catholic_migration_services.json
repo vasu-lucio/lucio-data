@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Catholic Migration Services",
+    "website": "https://catholicmigration.org/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Immigration",
+      "Housing",
+      "Employment",
+      "Tenant Organizing",
+      "Community Legal Education"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Catholic Migration Services provides free immigration, housing, and employment legal services, tenant organizing and community legal education to low-income New Yorkers.",
+    "notable_facts": [
+      "Provides free legal services.",
+      "Founded in 1971.",
+      "Offers services in immigration, housing, and employment law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Erin Fitzgerald-Donnelly",
+        "title": "Director of Finance and Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Emmie Glynn Ryan",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Magdalena Barbosa",
+          "title": "Director of Legal Services and Senior Vice President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "C. Mario Russell",
+          "title": "Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

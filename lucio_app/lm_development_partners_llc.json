@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "L+M Development Partners LLC",
+    "website": "https://lmdevpartners.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Affordable Housing"
+    ],
+    "lawyer_count": null,
+    "firm_description": "L+M Development Partners LLC is an integrated developer, builder, and property manager that focuses on affordable housing and social responsibility. They work together to build stronger communities and apply their resources and acumen to improve the quality of life for their clients.",
+    "notable_facts": [
+      "Founded in 1984",
+      "Responsible for approximately $20 billion in development and investment",
+      "Combined have over 57,000 high-quality residential units in construction or that have been acquired, preserved, or completed."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa Gomez",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy Corcoran",
+          "title": "Senior Vice President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Marshall-moran",
+          "title": "Senior Vice President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Mullins",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Phylicia Tolchin",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

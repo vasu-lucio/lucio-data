@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Dunnington, Bartholow & Miller LLP",
+    "website": "https://dunnington.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Arbitration and Mediation",
+      "Estates, Trusts and Private Clients",
+      "Intellectual Property and Art Law",
+      "International",
+      "Real Estate",
+      "Taxation",
+      "Immigration",
+      "Not-For-Profit and Religious Institutions"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Dunnington, Bartholow & Miller LLP is a New York-based firm providing a full array of legal services to corporate and private clients. The firm's principal practice areas are in corporate, litigation, arbitration and mediation, estates, trusts and private clients, intellectual property and art law, international, real estate, taxation, immigration, and not-for-profit and religious institutions.",
+    "notable_facts": [
+      "Founded in 1921",
+      "Member of the Cicero League of International Lawyers",
+      "Represents Saatchi & Saatchi and Securitas"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Walter G. Dunnington",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alan A D'Ambrosio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Padmaja Chinta",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Raymond James Dowd",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brenda L Gill",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Olivera Medenica",
+          "title": "Equity Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

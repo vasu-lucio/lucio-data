@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Krasner Law, PLLC",
+    "website": "https://www.lkrasner.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Child Custody",
+      "Mediation",
+      "Prenuptial Agreements"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Krasner Law, PLLC is a family law practice helping people in New York and New Jersey with their family law needs. They focus on helping clients reach their matrimonial goals masterfully, expediently, and with minimal stress and cost.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Leona S. Krasner",
+        "title": "Founder and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/leonakrasner"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Austin Nalaboff",
+          "title": "New York Regional Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Antony Anisman",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christa J. Tomasulo",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Julia Zalewski",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brittany Dolan",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

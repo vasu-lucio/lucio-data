@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Mendes & Mount LLP",
+    "website": "https://mendes.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Law",
+      "Reinsurance Law",
+      "Professional Liability",
+      "Healthcare",
+      "Aerospace",
+      "Energy",
+      "Cyber Data Privacy and Security"
+    ],
+    "lawyer_count": 116,
+    "firm_description": "Mendes & Mount LLP is a New York based law firm specializing in Insurance and reinsurance law. Founded in 1916, Mendes & Mount LLP is one of the largest firms in the country devoted exclusively to the practice of insurance law.",
+    "notable_facts": [
+      "Founded in 1916.",
+      "Specializes in insurance and reinsurance law.",
+      "Has presence in the United Kingdom."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Oscar Dibble Duncan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Russell T. Mount",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin Flynn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erica Civitano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Spain",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dean Herman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dylan E. Sack",
+          "title": "Partner",
+          "email": "dylan.sack@mendes.com",
+          "phone": "212-261-8438",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

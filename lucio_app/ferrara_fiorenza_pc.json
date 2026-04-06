@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Ferrara Fiorenza PC",
+    "website": "https://www.ferrarafirm.com/",
+    "city": "East Syracuse",
+    "practice_areas": [
+      "Education Law",
+      "Employment Law"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Ferrara Fiorenza PC is a regional law firm headquartered in East Syracuse, New York, with offices in Rochester and Binghamton. The firm's attorneys are recognized for their expertise in education and employment law, serving public school districts, BOCES, and private sector employers throughout Upstate New York.",
+    "notable_facts": [
+      "AV-rated firm",
+      "Named one of Central New York\u2019s Best Places to Work in 2019, 2020, 2021, 2022, 2023 and 2024"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Susan Johns",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/susan-johns-11b74431"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nicholas Fiorenza",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael P. Leone",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph G. Shields",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Colleen W. Heinrich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Maidenbaum & Sternberg LLP",
+    "website": "http://msllplaw.com",
+    "city": "Cedarhurst",
+    "practice_areas": [
+      "Property Tax Reduction"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Maidenbaum & Sternberg LLP is a law firm specializing in property valuation and tax reduction, helping clients with over-assessed property assessments in Nassau County, Long Island, NY.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Shalom Maidenbaum",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Yael S. Weingarten",
+          "title": "Attorney",
+          "email": "yaelnayman(a)gmail.com",
+          "phone": "(516) 479-9151",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathan Samuel Maidenbaum",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Helene Schulsinger Rothenberg",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "J J Teller",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

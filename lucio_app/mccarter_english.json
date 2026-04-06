@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "McCarter & English, LLP",
+    "website": "https://mccarter.com/",
+    "city": "Newark",
+    "practice_areas": [
+      "Transactional",
+      "Intellectual Property",
+      "Complex Litigation"
+    ],
+    "lawyer_count": 400,
+    "firm_description": "McCarter & English, LLP is a firm of more than 400 lawyers with offices in Newark, New York, Boston, Philadelphia, Washington, DC, Miami, Wilmington, Hartford, Stamford, Indianapolis, East Brunswick, and Trenton. In continuous business for 180 years, we are among the oldest and largest law firms in America.",
+    "notable_facts": [
+      "Acquired Harrington & Smith (2024-10-16)",
+      "Acquired Miller, Balis & O'Neil, P.C. (2014-02-01)",
+      "Acquired Ross Law Group"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Richard Patino",
+        "title": "Director of Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Margarita Wallach",
+          "title": "Managing Partner New York Office",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Richard",
+    "to_title": "Director of Information Technology",
+    "to_email": null,
+    "subject": "AI for McCarter & English \u2014 built for firms managing your scale",
+    "body": "Hi Richard,\n\nWith 400 lawyers across 12 offices and three major acquisitions in the last decade, McCarter & English has mastered growth. But managing complex litigation, IP, and transactional work at that scale while integrating new practices requires tooling most firms don't have.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner operational teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on precision, client trust, and efficiency\u2014especially during integration.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Northeast region. I'd be happy to stop by Newark to show how\u2014as ex-lawyers ourselves\u2014we're helping firms like McCarter & English compete and scale without adding headcount.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
+}

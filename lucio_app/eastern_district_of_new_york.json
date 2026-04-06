@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Eastern District of New York",
+    "website": "https://www.justice.gov/usao/nye/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "National Security",
+      "White-Collar Crimes",
+      "Public Corruption",
+      "Organized Crime",
+      "Narcotics Trafficking",
+      "Civil Rights Violations",
+      "Human and Sex Trafficking",
+      "Hate Crimes",
+      "Child Pornography",
+      "Gun Trafficking",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The United States Attorney's Office for the Eastern District of New York represents the United States in Brooklyn, Queens, Staten Island, and Long Island. Their mission is to seek justice under the law in protecting and serving the people of this district and nation.",
+    "notable_facts": [
+      "The Eastern District of New York is one of the premier U.S. Attorney\u2019s Offices in the nation.",
+      "The office has a very active and sophisticated national security program.",
+      "The office prosecutes virtually every type of federal crime and represents the interests of the United States in civil litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph Nocella, Jr.",
+        "title": "U.S. Attorney",
+        "email": null,
+        "phone": "718-254-7000",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alixandra Smith",
+          "title": "Chief of the Criminal Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Durham",
+          "title": "Chief of the Long Island Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

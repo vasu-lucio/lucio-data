@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Corrigan, Baker & Levine, LLC",
+    "website": "https://cblattorneys.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Business Law",
+      "Contracts",
+      "Mergers & Acquisitions",
+      "Start-up Formations",
+      "Commercial Litigation",
+      "Probate Litigation",
+      "Real Estate",
+      "Zoning and Land Use",
+      "Landlord-Tenant",
+      "Wills",
+      "Trusts and Estates",
+      "Corporate-LLC-Personal Income Tax planning",
+      "Executive Employment and Separation Agreements"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Corrigan, Baker & Levine, LLC is a boutique commercial law firm representing established and start-up businesses, entrepreneurs, high net worth individuals and nonprofits in a broad range of complex matters. They offer comprehensive legal services, leveraging experience and guidance on a broad range of complex multi-disciplinary business matters.",
+    "notable_facts": [
+      "The firm provides a consultative style joined to a multidisciplinary approach to achieve superlative outcomes.",
+      "They develop decades long, even multi-generational relationships with clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John Corrigan",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregg Baker",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Levine",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kathryn Mary Ryan",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

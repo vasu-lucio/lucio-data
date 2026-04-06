@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Byrne & O'Neill, LLP",
+    "website": "https://bonlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Professional liability",
+      "Construction law",
+      "Design law",
+      "Litigation",
+      "Risk Management",
+      "Corporate",
+      "Transactional"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Byrne & O'Neill, LLP is a firm concentrating in all aspects of professional liability, construction, and design law. They provide a wide range of legal support and business advisory services throughout New York, New Jersey, and Connecticut.",
+    "notable_facts": [
+      "The firm has an \"AV\" (excellent) rating in the Martindale-Hubbell directory of lawyers.",
+      "They represent architects, engineers, owners, developers, contractors, sureties, consultants, accountants, attorneys and other professionals."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael J. Byrne",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin J. O'Neill",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elaine C. Gangel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Albert W. McKee",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark R. McCauley",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Novak",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

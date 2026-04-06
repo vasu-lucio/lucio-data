@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Martenson, Hasbrouck & Simon LLP",
+    "website": "https://martensonlaw.com/",
+    "city": "Atlanta",
+    "practice_areas": [
+      "Labor Law",
+      "Employment Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Martenson, Hasbrouck & Simon LLP is a national labor and employment defense law firm providing clients with a complete range of legal services addressing any and all employment law and labor law concerns. The Firm is headquartered in Atlanta and has offices in Carlsbad, Costa Mesa, Chicago, Dallas, New York, and Sacramento.",
+    "notable_facts": [
+      "Established in 2000",
+      "The firm has a flexible representation model that enables them to provide quality representation and impeccable service to business management of publicly traded and private companies in all 50 states, Canada, and Mexico.",
+      "They focus on the defense of employers in litigation and administrative matters involving all types of labor and employment related claims."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marty N. Martenson",
+        "title": "Managing Partner",
+        "email": "mnmartenson@martensonlaw.com",
+        "phone": "404-909-8104",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patricia E. Simon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Betsy Bulat",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Crawford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Holladay",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

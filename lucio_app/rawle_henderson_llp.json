@@ -1,0 +1,124 @@
+{
+  "firm_data": {
+    "firm_name": "Rawle & Henderson LLP",
+    "website": "https://rawle.com/",
+    "city": "Philadelphia",
+    "practice_areas": [
+      "Appellate",
+      "Architects & Engineers",
+      "Aviation",
+      "Casualty",
+      "Catastrophic Loss",
+      "Commercial Litigation",
+      "Commercial Motor Vehicle",
+      "Commercial Transactions",
+      "Construction",
+      "Dental Professional Liability",
+      "Employment Relations",
+      "Environmental",
+      "Mass & Toxic Torts",
+      "Insurance Coverage",
+      "Maritime",
+      "Matrimonial & Family",
+      "Medical Professional Liability",
+      "Municipal Liability & Civil Rights",
+      "Premises Liability",
+      "Product Liability",
+      "Professional Liability",
+      "Professional Liability & Legal Ethics",
+      "Worker's Compensation"
+    ],
+    "lawyer_count": 101,
+    "firm_description": "Rawle & Henderson, LLP is a Mid-Atlantic regional law firm whose attorneys engage in civil trial litigation. The firm is devoted to meeting the needs of the new millennium and continuing an unbroken tradition of service over three centuries.",
+    "notable_facts": [
+      "The oldest law firm in continuous practice in the United States, founded in 1783.",
+      "Serves clients from 10 offices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William Rawle",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John C. McMeekin II",
+          "title": "Partner",
+          "email": "jmcmeekin@rawle.com",
+          "phone": "215-575-4324",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabriel Arevalo",
+          "title": "Partner",
+          "email": "gstewart@rawle.com",
+          "phone": "1-215-575-4200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrice O'brien",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charis Moore",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Luis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Samlin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Rutherford Christie LLP",
+    "website": "https://rutherfordchristie.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rutherford & Christie has decades-long relationships with numerous national companies and serves as sole litigation counsel for some of America\u2019s most recognized brands. Their collaborative approach leads to shorter discovery periods, earlier mediations, and more frequently obtained summary judgments and Daubert challenges.",
+    "notable_facts": [
+      "Serves as sole litigation counsel for some of America\u2019s most recognized brands.",
+      "Experienced trial lawyers who have litigated successfully against some of the most prominent and formidable trial attorneys in the country.",
+      "Has decades-long relationships with numerous national companies."
+    ],
+    "technology_signals": [
+      "Uses Accessibility Checker to monitor website accessibility."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David S. Rutherford",
+          "title": "Founding Partner",
+          "email": "dsr@rutherfordchristie.com",
+          "phone": "(212) 599-5799",
+          "linkedin_url": null
+        },
+        {
+          "name": "Carrie L. Christie",
+          "title": null,
+          "email": "clc@rclawllp.com",
+          "phone": "(404) 522-0880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maggie Christiansen",
+          "title": "Litigation Associate Attorney",
+          "email": "mac@rutherfordchristie.com",
+          "phone": "(212) 599-5799",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

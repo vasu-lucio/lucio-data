@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Kasowitz Benson Torres LLP",
+    "website": "https://www.kasowitz.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Bankruptcy/Restructuring",
+      "Real Estate Transactional"
+    ],
+    "lawyer_count": 249,
+    "firm_description": "Kasowitz Benson Torres\u2019 core focus is commercial litigation, complemented by exceptionally strong bankruptcy/restructuring and real estate transactional practices. The firm is known for their creative, aggressive litigators and willingness to take on tough cases.",
+    "notable_facts": [
+      "The firm has extensive trial experience and are always trial-ready, representing both plaintiffs and defendants in every area of litigation.",
+      "Kasowitz has successfully secured billions of dollars in awards and settlements for their clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc E. Kasowitz",
+          "title": "Founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew A. Kraus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan E. Algor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brandy Worden",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David A. Miller",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

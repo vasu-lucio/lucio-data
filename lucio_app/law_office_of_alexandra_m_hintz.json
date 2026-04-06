@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Hintze Law PLLC",
+    "website": "https://hintzelaw.com/",
+    "city": "Seattle",
+    "practice_areas": [
+      "Privacy",
+      "Cybersecurity",
+      "AI"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hintze Law PLLC exclusively provides global data protection counseling for technology, ecommerce, advertising, media, and mobile companies, organizations, and industry associations. The firm specializes in AI, privacy & cybersecurity.",
+    "notable_facts": [
+      "Woman-owned & certified minority and LGBTBE owned firm.",
+      "Awarded by the DEI Roundtable Law Firm Diversity Award.",
+      "Recognized in Chambers\u2019 Global & USA Privacy and Data Security rankings, the Legal 500\u2019s U.S. Cyberlaw rankings, and in Global Data Review\u2019s GDR 100."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Susan Hintze",
+        "title": "Founder & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mike Hintze",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Ruehr",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Samuel Castic",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandra Schlight",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/hintze-law-pllc/org-chart/alexandra-schlight"
+        },
+        {
+          "name": "Taylor Widawski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

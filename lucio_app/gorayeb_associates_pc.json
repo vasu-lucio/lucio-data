@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Gorayeb & Associates, P.C.",
+    "website": "https://gorayeb.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Accidents",
+      "Work Accidents",
+      "Personal Injuries",
+      "Truck Accidents",
+      "Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gorayeb & Associates, P.C. provides legal services for construction accidents and other personal injuries in New York, representing injured workers for over 40 years. The firm is known as 'Los Abogados del Pueblo' (The Lawyers of the People) and is committed to the Hispanic working community.",
+    "notable_facts": [
+      "Represents over 10,000 construction workers.",
+      "Specializes in construction accidents.",
+      "Offers services on a contingency fee basis."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christopher J. Gorayeb",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph Gorayeb",
+          "title": "President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ian Miller",
+          "title": "Ma",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

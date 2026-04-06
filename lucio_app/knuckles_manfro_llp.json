@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Knuckles & Manfro LLP",
+    "website": "https://kkmllp.com/",
+    "city": "Elmsford",
+    "practice_areas": [
+      "Real Estate Litigation",
+      "Foreclosure Litigation",
+      "Origination",
+      "General Litigation",
+      "General Commercial and Corporate Law",
+      "Creditors\u2019 Rights",
+      "Lender Liability",
+      "Bankruptcy",
+      "Eviction"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Knuckles & Manfro LLP is a law firm specializing in real estate litigation and represents institutional lenders and mortgage servicers in New York, New Jersey, and Connecticut. The firm handles matters from inception to conclusion, representing clients in the lending industry and other practice areas.",
+    "notable_facts": [
+      "Founded in 2001",
+      "Represents financial institutions in real estate matters",
+      "Handles cases in New York, New Jersey and Connecticut"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark Knuckles",
+        "title": "Managing Partner",
+        "email": "mrk(a)kkmllp.com",
+        "phone": "914-345-3020",
+        "linkedin_url": "https://www.linkedin.com/in/mark-knuckles-1b30b415b"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jordan Manfro",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-345-3020",
+          "linkedin_url": "https://opengovny.com/attorney/4513321"
+        },
+        {
+          "name": "Louis Levithan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Manik J. Saini",
+          "title": "Attorney",
+          "email": null,
+          "phone": "914-345-3020",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cheryl Faith Filkowski",
+          "title": "Attorney",
+          "email": null,
+          "phone": "914-345-3020",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bobby Terrell Banks",
+          "title": "Attorney",
+          "email": null,
+          "phone": "914-345-3020",
+          "linkedin_url": null
+        },
+        {
+          "name": "Max Thomas Saglimbeni",
+          "title": "Attorney",
+          "email": null,
+          "phone": "914-345-3020",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

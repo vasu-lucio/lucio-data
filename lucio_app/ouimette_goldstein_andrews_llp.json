@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Ouimette, Goldstein, & Andrews, LLP",
+    "website": "https://www.ogalawfirm.com/",
+    "city": "Poughkeepsie",
+    "practice_areas": [
+      "Social Security Disability",
+      "Workers' Compensation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Ouimette, Goldstein & Andrews, LLP is a law firm serving the Hudson Valley and New York State, focusing on Social Security Disability and Workers' Compensation law. They have over 45 years of experience representing injured workers.",
+    "notable_facts": [
+      "The firm was founded in 1977.",
+      "They have multiple office locations including Poughkeepsie, Middletown, New Windsor, and Suffern.",
+      "The firm's attorneys cover hearings for residents of Rockland, Dutchess, Orange, Westchester, Ulster, and Sullivan Counties."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Scott Goldstein",
+        "title": "Managing Partner",
+        "email": "scottg@oga-law.com",
+        "phone": "(845)-692-2272",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William Goldstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Wilfred Ouimette",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lou Dauerer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edie Adams",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Lindholm",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eva Panchyshyn",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaime Adames",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

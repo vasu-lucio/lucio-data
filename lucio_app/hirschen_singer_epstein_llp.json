@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Hirschen Singer & Epstein LLP",
+    "website": "https://hirschensinger.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Affordable Housing and Community Development",
+      "Real Estate Financing",
+      "Charter and Public School Development",
+      "Purpose-Built Homeless Shelter Development",
+      "Condominiums and Co-Ops",
+      "Zoning and Land Use",
+      "Real Estate Development and Finance",
+      "Tax Credit Syndication",
+      "Nonprofit Representation",
+      "Taxation and Government Affairs",
+      "Leasing and Purchase and Sale Transactions",
+      "Tax Abatements and Exemptions",
+      "Franchises",
+      "Land Dispositions",
+      "Environmental",
+      "Land Use and Zoning Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hirschen Singer & Epstein LLP is a New York City real estate law firm that specializes in the representation of developers, tax credit syndicators and lenders in a wide variety of complex real estate transactions, including the development and operation of affordable housing and mixed-use projects under federal, state and city programs. The firm also has a broad municipal practice, including tax abatements and exemptions, franchises, land dispositions, environmental, land use and zoning matters.",
+    "notable_facts": [
+      "Since 1978, Hirschen Singer & Epstein LLP has made possible hundreds of affordable housing, community impact, and educational institution developments throughout the New York City metropolitan area.",
+      "The firm's attorneys facilitate the success of affordable housing and community development projects through zealous representation, creative legal structuring, and true partnership with their clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Esma Deljanin",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard C. Singer",
+          "title": "Partner",
+          "email": "rsinger@hseny.com",
+          "phone": "(212) 819-1130",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

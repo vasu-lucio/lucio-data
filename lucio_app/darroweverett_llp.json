@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "DarrowEverett LLP",
+    "website": "https://darroweverett.com/",
+    "city": "Providence",
+    "practice_areas": [
+      "Corporate & Business Transactions",
+      "Mergers & Acquisitions",
+      "Commercial Real Estate",
+      "Business Litigation & Alternative Dispute Resolution",
+      "Banking & Finance",
+      "Labor & Employment",
+      "Tax",
+      "Family Law",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 93,
+    "firm_description": "DarrowEverett LLP is a full-service law firm known for delivering practical, high-level counsel with speed, precision, and unwavering client focus. Our attorneys partner closely with businesses and individuals to help them navigate complex legal matters with confidence and clarity.",
+    "notable_facts": [
+      "Offices in Boston, MA; Providence, RI; New York, NY; Charlotte, NC; Boca Raton, FL; and Miami, FL",
+      "Founded in 2007"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jon M. Restivo",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Andrew J. Adams",
+        "title": "Partner & Chief Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Zachary G. Darrow",
+          "title": "Chairman & CEO",
+          "email": "zdarrow@darroweverett.com",
+          "phone": "(212) 335-2090",
+          "linkedin_url": null
+        },
+        {
+          "name": "Chad J. Gottlieb",
+          "title": "Partner & Chief Growth Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

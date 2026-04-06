@@ -1,0 +1,125 @@
+{
+  "firm_data": {
+    "firm_name": "Levine and Wiss PLLC",
+    "website": "http://888gothurt.com",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Premises Liability",
+      "Athlete Representation and Contract Work",
+      "Slip and Fall Accidents",
+      "Trip and Fall Accidents",
+      "Bus Accidents",
+      "Train Accidents",
+      "Car Accidents",
+      "Truck Accidents",
+      "Motorcycle Accidents",
+      "Subway Accidents",
+      "Sidewalk Accidents",
+      "Traumatic Brain Injuries",
+      "Municipal Liability",
+      "Labor Law",
+      "Construction Accidents",
+      "Scaffold and Ladder Accidents",
+      "Appeal",
+      "Mediation and Arbitration",
+      "Malpractice"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Levine And Wiss PLLC is a New York-based personal injury law firm with offices in NYC, Nassau, and Suffolk. The firm's motto is 'Whatever It Takes!'",
+    "notable_facts": [
+      "Founded in 1991",
+      "Se habla Espa\u00f1ol",
+      "Offices in NYC, Nassau, Suffolk"
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "PHP"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joel L. Levine",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott L Wiss",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tiffany Bogosian",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ernest T Lawson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sasha Shafeek",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony A Ferrante",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick J McGrath",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

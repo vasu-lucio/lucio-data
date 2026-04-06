@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Trainor, Pezzulo & DeSanto PLLC",
+    "website": "https://www.tpdlawfirm.com/",
+    "city": "Saratoga Springs",
+    "practice_areas": [
+      "Business Law",
+      "Municipal Law",
+      "Real Estate",
+      "Wills & Probate",
+      "Criminal Defense",
+      "Land Use Planning & Zoning"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Trainor, Pezzulo & DeSanto, PLLC is a law firm providing legal services in a wide range of legal matters. They are experienced in representing clients in the NY Capital Region.",
+    "notable_facts": [
+      "The firm offers services to small and mid-sized businesses.",
+      "They represent municipalities in New York State in Article 7 Real Property Tax Law assessment review proceedings."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James P. Trainor",
+          "title": "Attorney/Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan P. Pezzulo",
+          "title": "Attorney/Member",
+          "email": "ryanp@tpdlawfirm.com",
+          "phone": "518-899-9200 ext. 103",
+          "linkedin_url": null
+        },
+        {
+          "name": "Diana C. DeSanto",
+          "title": "Attorney/Member",
+          "email": "dianad@tpdlawfirm.com",
+          "phone": "518-899-9200 ext. 107",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kate L. Ernst",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth A. Marcuccio",
+          "title": "Attorney/Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

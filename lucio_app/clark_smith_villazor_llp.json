@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Clark Smith Villazor LLP",
+    "website": "https://www.csvllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "White Collar Criminal Defense",
+      "Securities Enforcement",
+      "Financial Services Sector Civil Disputes",
+      "Complex Civil Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Clark Smith Villazor LLP litigates high-stakes matters. The firm approaches every case proactively and aggressively, with an unwavering focus on clients\u2019 goals.",
+    "notable_facts": [
+      "Firm was founded in 2023 by Christopher J. Clark, Patrick J. Smith, and Rodney Villazor.",
+      "Christopher Clark represented Mark Cuban in SEC v. Mark Cuban and Elon Musk in SEC v. Elon Musk.",
+      "Patrick Smith successfully represented Ben Delo, a founder of BitMEX, in federal criminal and CFTC cases.",
+      "Rodney Villazor is a former Assistant US Attorney."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Christopher J. Clark",
+          "title": "Partner",
+          "email": "clark@csvllp.com",
+          "phone": "212-377-0853",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rodney Villazor",
+          "title": "Partner",
+          "email": "rodney.villazor@csvllp.com",
+          "phone": "212-377-0852",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Burns",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Dozier",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew J. Rodgers",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

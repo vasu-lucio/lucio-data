@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Felt Evans, LLP",
+    "website": "https://www.felt-evans.com/",
+    "city": "Clinton, NY",
+    "practice_areas": [
+      "Civil Litigation",
+      "Estate Planning",
+      "Family Law And Divorce",
+      "Commercial Planning And Litigation",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Felt Evans, LLP, provides dynamic representation and strategic legal counsel to individuals and businesses throughout central New York. For more than 200 years, our full-service law firm has assisted generations of families and resolved a wide variety of legal problems for our clients.",
+    "notable_facts": [
+      "Providing quality legal services in Clinton, New York and surrounding counties for more than two centuries.",
+      "A full-service law firm serving Oneida, Madison, Herkimer and Lewis Counties in New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Edward D. Earl",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia S. Bobrow",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth L. Bobrow",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony G. Hallak",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay G. Williams III",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

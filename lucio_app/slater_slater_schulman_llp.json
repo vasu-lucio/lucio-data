@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Slater Slater Schulman LLP",
+    "website": "https://sssfirm.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Mass Torts",
+      "Pharmaceutical Drug Litigation",
+      "Product Liability Litigation",
+      "9/11 World Trade Center Litigation",
+      "Sexual Abuse Cases",
+      "Child Victims Act Claims",
+      "Personal Injury",
+      "Medical Malpractice",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Slater Slater Schulman LLP is a full-service law firm with over 40 years of experience representing survivors of catastrophic and traumatic events. They have achieved successful resolutions in challenging fields, including pharmaceutical drug and medical device mass tort product liability litigations, 9/11 World Trade Center and Sexual Abuse cases including BSA and Child Victims Act claims.",
+    "notable_facts": [
+      "Represented more than 3,500 survivors in a historic $4 billion settlement with Los Angeles County for sexual abuse survivors.",
+      "Recovered over $1 billion dollars for their clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Carney",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph M. Slater",
+          "title": "Founding Partner & General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam P. Slater",
+          "title": "Founding & Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan E. Schulman",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Selene Braun",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Andersen Tax LLC",
+    "website": "https://andersen.com/",
+    "city": "San Francisco",
+    "practice_areas": [
+      "Tax",
+      "Valuation",
+      "Private Wealth",
+      "Transaction Advisory",
+      "Real Estate Advisory",
+      "Forensic Accounting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Andersen Tax LLC is an independent tax firm focused on tax advisory excellence, with a culture rooted in service, integrity, and client-first thinking. The firm serves clients around the world.",
+    "notable_facts": [
+      "Founded in 2002 by former Arthur Andersen partners.",
+      "Originally named Wealth & Tax Advisory Services (WTAS).",
+      "Rebranded as Andersen Tax LLC."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark L. Vorsatz",
+        "title": "Global Chairman and CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/andersen-tax/teams/leadership-team"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joe Toce",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Ullsperger",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/andersen-tax/teams/leadership-team"
+        },
+        {
+          "name": "Emily Hall",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/andersen-tax/teams/leadership-team"
+        },
+        {
+          "name": "John Griffin",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/andersen-tax/teams/leadership-team"
+        },
+        {
+          "name": "Lance Vanetta",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/andersen-tax/teams/leadership-team"
+        },
+        {
+          "name": "Peter Degregori",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/andersen-tax/teams/leadership-team"
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/forrester-&-co--pllc"
+  },
+  "email": {}
+}

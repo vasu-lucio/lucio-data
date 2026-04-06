@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Cona Elder Law PLLC",
+    "website": "https://conaelderlaw.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Elder Law",
+      "Estate Planning",
+      "Estate Administration",
+      "Litigation",
+      "Special Needs Planning",
+      "Health Care Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cona Elder Law is an award-winning law firm based in Melville, Long Island, concentrating in elder law, estate planning, and related areas. The firm is known for innovative strategies and legal skills.",
+    "notable_facts": [
+      "Celebrating over 25 years in practice",
+      "Recognized for innovative strategies and creative techniques"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jennifer B. Cona",
+        "title": "Founder and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Joseph Benty",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Diana Choy-shan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ken Kern",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Negrin-wiener",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack Genser",
+          "title": "Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

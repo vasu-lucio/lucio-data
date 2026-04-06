@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Greenfield Stein & Senior, LLP",
+    "website": "https://gss-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trusts and estates litigation",
+      "Surrogate's Court practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Greenfield Stein & Senior, LLP is a premier New York boutique firm specializing in trust, estate and fiduciary litigation. They provide high-quality legal representation to beneficiaries, fiduciaries, family members, and charities.",
+    "notable_facts": [
+      "The firm employs 15 people and has an annual revenue of $24.3M."
+    ],
+    "technology_signals": [
+      "amp",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary Freidman",
+          "title": "Partner",
+          "email": "gfreidman@gss-law.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy F Altman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniella Wittenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne Bederka",
+          "title": "Partner",
+          "email": "abederka@gss-law.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul T Shoemaker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

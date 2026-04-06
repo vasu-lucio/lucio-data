@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Kurzman Eisenberg",
+    "website": "https://www.kelaw.com/",
+    "city": "White Plains, NY",
+    "practice_areas": [
+      "Art Law",
+      "Corporate & Finance",
+      "Elder Law & Special Needs",
+      "Healthcare & Pharmaceuticals",
+      "Litigation",
+      "Real Estate",
+      "Trusts & Estates",
+      "Trusts & Estates Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kurzman Eisenberg offers the sophistication and quality of work expected from a large firm, paired with the accessibility, flexibility, and collegiality of a close-knit practice. Lawyers at every stage of their careers gain meaningful responsibility and client contact early on.",
+    "notable_facts": [
+      "The firm acts as outside general counsel to many of its clients.",
+      "They guide clients through billion dollar corporate transactions, as well as smaller transactions in the middle market."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joel S. Lever",
+          "title": "Partner",
+          "email": "jlever@kelaw.com",
+          "phone": "914.285.9800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lee Harrison Corbin",
+          "title": "Partner",
+          "email": "lcorbin@kelaw.com",
+          "phone": "914.993.6041",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

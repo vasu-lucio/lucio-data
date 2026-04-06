@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Callinan & Smith LLP",
+    "website": "https://www.callinansmith.com/",
+    "city": "Wantagh",
+    "practice_areas": [
+      "General liability claims",
+      "Motor vehicle negligence claims",
+      "Premises liability claims",
+      "Commercial litigation claims",
+      "Insurance coverage disputes",
+      "Suspect/fraudulent insurance claims"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Callinan & Smith LLP is a client-centered firm that utilizes business analytics and process management to provide more efficient and cost-effective service delivery. The firm handles litigation in New York, New Jersey, and Pennsylvania.",
+    "notable_facts": [
+      "The firm was formed in 2020.",
+      "The firm's members and employees were all trained under Craig J. Bruno.",
+      "The firm has an innovative approach to all aspects of its practice and harnesses the latest in technology."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael A. Callinan",
+        "title": "Senior Partner",
+        "email": "mcallinan@callinansmith.com",
+        "phone": "516-784-5148",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Matthew J. Smith",
+        "title": "Senior Partner",
+        "email": "mjsmith@callinansmith.com",
+        "phone": "551-210-1704",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven Daniel Levy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer B. Strong",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Patrick Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,113 @@
+{
+  "firm_data": {
+    "firm_name": "Wilk Auslander",
+    "website": "https://www.wilkauslander.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Bankruptcy & Creditor's Rights",
+      "Corporate",
+      "Commercial and General Corporate Advisory",
+      "Debt and Equity Financing",
+      "Mergers and Acquisitions",
+      "New Businesses",
+      "Securities and Regulatory Matters",
+      "Cybersecurity",
+      "Employment",
+      "Global Services",
+      "Intellectual Property",
+      "Intellectual Property Advisory",
+      "Intellectual Property Litigation",
+      "Litigation",
+      "Commercial Litigation",
+      "Judgment Enforcement",
+      "Lease Dispute and Restructuring Group",
+      "Real Estate Litigation",
+      "Regulatory Enforcement and Investigations",
+      "Securities Litigation",
+      "Real Estate",
+      "Acquisitions/Dispositions",
+      "Distressed Debt, Workouts and Restructurings",
+      "Healthcare Facilities",
+      "Hospitality",
+      "Leasing",
+      "Real Estate Finance",
+      "Title/Riparian Rights",
+      "Real Estate Development and Construction Law",
+      "Tax",
+      "International Transactions",
+      "Mergers, Acquisitions and Reorganization",
+      "Real Estate Taxation",
+      "State and Local Taxation",
+      "Structuring New Businesses",
+      "Trusts & Estates",
+      "Administration",
+      "Asset Protection",
+      "Estate Planning",
+      "Trusts & Estates Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wilk Auslander is a full-service law firm delivering the expertise and resources of a large firm combined with the attention and access of a boutique firm. Our experienced partners and associates provide you with the legal guidance and assistance you need at all levels.",
+    "notable_facts": [
+      "Based in New York City with an office in Geneva Switzerland, to support local, national and international clients.",
+      "Offer services in French, Hebrew, Italian, Russian, and Spanish.",
+      "Attorneys are frequent speakers at leading business and legal associations and deliver CLE courses on critical issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jay S. Auslander",
+          "title": "Attorney",
+          "email": null,
+          "phone": "+1.212.981.2300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Watnik",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stuart M. Riback",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

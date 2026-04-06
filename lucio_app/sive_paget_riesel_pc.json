@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Sive, Paget & Riesel P.C.",
+    "website": "https://sprlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Environmental Law",
+      "Litigation",
+      "Municipal Law",
+      "Land Use Law"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Sive, Paget & Riesel is a law firm specializing in complex environmental issues, municipal and land use law. They have been providing legal services for over 60 years.",
+    "notable_facts": [
+      "Recognized leader in environmental law and litigation for over 60 years.",
+      "Experienced in assisting clients with environmental assessments and Environmental Impact Statements.",
+      "Attorneys are experienced litigators in Superfund cost recovery actions and oil spill cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Bogin",
+          "title": "Principal",
+          "email": "mbogin@sprlaw.com",
+          "phone": "(646) 378-7210",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Chertok",
+          "title": "Principal",
+          "email": "mchertok@sprlaw.com",
+          "phone": "(646) 378-7228",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Chorost",
+          "title": "Principal",
+          "email": "dchorost@sprlaw.com",
+          "phone": "(646) 378-7207",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Paget",
+          "title": "Principal",
+          "email": "dpaget@sprlaw.com",
+          "phone": "(646) 378-7240",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Riesel",
+          "title": "Senior Counsel",
+          "email": "driesel@sprlaw.com",
+          "phone": "(646) 378-7224",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

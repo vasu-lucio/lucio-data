@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "National Labor Relations Board",
+    "website": "https://www.nlrb.gov/",
+    "city": "Washington D.C.",
+    "practice_areas": [
+      "Labor Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The National Labor Relations Board is an independent federal agency created in 1935 and vested with the power to safeguard employees\u2019 rights to organize, engage with one another to seek better working conditions, choose whether or not to have a collective bargaining representative negotiate on their behalf with their employer, or refrain from doing so. The NLRB also acts to prevent and remedy unfair labor practices committed by private sector employers and unions, as well as conducts secret-ballot elections regarding union representation.",
+    "notable_facts": [
+      "The General Counsel is independent from the Board and is responsible for the investigation and prosecution of unfair labor practice cases and for the general supervision of the NLRB field offices in the processing of cases.",
+      "The NLRB is a bifurcated agency governed on one side by a five-person Board and on the other side by a General Counsel."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Prem Aburvasamy",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Crystal Stowe Carey",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lynisa Michalski",
+          "title": "Acting Deputy General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roxanne L. Rothschild",
+          "title": "Executive Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ruth Blevins",
+          "title": "Inspector General",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

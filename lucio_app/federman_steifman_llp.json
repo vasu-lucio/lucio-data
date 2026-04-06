@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Federman Steifman LLP",
+    "website": "https://www.federmansteifman.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Structured Finance",
+      "Corporate Transactions"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Federman Steifman LLP is a boutique law firm specializing in complex and sophisticated real estate, structured finance and corporate transactions. The firm structures and closes large commercial mortgage loans, the acquisition of mortgage loans and loan portfolios and workouts and restructuring of real estate financings and credit facilities.",
+    "notable_facts": [
+      "Recognized in the 2026 Chambers USA Regional Spotlight Guide for Real Estate & Real Estate Finance",
+      "Four partners named by The Legal 500 among the U.S. City Elite lawyers in New York for real estate and real estate finance in March 2026"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael K. Federman",
+        "title": "Partner",
+        "email": null,
+        "phone": "212-994-9963",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lee D. Edelson",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-994-9963",
+          "linkedin_url": null
+        },
+        {
+          "name": "Hamid Soltani",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-994-9963",
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth P. Steifman",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-994-9963",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

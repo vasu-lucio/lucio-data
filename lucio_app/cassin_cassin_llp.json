@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Cassin & Cassin LLP",
+    "website": "https://cassinllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 50,
+    "firm_description": "Cassin & Cassin LLP is a law firm with three offices in New York City, Purchase, NY and Phoenix, AZ. Our attorneys focus on real estate law, representing lending institutions, investment funds, developers, small to medium size companies in all aspects of financing, buying, selling, leasing and development.",
+    "notable_facts": [
+      "Founded in 1986",
+      "Offices in New York City, Purchase, NY and Phoenix, AZ"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Greg Myers",
+        "title": "Director of Human Resources and Administration",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dax Scharfstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Blau",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jordan Hersch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Thomas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bret Salzer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

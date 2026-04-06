@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Clausen Miller P.C.",
+    "website": "https://www.clausen.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Insurance Coverage",
+      "Defense",
+      "Technology and Cyber Law",
+      "Subrogation",
+      "Appeals",
+      "School Districts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Clausen Miller has proudly represented the insurance industry since 1936. They are known for their depth and breadth of experience in first and third-party insurance coverage and reinsurance matters, and are a team of litigators.",
+    "notable_facts": [
+      "Founded in 1936",
+      "Has international capabilities and resources",
+      "Founding member of Clausen Miller International"
+    ],
+    "technology_signals": [
+      "Technology and Cyber Law practice group",
+      "Cyber Counseling and Response services",
+      "Assistance with data-related policies and incident-response plans"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Dennis D. Fitzpatrick",
+        "title": "Office Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Donald Clausen",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Herbert Hirsh",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Norman Miller",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carl M. Perri",
+          "title": "Office Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ian R. Feldman",
+          "title": "Office Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paige M. Neel",
+          "title": "Office Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James M. Weck",
+          "title": "Office Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

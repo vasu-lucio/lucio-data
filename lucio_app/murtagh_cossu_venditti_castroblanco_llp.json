@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Murtagh, Cossu, Venditti & Castro-Blanco, LLP",
+    "website": "https://www.mcvclaw.com/",
+    "city": "White Plains",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Murtagh, Cossu, Venditti & Castro-Blanco, LLP is a law firm located in White Plains, NY.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John M. Murtagh",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James Castro-Blanco",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Venditti",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

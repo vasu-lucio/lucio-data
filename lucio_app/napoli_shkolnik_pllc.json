@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Napoli Shkolnik PLLC",
+    "website": "https://www.napolilaw.com",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury",
+      "Aviation",
+      "Environmental Law",
+      "Civil Rights",
+      "Class Action and Mass Tort",
+      "Complex Business Litigation",
+      "Medical Malpractice",
+      "Product Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Napoli Shkolnik PLLC is a nationally known litigation firm that has been involved in numerous landmark settlements and verdicts. They represent clients in personal injury, aviation, environmental, civil rights, class action and mass tort, complex business litigation and trial law.",
+    "notable_facts": [
+      "Received five Tier 1 distinctions in the 2026 Best Law Firms rankings.",
+      "The firm handles high-stakes litigation.",
+      "They are involved in mass tort pharmaceutical and medical device litigations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marie Napoli",
+          "title": "Partner",
+          "email": null,
+          "phone": "844-234-5481",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul J. Napoli",
+          "title": "Partner",
+          "email": null,
+          "phone": "844-234-5481",
+          "linkedin_url": null
+        },
+        {
+          "name": "Hunter Shkolnik",
+          "title": "Senior Partner",
+          "email": "info@napolilaw.com",
+          "phone": "212-397-1000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Napoli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

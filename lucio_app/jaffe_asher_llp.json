@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Jaffe & Asher LLP",
+    "website": "https://jaffeandasher.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Bankruptcy",
+      "Commercial Litigation",
+      "Corporate & Transactional Law",
+      "Creditor's Rights",
+      "Family Law",
+      "Insurance",
+      "Lender Liability & Workout Litigation",
+      "Real Estate & Real Estate Finance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jaffe & Asher LLP is a law firm with offices in New York, New Jersey, Connecticut, Pennsylvania, Georgia, Florida and Texas. The firm\u2019s principal practice areas are commercial litigation, lender liability and workout litigation, creditors\u2019 rights, bankruptcy, insurance, real estate and real estate finance, corporate and transactional law, and family law.",
+    "notable_facts": [
+      "Gregory Galterio has been appointed Managing Partner of the firm.",
+      "The firm has expanded to Florida, Georgia and Texas.",
+      "David R. Shyer and Jonathan D. Berg have become Partners of the firm effective February 1, 2017."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory Galterio",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David R. Shyer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan D. Berg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marshall T. Potashner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

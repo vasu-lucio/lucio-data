@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Hurwitz Fine P.C.",
+    "website": "https://www.hurwitzfine.com/",
+    "city": "Buffalo",
+    "practice_areas": [],
+    "lawyer_count": 60,
+    "firm_description": "Hurwitz Fine P.C. is a midsize law firm that provides solutions to clients across New York State, New Jersey, and New England. They serve the complex business, litigation, and insurance needs of a diverse client base, from startups to Fortune 500 companies.",
+    "notable_facts": [
+      "Founded in 1977.",
+      "Ranked as a Tier One law firm in multiple practice areas in the 2025 edition of Best Law Firms\u00ae.",
+      "Ranked in the Chambers New York Regional Spotlight Guide for Dispute Resolution in 2024 and 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jody E. Briandi",
+        "title": "President and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Kevin J. Zanner",
+        "title": "Vice President",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Sheldon Hurwitz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert P. Fine",
+          "title": "FOUNDER (RET.)",
+          "email": "[email protected]",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven E. Peiper",
+          "title": "Vice President",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea Schillaci",
+          "title": "Secretary",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian F. Mark",
+          "title": "Board Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Romano Law PLLC",
+    "website": "https://romanolaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate Law",
+      "Litigation",
+      "Employment Law",
+      "Entertainment",
+      "Media",
+      "Sports Law",
+      "Business Law",
+      "Disputes"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Romano Law PLLC is a modern transactional and litigation law practice focused on Business, Disputes, Employment, Media, Sports and Entertainment law. They provide practical and proactive legal services without surprises.",
+    "notable_facts": [
+      "Founded in 2003",
+      "Has presence in Philippines and Kenya",
+      "Provides full-service outside general counsel for business entities and professionals"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Domenic Romano",
+        "title": "Founder & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Thomas Rogers",
+        "title": "Director Of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven J Shanker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andres Munoz",
+          "title": "Litigation Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory Cavallo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kayla Orekomaiya",
+          "title": "Client Development Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

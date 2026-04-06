@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Kroll",
+    "website": "https://www.kroll.com",
+    "city": "New York",
+    "practice_areas": [
+      "Valuation Services",
+      "Cyber and Data Resilience",
+      "Restructuring",
+      "Business Services",
+      "Investment Banking",
+      "Transaction Advisory Services",
+      "Transaction Opinions",
+      "Risk Advisory",
+      "Financial Advisory",
+      "Investigations",
+      "Economics",
+      "Decision Intelligence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kroll helps clients detect, manage and mitigate enterprise risk and make strategic and informed financial decisions to achieve an enduring competitive advantage. Kroll provides you with a way to build, protect and maximize value through our differentiated financial and risk advisory and intelligence.",
+    "notable_facts": [
+      "Winners of the 2024 APLMA Awards (Legacy Madison Pacific)",
+      "Ranked No. 1 Independent Administrative Agent for EMEA in Q4 2025 by Bloomberg's rankings",
+      "Included as one of the top cross-border investigation consultancies in 2021, 2022, 2023, 2024 and 2025 by Global Investigations Review (GIR) 100",
+      "Kroll Issuer Services Ranked No. 1 Agent On Bloomberg\u2019s Global Liability Management Bond Table for the third consecutive year",
+      "Ranked #1 Total Number of Fairness Opinions in the U.S. and Globally Over the Last 5, 10, and 20-year Periods According to LSEG",
+      "Ranked #1 for Total Number of Fairness Opinions globally in 2025 by LSEG",
+      "Ranked Band 2 for Business Intelligence & Investigations in the Asia-Pacific region by Chambers and Partners",
+      "Ranked Band 1 for Forensic Accountants in the Asia-Pacific region by Chambers and Partners",
+      "Kroll Property Insurance Valuation Platform wins Excellence in Digital Innovation 2024 award at the Global Insurance Innovation Awards 2024",
+      "Kroll Wins Best Regulatory and Compliance Firm of the Year by Private Equity Wire European Awards 2023, 2024",
+      "Kroll Wins Best Regulatory Advisor of the Year 2024 by Private Equity Wire EU Emerging Manager Awards 2024",
+      "Kroll Wins Best Regulatory and Compliance Firm of the Year (2022, 2023 & 2024) by Private Equity Wire US Awards 2024"
+    ],
+    "technology_signals": [
+      "Kroll Economics leverages AI and real-time data feeds",
+      "Kroll Decision Intelligence combines financial expertise with advanced data science and AI capabilities"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jacob Silverman",
+        "title": "Chief Executive Officer",
+        "email": null,
+        "phone": "+1 212 871 2000",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jennifer Huntington",
+        "title": "Chief Operating Officer",
+        "email": "Jennifer.Huntington@kroll.com",
+        "phone": "+1 215 430 6054",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Kroll Economics and Decision Intelligence leverage AI to accelerate decision-making and achieve competitive advantage."
+      },
+      "additional_contacts": [
+        {
+          "name": "Sharon Dhall",
+          "title": "Chief Information Officer",
+          "email": "Sharon.Dhall@kroll.com",
+          "phone": "+1 212 450 8192",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael H. Dolan",
+          "title": "President, Financial Advisory",
+          "email": "Michael.Dolan@kroll.com",
+          "phone": "+1 212 871 5995",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Forman",
+          "title": "Chief Legal and Risk Officer",
+          "email": "Edward.Forman@kroll.com",
+          "phone": "+1 212 871 2000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Russo Law Group, P.C.",
+    "website": "https://vjrussolaw.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Estate Planning",
+      "Elder Law",
+      "Special Needs Planning",
+      "Guardianships",
+      "Real Estate",
+      "Trust & Estate Administration",
+      "Medicaid Planning",
+      "Small Business"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Russo Law Group is Long Island\u2019s Signature Elder Law, Special Needs and Estate Planning law firm with offices in Garden City, Lido Beach, and Islandia, New York. Vincent and his law firm have championed the rights of seniors and people with special needs since 1985.",
+    "notable_facts": [
+      "Serving the community since 1985"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Vincent J. Russo",
+        "title": "Managing Partner",
+        "email": "vjr@vjrussolaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Administrator",
+        "email": "mcastillo@vjrussolaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marie Elena R. Puma",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paula Arrington",
+          "title": "Controller",
+          "email": "parrington@vjrussolaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dante Russo",
+          "title": "Marketing Director",
+          "email": "drusso@vjrussolaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

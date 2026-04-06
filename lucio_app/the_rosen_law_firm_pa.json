@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "The Rosen Law Firm, P.A.",
+    "website": "http://www.rosenlegal.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Litigation",
+      "Class Actions",
+      "Shareholder Derivative",
+      "Complex Litigation"
+    ],
+    "lawyer_count": 28,
+    "firm_description": "The Rosen Law Firm is a leading securities class action law firm in the U.S. They represent investors that fall victim to securities fraud and corporate misconduct.",
+    "notable_facts": [
+      "The firm has recovered billions for investors.",
+      "The firm is dedicated to recovering investment losses for investors in public and private companies that have misrepresented material aspects of their business."
+    ],
+    "technology_signals": [
+      "relat"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matt Siben",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erica Stone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Josh Baker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Goldberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yu Shi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

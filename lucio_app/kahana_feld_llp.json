@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Kahana Feld",
+    "website": "https://kahanafeld.com/",
+    "city": "Irvine",
+    "practice_areas": [
+      "National Appellate Litigation & Consulting",
+      "Business & Commercial Litigation",
+      "Construction Litigation",
+      "General Liability",
+      "Labor & Employment Counseling and Litigation",
+      "New York Labor Law",
+      "Real Estate Law",
+      "Trucking & Transportation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kahana Feld is a full-service law firm that puts clients and people first. The firm delivers sharp, cross-disciplinary legal solutions across diverse industries.",
+    "notable_facts": [
+      "Fast-growing national law firm",
+      "Committed to client service"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Rina Hunter",
+        "title": "COO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Samuel Yu",
+          "title": "Irvine Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Fox",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mimi Ahn",
+          "title": "Partner, Chair of Labor & Employment Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Maxwell",
+          "title": "Chief People Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

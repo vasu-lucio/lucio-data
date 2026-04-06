@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Klein Moynihan Turco LLP",
+    "website": "https://kleinmoynihan.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Internet and mobile marketing law",
+      "data privacy and security law",
+      "NFT law",
+      "sweepstakes and promotions law",
+      "fantasy sports and gaming law",
+      "intellectual property law",
+      "general corporate law",
+      "communications law"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Klein Moynihan Turco LLP (KMT) is a full-service law firm concentrating on all aspects of Internet and mobile marketing law, data privacy and security law, NFT law, sweepstakes and promotions law, fantasy sports and gaming law, intellectual property law, general corporate law and communications law. KMT is located next to Madison Square Garden in New York City.",
+    "notable_facts": [
+      "The firm boasts a prestigious domestic and international practice with clients ranging from multi-national corporations to technology start-ups.",
+      "KMT\u2019s attorneys take pride in high-quality work, while meeting our clients\u2019 demanding deadlines, working on \u201cInternet time.\u201d"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David O. Klein",
+        "title": "Managing Partner",
+        "email": "info@kleinmoynihan.com",
+        "phone": "212-246-0900",
+        "linkedin_url": "https://www.linkedin.com/in/davidoklein"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan E. Turco",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean A. Moynihan",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neil E. Asnen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dustin P. Mansoor",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

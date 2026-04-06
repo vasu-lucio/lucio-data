@@ -1,0 +1,56 @@
+{
+  "firm_data": {
+    "firm_name": "Russo PLLC",
+    "website": "https://russopllc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Cross-Jurisdictional Litigation",
+      "Strategic Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Russo PLLC is a boutique legal firm offering innovative solutions for global business needs. They provide strategic guidance and legal representation for domestic and international clients.",
+    "notable_facts": [
+      "Offers custom teams hand-picked to meet specific client needs.",
+      "Engages in strategic planning with an elite network of professionals from various fields.",
+      "Committed to environmental sustainability and energy conservation."
+    ],
+    "technology_signals": [
+      "Uses bamboo, reusable, scannable business cards in partnership with V1CE for sustainable networking."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Martin P. Russo",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/louisarusso/"
+      },
+      "co_managing_partner": {
+        "name": "Robert Sidorsky",
+        "title": "Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

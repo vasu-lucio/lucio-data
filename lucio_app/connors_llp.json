@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Connors LLP",
+    "website": "http://connorsllp.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Personal Injury",
+      "Business Litigation",
+      "Representation of Professionals",
+      "Civil Litigation",
+      "White Collar Investigations",
+      "Appeals"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Connors LLP is a litigation law firm based in Buffalo, New York, providing strong advocacy for businesses and individuals in complex legal matters. They are known for adapting to challenges and developing winning legal strategies in civil and criminal matters.",
+    "notable_facts": [
+      "The firm was co-founded in 1986 by Terrence Connors.",
+      "Connors LLP represents clients both locally and nationally.",
+      "Attorneys and judges often seek representation from Connors LLP."
+    ],
+    "technology_signals": [
+      "Uses WordPress",
+      "Uses MySQL",
+      "Uses jQuery"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Terrence M. Connors",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "716-852-5533",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Randall D. White",
+          "title": "Partner",
+          "email": null,
+          "phone": "716-852-5533",
+          "linkedin_url": null
+        },
+        {
+          "name": "John T. Loss",
+          "title": "Partner",
+          "email": null,
+          "phone": "716-852-5533",
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent E. Doyle III",
+          "title": "Partner",
+          "email": null,
+          "phone": "716-852-5533",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Roach",
+          "title": "Partner",
+          "email": null,
+          "phone": "716-852-5533",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

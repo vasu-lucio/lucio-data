@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Rabinowitz, Boudin, Standard, Krinsky & Lieberman, P.C.",
+    "website": "https://www.rbskl.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Cuba, and Its Agencies and Enterprises",
+      "Other Foreign Governments, and Their Agencies and Enterprises",
+      "United States Embargo Laws and Export Controls",
+      "Intellectual Property",
+      "Art and Media Law",
+      "Trusts and Estates",
+      "Constitutional Law, Civil Rights and Civil Liberties",
+      "Religious Liberties",
+      "Commercial Law",
+      "Not-For-Profit Organizations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rabinowitz, Boudin, Standard, Krinsky & Lieberman, P.C. maintains a distinctive practice in several areas of the law. Founded in 1944 by Victor Rabinowitz and Leonard B. Boudin, the Firm enjoys a national and international reputation.",
+    "notable_facts": [
+      "Founded in 1944",
+      "Known for representation of Cuba since 1960",
+      "Experienced in constitutional law and civil rights"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Victor Rabinowitz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leonard B. Boudin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Krinsky",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric M. Lieberman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David B. Goldstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

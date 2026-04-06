@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Marshall, Conway, Bradley & Gollub P.C.",
+    "website": "https://www.mcwpc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Defense",
+      "Insurance Coverage",
+      "Reinsurance",
+      "Construction Accidents",
+      "Products Liability",
+      "General Liability",
+      "Motor Vehicle Liability",
+      "Toxic Torts",
+      "Environmental Liability",
+      "Professional Liability",
+      "Insurance Subrogation",
+      "Mediation",
+      "Arbitration",
+      "State Appellate Practice",
+      "State Trial Practice",
+      "Federal Appellate Practice",
+      "Federal Trial Practice",
+      "Litigation & Appeals"
+    ],
+    "lawyer_count": 26,
+    "firm_description": "Marshall, Conway, Bradley, & Gollub P.C. is an insurance defense law firm representing national and international clients. The firm handles New York and New Jersey insurance claims for a variety of insurance companies and self-insured corporations throughout the United States and London.",
+    "notable_facts": [
+      "Founded in 1986",
+      "AV rating from Martindale Hubbell",
+      "Represents clients at every level of state and federal courts in New York and New Jersey"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Gollub",
+          "title": "Partner",
+          "email": "MGollub@mcwpc.com",
+          "phone": "212-619-5436",
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher T. Bradley",
+          "title": "Partner",
+          "email": "cbradley@mcwpc.com",
+          "phone": "212-619-4873",
+          "linkedin_url": null
+        },
+        {
+          "name": "Debbie-Ann Morley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Greg McGuire",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mufaddal Mithaiwala",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

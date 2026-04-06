@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Cohen Schneider Law, P.C.",
+    "website": "https://cohenschneider.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Startup Law",
+      "Education Law",
+      "Not-for-Profit Organizations",
+      "Trademark & Copyright",
+      "Commercial Real Estate",
+      "Private Client"
+    ],
+    "lawyer_count": null,
+    "firm_description": "A law firm for entrepreneurs and pioneers in business, education and not-for-profit ventures. New York City based with a world view.",
+    "notable_facts": [
+      "The firm focuses on innovation and helping clients bring new ideas and businesses to life.",
+      "They have a dedicated team for charter school law.",
+      "Offer legal guidance for e-commerce, social media, and Internet-related business issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Cliff S. Schneider",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mark J. Fink",
+        "title": "Chief of Staff and Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan R. Briggs",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dwayne M. Andrews",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nina D. Harris",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

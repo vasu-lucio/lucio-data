@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "EY Law LLP",
+    "website": "https://www.eylaw.ca/en_ca",
+    "city": "Toronto",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "EY helps clients create long-term value for all stakeholders. Enabled by data and technology, our services and solutions provide trust through assurance and help clients transform, grow and operate.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Shara Roy",
+        "title": "Executive Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chris J. Price",
+          "title": "Managing Partner, Financial Services Law, Ernst & Young LLP United Kingdom",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Whalley",
+          "title": "Partner, Law, Ernst & Young LLP",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Colette Withey",
+          "title": "Commercial & Digital Law Leader, Ernst & Young LLP",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Barrington",
+          "title": "EY Americas Chief Technology Officer; EY Global AI Activation Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

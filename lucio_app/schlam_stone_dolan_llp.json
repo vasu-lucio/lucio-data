@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Schlam Stone & Dolan LLP",
+    "website": "https://schlamstone.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex commercial litigation",
+      "Civil litigation",
+      "Government investigations",
+      "White collar defense and investigations",
+      "Appeals",
+      "Transactional services",
+      "Legal counseling"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Schlam Stone & Dolan LLP is a boutique law firm focusing on complex commercial litigation, civil litigation and government investigations, white collar defense and investigations, appeals, and transactional services and legal counseling for businesses, non-profits, and individuals. The firm was founded in 1981 by three former Assistant United States Attorneys for the Eastern District of New York.",
+    "notable_facts": [
+      "Founded in 1981",
+      "Most attorneys are former federal prosecutors or alumni of AM Law 100 firms",
+      "Regularly litigates against the largest law firms"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey M. Eilender",
+        "title": "Co-Managing Partner",
+        "email": "jeilender@schlamstone.com",
+        "phone": "212.612.1212",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Harvey M. Stone",
+        "title": "Founder and Co-Managing Partner",
+        "email": "hstone@schlamstone.com",
+        "phone": "212.344.5400",
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard H. Dolan",
+          "title": "Founder",
+          "email": "rdolan@schlamstone.com",
+          "phone": "212.612.1219",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Ken H. Le",
+        "title": "Director of Administration & Operations",
+        "email": "kle@schlamstone.com",
+        "phone": "212.612.0690",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian J. DaSilva",
+          "title": "Controller",
+          "email": "bdasilva@schlamstone.com",
+          "phone": "212.612.0682",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

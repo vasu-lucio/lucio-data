@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "ASK LLP",
+    "website": "https://askllp.com/",
+    "city": "Saint Paul",
+    "practice_areas": [
+      "Bankruptcy",
+      "Restructuring",
+      "Mass Torts",
+      "Creditors\u2019 Rights",
+      "Sexual Abuse Litigation"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "ASK LLP is a law firm with a national reputation as a leading firm in bankruptcy, creditors\u2019 rights, mass torts, and sexual abuse litigation. They integrate these practice areas into a unified strategy to advocate for their clients.",
+    "notable_facts": [
+      "Recovered over $500 million for clients.",
+      "The firm was founded in 1996.",
+      "ASK LLP combines bankruptcy, creditors\u2019 rights, mass torts, and sexual abuse practices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Edward E. Neiger",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph L. Steinfeld Jr.",
+          "title": "Co-Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandra W. Robertson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brigette G. McGrath",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary D. Underdahl",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/askllp"
+  },
+  "email": {}
+}

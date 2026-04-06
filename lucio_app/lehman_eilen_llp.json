@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Lehman & Eilen LLP",
+    "website": "https://www.lehmaneilen.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Securities Law",
+      "Corporate Law",
+      "Broker-Dealer Regulation",
+      "Investment Advisory",
+      "Hedge Funds",
+      "Commercial Transactions",
+      "Litigation",
+      "Arbitration",
+      "Mediation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lehman & Eilen LLP is a law firm concentrating its practice in offering sophisticated securities, regulatory and corporate legal services to broker-dealers, investment advisers, hedge funds and other financial service professionals. The firm represents securities industry participants in a wide array of matters, from corporate and compliance matters to litigation and SEC and FINRA investigations.",
+    "notable_facts": [
+      "Founded in 1994",
+      "Has earned an \"AV\" rating from Martindale Hubbell",
+      "Listed in the Martindale Hubbell Bar Registry of Preeminent Lawyers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bob E. Lehman",
+          "title": "Partner",
+          "email": "blehman@lehmaneilen.com",
+          "phone": "(516) 222-0888 Ex. 114",
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard S. Eilen",
+          "title": "Partner",
+          "email": "heilen@lehmaneilen.com",
+          "phone": "(516) 222-0888 Ex. 117",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Fred P. Boy",
+          "title": "Partner",
+          "email": "fboy@lehmaneilen.com",
+          "phone": "(516) 222-0888 Ex. 116",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard I. Alvarez",
+          "title": "Of Counsel",
+          "email": "ralvarez@lehmaneilen.com",
+          "phone": "(516) 222-0888",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathaniel H. Christian III",
+          "title": "Of Counsel",
+          "email": "nchristian@lehmaneilen.com",
+          "phone": "(516) 222-0888 Ext. 149",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

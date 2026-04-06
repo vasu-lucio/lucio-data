@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "DiRaimondo & Schroeder LLP",
+    "website": "https://www.diraimondoschroeder.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Business Immigration Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "D&S is a boutique business immigration law firm specializing in assisting entrepreneurs, start-ups, small businesses, and creative companies with their immigration needs. D&S services clients in all industries from art, architecture, and graphic design to business, finance, and technology.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Marie Gundersen",
+        "title": "Chief OperatinG officer & Immigration MANAGER",
+        "email": "mgundersen@ds-immigration.com",
+        "phone": "+ 1 (718) 215-0744",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dana A. DiRaimondo",
+          "title": "Partner",
+          "email": "dana@ds-immigration.com",
+          "phone": "+1 (718) 215-0504",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah A. Schroeder",
+          "title": "Partner",
+          "email": "sarah@ds-immigration.com",
+          "phone": "+1 (718) 215-9631",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ursula B. Orozco",
+          "title": "SENIOR ASSOCIATE ATTORNEY",
+          "email": "ursula@ds-immigration.com",
+          "phone": "+ 1 (718) 215-9463",
+          "linkedin_url": null
+        },
+        {
+          "name": "Isabel Rajabzadeh",
+          "title": "Associate Attorney",
+          "email": "isabel@ds-immigration.com",
+          "phone": "+ 1 (718) 215-0822",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

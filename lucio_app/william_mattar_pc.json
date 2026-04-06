@@ -1,0 +1,54 @@
+{
+  "firm_data": {
+    "firm_name": "William Mattar, P.C.",
+    "website": "https://williammattar.com/",
+    "city": "Buffalo, New York",
+    "practice_areas": [
+      "Car Accidents",
+      "Motor Vehicle Accidents",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "William Mattar, P.C. is a law firm focusing on car accident cases and is one of the largest firms in New York State to focus on motor vehicle accidents cases. The firm has offices or intake locations in the Buffalo, Rochester, Syracuse, Albany, New York City, and Long Island areas.",
+    "notable_facts": [
+      "The firm was founded in 1990.",
+      "William Mattar, P.C. is the largest motor vehicle accident firm in New York.",
+      "The firm has recovered more than $400 million in settlements and awards for their clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William K. Mattar",
+        "title": "Owner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/williammattarattorney"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

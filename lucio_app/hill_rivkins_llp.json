@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Hill Rivkins LLP",
+    "website": "http://hillrivkins.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Admiralty and Maritime",
+      "Insurance",
+      "Transportation",
+      "Energy",
+      "International Commerce"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hill Rivkins LLP is a national law firm in the fields of admiralty and maritime, insurance, transportation, energy and international commerce. Our legal professionals are preeminent in their fields and continue to provide excellent legal service to clients worldwide.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James A. Saville Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ernesto V. Luzzatto",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Raymond Hayden",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerard W. White",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian P. R. Eisenhower",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

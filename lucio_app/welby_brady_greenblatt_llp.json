@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Welby, Brady & Greenblatt, LLP",
+    "website": "https://www.wbgllp.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Construction Law",
+      "Real Estate Law",
+      "Labor & Employment Law",
+      "Commercial Law",
+      "Litigation"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Welby, Brady & Greenblatt, LLP is a construction law firm providing legal expertise rooted in real-world construction and engineering experience. They represent entities within the construction and real estate industry.",
+    "notable_facts": [
+      "Founded in 1988",
+      "Offices located throughout the Tri-State/Greater Metropolitan area",
+      "Represent the full spectrum of entities within the construction and real estate industry"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas H. Welby",
+          "title": "Founder & Senior Counsel",
+          "email": "twelby@wbgllp.com",
+          "phone": "(914) 428-2100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerald P. Brady",
+          "title": "Senior counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael E. Greenblatt",
+          "title": "Senior counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas S. Tripodianos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony P. Carlucci Jr",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul G. Ryan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Costas Cyprus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "BERG & DAVID PLLC",
+    "website": "https://www.bergpllc.com/",
+    "city": "Inwood",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Foreclosure Defense",
+      "Appellate Practice",
+      "Real Estate Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "BERG & DAVID PLLC represents litigants in both State and Federal Courts and has an excellent reputation for handling high stake complex commercial litigation matters. The firm has successfully represented hundreds of homeowners, borrowers, investors, lienholders as well as lenders in residential and commercial foreclosure proceedings.",
+    "notable_facts": [
+      "The firm defends homeowners, borrowers, investors, property owners and lien holders in foreclosure proceedings throughout New York City and Long Island.",
+      "They have successfully defended foreclosure actions by asserting a Statute of Limitations defense and ultimately bringing a Quiet Title action against the Foreclosing Bank resulting in the Mortgage being discharged from the subject property."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Berg",
+        "title": "Partner",
+        "email": null,
+        "phone": "(718) 989-1394",
+        "linkedin_url": "https://www.linkedin.com/in/david-berg-85553b5"
+      },
+      "co_managing_partner": {
+        "name": "Abraham David",
+        "title": "Partner",
+        "email": "info@bergpllc.com",
+        "phone": "(718) 989-1394",
+        "linkedin_url": "https://www.linkedin.com/in/abraham-david-b0aaa341"
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sholom Wohlgelernter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ross Eisenberg",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barghausen-consulting-engineers"
+  },
+  "email": {}
+}

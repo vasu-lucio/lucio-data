@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "Office of the Special Narcotics Prosecutor for the City of New York",
+    "website": "https://www.snpnyc.org/",
+    "city": "New York City",
+    "practice_areas": [
+      "Narcotics",
+      "Criminal Law"
+    ],
+    "lawyer_count": 200,
+    "firm_description": "The Office of the Special Narcotics Prosecutor (SNP) works collaboratively with New York City\u2019s elected District Attorneys to investigate and prosecute felony narcotics cases across all five boroughs of the city. The office\u2019s mission is to protect the public and prevent overdose deaths by investigating and prosecuting high-level narcotics trafficking organizations and illicit prescription drug distribution networks, and by responding to community complaints about persistent drug activity and associated violence.",
+    "notable_facts": [
+      "SNP was created in 1971 to address the free flow of narcotics across county lines and drug-related violence.",
+      "The city\u2019s five District Attorneys appoint the Special Narcotics Prosecutor and assign Assistant District Attorneys to serve in SNP.",
+      "SNP strives to decrease demand for narcotics by raising public awareness and facilitating treatment for those with substance use issues.",
+      "The office reached over 5,000 students and parents in 2024 through educational outreach."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bridget G. Brennan",
+        "title": "Special Narcotics Prosecutor",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Benjamin Azaraev",
+        "title": "Chief Information Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer Gutierrez",
+          "title": "Chief of Staff",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

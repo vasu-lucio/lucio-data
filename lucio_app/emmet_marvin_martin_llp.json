@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Emmet, Marvin & Martin, LLP",
+    "website": "https://emmetmarvin.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Banking and Finance",
+      "Bankruptcy Litigation",
+      "Corporate",
+      "Litigation",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Emmet, Marvin & Martin, LLP is one of the oldest law firms in continuous existence in the United States, founded in 1805, committed to a tradition of excellence. The firm counsels financial institutions, corporations, partnerships, limited liability companies, fiduciaries, not-for-profit organizations, and individuals.",
+    "notable_facts": [
+      "Founded in 1805",
+      "One of the oldest law firms in continuous existence in the United States",
+      "Has represented its largest institutional client for over 175 years"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas Addis Emmet",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Rose Hirsch",
+        "title": "Director Of Administration",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Dellaportas",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212-238-3092",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas A Pitta",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Reuben",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Weinstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "August Delvecchio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

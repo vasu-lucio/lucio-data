@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Lester Shaw & Levy LLP",
+    "website": "https://lestershawlevy.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Real Estate",
+      "Acquisitions / Dispositions",
+      "Construction / Development",
+      "Commercial Leasing",
+      "Finance / Capital Raises",
+      "Offering Plans",
+      "Corporate / Joint Ventures",
+      "Litigation / Dispute Resolution"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Lester Shaw & Levy LLP is a full-service real estate law firm that offers a comprehensive, holistic approach to legal advocacy. They represent the entire lifecycle of a project, from site selection to financing, acquisitions to construction agreements, leasing to litigation, and more.",
+    "notable_facts": [
+      "Founded in 2023",
+      "Located in Brooklyn, New York",
+      "The firm represents the entire lifecycle of a real estate project"
+    ],
+    "technology_signals": [
+      "Westlaw",
+      "Microsoft",
+      "Microsoft Office",
+      "Zoom",
+      "Impact"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ian Lester",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Martin Shaw",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Levy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kyle Levin",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Liren Shuo",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

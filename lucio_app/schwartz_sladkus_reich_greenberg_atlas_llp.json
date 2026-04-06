@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Schwartz Sladkus Reich Greenberg Atlas LLP",
+    "website": "https://ssrga.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Health Care",
+      "Trusts & Estates",
+      "Business & Corporate",
+      "Not-For-Profit",
+      "Litigation",
+      "Matrimonial & Family Law",
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "We are a dynamic law firm with deep experience and a passionate commitment to providing smart, efficacious solutions for our clients. Building upon our respected practices in real estate, healthcare, not-for-profit, business and corporate and trust & estate law, including real estate and commercial litigation, we believe productive outcomes demand fresh thinking and a determination to quickly get to the heart of each matter.",
+    "notable_facts": [
+      "Most of our partners have worked together for over 20 years.",
+      "The firm was founded in 2015."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey M. Schwartz",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "David Martin",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven D. Sladkus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey S. Reich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eli D. Greenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason B. Atlas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

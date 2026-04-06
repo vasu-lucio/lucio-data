@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Feldman, Kleidman, Collins & Sappe LLP",
+    "website": "https://www.fkcs.law/",
+    "city": "Fishkill",
+    "practice_areas": [
+      "Personal Injury",
+      "Professional Liability Defense",
+      "Medical Malpractice Defense",
+      "Legal Malpractice",
+      "Product Liability",
+      "Wrongful Death",
+      "Construction Accidents",
+      "Dog Bites",
+      "Motor Vehicle Accidents",
+      "Unsafe Highways",
+      "On the job injuries"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Feldman, Kleidman, Collins & Sappe LLP is a litigation firm dedicated to advocating for the rights of its clients since 1986. The firm provides legal support to clients throughout the Hudson Valley and Capital District.",
+    "notable_facts": [
+      "The firm was founded in 1986.",
+      "FKC&S has been selected as one of the best law firms in the practice area of Medical Malpractice Defense and Personal Injury by U.S. News and World Report since 2010.",
+      "Initial consultations and inquiries are offered free of charge, and always with an attorney."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jeffrey M. Feldman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul S. Kleidman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert R. Sappe",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathryn C. Collins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bain R. Loucks",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

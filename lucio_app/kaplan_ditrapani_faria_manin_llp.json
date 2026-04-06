@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Kaplan, Ditrapani, Faria & Manin LLP",
+    "website": "https://kaplanrealestatelawyers.com/",
+    "city": "Syosset",
+    "practice_areas": [
+      "Real Estate Transactions",
+      "Commercial Real Estate Transactions",
+      "Lender Representation",
+      "Residential Real Estate Closings",
+      "Real Estate & Commercial Litigation",
+      "New York Wills, Trusts and Estates",
+      "New York Business and Corporate Law",
+      "Landlord-Tenant Disputes"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Kaplan, Ditrapani, Faria & Manin LLP solves complex real estate and business challenges with an aggressive, streamlined approach creating bona fide results for their long standing clients. They expedite mortgage-related transactions of all types (commercial & residential) servicing the greater New York area.",
+    "notable_facts": [
+      "The firm has over 20 years of experience.",
+      "They have over 5000 successful cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jared S. Kaplan",
+        "title": "Managing Partner",
+        "email": "jared@closerattorney.com",
+        "phone": "516-801-6363",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bart D. Kaplan",
+          "title": "Founder",
+          "email": "bart@closerattorney.com",
+          "phone": "516-510-3128",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew J. DiTrapani",
+          "title": "Partner",
+          "email": "matt@closerattorney.com",
+          "phone": "516-801-6363",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph A. Faria",
+          "title": "Partner",
+          "email": "joe@closerattorney.com",
+          "phone": "516-801-6363",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mara Manin Amendola",
+          "title": "Partner",
+          "email": "mara@closerattorney.com",
+          "phone": "516-801-6363",
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth A. Romanick",
+          "title": "Partner",
+          "email": "Seth@closerattorney.com",
+          "phone": "(212)404-7804",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin Hagler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

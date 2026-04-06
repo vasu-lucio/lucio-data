@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "Conway, Donovan & Manley, PLLC",
+    "website": "https://www.lawcdm.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Personal Injury",
+      "Estate Litigation",
+      "Criminal Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Conway, Donovan & Manley, PLLC, is a full-service litigation firm formed by three trial lawyers who draw from a wide variety of experience to provide clients with a well-rounded, experienced approach to their litigation needs. With a focus on quality, not quantity, their attorneys bring more than 75 years of combined experience in providing comprehensive legal services to individuals and businesses in New York State.",
+    "notable_facts": [
+      "The firm was formed by three trial lawyers.",
+      "The attorneys bring more than 75 years of combined experience."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ryan E. Manley",
+          "title": "Attorney",
+          "email": null,
+          "phone": "518-436-1661",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

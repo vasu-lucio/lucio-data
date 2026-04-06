@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Simon Greenstone Panatier, PC",
+    "website": "https://sgplegal.org/",
+    "city": "Dallas",
+    "practice_areas": [
+      "Mesothelioma",
+      "Catastrophic Injury",
+      "Product Liability",
+      "Pharmaceutical",
+      "Toxic Tort",
+      "Commercial Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Simon Greenstone Panatier, PC is a national trial firm dedicated to fighting for clients\u2019 rights in serious injury cases. They represent individuals and families harmed by negligence and recklessness, particularly involving large corporations.",
+    "notable_facts": [
+      "Jeffrey Simon and David Greenstone were selected among Lawdragon\u2019s Leading Lawyers for 2026.",
+      "The firm has earned Best Law Firms recognition for its plaintiffs work.",
+      "The firm offers a scholarship benefiting families impacted by cancer."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David C. Greenstone",
+        "title": "Founding Shareholder / Executive Committee",
+        "email": null,
+        "phone": "214.276.7680",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jeffrey B. Simon",
+          "title": "Founding Shareholder / Executive Committee",
+          "email": null,
+          "phone": "214.276.7680",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Christi Dutton",
+        "title": "Chief Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jasmine N. Bell",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

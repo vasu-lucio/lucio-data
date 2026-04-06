@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Mandel Bhandari LLP",
+    "website": "https://www.mandelbhandari.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Trial Practice",
+      "Business",
+      "Employment / Civil Rights",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mandel Bhandari is a litigation firm that specializes in trials, handling both business disputes and civil rights cases. They prepare for each matter for trial from day one, developing a trial plan tailored to the individual case.",
+    "notable_facts": [
+      "The firm was founded in 2009.",
+      "They have tried over twenty cases since the firm was founded.",
+      "They prefer not to be paid by the hour, favoring alternative fee arrangements."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rishi Bhandari",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.law360.com/firms/mandel-bhandari/attorneys/rishi-bhandari"
+        },
+        {
+          "name": "Brice Jastrow",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Donald Conklin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Mandel",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Glunt",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A. Leah Vickers",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

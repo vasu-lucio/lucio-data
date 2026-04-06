@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Brick & Patel LLP",
+    "website": "https://brickandpatel.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Estate Planning",
+      "Trusts and Estates",
+      "Tax Law",
+      "Corporate Law",
+      "Corporate Governance",
+      "Charitable Planning",
+      "Business Succession Planning"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Brick & Patel LLP is a boutique law firm specializing in trusts & estates, tax and corporate law. They represent high net worth individuals, their families and their businesses, as well as fiduciaries and financial institutions.",
+    "notable_facts": [
+      "The firm was founded in 2011.",
+      "They have expertise representing individuals and businesses in the financial service industry, including hedge funds, private equity funds and securities trading companies."
+    ],
+    "technology_signals": [
+      "legal files",
+      "adobe",
+      "microsoft",
+      "microsoft office",
+      "imanage",
+      "intapp",
+      "numbercruncher",
+      "box",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Brick",
+          "title": "Partner",
+          "email": "wbrick@brickpatel.com",
+          "phone": "212-554-5250",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dilip Patel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Susan Huffard",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Josh Cender",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Bergman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

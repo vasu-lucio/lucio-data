@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Sciocchetti Taber, PLLC",
+    "website": "https://www.stlawny.com/",
+    "city": "Albany, NY",
+    "practice_areas": [
+      "Real Estate",
+      "Leasing",
+      "Finance",
+      "Business - Transactional",
+      "Land Use & Zoning",
+      "HOA Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sciocchetti Taber, PLLC is a commercial real estate law firm located in Albany, NY, representing developers and investors who are passionate about building stronger communities.",
+    "notable_facts": [
+      "Lisa Taber has closed over $500 million in loan value over the past 3 years.",
+      "Lisa Taber was an Albany Business Review Power 50 Honoree (2023), a Rising Star by Super Lawyers (2016-2024), an Albany Business Review 40 Under 40 Honoree (2022), and a Lawyer of Distinction (2020-2024).",
+      "Paul Sciocchetti is recognized for his accomplishments by Super Lawyers, US Best Lawyers, Martindale Hubbell, AVVO and Lawyers of Distinction.",
+      "Paul Sciocchetti is a recent recipient of the American Cancer Society\u2019s Jeanne E. Walsh Beacon of Hope Award and a member of the American Cancer Society\u2019s prestigious Ring of Honor."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paul V. Sciocchetti",
+          "title": "Partner",
+          "email": "psciocchetti@pvslaw.com",
+          "phone": "518.867.3001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa F. Taber",
+          "title": "Partner",
+          "email": "LTaber@pvslaw.com",
+          "phone": "518.867.3001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth M. Schwartz",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": "518.867.3001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob M. Koch",
+          "title": "Associate",
+          "email": null,
+          "phone": "518.867.3001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Julie M. Dean-Mayville",
+          "title": "Associate",
+          "email": null,
+          "phone": "518.867.3001",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

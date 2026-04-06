@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Genpact",
+    "website": "https://www.genpact.com/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Genpact is an advanced technology services and solutions company that delivers lasting value for leading enterprises globally. They focus on process intelligence, industry knowledge, last-mile expertise, and AI-powered solutions.",
+    "notable_facts": [
+      "Has over 800 global clients.",
+      "Generated $5.1 billion in revenue.",
+      "Employs over 140,000 employees.",
+      "Operates in over 35 countries."
+    ],
+    "technology_signals": [
+      "Advanced Technology Solutions",
+      "AI-powered solutions",
+      "Focus on data and AI"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ejim Peter Achi",
+          "title": "Co-chair of the firm\u2019s Global Corporate Practice and Private Equity Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Serena Y. Shi",
+          "title": "New York Corporate Shareholder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

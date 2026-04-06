@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Duke Law Firm, P.C.",
+    "website": "https://dukelawfirm.net/",
+    "city": "Lakeville",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Child Custody",
+      "Child Support",
+      "Spousal Support",
+      "High Asset Divorce",
+      "Complex Divorce Litigation",
+      "Adoption"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Duke Law Firm, P.C. provides legal guidance for families looking to divorce. They offer services in family law, divorce, child custody, child support and spousal support, high asset divorce and complex divorce litigation, and adoption.",
+    "notable_facts": [
+      "Founded in 1995",
+      "Over two decades of legal experience",
+      "Offices in Livingston and Monroe Counties"
+    ],
+    "technology_signals": [
+      "discord",
+      "ramp",
+      "juris",
+      "microsoft",
+      "microsoft office",
+      "c",
+      "impact",
+      "well",
+      "box"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan Duke",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/duke-law-firm-p-c-"
+        },
+        {
+          "name": "Sarah Knox",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabrielle Powell",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacy McKinney",
+          "title": "Director of Legal Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

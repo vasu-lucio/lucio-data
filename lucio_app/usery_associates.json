@@ -1,0 +1,58 @@
+{
+  "firm_data": {
+    "firm_name": "Ussery Law Group Inc.",
+    "website": "https://www.usserylawgroup.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Sports",
+      "Entertainment",
+      "Intellectual Property",
+      "Mass Torts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ussery Law Group Inc. represents clients on and between both coasts from their offices in Los Angeles and Dallas. They have experience in sports, legacy/digital media, real estate, gaming and intellectual property.",
+    "notable_facts": [
+      "The firm has entered into a co-counsel agreement with Levin, Papantonio, Rafferty to work together in the area of Mass Torts.",
+      "The firm represents Esports gamers who are becoming the new global athletes of the digital age.",
+      "The firm consults with participants in all aspects of the digital universe from engineers, inventors, gaming startups and gamers."
+    ],
+    "technology_signals": [
+      "Represents clients in gaming, e-sports & technology",
+      "Deals with Web3 applications"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Dan Chiacchia Injury Attorneys, PLLC",
+    "website": "https://www.716personalinjury.com/",
+    "city": "Hamburg",
+    "practice_areas": [
+      "Car Accidents",
+      "Construction Accidents",
+      "Motorcycle Accidents",
+      "Slip & Falls",
+      "Wrongful Death",
+      "Truck Accidents",
+      "Sexual Abuse",
+      "Dog Bites & Animal Incidents",
+      "Ski Accidents",
+      "Boat Accident",
+      "Bicycle Accidents",
+      "Spinal & Brain Injuries",
+      "Work Place Injuries",
+      "Farm Accidents",
+      "Wills & Estate Probate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Dan Chiacchia Injury Attorneys is a personal injury law firm based in Hamburg, NY, representing clients across Western New York. They are committed to providing legal guidance and aggressive advocacy for those injured in accidents due to negligence.",
+    "notable_facts": [
+      "The firm has recovered millions for its clients.",
+      "They offer free consultations.",
+      "They operate on a contingency-based approach, so clients pay no upfront fees unless they win.",
+      "The firm secured a landmark $150 million settlement against the Roman Catholic Diocese of Buffalo on behalf of nearly 900 survivors of clergy sexual abuse."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel J. Chiacchia",
+        "title": "Founder",
+        "email": "dan@716attorneys.com",
+        "phone": "716-648-3030",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa A. Poch",
+          "title": "Senior Associate Attorney",
+          "email": "lpoch@716attorneys.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew P. Fleming",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tiffany M. Kopacz",
+          "title": "Senior Associate Attorney",
+          "email": "tmk@716attorneys.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin F. Walsh",
+          "title": "Attorney",
+          "email": "kevinw@716attorneys.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

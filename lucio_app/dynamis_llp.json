@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Dynamis LLP",
+    "website": "https://www.dynamisllp.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "White-Collar Criminal & Regulatory Defense",
+      "Business Disputes and Commercial Litigation",
+      "Cryptocurrency and Blockchain",
+      "Government and Internal Investigations",
+      "Financial Services and Securities",
+      "Class Actions",
+      "Real Estate Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Dynamis LLP is a litigation boutique focusing on white-collar defense and complex civil litigation. They offer zealous, aggressive, and sophisticated advocacy.",
+    "notable_facts": [
+      "Led by former federal prosecutor Eric Rosen of \u201cOperation Varsity Blues\u201d fame.",
+      "Offices in Boston, New York, and Miami.",
+      "Achieve precedent-setting results in and out of the courtroom."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric Rosen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Constantine Economides",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Frenchman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "http://www.dynamisllp.com/talent/robert-s-frenchman"
+        },
+        {
+          "name": "Emily Scarisbrick Weisberg",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "http://www.dynamisllp.com/talent/emily-scarisbrick-weisberg"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

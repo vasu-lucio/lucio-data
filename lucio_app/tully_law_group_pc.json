@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Tully Law Group, PC",
+    "website": "https://tullyelderlaw.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Elder Law",
+      "Estate Planning",
+      "Trusts",
+      "Medicaid Eligibility",
+      "Probate",
+      "Guardianship",
+      "Asset Protection",
+      "Life Care Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tully Law Group, PC is a Long Island elder law firm that provides legal services in the areas of Elder Law, Estate Planning, Trusts, Medicaid Eligibility, Probate and Guardianship. They were the first Long Island elder law firm to integrate the Life Care Planning model into its practice.",
+    "notable_facts": [
+      "Brian Andrew Tully has been practicing elder care law and estate planning since 1998.",
+      "Brian Andrew Tully has been Certified as an Elder Law Attorney by the National Elder Law Foundation since 2003.",
+      "The firm is known for its unique and comprehensive elder care service called Life Care Planning."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Brian Andrew Tully",
+        "title": "Founder and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amy N. Latuga",
+          "title": "Partner, Director of Planning",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis McCoy",
+          "title": "Partner, Director of Medicaid",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tony Farina",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leigh-Anne Amore",
+          "title": "Senior Associate Attorney / Director, Estate & Trust Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

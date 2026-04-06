@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "DGW KRAMER LLP",
+    "website": "https://dgwllp.com/en/",
+    "city": "New York City",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Business Litigation",
+      "International Arbitration",
+      "Corporate Transactions",
+      "Real Estate",
+      "Immigration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "DGW Kramer LLP is a boutique law firm based in the center of New York City serving clients across the United States and across the globe. They offer a range of legal services, including complex commercial litigation, business litigation, international arbitration, corporate transactions, real estate, and immigration.",
+    "notable_facts": [
+      "The firm has particular expertise in China-related litigation and transactional matters.",
+      "Many attorneys and staff are fluent in multiple languages.",
+      "The firm has offices and affiliate locations in California."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rongping Wu",
+        "title": "Managing Partner",
+        "email": "lwu@dgwllp.com",
+        "phone": "+1 917 633 6860",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dawei Gongsun",
+          "title": "Partner",
+          "email": "dwgs@dgwllp.com",
+          "phone": "+1 917 633 6860",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacob Chen",
+          "title": "Partner",
+          "email": "jchen@dgwllp.com",
+          "phone": "+1 917 633 6860",
+          "linkedin_url": null
+        },
+        {
+          "name": "Josh Levin Epstein",
+          "title": "Of Counsel",
+          "email": "JLEpstein@dgwllp.com",
+          "phone": "+1 917 633 6860",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph R. Wilbert",
+          "title": "Of Counsel",
+          "email": "JWilbert@dgwllp.com",
+          "phone": "+1 917 633 6860",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

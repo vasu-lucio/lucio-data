@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "MCCOYD, PARKAS & RONAN, LLP",
+    "website": "https://mprlawyers.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Litigation",
+      "Wealth Transfer",
+      "Estate Administration",
+      "Estate Planning",
+      "Trust Litigation",
+      "Tax Planning",
+      "Legal Services"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "MCCOYD, PARKAS & RONAN, LLP is a Legal Services company headquartered in Garden City, New York. The firm's attorneys practice in areas including litigation.",
+    "notable_facts": [
+      "The firm employs 4 people.",
+      "The firm has 3 offices across 1 country (United States)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [],
+      "beyza_killeen": {
+        "name": "Beyza Killeen",
+        "title": "Tax Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      }
+    }
+  },
+  "email": {}
+}

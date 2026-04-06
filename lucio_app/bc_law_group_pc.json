@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "B.C. Law Group, P.C.",
+    "website": "https://www.bclgpc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Complex Commercial Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "B.C. Law Group, P.C. is a group of trial lawyers recognized as leaders in protecting and enforcing intellectual property rights. The firm's founders previously practiced together at McKool Smith and have won several nine-figure verdicts for their clients.",
+    "notable_facts": [
+      "Attorneys have won some of the largest verdicts and settlements in the country.",
+      "The firm offers flexible and efficient representation, often based on contingency fees.",
+      "Over half of the attorneys hold engineering degrees from prestigious universities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Brett E. Cooper",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan Yim",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Kolassa",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike McManus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Drew Hollander",
+          "title": "Partner",
+          "email": "dhollander@bclgpc.com",
+          "phone": "212.951.0100",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

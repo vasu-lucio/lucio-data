@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Freedman Normand Friedland LLP",
+    "website": "https://fnf.law/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Class Actions",
+      "High-value Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Freedman Normand Friedland is a leading litigation boutique specializing in complex, high-stakes legal disputes. The firm provides innovative, tech-savvy counsel for today\u2019s fast-paced global environment.",
+    "notable_facts": [
+      "Offices in New York, Miami, and Boston"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Edward Normand",
+          "title": "Partner",
+          "email": "tnormand@fnf.law",
+          "phone": "+1 646-970-7513",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard Cipolla",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

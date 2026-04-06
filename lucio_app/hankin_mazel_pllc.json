@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Hankin & Mazel, PLLC",
+    "website": "https://www.hankinmazel.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law",
+      "Cooperative and Condominium Law",
+      "Litigation",
+      "Sales and Acquisitions",
+      "Corporate Litigation",
+      "Residential transactions",
+      "Commercial transactions",
+      "Residential litigation",
+      "Commercial litigation",
+      "Commercial leasing",
+      "Corporate formation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hankin & Mazel, PLLC represents cooperative and condominium boards, providing personalized, quality legal services. Founding Partners Geoffrey Mazel and Mark Hankin have both served on Boards of Cooperative Corporations.",
+    "notable_facts": [
+      "Representing Cooperative and Condominium Boards for over 30 years",
+      "Founding partners served on Boards of Cooperative Corporations",
+      "Appointed as legal counsel to the President's Council of Cooperatives and Condominiums (PCCC)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Geoffrey R. Mazel",
+          "title": "Founding Partner",
+          "email": "Email Me",
+          "phone": "(212) 967-2140",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark L. Hankin",
+          "title": "Founding Partner",
+          "email": "Email Me",
+          "phone": "(516) 499-5800",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Goldberg",
+          "title": "Partner",
+          "email": "Email Me",
+          "phone": "(212) 697-2640",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeremy S. Hankin",
+          "title": "Partner",
+          "email": "Email Me",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

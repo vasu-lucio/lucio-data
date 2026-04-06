@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Mahon, Mahon, Kerins & O'Brien LLC",
+    "website": "https://mmkolaw.com/",
+    "city": "Garden City South",
+    "practice_areas": [
+      "Estate Administration",
+      "Personal Injury",
+      "Employment Law",
+      "Elder Law",
+      "Estate & Trust Litigation",
+      "Estate Planning",
+      "Wills & Trusts",
+      "Wrongful Death",
+      "Business Transactions",
+      "Powers of Attorneys",
+      "Civil Litigation",
+      "Real Estate"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Mahon, Mahon, Kerins & O'Brien, LLC is a leading law firm in surrogate's court, supreme court, and federal court litigation. They provide legal services and have over seven decades of experience in the industry.",
+    "notable_facts": [
+      "The firm employs 5 people and has an annual revenue of $5.8M.",
+      "The firm's headquarters is located in Garden City, New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James Kerins",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shannon D. O\u2019Brien",
+          "title": "Associate",
+          "email": null,
+          "phone": "516-538-1111",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert P. O\u2019Brien",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard T. Kerins",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth P. Mahon",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

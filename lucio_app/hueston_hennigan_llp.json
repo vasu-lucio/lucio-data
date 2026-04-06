@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Hueston Hennigan LLP",
+    "website": "https://www.hueston.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Litigation",
+      "Intellectual Property",
+      "Antitrust",
+      "Securities",
+      "White Collar Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hueston Hennigan is an elite trial law firm that specializes in high-stakes litigation. They are known for disrupting the traditional litigation playbook and achieving historic results for their clients.",
+    "notable_facts": [
+      "The firm has achieved record-setting results for Monster Energy in complex matters [hueston.com](https://www.hueston.com/).",
+      "Clients praise the firm's ability to balance legal and business considerations [hueston.com](https://www.hueston.com/).",
+      "The firm is described as bold, strategic, and relentless [hueston.com](https://www.hueston.com/)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John C. Hueston",
+          "title": "Partner",
+          "email": "jhueston@hueston.com",
+          "phone": "949.226.6740",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian J. Hennigan",
+          "title": "Partner",
+          "email": "bhennigan@hueston.com",
+          "phone": "213.788.4540",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alison L. Plessman",
+          "title": "Partner",
+          "email": "aplessman@hueston.com",
+          "phone": "213.788.4542",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marshall A. Camp",
+          "title": "Partner",
+          "email": "mcamp@hueston.com",
+          "phone": "213.788.4541",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

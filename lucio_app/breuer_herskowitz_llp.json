@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Breuer Herskowitz LLP",
+    "website": "https://www.bhllplaw.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Breuer Herskowitz LLP is a law firm specializing in real estate transactions and financing. They offer expert legal guidance for every property move, prioritizing clear communication, attention to detail, and innovative problem-solving.",
+    "notable_facts": [
+      "Client-focused approach",
+      "Experienced Real Estate Attorneys",
+      "Comprehensive Legal Support",
+      "Strategic Counsel"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason Herskowitz",
+          "title": "Partner",
+          "email": null,
+          "phone": "718-782-1500",
+          "linkedin_url": "https://www.linkedin.com/in/jason-herskowitz-esq-a41b7215"
+        },
+        {
+          "name": "Moses David Breuer",
+          "title": "Attorney",
+          "email": "david(a)bhllplaw.com",
+          "phone": "(718) 782-1500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Pomerantz",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dan Weinberger",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Lazar",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

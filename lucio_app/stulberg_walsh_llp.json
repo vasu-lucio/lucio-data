@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Stulberg & Walsh, LLP",
+    "website": "https://www.stulbergwalsh.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor Law",
+      "Employment Law",
+      "Employee Benefits",
+      "Disability Rights",
+      "Appellate Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Stulberg & Walsh, LLP is a New York-based law firm dedicated to providing expert counsel and representation to individual employees and classes of employees, public- and private-sector labor unions, employee benefit plans, and disability rights organizations. Founded in 1985, the firm offers experience in all aspects of workplace and disability rights law.",
+    "notable_facts": [
+      "The firm was formerly known as Broach & Stulberg, LLP.",
+      "They represent clients in the United States and abroad.",
+      "They have experience in negotiation and drafting of employment agreements."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert B. Stulberg",
+        "title": "Founding Partner",
+        "email": null,
+        "phone": "212 268 1000",
+        "linkedin_url": "https://www.linkedin.com/in/robert-b-stulberg-08929414"
+      },
+      "co_managing_partner": {
+        "name": "Patrick J. Walsh",
+        "title": "Partner",
+        "email": "pw****@***********sh.com",
+        "phone": "212 268 1000",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Judith P. Broach",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James deBoer",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Ellis George LLP",
+    "website": "https://ellisgeorge.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Employment",
+      "Internal Corporate Investigations",
+      "Data Privacy and Cyber Security",
+      "White Collar Criminal and Regulatory Defense",
+      "Real estate",
+      "Professional liability",
+      "False advertising",
+      "Defamation",
+      "Class actions",
+      "Entertainment",
+      "Intellectual property",
+      "Business disputes"
+    ],
+    "lawyer_count": 48,
+    "firm_description": "Ellis George has successfully litigated and tried challenging cases nationwide, securing favorable settlements and substantial sums for clients. They provide clients with access to an exceptional range of knowledge and experience, developed in both private practice and the senior ranks of government.",
+    "notable_facts": [
+      "Firm includes a U.S. Senator and California Governor, U.S. Ambassador to Mexico, former senior Department of Justice officials and multiple former Supreme Court and federal appellate law clerks.",
+      "Ellis George was recognized in Chambers and Partners USA 2025 Guide."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Keith Wesley",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dennis S. Ellis",
+          "title": "Partner",
+          "email": "dellis@ellisgeorge.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric M. George",
+          "title": "Partner",
+          "email": "egeorge@ellisgeorge.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chris Arledge",
+          "title": "Partner",
+          "email": "carledge@ellisgeorge.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher T. Berg",
+          "title": "Partner",
+          "email": "cberg@ellisgeorge.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

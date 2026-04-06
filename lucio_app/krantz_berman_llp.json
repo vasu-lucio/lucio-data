@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Krantz & Berman LLP",
+    "website": "https://www.krantzberman.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Litigation",
+      "White Collar Criminal & Regulatory Defense",
+      "Employment Litigation & Counseling",
+      "Mediation Services",
+      "FINRA Arbitrations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Krantz & Berman LLP \u2013 founded in 1997 \u2013 is a distinguished litigation boutique with offices in midtown Manhattan and Westchester County. They devote themselves to skillfully and efficiently solving the legal challenges facing their business and individual clients.",
+    "notable_facts": [
+      "The firm was founded in 1997.",
+      "They have offices in midtown Manhattan and Westchester County.",
+      "Marjorie Berman is a trained and experienced Mediator."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Larry H. Krantz",
+          "title": "Founding Member, Partner",
+          "email": "Email Larry H. Krantz",
+          "phone": "212-661-0009",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marjorie E. Berman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Hugh D. Sandler",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jerrold L. Steigman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ainsley C. Dowling",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Cahill",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca Campbell",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

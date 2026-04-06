@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Personius Melber LLP",
+    "website": "https://www.personiusmelber.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Criminal Defense",
+      "Government Investigations",
+      "Litigation (Business and Injury)",
+      "Professional Discipline and Licensing",
+      "White Collar Crime",
+      "Business & Commercial Disputes",
+      "False Claims Act",
+      "Injury and Accident Litigation"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Personius Melber LLP is a litigation law firm in Buffalo, NY, emphasizing client-focused service. They provide skilled legal counsel across multiple areas, including criminal defense, government investigations, litigation (business and injury), professional discipline and licensing.",
+    "notable_facts": [
+      "The firm was founded in 2002.",
+      "The firm prioritizes client service and early intervention in complex legal issues.",
+      "The focal point of their practice is litigation, handling matters at both the federal and state level."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Rodney O. Personius",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Brian M. Melber",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Scott R. Hapeman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Olivia A. Proia",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph M. Guerra III",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

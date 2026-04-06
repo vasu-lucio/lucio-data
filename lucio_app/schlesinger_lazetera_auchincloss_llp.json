@@ -1,0 +1,124 @@
+{
+  "firm_data": {
+    "firm_name": "Schlesinger Lazetera & Auchincloss LLP",
+    "website": "https://sla-llp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Trusts and Estates",
+      "Estate Planning",
+      "Wills, Living Wills",
+      "Estate Administration",
+      "Fiduciary Law",
+      "Trusts and Estates Taxation",
+      "Federal Estate and Gift Taxation",
+      "Charitable Trusts and Foundations",
+      "Estate Litigation",
+      "Charitable Planning",
+      "Closely Held Business Planning",
+      "Family Succession Planning",
+      "International Estates",
+      "International Tax and Estate Planning",
+      "Intellectual Property Asset Planning",
+      "Disability Planning",
+      "Art Collectors",
+      "Artists",
+      "Wealth Preservation",
+      "Nonprofit / Charities Law"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Schlesinger Lazetera & Auchincloss LLP is recognized as a leading firm in the area of Trusts and Estates law. They represent individuals, fiduciaries, family-owned businesses and other business entities, executives of private and public companies as well as not-for-profit organizations.",
+    "notable_facts": [
+      "The Firm was founded in 2004.",
+      "The firm has ten attorneys.",
+      "The firm is recognized as a leading firm in the area of Trusts and Estates law.",
+      "Ranked as Tier 1 nationally for Trusts and Estates by Best Law Firms.",
+      "Ranked as Tier 1 in New York City for Litigation - Trusts and Estates, Nonprofit / Charities Law, and Trusts and Estates by Best Law Firms."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lianne Lazetera",
+        "title": "Managing Partner",
+        "email": "llazetera@sla-llp.com",
+        "phone": "212-652-3783",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Sanford J. Schlesinger",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lianne Lazetera",
+          "title": "Founding Partner",
+          "email": "llazetera@sla-llp.com",
+          "phone": "212-652-3783",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Urszula Pakentreger-Adamska",
+        "title": "Fiduciary Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew S. Auchincloss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian G. Chirichigno",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessie Jamar",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonnie Strong",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ross S. Katz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

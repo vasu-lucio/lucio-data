@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Maynard Nexsen PC",
+    "website": "https://maynardnexsen.com/",
+    "city": "Birmingham",
+    "practice_areas": [
+      "Litigation",
+      "Corporate",
+      "Regulatory"
+    ],
+    "lawyer_count": 600,
+    "firm_description": "Maynard Nexsen is a full-service law firm with over 600 attorneys deploying innovation and efficiency in legal services across the country and around the world. With 31 locations in the U.S., they are client-driven and team-focused.",
+    "notable_facts": [
+      "The firm was formed through the merger of Maynard Cooper & Gale and Nexsen Pruet.",
+      "NP Strategy, a wholly owned subsidiary of Maynard Nexsen, provides strategic communications support.",
+      "Nextra Solutions provides end-to-end eDiscovery and comprehensive Information Technology security and management services."
+    ],
+    "technology_signals": [
+      "adp",
+      "microsoft teams",
+      "westlaw",
+      "microsoft outlook",
+      "chrome",
+      "eDiscovery services",
+      "Information Technology security and management services"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John W. Maynard",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Vance",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Erica Williamson Barnes",
+          "title": "Shareholder, Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Hiring Manager",
+    "to_title": "Technology/Operations Leadership",
+    "to_email": null,
+    "subject": "AI for Maynard Nexsen \u2014 built for firms scaling nationwide",
+    "body": "Hi there,\n\nWith 600+ attorneys across 31 locations and a portfolio spanning litigation, corporate, and regulatory work, Maynard Nexsen is exactly the type of firm we're built for\u2014managing BigLaw complexity with distributed team efficiency.\n\nI lead business at Lucio, an AI platform designed for law firms balancing growth with operational precision. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we understand what matters: protecting client trust, reducing review cycles, and enabling leaner teams to compete at scale.\n\nGiven your eDiscovery and IT security focus, there's a natural fit with how we're helping firms like yours automate document review and intelligence work while maintaining the oversight your practice demands.\n\nWorth a brief conversation? I'm happy to connect with your ops or tech leadership to explore what this looks like for Maynard Nexsen.\n\nBest,\nVasu\nLucio"
+  }
+}

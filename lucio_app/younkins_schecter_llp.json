@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Younkins & Schecter LLP",
+    "website": "https://ys-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Commercial Leasing",
+      "Workouts and Restructuring Transactions",
+      "Sale-Leaseback and Net Lease Transactions",
+      "Property Management",
+      "Real Estate Development",
+      "Regional Counsel to Out-of-State Corporations and Institutions",
+      "Government Contracts and Leases (City, State and Federal)",
+      "General Counsel for Small Businesses",
+      "Financing and Refinancings",
+      "Due Diligence",
+      "Corporate Compliance",
+      "Corporate and Business Formation",
+      "Construction (Development, Rehabilitation and Tenant Fit-Outs)",
+      "Sales and Acquisitions"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Younkins & Schecter LLP is a boutique law firm with a specialty in real estate transactions, providing legal and business solutions to clients throughout the United States. The firm focuses on providing intelligent, responsive and effective representation.",
+    "notable_facts": [
+      "Woman Owned",
+      "Specializes in real estate transactions",
+      "Represents clients throughout the United States"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Mardi J. Schecter",
+          "title": "Partner",
+          "email": "inquiry@ys-law.com",
+          "phone": "212-286-0040",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathy A. Younkins",
+          "title": "Partner",
+          "email": "inquiry@ys-law.com",
+          "phone": "212-286-0040",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

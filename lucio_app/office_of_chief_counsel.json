@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Office of the Chief Counsel",
+    "website": "https://www.uscis.gov/",
+    "city": "Washington, D.C.",
+    "practice_areas": [
+      "Immigration Law",
+      "National Security Law",
+      "Administrative Law",
+      "Contract Law",
+      "Labor Law"
+    ],
+    "lawyer_count": 325,
+    "firm_description": "The Office of the Chief Counsel (OCC) provides specialized legal advice, opinions, determinations, regulations, and any other assistance to the USCIS Director as an embedded legal program of the DHS Office of the General Counsel. With a team of approximately 325 attorneys and support staff nationwide, OCC fields a wide range of inquiries and provides comprehensive litigation support.",
+    "notable_facts": [
+      "OCC was established in accordance with Section 451 of the Homeland Security Act of 2002.",
+      "OCC provides legal education and training to USCIS staff.",
+      "OCC advises USCIS and DHS staff on legislative, regulatory, and national security issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Randy Blair",
+        "title": "Acting Chief Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Roy",
+          "title": "Acting Chief Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

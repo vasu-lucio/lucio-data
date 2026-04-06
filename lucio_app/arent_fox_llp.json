@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "ArentFox Schiff LLP",
+    "website": "https://www.arentfox.com/",
+    "city": "Washington, D.C.",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "ArentFox Schiff LLP is a law firm offering practical counsel and unique insights to top companies worldwide. They are a destination firm for companies in key industries driving the global economy.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Brian P. Waldman",
+        "title": "Firmwide Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony V. Lupo",
+          "title": "Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David M. Barbash",
+          "title": "Boston Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard L. Brand",
+          "title": "San Francisco Managing Partner and Sports Industry Group Co-Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph J. Krasovec",
+          "title": "Chicago Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aram Ordubegian",
+          "title": "Los Angeles Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew I. Silfen",
+          "title": "New York Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://bd.linkedin.com/company/arentfoxschiff"
+  },
+  "email": {}
+}

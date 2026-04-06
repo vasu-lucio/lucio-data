@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Condon & Forsyth LLP",
+    "website": "https://condonlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Aviation",
+      "Aerospace",
+      "Complex Tort",
+      "Product Liability",
+      "Insurance",
+      "Commercial Litigation",
+      "Business Law",
+      "Wealth Management",
+      "Taxation",
+      "Real Estate",
+      "Immigration",
+      "Corporate Transactions",
+      "Banking & Finance Litigation",
+      "Banking & Finance"
+    ],
+    "lawyer_count": 51,
+    "firm_description": "Condon & Forsyth LLP is a national law firm specializing in aviation, complex tort, product liability, insurance, and commercial litigation. Founded in 1935, the firm offers expertise across twelve specialist practice areas to assist clients in navigating the complex modern legal landscape.",
+    "notable_facts": [
+      "Recognized by Chambers USA as one of the top firms in aviation.",
+      "Legal 500 has recognized the firm as having a depth of talent and institutional knowledge in the aviation field.",
+      "The firm has offices in New York, Miami, Los Angeles, Sacramento and Seattle."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Elliot Richman",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bartholomew J. Banino",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212.894.6818",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles G. Banino",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212.894.6820",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony U. Battista",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212.894.6892",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan E. DeMay",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212.894.6816",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary Dow",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212.894.6776",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

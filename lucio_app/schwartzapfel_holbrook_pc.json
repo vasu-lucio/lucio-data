@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Schwartzapfel Holbrook P.C.",
+    "website": "https://www.fightingforyou.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Construction Site Accidents",
+      "Wrongful Death",
+      "Workers Compensation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Schwartzapfel Holbrook P.C. is a New York law firm dedicated to representing injured workers and families across New York, focusing on tenacious courtroom advocacy and client care.",
+    "notable_facts": [
+      "The firm has recovered hundreds of millions of dollars for clients.",
+      "Steven Schwartzapfel has been a prominent personal injury attorney in New York for over 40 years.",
+      "Christopher Holbrook was elevated to Named Partner."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Steven Schwartzapfel",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Kathy Drew",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chris Holbrook",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Reiner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sachin Gadh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Max Schwartzapfel",
+          "title": "Marketing & Tech Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John F. Campbell, III",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

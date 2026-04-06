@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Binder & Schwartz LLP",
+    "website": "https://binderschwartz.com",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Commercial Litigation and Arbitration",
+      "Securities and Financial Products Litigation",
+      "Bankruptcy and Distressed Assets Litigation",
+      "False Claims Act / Qui Tam",
+      "Cross Border / International Disputes and Investigations",
+      "Government Investigations and Litigation"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Binder & Schwartz LLP is a premier litigation boutique that works closely with companies, partnerships, investment funds and individuals to achieve their objectives in complex and high-stakes business disputes and investigations. The firm's lawyers have all practiced at prominent national and international firms and a number of them have served as Assistant United States Attorneys in the Southern District of New York.",
+    "notable_facts": [
+      "The firm was founded in 2013.",
+      "Binder & Schwartz is certified as a women's business enterprise by the Women's Business Enterprise Council (WBENC)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Neil S. Binder",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.510.7031",
+          "linkedin_url": null
+        },
+        {
+          "name": "Wendy H. Schwartz",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.510.7143",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric B. Fisher",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.933.4551",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren K. Handelsman",
+          "title": "Partner",
+          "email": null,
+          "phone": "212.510.7272",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsay A. Bush",
+          "title": "Counsel",
+          "email": null,
+          "phone": "212.933.4557",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/binder-&-schwartz-llp/"
+  },
+  "email": {}
+}

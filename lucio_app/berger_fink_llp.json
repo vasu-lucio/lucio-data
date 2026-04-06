@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Berger Fink LLP",
+    "website": "https://www.bergerfink.com/",
+    "city": "Forest Hills",
+    "practice_areas": [
+      "Real Estate",
+      "Commercial Litigation",
+      "Transactions",
+      "Leases",
+      "Appellate Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Berger Fink LLP provides knowledgeable and practical solutions for business disputes and transactions. Their attorneys have a track record of creating specialized and workable solutions for a broad-based clientele.",
+    "notable_facts": [
+      "The firm was founded in 2018.",
+      "The firm specializes in real estate and commercial disputes.",
+      "The firm also handles real estate transactions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jason M. Fink",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "(646) 478-3800",
+        "linkedin_url": "https://www.linkedin.com/company/berger-fink-llp"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David M. Berger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lawrence Steven Knipel",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie Sng Lim",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leslie Perez-Bennie",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/berger-fink-llp"
+  },
+  "email": {}
+}

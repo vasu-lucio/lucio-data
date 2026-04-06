@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Gross Polowy, LLC",
+    "website": "https://grosspolowy.com/",
+    "city": "Williamsville",
+    "practice_areas": [
+      "Residential Mortgage Services",
+      "Default Servicing",
+      "Commercial Lending",
+      "Home Retention",
+      "Legal Compliance",
+      "Foreclosure",
+      "Settlement Services",
+      "Title Curative",
+      "Bankruptcy",
+      "Appellate",
+      "Real Estate Matters",
+      "Litigation",
+      "Consulting",
+      "Eviction",
+      "REO processes"
+    ],
+    "lawyer_count": 80,
+    "firm_description": "Gross Polowy, LLC is a law firm dedicated to representing the financial servicing industry. The attorneys at the firm have extensive experience in providing default servicing to both commercial and residential lenders.",
+    "notable_facts": [
+      "Offices in Williamsville, NY; Westbury, NY and Jersey City, NJ.",
+      "Handles New York and New Jersey residential mortgage foreclosures and all related legal work.",
+      "Contributing members of the USFN, the ALFN and the New York Mortgage Bankers Association."
+    ],
+    "technology_signals": [
+      "State of the art case management system"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Adam Gross",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amy E. Polowy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole C. Gazzo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mario A. Serra, Jr.",
+          "title": "Partner \u2013New Jersey",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian D. Goldberg",
+          "title": "Partner - Trials & Loss Mitigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Copps DiPaola Silverman, PLLC",
+    "website": "https://thecdslawfirm.com/",
+    "city": "Albany, NY",
+    "practice_areas": [
+      "Divorce & Family Law",
+      "Surrogacy",
+      "Adoption",
+      "Assisted Reproduction Technology",
+      "Estate Planning/Probate",
+      "QDROs and DROs",
+      "LGBTQIA+",
+      "Name Changes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Copps DiPaola Silverman, PLLC is a family law team committed to providing clients with the highest level of service, both in and out of the courtroom. With nearly 100 years of combined legal knowledge and experience, their team of skilled attorneys stands ready to assist clients.",
+    "notable_facts": [
+      "Available 7 days a week for divorce and family law litigation clients.",
+      "Offer video, telephone, and in-person appointments.",
+      "Focus on educating clients about the law and their options."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Ashlee Pestuglicci",
+        "title": "Office Manager",
+        "email": "APestuglicci@theCDSLawFirm.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kathleen \u201cCasey\u201d Copps DiPaola",
+          "title": "Partner",
+          "email": "KDipaola@theCDSLawFirm.com",
+          "phone": "518-436-4170",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lorraine R. Silverman",
+          "title": "Partner",
+          "email": "LSilverman@theCDSLawFirm.com",
+          "phone": "518-436-4170",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kayla Leder",
+          "title": "Partner",
+          "email": "KLeder@theCDSLawFirm.com",
+          "phone": "518-436-4170",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph R. Williams",
+          "title": "Partner",
+          "email": "JWilliams@theCDSLawFirm.com",
+          "phone": "518-436-4170",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Freiberg, Peck & Kang, LLP",
+    "website": "http://www.fplawfirm.com/",
+    "city": "Mid-town Manhattan",
+    "practice_areas": [
+      "Insurance Defense Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Freiberg, Peck & Kang, LLP is a mid-sized insurance defense litigation firm committed to providing its clients with high quality and cost effective legal services. They provide clients with optimal solutions to routine as well as high-profile litigation matters, counsel on complex legal dilemmas and unexpected legal crisis.",
+    "notable_facts": [
+      "Rated as \"Recommended Insurance Attorneys\" by A.M. Best Company.",
+      "The firm was founded with the goal of meeting the growing need for high-quality legal representation at an affordable cost."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Peck",
+          "title": "Member",
+          "email": null,
+          "phone": "(212) 252-9550",
+          "linkedin_url": null
+        },
+        {
+          "name": "Yilo John Kang",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 252-9550",
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig Joel Freiberg",
+          "title": "Lawyer",
+          "email": null,
+          "phone": "212-252-9550",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

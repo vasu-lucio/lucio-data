@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Chemtob Moss Forman & Beyda, LLP",
+    "website": "https://cmfb.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Divorce",
+      "Family Law",
+      "Matrimonial Law"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Chemtob Moss Forman & Beyda, LLP is a premier law firm in New York focused on high net worth divorce, family and matrimonial law. They have a strong record of success both in and out of the courtroom and has built a reputation based on personalized service, innovation and sensitivity to client\u2019s goals.",
+    "notable_facts": [
+      "Founded in 1997.",
+      "Based in New York City and the Hamptons, practicing throughout New York state.",
+      "Partners are actively involved in client cases from start to finish."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nancy Chemtob",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Susan M. Moss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Forman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Beyda",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mudita Chawla",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

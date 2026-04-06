@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Hacker Murphy LLP",
+    "website": "https://www.hackermurphy.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Personal Injury",
+      "Criminal Defense",
+      "Commercial Law & Litigation",
+      "Medical Malpractice",
+      "Civil Rights Litigation",
+      "Accused-Student Defense",
+      "Real Property Tax Assessment",
+      "Trials and Appeals"
+    ],
+    "lawyer_count": 16,
+    "firm_description": "Hacker Murphy, LLP is a litigation-focused firm comprised of 16 attorneys, all of whom concentrate on a broad range of civil litigation and criminal defense matters. The firm delivers winning results for individuals, businesses, and municipalities across the Capital District, Upstate, and Central New York.",
+    "notable_facts": [
+      "John F. Harwick was elected Managing Partner of the firm as of January 1, 2025.",
+      "The firm has offices in Albany, Schenectady, Troy and Saratoga.",
+      "The firm will expand into a new headquarters located in Corporate Woods in Albany and will also open a satellite office in Hudson, New York in 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John F. Harwick",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James E. Hacker",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David R. Murphy",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

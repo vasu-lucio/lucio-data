@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Abrams Garfinkel Margolis Bergson, LLP",
+    "website": "https://agmblaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Banking",
+      "Commercial Real Estate",
+      "Corporate & Securities",
+      "Entertainment & Sports",
+      "Estate Planning",
+      "Intellectual Property",
+      "Litigation",
+      "Mortgage Compliance",
+      "Residential Real Estate",
+      "Taxation"
+    ],
+    "lawyer_count": 56,
+    "firm_description": "Abrams Garfinkel Margolis Bergson, LLP is a full-service law firm dedicated to smart, practical and cost effective counsel. Our responsive and highly skilled approach is all about delivering positive outcomes to our clients.",
+    "notable_facts": [
+      "The firm represents a diverse range of clients, from entrepreneurs to established institutions.",
+      "AGMB has offices in New York and Los Angeles."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Neil B. Garfinkel",
+        "title": "Managing Partner",
+        "email": "sgarfinkel@agmblaw.com",
+        "phone": "212-904-0075",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Larry Haber",
+          "title": "Managing Partner Of Commercial Real Estate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shari Garfinkel",
+          "title": null,
+          "email": "sgarfinkel@agmblaw.com",
+          "phone": "212-904-0075",
+          "linkedin_url": null
+        },
+        {
+          "name": "William L. Abrams",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barry G. Margolis",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert J. Bergson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

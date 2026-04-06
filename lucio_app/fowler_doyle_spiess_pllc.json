@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Fowler Doyle Spiess PLLC",
+    "website": "https://www.fowlerlawoffice.com/",
+    "city": "Troy",
+    "practice_areas": [
+      "Elder Law",
+      "Probate & Estate Administration",
+      "Medicaid Planning & Asset Protection",
+      "Medicaid Eligibility",
+      "Living Wills & Health Care Proxies",
+      "Trusts",
+      "Estate Planning",
+      "Wills & Powers of Attorney",
+      "Real Estate and Title Insurance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fowler Doyle Spiess PLLC provides quality estate planning services for the Capital District. They offer a holistic view and team approach to elder law and estate planning in Troy, NY.",
+    "notable_facts": [
+      "The firm has been serving clients for more than 30 years.",
+      "The firm is located in the Town of Brunswick at the corner of Hoosick Road and Route 278."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan Marie Spiess",
+          "title": "Attorney",
+          "email": "susan(a)fowlerdoyle.com",
+          "phone": "518-279-1143",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Michael O'Bryan",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/joseph-o-bryan-b84009127"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

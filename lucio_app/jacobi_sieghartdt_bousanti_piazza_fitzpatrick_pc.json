@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Jacobi, Sieghardt, Bousanti, Piazza & Fitzpatrick, P.C.",
+    "website": "https://lawfirmsi.com/",
+    "city": "Staten Island",
+    "practice_areas": [
+      "Real Estate",
+      "Landlord-Tenant Law",
+      "Wills",
+      "Probate and Estate Administration",
+      "Commercial Litigation",
+      "Real Estate Litigation",
+      "Estate Litigation",
+      "Matrimonial Law",
+      "Corporate Law",
+      "Business Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jacobi, Sieghardt, Bousanti, Piazza & Fitzpatrick, P.C. is a recognized leader among New York City law firms, with deep roots in Staten Island and Brooklyn, and a far-reaching knowledge of New York legal issues. Our attorneys specialize in both commercial and residential real estate, landlord-tenant law, wills, probate and estate administration, commercial litigation, real estate litigation, estate litigation, matrimonial law and corporate law.",
+    "notable_facts": [
+      "The firm has deep roots in Staten Island and Brooklyn.",
+      "The firm focuses on real estate & eviction matters."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark S. Piazza",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony J. Bousanti",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Anthony Sieghardt",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

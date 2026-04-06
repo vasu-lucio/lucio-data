@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Davies Ward Phillips & Vineberg LLP",
+    "website": "https://dwpv.com/",
+    "city": "Toronto",
+    "practice_areas": [
+      "Capital Markets & Securities",
+      "Commercial Real Estate",
+      "Competition, Antitrust & Foreign Investment",
+      "Corporate",
+      "Corporate Governance",
+      "Dispute Resolution",
+      "Employment, Labour & Executive Compensation",
+      "Environmental & Indigenous",
+      "Finance",
+      "Financial Restructuring & Insolvency",
+      "Fund Formation",
+      "Hedge Funds & Alternative Asset Management",
+      "Investigations & White Collar Defence",
+      "Mergers & Acquisitions",
+      "Private Client",
+      "Tax"
+    ],
+    "lawyer_count": 576,
+    "firm_description": "Davies is a leading Canadian business law firm focused on high-stakes matters. Tackling our clients\u2019 issues with clarity and speed, we are consistently at the heart of their most complex deals and cases.",
+    "notable_facts": [
+      "Offices in Toronto, Montr\u00e9al and New York",
+      "Internationally recognized lawyers",
+      "Top-tier firm in core practice areas"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Sarbjit Basra",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Philippe Johnson",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony Bossio",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Suzanne Donnels",
+          "title": "Chief Business Development and Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter A Glicklich",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

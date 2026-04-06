@@ -1,0 +1,56 @@
+{
+  "firm_data": {
+    "firm_name": "McCullough Huddleston & Woo",
+    "website": "https://mhwcounsel.com/",
+    "city": "Houston",
+    "practice_areas": [
+      "Corporate Law",
+      "International Business Law",
+      "Tax Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "McCullough Huddleston & Woo is a corporate and international business law firm with offices in Houston and Dallas, serving clients across Texas and beyond. Founded in 2014, the firm provides legal counsel for businesses through every stage of growth, from start-up to strategic exit.",
+    "notable_facts": [
+      "Offers outside general counsel services under a predictable monthly budget.",
+      "Serves emerging technology, energy, and international corporations.",
+      "Embraces technology to enhance efficiency in communication, document management, and legal research."
+    ],
+    "technology_signals": [
+      "Uses technology to streamline communication, document management, and legal research."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

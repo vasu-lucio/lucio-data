@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Mori Hamada US LLP",
+    "website": "https://www.morihamada.com/en",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate and M&A",
+      "Antitrust and Competition",
+      "Asset Management and Investment Funds",
+      "Risk Management and Investigations",
+      "TMT",
+      "International Trade",
+      "Business and Human Rights",
+      "Corporate Legal Practice",
+      "Crisis Management",
+      "Sustainability and Competition Law",
+      "Fraud Investigations",
+      "Regulatory Compliance",
+      "International Trade Law",
+      "Sustainability Law",
+      "Legal Research",
+      "Litigation",
+      "Arbitration",
+      "Dispute Resolution",
+      "Compliance Support"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mori Hamada has expanded its network beyond East Asian and ASEAN countries to the United States. They assist Japanese clients with a US presence, as well as non-Japanese clients seeking legal advice for matters in Japan, bolstering their global network and cross-border capabilities through alliances with firms in the US and beyond.",
+    "notable_facts": [
+      "Opened New York office in 2023.",
+      "Opened San Francisco Bay Area offices in 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mikito Ishida",
+          "title": "Partner | Managing Partner, Mori Hamada San Francisco Bay Area",
+          "email": "mikito.ishida@morihamada.com",
+          "phone": "+1-646-255-1148 \uff08US\uff09",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tomohiro Tsuchiya",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Norihito Sato",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Junichi Tsuji",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hideki Utsunomiya",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

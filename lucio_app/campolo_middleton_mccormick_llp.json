@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Campolo, Middleton & McCormick, LLP",
+    "website": "https://cmmllp.com/",
+    "city": "Ronkonkoma",
+    "practice_areas": [],
+    "lawyer_count": 30,
+    "firm_description": "Campolo, Middleton & McCormick, LLP is a premier law firm with offices across Long Island. Recently recognized as one of America\u2019s Top Trusted Corporate Law Firms by Forbes, CMM has become the firm of choice for clients with respect to their most significant business transactions, challenging legal issues, and critical disputes.",
+    "notable_facts": [
+      "Founded in 2008",
+      "Recognized as one of America\u2019s Top Trusted Corporate Law Firms by Forbes",
+      "Offices on the East End and in Nassau County"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph N. Campolo",
+        "title": "Managing Partner",
+        "email": "jcampolo@cmmllp.com",
+        "phone": "(631) 738-9100, ext. 301",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Patrick McCormick",
+          "title": "Senior Partner and General Counsel",
+          "email": null,
+          "phone": "(631) 738-9100 ext. 308",
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Middleton",
+          "title": "Senior Partner",
+          "email": "smiddleton@cmmllp.com",
+          "phone": "(631) 738-9100 ext. 302",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Albrecht",
+          "title": "Business IT Manager",
+          "email": null,
+          "phone": "(631) 738-9100 ext. 315",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

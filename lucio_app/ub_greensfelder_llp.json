@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "UB Greensfelder LLP",
+    "website": "https://www.ubglaw.com/",
+    "city": "St Louis",
+    "practice_areas": [
+      "Business Law",
+      "Construction",
+      "Employee Benefits",
+      "Employment & Labor",
+      "Energy"
+    ],
+    "lawyer_count": 260,
+    "firm_description": "UB Greensfelder LLP is an Am Law 200 law firm dedicated to exceeding client expectations and delivering superior, customized legal solutions. The firm\u2019s attorneys advise regional, national, and global businesses on a wide range of sophisticated legal matters across more than 25 specialized practice and industry groups.",
+    "notable_facts": [
+      "Established in 2024 through the merger of Ulmer & Berne LLP and Greensfelder, Hemker & Gale, P.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Scott P. Kadish",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Maurice B. Greensfelder",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David G. Hemker",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Norman S. Gale",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin T. McLaughlin",
+          "title": "Co-Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {
+    "to_name": "Scott",
+    "to_title": "Co-Managing Partner",
+    "to_email": null,
+    "subject": "AI for UB Greensfelder \u2014 scaling post-merger operations",
+    "body": "Hi Scott,\n\nCongratulations on the 2024 merger between Ulmer & Berne and Greensfelder, Hemker & Gale. Integrating two firms while maintaining service excellence across 25+ practice groups and 260 attorneys is no small feat\u2014especially when clients expect BigLaw sophistication.\n\nI lead business at Lucio, an AI platform built for firms exactly in this position. We recently raised $5M and help practices across 9 jurisdictions streamline operations, reduce manual work, and compete on efficiency without sacrificing the personalized client experience that defines firms like yours.\n\nAs former lawyers, we've built this specifically for the realities you face post-merger: consolidating workflows, maintaining partner bandwidth, and freeing teams to focus on high-value work.\n\nWorth a quick 20-minute conversation to explore how we might help UB Greensfelder operationalize your combined strength?\n\nVasu\nLucio"
+  }
+}

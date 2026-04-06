@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Benesch, Friedlander, Coplan & Aronoff LLP",
+    "website": "https://beneschlaw.com/",
+    "city": "Cleveland",
+    "practice_areas": [
+      "Healthcare",
+      "Commercial Finance & Banking",
+      "Construction",
+      "Corporate & Securities",
+      "Data Protection",
+      "Environmental Law & Litigation",
+      "Executive Compensation & Benefits",
+      "Global Transactions",
+      "Government Relations",
+      "Immigration",
+      "Insolvency & Bankruptcy",
+      "Intellectual Property",
+      "Labor & Employment",
+      "Litigation",
+      "Private Equity",
+      "Public Finance",
+      "Real Estate",
+      "Tax",
+      "Trade Secrets, Restrictive Covenants & Unfair Competition"
+    ],
+    "lawyer_count": 500,
+    "firm_description": "Benesch is an Am Law 200 business law firm and limited liability partnership with offices in Chicago, Cleveland, Columbus, New York, San Francisco and Wilmington. The firm is known for providing highly sophisticated legal services to national and international clients that include public and private, middle market and emerging companies, as well as private equity funds, entrepreneurs and not-for-profit organizations.",
+    "notable_facts": [
+      "Ranked #127 on the Am Law 200 list",
+      "Approximately 500 lawyers",
+      "Offices in Chicago, Cleveland, Columbus, New York, San Francisco and Wilmington",
+      "Founded in 1938"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ira C. Kaplan",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alfred A. Benesch",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jerome M. Friedlander",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "I. Robert Morris",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    },
+    "linkedin_company_url": "https://pt.linkedin.com/company/benesch-friedlander-coplan-&-aronoff"
+  },
+  "email": {}
+}

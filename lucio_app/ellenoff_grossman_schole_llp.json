@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Ellenoff Grossman & Schole LLP",
+    "website": "https://egsllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Securities",
+      "Real Estate",
+      "Broker-Dealer Regulation",
+      "Private Investment Funds",
+      "Intellectual Property",
+      "Litigation",
+      "Labor",
+      "Employment",
+      "ERISA",
+      "Executive Compensation",
+      "Tax and Estate Planning"
+    ],
+    "lawyer_count": 125,
+    "firm_description": "Ellenoff Grossman & Schole LLP is a New York City-based law firm comprised of over 125 professionals, offering its clients legal services in a broad range of business related matters. The firm specializes in many areas of commercial law.",
+    "notable_facts": [
+      "Founded in 1992",
+      "The Firm has a presence in Irvine, California, where the Securities Litigation department has an office, and in Los Angeles, California, where they have additional Labor and Employment attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Douglas S. Ellenoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barry Grossman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allen Schole",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven Mermelstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maura I Russell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

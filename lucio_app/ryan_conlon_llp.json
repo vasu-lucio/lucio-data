@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "Ryan & Conlon LLP",
+    "website": "https://www.ryanconlon.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction & Labor Law",
+      "Motor Vehicle Accidents",
+      "Commercial Litigation",
+      "General Liability & Premises Liability",
+      "Insurance Law",
+      "Products Liability",
+      "Appellate Law",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ryan & Conlon LLP aims to achieve results for their clients in an expeditious and cost-effective manner by providing vigorous advocacy, superior representation and legal solutions. Their strategies are practical, innovative, efficient and cost-effective.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "William F. Ryan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kieran J. Conlon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/kieran-j-conlon-3818b742"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "LAW OFFICES OF GABRIEL & MOROFF, P.C.",
+    "website": null,
+    "city": "Rockville Centre",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": null,
+    "notable_facts": [
+      "Established on January 3, 2019.",
+      "Located in Nassau County, New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Arthur Gabriel",
+          "title": "Lawyer",
+          "email": "agabriel(a)gabrielshapiro.com",
+          "phone": "(516) 388-7040",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Adam Moroff",
+          "title": "Attorney",
+          "email": "jmoroff(a)gabrielshapiro.com",
+          "phone": "(516) 783-6565",
+          "linkedin_url": null
+        },
+        {
+          "name": "John Edward Fagan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ja Wook Koo",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Koenig Pierre",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

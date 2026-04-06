@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Napierski, VanDenburgh, Napierski & O'Connor, LLP",
+    "website": "https://nvnolaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "Insurance Defense",
+      "Personal Injury",
+      "Mediation Services",
+      "Employment Law",
+      "Real Property Law and Litigation",
+      "Professional Licensing and Discipline",
+      "Estate Planning/Estate & Trust Administration",
+      "Construction Accident & Defect",
+      "Employment Discrimination & Sexual Harassment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Napierski, VanDenburgh, Napierski & O\u2019Connor, LLP is a premier civil litigation firm that provides legal services in Albany, NY. They offer practice areas such as medical malpractice defense, insurance defense, construction accident & defect, employment discrimination & sexual harassment, and planning, prevention & training.",
+    "notable_facts": [
+      "The firm is affiliated with Super Lawyers, Eagle Insurance Group, New York State Academy of Trial Lawyers, American College of Trial Lawyers, and Defense Research Institute.",
+      "The firm has received the Martindale-Hubbell rating of AV, which includes only firms with the highest level of legal ability and ethical standards."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John W. VanDenburgh",
+          "title": "Partner",
+          "email": "jwv@nvnolaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

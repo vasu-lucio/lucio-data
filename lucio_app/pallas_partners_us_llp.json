@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Pallas Partners LLP",
+    "website": "https://pallasllp.com/",
+    "city": "London",
+    "practice_areas": [
+      "Litigation",
+      "Bankruptcy/Restructuring",
+      "White Collar Defense and Investigations"
+    ],
+    "lawyer_count": 31,
+    "firm_description": "Pallas Partners LLP is an elite litigation and disputes boutique of court-sharp trial lawyers focused on delivering outstanding solutions. The firm leverages bold, effective strategies that drive value and mitigate risk.",
+    "notable_facts": [
+      "Founded in 2022",
+      "Offices in London and New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Natasha Harrison",
+        "title": "Founder & Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Simon Hayday",
+        "title": "Finance Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joshua A. Naftalis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anastasia Cembrovska",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neil Pigott",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Duane Loft",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

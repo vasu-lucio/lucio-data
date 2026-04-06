@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Meliora Law, PLLC",
+    "website": "https://meliorafirm.com/",
+    "city": "Delmar",
+    "practice_areas": [
+      "corporate law",
+      "transactions",
+      "tax",
+      "health care",
+      "trusts and estates",
+      "not-for-profit law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Meliora Law is a women-owned boutique firm located in New York\u2019s Capital District. Our attorneys are experienced in corporate law, transactions, tax, health care, trusts and estates, and not-for-profit law, and are committed to providing exceptional legal services to clients through practical and innovative solutions.",
+    "notable_facts": [
+      "Located in New York's Capital District.",
+      "Women-owned boutique firm.",
+      "Intentionally nimble, constantly innovating new ways to better serve clients."
+    ],
+    "technology_signals": [
+      "Streamlined mechanisms for client communication and project management.",
+      "Development of alternative fee arrangements and flexible payment models.",
+      "Growing array of flat fee packages for legal services."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

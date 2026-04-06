@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Gilbert LLP",
+    "website": "https://www.gilbertlegal.com/",
+    "city": "Washington, D.C.",
+    "practice_areas": [
+      "Insurance Recovery",
+      "Mass Torts",
+      "Bankruptcy",
+      "Complex Dispute Resolution",
+      "Legal Technology Services"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Gilbert LLP is a law firm that takes on highly complex legal and business challenges. They offer legal technology services through their subsidiary, Tesseract Data Services (TDS).",
+    "notable_facts": [
+      "The firm was founded over 20 years ago by Scott Gilbert and his co-founders.",
+      "Gilbert LLP has a legal technology services subsidiary, Tesseract Data Services (TDS).",
+      "Scott Gilbert left the firm in December 2022."
+    ],
+    "technology_signals": [
+      "Investments in e-discovery legal experts",
+      "Use of machine learning, programming, digital forensics, software development, database architecture, and emerging technologies like large language models.",
+      "Creation of Tesseract Data Services (TDS) to offer legal technology and advisory services."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Scott Gilbert",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Gilbert LLP utilizes machine learning and large language models and has a legal technology services subsidiary, Tesseract Data Services (TDS), that provides A.I. services."
+      },
+      "additional_contacts": [
+        {
+          "name": "Charlie Cooper",
+          "title": "Partner",
+          "email": "cooperc@gilbertlegal.com",
+          "phone": "202-772-2255",
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather Frazier",
+          "title": "Partner",
+          "email": "frazierh@gilbertlegal.com",
+          "phone": "202-772-2207",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matt Lavin",
+          "title": "Partner",
+          "email": "lavinm@gilbertlegal.com",
+          "phone": "202-772-2250",
+          "linkedin_url": null
+        },
+        {
+          "name": "Craig J. Litherland",
+          "title": "Partner",
+          "email": "litherlandc@gilbertlegal.com",
+          "phone": "202-772-2264",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

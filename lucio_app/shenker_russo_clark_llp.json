@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Shenker Russo & Clark LLP",
+    "website": "https://www.srclawoffices.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Government Affairs",
+      "Lobbying",
+      "Alcohol Beverage Licensing",
+      "Hospitality Law"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "Shenker Russo & Clark LLP is a Government Affairs and Alcohol Beverage Licensing/Hospitality Law Firm, utilizing a vision rooted in ethics and creative problem-solving. They deliver responsive service and measurable results.",
+    "notable_facts": [
+      "The firm was founded in 2015.",
+      "They have been recognized as a 'Best Place to Work' by the Albany Business Review for two years in a row."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Theresa Russo",
+        "title": "Co-Managing Partner and CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Douglas Clark",
+        "title": "Co-Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Cindy Shenker",
+          "title": "Founder (Implied)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Trunzo",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jill T. Sandhaas",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

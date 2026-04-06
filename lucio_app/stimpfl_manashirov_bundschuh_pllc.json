@@ -1,0 +1,121 @@
+{
+  "firm_data": {
+    "firm_name": "Stimpfl Manashirov & Bundschuh, PLLC",
+    "website": "https://smblawny.com/",
+    "city": "Hauppauge",
+    "practice_areas": [
+      "Construction defect litigation",
+      "Property damage claims",
+      "Insurance coverage disputes",
+      "Product liability",
+      "Subrogation claims"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Stimpfl Manashirov & Bundschuh, PLLC is a results-driven law firm specializing in property damage, construction defect, products liability, insurance coverage disputes and subrogation litigation. Their attorneys provide representation for developers, property owners, general contractors, subcontractors, and others.",
+    "notable_facts": [
+      "Founded in 2013",
+      "Handles cases in both State and Federal Courts",
+      "Represents clients in the New York City metro area, Long Island, Westchester County and Rockland County"
+    ],
+    "technology_signals": [
+      "adobe acrobat pro",
+      "adobe",
+      "microsoft office",
+      "linkedin",
+      "microsoft",
+      "adobe acrobat"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin Stimpfl",
+        "title": "Managing Partner",
+        "email": "kstimpfl@smblawny.com",
+        "phone": "631-880-6280",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Kevin J. Stimpfl",
+          "title": "Partner",
+          "email": "kstimpfl@smblawny.com",
+          "phone": "631-880-6280",
+          "linkedin_url": null
+        },
+        {
+          "name": "Isaak Manashirov",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M. Bundschuh",
+          "title": "Partner",
+          "email": "sbundschuh@smblawny.com",
+          "phone": "631-880-6280",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Isaak Manashirov",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M. Bundschuh",
+          "title": "Partner",
+          "email": "sbundschuh@smblawny.com",
+          "phone": "631-880-6280",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony J. Abruscati",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meryl Z. Katz",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anastasis P. Sifounios",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

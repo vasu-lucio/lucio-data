@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "MULLOOLY, JEFFREY, ROONEY & FLYNN, LLP",
+    "website": null,
+    "city": "Syosset",
+    "practice_areas": [
+      "Visa",
+      "Immigration",
+      "Lawsuit & Dispute",
+      "Bankruptcy & Debt",
+      "Government"
+    ],
+    "lawyer_count": null,
+    "firm_description": "MULLOOLY, JEFFREY, ROONEY & FLYNN, LLP is a legal services company based out of Syosset, New York.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Sheerin",
+          "title": "Partner",
+          "email": null,
+          "phone": "516656XXXX",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristine D. Flynn",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(516) 656-5300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kerri S. Flynn",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vasilios Kovoros",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Byrne",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dana Marie Arrick",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

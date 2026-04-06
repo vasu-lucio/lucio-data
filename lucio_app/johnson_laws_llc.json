@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Johnson & Laws, LLC",
+    "website": "https://www.johnsonlawsllc.com/",
+    "city": "Clifton Park",
+    "practice_areas": [
+      "Civil Rights",
+      "Tort",
+      "Employment Law",
+      "Education Law",
+      "Personal Injury",
+      "Construction and Labor",
+      "Commercial Litigation",
+      "Real Property Law",
+      "Criminal Law",
+      "Navigation Law",
+      "Municipal Law",
+      "Land Use",
+      "Constitutional Torts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Johnson & Laws, LLC focuses on developing and expanding their defense litigation practice. They defend the interests and reputations of public officials and municipalities in New York State in a broad range of complex litigation matters.",
+    "notable_facts": [
+      "Firm was formed in May 2018 by Gregg Johnson and April Laws.",
+      "The firm has experience in civil rights, tort, employment law, and education law matters.",
+      "Attorneys appear in federal and state courts throughout New York and before administrative agencies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Gregg Johnson",
+          "title": "Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/gregg-johnson-3b7b82167"
+        },
+        {
+          "name": "April J. Laws",
+          "title": "Co-Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Olivia G. Reinhardt",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Deanna Giroux",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Buhler Duggal & Henry LLP",
+    "website": "https://www.bdhllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Startups & Emerging Companies",
+      "Venture & Growth Financings",
+      "Mergers & Acquisitions",
+      "Executive Employment",
+      "Strategic Transactions & Licensing",
+      "Private Investment Funds",
+      "Tax",
+      "International Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Buhler Duggal & Henry LLP is an elite corporate boutique law firm with offices in New York, Boston and the Bay Area. They serve the commercial and transactional legal needs of businesses and their owners, as well as private equity funds, hedge funds, and venture capital investors.",
+    "notable_facts": [
+      "The firm was established in 2010.",
+      "Since 2010, the firm has represented over 700 clients, accounting for approximately $3B in aggregate transaction value.",
+      "The firm has a 'one firm / one rate' blended billing structure."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joshua Buhler",
+          "title": "Partner",
+          "email": "jbuhler@bdhllp.com",
+          "phone": "+1 (212) 422-7440",
+          "linkedin_url": null
+        },
+        {
+          "name": "Raoul Duggal",
+          "title": "Partner",
+          "email": "rduggal@bdhllp.com",
+          "phone": "+1 (212) 244-7570",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Henry",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Seward & Kissel LLP",
+    "website": "https://sewkis.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Financial Services",
+      "Corporate Finance",
+      "Capital Markets"
+    ],
+    "lawyer_count": 222,
+    "firm_description": "Seward & Kissel LLP is a leading U.S. law firm that focuses on corporate and litigation work for clients seeking legal expertise in the financial services, corporate finance, and capital markets areas. The Firm is particularly well known for its representation of major commercial banks, investment banking firms, investment advisers and related investment funds.",
+    "notable_facts": [
+      "Founded in 1890",
+      "Offices in New York City and Washington, D.C.",
+      "Focuses on representing clients in financial services, corporate finance and capital markets"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "James C. Cofer",
+        "title": "Managing Partner and Chairman of the Management Committee",
+        "email": "cofer@sewkis.com",
+        "phone": "212-574-1688",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James E. Abbott",
+          "title": "Partner, Co-Head of Corporate M&A Practice",
+          "email": "abbott@sewkis.com",
+          "phone": "212-574-1226",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Garibyan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Benson",
+          "title": "Finance Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Gayda",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

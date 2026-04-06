@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Joseph & Norinsberg - NYC Sexual Harassment & Employment Discrimination Lawyers",
+    "website": "employeejustice.com",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Discrimination",
+      "Sexual Harassment",
+      "Labor Violations"
+    ],
+    "lawyer_count": 32,
+    "firm_description": "Joseph & Norinsberg is a New York City employment law firm with over 20 years of experience, fighting for workers' rights in discrimination, harassment, and wrongful termination cases. They have a 90% success rate.",
+    "notable_facts": [
+      "Founded in 2015",
+      "Operates in 5 countries",
+      "Experienced in litigating high-profile cases that draw media attention"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bennitta L. Joseph",
+        "title": "Founder/Senior Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Jon L. Norinsberg",
+        "title": "Founder/Senior Managing Partner",
+        "email": "jon@norinsberglaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jitesh Dudani",
+        "title": "Executive Partner/COO of World Trade Center Office",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John J. Meehan",
+          "title": "Executive Partner/Chief of the Pre-Litigation Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Diego O. Barros",
+          "title": "Partner",
+          "email": "diego@norinsberglaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Caitlin Duffy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

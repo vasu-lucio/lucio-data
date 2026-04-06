@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Ruskin Moscou Faltischek, P.C.",
+    "website": "https://rmfpc.com/",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Corporate & Securities",
+      "Commercial Litigation",
+      "Real Estate",
+      "Health Care",
+      "Commercial Lending",
+      "Corporate Restructuring and Bankruptcy",
+      "Employment",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": 70,
+    "firm_description": "Ruskin Moscou Faltischek, P.C. is one of the premier Long Island law firms, providing legal services in major practice areas of law. With superior knowledge of the law, polished business acumen and proven credentials, the firm has earned a reputation for excellence and success.",
+    "notable_facts": [
+      "Founded in 1968",
+      "The firm has a multidisciplinary approach.",
+      "Actively involved within the Long Island communities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Adam Silvers",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael L. Faltischek",
+          "title": "Partner",
+          "email": "mfaltischek@rmfpc.com",
+          "phone": "516-663-6550",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole E. Osborne",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Kuperschmid",
+          "title": "Partner and Co-Chair of the Cybersecurity and Data Privacy Practice Group",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John A. DeMaro",
+          "title": "Partner & General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

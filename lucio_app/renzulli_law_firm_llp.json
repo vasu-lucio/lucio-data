@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Renzulli Law Firm, LLP",
+    "website": "https://renzullilaw.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Business Disputes",
+      "Data Privacy",
+      "Firearms Industry Litigation, Counseling & Consulting",
+      "General Liability, Casualty & Insurance",
+      "Government Contracts",
+      "Intellectual Property",
+      "Anti-Counterfeiting & Enforcement",
+      "Branding & Merchandising",
+      "Intellectual Property Portfolio Management & Monitoring",
+      "Intellectual Property Transactions",
+      "Product Liability, Mass Tort & Class Actions",
+      "Copyright",
+      "Licensing",
+      "Trademark",
+      "Transactional",
+      "Antitrust and Competition",
+      "Appellate",
+      "Arbitration",
+      "Asbestos",
+      "Banking"
+    ],
+    "lawyer_count": 16,
+    "firm_description": "Renzulli Law Firm is a full-service law firm based in downtown White Plains, New York. Renzulli Law Firm has a proud history of participating in ground-breaking and often high profile matters, especially litigation matters.",
+    "notable_facts": [
+      "The firm has a focus on firearms industry litigation.",
+      "They represent clients throughout the United States and around the world."
+    ],
+    "technology_signals": [
+      "westlaw",
+      "microsoft",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John F Renzulli",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "914-285-0700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristen Renzulli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa Ann Enoch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter V Malfa",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joan M Gasior",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

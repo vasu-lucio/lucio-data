@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Feder Kaszovitz LLP",
+    "website": "https://www.fedkas.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Trusts and Estates",
+      "Securities",
+      "Real Estate",
+      "General Business",
+      "Commercial Transactions",
+      "Bankruptcy"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Feder Kaszovitz LLP provides a wide range of legal services covering commercial and personal transactions as well as civil litigation and dispute resolution. The firm advises clients on all legal problems they encounter, requiring attorneys to be conversant in virtually every legal subspecialty.",
+    "notable_facts": [
+      "The firm acts as general counsel to a large number of varied business enterprises, including companies whose securities are publicly held and traded.",
+      "The firm has extensive experience with a broad variety of matters, including the whole range of corporate, commercial and secured transactions litigation, and securities arbitrations, shareholder and partnership disputes, real estate acquisition and management, foreclosures, and intellectual property disputes."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Geoffrey A. Bass",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-888-8200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul T. Darcy",
+          "title": "Associate",
+          "email": null,
+          "phone": "212-888-8200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan D. Honig",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-888-8200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Saul Kaszovitz",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-888-8200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce Robins",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-888-8200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nina P. Silfen",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-888-8200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Murray L. Skala",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-888-8200",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

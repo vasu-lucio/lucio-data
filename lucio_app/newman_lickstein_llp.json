@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Newman & Lickstein LLP",
+    "website": "https://www.newmanlickstein.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Business Law",
+      "Corporate Transactions",
+      "Real Estate",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Newman & Lickstein LLP is a business law firm based in Syracuse, New York, providing legal services for businesses and startups as well as content creators and influencers. They offer trusted legal counsel with an understanding of the challenges their clients face.",
+    "notable_facts": [
+      "The firm was founded in 1967.",
+      "They serve the Central New York community.",
+      "They advise on complex business and corporate transactions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Scott A. Lickstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven D. Lickstein",
+          "title": "Partner",
+          "email": null,
+          "phone": "null",
+          "linkedin_url": "https://www.linkedin.com/in/stevenlickstein"
+        },
+        {
+          "name": "Linda L. Morgan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bradley D. Morien",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul I. Newman",
+          "title": "Partner (Retired)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

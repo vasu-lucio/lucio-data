@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Lacy Katzen LLP",
+    "website": "https://lacykatzen.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Business",
+      "Corporate & Banking",
+      "Default Services",
+      "Elder Law & Medicaid Planning",
+      "Estate Administration",
+      "Estate Planning",
+      "Family Law",
+      "Personal Injury",
+      "Medical Malpractice",
+      "Real Estate",
+      "Creditor Rights",
+      "Litigation",
+      "Municipal Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lacy Katzen LLP, based in Rochester, New York, has been providing customized legal solutions since 1950. The firm offers a wide range of legal services with a team-based approach.",
+    "notable_facts": [
+      "The firm was founded in 1950.",
+      "Lacy Katzen LLP has multiple locations in Rochester and surrounding areas.",
+      "The firm employs a team-based approach with attorneys, paralegals, and administrative personnel in each practice area."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jennifer L. Chadwick",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "585-324-5707",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter T. Rogers",
+          "title": "Former Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jill Kemp",
+          "title": "Marketing Specialist",
+          "email": null,
+          "phone": "585-455-6580",
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel S. Bryson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

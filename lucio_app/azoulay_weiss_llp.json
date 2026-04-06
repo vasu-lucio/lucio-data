@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Azoulay Weiss, LLP",
+    "website": "https://www.azoulayweiss.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law",
+      "Leases",
+      "Complex Commercial Transactions",
+      "Landlord/Tenant Law",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Azoulay Weiss, LLP is a boutique firm that caters to its clientele and provides personal attention and quick responses in all real estate law matters including, leases, complex commercial transactions, and Landlord/Tenant Law. The firm's lawyers and staff practice exclusively in this field and know the intricacies and nuances of the real estate landscape in New York.",
+    "notable_facts": [
+      "Founded in 2009",
+      "Specializes in real estate law",
+      "Client base includes investors, property developers, property managers, lenders, and private owners"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ouzy Azoulay",
+          "title": "Founding Partner",
+          "email": "oazoulay@azoulayweiss.com",
+          "phone": "+1.212.233.0001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward 'Teddy' Weiss",
+          "title": "Founding Partner",
+          "email": "eweiss@azoulayweiss.com",
+          "phone": "+1.212.233.0001",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carl J. Muraco",
+          "title": "Partner",
+          "email": "cmuraco@azoulayweiss.com",
+          "phone": "+1.212.233.0001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Zukofsky",
+          "title": "Partner",
+          "email": "jzukofsky@azoulayweiss.com",
+          "phone": "+1.212.233.0001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Judah Hyman",
+          "title": "Partner",
+          "email": "jhyman@azoulayweiss.com",
+          "phone": "+1.212.233.0001",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/azoulayweiss"
+  },
+  "email": {}
+}

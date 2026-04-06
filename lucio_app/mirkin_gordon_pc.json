@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "MIRKIN & GORDON, P.C.",
+    "website": "https://www.mirkingordon.com/",
+    "city": "Great Neck",
+    "practice_areas": [
+      "Wills and estate planning",
+      "Litigation",
+      "Domestic relations and family court",
+      "Real estate and homeowners' rights",
+      "Tenant's rights",
+      "Consumer protection",
+      "Personal bankruptcy",
+      "Immigration law",
+      "Labor Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mirkin & Gordon, P.C. is a law firm dedicated to organized labor, representing public employee unions and their benefit funds. The firm's mission is to improve the lives of workers through zealous representation of organized labor and its members.",
+    "notable_facts": [
+      "The firm was founded by Stephen F. Gordon in 1972.",
+      "The firm represents more than fifty public employee unions and their benefit funds.",
+      "The firm has developed a unique complaint resolution mechanism, utilizing an ombudsperson for all member issues."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stephen F. Gordon",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Civilian Complaint Review Board",
+    "website": "https://www.nyc.gov/site/ccrb/index.page",
+    "city": "New York",
+    "practice_areas": [
+      "Government",
+      "Public Safety",
+      "Civilian Oversight"
+    ],
+    "lawyer_count": 141,
+    "firm_description": "The NYC Civilian Complaint Review Board (CCRB) is the nation's largest independent oversight entity of the largest police force in the country. As an impartial body, the CCRB investigates, mediates and prosecutes complaints of misconduct by NYPD officers.",
+    "notable_facts": [
+      "The Board has 15 members who must all live in the city and reflect the diversity of the city.",
+      "The CCRB handles four basic types of misconduct: Excessive or Unnecessary Force; Abuse of Authority; Discourtesy; and Offensive Language.",
+      "The CCRB forwards all cases with one or more substantiated allegations to the police commissioner. Only the police commissioner has the authority to impose discipline."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jonathan Darche",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Kadushin",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeanine Marie",
+          "title": "Deputy Executive Director of Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yojaira Alvarez",
+          "title": "Senior Advisor and Director of Intergovernmental Affairs",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mercer \u201cMonte\u201d Givhan",
+          "title": "Chief of Investigations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andre Applewhite",
+          "title": "Chief Prosecutor, Administrative Prosecution Unit",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sherene Crawford",
+          "title": "Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

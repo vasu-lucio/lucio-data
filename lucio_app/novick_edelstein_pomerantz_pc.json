@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Novick Edelstein Pomerantz, P.C.",
+    "website": "https://www.novickedelstein.com/",
+    "city": "Yonkers",
+    "practice_areas": [
+      "Real Estate Law",
+      "Transactional Real Estate",
+      "Foreclosures",
+      "Landlord-Tenant Matters",
+      "Bankruptcy Proceedings"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Novick Edelstein Pomerantz, P.C. is among the largest law firms in Westchester County and is one of the leading law firms in the New York metropolitan area concentrating in all aspects of real estate law. The firm's practice is focused primarily on transactional real estate, preparation of mortgages and commercial leases, federal real estate property seizures, foreclosures, landlord-tenant matters, and litigation involving complex real estate issues.",
+    "notable_facts": [
+      "The firm is located in Yonkers, NY.",
+      "The firm was founded in 1972.",
+      "The firm's attorneys are recognized authorities in housing law.",
+      "The firm serves leading real estate companies and major financial institutions, as well as individuals and small property owners.",
+      "The firm uses CASETRACKLIVE, a computer system that allows clients to track the progress of their cases online."
+    ],
+    "technology_signals": [
+      "CASETRACKLIVE"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "I. Scott Edelstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. Pomerantz",
+          "title": "Principal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

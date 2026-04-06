@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "Gallet Dreyer & Berkey, LLP",
+    "website": "https://gdblaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Cooperative & Condominium Law",
+      "Injunctions",
+      "Trusts & Estates Law",
+      "Asset Protection",
+      "Matrimonial and Family Law",
+      "Real Estate",
+      "Banking Law",
+      "Business Law",
+      "Commercial Transactions",
+      "Construction Law",
+      "Corporate Law",
+      "International Law",
+      "Franchising",
+      "Securities",
+      "Tax Law",
+      "Trusts",
+      "Estate Planning",
+      "Probate"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "Gallet Dreyer & Berkey, LLP is a leading law firm in New York that offers a wide range of legal services including cooperative and condominium law, injunctions, trusts & estates law, asset protection, and matrimonial and family law. The firm has earned an \u201cAV\u201d peer review rating from Martindale-Hubbell\u00ae, its highest rating, which is earned by attorneys and firms with the best legal skills and highest ethical standards.",
+    "notable_facts": [
+      "Founded in 1978",
+      "AV peer review rating from Martindale-Hubbell",
+      "Represents more than 300 cooperative and condominium boards"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David L. Berkey",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam J. Berkey",
+          "title": "Partner",
+          "email": "ajb@gdblaw.com",
+          "phone": "212-935-4514",
+          "linkedin_url": "https://www.gdblaw.com/adam-berkey"
+        },
+        {
+          "name": "Atty K. Bruggemann",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allen A. Drexel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph I. Farca",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

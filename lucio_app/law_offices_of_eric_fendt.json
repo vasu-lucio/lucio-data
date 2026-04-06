@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Offices of Eric Faddis",
+    "website": "https://ericfaddislaw.com/",
+    "city": "Englewood",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accidents",
+      "Criminal Defense",
+      "Catastrophic Injuries",
+      "Drunk Driving Accidents",
+      "Dog Bites",
+      "Trucking Accidents",
+      "Motorcycle Accidents",
+      "Pedestrian Accidents",
+      "Slip and Fall",
+      "Wrongful Death"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "A modern Denver personal injury firm led by a former prosecutor who\u2019s secured millions for injured victims, prioritizing innovation, integrity, excellence, and outcomes.",
+    "notable_facts": [
+      "Founded in 2025",
+      "Located in Englewood, Colorado"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Eric Faddis",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

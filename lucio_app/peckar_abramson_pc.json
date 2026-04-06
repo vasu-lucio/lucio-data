@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Peckar & Abramson, P.C.",
+    "website": "https://pecklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Law",
+      "Construction Litigation",
+      "Corporate Law",
+      "Cyber Security",
+      "Labor and Employment",
+      "Real Estate Law",
+      "Government Contracts",
+      "White Collar Criminal Defense"
+    ],
+    "lawyer_count": 100,
+    "firm_description": "Peckar & Abramson is a construction law firm providing tailored results for its clients. They offer legal services including construction litigation and dispute resolution.",
+    "notable_facts": [
+      "Over 40 years in construction law",
+      "Offices in 9 US locations",
+      "Recognized by Best Lawyers and Chambers USA."
+    ],
+    "technology_signals": [
+      "Uses Google Tag Manager",
+      "Uses Bootstrap Framework",
+      "Uses Outlook"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Levi W. Barrett",
+        "title": "Co-Managing Partner, New Jersey Office",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert S. Peckar",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Luis Alvarez",
+        "title": "IT Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven M. Charney",
+          "title": "Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard R. Volack",
+          "title": "Chair, Cyber Security & Data Privacy",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

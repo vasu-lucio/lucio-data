@@ -1,0 +1,106 @@
+{
+  "firm_data": {
+    "firm_name": "Lynch Daskal LLP",
+    "website": "https://lawlynch.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appeals",
+      "Arbitrations",
+      "Art, Entertainment, and Media Litigation",
+      "Asbestos Defense",
+      "Aviation",
+      "Banking and Financial Institution Litigation",
+      "Business and Commercial Litigation",
+      "Class Actions",
+      "Construction Litigation",
+      "Corporate In-House Legal Department Litigation Consulting",
+      "Defamation and Internet Defamation Litigation",
+      "Employment Litigation and Consulting",
+      "Insurance Coverage Litigation",
+      "Intellectual Property Litigation",
+      "Private School Disciplinary Proceedings",
+      "Products Liability and Mass Torts Litigation",
+      "Professional Liability Litigation",
+      "Real Estate Litigation",
+      "Trade Secrets and Misappropriation Litigation",
+      "White Collar Criminal Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Lynch Daskal LLP is a litigation firm, offering effective representation throughout the course of a claim, from pre-suit negotiation through trial and appeal. Since our founding in 2006, our clients have ranged from multi-national companies to small businesses and individuals.",
+    "notable_facts": [
+      "The lawyers at Lynch Daskal LLP have successfully tried hundreds of cases and handled numerous appeals in state and federal courts throughout the country."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "BERNARD DASKAL",
+          "title": "Founding Partner",
+          "email": "daskal@lynchdaskal.law",
+          "phone": "212.710.0053",
+          "linkedin_url": null
+        },
+        {
+          "name": "JAMES R. LYNCH",
+          "title": "Of Counsel",
+          "email": "lynch@lynchdaskal.law",
+          "phone": "212.710.0051",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "LAWRENCE G. LEE",
+          "title": "Partner",
+          "email": "lee@lynchdaskal.law",
+          "phone": "212.710.0057",
+          "linkedin_url": null
+        },
+        {
+          "name": "DANIEL GAGLIARDI",
+          "title": "Partner",
+          "email": "gagliardi@lynchdaskal.law",
+          "phone": "212.710.0038",
+          "linkedin_url": null
+        },
+        {
+          "name": "NICHOLAS ALBANO III",
+          "title": "Associate",
+          "email": "albano@lynchdaskal.law",
+          "phone": "212.710.0054",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

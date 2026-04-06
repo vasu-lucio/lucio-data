@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Jakubowski, Robertson, Maffei, Goldsmith & Tartaglia, LLP",
+    "website": "https://www.jrmgtattorneys.com/",
+    "city": "St. James",
+    "practice_areas": [
+      "Family Law",
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jakubowski, Robertson, Maffei, Goldsmith & Tartaglia, LLP is a Long Island law firm providing legal services in various areas, with a focus on family law and personal injury. They have nearly eight decades of combined experience serving individuals and companies in Suffolk County.",
+    "notable_facts": [
+      "Senior associate James Herz has been promoted to partner.",
+      "Located in St. James, NY"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Frank M. Maffei, Jr.",
+          "title": "Esq.",
+          "email": null,
+          "phone": "631-360-0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark J. Goldsmith",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bridget J. Tartaglia",
+          "title": "Esq.",
+          "email": null,
+          "phone": "631-360-0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "James J. Herz",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anastasia V. Larios",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Siobhan K. Barry",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

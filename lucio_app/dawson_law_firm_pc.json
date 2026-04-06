@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Dawson Law Firm",
+    "website": "https://dawsonlawfirm.com/",
+    "city": "Fort Lauderdale",
+    "practice_areas": [
+      "Auto accident law",
+      "Personal injury law",
+      "Wrongful death law",
+      "Truck accident law"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Dawson Law Firm is a Legal Services company located in Fort Lauderdale, Florida. They focus on personal injury cases and offer free case reviews.",
+    "notable_facts": [
+      "Founded in 1982",
+      "Offers consultations seven days a week",
+      "Provides local representation in Broward, Miami, Martin and Palm Beach counties"
+    ],
+    "technology_signals": [
+      "Tech Stack: well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joe Dawson",
+          "title": "Attorney",
+          "email": "joe@dawsonlawfirm.com",
+          "phone": "954-280-8455",
+          "linkedin_url": null
+        },
+        {
+          "name": "Telise Cassidy",
+          "title": "Case Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ella Bailey",
+          "title": "Case Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

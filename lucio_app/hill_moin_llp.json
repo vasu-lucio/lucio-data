@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Hill & Moin LLP",
+    "website": "https://hillmoin.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Premises Liability",
+      "Nursing and Hospital Related Injuries",
+      "Nursing Home and Elder Abuse",
+      "Construction Accidents",
+      "Wrongful Death Claims",
+      "Medical Malpractice",
+      "Transportation Accidents",
+      "Police Brutality",
+      "Personal Injury"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Hill & Moin LLP represents clients in various areas, including personal injury, medical malpractice, and construction accidents. They offer experienced legal representation to those who have suffered injuries due to someone else's negligence.",
+    "notable_facts": [
+      "Founded in 1997",
+      "Multi-lingual staff speaks English, Spanish, & Russian",
+      "Retains a full-time private investigator"
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Melisande Hill",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 668-6000",
+          "linkedin_url": null
+        },
+        {
+          "name": "David S Zwerin",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 668-6000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cheryl Eisberg Moin",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 668-6000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

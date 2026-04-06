@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "VALE Insurance Partners",
+    "website": "https://valeinsurancepartners.com/",
+    "city": "New York",
+    "practice_areas": [
+      "M&A",
+      "Tax",
+      "Insurance",
+      "Litigation",
+      "Intellectual Property",
+      "Capital Markets",
+      "Transactional Risks"
+    ],
+    "lawyer_count": null,
+    "firm_description": "VALE Insurance Partners is a leader in underwriting highly technical insurance products at the nexus of law and finance, providing service and innovative solutions to its insureds, brokers and carrier partners. VALE\u2019s underwriting team of former attorneys and advisors in the fields of M&A, tax, insurance, litigation, intellectual property and capital markets, provide sophisticated service to deliver tailored insurance products to manage transactional risks.",
+    "notable_facts": [
+      "Founded in 2014",
+      "Offices in New York, London, Singapore, and Germany"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "R. Philip Stevenson",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jamie Sahara",
+          "title": "Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan Quail",
+          "title": "Managing Director and Global Head of R&W",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alicia Colodner",
+          "title": "HR Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna Rojas",
+          "title": "Head of Finance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Allen & Overy",
+    "website": "https://aoshearman.com/en",
+    "city": "Other",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 1367,
+    "firm_description": "Allen & Overy is a Law Practice company. On May 1, 2024, Allen & Overy and Shearman & Sterling merged to become A&O Shearman.",
+    "notable_facts": [
+      "Merged with Shearman & Sterling on May 1, 2024, to become A&O Shearman.",
+      "Operates in 36 countries.",
+      "Annual revenue of $2.4B."
+    ],
+    "technology_signals": [
+      "intapp",
+      "fintech",
+      "microsoft azure",
+      "angular",
+      "lenovo",
+      "rabbitmq",
+      "microsoft windows xp",
+      "vmware",
+      "cognos"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Herv\u00e9 Eku\u00e9",
+        "title": "Global Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Khalid Garousha",
+        "title": "Partner and Co-Chair of the Executive Committee and Board",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Bethan Chatters",
+        "title": "Global CFO & Ops Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sasha Hardman",
+          "title": "Global Chief People Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Brammer",
+          "title": "Global CIO and SSC Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/allen-overy",
+    "linkedin_size": "1001-5000"
+  },
+  "email": {}
+}

@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Getnick & Getnick LLP",
+    "website": "https://getnicklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Fraud Investigation",
+      "Litigation",
+      "Whistleblower Claims",
+      "Business Integrity"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Getnick & Getnick LLP is a law firm specializing in anti-fraud litigation and business integrity. They represent individuals, businesses, and government entities in fraud investigation, False Claims Act (qui tam) litigation, and other areas.",
+    "notable_facts": [
+      "The firm has won many of the nation\u2019s biggest whistleblower cases over the past 30 years.",
+      "They led the representation of a whistleblower in a historic 2024 $263 million IRS tax fraud recovery.",
+      "The firm's lawyers are active in legal, public interest, academic, government, and business communities."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Neil V. Getnick",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Denise Ward",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael E. Getnick",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Margaret J. Finerty",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard J. Dircks",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lesley Ann Skillen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Carroll Guido Groffman Cohen Bar & Karalian, LLP",
+    "website": null,
+    "city": "New York",
+    "practice_areas": [
+      "Entertainment Law",
+      "Media Law",
+      "Music Law",
+      "Intellectual Property Law",
+      "Transactional Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Carroll Guido Groffman Cohen Bar & Karalian LLP is a prominent entertainment law boutique specializing in talent representation, particularly in the music industry. The firm\u2019s mission is to provide tailored legal services to artists and creatives, ensuring their rights are protected and interests advanced.",
+    "notable_facts": [
+      "Ranked in Chambers USA Guide for Media & Entertainment: Advisory (Band 3)",
+      "Elliot Groffman ranked in Chambers USA Guide for Media & Entertainment: Music (Band 1)",
+      "Located in New York and Los Angeles"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/robert-cohen-21955b6"
+        },
+        {
+          "name": "Elliot Groffman",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

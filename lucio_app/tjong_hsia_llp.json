@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Tjong & Hsia LLP",
+    "website": "https://www.tjonghsia.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate & Securities",
+      "Digital Media & Creative Ventures",
+      "Hedge & Private Equity Funds",
+      "Start-up & Emerging Companies",
+      "Clean Technology Companies",
+      "Fashion & Consumer Goods",
+      "Data Privacy and Technology Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Tjong & Hsia LLP offers superior service from experienced counsel with the flexibility and value-orientation of a boutique law firm. They represent high net worth individuals and families, start-ups and emerging companies and PE/hedge funds.",
+    "notable_facts": [
+      "Lawyers trained at top law firms and law schools",
+      "Offer cross-border services and speak French, Spanish, Portuguese, German and Chinese",
+      "Over one hundred years of experience executing on complex deals and projects across industries"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David W. Hsia",
+          "title": "Partner",
+          "email": "dhsia@tjonghsia.com",
+          "phone": "+1.212.203.7608",
+          "linkedin_url": null
+        },
+        {
+          "name": "Wei-Li F. X. Tjong",
+          "title": "Partner",
+          "email": "wtjong@tjonghsia.com",
+          "phone": "+1.212.203.7237",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer E.D. Clarke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karin E. Weiner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alice J. Lee",
+          "title": "Associate",
+          "email": "alee@tjonghsia.com",
+          "phone": "+1.212.380.8619",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

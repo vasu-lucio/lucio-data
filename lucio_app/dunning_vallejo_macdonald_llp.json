@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Dunning Vallejo & MacDonald LLP",
+    "website": "https://dvmlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Arbitration",
+      "M&A",
+      "Commercial Transactions",
+      "Project Finance",
+      "Corporate Matters",
+      "Tax"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Dunning Vallejo & MacDonald LLP (DV&M) specializes in dispute resolution (litigation and arbitration, domestic and international), M&A and other commercial transactions, project finance, corporate matters and tax. DV&M was founded in 2019 with the intention of combining the experience and quality of a larger firm with the more personal approach of a boutique firm.",
+    "notable_facts": [
+      "The firm was founded in 2019.",
+      "The firm's attorneys are often bilingual or multilingual, with capabilities in Spanish, French, Portuguese and Turkish."
+    ],
+    "technology_signals": [
+      "Uses Jus Mundi for legal research, cutting research time by 70%"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian C. Dunning",
+          "title": "Partner",
+          "email": "bdunning@dvmlaw.com",
+          "phone": "+1 646-873-7522",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert C. MacDonald",
+          "title": "Partner",
+          "email": "rcm@dvmlaw.com",
+          "phone": "+1 646-513-3287",
+          "linkedin_url": null
+        },
+        {
+          "name": "Dami\u00e1n Vallejo",
+          "title": "Partner",
+          "email": "dvallejo@dvmlaw.com",
+          "phone": "+1 646-680-9236",
+          "linkedin_url": null
+        },
+        {
+          "name": "Della M. Hill",
+          "title": "Partner",
+          "email": "dhill@dvmlaw.com",
+          "phone": "+1 646-513-3256",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andr\u00e9s Arnaldos",
+          "title": "Partner",
+          "email": "aarnaldos@dvmlaw.com",
+          "phone": "+1 646-688-2912",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

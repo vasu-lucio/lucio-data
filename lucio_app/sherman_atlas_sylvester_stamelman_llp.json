@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Sherman Atlas Sylvester & Stamelman LLP",
+    "website": "https://www.shermanatlas.com/",
+    "city": "Florham Park",
+    "practice_areas": [
+      "Corporate Law",
+      "Trusts and Estates",
+      "Tax Law",
+      "Commercial Litigation",
+      "Banking and Finance Law",
+      "Real Estate Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sherman Atlas Sylvester & Stamelman LLP's senior attorneys are highly respected in their disciplines in the New Jersey/New York area. They offer legal services in areas such as corporate law, estate planning, and litigation.",
+    "notable_facts": [
+      "Several attorneys have been recognized in Best Lawyers lists for 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Colleen Boyle",
+        "title": "Director of HR and Administrative Services",
+        "email": "cboyle@shermanatlas.com",
+        "phone": "(973) 302-9718",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William G. Connolly",
+          "title": "Partner and General Counsel",
+          "email": "wconnolly@shermanatlas.com",
+          "phone": "(973) 302-9665",
+          "linkedin_url": null
+        },
+        {
+          "name": "Harold S. Atlas",
+          "title": "Partner",
+          "email": "hatlas@shermanatlas.com",
+          "phone": "(973) 302-9712",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew J. Stamelman",
+          "title": "Partner",
+          "email": "astamelman@shermanatlas.com",
+          "phone": "(973) 302-9714",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua S. Bratspies",
+          "title": "Partner",
+          "email": "jbratspies@shermanatlas.com",
+          "phone": "(973) 302-9709",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

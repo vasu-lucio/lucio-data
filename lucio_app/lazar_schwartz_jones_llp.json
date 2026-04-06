@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Lazar Schwartz & Jones LLP",
+    "website": "https://www.lazarschwartzjones.com/",
+    "city": "Hopewell Junction",
+    "practice_areas": [
+      "Family Law",
+      "Divorce",
+      "Mediation",
+      "Collaborative Divorce",
+      "Prenuptial & Postnuptial Agreements",
+      "Trusts, Wills & Estate Planning",
+      "Adoption"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Lazar Schwartz & Jones LLP is a family law firm serving the Hudson Valley. They offer services in divorce litigation, collaboration, and mediation.",
+    "notable_facts": [
+      "The firm has over 40 years of experience.",
+      "Approximately 65% of cases are resolved without court intervention.",
+      "The firm offers three different ways to dissolve a marriage: divorce litigation, collaboration, and mediation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Kathryn S. Lazar",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(845) 896-9651",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert M. Schwartz",
+          "title": "Attorney (Emeritas)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Suzanne Mariconti",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brett E. Jones",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(845) 896-9651",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sherry Bishko",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(845) 896-9651",
+          "linkedin_url": null
+        },
+        {
+          "name": "Randie Semel",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(845) 896-9651",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

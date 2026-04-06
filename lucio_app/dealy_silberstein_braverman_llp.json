@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Dealy Silberstein & Braverman, LLP",
+    "website": "https://dsblawny.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Labor and Employment",
+      "Executive Compensation",
+      "Corporate Transactions",
+      "Litigation",
+      "Training",
+      "Investigations",
+      "Strategic Advice and Compliance",
+      "Criminal Defense",
+      "Trusts & Estates",
+      "Alternative Dispute Resolution",
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Dealy Silberstein & Braverman, LLP is a law firm with practice areas including labor and employment, corporate, criminal defense, and trusts and estates law.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Milo Silberstein",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc David Braverman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria Louisa Bianco",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laurence Jay Lebowitz",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amanda Elizabeth Maguire",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

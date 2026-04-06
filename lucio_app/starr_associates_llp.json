@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Starr Associates LLP",
+    "website": "https://www.starr-lawfirm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Condominium and Cooperative Offering Plan Registrations",
+      "Vacation Ownership Filings",
+      "Redevelopment of Mixed-Use Commercial Structures",
+      "Contract Drafting, Negotiations and Closings",
+      "Cooperative and Condominium Board Representation",
+      "Litigation and Dispute Resolution",
+      "Real Estate Sales, Acquisitions, Financing and Leasing"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Starr Associates LLP is a New York law firm providing legal representation for the real estate industry. The firm offers a full range of services, including condominium and cooperative offering plan registrations, contract drafting, and litigation.",
+    "notable_facts": [
+      "Attorneys at the Firm have registered projects containing in excess of 650,000 units with aggregate purchase prices of over $50 billion dollars."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Samantha Sheeber",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Allan Starr",
+          "title": "Founder & Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam Kriegstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea L. Roschelle",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 620-2681",
+          "linkedin_url": null
+        },
+        {
+          "name": "Shaun W. Pappas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erica Starr",
+          "title": "Director of Financial Operations",
+          "email": "estarr@starr-lawfirm.com",
+          "phone": "212-620-2674",
+          "linkedin_url": null
+        },
+        {
+          "name": "John Rodriguez",
+          "title": "Director of Closing Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

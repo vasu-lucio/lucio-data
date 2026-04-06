@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Chapman and Cutler LLP",
+    "website": "https://chapman.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Finance"
+    ],
+    "lawyer_count": 371,
+    "firm_description": "Chapman and Cutler LLP is a law firm focused on finance, providing practical and strategic legal advice for virtually any financing issue. They work with sophisticated financial companies and institutional investors.",
+    "notable_facts": [
+      "Founded in 1913",
+      "Nearly half of their partners have spent their entire careers at Chapman",
+      "Over half of their professional staff have worked at the firm for 15 or more years"
+    ],
+    "technology_signals": [
+      "Investing in new technology and practice management solutions"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Greg Klamrzynski",
+        "title": "Chief Executive Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Kelley Bender",
+        "title": "Chief Operating Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Theodore S. Chapman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Henry Cutler",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bill Libit",
+          "title": "Member of the National Public Finance Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Jadeja-Cimone Law, PC",
+    "website": "https://jadejacimone.com/",
+    "city": "Hempstead",
+    "practice_areas": [
+      "Immigration Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jadeja-Cimone Law, PC specializes exclusively in U.S. immigration law, serving individuals and families across Long Island. They handle various immigration cases, including deportation defense, family petitions, and green card applications.",
+    "notable_facts": [
+      "The firm has handled thousands of immigration cases for clients from over 90 countries.",
+      "They have offices in both Nassau and Suffolk Counties.",
+      "The firm's multilingual team speaks several languages, including Spanish, Portuguese, and Hindi."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kathryn E. Jadeja-Cimone",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Carolyn M. Corrado",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marina Ostrovskaya",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Francisco J. Silva",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sunaina Bawa",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

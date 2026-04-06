@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Ritholz Levy Fields LLP",
+    "website": "https://rlfllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate & Finance",
+      "Dispute Resolution",
+      "Entertainment",
+      "Sports",
+      "Fashion & Apparel",
+      "Food & Beverage",
+      "Media & Technology",
+      "Intellectual Property"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ritholz Levy Fields represents a wide range of creators, operating companies, entrepreneurs and financiers in the music, television, motion picture, video game, action sports apparel, endorsements, fashion, podcasting, and wireless electronic transactions industries. They bridge both traditional and new media, attracting celebrated creative artists and commercial brands.",
+    "notable_facts": [
+      "The firm has decades of experience as lawyers and former executives in their fields.",
+      "They provide innovative solutions for clients facing legal and business challenges."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Adam Ritholz",
+        "title": "Founding and Managing Partner",
+        "email": "aritholz@rlfllp.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey A. Levy",
+          "title": "Partner",
+          "email": "jlevy@rlfllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Fields",
+          "title": "Partner",
+          "email": "fields@rlfllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Greg Weisman",
+          "title": "Partner",
+          "email": "gweisman@rlfllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Chip Petree",
+          "title": "Partner",
+          "email": "cpetree@rlfllp.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

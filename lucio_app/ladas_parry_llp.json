@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Ladas & Parry LLP",
+    "website": "https://ladas.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property",
+      "Copyright",
+      "Trademark",
+      "Patent"
+    ],
+    "lawyer_count": 69,
+    "firm_description": "Ladas & Parry LLP is an intellectual property law firm that recommends practical legal and business strategies to assist clients in global management and the protection, enforcement, and monetization of their intellectual property rights at every stage of development. The firm has been managing high-profile, global IP portfolios for decades.",
+    "notable_facts": [
+      "Founded in 1912",
+      "Manages high-profile, global IP portfolios",
+      "Has a diverse client base including Fortune 500 companies"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mavis Gallenson",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Lawrence Langner",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Alexander Brot",
+        "title": "Director Of Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Dennis Prahl",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Malcolm J Macdonald",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Don Dennison",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

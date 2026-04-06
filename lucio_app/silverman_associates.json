@@ -1,0 +1,54 @@
+{
+  "firm_data": {
+    "firm_name": "Silverman & Associates",
+    "website": "https://silvermanandassociatesny.com/",
+    "city": "Bayside",
+    "practice_areas": [
+      "Employment Practices Liability",
+      "Municipal Liability & Education",
+      "General Defense Litigation",
+      "Construction & Construction Defect"
+    ],
+    "lawyer_count": 4,
+    "firm_description": "Silverman & Associates is a trial attorney specializing in litigation in the New York State and Federal Courts. They handle cases in the New York City Metropolitan area including Long Island, Rockland, Westchester, and the Hudson Valley.",
+    "notable_facts": [
+      "Founded in 2015",
+      "Clients include insurance companies, third party administrators, school districts, public entities, governmental entities, corporations and private clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

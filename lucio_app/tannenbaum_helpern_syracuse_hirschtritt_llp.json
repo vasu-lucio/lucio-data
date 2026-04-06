@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Tannenbaum Helpern Syracuse & Hirschtritt LLP",
+    "website": "http://www.thsh.com",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Litigation",
+      "Real Estate",
+      "Intellectual Property",
+      "Tax",
+      "Trust & Estate"
+    ],
+    "lawyer_count": 67,
+    "firm_description": "Tannenbaum Helpern Syracuse & Hirschtritt LLP is a business law firm whose mission is to deliver the highest quality legal services in a practical and efficient manner. It combines a powerful mix of insight, creativity, industry knowledge, senior talent and transaction experience to successfully guide clients through periods of challenge and opportunity.",
+    "notable_facts": [
+      "The firm was founded in 1978.",
+      "The firm unveiled a rebrand and launched a new website in October 2025."
+    ],
+    "technology_signals": [
+      "JavaScript",
+      "HTML",
+      "Twitter"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew W. Singer",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer White",
+          "title": "Chief Marketing & Business Development Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa T. Billig",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212-508-6730",
+          "linkedin_url": null
+        },
+        {
+          "name": "Stacey A. Usiak",
+          "title": "Partner",
+          "email": "[[email protected]]",
+          "phone": "212-702-3158",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

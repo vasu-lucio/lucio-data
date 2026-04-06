@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "London Fischer LLP",
+    "website": "https://www.londonfischer.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Business Law",
+      "Construction",
+      "Manufacturing",
+      "Insurance"
+    ],
+    "lawyer_count": 107,
+    "firm_description": "London Fischer is a litigation and business law firm that provides counsel, risk management, trial, appellate and advisory services for the construction, manufacturing, and insurance industries. With offices in New York and California, we provide nationwide service for our clients.",
+    "notable_facts": [
+      "Provides nationwide service for clients.",
+      "Clients include prestigious insurance groups and large corporations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bud London",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Julie van Wert",
+        "title": "Managing Partner Of Los Angeles Office",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bernard London",
+          "title": "founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amy Kramer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel London",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

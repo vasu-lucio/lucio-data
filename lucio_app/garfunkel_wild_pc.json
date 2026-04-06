@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Garfinkel Wild, P.C.",
+    "website": "https://garfunkelwild.com/",
+    "city": "Great Neck",
+    "practice_areas": [
+      "Health Care Law"
+    ],
+    "lawyer_count": 97,
+    "firm_description": "Garfinkel Wild is a law firm dedicated to the full spectrum of businesses and institutions that make health care delivery possible. They handle issues with a health care component anywhere in the country, and integrate closely with clients to provide pragmatic cost-effective solutions.",
+    "notable_facts": [
+      "Consistently ranked Tier 1 by Chambers USA and Best Lawyers.",
+      "More than half of their attorneys are ranked by Super Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew E. Blustein",
+          "title": "Chairman",
+          "email": null,
+          "phone": "516-393-2218",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lara Jean Ancona",
+          "title": "Partner/Director",
+          "email": null,
+          "phone": "516-393-2245",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven R. Antico",
+          "title": "Partner/Director",
+          "email": null,
+          "phone": "201-518-3434",
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam T. Berkowitz",
+          "title": "Partner/Director",
+          "email": null,
+          "phone": "516-393-2502",
+          "linkedin_url": null
+        },
+        {
+          "name": "Greg E. Bloom",
+          "title": "Partner/Director",
+          "email": null,
+          "phone": "516-393-2273",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Houlihan Lawrence",
+    "website": "https://www.houlihanlawrence.com/",
+    "city": "Rye Brook, NY",
+    "practice_areas": [
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Houlihan Lawrence is a real estate brokerage firm focusing on the New York suburban market. They provide real estate services and strive to lead in a competitive market.",
+    "notable_facts": [
+      "The Leadership Team is responsible for setting strategic direction and overseeing operations.",
+      "The firm enhances its market presence through collaboration and innovation in real estate practices."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Andrew Lafreniere",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Elizabeth Nunan",
+          "title": "President & CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Terry Kearney",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie Williams",
+          "title": "Vice President, Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Deborah E. Doern",
+          "title": "Senior Vice President Of Sales",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

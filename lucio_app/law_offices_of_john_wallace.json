@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Wallace & Morrison",
+    "website": "http://wallacetrustlaw.com",
+    "city": "Atlanta",
+    "practice_areas": [
+      "Tax",
+      "Planning for non-U.S. citizens and residents",
+      "Charitable Planning",
+      "Business Succession Planning",
+      "Probate and Estate Administration",
+      "Trusts & Estates",
+      "Complex Wealth Transfer Planning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wallace & Morrison focuses on trusts and estates law, tax law, and related areas.",
+    "notable_facts": [
+      "John Wallace was elected to the Estate Planning Hall of Fame as an Accredited Estate Planner (Distinguished) in 2015."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John A. Wallace",
+          "title": "Partner",
+          "email": "jwallace@wallacetrustlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

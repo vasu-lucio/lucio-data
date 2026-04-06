@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Feuerstein Kulick",
+    "website": "https://www.dfmklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Cannabis",
+      "Corporate",
+      "Corporate Restructuring",
+      "Debt Finance",
+      "License Applications",
+      "Litigation",
+      "Real Estate",
+      "Regulatory"
+    ],
+    "lawyer_count": 26,
+    "firm_description": "Feuerstein Kulick is a leading law firm focused on the legal cannabis space, as well as commercial litigation, real estate litigation, corporate and securities law, and bankruptcy & restructuring. The firm is comprised of former Wall Street attorneys who left the \u201cBiglaw\u201d life to create a more entrepreneurial and client-friendly law firm.",
+    "notable_facts": [
+      "The firm was founded in 2016.",
+      "The firm serves as outside general counsel to many of its clients, especially in the cannabis, consumer goods and financial services industries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mitchell Kulick",
+          "title": "Partner",
+          "email": "mitch@dfmklaw.com",
+          "phone": "646-768-0592",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Feuerstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth D. Fiur",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anan Kahari",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristina C. Ng",
+          "title": "Lawyer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

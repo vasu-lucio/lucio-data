@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "Hodges Walsh & Burke, LLP",
+    "website": "https://hwb-lawfirm.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Products Liability",
+      "Asbestos & Toxic Torts",
+      "Pharmaceuticals & Medical Devices",
+      "Municipal & Police Law",
+      "Business Transactions & Litigation",
+      "Civil Rights",
+      "Insurance Coverage Issues",
+      "General Negligence",
+      "Appellate Practice",
+      "Transportation & Carrier Litigation",
+      "Criminal Matters & Traffic Citations",
+      "Labor & Employment",
+      "Special Investigations Unit Claims (SIU) & Insurance Fraud"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Hodges Walsh & Burke, LLP concentrates its practice on the defense of civil litigation claims, representing and protecting the interests of domestic and international corporations, municipalities, police agencies, insurance carriers and their assureds in state and federal courts throughout New York, New Jersey and Connecticut, in addition to many other venues throughout the nation. Our attorneys offer skilled and knowledgeable counsel, with emphasis on quality of representation and the expeditious resolution of claims.",
+    "notable_facts": [
+      "Attorneys are leaders of the defense bar.",
+      "George S. Hodges served as president of the IADC (2004-2005).",
+      "The firm has been rated AV in the most recent Martindale-Hubbell directory."
+    ],
+    "technology_signals": [
+      "Utilizes computer technology including case management systems and document management applications."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "George S. Hodges",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John J. Walsh II",
+          "title": "Esq.",
+          "email": "jwalsh@hwb-lawfirm.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael K. Burke",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul E. Svensson",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer E. Devlin",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Meltzer, Lippe, Goldstein & Breitstone, LLP",
+    "website": "http://www.meltzerlippe.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Bankruptcy, Workouts & Creditors' Rights",
+      "Business & Real Estate Taxation",
+      "Construction",
+      "Corporate / Business",
+      "Crisis Management, Investigations & Constitutional Law",
+      "Elder Law",
+      "Government Strategies",
+      "Labor & Employment",
+      "Litigation",
+      "Mental Health, Guardianship & Elder Law Litigation",
+      "Private Wealth & Taxation",
+      "Real Estate",
+      "Social Media, Software & Privacy",
+      "Tax Exempt Organizations",
+      "Trust & Estate Litigation",
+      "Trusts & Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The law firm of Meltzer, Lippe, Goldstein & Breitstone, LLP, a full service law firm, has been helping businesses and individuals for over 50 years.",
+    "notable_facts": [
+      "The firm has offices in Long Island, NYC, and Florida.",
+      "The firm was founded in 1970."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David J. Heymann",
+        "title": "Managing Partner",
+        "email": "dheymann@meltzerlippe.com",
+        "phone": "516.747.0300 Ext. 139",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Dawn Laffin",
+        "title": "CFO/COO",
+        "email": "dlaffin@meltzerlippe.com",
+        "phone": "516.747.0300 Ext. 126",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lew Meltzer",
+          "title": "Chairman",
+          "email": "lmeltzer@meltzerlippe.com",
+          "phone": "516-747-0300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Scott Steinberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://theorg.com/org/meltzer-lippe-goldstein-breitstone-llp/org-chart/scott-steinberg"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

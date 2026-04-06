@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Bernstone and Grieco, LLP",
+    "website": "https://bernstonegrieco.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury Law",
+      "Construction Accidents",
+      "Motor Vehicle Accidents",
+      "Slip/Trip Accidents",
+      "Pedestrian Accidents",
+      "Class Action Lawsuits",
+      "Brain & Catastrophic Injuries",
+      "Ceiling Collapses",
+      "Elevator & Escalator Accidents",
+      "Wrongful Death",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bernstone and Grieco, LLP is a full-service personal injury law firm with over 100 combined years of litigation experience, and has recovered many millions of dollars for their clients. They serve all five boroughs of New York City, Nassau County, Suffolk County, Westchester County and New Jersey.",
+    "notable_facts": [
+      "Recovered hundreds of millions of dollars for clients.",
+      "Offer free consultations.",
+      "Visit clients at their home or hospital."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alvin M. Bernstone",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lisa L. Grieco",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew A. Schroeder",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James M. McGowan",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin"
+  },
+  "email": {}
+}

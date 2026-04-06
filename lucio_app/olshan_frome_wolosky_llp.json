@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Olshan Frome Wolosky LLP",
+    "website": "https://www.olshanlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Shareholder Activism",
+      "Corporate/Securities Law",
+      "Litigation",
+      "Real Estate",
+      "Advertising, Marketing & Promotions Law",
+      "Brand Management & Protection",
+      "Bankruptcy & Financial Restructuring",
+      "Intellectual Property/Licensing/Entertainment Law",
+      "Tax & Personal Planning",
+      "Employment Practices",
+      "Employee Benefits",
+      "Insurance Coverage",
+      "White Collar & Government Investigations"
+    ],
+    "lawyer_count": 99,
+    "firm_description": "Olshan, a law firm based in New York, represents major businesses and entrepreneurs for their most significant transactions, problems and opportunities. Clients choose Olshan for innovative strategies and sophisticated, game-changing advice.",
+    "notable_facts": [
+      "Home of the #1 Ranked Shareholder Activism Practice",
+      "An alternative to the AmLaw 50 firm business model",
+      "Responsive, independent and client-focused counsel",
+      "Named to Crain\u2019s 2026 \u201cNotable Women in Law\u201d"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Andrew Freedman",
+        "title": "Co-Managing Partner; Chair, Shareholder Activism Practice",
+        "email": null,
+        "phone": "212.451.2250",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nina M. Roket",
+          "title": "Co-Managing Partner; Co-Chair, Real Estate Law Practice; Chair, Commercial Leasing Practice",
+          "email": null,
+          "phone": "212.451.2335",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew B. Lustigman",
+          "title": "CO-MANAGING PARTNER; Chair, Advertising, Marketing & Promotions Practice; Co-Chair, Brand Management & Protection Practice",
+          "email": null,
+          "phone": "212.451.2258",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lori Marks-Esterman",
+          "title": "Executive Committee Member; Chair, Litigation Practice",
+          "email": null,
+          "phone": "212.451.2257",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitchell Raab",
+          "title": "Executive Committee Member; Chair, Corporate/Securities Law Practice",
+          "email": null,
+          "phone": "212.451.2237",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

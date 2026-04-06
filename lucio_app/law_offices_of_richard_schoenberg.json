@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Walkup, Melodia, Kelly & Schoenberger",
+    "website": "www.walkuplawoffice.com",
+    "city": "San Francisco",
+    "practice_areas": [
+      "Medical Malpractice Law",
+      "Personal Injury Litigation",
+      "Product Liability Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Walkup, Melodia, Kelly & Schoenberger is a law firm in San Francisco specializing in personal injury and medical malpractice.",
+    "notable_facts": [
+      "The firm has achieved unparalleled successes in Northern California.",
+      "Many partners belong to invitation-only organizations for top trial lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard H. Schoenberger",
+          "title": "Lawyer",
+          "email": "rschoenberger@walkuplawoffice.com",
+          "phone": "415-981-7210",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

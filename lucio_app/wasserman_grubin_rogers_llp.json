@@ -1,0 +1,123 @@
+{
+  "firm_data": {
+    "firm_name": "Wasserman Grubin & Rogers, LLP",
+    "website": "https://wgrlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Business Law",
+      "Real Estate Transactions",
+      "Contract Termination Disqualification",
+      "Construction Contracts",
+      "State & Local Government Contracts",
+      "Trials & Complex Litigation",
+      "Arbitration & Alternative Dispute Resolution"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Wasserman Grubin & Rogers, LLP is a law firm that provides quality representation for business owners throughout New York City and surrounding areas. They are committed to collaborating with business, individual, governmental and nonprofit clients to meet their legal and practical needs.",
+    "notable_facts": [
+      "Founded in 1983",
+      "The firm serves clients throughout the New York City Tri-State Region",
+      "The firm has a strong reputation for its work in the areas of construction, real estate, state and local government contracts, litigation and arbitration"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Richard Wasserman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John F. Grubin",
+          "title": "Retired",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Meredith Kershaw",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Victor Max Zalta",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Shawn Edward White",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ariana Marte Acevedo",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew K. Lipetz",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas J. Lutz",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael T. Rogers",
+          "title": "Attorney",
+          "email": null,
+          "phone": "212-271-9880",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

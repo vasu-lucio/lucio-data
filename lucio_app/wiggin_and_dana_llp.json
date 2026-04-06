@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Wiggin and Dana LLP",
+    "website": "http://wiggin.com/",
+    "city": "New Haven",
+    "practice_areas": [
+      "Corporate",
+      "Litigation",
+      "Private Client Services",
+      "Real Estate, Environmental, Construction and Facilities"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wiggin and Dana is a full-service law firm of highly talented, creative, and experienced lawyers dedicated to exceeding our clients\u2019 expectations every day. With offices in Boston, Connecticut, New York, Philadelphia, Washington, DC, and Florida, we represent clients throughout the United States and globally on a wide range of sophisticated and complex matters.",
+    "notable_facts": [
+      "Recognized as Law Firm of the Year at the 2025 New England Legal Awards",
+      "13 attorneys named as \"Litigation Stars\" by Benchmark Litigation in 2026",
+      "Shortlisted for Litigation Departments of the Year \u2013 White Collar by The National Law Journal"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Brenda Bicking",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Dunlap",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Inglis",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Becca Gedney",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Genevieve Nicholson",
+          "title": "Chief Knowledge and Research Services Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

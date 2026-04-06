@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Maune Raichle Hartley French & Mudd, LLC",
+    "website": "https://mrhfmlawfirm.com/",
+    "city": "St. Louis",
+    "practice_areas": [
+      "Litigation",
+      "Personal Injury",
+      "Asbestos",
+      "Toxic Exposure"
+    ],
+    "lawyer_count": 88,
+    "firm_description": "Maune Raichle Hartley French & Mudd, LLC is a law firm focused on representing mesothelioma victims and their families. This focus allows them to be sensitive to the concerns of their clients suffering while navigating the unique legal aspects of these cases and maximizing each client's recovery.",
+    "notable_facts": [
+      "Founded in 1992",
+      "Headquartered in St. Louis, Missouri",
+      "Has 10 offices in the U.S.",
+      "Specializes in mesothelioma cases"
+    ],
+    "technology_signals": [
+      "Microsoft Word",
+      "Power BI",
+      "Filevine",
+      "Microsoft Outlook"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Dawn Besserman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marcus Raichle",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meredith Good",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William Ruiz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Suzanne Ratcliffe",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Clay Thompson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

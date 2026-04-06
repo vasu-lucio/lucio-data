@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Puleo Delisle, PLLC",
+    "website": "https://www.pdlaw.com/",
+    "city": "Smithtown",
+    "practice_areas": [
+      "Real Estate",
+      "Lender Representation",
+      "CEMA Representation",
+      "Title Curative Services",
+      "Co-op Settlement",
+      "Landlord/Tenant Representation",
+      "Reverse Mortgage"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Puleo Delisle, PLLC is a multi-state law firm specializing in lender representation and real estate services with over 20 years of legal experience. Their attorneys have the knowledge, experience, skill and resolve to provide clients with the very best representation available.",
+    "notable_facts": [
+      "Handled 10,000+ title resolutions",
+      "Dealt with 18,000+ NY CEMA loans",
+      "Over 500 5-star reviews"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Chris Delisle",
+          "title": "Partner",
+          "email": "Chris.Delisle@pdlaw.com",
+          "phone": "631-656-3500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Puleo",
+          "title": "Partner",
+          "email": "Peter.Puleo@pdlaw.com",
+          "phone": "631-656-3500",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher Garcia",
+          "title": "Managing Attorney",
+          "email": "Christopher.Garcia@pdlaw.com",
+          "phone": "631-656-3500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian Johnston",
+          "title": "Attorney",
+          "email": "Brian.Johnston@pdlaw.com",
+          "phone": "631-656-3500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexandrea Lapka",
+          "title": "Of Counsel",
+          "email": "Alex.Lapka@pdlaw.com",
+          "phone": "631-759-4242",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

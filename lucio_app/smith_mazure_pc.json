@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Smith Mazure, P.C.",
+    "website": "https://smithmazure.com/",
+    "city": "New York, NY",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Smith Mazure, P.C. is a law firm with offices in New York, New Jersey, and Long Island.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "J. Jay Young",
+          "title": "CEO and Member of Smith Mazure's Executive Committee",
+          "email": "jyoung@smithmazure.com",
+          "phone": "(212) 485-8725",
+          "linkedin_url": null
+        },
+        {
+          "name": "Corey A. Tavel",
+          "title": "Executive Member",
+          "email": "ctavel@smithmazure.com",
+          "phone": "(212) 485-8755",
+          "linkedin_url": null
+        },
+        {
+          "name": "Maurice J. Recchia",
+          "title": "Member",
+          "email": "mrecchia@smithmazure.com",
+          "phone": "(212) 485-8709",
+          "linkedin_url": null
+        },
+        {
+          "name": "Zaina Ayyoub",
+          "title": "Member",
+          "email": "zayyoub@smithmazure.com",
+          "phone": "(212) 485-8744",
+          "linkedin_url": null
+        },
+        {
+          "name": "Louise M. Cherkis",
+          "title": "Member",
+          "email": "lcherkis@smithmazure.com",
+          "phone": "(212) 485-8759",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

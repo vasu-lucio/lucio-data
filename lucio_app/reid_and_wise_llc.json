@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "REID & WISE LLC",
+    "website": "https://reidwise.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Cross-Border Transactions",
+      "EB-5 Investor Immigration",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Reid & Wise LLC is an international law firm serving the US-China business corridor. They provide legal services on a cost-effective basis, with practices in cross-border transactions, EB-5 investor immigration, and litigation.",
+    "notable_facts": [
+      "Recognized as a top boutique firm in the New York Chambers Spotlight 2025 Guide.",
+      "Matthew Sava named Top EB-5 Litigator by EB-5 Investors Magazine.",
+      "Operates a Chinese-language website on US corporate and business laws at uslawconsult.com."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Sava",
+          "title": "Head of Litigation Department",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

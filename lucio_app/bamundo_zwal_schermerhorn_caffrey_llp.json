@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Bamundo Zwal Schermerhorn & Caffrey LLP",
+    "website": "https://www.bzslaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "General Practice",
+      "Plaintiff's Litigation",
+      "Defense Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bamundo Zwal Schermerhorn & Caffrey, LLP is a New York City law firm with experienced litigators, trial lawyers, and transactional attorneys. They offer legal services in general practice, plaintiff's litigation, and defense litigation.",
+    "notable_facts": [
+      "The firm traces its roots to 1975.",
+      "The firm has a combined experience of almost 200 years practicing law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven Bamundo",
+        "title": "Managing Partner",
+        "email": "BZS@BZSLaw.com",
+        "phone": "212-608-8840",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James R. Schermerhorn",
+          "title": "Partner, Senior Trial Attorney",
+          "email": "BZS@BZSLaw.com",
+          "phone": "212-608-8840",
+          "linkedin_url": null
+        },
+        {
+          "name": "James M. Caffrey",
+          "title": "Partner",
+          "email": "BZS@BZSLaw.com",
+          "phone": "212-608-8840",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bartholomew T. Russo",
+          "title": "Partner",
+          "email": "BZS@BZSLaw.com",
+          "phone": "212-608-8840",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ben Bartolotta",
+          "title": "Associate",
+          "email": "BZS@BZSLaw.com",
+          "phone": "212-608-8840",
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin P. Ryan",
+          "title": "Associate",
+          "email": "BZS@BZSLaw.com",
+          "phone": "212-608-8840",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara L. Stanchfield",
+          "title": "Associate",
+          "email": "BZS@BZSLaw.com",
+          "phone": "212-608-8840",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/schermerhornbrosco"
+  },
+  "email": {}
+}

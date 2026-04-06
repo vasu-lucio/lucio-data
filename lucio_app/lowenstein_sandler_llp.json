@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Lowenstein Sandler LLP",
+    "website": "http://lowenstein.com",
+    "city": null,
+    "practice_areas": [],
+    "lawyer_count": 400,
+    "firm_description": "Lowenstein Sandler is a law firm focused on private investment funds, tech, life sciences, litigation, and bankruptcy. The firm aims to grow to as many as 700 lawyers over the next four years.",
+    "notable_facts": [
+      "Jonathan Wishnia was elected as the firm\u2019s next managing partner.",
+      "Gary Wingens will continue in the chair role, focusing on governance and strategy.",
+      "Lowenstein brought on Michael Caplan as COO in March 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan C. Wishnia",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michael R. Caplan",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jared Kaplan",
+          "title": "Chief Innovation & Information Officer (CIIO)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maureen Naughton",
+          "title": "Chief Administrative Officer (CAO)",
+          "email": "mnaughton@lowenstein.com",
+          "phone": "+1 862.926.2033",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Wingens",
+          "title": "Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

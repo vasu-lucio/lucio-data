@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Leeds Brown Law, P.C.",
+    "website": "http://leedsbrownlaw.com/",
+    "city": "Carle Place",
+    "practice_areas": [
+      "Employment Law",
+      "Consumer Class Actions",
+      "Sexual Harassment",
+      "Workplace Discrimination",
+      "Wrongful Termination",
+      "Pay Disparity Disputes",
+      "College Refund Litigation",
+      "Civil Rights",
+      "Wage Violation",
+      "Stolen Tips",
+      "Prevailing Wage"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Leeds Brown Law, P.C. is a New York City area litigation firm committed to integrity, professionalism, vigorous advocacy and getting results in a variety of legal practice areas, particularly in the areas of civil rights and employment discrimination. The firm has been protecting individual rights for over 35 years.",
+    "notable_facts": [
+      "Collected over $350,000,000.00 dollars on behalf of clients in the form of lost pay and damages.",
+      "Newsday calls them \"the leading civil rights firm on Long Island & probably in the country.\""
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey K. Brown",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael A. Tompkins",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brett R. Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rick Ostrove",
+          "title": "Litigation Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brandon Okano",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

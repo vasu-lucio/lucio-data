@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Outten & Golden LLP",
+    "website": "https://www.outtengolden.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Discrimination",
+      "Sexual Harassment",
+      "Wage and Hour"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Outten & Golden LLP is an employment law firm representing individuals in discrimination, sexual harassment, and wage and hour matters. They advocate for justice and equity under the law, empowering employees and protecting their interests.",
+    "notable_facts": [
+      "Founded in 1998",
+      "Largest employee-side firm in the United States"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Wayne Outten",
+          "title": "Chair",
+          "email": null,
+          "phone": "(646) 825-9810",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne Golden",
+          "title": null,
+          "email": null,
+          "phone": "(347) 390-2144",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Anna Thea Bridge",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": "(347) 390-2123",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Celene Judge",
+          "title": "Chief Human Resources Officer",
+          "email": null,
+          "phone": "(347) 390-2155",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cory Osher",
+          "title": "Director of Litigation Technology",
+          "email": null,
+          "phone": "(202) 847-4408",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

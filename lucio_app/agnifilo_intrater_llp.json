@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Agnifilo Intrater LLP",
+    "website": "https://www.agnifilo-intrater.com",
+    "city": "New York",
+    "practice_areas": [
+      "Criminal Defense",
+      "Federal and White-Collar Criminal Defense",
+      "Internal Corporate Investigations",
+      "International Criminal Defense and Extradition",
+      "Public Corruption and Political Crimes",
+      "Sexual Misconduct and Title IX Defense",
+      "Complex Trial Litigation"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Agnifilo Intrater LLP is a premier criminal defense law firm based in New York City, known for delivering powerful representation in high-stakes federal, state, and international matters. Led by a team of nationally recognized former prosecutors, the firm is trusted by executives, public officials, professionals, and individuals facing complex criminal charges.",
+    "notable_facts": [
+      "The firm's attorneys are known for their ability to handle intense legal challenges with clarity, focus, and results-driven advocacy.",
+      "Led by seasoned trial lawyers with over 30 years of experience.",
+      "Former prosecutors"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc Agnifilo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/marc-a-agnifilo-6718639/"
+        },
+        {
+          "name": "Zach Intrater",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Teny Geragos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Friedman Agnifilo",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/agnifilo-intrater-llp"
+  },
+  "email": {}
+}

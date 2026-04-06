@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Leader Berkon Colao & Silverstein LLP",
+    "website": "https://www.leaderberkon.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Litigation",
+      "Complex Business Disputes",
+      "Commercial Litigation",
+      "Securities and Commodities Disputes",
+      "Product Liability",
+      "Toxic Torts"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Leader Berkon Colao & Silverstein LLP represents a wide array of clients, including Fortune 500 companies, small businesses, and individuals, in civil litigation, and complex business disputes. They offer exceptional, economical and innovative representation in challenging legal matters.",
+    "notable_facts": [
+      "Offices in New York, Philadelphia, Los Angeles, Dallas, and San Francisco",
+      "Represents Fortune 500 companies"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joseph G. Colao",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Glen Silverstein",
+        "title": "Managing Partner",
+        "email": "gsilverstein@leaderberkon.com",
+        "phone": "212-486-2400",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bobbie R. Bailey",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian K. Cifuentes",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel A. Johnson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

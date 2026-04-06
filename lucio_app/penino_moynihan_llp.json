@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Penino & Moynihan LLP",
+    "website": "https://peninomoynihanlaw.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Litigation",
+      "Appellate",
+      "Arbitration",
+      "Civil",
+      "Construction",
+      "Fraud"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Penino & Moynihan LLP has established itself as one of the preeminent insurance defense law firms for more than 25 years. With multiple offices in both New York and Connecticut, the Firm is uniquely positioned to appear and vigorously represent its clients across all jurisdictions in both states.",
+    "notable_facts": [
+      "The firm has multiple offices in New York and Connecticut.",
+      "The firm focuses on insurance defense litigation.",
+      "The firm has been serving clients for more than 25 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Stephen J. Penino",
+        "title": "Founder and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Douglas W. Falch",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven J. Monn",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward J. Barbour",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Casey Butterly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William A. Elder",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Lachterman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Madzula",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicole M. Massi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

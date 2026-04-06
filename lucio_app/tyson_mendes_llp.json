@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Tyson & Mendes LLP",
+    "website": "https://tysonmendes.com/",
+    "city": "San Diego",
+    "practice_areas": [
+      "Insurance Defense",
+      "Civil Litigation",
+      "Construction Litigation",
+      "Personal Injury",
+      "Insurance Coverage",
+      "Professional Liability"
+    ],
+    "lawyer_count": 250,
+    "firm_description": "Tyson & Mendes is an AV-rated litigation firm specializing in defending insurers, corporations, and insureds in civil litigation. They are known for targeting and stopping Nuclear Verdicts\u00ae.",
+    "notable_facts": [
+      "Founded in 2002 by Robert Tyson and Patrick Mendes",
+      "Their trial-only subsidiary, TM HALO\u00ae, focuses on high-stakes cases.",
+      "They have a program called TM University and the Tyson & Mendes Trial Academy.",
+      "They launched 'The Apex' strategy in 2025."
+    ],
+    "technology_signals": [
+      "Schaefer City Technologies, co-founded by Robert Tyson and Patrick Mendes, develops AI products to stop Nuclear Verdicts\u00ae."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Cayce Lynch",
+        "title": "National Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert Tyson",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.tysonmendes.com/attorneys/robert-tyson/"
+        },
+        {
+          "name": "Patrick Mendes",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.tysonmendes.com/attorneys/patrick-mendes/"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Robert Tyson and Patrick Mendes co-founded Schaefer City Technologies, an insurtech company developing AI to prevent nuclear verdicts."
+      },
+      "additional_contacts": [
+        {
+          "name": "Noel Edlin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Goldman Sachs Ayco",
+    "website": "https://www.ayco.com/",
+    "city": "Cohoes",
+    "practice_areas": [
+      "Financial Planning",
+      "Wealth Management",
+      "Executive Wealth",
+      "Personal Planning",
+      "Family Office",
+      "Charitable Foundation",
+      "Trust Advisory Service"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Goldman Sachs Ayco provides financial planning and wealth management services for executives, employees, and individuals. They partner with companies to provide workplace financial planning benefits and offer comprehensive planning across financial disciplines.",
+    "notable_facts": [
+      "Pioneered company-sponsored financial planning.",
+      "Acquired by The Goldman Sachs Group, Inc. in 2003.",
+      "Celebrated 50 years in business in 2021."
+    ],
+    "technology_signals": [
+      "Digital platform for all-employee financial planning",
+      "Ayco Marketplace (open-architecture digital platform)"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "David Fox",
+        "title": "Head of Goldman Sachs Ayco",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Bill Aydelotte",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jim Conway",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": null,
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

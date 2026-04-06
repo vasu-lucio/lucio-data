@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Block, Longo, LaMarca & Brzezinski, P.C.",
+    "website": "https://blockandlongo.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Real Estate",
+      "Title Insurance",
+      "Wills",
+      "Estates & Trusts",
+      "Small Business Formation & Counseling",
+      "Land Development & Builder Representation",
+      "Land Use",
+      "Corporate Counseling",
+      "Litigation",
+      "Zoning",
+      "Municipal Finance Law",
+      "Foreclosure/Workout Services"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Block, Longo, LaMarca & Brzezinski, P.C. is a New York law firm with nearly 90 years of experience providing a full range of real estate and other legal services. Through our main office located in Buffalo and our six additional office locations throughout New York State, we offer a network of qualified and experienced attorneys in a broad range of practice areas.",
+    "notable_facts": [
+      "Founded in 1933",
+      "Has 6 offices throughout New York State",
+      "Recognized as a top provider by Expertise.com"
+    ],
+    "technology_signals": [
+      "c",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark J. Longo",
+          "title": "Esq.",
+          "email": null,
+          "phone": "(716) 854-4080",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joy LaMarca",
+          "title": "Esq.",
+          "email": "jlamarca@blockandlongo.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin E. Brzezinski",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jami Durante Rogowski",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer Hurley",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/block-longo-lamarca-brzezinski-p-c"
+  },
+  "email": {}
+}

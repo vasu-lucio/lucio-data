@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "Carter, DeLuca & Farrell LLP",
+    "website": "https://carterdeluca.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Intellectual Property Law",
+      "Chemicals",
+      "Consumer Products",
+      "Electrical/ Computer",
+      "Industrial Systems",
+      "Medical Devices",
+      "Pharmaceutical/ Biotechnology"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "Carter, DeLuca & Farrell LLP is a leader in intellectual property law providing cost-effective services to clients from around the world, protecting innovations in a wide range of technologies. The firm integrates into clients\u2019 development teams, offering preparation, prosecution, and clearance services.",
+    "notable_facts": [
+      "Founded in 2002",
+      "Employs 38 people",
+      "Provides IP due diligence services and IP asset assimilation"
+    ],
+    "technology_signals": [
+      "microsoft",
+      "adobe acrobat",
+      "microsoft excel",
+      "adobe",
+      "c",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David M. Carter",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter DeLuca",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Raymond E. Farrell",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Pina M. Campagna",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Meagher",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Trainor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

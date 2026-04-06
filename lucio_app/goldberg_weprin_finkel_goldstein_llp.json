@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Goldberg Weprin Finkel Goldstein LLP",
+    "website": "https://www.gwfglaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Tax Certiorari",
+      "Litigation",
+      "Leasing",
+      "Bankruptcy",
+      "Financing",
+      "Estate Planning"
+    ],
+    "lawyer_count": 35,
+    "firm_description": "Goldberg Weprin Finkel Goldstein LLP is a real estate law firm in New York. They handle high-value transactions, tax issues, litigation, and development and construction.",
+    "notable_facts": [
+      "Named a 2023 Top 25 Real Estate Law Firm in NYC by The Real Deal.",
+      "Represented seller in a $506 million sale of a 911-unit multifamily complex in Brooklyn, New York.",
+      "Firm has been in practice for more than 75 years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew W. Albstein",
+        "title": "Managing Partner",
+        "email": "aalbstein@gwfglaw.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Iris Albstein",
+          "title": "Partner",
+          "email": "ialbstein@gwfglaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neil Albstein",
+          "title": "Partner",
+          "email": "nalbstein@gwfglaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elliot Fink",
+          "title": "Partner",
+          "email": "efink@gwfglaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Uffner",
+          "title": "Partner",
+          "email": "suffner@gwfglaw.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

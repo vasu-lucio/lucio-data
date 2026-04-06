@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Armienti, DeBellis & Rhoden, LLP",
+    "website": "http://www.adrllp.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Litigation",
+      "Insurance Law",
+      "Medical Malpractice",
+      "Appeals"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Armienti, DeBellis & Rhoden, LLP is a New York-based litigation law firm providing guidance in various litigation matters with experience in tort defense, medical malpractice, and insurance law. Founded in 1983, the firm serves a diverse group of clients and operates on principles of calculated aggressiveness, attention to detail, experience, and cost-efficiency.",
+    "notable_facts": [
+      "Founded in 1983 by Michael Armienti",
+      "Offices in New York City, Teaneck, NJ, and Mineola, NY",
+      "Rated 'Client Recommended' by BestMark's"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael Armienti",
+          "title": null,
+          "email": "marmienti@adrllp.com",
+          "phone": "(212) 809-7074",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Silvana DeBellis",
+          "title": "Partner",
+          "email": "sdebellis@adrllp.com",
+          "phone": "(212) 809-7074",
+          "linkedin_url": null
+        },
+        {
+          "name": "Horace O. Rhoden",
+          "title": "Partner",
+          "email": "hrhoden@adrllp.com",
+          "phone": "(212) 809-7074",
+          "linkedin_url": null
+        },
+        {
+          "name": "Vanessa M. Corchia",
+          "title": "Partner",
+          "email": "vcorchia@adrllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James J. Dunning",
+          "title": "Partner",
+          "email": "jdunning@adrllp.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas J. Reap",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/armienti-debellis-and-rhoden"
+  },
+  "email": {}
+}

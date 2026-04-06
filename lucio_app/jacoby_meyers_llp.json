@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Jacoby & Meyers",
+    "website": "https://jacobymeyers.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Personal Injury",
+      "Dangerous Drugs",
+      "Defective Products",
+      "Criminal Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jacoby & Meyers is a full-service consumer law firm with offices throughout the US. They aim to make the legal system more accessible and affordable for everyone.",
+    "notable_facts": [
+      "Founded in 1972",
+      "Pioneered consumer legal services reform",
+      "Originally based in California"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Leonard Jacoby",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Meyers",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Greg Ferber",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Akiva",
+          "title": "Managing Partner of Pre-Litigation",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley Chisholm",
+          "title": "Vice President, Human Resources",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Franz Kistner",
+          "title": "Chief Technology Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

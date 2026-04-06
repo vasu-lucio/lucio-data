@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Ahdoot & Wolfson, PC",
+    "website": "https://www.ahdootwolfson.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Complex Consumer Litigation",
+      "Commercial Litigation",
+      "Antitrust",
+      "Privacy Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Ahdoot & Wolfson, PC is a law firm providing experienced representation to clients throughout the United States in employment, consumer, catastrophic personal injury, and business litigation matters. Their attorneys have a distinguished reputation.",
+    "notable_facts": [
+      "The firm was appointed lead counsel for plaintiffs in the Coinbase Data Breach and Cryptocurrency Theft Class Action.",
+      "Ahdoot Wolfson obtained a $100 million settlement in the Google Facial Biometrics Class Action.",
+      "The firm achieved a $85M Settlement in Zoom Privacy Litigation."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert Ahdoot",
+          "title": "Principal",
+          "email": "rahdoot@ahdootwolfson.com",
+          "phone": "310-474-9111",
+          "linkedin_url": null
+        },
+        {
+          "name": "Tina Wolfson",
+          "title": "Principal",
+          "email": "twolfson@ahdootwolfson.com",
+          "phone": "310-474-9111",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bradley King",
+          "title": "Partner",
+          "email": "bking@ahdootwolfson.com",
+          "phone": "310-474-9111",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Ferich",
+          "title": "Partner",
+          "email": "aferich@ahdootwolfson.com",
+          "phone": "310-474-9111",
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Clark",
+          "title": "Partner",
+          "email": "mclark@ahdootwolfson.com",
+          "phone": "310-474-9111",
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ahdootwolfson"
+  },
+  "email": {}
+}

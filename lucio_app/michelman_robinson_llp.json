@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Michelman & Robinson, LLP",
+    "website": "https://michelmanrobinson.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "Litigation",
+      "Transactional",
+      "Regulatory",
+      "Technology",
+      "Tax",
+      "Sports",
+      "Regulatory & Administrative Law",
+      "Real Estate",
+      "Private Prosecutions",
+      "Music Transactions",
+      "Music",
+      "Medical Devices",
+      "Labor & Employment",
+      "Intellectual Property",
+      "Insurance",
+      "Hospitality",
+      "Healthcare"
+    ],
+    "lawyer_count": 83,
+    "firm_description": "Michelman & Robinson, LLP is an international law firm handling litigation, transactional, and regulatory matters. They are trusted advisors on the frontlines of business, offering not just counsel, but peace of mind.",
+    "notable_facts": [
+      "The firm has offices in Los Angeles, New York, San Francisco, Irvine, Houston, Dallas, Chicago and London.",
+      "Strategy defines the firm."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Dana A. Kravetz",
+        "title": "Firm Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jeep Jensen",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan Fayman",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sanford L. Michelman",
+          "title": "Co-Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark B. Robinson",
+          "title": "Co-Founding Partner/Regulatory Practice Group Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

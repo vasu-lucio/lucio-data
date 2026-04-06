@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Hinman, Howard & Kattell, LLP",
+    "website": "https://hhk.com/",
+    "city": "Binghamton",
+    "practice_areas": [
+      "Business and Corporate Law",
+      "Real Estate",
+      "Estate Planning",
+      "Estate Administration",
+      "Employment Law",
+      "Family Law",
+      "Commercial and Residential Real Estate",
+      "Civil Litigation",
+      "Corporate Formation",
+      "Mergers and Acquisitions",
+      "Intellectual Property",
+      "Banking Transactions"
+    ],
+    "lawyer_count": 83,
+    "firm_description": "Hinman, Howard & Kattell, LLP is a full-service law firm offering legal services to businesses and individuals. They provide proactive legal planning and solutions tailored to each client's specific needs.",
+    "notable_facts": [
+      "Founded in 1901.",
+      "Offices in multiple locations including Owego, Endicott, Elmira, Albany and Tunkhannock.",
+      "The firm has occupied offices in the historic Security Mutual Building since 1905."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Harvey D. Hinman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Archibald Howard",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas B. Kattell",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Stacey Axtell",
+        "title": "Chief Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mark Mushalla",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan Mead",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan Curinga",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

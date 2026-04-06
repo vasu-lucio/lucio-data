@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "O'Halloran Ryan PLLC",
+    "website": "https://www.ohalloranryan.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Real Estate Transactions",
+      "Real Estate Due Diligence"
+    ],
+    "lawyer_count": null,
+    "firm_description": "O\u2019Halloran Ryan PLLC specializes in representing investment funds, partnerships, lenders, and individual real estate owners in complex commercial real estate transactions. They provide \"big firm\" quality representation at an efficient price point.",
+    "notable_facts": [
+      "The firm concentrates its practice on commercial real estate transactions and real estate due diligence projects.",
+      "Attorneys draw upon experience at major law firms and Fortune 500 companies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Neil O'Halloran",
+        "title": "Managing Member",
+        "email": "Neil@ohalloranryan.com",
+        "phone": "(212) 953-1856",
+        "linkedin_url": "https://www.linkedin.com/in/neil-o-halloran-767076b6"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bill Crowe",
+          "title": "Partner",
+          "email": "Bill@ohalloranryan.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ramy Odeh",
+          "title": "Associate",
+          "email": "Ramy@ohalloranryan.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Enoch Pei",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

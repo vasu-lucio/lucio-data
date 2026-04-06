@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Alter Wolff Foley & Stutman LLP",
+    "website": "https://awfs.nyc/",
+    "city": "New York City",
+    "practice_areas": [
+      "Family Law",
+      "Matrimonial Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Alter Wolff Foley & Stutman LLP is a law firm focused entirely on New York family and matrimonial law. Their experienced team utilizes a pragmatic method to discreetly solve a client's circumstances.",
+    "notable_facts": [
+      "The firm handles matters involving pre- and post-nuptial agreements, divorce, custody, child and spousal support, and distribution of marital assets.",
+      "They also routinely consult and work with co-counsel on international and national family law matters."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Camille Placa",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eleanor B. Alter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam John Wolff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jenifer J. Foley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael D. Stutman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/alter-wolff-foley-and-stutman-llp"
+  },
+  "email": {}
+}

@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Harris St. Laurent & Wechsler LLP",
+    "website": "https://www.hs-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Business Law",
+      "Commercial Law",
+      "White Collar Criminal Defense",
+      "Regulatory and Compliance Advice",
+      "Internal Investigations",
+      "Commercial Litigation",
+      "Corporate Deals"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Harris St. Laurent & Wechsler LLP is an elite litigation and strategic advisory firm. They focus on employment, business and commercial law and litigation, white collar criminal defense, regulatory and compliance advice & internal investigations.",
+    "notable_facts": [
+      "Shortlisted by Benchmark Litigation Awards for National Labor & Employment Firm of the Year 2024 & 2025",
+      "Lawdragon and Chambers Ranked Firm and Attorneys for Employment and White Collar",
+      "70% of Our Attorneys Have Been Recognized by Super Lawyers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew St. Laurent",
+          "title": "Partner",
+          "email": "andrew@hs-law.com",
+          "phone": "646-248-6010",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-st-laurent-54920b12/"
+        },
+        {
+          "name": "David Wechsler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Harris",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Louise Lipsker",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barry Pollack",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

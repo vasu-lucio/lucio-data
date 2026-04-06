@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Mantel McDonough Riso, LLP",
+    "website": "https://www.mmrllp.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Matrimonial and Family Law",
+      "Commercial Litigation",
+      "Tax Litigation",
+      "White-Collar Criminal Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mantel McDonough Riso, LLP, for more than 20 years has represented individuals and the business community in their legal matters and disputes at the most sophisticated levels. Their attorneys provide expert, personalized representation, backed by years of experience and success in dispute resolution and litigation.",
+    "notable_facts": [
+      "Named a \u201cBest Law Firm\u201d by U.S. News & World Report since 2014",
+      "AV rating by Martindale-Hubbell"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin M. McDonough",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gerard A. Riso",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alison Leigh Epilone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Burton D. Witman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa B. Mantel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Herzfeld + Rubin, P.C.",
+    "website": "https://herzfeld-rubin.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Toxic Torts",
+      "Tort Defense",
+      "Real Estate",
+      "International Law + Transactions",
+      "Insurance Coverage",
+      "Corporate + Business Law",
+      "Commercial Litigation",
+      "Class Actions + Mass Torts",
+      "Appellate Law",
+      "Alternative Dispute Resolution"
+    ],
+    "lawyer_count": 23,
+    "firm_description": "Herzfeld + Rubin, P.C. is a full-service, internationally-recognized law firm with more than 70 years of experience, headquartered in Manhattan\u2019s Financial District. They are known for their commitment to advocacy and their dedication to working collaboratively and efficiently in promoting the best interests of their clients.",
+    "notable_facts": [
+      "The firm has experience across the country and a reputation around the world.",
+      "Clients range from individuals to Fortune 500 companies and some of the largest companies in Europe and Asia."
+    ],
+    "technology_signals": [
+      "Google Hosted Libraries",
+      "Google Cloud CDN",
+      "Open Graph",
+      "MySQL",
+      "jQuery",
+      "Yoast SEO",
+      "HSTS",
+      "Google Analytics"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Wendy L. Prince",
+        "title": "Managing Member",
+        "email": null,
+        "phone": "212-471-8458",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Herbert Rubin",
+          "title": "Founding Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gisella Levi Caroti",
+          "title": "Member",
+          "email": null,
+          "phone": "212-471-8515",
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard S. Edinburgh",
+          "title": "Member",
+          "email": null,
+          "phone": "212-471-8529",
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter J. Kurshan",
+          "title": "Member",
+          "email": null,
+          "phone": "212-471-8484",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

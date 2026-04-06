@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Wolf, Greenfield & Sacks, P.C.",
+    "website": "https://wolfgreenfield.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Patent prosecution",
+      "Litigation",
+      "Post-grant proceedings",
+      "Trademark & copyright",
+      "Licensing & transactions",
+      "Intellectual property audits and due diligence"
+    ],
+    "lawyer_count": 160,
+    "firm_description": "Wolf Greenfield is one of the 10 largest law firms in the US devoted exclusively to intellectual property law. The firm offers a full range of IP services across industries.",
+    "notable_facts": [
+      "More than 90% of the firm\u2019s practitioners have science or engineering degrees and nearly 70% hold advanced degrees (MS, PhD, or MD).",
+      "The firm filed 7,400+ patent applications in 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Edward R. Gates",
+        "title": "President and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Timothy J. Oyer",
+          "title": "Shareholder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather Quigley",
+          "title": "Chief Legal Talent Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nick Abood",
+          "title": "General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan Macdougall",
+          "title": "Chief Business Development Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

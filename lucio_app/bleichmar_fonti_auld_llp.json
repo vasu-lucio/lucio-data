@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Bleichmar Fonti & Auld LLP",
+    "website": "https://bfalaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities",
+      "Corporate Governance",
+      "Antitrust",
+      "Consumer Actions",
+      "Privacy Litigation",
+      "Class Action"
+    ],
+    "lawyer_count": 34,
+    "firm_description": "Bleichmar Fonti & Auld LLP is a complex litigation firm that focuses on the prosecution of securities, corporate governance, antitrust, and consumer actions on behalf of individuals and institutional investors. The firm's members are all recognized as experts in the field and have been collectively involved in billions of dollars of recoveries.",
+    "notable_facts": [
+      "Founded in 2014",
+      "Specializes in plaintiff-side complex litigation",
+      "Recovered $420 million in settlement with Teva Pharmaceutical Industries, Ltd.",
+      "Obtained a $725 million class action settlement in In re: Facebook, Inc. Consumer Privacy User Profile Litigation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Javier Bleichmar",
+          "title": "Founding Partner",
+          "email": "jbleichmar@bfalaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Fonti",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thayne Stoddard",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin Woods",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dominic Auld",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

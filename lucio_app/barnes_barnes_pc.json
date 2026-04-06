@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Barnes & Barnes, P.C.",
+    "website": "https://barnespc.com/",
+    "city": "Melville",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Business Disputes",
+      "Construction Law",
+      "Business Formation"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Barnes & Barnes, P.C. is a boutique commercial litigation firm based on Long Island, New York, representing business owners in complex disputes at both the state and federal court levels. They focus exclusively on business and commercial litigation.",
+    "notable_facts": [
+      "Recognized by LIBN in multiple categories, including Best Construction Law Firm, Best Law Firm (Overall), Best Business Formation Law Firm, and Best Litigation Law Firm.",
+      "Attorneys regularly appear in the Commercial Division of the New York State Supreme Court.",
+      "The firm maintains a strong federal court practice.",
+      "Clients work directly with senior attorneys."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew J Barnes",
+          "title": "Member, Owner",
+          "email": null,
+          "phone": "(516) 673-0674",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-j-barnes-11464b2a"
+        },
+        {
+          "name": "Leo K. Barnes",
+          "title": "Partner",
+          "email": null,
+          "phone": "(516) 673-0674",
+          "linkedin_url": "https://www.linkedin.com/in/leo-k-barnes-jr-6469417"
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barnesandbarnespc",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

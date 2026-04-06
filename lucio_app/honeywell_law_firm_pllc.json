@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Honeywell Law Firm, PLLC",
+    "website": "https://www.honeywelllawfirm.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Education Law",
+      "Labor & Employment",
+      "Litigation",
+      "Construction Law",
+      "Adoption Law",
+      "Special Education Law",
+      "Environment, Social and Governance"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Honeywell Law Firm provides a legal team with decades of combined experience. The firm is client-focused and assists clients in navigating State and Federal laws.",
+    "notable_facts": [
+      "The firm represents clients ranging from municipalities and school districts to private family-run businesses.",
+      "Honeywell Law Firm provides day-to-day advice and pre-emptive legal guidance."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christopher J. Honeywell",
+        "title": "Managing Shareholder",
+        "email": null,
+        "phone": "(518) 512-4580",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey D. Honeywell",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": "(518) 512-4580",
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul M. Aloy",
+          "title": "Shareholder",
+          "email": null,
+          "phone": "(518) 512-4580",
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas E. Gerhardt",
+          "title": "Shareholder",
+          "email": null,
+          "phone": "(518) 512-4580",
+          "linkedin_url": null
+        },
+        {
+          "name": "Shannon M. Capozzola",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": "(518) 512-4580",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren P. McCluskey",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": "(518) 512-4580",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

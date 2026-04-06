@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "McGivney, Kluger, Clark & Intoccia, P.C.",
+    "website": "https://mcgivneyandkluger.com/",
+    "city": "Livingston",
+    "practice_areas": [
+      "Defense",
+      "Toxic Tort",
+      "Product Liability",
+      "General Liability"
+    ],
+    "lawyer_count": 80,
+    "firm_description": "McGivney Kluger Clark & Intoccia is one of the nation\u2019s premier defense firms representing a diverse range of clients, from large corporations and insurance companies to small businesses and individuals. Our attorneys have the background and experience to skillfully defend complex cases and provide effective legal representation in local, state, federal and multi-district jurisdictions.",
+    "notable_facts": [
+      "Founded in 1994",
+      "Has 9 locations across the U.S.",
+      "Represents a diverse range of clients from large corporations to individuals"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Charles McGivney",
+        "title": "Co-Principal, Senior Partner, Managing Partner",
+        "email": "cmcgivney@mkcilaw.us.com",
+        "phone": "973-822-1110",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Jeffrey Kluger",
+        "title": "Co-Principal, Director, Senior Partner",
+        "email": null,
+        "phone": "973-822-1110",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joel Clark",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": "973-822-1110",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary J. Intoccia",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": "973-822-1110",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Emala",
+          "title": "Partner",
+          "email": null,
+          "phone": "973-822-1110",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

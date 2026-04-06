@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Foti Henry PLLC",
+    "website": "https://fotihenry.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Civil Litigation",
+      "Defense of personal injury",
+      "Motor vehicle accidents",
+      "Premises liability",
+      "Construction accidents",
+      "Fire loss",
+      "Products liability"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Foti Henry, PLLC is a Buffalo, New York based law firm with offices in Syracuse and Albany. The Firm\u2019s main area of legal practice is Civil Litigation with a primary focus on the defense of personal injury matters.",
+    "notable_facts": [
+      "The firm has offices in Buffalo, Syracuse, and Albany.",
+      "The firm's headquarters are located in the Historic Brisbane Building in Downtown Buffalo."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Melissa A. Foti",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua M. Henry",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "716.800.3684",
+          "linkedin_url": "https://www.linkedin.com/in/josh-henry-5201a883"
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David H. Walsh, IV",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel K. Cartwright",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

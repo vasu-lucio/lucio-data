@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Merson Law PLLC",
+    "website": "https://mersonlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Sexual Assault"
+    ],
+    "lawyer_count": 29,
+    "firm_description": "Merson Law PLLC represents clients who have suffered catastrophic injuries. The firm has extensive experience litigating cases valued in excess of $1 million and much of their background includes prosecuting cases that have resolved for more than $10 million.",
+    "notable_facts": [
+      "The firm has experience in some of the largest personal injury cases in the country and New York.",
+      "They employ 29 people.",
+      "Founder is Jordan Merson."
+    ],
+    "technology_signals": [
+      "Uses Microsoft",
+      "Uses Microsoft Office",
+      "Uses Juris"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jordan Rutsky",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jordan Merson",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nathan Werksman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Giovanna Mabile Ferreira Dos Santos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Merson",
+          "title": "Associate",
+          "email": null,
+          "phone": "212-603-9100",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

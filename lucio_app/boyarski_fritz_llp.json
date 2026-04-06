@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Boyarski Fritz LLP",
+    "website": "https://www.boyarskifritz.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Entertainment",
+      "Media",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Boyarski Fritz LLP is a full-service entertainment, media and intellectual property law firm founded in 2011. The firm's sophisticated practice includes diverse clients including Grammy Award winners, Fortune 500 companies, and Rock & Roll Hall of Fame inductees.",
+    "notable_facts": [
+      "Named one of \"Music's Hottest Law Firms\" by HITS Magazine.",
+      "Attorneys have been cited as industry experts in leading publications including The New York Times, Time, and The Times of London."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jason Boyarski",
+          "title": "Founding Partner",
+          "email": "jboyarski@boyarskifritz.com",
+          "phone": "212-920-4925 ext.101",
+          "linkedin_url": null
+        },
+        {
+          "name": "David Fritz",
+          "title": "Founding Partner",
+          "email": "dfritz@boyarskifritz.com",
+          "phone": "212-920-4925 ext.102",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Francesca Grassi",
+        "title": "Director of Administration",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Billy Goldberg",
+          "title": "Strategy & Personnel Advisor",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex Stolls",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/boyarski-fritz-llp",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

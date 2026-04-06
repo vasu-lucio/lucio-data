@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "O'Connor Redd Orlando LLP",
+    "website": "https://www.oconnorlawfirm.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Insurance Coverage Litigation",
+      "General Appellate Practice",
+      "General Liability Practice",
+      "Construction Accidents & Labor Law",
+      "Defense Litigation",
+      "Personal Injury",
+      "Commercial Contract Drafting and Negotiations",
+      "Real Estate",
+      "Criminal",
+      "Estate Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "O'Connor Redd Orlando LLP is a trial and appellate litigation firm practicing in State and Federal trial and appellate courts throughout New York, New Jersey and Connecticut. Established in 1993, the primary focus of their practice is in the defense of personal injury cases.",
+    "notable_facts": [
+      "O\u2019Connor Redd Orlando LLP carries Martindale-Hubbell\u2019s highest law firm rating.",
+      "They are listed in the Bar Register of Preeminent Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven M. O\u2019Connor",
+        "title": "Managing Partner",
+        "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+        "phone": "(914) 686 1700",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Joseph T. Redd",
+        "title": "Managing Partner",
+        "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+        "phone": "(914) 686 1700",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph A. Orlando",
+          "title": "Managing Partner",
+          "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+          "phone": "(914) 686 1700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Urreta",
+          "title": "Partner",
+          "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+          "phone": "(914) 686 1700",
+          "linkedin_url": null
+        },
+        {
+          "name": "LaWanda M. Geter",
+          "title": "Partner",
+          "email": "This email address is being protected from spambots. You need JavaScript enabled to view it.",
+          "phone": "914-686-1700",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

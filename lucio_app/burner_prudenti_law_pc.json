@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Burner Prudenti Law, P.C.",
+    "website": "https://burnerlaw.com/",
+    "city": "Long Island",
+    "practice_areas": [
+      "Trust & Estates",
+      "Elder Law",
+      "Real Estate",
+      "Estate Planning",
+      "Special Needs Planning",
+      "Medicaid Long Term Care",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Burner Prudenti Law, P.C. is a women-owned law firm providing legal counsel to New Yorkers in need of estate planning and wealth management advice. Their legal advocates help ensure clients' wishes are heard and reflected in any plans they make for the future.",
+    "notable_facts": [
+      "The firm was founded as Nancy Burner & Associates, P.C. in 1995.",
+      "Judge Gail Prudenti joined the firm as Partner in August 2023.",
+      "The firm has offices in Long Island and Manhattan."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Britt Burner",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/britt-burner-b7813210"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Nancy Burner",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gail Prudenti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/gail-prudenti-776294bb"
+        },
+        {
+          "name": "Brittni Sullivan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Doris",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

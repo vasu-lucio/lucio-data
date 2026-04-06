@@ -1,0 +1,130 @@
+{
+  "firm_data": {
+    "firm_name": "Zetlin & De Chiara LLP",
+    "website": "https://zdlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Law",
+      "Real Estate",
+      "Litigation",
+      "Architects & Engineers",
+      "Construction Contracts",
+      "Alternative Dispute Resolution"
+    ],
+    "lawyer_count": 28,
+    "firm_description": "Zetlin & De Chiara LLP is a construction law firm focusing on all aspects of construction law and the built environment. The firm provides counsel throughout the planning, design and construction process, from drafting and negotiating contracts to outlining risk management strategies.",
+    "notable_facts": [
+      "The firm was founded in 1992.",
+      "The firm represents architects, engineers, real estate owners, developers, and construction managers.",
+      "Many attorneys have in-house construction counsel experience, architecture and engineering degrees, and LEED accreditation.",
+      "The firm has experience with Integrated Project Delivery (IPD), Building Information Modeling (BIM), Project Labor Agreements (PLAs), Public-Private Partnerships (P3s), and Design-Build."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Vardaro",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael De Chiara",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Zetlin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Loryn Riggiola",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy Hegarty",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara Mulrooney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jaimee Nardiello",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carol Patterson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Terry",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Rowland",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bill Chimos",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

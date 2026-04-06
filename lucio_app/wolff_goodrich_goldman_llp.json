@@ -1,0 +1,61 @@
+{
+  "firm_data": {
+    "firm_name": "Wolff Goodrich & Goldman LLP",
+    "website": "https://www.wolffgoodrich.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Workers' Compensation Defense",
+      "Workers' Representation Compensation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wolff, Goodrich & Goldman, LLP, is a Syracuse, New York-based law firm focused on all New York State workers' compensation matters. They represent self-insured employers, third-party administrators, and insurance carriers in New York State Workers' Compensation Law defense.",
+    "notable_facts": [
+      "The firm has the most experienced workers' compensation practice attorneys in New York State.",
+      "They represent clients at all levels, including Administrative Law Judges, Board Panels, the Appellate Division, Third Department, and Civil Courts.",
+      "The firm claims to be the largest and most experienced law firm in the Syracuse District Office of the New York State Workers' Compensation Board."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": null,
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

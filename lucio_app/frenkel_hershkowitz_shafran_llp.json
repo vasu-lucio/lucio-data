@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Frenkel, Hershkowitz & Shafran LLP",
+    "website": "https://fhsllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Immigration Law",
+      "Commercial Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Frenkel, Hershkowitz & Shafran LLP is a full-service immigration law firm serving individuals, corporations, small businesses and institutions. The firm also specializes in commercial real estate.",
+    "notable_facts": [
+      "Founded in 1974.",
+      "Attorneys have over 120 years of combined experience.",
+      "Staff is fluent in English, Hebrew, Arabic, Spanish, Russian, Yiddish and French."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Frenkel",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph M. Hershkowitz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bernard Shafran",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Barnett",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Frenkel",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 679-4666",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

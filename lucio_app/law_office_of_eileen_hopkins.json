@@ -1,0 +1,59 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Firm of Laura Hopkins",
+    "website": "https://www.laurahopkinslaw.com/",
+    "city": null,
+    "practice_areas": [
+      "Business Law",
+      "Estate Planning",
+      "Bankruptcy",
+      "Real Estate Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Firm of Laura Hopkins provides legal counsel in support of your biggest life decisions. They offer services in business law, estate planning, bankruptcy, and real estate transactions.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Laura Hopkins",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

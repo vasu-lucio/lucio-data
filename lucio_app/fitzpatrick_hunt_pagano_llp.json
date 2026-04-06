@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Fitzpatrick, Hunt & Pagano, LLP",
+    "website": "https://fitzhunt.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Aviation and Aerospace",
+      "General Product Liability",
+      "Labor Law",
+      "Environmental and Toxic Tort",
+      "Intellectual Property",
+      "Insurance/Reinsurance",
+      "Commercial Disputes"
+    ],
+    "lawyer_count": 28,
+    "firm_description": "Fitzpatrick & Hunt serves clients in diverse areas such as aviation and aerospace, general product liability and labor law. Our team of lawyers aggressively handle matters and complex litigation on a wide spectrum of issues from space transportation to environmental and toxic tort matters, intellectual property, insurance/reinsurance, and commercial disputes of all kinds, bringing our many decades of experience to everything we do.",
+    "notable_facts": [
+      "Offices in New York City, Los Angeles, Princeton, NJ, Stamford, CT and Chicago, IL",
+      "Acquired Pino & Associates, LLP (2016-10-01)"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ralph V. Pagano",
+        "title": "Managing Partner",
+        "email": "Unavailable",
+        "phone": "Unavailable",
+        "linkedin_url": "Unavailable"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian Maye",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd Saranecki",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Bart",
+          "title": "Equity Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Pantino",
+          "title": "Partner",
+          "email": "Unavailable",
+          "phone": "212.937.4005",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

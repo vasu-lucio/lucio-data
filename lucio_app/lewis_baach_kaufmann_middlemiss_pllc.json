@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Lewis Baach Kaufmann Middlemiss PLLC",
+    "website": "https://www.lbkmlaw.com/",
+    "city": "Washington",
+    "practice_areas": [
+      "International Litigation",
+      "Insurance",
+      "Reinsurance",
+      "International Financial Disputes",
+      "Global Commercial Litigation and Arbitration"
+    ],
+    "lawyer_count": 30,
+    "firm_description": "Lewis Baach Kaufmann Middlemiss is a premier international firm with extensive practices in insurance, reinsurance, international financial disputes and global commercial litigation and arbitration. The firm is committed to social justice is reflected in its pro bono work on such issues as death penalty reform and the rights of detainees under extra-judicial circumstances.",
+    "notable_facts": [
+      "The firm has offices in Washington, New York, London and the Middle East.",
+      "The firm was founded in 1974."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric L. Lewis",
+          "title": "Partner",
+          "email": null,
+          "phone": "202-833-8900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark J. Leimkuhler",
+          "title": "Partner",
+          "email": null,
+          "phone": "202-659-7204",
+          "linkedin_url": null
+        },
+        {
+          "name": "Aisha E R Bembry",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Lobis Buckwalter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony M Capozzolo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

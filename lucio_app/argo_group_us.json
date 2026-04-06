@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Argo Group",
+    "website": "https://www.argogroup.com/",
+    "city": "Bermuda",
+    "practice_areas": [
+      "Specialty Insurance",
+      "Property",
+      "Casualty",
+      "Professional Liability",
+      "Construction",
+      "Environmental",
+      "Marine",
+      "Tax Liability"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Argo Group is an underwriter of specialty insurance products in the property and casualty market. They work with independent agents, wholesale brokers and retail brokerage partners to deliver collaborative solutions for niche markets.",
+    "notable_facts": [
+      "Argo Group is a wholly owned subsidiary of Clearbrook Group Holdings Inc.",
+      "The company was founded in 1957."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan Bayer",
+          "title": "Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory Morrison",
+          "title": "Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne Schaumburg",
+          "title": "Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sachin Shah",
+          "title": "Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/argo-group-international-holdings-ltd",
+    "linkedin_size": "1001-5000"
+  },
+  "email": {}
+}

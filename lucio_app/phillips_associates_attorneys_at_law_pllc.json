@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Phillips & Associates",
+    "website": "https://newyorkcitydiscriminationlawyer.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Sexual Harassment",
+      "Discrimination",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Phillips & Associates is a workplace discrimination law firm serving the New York City and Tri-State area. The firm represents clients who have been sexually harassed or discriminated against because of their race, national origin, gender, religion, disability and other protected traits.",
+    "notable_facts": [
+      "Has recovered more than $300 million for employees.",
+      "Firm has handled more than 8,000 employment matters and litigated nearly 2,000 cases.",
+      "Selected as one of the \u201c10 Best Employment & Labor Law Firms in New York\u201d by the American Institute of Legal Counsel."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William K. Phillips",
+        "title": "Managing Partner",
+        "email": "wkphillips@tpglaws.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Vanessa Keys",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bryan Arce",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory Calliste",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Fingerhut",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

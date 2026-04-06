@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Seneca Nation Group",
+    "website": "https://senecanationgroup.com/",
+    "city": null,
+    "practice_areas": [
+      "Financial Management",
+      "Information Technology",
+      "Healthcare",
+      "Products and Solutions",
+      "Defense",
+      "Federal Civilian",
+      "Intelligence Community"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Seneca Nation Group manages projects across a range of service areas, including financial management, information technology, healthcare, and products and solutions. They serve customers across the Defense, Federal Civilian, and Intelligence Community.",
+    "notable_facts": [
+      "A family of tribally owned 8(a) companies.",
+      "Part of Seneca Holdings"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Carmina Carper",
+        "title": "President, Seneca Nation Group",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Travis Finch",
+        "title": "Vice President, Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matt Haaga",
+          "title": "Vice President, Legal & Compliance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tina Kang",
+          "title": "Senior Vice President, Business Development",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

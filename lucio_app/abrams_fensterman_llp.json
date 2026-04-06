@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Abrams Fensterman, LLP",
+    "website": "https://www.abramslaw.com/",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Alternative Dispute Resolution (ADR)",
+      "Appeals",
+      "Bankruptcy Law",
+      "Cannabis Law Group",
+      "Commercial Litigation",
+      "Corporate & Securities Law",
+      "Crypto Currency",
+      "Elder Law",
+      "Estate Planning / Administration"
+    ],
+    "lawyer_count": 120,
+    "firm_description": "Abrams Fensterman, LLP is a full-service New York law firm representing healthcare professionals, physicians, licensed professionals, businesses, and institutions in regulatory, corporate, litigation, and transactional legal matters. Since founding the firm in 2000, it has overseen its growth into one of New York\u2019s largest law firms.",
+    "notable_facts": [
+      "Celebrating 25 years of impact and growth in 2026.",
+      "Integrated Rosenberg & Steinmetz PC in January 2026.",
+      "Robert Abrams honored with Lifetime Achievement Award by the Elder Law & Special Needs Section of the New York State Bar Association in 2025."
+    ],
+    "technology_signals": [
+      "AF INNOVATION: Shaping the Future of Legal Services",
+      "Knowledge & Legal Data: Transforms information into strategic knowledge using data.",
+      "Smarter Service Delivery: Pairs legal precision with next-generation enterprise systems, advanced AI-solutions, and proprietary platforms.",
+      "Legal Technology: Uses technology to reshape law, applying case management, compliance tools, and industry-specific platforms for data-driven decisions."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Howard Fensterman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.abramslaw.com/attorneys/howard-fensterman/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Dawn Addabbo",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.abramslaw.com/people/dawn-addabbo/"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm uses advanced AI-solutions to ensure matters are handled with precision, speed, and customized attention."
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Abrams",
+          "title": "Executive Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.abramslaw.com/attorneys/"
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/abrams-fensterman-llp",
+    "linkedin_size": "51-200"
+  },
+  "email": {}
+}

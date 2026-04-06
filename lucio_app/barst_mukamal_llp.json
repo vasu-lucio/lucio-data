@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Barst & Mukamal LLP",
+    "website": "https://barstlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Immigration Law",
+      "Business Immigration",
+      "Commercial Immigration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Barst & Mukamal LLP is the oldest law firm in the United States focusing exclusively on immigration law, established in 1930. Their New York City immigration attorneys provide counsel in several immigration areas, including working visas, citizenship, corporate compliance and permanent residency.",
+    "notable_facts": [
+      "Oldest law firm in the United States focusing exclusively on immigration law (since 1930)."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": null,
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alexis S. Axelrad",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emre Ozgu",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Troy D. Palmer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elise L. Perkul",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander G. Rojas",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/barstlaw"
+  },
+  "email": {}
+}

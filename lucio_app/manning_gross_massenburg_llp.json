@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Manning Gross & Massenburg LLP",
+    "website": "https://www.mgmlaw.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Corporate",
+      "Insurance",
+      "Litigation",
+      "Personal Injury"
+    ],
+    "lawyer_count": 206,
+    "firm_description": "Manning Gross & Massenburg LLP is a law firm based in Boston, Massachusetts. With 17 locations in the U.S., the firm practices law in many practice areas including corporate, insurance, litigation and personal injury.",
+    "notable_facts": [
+      "Has 17 locations in the U.S."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Hatem",
+          "title": "Band 1, Construction, Massachusetts",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tiffany Keith Ackley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory M Alvarez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Garth W Aubert",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dillon Aisenberg",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

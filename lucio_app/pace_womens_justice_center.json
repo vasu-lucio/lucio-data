@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Pace Women's Justice Center",
+    "website": "https://law.pace.edu/center-history",
+    "city": "White Plains",
+    "practice_areas": [
+      "Domestic Violence",
+      "Sexual Assault",
+      "Elder Abuse",
+      "Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Pace Women's Justice Center (PWJC) is a non-profit organization that provides free legal services for victims of domestic violence, sexual assault, and elder abuse in Westchester and Putnam Counties. PWJC also provides outreach and training on how to properly handle cases of abuse for professionals in the justice system.",
+    "notable_facts": [
+      "PWJC provides free legal services to over 3,500 victims and survivors annually.",
+      "PWJC conducts or participates in over 140 training and outreach events each year.",
+      "PWJC has a walk-in clinic that provides free, bilingual legal services."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Cindy Kanusher",
+        "title": "Executive Director",
+        "email": "ckanusher@law.pace.edu",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Marisa Rotondo",
+        "title": "Director of Finance",
+        "email": "mrotondo@law.pace.edu",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Paula Guevara-Ortiz",
+          "title": "Intake Coordinator",
+          "email": "portiz@law.pace.edu",
+          "phone": "(914) 422-4069",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jana Kosberg-Kleidman",
+          "title": "Director of Development and External Relations",
+          "email": "jkleidman@law.pace.edu",
+          "phone": "(914) 422-4638",
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Moran",
+          "title": "Assistant Director, Family Court Legal Program",
+          "email": "pmoran@law.pace.edu",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

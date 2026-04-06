@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Co-Counsel NYC",
+    "website": "https://cocounsel.org/",
+    "city": "New York",
+    "practice_areas": [
+      "Immigration Law",
+      "Family Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Co-Counsel NYC is a nonprofit legal services organization that partners with community-based organizations, law firms, and companies to respond to the emerging, complex, and ever-changing legal needs of immigrant communities. They focus on proceedings before USCIS and EOIR, providing training, supervision, co-counseling, and community education on immigration and family law matters.",
+    "notable_facts": [
+      "Provides training, supervision, and co-counseling on immigration and family law matters.",
+      "Partners with community-based organizations, law firms, and companies.",
+      "Focuses on humanitarian immigration and family law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Terry Lawson",
+        "title": "Co-Founder and Co-Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Rebecca Press",
+          "title": "Co-Founder and Co-Executive Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Ambien Mitchell",
+        "title": "Project Coordinator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Angela de Castro",
+          "title": "Supervising Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Carmen Maria Rey Caldas",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrea S\u00e1enz",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex Collins",
+          "title": "Senior Paralegal",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

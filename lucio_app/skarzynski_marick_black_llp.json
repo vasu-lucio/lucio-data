@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Skarzynski Marick & Black LLP",
+    "website": "https://skarzynski.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Coverage",
+      "Complex Litigation",
+      "Financial Institutions"
+    ],
+    "lawyer_count": 59,
+    "firm_description": "Skarzynski Marick & Black is a business law firm with particular excellence and extensive experience in the areas of insurance, litigation, and financial institutions. The firm is co-centered in New York and Chicago and represents domestic and international insurers in challenging insurance coverage matters.",
+    "notable_facts": [
+      "The firm was founded in 2003.",
+      "The firm has offices in New York, Chicago, Los Angeles, and New Jersey."
+    ],
+    "technology_signals": [
+      "Microsoft",
+      "Adobe Acrobat",
+      "Propel",
+      "Microsoft Outlook"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Tammy Yuen",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kathy Carr",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James A. Skarzynski",
+          "title": "Senior Counsel",
+          "email": "jskarzynski@skarzynski.com",
+          "phone": "212.820.7740",
+          "linkedin_url": null
+        },
+        {
+          "name": "Amy Nielson",
+          "title": "Chief Marketing Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

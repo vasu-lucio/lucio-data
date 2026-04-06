@@ -1,0 +1,64 @@
+{
+  "firm_data": {
+    "firm_name": "Thomas Law Office, PLC",
+    "website": "thomaslawplc.com",
+    "city": "Fairfax",
+    "practice_areas": [
+      "Law Practice",
+      "Business Growth",
+      "Business Partnership Disputes",
+      "Small Business",
+      "Legal Issues"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "The Thomas Law Office advises business owners, founders, and closely held companies through disputes, internal business challenges, and consequential decision-making. The firm is known for sound judgment, practical strategy, and a business-first approach to protecting what clients have built.",
+    "notable_facts": [
+      "Founded in 2016",
+      "Presence in South Africa",
+      "Much of the firm\u2019s work originates from referrals by attorneys, accountants, and trusted advisors."
+    ],
+    "technology_signals": [
+      "adobe",
+      "clio",
+      "wrike",
+      "microsoft office",
+      "microsoft",
+      "zoom",
+      "c"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

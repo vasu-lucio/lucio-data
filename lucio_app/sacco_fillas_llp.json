@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "SACCO & FILLAS, LLP",
+    "website": "https://saccofillas.com/",
+    "city": "Astoria",
+    "practice_areas": [
+      "Business & Commercial",
+      "Criminal Defense",
+      "Employment Law",
+      "Family Law",
+      "Personal Injury",
+      "Real Estate",
+      "Wills, Trusts & Estates"
+    ],
+    "lawyer_count": 28,
+    "firm_description": "SACCO & FILLAS, LLP is a full-service law firm specializing in various areas of law, with headquarters in Astoria, New York. They have over 25 years of experience and are committed to excellence in practicing law.",
+    "notable_facts": [
+      "Queens County\u2019s largest full-service law firm.",
+      "Founded in 2004.",
+      "The team at Sacco & Fillas, LLP has achieved extraordinary accomplishments throughout the County, State, and Federal Courts of both New York and New Jersey."
+    ],
+    "technology_signals": [
+      "westlaw",
+      "influential",
+      "c",
+      "amp",
+      "well",
+      "juris"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Mercedes Arias",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Luigi Brandimarte",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

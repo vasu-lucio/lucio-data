@@ -1,0 +1,117 @@
+{
+  "firm_data": {
+    "firm_name": "Friedman Kaplan Seiler Adelman & Robbins LLP",
+    "website": "https://www.fklaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Corporate",
+      "Antitrust",
+      "Appellate",
+      "Asset Recovery and Judgment Enforcement",
+      "Bankruptcy and Creditors' Rights",
+      "Complex Commercial Litigation",
+      "Corporate",
+      "Education",
+      "Employment",
+      "Family Office",
+      "Financings",
+      "Government Investigations",
+      "Growth Equity",
+      "Hedge Funds and Other Investment Firms",
+      "Intellectual Property",
+      "Internal Investigations",
+      "Joint Ventures",
+      "Litigation",
+      "Mergers and Acquisitions",
+      "Monitorships",
+      "Partnerships and Close Corporations",
+      "Private Equity",
+      "Professional Liability",
+      "Real Estate Litigation",
+      "Securities and Corporate Governance",
+      "Securities Litigation",
+      "Special Committees",
+      "Trial, Arbitration, and Mediation",
+      "White Collar"
+    ],
+    "lawyer_count": 77,
+    "firm_description": "Friedman Kaplan is the go-to firm for cutting-edge, complex, high-stakes matters. With a team of stellar lawyers, they collaborate with their clients to create and execute customized and innovative strategies.",
+    "notable_facts": [
+      "Founded in 1986",
+      "Eight Friedman Kaplan Partners Selected for Legal 500\u2019s 2026 New York City Elite Rankings",
+      "Three Friedman Kaplan Partners Named to Crain\u2019s 2026 Notable Women in Law List"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry A. Adelman",
+          "title": "Senior Counsel",
+          "email": "Email",
+          "phone": "212.833.1107",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne E. Beaumont",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "212.833.1245",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mala Ahuja Harker",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "212.833.1126",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary E. Mulligan",
+          "title": "Partner",
+          "email": "Email",
+          "phone": "212.833.1123",
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce S. Kaplan",
+          "title": "Senior Counsel",
+          "email": "Email",
+          "phone": "212.833.1101",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

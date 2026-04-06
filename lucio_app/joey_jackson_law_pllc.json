@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Joey Jackson Law, PLLC",
+    "website": "https://www.joeyjacksonlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Labor Law",
+      "Criminal Defense",
+      "Wrongful Death & Fatal Accidents",
+      "Arbitration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "JOEY JACKSON LAW, PLLC., provides Criminal and Labor Law advocacy for Civil Service employees and anyone else looking for experienced legal representation. The firm represents individuals and labor unions in state and federal courts.",
+    "notable_facts": [
+      "Represents unions such as COBA and LEEBA",
+      "Joey Jackson is a CNN/HLN Legal Analyst"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joey Jackson",
+        "title": "Principal",
+        "email": null,
+        "phone": "833-563-9522",
+        "linkedin_url": "https://www.linkedin.com/in/joey-jackson-77a136b"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter Troxler",
+          "title": "Senior Trial Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jenell Ellison",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Justin Jackson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adrian Lauriello",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nia Fung",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ren\u00e9e C. Hill",
+          "title": "Chief Conflict Counsel for Bronx County",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

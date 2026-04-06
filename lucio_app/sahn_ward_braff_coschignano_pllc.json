@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Sahn Ward Braff Coschignano PLLC",
+    "website": "https://sahnward.com/index.html",
+    "city": "Uniondale",
+    "practice_areas": [
+      "Zoning and Land Use",
+      "Real Estate Law",
+      "Corporate Law",
+      "Municipal Law",
+      "Environmental Law",
+      "Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sahn Ward Braff Coschignano PLLC provides legal representation and advice. The firm is committed to community and public service, and strives to be in the forefront of legal thinking, using diverse knowledge and experience in a team approach.",
+    "notable_facts": [
+      "Represented Northwell Health in the development of the Petrocelli Surgical Pavilion at North Shore University Hospital.",
+      "Commenced a lawsuit on behalf of the Garden City Water/Fire District against the First National Bank of Long Island regarding cyber fraud."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael H. Sahn",
+        "title": "Co-Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Jon A. Ward",
+        "title": "Co-Managing Member and Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Elisabetta T. Coschignano",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel H. Braff",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph R. Bjarnson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ralph Branciforte",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

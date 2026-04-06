@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Offices of Leon R. Kowalski & Associates",
+    "website": null,
+    "city": "New York",
+    "practice_areas": [
+      "New York Labor Law",
+      "General Liability",
+      "Automobile Accidents",
+      "Indemnification",
+      "Personal Injury Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Accomplished Managing Attorney with a demonstrated history of practicing law. Experienced Trial Attorney skilled in Litigation well versed in Trials and Trial Practice.",
+    "notable_facts": [
+      "Experienced in managing and leading a law firm, specifically a staff counsel office for a large insurance company in New York City."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Leon Robert Kowalski",
+        "title": "Managing Attorney",
+        "email": "leon.kowalski(a)aig.com",
+        "phone": "(646) 392-9260",
+        "linkedin_url": "https://www.linkedin.com/in/leon-kowalski-993b9327"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kwok L. Mui",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Denison Bruch",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey David Fippinger",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter D. Lechleitner",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Paul Colin",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Ross Frank",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

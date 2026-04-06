@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "Brown Rudnick LLP",
+    "website": "https://brownrudnick.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Bankruptcy & Restructuring",
+      "Litigation & Dispute Resolution",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Brown Rudnick LLP is an international law firm serving clients around the world from key financial centers across the United States and Europe. The firm provides advice and services in areas such as bankruptcy and restructuring, litigation and dispute resolution, and real estate.",
+    "notable_facts": [
+      "Recognized for spearheading 6 of 2025\u2019s Largest Bankruptcies and Successful Restructurings",
+      "Representing Unsecured Creditors in Carbon Health Bankruptcy",
+      "Representing Unsecured Creditors in First Brands Group Bankruptcy"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Jennifer Korff",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vince Guglielmotti",
+          "title": "CEO and chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

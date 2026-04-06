@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Drohan Lee LLP",
+    "website": "https://www.dlkny.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Corporate",
+      "Securities",
+      "Tax",
+      "Labor and Employment",
+      "Intellectual Property",
+      "Finance Law"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Drohan Lee is a New York based law firm committed to providing superior client service in the areas of corporate, securities, tax, labor and employment, intellectual property and finance law. Our mission is to understand our clients\u2019 business needs, risks and opportunities, and to provide legal strategies tailored for success in the face of complex commercial and regulatory challenges.",
+    "notable_facts": [
+      "Drohan Lee combines both legal acumen and commercial savvy in meeting our clients' needs.",
+      "The firm also has extensive experience with licensing and distribution arrangements, financial IP, and all categories of financing.",
+      "Ranked in Chambers and Partners for Corporate/Commercial Law in New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Vivian Rivera Drohan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacqueline J. Drohan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roberto Portillo Togno",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

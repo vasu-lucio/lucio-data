@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Frankfurt Kurnit Klein & Selz",
+    "website": "https://fkks.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Entertainment",
+      "Advertising",
+      "Intellectual Property",
+      "Technology",
+      "Litigation",
+      "Corporate & Finance",
+      "Estate Planning",
+      "Charitable Organizations",
+      "Professional Responsibility"
+    ],
+    "lawyer_count": 120,
+    "firm_description": "Frankfurt Kurnit Klein & Selz is a law firm that provides high-quality legal services to clients in various industries and disciplines worldwide. They specialize in entertainment, advertising, intellectual property, technology, litigation, corporate & finance, estate planning, charitable organizations, professional responsibility, and more.",
+    "notable_facts": [
+      "Founded in 1977",
+      "Named to The National Law Journal's \"Midsize Hot List\"",
+      "Offices in New York and Los Angeles"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Hannah Taylor",
+        "title": "Deputy Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Wendy Heilbut",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joshua Lewin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Pearson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary A. Lewis",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

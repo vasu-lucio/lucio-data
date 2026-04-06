@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Harfenist Kraut & Perlstein LLP",
+    "website": "https://hkplaw.com/",
+    "city": "Lake Success",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Harfenist Kraut & Perlstein LLP provides effective and innovative legal solutions to a diverse group of institutional and private clients. Their advice lends itself to successful, long-term relationships.",
+    "notable_facts": [
+      "The firm employs 4 people.",
+      "The firm has offices in Lake Success and Purchase, NY."
+    ],
+    "technology_signals": [
+      "Adobe"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven J. Harfenist",
+          "title": "Partner",
+          "email": "sharfenist@hkplaw.com",
+          "phone": "(516) 355-9600",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan D. Kraut",
+          "title": "Partner",
+          "email": "jkraut@hkplaw.com",
+          "phone": "(914) 701-0800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Allen Perlstein",
+          "title": "Partner",
+          "email": "aperlstein@hkplaw.com",
+          "phone": "(516) 355-9610",
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew C. Lang",
+          "title": "Associate",
+          "email": "alang@hkplaw.com",
+          "phone": "(516) 355-9632",
+          "linkedin_url": null
+        },
+        {
+          "name": "Leo K. Napior",
+          "title": "Associate",
+          "email": "lnapior@hkplaw.com",
+          "phone": "(914) 701-0805",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

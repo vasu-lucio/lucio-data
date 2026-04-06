@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Ressler & Ressler",
+    "website": "https://resslerlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 3,
+    "firm_description": "Ressler & Ressler is a premier civil litigation firm with over 60 years of experience. They handle high-value personal injury and complex commercial litigation cases.",
+    "notable_facts": [
+      "The firm has 60 years of experience.",
+      "The firm has a combined portfolio of both serious personal injury and complex commercial litigation matters.",
+      "The firm's partners have outstanding reputations and impressive track records in a variety of landmark cases, resulting in a string of multi-million-dollar recoveries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bruce J. Ressler",
+          "title": null,
+          "email": "bressler@resslerlaw.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen R. Werther",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

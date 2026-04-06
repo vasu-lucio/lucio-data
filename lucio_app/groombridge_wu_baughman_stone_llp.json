@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Groombridge, Wu, Baughman & Stone LLP",
+    "website": "https://groombridgewu.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Patent Litigation"
+    ],
+    "lawyer_count": 36,
+    "firm_description": "Groombridge, Wu, Baughman & Stone LLP is a patent litigation firm that focuses on the intersection of science, technology, and the law. They try cases in court and before the Patent Trial and Appeal Board, and argue appeals before the Federal Circuit.",
+    "notable_facts": [
+      "Founded in 2022",
+      "Has a presence in Japan",
+      "More than half of their partners have been ranked in Chambers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Danielle Rosenthal",
+        "title": "Partner and Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nicholas Groombridge",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer H. Wu",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "J. Steven Baughman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric Alan Stone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

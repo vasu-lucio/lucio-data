@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Habberfield Kaszycki LLP",
+    "website": "https://www.hknylaw.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Insurance Defense",
+      "Litigation",
+      "Business",
+      "Fraud",
+      "Dispute Resolution"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Habberfield Kaszycki LLP provides clients with a non-traditional approach to defending claims, offering personal attention to client matters. They handle cases throughout New York State and focus on relationships with clients to provide the best defense possible.",
+    "notable_facts": [
+      "The firm was established in 2015.",
+      "The firm has local offices in Buffalo, Rochester, Syracuse, and NYC."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Melissa Habberfield",
+        "title": "Managing Partner",
+        "email": "melissa@hknylaw.com",
+        "phone": "716-249-6900",
+        "linkedin_url": "https://www.linkedin.com/in/melissa-habberfield-57817259"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rebecca Kaszycki",
+          "title": "Partner",
+          "email": "rebecca@hknylaw.com",
+          "phone": "315-288-6474",
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Yeates",
+          "title": "Partner",
+          "email": "matt@hknylaw.com",
+          "phone": "716-249-6900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley Gretzler",
+          "title": "Partner",
+          "email": "ashley@hknylaw.com",
+          "phone": "716-249-6900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Marissa Wickett",
+          "title": "Partner",
+          "email": "marissa@hknylaw.com",
+          "phone": "716-249-6900",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

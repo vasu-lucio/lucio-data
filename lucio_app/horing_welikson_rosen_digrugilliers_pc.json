@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Horing Welikson Rosen & Digrugilliers P.C",
+    "website": "https://hwrpc.com/",
+    "city": "Williston Park",
+    "practice_areas": [
+      "Rent Regulation and DHCR",
+      "Real Estate Transactions",
+      "Cooperative & Condominium Law",
+      "Commercial Litigation",
+      "Appellate Advocacy",
+      "Administrative Law Proceedings",
+      "Landlord Tenant Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Horing Welikson Rosen & Digrugilliers, P.C. has over 40 years of experience in real estate litigation and housing law. They specialize in landlord-tenant litigation within the Housing and Commercial Parts of the Civil Court of the City of New York, in all five boroughs, as well as Nassau, Suffolk and Westchester counties.",
+    "notable_facts": [
+      "The firm has been leading the fight for Landlords' rights in New York for over four decades."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Philip A. Rosen",
+        "title": "Managing Partner",
+        "email": "prosen@hwrpc.com",
+        "phone": "516-535-1700, ext. 126",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Rosen",
+          "title": "Partner",
+          "email": "mrosen@hwrpc.com",
+          "phone": "516-535-1700, ext. 127",
+          "linkedin_url": null
+        },
+        {
+          "name": "Renee A. Digrugilliers",
+          "title": "Partner",
+          "email": "rdigrugilliers@hwrpc.com",
+          "phone": "516-535-1700, ext. 119",
+          "linkedin_url": null
+        },
+        {
+          "name": "Linda S. Burton",
+          "title": "Partner",
+          "email": "LBurton@hwrpc.com",
+          "phone": "516-535-1700, ext. 185",
+          "linkedin_url": null
+        },
+        {
+          "name": "Santo Golino",
+          "title": "Partner",
+          "email": "SGolino@hwrpc.com",
+          "phone": "516-535-1700, ext. 169",
+          "linkedin_url": null
+        },
+        {
+          "name": "Zachary Young",
+          "title": "Associate Attorney",
+          "email": "ZYoung@hwrpc.com",
+          "phone": "516-535-1700, ext. 179",
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Levin",
+          "title": "Partner",
+          "email": "mlevin@hwrpc.com",
+          "phone": "516-535-1700, ext. 135",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

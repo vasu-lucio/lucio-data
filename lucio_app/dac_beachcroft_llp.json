@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "DAC Beachcroft",
+    "website": "https://www.dacbeachcroft.com/",
+    "city": null,
+    "practice_areas": [
+      "Financial Services",
+      "Health and Social Care",
+      "Insurance",
+      "Real Estate",
+      "Technology",
+      "Banking, Restructuring and Insolvency",
+      "Commercial and Procurement",
+      "Corporate",
+      "Data, Privacy and Cyber",
+      "Dispute Resolution",
+      "Employment",
+      "Intellectual Property",
+      "Public Law and Judicial Review",
+      "Regulatory and Investigations",
+      "Tax"
+    ],
+    "lawyer_count": null,
+    "firm_description": "DAC Beachcroft is an international law firm with a focus on various sectors including insurance, health, and technology. They provide a range of legal services and solutions to clients globally.",
+    "notable_facts": [],
+    "technology_signals": [
+      "Artificial Intelligence Insights",
+      "DACB Nexus",
+      "Technology Projects and Outsourcing",
+      "PropTech",
+      "Platforms and Internet Governance",
+      "InsurTech",
+      "HealthTech",
+      "Digital Assets and web3"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Tutunjian & Bitetto, P.C.",
+    "website": "tb-iplaw.com",
+    "city": "Melville",
+    "practice_areas": [
+      "Intellectual Property",
+      "Patents",
+      "Trademarks",
+      "Copyrights",
+      "Electrical Engineering",
+      "International",
+      "Licensing",
+      "Litigation"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Tutunjian & Bitetto, P.C. specializes in Intellectual Property law, with particular expertise in prosecuting and securing Patent and Trademark rights for the benefit of their clients. The Firm's attorneys and staff provide in-depth comprehensive technical and legal expertise attained over many years of practice.",
+    "notable_facts": [
+      "Founded in 2000",
+      "Provides services to a wide range of clients, ranging from small business startups to Fortune 500 companies.",
+      "Thousands of patent, trademark and copyright filings and registrations to their name."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "James J. Bitetto",
+        "title": "President",
+        "email": "jim@tb-iplaw.com",
+        "phone": "631-844-0080",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John George Tutunjian",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan Paik",
+          "title": "Partner",
+          "email": null,
+          "phone": "631-844-0080",
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward P Ryan",
+          "title": "Partner",
+          "email": null,
+          "phone": "631-844-0080",
+          "linkedin_url": null
+        },
+        {
+          "name": "Taylor Mutell",
+          "title": "Associate",
+          "email": null,
+          "phone": "631-844-0080",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

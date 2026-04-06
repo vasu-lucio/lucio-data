@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Meister Seelig & Fein PLLC",
+    "website": "https://meisterseelig.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice",
+      "Commercial Law",
+      "Hedge Funds",
+      "Real Estate",
+      "Corporate & Securities",
+      "Intellectual Property"
+    ],
+    "lawyer_count": 75,
+    "firm_description": "Meister Seelig & Fein PLLC is a New York City-based business law firm driven by entrepreneurial energy and focused on delivering results for our clients. They are a full-service commercial law firm with offices in New York, New Jersey, Connecticut, and California.",
+    "notable_facts": [
+      "Founded in 1994",
+      "MSF has evolved into a premier business law firm.",
+      "The firm employs 95 people and has an annual revenue of $24.5M"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Mark J. Seelig",
+        "title": "Co-Founder, Managing Partner, Partner",
+        "email": "mjs@msf-law.com",
+        "phone": "(212) 655-3555",
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stephen B. Meister",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Mercedes Medina",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Quirin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kate Matthews",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

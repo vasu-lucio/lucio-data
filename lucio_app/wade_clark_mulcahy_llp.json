@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Wade Clark Mulcahy LLP",
+    "website": "http://wcmlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Retail & Hospitality",
+      "Insurance Coverage",
+      "Commercial Litigation",
+      "Appellate",
+      "Casualty Defense",
+      "Construction Litigation",
+      "Education and Not for Profit Law",
+      "Employment Law",
+      "Fine Art and Specie",
+      "First Party Property",
+      "Fraud Investigation and Prosecution",
+      "Premises Liability",
+      "Cybersecurity and Data Privacy",
+      "Products Liability",
+      "Professional Liability",
+      "Sports and Recreational Liability",
+      "Subrogation and Recovery"
+    ],
+    "lawyer_count": 45,
+    "firm_description": "Wade Clark Mulcahy LLP attorneys represent clients who rely upon our success as advocates and our practical, results oriented advice and recognized expertise as trial and appellate lawyers across a broad spectrum of insurance, commercial and coverage matters. WCM is a firm of trial lawyers who partner with our clients to devise effective strategies to manage risk and to bring closure to complex matters as quickly as possible.",
+    "notable_facts": [
+      "Founded in 1994",
+      "Offices in New York City, New Jersey, Pennsylvania, Long Island, Florida, Louisiana, and Texas",
+      "Clients regularly call upon them to manage risk in jurisdictions across the country"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Vito Pinto",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Michelle Gonsoulin",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rachel Wade",
+          "title": "Director of Human Resources",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike Doolittle",
+          "title": "IT Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

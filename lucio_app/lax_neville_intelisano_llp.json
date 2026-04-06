@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Lax, Neville & Intelisano, LLP",
+    "website": "https://laxneville.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Investment Fraud",
+      "Securities Arbitration",
+      "Financial Services Employment",
+      "Commercial Litigation",
+      "Bankruptcy Litigation"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Lax, Neville & Intelisano, LLP is a boutique law firm based in New York City, recognized for its expertise in complex litigation, arbitration, and advisory services, focusing on the financial services industry. They represent investors, financial services professionals, and businesses in high-stakes disputes.",
+    "notable_facts": [
+      "The firm won a $21 million FINRA arbitration award against Goldman Sachs.",
+      "They have secured more than $35 million in awards for former Credit Suisse advisors.",
+      "The firm remains fiercely independent and frequently litigates against major Wall Street institutions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Barry R. Lax",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian J. Neville",
+          "title": "Founding Partner",
+          "email": "bneville@laxneville.com",
+          "phone": "212-696-1999",
+          "linkedin_url": "https://www.linkedin.com/in/brian-j-neville-6844607/"
+        },
+        {
+          "name": "Ross B. Intelisano",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sandra P. Lahens",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew C. Plant",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Braunstein Turkish LLP",
+    "website": "https://www.braunsteinturkish.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Real Estate Transactions",
+      "Commercial Lending",
+      "Commercial Litigation & ADR",
+      "Construction Law",
+      "Mergers & Acquisitions",
+      "Franchise Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Braunstein Turkish LLP is a full service commercial law firm with offices in Woodbury, New York. The firm represents individual and corporate clients in a wide variety of legal matters ranging from Real Estate and Asset Based Lending, Corporate M&A and Private Placement, Commercial Leasing, to Construction and Commercial Litigation.",
+    "notable_facts": [
+      "Founded by Harry Braunstein and William Turkish",
+      "Represents clients in New York State and Federal Court commercial litigation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "William Turkish",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://braunsteinturkish.com/site/william-turkish-esq/"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Harry P. Braunstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Braunstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.braunsteinturkish.com/team/michael-braunstein-esq"
+        },
+        {
+          "name": "Vincent Georgetti",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Danya Mor",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yuri Burshteyn",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Hausman",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth J. Pagliughi",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Militana",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

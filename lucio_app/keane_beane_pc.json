@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Keane & Beane P.C.",
+    "website": "https://www.kblaw.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Utility Siting & Local Rate-Making",
+      "Trusts and Estates Litigation",
+      "Trusts and Estates",
+      "Real Estate",
+      "Municipal Law",
+      "Litigation & Alternative Dispute Resolution",
+      "Land Development & Zoning",
+      "Labor Relations & Employment Law",
+      "Insurance Defense & Civil Rights",
+      "Guardianships",
+      "Environmental Law",
+      "Elder Law",
+      "Education Law",
+      "Construction Law",
+      "Business Transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Keane & Beane, P.C. is a law firm with offices in White Plains, Fishkill, Long Island, and Manhattan, New York. The firm's attorneys are recognized in their fields for their depth of knowledge, professional skill and commitment to client service.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher J. Aventuro",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sharon N. Berlin",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie L. Burns",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey A. Cohen",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ralph C. DeMarco",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

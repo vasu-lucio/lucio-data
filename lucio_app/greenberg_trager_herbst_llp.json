@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Greenberg, Trager, Herbst & Wagowski, LLP",
+    "website": "https://gthw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Construction Law",
+      "Design",
+      "Development",
+      "Litigation",
+      "Construction Loan Consulting",
+      "Insurance",
+      "Real Estate",
+      "Adjoining Property Owner Disputes",
+      "Alternative Dispute Resolution",
+      "Breach of Contract & Warranty Claims",
+      "Construction Defects",
+      "Mechanic\u2019s Liens",
+      "Payment Disputes",
+      "Commercial Leasing"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Greenberg, Trager, Herbst & Wagowski, LLP is a New York City construction law firm that provides legal services to the construction industry since 1919. They offer a wide range of practice areas including design, construction, development, and litigation.",
+    "notable_facts": [
+      "Founded in 1919",
+      "Nationally recognized New York City construction law firm",
+      "Primary focus on construction law"
+    ],
+    "technology_signals": [
+      "Quickbooks",
+      "LexisNexis",
+      "Juris",
+      "Workable"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Max E. Greenberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kyle Hendrickson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aliza Ganz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan Wagowski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Simon Orner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

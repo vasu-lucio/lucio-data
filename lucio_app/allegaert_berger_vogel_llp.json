@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Allegaert Berger & Vogel LLP",
+    "website": "https://abv.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Domestic and international litigation",
+      "Dispute resolution",
+      "Contract negotiation and formation",
+      "Corporate actions",
+      "Real estate",
+      "Intellectual property",
+      "Licensing",
+      "Franchising",
+      "Employment",
+      "Media and entertainment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Allegaert Berger & Vogel LLP represents clients in complex financial and business-related disputes, negotiations, and transactions, committed to cost-effective, value-centered service.",
+    "notable_facts": [
+      "Founded in 1997",
+      "Offices in New York, Mountainside, New Jersey, and West Hartford, Connecticut",
+      "Member of IAG Global"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David A. Berger",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher Allegaert",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael S. Vogel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/allegaert-berger-&-vogel-llp",
+    "linkedin_size": "51-200"
+  },
+  "email": {}
+}

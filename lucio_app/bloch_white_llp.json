@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Bloch & White LLP",
+    "website": "https://www.blochwhite.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Appeals",
+      "Civil Rights",
+      "Commercial Litigation",
+      "Criminal Defense",
+      "Government Investigations",
+      "Public Interest",
+      "Impact Litigation",
+      "Trials",
+      "Trial Support"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Boutique litigation firm focusing on civil rights, criminal defense, and commercial litigation. They launched this firm in June 2022 to provide top-flight, efficient, client-centered representation.",
+    "notable_facts": [
+      "Founded in June 2022",
+      "Represented Jawaun Fraser and won a $2 million verdict for false conviction"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael L. Bloch",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin D. White",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Anna Kate Cannon",
+        "title": "Director Of Operations And Case Management",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bloch-white"
+  },
+  "email": {}
+}

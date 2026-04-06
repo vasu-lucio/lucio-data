@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Emery Celli Brinckerhoff Abady Ward & Maazel LLP",
+    "website": "https://ecbawm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Civil Rights",
+      "Commercial",
+      "Criminal",
+      "Ethics Matters",
+      "Litigation",
+      "Appellate",
+      "Arbitration",
+      "Civil",
+      "Class Action"
+    ],
+    "lawyer_count": 31,
+    "firm_description": "Emery Celli Brinckerhoff Abady Ward & Maazel LLP is a nationally-recognized litigation boutique that focuses on civil rights, commercial, criminal, and ethics matters. Their civil rights practice includes a wide array of areas such as wrongful convictions, discrimination, and election law, while their commercial practice covers complex litigation, partnership disputes, and real estate.",
+    "notable_facts": [
+      "The firm is a litigation boutique.",
+      "The firm has a strong civil rights practice.",
+      "The firm was founded in February 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Minoza",
+          "title": "Controller",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan S. Abady",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew D. Brinckerhoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew G. Celli, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard D. Emery",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

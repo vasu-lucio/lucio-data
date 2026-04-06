@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Hach Rose Schirripa & Cheverie, LLP",
+    "website": "https://hrsclaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "securities",
+      "mergers and acquisitions",
+      "corporate governance",
+      "antitrust",
+      "consumer protection",
+      "investor arbitration",
+      "employment litigation"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Hach Rose Schirripa & Cheverie, LLP specializes in large, complex litigation in the fields of securities, mergers and acquisitions, corporate governance, antitrust, consumer protection, investor arbitration and employment litigation on behalf of shareholders, consumers and employees. The Firm\u2019s attorneys have established themselves as leading representatives of pension and benefit funds in these areas of the law.",
+    "notable_facts": [
+      "Attorneys are licensed to practice law in New York, New Jersey, Connecticut, Georgia, Massachusetts, South Carolina and Washington, D.C.",
+      "The Firm was founded in 2011.",
+      "The Firm has recovered billions of dollars of lost pension and benefit fund assets."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gregory S. Hach",
+          "title": "partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael A. Rose",
+          "title": "partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank R. Schirripa",
+          "title": "partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.hrsclaw.com/frank-r-schirripa/"
+        },
+        {
+          "name": "David R. Cheverie",
+          "title": "partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel B. Rehns",
+          "title": "partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

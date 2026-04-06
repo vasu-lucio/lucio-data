@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Morrison Mahoney LLP",
+    "website": "https://morrisonmahoney.com/",
+    "city": "Boston",
+    "practice_areas": [
+      "Commercial and business litigation",
+      "Product liability and tort litigation",
+      "Construction",
+      "Environmental",
+      "Hospitals and health systems",
+      "Employment and labor",
+      "Toxic tort and health sciences",
+      "Professional liability",
+      "Risk management",
+      "Insurance and reinsurance",
+      "Cybersecurity, privacy and data protection",
+      "Subrogation recovery",
+      "Appellate",
+      "Admiralty",
+      "Aviation",
+      "Emerging business",
+      "Regulatory and transactional",
+      "Property",
+      "Transportation law",
+      "Workers' compensation"
+    ],
+    "lawyer_count": 180,
+    "firm_description": "Morrison Mahoney LLP is a leading litigation firm in the Northeast with more than 180 attorneys and ten offices. The firm provides quality legal services in diverse practice areas and partners with clients to achieve favorable outcomes.",
+    "notable_facts": [
+      "The firm was founded in 1948.",
+      "The firm is a member of ALFA International, the Global Legal Network.",
+      "The firm's attorneys hold leadership positions in leading industry organizations such as Defense Research Institute, International Association of Defense Counsel, and Federation of Insurance & Corporate Counsel."
+    ],
+    "technology_signals": [
+      "The firm's attorneys are skilled in the use of trial presentation software and eDiscovery platforms.",
+      "The firm's lawyers are equipped with the technical knowledge to practice law in a world where court events, depositions and mediations are increasingly taking place remotely.",
+      "The firm's billing specialists are trained in the latest client billing programs and case management platforms.",
+      "The firm has systems and skills essential to comply with the billing guidelines and paperless requirements of any client."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Carl Sutera",
+        "title": "Executive Director",
+        "email": "CSutera@morrisonmahoney.com",
+        "phone": "(617) 737-8845",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eileen Kelly",
+          "title": "Director of Information Technology",
+          "email": "EKelly@morrisonmahoney.com",
+          "phone": "(617) 737-8833",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

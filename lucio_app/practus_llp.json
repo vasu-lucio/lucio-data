@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Practus, LLP",
+    "website": "https://practus.com/",
+    "city": "Leawood",
+    "practice_areas": [
+      "Corporate Services Law",
+      "Financial Services",
+      "Intellectual Property Law",
+      "Litigation",
+      "Real Estate Law",
+      "Tax Law"
+    ],
+    "lawyer_count": 39,
+    "firm_description": "Practus, LLP is a globally distributed virtual law firm of skilled and knowledgeable attorneys that solve your most complex legal issues. They leverage technology with an innovative law firm model to promote the next evolution in communication and delivery of legal services.",
+    "notable_facts": [
+      "Practus was founded in 2018.",
+      "The firm has a hybrid model adaptive for attorneys and clients.",
+      "Practus has a global network of close to 60 partner-level attorneys."
+    ],
+    "technology_signals": [
+      "Leverages cloud-based solutions and advanced technology to connect with clients.",
+      "Utilizes an innovative law firm model to promote the next evolution in communication and delivery of legal services."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "John H. Lively",
+        "title": "Managing Partner & Founder",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Christopher J. Lange",
+        "title": "Deputy Managing Partner & Acting General Counsel",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Tracey Watson",
+        "title": "Vice President of Operations & Culture",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm published an article 'Why Having ChatGPT Write Your Contracts or Downloading Them From the Internet Won\u2019t Save You Money' on March 11, 2026"
+      },
+      "additional_contacts": [
+        {
+          "name": "Shawn Daniels",
+          "title": "Chief Technology Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

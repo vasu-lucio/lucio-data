@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Zelle LLP",
+    "website": "https://www.zellelaw.com",
+    "city": "Minneapolis",
+    "practice_areas": [
+      "Insurance-related disputes",
+      "Antitrust/Competition",
+      "Complex Business Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Zelle attorneys represent clients in their most challenging insurance-related disputes, antitrust/competition and other complex business litigation in venues across the United States and around the world. The firm excels at handling insurance, antitrust and other complex litigation on both a national and global scale.",
+    "notable_facts": [
+      "Represents both Defendants and Plaintiffs giving attorneys insights from both sides.",
+      "Offices in Atlanta, Boston, Dallas, Ft. Lauderdale, London, Minneapolis, New York, Oakland, Philadelphia, and Washington, DC."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lindsey Davis",
+        "title": "Partner/office Managing Partner",
+        "email": "ldavis@zellelaw.com",
+        "phone": "(612) 359-4237",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Benjamin Zastrow",
+        "title": "Vice President Of Finance And Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bryce Hustad",
+          "title": "Vice President Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Baltes",
+          "title": "Vice President Of Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis C. Anderson",
+          "title": "Partner",
+          "email": "danderson@zellelaw.com",
+          "phone": "(612) 336-9179",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Thompson Coburn LLP",
+    "website": "https://www.thompsoncoburn.com/",
+    "city": "St. Louis",
+    "practice_areas": [],
+    "lawyer_count": 450,
+    "firm_description": "Thompson Coburn LLP has over 450 attorneys with experience in more than 50 areas of law. They have offices in Chicago, Dallas, New York, Los Angeles, Southern Illinois, St. Louis, Washington, D.C. and Birmingham.",
+    "notable_facts": [
+      "Chris Hohn assumed the role of chair in August 2024, taking over from Roman Wuller.",
+      "The firm has offices in eight cities, including Chicago, Dallas, and New York."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Allen T. Capdeboscq Jr.",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Chris Hohn",
+          "title": "Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roman Wuller",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laura Jordan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark S. Indelicato",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

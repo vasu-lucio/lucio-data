@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Zarin & Steinmetz LLP",
+    "website": "https://www.zarin-steinmetz.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Land development",
+      "Zoning and land use",
+      "Environmental law",
+      "Real estate",
+      "Business transactions",
+      "Eminent domain",
+      "Litigation"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Zarin & Steinmetz is known throughout the New York metropolitan area and Hudson Valley for its concentration in all aspects of land development. They represent private and municipal clients in zoning and land use, SEQRA, environmental law, real estate and business transactions, eminent domain, and litigation in state and federal courts.",
+    "notable_facts": [
+      "The firm was founded in 1997.",
+      "The firm represents both private and municipal clients.",
+      "The firm is known for its expertise in land development in the New York metropolitan area and the Hudson Valley."
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "David S. Steinmetz",
+        "title": "Partner",
+        "email": "david@zarin-steinmetz.com",
+        "phone": "(914) 682-7800",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael D. Zarin",
+          "title": "Partner",
+          "email": "mzarin@zarin-steinmetz.com",
+          "phone": "(914) 682-7800",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lee J. Lefkowitz",
+          "title": "Partner",
+          "email": "llefkowitz@zarin-steinmetz.com",
+          "phone": "(914) 220-9796",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jody T. Cross",
+          "title": "Partner",
+          "email": "jcross@zarin-steinmetz.com",
+          "phone": "(914) 220-9797",
+          "linkedin_url": null
+        },
+        {
+          "name": "David J. Cooper",
+          "title": "Partner",
+          "email": "dcooper@zarin-steinmetz.com",
+          "phone": "(914) 220-9795",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

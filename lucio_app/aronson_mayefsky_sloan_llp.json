@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "Aronson Mayefsky & Sloan, LLP",
+    "website": "https://amsllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Family Law",
+      "Appellate",
+      "Divorce"
+    ],
+    "lawyer_count": 23,
+    "firm_description": "Aronson Mayefsky & Sloan, LLP is devoted exclusively to matrimonial and family law. The lawyers of Aronson Mayefsky & Sloan, LLP, constitute a unique group of leading members of the matrimonial bar, recognized as expert trial lawyers and negotiators.",
+    "notable_facts": [
+      "The firm's lawyers are recognized among the bar, the judiciary and every lawyer rating system.",
+      "Members of the firm serve as leaders, officers and fellows of prestigious professional organizations such as the American Academy of Matrimonial Lawyers.",
+      "Members regularly lecture and teach at continuing legal education programs."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Aronson",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Pamela Sloan",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allan Mayefsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Reid Aronson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Robarge",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/aronson-mayefsky-&-sloan-llp"
+  },
+  "email": {}
+}

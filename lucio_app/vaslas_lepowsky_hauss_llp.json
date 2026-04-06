@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Vaslas Lepowsky & Hauss LLP",
+    "website": "https://vlhlaw.com/",
+    "city": "Staten Island",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "Long-Term Care Litigation",
+      "General Liability",
+      "Products Liability",
+      "Toxic Tort",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": 17,
+    "firm_description": "Vaslas Lepowsky & Hauss LLP is a premier litigation firm specializing in the defense of physicians, hospitals, nursing homes, and long-term care facilities. They earned their reputation by employing exacting standards and maintaining a singular focus on providing the highest-quality legal representation.",
+    "notable_facts": [
+      "Founded in 2001",
+      "Specializes in the defense of healthcare professionals and facilities",
+      "Recognized for expertise in medical malpractice defense"
+    ],
+    "technology_signals": [
+      "Microsoft",
+      "Microsoft Office",
+      "Time Matters"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Bill Vaslas",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Olena Sharvan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/company/vaslas-lepowsky-hauss-danke"
+        },
+        {
+          "name": "Edward Humphries",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth M. Dalton",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Karen Hauss",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Lepowsky",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

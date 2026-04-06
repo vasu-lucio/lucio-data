@@ -1,0 +1,56 @@
+{
+  "firm_data": {
+    "firm_name": "Anderson Law",
+    "website": "https://www.andlaw.eu/",
+    "city": "Oxford, UK",
+    "practice_areas": [
+      "Technology Law",
+      "Commercial Law",
+      "Intellectual Property Law",
+      "Life Sciences"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Anderson Law is a technology law practice that provides advice on commercial agreements and intellectual property rights. They work for clients in various technology sectors, including life sciences, information and communications technology, and engineering.",
+    "notable_facts": [
+      "Recommended in Chambers Directory as a leading UK lawyer in life science transactions and intellectual property.",
+      "Mark Anderson has chaired the Intellectual Property Law Committee of the Law Society."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark Anderson",
+        "title": "Managing Partner",
+        "email": "enquiries@andlaw.eu",
+        "phone": "+44 (0) 1865 858 878",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/anderson-law",
+    "linkedin_size": "1-10"
+  },
+  "email": {}
+}

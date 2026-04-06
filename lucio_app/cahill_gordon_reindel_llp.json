@@ -1,0 +1,107 @@
+{
+  "firm_data": {
+    "firm_name": "Cahill Gordon & Reindel LLP",
+    "website": "https://www.cahill.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust & Trade Regulation",
+      "Banking & Finance",
+      "Bankruptcy & Restructuring",
+      "Capital Markets",
+      "Commercial Litigation",
+      "Corporate Governance & Compliance",
+      "Cybersecurity & Data Privacy",
+      "Digital Assets & Emerging Technology",
+      "Insurance and Reinsurance Litigation",
+      "Intellectual Property",
+      "Life Sciences"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cahill Gordon & Reindel LLP is a law firm founded in 1919, known for its work with financial services firms and multinational corporations, with premier transactional and litigation groups.",
+    "notable_facts": [
+      "Cahill was founded in 1919.",
+      "The firm has a strong reputation in financial and corporate areas.",
+      "Cahill is known for innovative trial strategies and financing solutions.",
+      "The firm is involved in pro bono work with legal service organizations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John T. Cahill",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa Seifman",
+          "title": "Partner, Chair of Real Estate Finance practice and Co-chair of Digital Infrastructure Finance practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeremy Duffy",
+          "title": "Partner, Co-chair of Digital Infrastructure Finance practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lewis Rinaudo Cohen",
+          "title": "Speaking Engagement",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joel Kurtzberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ariel Goldman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

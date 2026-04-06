@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Grunfeld, Desiderio, Lebowitz, Silverman & Klestadt LLP",
+    "website": "https://gdlsk.com/",
+    "city": "New York",
+    "practice_areas": [
+      "International Trade",
+      "Customs"
+    ],
+    "lawyer_count": 42,
+    "firm_description": "Grunfeld, Desiderio, Lebowitz, Silverman & Klestadt LLP is a law firm devoted exclusively to international trade and customs matters, representing a diverse range of clients from private companies to Fortune 100 corporations.",
+    "notable_facts": [
+      "The firm was founded in 1985.",
+      "Many of the firm's lawyers have experience with U.S. Customs & Border Protection, the Department of Commerce, the International Trade Commission, the Court of International Trade, and the Department of Justice.",
+      "Several attorneys are licensed customs brokers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Bruce M. Mitchell",
+        "title": "Managing Partner of Trade Group",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank J. Desiderio",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harold M. Grunfeld",
+          "title": "Founding Partner",
+          "email": "hgrunfeld@gdlsk.com",
+          "phone": "212 557 4000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert B. Silverman",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Fern E. Thomas",
+        "title": "Chief Financial & Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alan R. Klestadt",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter W. Klestadt",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

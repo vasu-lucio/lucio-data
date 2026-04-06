@@ -1,0 +1,57 @@
+{
+  "firm_data": {
+    "firm_name": "New York State Law Reporting Bureau",
+    "website": "https://nycourts.gov/reporter/",
+    "city": "Albany",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The New York State Law Reporting Bureau is the editor and publisher of the Official Reports of New York State Court Decisions\u2014the New York Reports, the Appellate Division Reports, and the Miscellaneous Reports.",
+    "notable_facts": [
+      "The Bureau is under the direction of a State Reporter, appointed by the Court of Appeals.",
+      "Official law reporting in New York State dates from 1804."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas J.K. Smith",
+          "title": "State Reporter",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

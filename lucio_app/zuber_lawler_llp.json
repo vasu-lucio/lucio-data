@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Zuber Lawler",
+    "website": "https://zuberlawler.com/",
+    "city": "Los Angeles",
+    "practice_areas": [
+      "M&A",
+      "Finance",
+      "Intellectual Property",
+      "Antitrust",
+      "Data/Privacy",
+      "FDA",
+      "Anti-Corruption",
+      "Litigation"
+    ],
+    "lawyer_count": 39,
+    "firm_description": "Zuber Lawler is a selective law firm representing clients globally from locations across the U.S., focusing on M&A, finance, intellectual property, regulatory work, and litigation, with expertise in both traditional and emerging industries.",
+    "notable_facts": [
+      "The firm is a minority-owned business.",
+      "Zuber Lawler's professionals work in languages covering most of the world\u2019s population.",
+      "Zuber Lawler earned a Top-5 spot in Law360\u2019s 2025 Diversity Snapshot Survey.",
+      "Zuber Lawler\u2019s Appellate Practice Ranks #1 for the Third Year in a Row in RANKING ARIZONA\u00ae The Best of Arizona Business."
+    ],
+    "technology_signals": [
+      "Represents leading companies in emerging industries and technologies including AI, blockchain, crypto, NFTs, the Metaverse, quantum computing, esports, cleantech, longevity, medicinal cannabis, and medicinal psychedelics."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Tom Zuber",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/tomzuber"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Josh Lawler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Raza Lawrence",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeff Zuber",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eileen M. Letts",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

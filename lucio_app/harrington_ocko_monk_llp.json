@@ -1,0 +1,118 @@
+{
+  "firm_data": {
+    "firm_name": "Harrington, Ocko & Monk, LLP",
+    "website": "https://homlegal.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Insurance Defense",
+      "Commercial and Business Litigation",
+      "Construction",
+      "Business and Corporate Matters",
+      "Real Estate and Financing Transactions",
+      "Professional Liability Litigation",
+      "Trademark and Copyright Law",
+      "Employment Law",
+      "Trusts and Estates",
+      "Outside General Counsel Services"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Harrington, Ocko & Monk LLP is a full-service law firm with offices in White Plains, NY and New York City. They combine big firm experience with small firm personal service.",
+    "notable_facts": [
+      "Founded in 1992",
+      "Employs 19 people",
+      "Annual revenue of $5.0M-$25.0M"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kevin Harrington",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert S. Ocko",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Glenn A. Monk",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Flake",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dawn Foster",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Greenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allison Sanders",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Freudenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

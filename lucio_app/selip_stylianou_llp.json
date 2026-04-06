@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Selip & Stylianou LLP",
+    "website": "https://www.seliplaw.com/",
+    "city": "Woodbury",
+    "practice_areas": [
+      "Creditor's Rights litigation",
+      "Consulting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Selip and Stylianou, LLP provides its clients with thorough, complete and comprehensive legal representation throughout the entire states of New York and New Jersey in the practice area of Creditor's Rights litigation and consulting.",
+    "notable_facts": [
+      "The firm represents clients in New York and New Jersey.",
+      "The firm focuses on Creditor's Rights litigation and consulting."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Mitchell Selip",
+          "title": "Partner and CCO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Harry Stylianou",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

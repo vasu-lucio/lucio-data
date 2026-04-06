@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "RSM US LLP",
+    "website": "https://rsmus.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Assurance",
+      "Tax",
+      "Consulting"
+    ],
+    "lawyer_count": null,
+    "firm_description": "RSM US LLP is a leading U.S. provider of assurance, tax, and consulting services focused on the middle market. The firm delivers the power of being understood to its clients, colleagues, and communities.",
+    "notable_facts": [
+      "Founded in 1926",
+      "Has over 17,000 professionals across the U.S. and Canada",
+      "Global presence in 120 countries",
+      "Acquired Wise Consulting Associates in 2023",
+      "Acquired Andculture in 2022"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Brian Becker",
+        "title": "Chief Executive Officer, Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Sam Mascareno",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The RSM Middle Market AI Survey 2025: U.S. and Canada found that generative AI penetration had climbed to 91% among respondents, but just 25% of adopters had fully integrated generative AI across their operations (another 43% had integrated it into some processes)."
+      },
+      "additional_contacts": [
+        {
+          "name": "Ericka Foster",
+          "title": "First Deputy General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brandon Rucker",
+          "title": "Enterprise Assurance Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stuart (Stu) Taub",
+          "title": "Enterprise Markets and Industry Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rod Reimann",
+          "title": "Enterprise Sales Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria Severino",
+          "title": "Enterprise Tax Growth and Industry Leader and Canada Tax Leader",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

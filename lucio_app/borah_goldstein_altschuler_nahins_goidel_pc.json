@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Borah, Goldstein, Altschuler, Nahins & Goidel, P.C.",
+    "website": "https://borahgoldstein.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Law",
+      "Real Estate Litigation"
+    ],
+    "lawyer_count": 50,
+    "firm_description": "Borah, Goldstein, Altschuler, Nahins & Goidel, P.C. is a real estate law firm that offers experienced representation to property owners, landlords, and managers in New York City, Nassau, Suffolk, Westchester and Rockland Counties. They provide tailored advice regarding all aspects of real estate management and litigation.",
+    "notable_facts": [
+      "Founded in 1978",
+      "Over 50 attorneys",
+      "Represents property owners in New York City, Nassau, Suffolk, Westchester and Rockland Counties"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Nerenberg",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen Shulman",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary D Milone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna Guiliano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven H Cohen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

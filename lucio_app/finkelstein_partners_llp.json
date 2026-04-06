@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Finkelstein & Partners, LLP",
+    "website": "https://www.lawampm.com/",
+    "city": "Newburgh",
+    "practice_areas": [
+      "Car Accidents",
+      "Construction Accidents",
+      "Motorcycle Accidents",
+      "Bicycle Accidents",
+      "Bus Accidents",
+      "Pedestrian Injuries",
+      "Nursing Home Abuse",
+      "Workers\u2019 Compensation",
+      "Wrongful Death",
+      "Veterans Services Group",
+      "Mass Tort",
+      "Civil Rights Litigation / Bullying",
+      "Sexual Assault/Abuse",
+      "Class Action"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Finkelstein & Partners, LLP, is a personal injury law firm serving clients in New York, New Jersey, and other locations. They handle a variety of cases including car accidents, construction accidents, and nursing home abuse.",
+    "notable_facts": [
+      "The firm was featured in Profiles of Law for making a meaningful impact in their field and community.",
+      "Andrew Finkelstein was named one of America\u2019s 100 Most Influential Trial Lawyers by The Trial Lawyer magazine in 2014 and 2015."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew Finkelstein",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "845-205-7556",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Howard S. Finkelstein",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Nancy Y. Morgan",
+        "title": "Director of Legal Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kara L. Campbell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert J. Camera",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

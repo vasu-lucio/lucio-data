@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Brown Gavalas & Fromm, LLP",
+    "website": "https://www.browngavalas.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Maritime",
+      "Aviation",
+      "Transportation",
+      "Insurance Coverage",
+      "International Law",
+      "Liability Defense",
+      "Corporate",
+      "Appeals"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Brown Gavalas & Fromm is renowned for its expertise in maritime, aviation, transportation, insurance coverage, international law and defense of liabilities. The firm provides result-oriented legal services in a cost-effective manner.",
+    "notable_facts": [
+      "The firm has offices in New York and New Jersey.",
+      "Many attorneys are multilingual.",
+      "Offers alternative billing approaches."
+    ],
+    "technology_signals": [
+      "Maintains advanced technology and information systems.",
+      "Advanced information systems allow the firm to perform work efficiently."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David H. Fromm",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 983-8500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Jan Brown",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Skoufalos",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Timothy Gerard Hourican",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fred Gary Wexler",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

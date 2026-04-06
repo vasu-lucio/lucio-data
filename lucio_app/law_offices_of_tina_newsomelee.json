@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "The Law Offices Of Tina Newsome-Lee",
+    "website": "https://www.lawyer.com/firm/the-law-offices-of-tina-newsome-lee.html",
+    "city": "Melville",
+    "practice_areas": [
+      "General Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Offices Of Tina Newsome-Lee is located in Melville, New York. Information you provide is not privileged or confidential.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Tina Roshea Newsome",
+        "title": "Lawyer",
+        "email": "tnewsome(a)travelers.com",
+        "phone": "(631) 577-7726",
+        "linkedin_url": "https://www.linkedin.com/in/tinanewsome-lee-esq-cpcu"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sung-A Lee",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(917) 778-6509",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle Marie O'Meally",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(917) 778-6510",
+          "linkedin_url": null
+        },
+        {
+          "name": "Allison Heather Farkas",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Amber Starr Brogdon-Johnson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Roemer Wallens Gold & Mineaux LLP",
+    "website": "https://www.rwgmlaw.com/",
+    "city": "Albany",
+    "practice_areas": [
+      "Labor & Employment",
+      "Insurance Defense",
+      "Litigation",
+      "General Municipal",
+      "Finance & Real Estate",
+      "NYS Retirement Matters"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Roemer Wallens Gold & Mineaux LLP provides legal services in public sector labor and employment law, real estate and finance transactions, and litigation. The firm is large enough to provide a broad array of legal services, yet small enough to provide individual attention and responsive communication.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William M. Wallens",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elayne Gail Gold",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(518) 464-8291",
+          "linkedin_url": null
+        },
+        {
+          "name": "John R. Mineaux",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(518) 265-6969",
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin D. Heffley",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew J. Kelly",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

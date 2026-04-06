@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Cullen and Dykman LLP",
+    "website": "https://cullenllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Banking and Financial Services",
+      "Energy and Utilities",
+      "Higher Education",
+      "Construction",
+      "Real Estate"
+    ],
+    "lawyer_count": 180,
+    "firm_description": "Cullen and Dykman LLP is a full-service law firm that empowers clients to meet the diverse and changing demands of today\u2019s global market. Since 1850, the firm has been helping institutions address complex legal challenges and maximize opportunities for success.",
+    "notable_facts": [
+      "Serving clients since 1850.",
+      "The firm has over 180 attorneys in eight offices across the Eastern United States."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "C.P.",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Alexander McCue",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edgar M. Cullen",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "B.D.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "R.P.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "S.K.",
+          "title": "Trusts And Estates Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A.M.T.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

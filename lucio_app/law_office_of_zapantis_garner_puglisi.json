@@ -1,0 +1,54 @@
+{
+  "firm_data": {
+    "firm_name": "Law Office of Bilello, Zapantis, Garner & Puglisi",
+    "website": null,
+    "city": "Westbury, New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": null,
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew Puglisi",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/andrew-puglisi-44463288"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "James Bilello",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Levitt LLP",
+    "website": "https://www.levittlawllp.com/",
+    "city": "Mineola",
+    "practice_areas": [
+      "Litigation",
+      "Transactional Work",
+      "Real Estate",
+      "Business Counseling"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Levitt LLP is a unique law firm blending the best aspects of small firm practice with the capabilities and record of professional achievement of a multi-state law firm. They specialize in resolving business disputes and provide counsel in litigation and business/transactional law.",
+    "notable_facts": [
+      "Represents public and private companies, prominent law firms, doctors, and other professionals.",
+      "Has litigated cases involving diverse products and industries across the country.",
+      "Clients are frequently the 'underdog' against industry titans."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Karen L. Weiss",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven L. Levitt",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard Levitt",
+          "title": "Senior Partner",
+          "email": "hlevitt@levittllp.com",
+          "phone": "416.594.3900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Puneet Tiwari",
+          "title": "Partner",
+          "email": "ptiwari@levittllp.com",
+          "phone": "416.594.3900",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

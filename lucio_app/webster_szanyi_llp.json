@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Webster Szanyi LLP",
+    "website": "https://www.websterszanyi.com/",
+    "city": "Buffalo",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Webster Szanyi LLP is a law firm that focuses on serving their clients with highly skilled attorneys at a reasonable cost. They handle a range of matters from individuals to large, multi-national corporations.",
+    "notable_facts": [
+      "Founded in 1999 by attorneys leaving a large Western New York firm.",
+      "Rated \u201cAV\u201d by the Martindale-Hubbell Attorney Rating System.",
+      "Rated a \u201cTier 1 Best Law Firm\u201d as selected by Best Lawyers/U.S. News and World Report."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael P. McClaren",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "A. Timothy Webster",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin A. Szanyi",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ted Graney",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike McClaren",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nelson Perel",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Eileen Marzo",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

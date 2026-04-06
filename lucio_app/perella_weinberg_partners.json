@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Perella Weinberg Partners",
+    "website": "https://www.pwpartners.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Mergers & Acquisitions",
+      "Growth Capital & Capital Markets",
+      "Restructuring & Liability Management",
+      "Special Committee",
+      "Shareholder Engagement",
+      "Private Funds Advisory"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Perella Weinberg Partners is a leading global independent advisory firm, providing strategic and financial advice to a broad client base, including corporations, financial sponsors, governments, and sovereign wealth funds. They offer a wide range of advisory services to clients in some of the most active industry sectors and global markets.",
+    "notable_facts": [
+      "The firm has 12 offices in 5 countries.",
+      "Perella Weinberg provides strategic, financial, and tactical advice in connection with executing complex mergers, acquisitions, company sales, and corporate divestitures.",
+      "Perella Weinberg provides solutions to address the liquidity needs of alternative asset managers and their limited partners across private equity, private credit, infrastructure, venture, and real estate, with a specialization in transactions related to GP-led secondaries, GP advisory, and fund secondaries."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew Bednar",
+        "title": "Partner and Chief Executive Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Dietrich Becker",
+        "title": "Partner and President",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter A. Weinberg",
+          "title": "Founding Partner and Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph R. Perella",
+          "title": "Founding Partner and Chairman Emeritus",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Alexandra Gottschalk",
+        "title": "Partner and Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert K. Steel",
+          "title": "Partner and Vice Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

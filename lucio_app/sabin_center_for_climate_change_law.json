@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Sabin Center for Climate Change Law",
+    "website": "http://www.columbiaclimatelaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Climate Change Law",
+      "Environmental Regulation",
+      "Energy Regulation",
+      "Natural Resources Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Sabin Center develops legal techniques to combat the climate crisis and advance climate justice, and trains the next generation of leaders in the field. It is an affiliated center of the Columbia Climate School.",
+    "notable_facts": [
+      "The Sabin Center frequently collaborates with scientists from the Columbia Climate School on interdisciplinary research.",
+      "The Sabin Center is involved in the development of the Climate School at multiple levels and with governmental, nongovernmental and academic organizations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Burger",
+        "title": "Executive Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Romany M. Webb",
+        "title": "Deputy Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Gerrard",
+          "title": "Faculty Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kemi Adetayo",
+          "title": "Sabin Center Program Coordinator",
+          "email": "ka2644@columbia.edu",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent M. Nolette",
+          "title": "Equitable Cities Climate Law Fellow",
+          "email": "vincent.nolette@law.columbia.edu",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca Lowy",
+          "title": "Climate Law Fellow",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Olivia Nohealani Guarna",
+          "title": "Climate Justice Fellow",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cynthia Hanawalt",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

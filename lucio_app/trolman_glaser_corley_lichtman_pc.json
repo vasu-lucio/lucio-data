@@ -1,0 +1,105 @@
+{
+  "firm_data": {
+    "firm_name": "TROLMAN GLASER CORLEY & LICHTMAN, P.C.",
+    "website": "https://www.tgllaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "TROLMAN GLASER CORLEY & LICHTMAN, P.C., is a New York City-based law firm specializing in personal injury and medical malpractice claims. They have been representing accident injury victims for over 50 years and have recovered over a billion dollars in settlements and verdicts.",
+    "notable_facts": [
+      "The firm was established in 1970 by David Trolman and Jack Glaser.",
+      "They have recovered over a billion dollars in settlements and jury verdicts.",
+      "Jeffrey A. Lichtman is a Past President of the New York State Trial Lawyers Association.",
+      "The firm's lawyers and support staff speak both English and Spanish."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Trolman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jack Glaser",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jeffrey A. Lichtman",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David B. Corley",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": "212-750-1200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Joel A. Glaser",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael A. Madonna",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tina M. Wells",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

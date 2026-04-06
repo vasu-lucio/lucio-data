@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Subin Associates",
+    "website": "https://subinlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Subin Associates is a New York personal injury law firm that has been helping residents obtain compensation for their injuries for over 65 years. They have recovered over $2 Billion for their clients.",
+    "notable_facts": [
+      "Founded in 1954",
+      "Recovered over $2 billion for clients"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Arnie Baum",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Eric D. Subin",
+          "title": "Lead Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank M. Melendez",
+          "title": "Senior Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Simon M. Hannanian",
+          "title": "Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marc S. Subin",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "George Pfluger",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

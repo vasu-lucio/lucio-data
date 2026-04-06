@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Fabricant Rubino Lambrianakos LLP",
+    "website": "https://www.fabricantllp.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Intellectual Property Litigation",
+      "PTAB Proceedings",
+      "ITC Section 337 Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fabricant Rubino Lambrianakos LLP is an IP litigation boutique championing innovators in patent litigation involving cutting-edge technologies. They litigate in various forums, including the U.S. International Trade Commission, the U.S. Patent Trial and Appeal Board, and state and federal courts, and are pioneers in litigation funding.",
+    "notable_facts": [
+      "The firm focuses on patent litigation.",
+      "They represent clients in the U.S. International Trade Commission, the U.S. Patent Trial and Appeal Board, and state and federal courts.",
+      "They are pioneers in litigation funding."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Peter Lambrianakos",
+        "title": "Managing Partner",
+        "email": "[email protected]",
+        "phone": "646-797-4353",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alfred R. Fabricant",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Vincent J. Rubino III",
+          "title": "Partner",
+          "email": "[email protected]",
+          "phone": "646-797-4345",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Cowell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Enrique Iturralde",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Evan H. Langdon",
+          "title": "Partner, ITC Practice Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

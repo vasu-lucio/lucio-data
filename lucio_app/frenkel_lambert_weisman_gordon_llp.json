@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Frenkel Lambert Weisman & Gordon, LLP",
+    "website": "https://flwlaw.com/",
+    "city": "Bay Shore",
+    "practice_areas": [
+      "Insurance Law",
+      "Mortgage Banking",
+      "Real Estate Finance",
+      "Commercial Law",
+      "Defending complex bodily injury and property damage claims",
+      "Large loss subrogation",
+      "Professional liability",
+      "Coverage",
+      "ERISA",
+      "Surety",
+      "Fidelity",
+      "Bankruptcy",
+      "Mortgage foreclosure litigation",
+      "Predatory lending litigation",
+      "Title litigation",
+      "Eviction",
+      "Real estate transactions",
+      "General litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Frenkel Lambert Weisman & Gordon, LLP is a law firm representing financial institutions, insurance and bonding companies, corporations, and businesses in need of legal representation. They have three primary practice groups: insurance law, mortgage banking & real estate finance, and commercial law.",
+    "notable_facts": [
+      "Founded in 1960",
+      "The firm is the product of the merger of two law firms that have served the insurance and banking industries for over 77 collective years."
+    ],
+    "technology_signals": [
+      "Offers clients the ability to obtain status on their cases through a Case Status page of their secure website.",
+      "Invests in customized software that enhances accuracy, efficiency and service.",
+      "Makes continuous investments in hardware infrastructure and IT security."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "David Frenkel",
+        "title": "Managing Partner, CEO",
+        "email": null,
+        "phone": "631969XXXX",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa Gordon",
+          "title": "Managing Partner \u2013 Real Estate Financing Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Lambert",
+          "title": "Partner \u2013 Insurance Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd E. Weisman",
+          "title": "Partner \u2013 Insurance Defense",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victor Medrano",
+          "title": "Director of Client Relations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

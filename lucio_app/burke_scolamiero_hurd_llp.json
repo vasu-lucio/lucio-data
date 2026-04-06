@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Burke, Scolamiero & Hurd, LLP",
+    "website": "https://bshlaw.us/",
+    "city": "Albany",
+    "practice_areas": [
+      "Professional Liability",
+      "Environmental and Toxic Torts",
+      "Product Liability Claims",
+      "Labor Law",
+      "Workers\u2019 Compensation",
+      "Commercial Litigation",
+      "Municipal Liability",
+      "Products Liability",
+      "General Negligence",
+      "Medical and Professional Malpractice",
+      "Construction Litigation",
+      "Matrimonial Law",
+      "Nursing Home Malpractice",
+      "Construction Law",
+      "Appellate Practice",
+      "Trial Practice",
+      "Self-insured matters",
+      "Property & Casualty",
+      "Criminal Defense",
+      "Premises Liability",
+      "Personal Injury",
+      "Municipal Liability and Public Officials Defense",
+      "General Liability",
+      "Fidelity & Surety",
+      "Environmental Law",
+      "Construction including New York State Labor Law",
+      "Commercial Litigation",
+      "Automobile Liability cases (Commercial, Personal, Coverage and SUM/UM)",
+      "Asbestos Litigation"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Burke, Scolamiero & Hurd, LLP focuses on the defense of civil litigation with primary emphasis in the areas of Professional Liability, Environmental and Toxic Torts, Product Liability Claims, Labor Law, Workers\u2019 Compensation and Commercial Litigation. At Burke, Scolamiero & Hurd, LLP the emphasis is on understanding and helping our clients achieve their objectives through the use of the most modern technology and a commitment to excellence, which enables us to control costs without sacrificing quality.",
+    "notable_facts": [
+      "Established since 1993",
+      "The firm represents clients in Upstate NY Judicial Districts including the 3rd, 4th, 5th, 6th, 7th, and 8th JD"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kevin P. Burke",
+        "title": "Managing Partner",
+        "email": "kevin@bshlaw.us",
+        "phone": "518-862-1386",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Office Administrator",
+        "email": null,
+        "phone": "518-862-1386",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter M. Scolamiero",
+          "title": "Partner",
+          "email": "pete@bshlaw.us",
+          "phone": "518-862-1386",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

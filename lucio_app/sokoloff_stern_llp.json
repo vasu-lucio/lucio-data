@@ -1,0 +1,92 @@
+{
+  "firm_data": {
+    "firm_name": "SOKOLOFF STERN, LLP",
+    "website": "http://www.sokoloffstern.com/",
+    "city": "Garden City",
+    "practice_areas": [
+      "Civil Rights",
+      "Tort",
+      "Commercial Litigation",
+      "Employment Law",
+      "Police Liability",
+      "Land Use",
+      "School Law",
+      "Business Disputes",
+      "Civil Procedure"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Sokoloff Stern LLP actively litigates in federal and state courts and administrative agencies in the State of New York, providing litigation and non-litigation services to businesses, insurance companies, third-party administrators, governments and other public entities, and private clients.",
+    "notable_facts": [
+      "The firm's attorneys lecture to lawyers and laypeople alike, primarily in the areas of employment law, civil rights, police procedure, land use, school law, business disputes, and civil procedure.",
+      "Sokoloff Stern LLP uses state of the art computer technology, research tools, and case management software."
+    ],
+    "technology_signals": [
+      "State of the art computer technology",
+      "Research tools",
+      "Case management software"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Brian S. Sokoloff",
+        "title": "Partner",
+        "email": null,
+        "phone": "516.334.4500",
+        "linkedin_url": "https://www.linkedin.com/in/brian-s-sokoloff-441a527"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven C. Stern",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kiera J. Meehan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kimberly Hunt Lee",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leo Dorfman",
+          "title": "Partner",
+          "email": null,
+          "phone": "516.334.4500",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Elysium Management",
+    "website": "https://www.elysium.law/",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "No description available.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Omar Sada",
+        "title": "Principal Solicitor/Managing Director",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Annalise Suzuki",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard Gray",
+          "title": "Managing Director and Barrister",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Brogelli",
+          "title": "Finance and Practice Manager, Paralegal",
+          "email": "db@elysium-law.com",
+          "phone": "0151 328 1968",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ruby Keeler-Williams",
+          "title": "Chartered Legal Executive",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Berry Appleman & Leiden LLP",
+    "website": "https://www.bal.com",
+    "city": "Dallas",
+    "practice_areas": [
+      "Corporate Immigration Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Berry Appleman & Leiden LLP (BAL) is a global corporate immigration law firm serving U.S. and global companies around the world. Since 1980, the firm has delivered consistently excellent service across their legal teams.",
+    "notable_facts": [
+      "Top-ranked in Chambers Global Guide for seven years running (as of 2021)",
+      "Has a Silicon Valley campus in Santa Clara, CA",
+      "Allied with Deloitte"
+    ],
+    "technology_signals": [
+      "Proprietary Cobalt\u00ae mobile app and artificial intelligent engines",
+      "Innovative case management technology",
+      "Leveraging AI, machine learning and robotic process automation (RPA)"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jeremy Fudge",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/berry-appleman-and-leiden-llp/org-chart/jeremy-fudge"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Berry",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm uses \"artificial intelligent engines\" and has leveraged and developed AI, machine learning and robotic process automation (RPA)."
+      },
+      "additional_contacts": [
+        {
+          "name": "Lynden Melmed",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nassim Mahzoon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frieda Garcia",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://tr.linkedin.com/company/bal-llp"
+  },
+  "email": {}
+}

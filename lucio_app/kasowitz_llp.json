@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Kasowitz LLP",
+    "website": "https://www.kasowitz.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Antitrust Litigation",
+      "Appellate and Constitutional Litigation",
+      "Bankruptcy Litigation and Restructuring",
+      "Commercial Litigation",
+      "Corporate Transactions",
+      "Data Strategy, Privacy, and Security",
+      "Employment Litigation",
+      "Government Affairs and Strategic Counsel",
+      "Intellectual Property Litigation",
+      "International Disputes Litigation",
+      "Litigation",
+      "Matrimonial and Family Law",
+      "Real Estate Litigation",
+      "Real Estate Transactions",
+      "Securities Litigation",
+      "Software Litigation",
+      "Transactions",
+      "White Collar Defense and Investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kasowitz LLP is a national law firm known for being creative, aggressive, and relentless in achieving the best results for their clients. They handle complex commercial litigation and offer expertise in various industries including technology, financial services, and real estate.",
+    "notable_facts": [
+      "The firm secured court sanctions against Envestnet, Inc. for intentional destruction of evidence in January 2026.",
+      "Kasowitz announced a firm name change in June 2025.",
+      "A leading IP Litigation Team joined Kasowitz in July 2025."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Marc E. Kasowitz",
+        "title": "Partner",
+        "email": "mkasowitz@kasowitz.com",
+        "phone": "+1 (212) 506-1710",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "Kasowitz has a cross-disciplinary team assisting clients with Artificial Intelligence risks. Matthew A. Kraus is a partner whose practice includes Artificial Intelligence."
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew A. Kraus",
+          "title": "Partner",
+          "email": "mkraus@kasowitz.com",
+          "phone": "+1 (212) 506-1814",
+          "linkedin_url": null
+        },
+        {
+          "name": "Cindy Caranella Kelly",
+          "title": "Partner",
+          "email": "ckelly@kasowitz.com",
+          "phone": "+1 (212) 506-1737",
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Kelly",
+          "title": "Partner",
+          "email": "tkelly@kasowitz.com",
+          "phone": "+1 (212) 506-1872",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "NESENOFF & MILTENBERG, LLP",
+    "website": "https://nmllplaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Title IX",
+      "Employee Discrimination",
+      "Real Estate Transactions",
+      "Corporate Transactions",
+      "Partnership Disputes",
+      "Defamation"
+    ],
+    "lawyer_count": 15,
+    "firm_description": "NESENOFF & MILTENBERG, LLP is a law firm that offers litigation, title IX, and employee discrimination law services in NYC and Boston. They have locations in real estate transactions, financing, and operating agreements.",
+    "notable_facts": [
+      "Founded in 1992",
+      "Offices in New York and Boston",
+      "Focus on Title IX and campus misconduct defense"
+    ],
+    "technology_signals": [
+      "amp",
+      "c"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Andrew T. Miltenberg",
+        "title": "Partner",
+        "email": null,
+        "phone": "212-736-4500",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ira S. Nesenoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stuart Bernstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Tara J. Davis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabrielle M. Vinci",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kara Gorycki",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Morrin & Sands Attorneys at Law",
+    "website": "https://mydisabilityatty.com/",
+    "city": "Bellmore",
+    "practice_areas": [
+      "Workers\u2019 Compensation",
+      "Social Security Disability",
+      "Accident Attorneys",
+      "Employment Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Morrin & Sands Attorneys at Law represents clients with disabilities and injury victims, focusing on Social Security Disability and New York Workers\u2019 Compensation.",
+    "notable_facts": [
+      "The firm's founder, Daniel M. Morrin, has more than 30 years of legal experience.",
+      "The firm offers free case reviews."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel M. Morrin",
+        "title": "Managing Partner",
+        "email": "Email Me",
+        "phone": "516-307-8000",
+        "linkedin_url": "https://www.linkedin.com/in/danmorrin"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brian A. Sands",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Morrin",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": "516-307-8000",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

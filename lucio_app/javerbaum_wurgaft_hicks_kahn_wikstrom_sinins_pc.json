@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Javerbaum Wurgaft Hicks Kahn Wikstrom & Sinins, P.C.",
+    "website": "https://www.javerbaumwurgaft.com/",
+    "city": "Springfield",
+    "practice_areas": [
+      "Litigation",
+      "Civil Trial Practice",
+      "Criminal Trial Practice",
+      "Workers\u2019 Compensation",
+      "Personal Injury",
+      "Family Law",
+      "Corporate Law",
+      "Labor and Employment",
+      "Real Estate",
+      "Tax",
+      "Trusts and Estates",
+      "Product Liability",
+      "Appellate",
+      "Arbitration",
+      "Divorce",
+      "Bankruptcy",
+      "Contracts",
+      "Corporate Governance",
+      "Creditors' Rights",
+      "Finance",
+      "General Practice",
+      "Admiralty and Maritime Law",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": 83,
+    "firm_description": "Javerbaum Wurgaft Hicks Kahn Wikstrom & Sinins, P.C. is a litigation boutique with numerous attorneys certified by the Supreme Court of New Jersey. The firm has been recognized for outstanding legal services and results for its clients.",
+    "notable_facts": [
+      "Founded in 1978",
+      "Maintains nine New Jersey locations, with offices in Springfield, Elizabeth, Elmwood Park, Morristown, Newark, Summit, Union, Voorhees, Woodbury as well as offices in New York City and Atlanta, GA.",
+      "Attorneys are well-known as effective and professional advocates on behalf of their individual and corporate clients."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Milagros C Alvarez",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Drake P Bearden Jr",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ross Begelman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan K Berliner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

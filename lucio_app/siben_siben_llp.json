@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Siben & Siben LLP",
+    "website": "https://www.sibensiben.com/",
+    "city": "Bay Shore",
+    "practice_areas": [
+      "Personal Injury",
+      "Car Accident",
+      "Medical Malpractice",
+      "Workers' Compensation",
+      "Bankruptcy Law",
+      "Criminal Law",
+      "Real Estate Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Siben & Siben LLP is a family-owned legal firm serving Long Island and the surrounding areas since 1934, focusing on personal injury law. They have recovered over a billion dollars for their clients.",
+    "notable_facts": [
+      "Serving Long Island since 1934",
+      "Family-owned firm",
+      "Recovered over $1 billion for clients"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": null,
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Jared V",
+        "title": "Director of Information Technology",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Janet Zacchia",
+          "title": "Human Resources Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Siben",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Samson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

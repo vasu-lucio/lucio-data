@@ -1,0 +1,83 @@
+{
+  "firm_data": {
+    "firm_name": "Braverman | Greenspun",
+    "website": "https://www.braverlaw.net/",
+    "city": "New York City",
+    "practice_areas": [
+      "condominium and cooperative law",
+      "real estate",
+      "litigation",
+      "corporate governance",
+      "contracts",
+      "real estate transactions",
+      "commercial litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Braverman Greenspun is a law firm dedicated to the practice of cooperative and condominium law, real estate and litigation. Celebrating its fiftieth anniversary in 2018, BG is an institution and industry leader, providing client-centered legal representation.",
+    "notable_facts": [
+      "The firm was founded in 1968.",
+      "The firm is counsel to nearly two hundred cooperatives and condominiums in the New York metropolitan area.",
+      "The firm represents individual shareholders and unit owners.",
+      "The firm handles complex and sensitive claims against cooperatives, condominiums, and board members appointed by insurance companies, and defends legal malpractice claims."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert J. Braverman",
+        "title": "Principal & Managing Partner",
+        "email": "rbraverman@braverlaw.net",
+        "phone": "917.657.9003",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Scott S. Greenspun",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Ed Braverman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Tracy Peterson",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Fox Tracy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/braverman-greenspun-p-c-"
+  },
+  "email": {}
+}

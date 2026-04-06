@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Gladstein, Reif & Meginniss, LLP",
+    "website": "https://www.grmny.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Labor Union Representation",
+      "Wage and Hour Litigation",
+      "Civil Rights and Employment Discrimination",
+      "Higher Education",
+      "Separation Agreements and Severance Negotiations",
+      "Employee Benefits Funds"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gladstein, Reif & Meginniss is a New York law firm specializing in labor, employment, and civil rights law, dedicated to protecting workers\u2019 rights and advancing justice in New York, New Jersey, and beyond.",
+    "notable_facts": [
+      "The firm is ranked Tier 1 among Employment & Labor firms nationally as well as in the New York City region by Best Lawyers.",
+      "Several of the firm's attorneys are former union members and organizers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Amy Gladstein",
+          "title": "Partner",
+          "email": "agladstein@grmny.com",
+          "phone": "212 228 7727",
+          "linkedin_url": null
+        },
+        {
+          "name": "James Reif",
+          "title": "Partner Emeritus",
+          "email": "JReif@grmny.com",
+          "phone": "212-228-7727 ext. 1223",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Walter M. Meginniss, Jr.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kent Y. Hirozawa",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Beth M. Margolis",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

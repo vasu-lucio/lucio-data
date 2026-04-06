@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "Underberg & Kessler LLP",
+    "website": "https://www.underbergkessler.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Banking & Commercial Lending",
+      "Business & Corporate",
+      "Cannabis",
+      "Construction",
+      "Creditors\u2019 Rights",
+      "Environmental & Energy",
+      "Estates & Trusts",
+      "Family Law",
+      "Health Care",
+      "Labor & Employment",
+      "Litigation",
+      "Municipal",
+      "Real Estate & Finance",
+      "Tax"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Underberg & Kessler LLP is a full-service law firm rooted in Rochester, New York, with offices in Buffalo, Canandaigua, and Geneseo. The firm provides legal counsel to businesses, municipalities, not-for-profit organizations, and individuals throughout Western New York and across the state.",
+    "notable_facts": [
+      "Founded in 1926.",
+      "Has offices in Rochester, Buffalo, Canandaigua, and Geneseo.",
+      "Celebrating its 100th anniversary in 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Patrick L. Cusato",
+        "title": "Managing Partner",
+        "email": "pcusato@underbergkessler.com",
+        "phone": "(585) 258-2884",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "David M. Tang",
+        "title": "Co-Managing Partner",
+        "email": "dtang@underbergkessler.com",
+        "phone": "(585) 258-2845",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anna E. Lynch",
+          "title": "Retired Attorney",
+          "email": "alynch@underbergkessler.com",
+          "phone": "(585) 258-2823",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

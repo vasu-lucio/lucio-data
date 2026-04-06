@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Brandt, Steinberg, Lewis & Blond LLP",
+    "website": "https://www.bsl-taxcert.com",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate Tax Appeals",
+      "Eminent Domain",
+      "Condemnation",
+      "Co-op And Condo",
+      "Commercial Real Estate",
+      "Exemptions And Abatement For New Construction",
+      "Exemptions Of Right",
+      "Preparation Of Opinion Letters",
+      "Reclassification Of Real Property",
+      "RPIE Filing Disputes"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Brandt, Steinberg, Lewis & Blond LLP has provided experienced representation since 1932, handling real estate tax appeals and related matters. Their lawyers have more than 180 years of collective experience in this niche field.",
+    "notable_facts": [
+      "Firm founded in 1932",
+      "The firm represents all kinds of property statewide",
+      "The firm utilizes cutting-edge technology to build the data-based foundation for their clients\u2019 cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter E. Blond",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-563-2200",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard A. Steinberg",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michaelle Francois",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexa Rosado",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick F. Burke",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/the-brandt-companies"
+  },
+  "email": {}
+}

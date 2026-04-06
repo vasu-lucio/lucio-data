@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "RiseBoro Community Partnership",
+    "website": "http://www.riseboro.org",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Affordable Housing",
+      "Community Development",
+      "Social Services",
+      "Seniors Services",
+      "Education",
+      "Health",
+      "Empowerment"
+    ],
+    "lawyer_count": null,
+    "firm_description": "RiseBoro Community Partnership is a non-profit organization that has offered services designed to support every generation and meet the needs of the communities it serves since 1973. They focus on developing neighborhood assets, like affordable housing, to create a more vibrant and diverse community.",
+    "notable_facts": [
+      "Founded in 1973",
+      "Offers services in Seniors, Housing, Education, Health, and Empowerment",
+      "Develops neighborhood assets like affordable housing"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Melanie E. La Rocca",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John Torres",
+          "title": "VP Information Technology",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kieran E. Harrington",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria DeMatos",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cicely Harris",
+          "title": "Chief People Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

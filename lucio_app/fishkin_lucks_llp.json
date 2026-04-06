@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Fishkin Lucks LLP",
+    "website": "https://www.fishkinlucks.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Risk Management"
+    ],
+    "lawyer_count": 19,
+    "firm_description": "Fishkin Lucks is an elite litigation boutique with a singular vision: to serve clients who value efficiency without compromising quality. They are former BigLaw lawyers who possess the experience and expertise to meet the litigation and risk management needs of Fortune 500 and middle-market companies across a wide spectrum of industries, and they are flexible enough to represent individuals in significant, high profile matters.",
+    "notable_facts": [
+      "The firm was founded in 2011.",
+      "Fishkin Lucks is a recipient of the Chambers Spotlight 2026 acknowledgment.",
+      "The firm has offices in New York, New Jersey, and Pennsylvania."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Andrew P. Fishkin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M. Lucks",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew C. Cairone",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria Angela Brusco",
+          "title": "Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin C. O\u2019Leary",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

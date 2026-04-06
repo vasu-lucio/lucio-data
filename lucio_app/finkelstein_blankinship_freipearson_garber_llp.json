@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Finkelstein Blankinship Frei-Pearson & Garber, LLP",
+    "website": "https://4classaction.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Appellate Practice",
+      "Consumer Privacy",
+      "Consumer Protection",
+      "Employment Law",
+      "Nursing Home Reform",
+      "Securities and Investor Fraud",
+      "Whistleblower Actions",
+      "3M Veterans Settlement",
+      "Data Breach Investigations"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Finkelstein Blankinship Frei-Pearson & Garber, LLP is a law firm that provides legal services to individuals who have been wronged by powerful businesses. They represent consumers, employees, and others who have been harmed by corporate greed and unlawful practices.",
+    "notable_facts": [
+      "The lawyers at FBF&G are deeply committed to helping regular people who have been wronged by powerful businesses.",
+      "The firm's attorneys have the talent and work ethic to win the toughest cases."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Greg Blankinship",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd S Garber",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

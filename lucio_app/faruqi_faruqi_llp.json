@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Faruqi & Faruqi, LLP",
+    "website": "https://faruqilaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Litigation",
+      "Antitrust Litigation",
+      "Consumer Class Actions",
+      "Shareholder Derivative Suits"
+    ],
+    "lawyer_count": 27,
+    "firm_description": "Faruqi & Faruqi, LLP is a New York City law firm focused on complex civil and class action litigation. The firm has an excellent reputation among its peers and adversaries.",
+    "notable_facts": [
+      "Founded in 1995",
+      "Minority-owned and woman-owned firm",
+      "Offices nationwide"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lubna M. Faruqi",
+        "title": "Managing Partner",
+        "email": "lfaruqi@faruqilaw.com",
+        "phone": "(212) 983-9330",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Nadeem Faruqi",
+        "title": "Managing Partner",
+        "email": "nfaruqi@faruqilaw.com",
+        "phone": "(212) 983-9330",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Umar Iftikhar",
+        "title": "Director, System Implementations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Innessa Huot",
+          "title": "Partner",
+          "email": "ihuot@faruqilaw.com",
+          "phone": "(212) 983-9330",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

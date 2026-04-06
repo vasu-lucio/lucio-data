@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "BDO USA, P.C.",
+    "website": "https://www.bdo.com/",
+    "city": "Chicago",
+    "practice_areas": [
+      "Assurance",
+      "Accounting",
+      "Tax",
+      "Advisory"
+    ],
+    "lawyer_count": null,
+    "firm_description": "BDO USA is one of the nation\u2019s leading accounting and advisory firms. They provide assurance, tax, and advisory services.",
+    "notable_facts": [
+      "BDO USA's fiscal year 2025 revenue was $3.018 billion.",
+      "BDO USA has more than 85 offices across the country.",
+      "BDO USA has over 14,000 total professionals.",
+      "BDO USA became the first large accounting and advisory organization to establish an Employee Stock Ownership Plan (ESOP) in 2023.",
+      "BDO USA was recognized as a Microsoft Frontier Partner in AI Transformation."
+    ],
+    "technology_signals": [
+      "Recognized as a Microsoft Frontier Partner in AI Transformation",
+      "Investment in AI and cloud technology",
+      "Launched BDO Government Services, LLC, a wholly owned subsidiary dedicated to serving state and local governments"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Matt Becker",
+        "title": "CEO (effective July 1, 2026)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "BDO USA was recognized as a Microsoft Frontier Partner in AI Transformation. The designation reflects BDO\u2019s capabilities across Microsoft Cloud and AI disciplines and its commitment to helping clients navigate the complexities of AI and cloud technology while they adopt and scale them."
+      },
+      "additional_contacts": [
+        {
+          "name": "Demetrios Frangiskatos",
+          "title": "National Managing Principal of Assurance",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mat DeMong",
+          "title": "National Managing Principal of Tax",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bdo-usa"
+  },
+  "email": {}
+}

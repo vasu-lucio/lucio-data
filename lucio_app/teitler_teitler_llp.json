@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Teitler & Teitler, LLP",
+    "website": "https://teitler.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Family Law",
+      "Trust & Estates",
+      "Commercial Matters"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Teitler & Teitler, LLP, is a litigation boutique with over 50 years of experience counseling clients in navigating complex and high-stakes disputes and crisis management situations. The Firm has advised and represented domestic and foreign individuals and entities in family law, trust & estates, and commercial matters.",
+    "notable_facts": [
+      "Founded in 1963",
+      "Represents high-net-worth individuals and families",
+      "Located in New York, United States"
+    ],
+    "technology_signals": [
+      "appx"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Teitler",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "John Teitler",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Samuel Teitler",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Linda DiLorenzoP",
+        "title": "Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sanford Bell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas W. Lobenthal",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nancy Murphy",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean Rochford",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul D. Getzels",
+          "title": "Counsel",
+          "email": "pdgetzels@teitler.com",
+          "phone": "(212)-930-3605",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

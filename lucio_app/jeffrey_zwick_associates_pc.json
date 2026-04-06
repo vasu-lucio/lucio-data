@@ -1,0 +1,98 @@
+{
+  "firm_data": {
+    "firm_name": "Jeffrey Zwick & Associates, P.C.",
+    "website": "https://jzlegal.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Real Estate",
+      "Corporate Structure",
+      "Bond Offerings",
+      "Commercial Real Estate Transactions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Jeffrey Zwick & Associates, P.C., has quickly grown to become one of the most active real estate law firms in New York, New Jersey and nationally, representing clients\u2019 legal needs with strategic and effective consultation and representation. Our attorneys understand the complex local landscape, as well as broader national and international divides, representing diverse clients in all matters of commercial real estate transactions.",
+    "notable_facts": [
+      "Represents diverse clients in all matters of commercial real estate transactions.",
+      "Represents private companies, high-net individuals, and premier establishments in matters involving real estate, corporate structure, and bond offerings.",
+      "Has grown to become one of the most active real estate law firms in New York, New Jersey and nationally."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jeffrey B. Zwick",
+        "title": "Founding Partner",
+        "email": "jeffrey@jzlegal.com",
+        "phone": "718-513-2050 ext. 123",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel Cohen",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mordy Goldenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Hager",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hillel Lazarus",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ilan Lerman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin J. Stanger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

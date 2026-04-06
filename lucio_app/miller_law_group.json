@@ -1,0 +1,52 @@
+{
+  "firm_data": {
+    "firm_name": "Miller Law Group, P.C.",
+    "website": "https://www.millerlg.com/",
+    "city": "Palo Alto",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Miller Law Group combines wide-ranging legal experience with practical, bottom-line business acumen, leveraging their knowledge to create cost-effective, strategic legal solutions that deliver direct financial benefits to their clients\u2019 companies.",
+    "notable_facts": [
+      "The firm is an AV Peer-Rated firm, reflecting its high ethical standards and legal abilities.",
+      "The firm has built an extensive, proprietary database of information and resources and an electronic legal library."
+    ],
+    "technology_signals": [
+      "Maximizes use of advanced technology and virtual networking to streamline processes and facilitate communication.",
+      "Integrates technology into every aspect of its legal practice to improve research, advice, and documentation."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Mitch Miller",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

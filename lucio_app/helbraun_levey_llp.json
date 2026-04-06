@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Helbraun Levey",
+    "website": "http://www.helbraunlevey.com",
+    "city": "New York",
+    "practice_areas": [
+      "Law",
+      "Bars",
+      "Litigation",
+      "Restaurants",
+      "Corporate Law",
+      "Small Businesses",
+      "Cannabis Law",
+      "Liquor License",
+      "Hospitality"
+    ],
+    "lawyer_count": 21,
+    "firm_description": "Helbraun Levey is NY\u2019s premier full-service law firm focused on the legal and licensing needs of the hospitality and cannabis industries. The firm takes the customer service lessons learned from working in the hospitality industry and applies them to their practice.",
+    "notable_facts": [
+      "Founded in 2005 by David Helbraun",
+      "Specializes in hospitality and cannabis industries",
+      "Offers legal and licensing services"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David Helbraun",
+          "title": "Founding Partner & Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Levey",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Chris Echols",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amber Asher",
+          "title": "Partner & Chair, hotel practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Andrew Fine",
+          "title": "Partner & Chair, corporate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Dunietz",
+          "title": "Partner & Chair, real estate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

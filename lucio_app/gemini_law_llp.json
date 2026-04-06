@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Gemini Law LLP",
+    "website": "https://geminilaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Life Sciences",
+      "Patent Law",
+      "Biopharma IP Litigation",
+      "Biosimilar Litigation",
+      "Hatch-Waxman Litigation",
+      "BPCIA Regulatory Schemes",
+      "IP Transactions",
+      "Diligence"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Gemini Law LLP is a life sciences law firm that offers world-class biopharma IP litigation & strategy at a sensible cost. They have mastered the use of remote-work tools to handle complex legal challenges and provide substantial cost savings.",
+    "notable_facts": [
+      "Innovative and cost-effective structure with attorneys working remotely with very little overhead.",
+      "Particular expertise in patent strategy and litigation relating to biosimilar, biobetter, generic and 505(b)(2) products.",
+      "Experienced in counseling early-stage biotech companies."
+    ],
+    "technology_signals": [
+      "Mastered the use of remote-work tools"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Robert V. Cerwinski",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "+1.917.915.8832",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lora Green",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aviv Zalcenstein",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Johnson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kyle Musgrove",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather Schneider",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike Cottler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Clifton Budd & DeMaria, LLP",
+    "website": "https://www.cbdm.com/",
+    "city": null,
+    "practice_areas": [
+      "Labor Relations",
+      "Compensation & Benefits",
+      "Litigation",
+      "Workplace Health & Safety",
+      "Equal Employment Opportunity",
+      "Employment Contracts",
+      "Strategic and Preventative Solutions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Clifton Budd & DeMaria, LLP is a law firm representing management in all aspects of labor and employment law. They offer practical, efficient, and effective solutions to help clients solve problems and attain their business objectives.",
+    "notable_facts": [
+      "The firm's lineage stems from founder Walter Gordon Merritt, who represented management in the \"Danbury Hatters\" case.",
+      "Henry Clifton, Jr. founded the Labor Law Section of the American Bar Association."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Walter Gordon Merritt",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Henry Clifton, Jr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alfred T. DeMaria",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas P. Catalano",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neresa A. De Biasi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel C. Moreland",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Peraino Malinowski LLP",
+    "website": "https://www.pmlaw.nyc/",
+    "city": "New York",
+    "practice_areas": [
+      "Real Estate",
+      "Construction",
+      "Commercial Litigation",
+      "Corporate Law",
+      "Labor and Employment Law"
+    ],
+    "lawyer_count": 1,
+    "firm_description": "Peraino Malinowski LLP is a full-service real estate and construction law firm representing the most prominent developers and real estate owners in and around New York City in a variety of real estate and construction transactions and disputes. The firm has collectively taken part in transactions exceeding 10 billion dollars in real estate and construction transactions.",
+    "notable_facts": [
+      "Recognized in the 2025 Chambers USA Spotlight Guide.",
+      "Handles RPAPL \u00a7881 proceedings involving neighbor access and construction disputes."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Simon Malinowski",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew Neiman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

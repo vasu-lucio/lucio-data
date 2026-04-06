@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "King & Wood Mallesons",
+    "website": "https://kwm.com",
+    "city": "Hong Kong",
+    "practice_areas": [
+      "Banking & Finance",
+      "Compliance & Regulatory",
+      "Corporate/M&A",
+      "Digital Economy",
+      "Dispute Resolution and Litigation",
+      "Insurance",
+      "Intellectual Property (IP)",
+      "Employment",
+      "Private Equity & Funds",
+      "Debt Restructuring",
+      "Securities & Capital Markets",
+      "Taxation"
+    ],
+    "lawyer_count": 3000,
+    "firm_description": "King & Wood Mallesons is a leading international law firm from Asia, underpinned by world class capability. With over 3000 lawyers in 26 global locations, the firm delivers incisive counsel, helping clients manage risk and enable their growth.",
+    "notable_facts": [
+      "The firm was founded in 1832.",
+      "King & Wood Mallesons has established 26 offices globally.",
+      "The firm has over 490 partners and more than 2,000 professionals in China."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sue Kench",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Agnes Chan",
+          "title": "Partner",
+          "email": "dubai@me.kwm.com",
+          "phone": "852-3443-1000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Sidney Qin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Schaub",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hayden Flinn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

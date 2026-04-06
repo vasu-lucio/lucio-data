@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Frenkel Lambert Weiss Weisman & Gordon, LLP",
+    "website": "https://www.flwlaw.com/",
+    "city": "Bay Shore",
+    "practice_areas": [
+      "Insurance Law",
+      "Mortgage Banking",
+      "Real Estate Finance",
+      "Commercial Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Frenkel Lambert Weiss Weisman & Gordon, LLP represents Financial Institutions, Insurance and Bonding companies, corporations and businesses in need of legal representation. The firm's 3 primary practice groups are Insurance Law, Mortgage Banking & Real Estate Finance, and Commercial Law.",
+    "notable_facts": [
+      "Firm was established in 1960",
+      "AV rated law firm"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Frenkel",
+        "title": "Managing Partner, CEO",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Victor Medrano",
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa Gordon",
+          "title": "Managing Partner \u2013 Real Estate Financing Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Lambert",
+          "title": "Partner \u2013 Insurance Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd E. Weisman",
+          "title": "Partner \u2013 Insurance Defense",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

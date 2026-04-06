@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Ruchelman P.L.L.C.",
+    "website": "https://www.ruchelaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "International Tax Law",
+      "Cross-border Transactions",
+      "Transfer Pricing",
+      "FATCA Compliance",
+      "Inbound Investment"
+    ],
+    "lawyer_count": 7,
+    "firm_description": "Ruchelman P.L.L.C. provides a wide range of tax planning and legal services to clients including non-U.S. individuals and foreign corporations operating or investing in the U.S., foreign financial institutions doing business in the U.S. through branches, and U.S. individuals, corporations, and financial institutions operating or investing abroad. The firm focuses on cross-border transactions and assists clients in addressing international reporting and compliance issues such as F.A.T.C.A.",
+    "notable_facts": [
+      "Listed in Chambers USA New York Spotlight Guide 2026",
+      "Founded in 1989",
+      "Offers bespoke cross-border tax planning and related legal services.",
+      "Clients include non-U.S. individuals, foreign corporations, and financial institutions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Galia Antebi",
+        "title": "Managing Member",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Gilda Bueno",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Stanley C. Ruchelman",
+          "title": "Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nina Krauthamer",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Simon H. Prisk",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Neha Rastogi",
+          "title": "Member",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Reid Collins & Tsai LLP",
+    "website": "https://reidcollins.com/",
+    "city": "Austin",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Financial Disputes",
+      "Financial Fraud",
+      "Ponzi Scheme-related Cases",
+      "Cross-Border Disputes",
+      "Professional-Liability Matters"
+    ],
+    "lawyer_count": 43,
+    "firm_description": "Reid Collins & Tsai LLP is a boutique trial firm that practices complex litigation nationally and internationally. They represent trustees, liquidators, foreign governments, international banks, individuals, and companies from the U.S. and abroad in federal and state courts across the country.",
+    "notable_facts": [
+      "The firm offers flexible and sensible fee arrangements.",
+      "Their trial attorneys include a team of former federal prosecutors, judicial law clerks, and forensic accountants.",
+      "Lisa S. Tsai became Managing Partner of the firm on September 23, 2021."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lisa S. Tsai",
+        "title": "Managing Partner",
+        "email": "ltsai@reidcollins.com",
+        "phone": "512-647-6102",
+        "linkedin_url": "https://www.lawdragon.com/lawyers/reid-collins-tsai/lisa-s-tsai"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Roman Kheyfets",
+        "title": "Chief Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Aaron Brown",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Barbara Whiten Balliette",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "J Benjamin King",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

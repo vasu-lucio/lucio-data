@@ -1,0 +1,67 @@
+{
+  "firm_data": {
+    "firm_name": "Brithem LLP",
+    "website": "https://brithem.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation"
+    ],
+    "lawyer_count": 9,
+    "firm_description": "Brithem LLP is a boutique litigation firm focused on courtroom advocacy in matters of commercial and societal consequence. The firm is based in New York and was founded by Michael Bowe and Lauren Tabaksblat.",
+    "notable_facts": [
+      "The firm was launched in 2025 by Michael Bowe and Lauren Tabaksblat.",
+      "Brithem has 13 legal professionals at launch, including nine lawyers, two investigators, and two paraprofessionals.",
+      "The firm's name is derived from the Old Irish word for preeminent legal practitioners."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael J. Bowe",
+          "title": "Founding Partner",
+          "email": "mbowe@brithem.com",
+          "phone": "+1 646 653 9173",
+          "linkedin_url": "https://www.linkedin.com/in/michael-j-bowe-86a04419/"
+        },
+        {
+          "name": "Lauren Tabaksblat",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

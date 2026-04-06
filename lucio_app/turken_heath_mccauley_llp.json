@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Turken, Heath and McCauley, LLP",
+    "website": "https://www.thmllp.com/",
+    "city": "Armonk",
+    "practice_areas": [
+      "Medical Malpractice",
+      "General Liability",
+      "Toxic Tort",
+      "Environmental Law",
+      "Property Damage",
+      "Construction Litigation",
+      "9/11 Victim Compensation Fund Claims"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Turken, Heath and McCauley, LLP, is dedicated to providing quality legal representation to our clients in a cost-efficient manner. The firm also represents first responders and other survivors of the devastation of September 11, 2001, obtaining just compensation from the September 11th Victim Compensation Fund.",
+    "notable_facts": [
+      "The firm's litigation partners and associates have spent the vast majority of their legal careers zealously defending claims of medical malpractice, ordinary negligence and other tortious conduct.",
+      "The firm has successfully defended hospitals, industry and the professions in thousands of cases in the five boroughs of New York City, the counties of Westchester, Putnam, Dutchess, Rockland, Orange, Nassau and Suffolk, and in the Southern and Eastern federal district courts.",
+      "The firm's mission is to provide clients with effective, economically-sensitive legal services, including thoughtful advice and counseling for the reduction of financial risk and exposure, creative representation including the use of alternative dispute resolution, and thorough preparation and mission-driven focus in defense of legal actions and as advocates at trial."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Matthew J. McCauley",
+        "title": "Managing/Principal Partner",
+        "email": "mmccauley(a)turkenheath.com",
+        "phone": "(914) 363-6355",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Ramya Mathur",
+        "title": "Director of People and Firm Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason D. Turken",
+          "title": "Principal Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Regina Munster",
+          "title": "Partner, 9/11 Claims & Benefits Practice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christine Champey",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

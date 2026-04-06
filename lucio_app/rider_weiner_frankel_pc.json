@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Rider, Weiner & Frankel P.C.",
+    "website": "https://riderweiner.com/",
+    "city": "New Windsor",
+    "practice_areas": [
+      "Banking, Finance & Lending",
+      "Construction & Lien Law",
+      "Corporate Law",
+      "Employment, Labor Laws & Discrimination",
+      "Environmental Law & Land Use",
+      "Health & Healthcare Law",
+      "Litigation: General & Commercial",
+      "Municipal Law, Zoning & Development",
+      "Not-For-Profit Law",
+      "Real Estate: Commercial & Residential",
+      "Wills, Trusts & Estates"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Rider, Weiner & Frankel, P.C., is one of the preeminent commercial law firms in the Hudson Valley with roots tracing back to 1932. From business formation to mergers and acquisitions, real estate department to complex construction litigation, employment law and human resources, municipal law and estate planning, our attorneys have the experience you need.",
+    "notable_facts": [
+      "Firm was founded in 1932.",
+      "The firm has deep roots in the Mid Hudson region.",
+      "Represents the largest municipality in Orange County."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "M. Justin Rider",
+        "title": "Managing Partner",
+        "email": "jrider@riderweiner.com",
+        "phone": "845-790-9121",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Meyer J. Rider",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elliott M. Weiner",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David L. Rider",
+          "title": "Of Counsel",
+          "email": "drider@riderweiner.com",
+          "phone": "845-790-9118",
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles E. Frankel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark C. Taylor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "Euclid Transactional",
+    "website": "https://euclidtransactional.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Transactional Insurance",
+      "Representations and Warranties Insurance",
+      "Tax Liability Insurance",
+      "Contingent Liability Insurance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Euclid Transactional is a market-leading firm specializing in transactional insurance underwriting and claims handling. The firm provides underwriting services for representations and warranties, tax, contingent liability and other transactional insurance products.",
+    "notable_facts": [
+      "Over $8T deal value insured",
+      "Over 9,300 policies bound",
+      "Over $1B in claims paid",
+      "Founded in 2016"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Aina Acosta",
+        "title": "Chief Culture Officer",
+        "email": null,
+        "phone": "646-589-0988",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Sedi Asem",
+          "title": "Managing Director",
+          "email": null,
+          "phone": "917-675-3887",
+          "linkedin_url": null
+        },
+        {
+          "name": "Lila Ammeen",
+          "title": "Claims Analyst",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

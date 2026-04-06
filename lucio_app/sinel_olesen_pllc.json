@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Sinel & Olesen, PLLC",
+    "website": "https://nycbedsorelawyer.com",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice",
+      "Personal Injury",
+      "Elder Abuse",
+      "Wrongful Death",
+      "Bedsore Neglect",
+      "Nursing Home Neglect",
+      "Hospital Neglect",
+      "Bedsore Lawyer",
+      "Hospitals",
+      "Nursing Homes",
+      "Hospital Negligence",
+      "Medical Malpractice",
+      "General Liability"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Sinel & Olesen, PLLC is a law firm specializing in general liability, personal injury, medical malpractice, and bedsore lawsuits. They fight for victims of bedsore neglect and hold hospitals and nursing homes accountable.",
+    "notable_facts": [
+      "Over 5,000 bedsore clients served",
+      "Over 50 years of experience in personal injury",
+      "Specialize in bedsore cases arising from nursing home and hospital neglect",
+      "Founded in 1994"
+    ],
+    "technology_signals": [
+      "linkedin",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Elliot Sinel",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "1-212-268-2665",
+        "linkedin_url": "https://www.linkedin.com/in/elliot-sinel-14561b303"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Amanda J. Olesen",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 465-1000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Randi Sinel",
+          "title": "Director of Business Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Denise A. Dessel",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(212) 465-1000",
+          "linkedin_url": null
+        },
+        {
+          "name": "Janice Castro-Reynoso",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joseph Certa",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

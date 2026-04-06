@@ -1,0 +1,86 @@
+{
+  "firm_data": {
+    "firm_name": "Yapchanyk, Prezioso & Yang",
+    "website": "https://www.chubb.com/microsites/house-counsel/firms-locations/nyc/about-us-eustace-prezioso-yapchanyk-yang.html",
+    "city": "New York City",
+    "practice_areas": [
+      "Real estate litigation",
+      "Errors and omissions liability",
+      "Professional liability and malpractice",
+      "Directors and officers liability",
+      "Employment law",
+      "Personal injury and property defense"
+    ],
+    "lawyer_count": 16,
+    "firm_description": "Yapchanyk, Prezioso & Yang is House Counsel for Chubb, providing cost-effective, quality legal defense services. The firm represents the interests of Chubb insureds in matters litigated in Federal and New York State courts and administrative agencies.",
+    "notable_facts": [
+      "AV rated",
+      "Accredited Continuing Legal Education provider in the State of New York",
+      "Licensed by the New York and Connecticut Insurance Departments to teach continuing education courses for brokers"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christopher M. Yapchanyk",
+        "title": "Managing Attorney",
+        "email": "cyapchanyk@eustacelaw.com",
+        "phone": "(212) 612-4200",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard C. Prezioso",
+          "title": "Senior Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren S. Yang",
+          "title": "Supervising Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erica C. Holder",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Miles A. Linefsky",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

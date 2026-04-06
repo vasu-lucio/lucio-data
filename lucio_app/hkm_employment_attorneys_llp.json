@@ -1,0 +1,136 @@
+{
+  "firm_data": {
+    "firm_name": "HKM Employment Attorneys LLP",
+    "website": "https://hkm.com/",
+    "city": "Seattle",
+    "practice_areas": [
+      "Breach of Contract",
+      "Class Actions",
+      "Data Breach",
+      "Disability and Reasonable Accommodations",
+      "Discrimination",
+      "Employee Counseling",
+      "Employment Contracts",
+      "Ethics Investigation",
+      "Family Medical Leave Act",
+      "Fair Credit Reporting Act",
+      "Healthcare Workers",
+      "Hostile Work Environment",
+      "Non-Competes",
+      "Retaliation",
+      "Separation Agreements",
+      "Severance",
+      "Sexual Assaults",
+      "Sexual Harassment",
+      "Wage and Overtime",
+      "Whistleblower Claims",
+      "Wrongful Termination"
+    ],
+    "lawyer_count": 78,
+    "firm_description": "HKM Employment Attorneys LLP is a national employment law firm that represents individuals and workers in all aspects of employment law. They represent employees in all industries, and at all employment levels.",
+    "notable_facts": [
+      "Over $500 Million Obtained for Clients",
+      "Largest Plaintiff\u2019s Employment Law Firm",
+      "Attorneys Not Afraid of Any Company"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Amanda R. Crain",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Artemio Guerra",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Benjamin Ellis",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Cecilia N. Brennan Esq.",
+          "title": "Managing Partner - San Diego And Irvine Offices",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Claire Hunter",
+          "title": "Managing Partner - Denver",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Corey Asay",
+          "title": "Managing Partner - Cincinnati",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Kalish",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Hugh Barber",
+          "title": "Managing Partner, Trial Practice Division",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jermaine A. Walker (Jay)",
+          "title": "Managing Partner Of Atlanta And Birmingham Offices",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John Ziegelmeyer III",
+          "title": "Managing Partner (kansas City)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

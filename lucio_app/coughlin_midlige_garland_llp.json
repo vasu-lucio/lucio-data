@@ -1,0 +1,135 @@
+{
+  "firm_data": {
+    "firm_name": "Coughlin Midlige & Garland LLP",
+    "website": "https://cmg.law/",
+    "city": "Morristown",
+    "practice_areas": [
+      "Insurance",
+      "Litigation",
+      "Real Estate",
+      "Tax and Trusts and Estates",
+      "Commercial Litigation",
+      "Real Estate",
+      "Insurance and Reinsurance Litigation",
+      "Pharmaceutical Litigation",
+      "Product Liability",
+      "Environmental Law"
+    ],
+    "lawyer_count": 36,
+    "firm_description": "Coughlin Midlige & Garland LLP is a law firm based in Morristown, New Jersey. With two locations in the U.S., the firm practices law in many practice areas including insurance, litigation, real estate, tax and trusts and estates.",
+    "notable_facts": [
+      "Founded in 2004",
+      "Two office locations: Morristown, NJ and New York, NY"
+    ],
+    "technology_signals": [
+      "tyco",
+      "box",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Corbett",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Coughlin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Adams",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lorraine Armenti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Suzanne Midlige",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patrick Florentino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Cohn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Cantarutti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Garland",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

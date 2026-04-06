@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Roach & Lin, P.C.",
+    "website": "https://roachlawfirm.com",
+    "city": "Syosset",
+    "practice_areas": [
+      "Foreclosure",
+      "Bankruptcy",
+      "Evictions",
+      "REO Sales",
+      "Loss Mitigation",
+      "Litigation"
+    ],
+    "lawyer_count": 20,
+    "firm_description": "Roach & Lin, P.C. is a New York law firm with over 40 years of experience in default mortgage services, representing creditors in foreclosure, bankruptcy, eviction and related matters. The firm provides personal service and creative approaches to assist Mortgage Servicers and Investors.",
+    "notable_facts": [
+      "Established in 1979",
+      "Ranked among Long Island's top law firms by Long Island Business News",
+      "Carries a minority-owned designation"
+    ],
+    "technology_signals": [
+      "Tech Stack: c"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Peter Roach",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "En-Chia Anna Lin",
+          "title": "Partner",
+          "email": "info@roachlin.com",
+          "phone": "516 938 3100",
+          "linkedin_url": null
+        },
+        {
+          "name": "Nicholas Perciballi",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

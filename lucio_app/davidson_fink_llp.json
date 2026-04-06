@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Davidson Fink LLP",
+    "website": "https://davidsonfink.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Commercial Legal Services"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Davidson Fink LLP is a commercial oriented law firm with a wide range of clients--from large financial institutions to private clients and family-owned businesses. Our firm is committed to providing high-quality legal services to our clients in a cost-effective manner.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Robert Galbraith, JR.",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Thomas Fink",
+          "title": "Retired",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "S. Gerald Davidson",
+          "title": "Retired",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Scott Sydelnik",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Adiutori",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leslie Kernan",
+          "title": "managing partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

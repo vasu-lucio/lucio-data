@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Cannon Heyman & Weiss LLP",
+    "website": "https://chwattys.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Affordable Housing",
+      "Community Development",
+      "Municipal Finance",
+      "Tax Credit Syndication"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Cannon Heyman & Weiss, LLP is a boutique affordable housing & community development law firm committed to providing high-quality legal representation to all segments of the affordable housing industry and community development. They are known for their responsiveness, effectiveness, and creativity.",
+    "notable_facts": [
+      "Founded in 2001",
+      "Located in Albany and Buffalo, NY",
+      "Specializes in public and private financing transactions"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Milissa Acquard",
+        "title": "Chief Administrative Officer (CAO)",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven S. Heyman",
+          "title": "Founding Partner",
+          "email": "sheyman@chwattys.com",
+          "phone": "518-807-0203",
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason Yots",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eamon Kelleher",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lauren Gannon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

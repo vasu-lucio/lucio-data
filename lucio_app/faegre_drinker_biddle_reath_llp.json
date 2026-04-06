@@ -1,0 +1,63 @@
+{
+  "firm_data": {
+    "firm_name": "Faegre Drinker Biddle & Reath LLP",
+    "website": "https://faegredrinker.com/",
+    "city": "Other",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 1200,
+    "firm_description": "Faegre Drinker Biddle & Reath LLP is a full-service law firm handling complex transactions, litigation, and regulatory work for multinational businesses. They provide services to clients and understand their priorities, bring fresh ideas that work, and deliver excellence without arrogance.",
+    "notable_facts": [
+      "The firm has 1,200 experienced attorneys and consulting professionals.",
+      "Faegre Drinker Consulting provides public policy, regulatory and technical services.",
+      "Additional services include Tritura Information Governance and Innovative Health Strategies."
+    ],
+    "technology_signals": [
+      "The firm is leveraging AI, automation, and data analytics to transform legal service delivery.",
+      "The firm established a client-focused, award-winning digital innovation center in Pittsburgh, Pennsylvania, deploying automation, generative and agentic AI and data analytics."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Gina Kastel",
+        "title": "Chair",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nolan Kurtz",
+        "title": "Chief Operating Officer",
+        "email": "nolan.kurtz@faegredrinker.com",
+        "phone": "+1 215 988 2775",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": "Shawn M. Swearingen",
+        "title": "Chief Innovation Officer",
+        "email": "shawn.swearingen@faegredrinker.com",
+        "phone": "+1 612 766 7264",
+        "linkedin_url": null,
+        "ai_notes": "Shawn Swearingen develops, champions and leads strategic innovation initiatives related to data science and analytics, client and practice technologies, and knowledge management."
+      },
+      "additional_contacts": [
+        {
+          "name": "Scott M. Angelo",
+          "title": "Chief Technology & Innovation Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

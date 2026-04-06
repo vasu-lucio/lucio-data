@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "YK Law LLP",
+    "website": "https://yklaw.us/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 36,
+    "firm_description": "YK Law LLP is a locally-oriented, globally positioned business law firm that provides legal guidance to both businesses and individuals. They leverage their local knowledge and global connections to help both business and individuals achieve their goals.",
+    "notable_facts": [
+      "Associated with Yingke International, one of China's leading law firms.",
+      "Part of the Yingke Global Network, the largest independent alliance of law firms in the world.",
+      "Founded in 2019"
+    ],
+    "technology_signals": [
+      "alm",
+      "juris",
+      "mycase",
+      "mailchimp",
+      "google analytics",
+      "hubspot",
+      "wechat",
+      "hubspot crm",
+      "clio",
+      "sendgrid",
+      "linkedin",
+      "salesforce",
+      "facebook",
+      "tiktok",
+      "legal files",
+      "blockchain",
+      "microsoft office",
+      "microsoft",
+      "well",
+      "visa"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Henry Li",
+          "title": "Partner & CEO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jiannan Zhang",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Hirshfield",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeb Werner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Austen Pell",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

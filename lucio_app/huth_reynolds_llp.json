@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Huth Reynolds LLP",
+    "website": "https://www.huthreynolds.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Investigations",
+      "Antitrust and Trade Regulation",
+      "Maritime and Freight Disputes",
+      "Transactional and Securities Litigation"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Huth Reynolds LLP focuses on major litigations, investigations, and bet-the-company matters for public and private companies. They litigate and try cases in federal and state courts and guide clients through complex areas of U.S. law.",
+    "notable_facts": [
+      "Founded in 2016",
+      "Represented Illumina, Inc. in the Federal Trade Commission's challenge of Illumina's acquisition of GRAIL.",
+      "Represented a third-party publisher in the U.S. Department of Justice's challenge of Penguin Random House's proposed acquisition of Simon & Schuster."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Karl Huth",
+          "title": "Partner and Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Reynolds",
+          "title": "Partner and Co-Founder",
+          "email": null,
+          "phone": "(646) 872-9353",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gregory Crapanzano",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James Fribley",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lee Hill",
+          "title": "Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

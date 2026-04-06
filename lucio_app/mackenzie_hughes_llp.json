@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "Mackenzie Hughes LLP",
+    "website": "https://www.mackenziehughes.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Business Transactions",
+      "Estate Planning",
+      "Civil Litigation",
+      "Appellate Practice",
+      "Wealth Management"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mackenzie Hughes LLP offers legal services with knowledge, experience and a straightforward approach. The attorneys meet legal needs in matters including business transactions, estate planning, and all kinds of civil litigation.",
+    "notable_facts": [
+      "The firm has been a leader in Upstate New York's legal community since 1884.",
+      "Alumni include a Majority Leader of the New York State Senate, a Chief Judge of our State's Highest Court, and a presently sitting U.S. District Court Judge."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Richard C. Engel",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "315-233-8220",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Christopher Daniel",
+        "title": "Director of Finance and Administration",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Clayton H. Hale, Jr.",
+          "title": "Partner and Co General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ami S. Longstreet",
+          "title": "Partner and Co General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John M. Nichols",
+          "title": "Partner",
+          "email": null,
+          "phone": "315-233-8305",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

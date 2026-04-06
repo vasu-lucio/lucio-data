@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Riker Danzig",
+    "website": "https://riker.com/",
+    "city": "Morristown",
+    "practice_areas": [
+      "Alternative Dispute Resolution",
+      "Appellate Law Strategies",
+      "Bankruptcy & Corporate Restructuring",
+      "Cannabis Law",
+      "Class Action Litigation Practice",
+      "Closely-held Businesses",
+      "Commercial Litigation",
+      "Construction Law",
+      "Corporate Law",
+      "Corporate Trust Law",
+      "Cybersecurity & Data Privacy",
+      "Digital Assets and Blockchain Technology",
+      "Eminent Domain Law",
+      "Employee Benefits and Executive Compensation",
+      "Environmental Law",
+      "Estate Planning & Administration",
+      "Family Law",
+      "Financial Services",
+      "Governmental Affairs",
+      "Healthcare Law",
+      "Insurance and Reinsurance Law",
+      "Intellectual Property",
+      "Labor & Employment Law",
+      "Lending Law",
+      "Loan Workout",
+      "Mergers & Acquisitions/Private Equity",
+      "Nonprofit and Tax-Exempt Organizations",
+      "Probate Litigation",
+      "Products Liability, Toxic Tort and Mass Tort",
+      "Professional Liability Defense",
+      "Public Utilities Law",
+      "Real Estate Law",
+      "Securities Litigation, Arbitration, Regulation and Investigations",
+      "Tax Law",
+      "Title Insurance",
+      "White Collar Criminal Defense and Investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Riker Danzig LLP is a full-service law firm that has served the business community for 140 years. Riker Danzig and our attorneys are regularly recognized by Best Lawyers, Chambers USA, and U.S. News - Best Lawyers \"Best Law Firms\" with top honors.",
+    "notable_facts": [
+      "Named a NJ \u201cPowerhouse Law Firm\u201d by Law360 for 2025",
+      "Has offices in Morristown, Trenton and Midtown Manhattan"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kelly Crawford",
+          "title": "Co-Chair",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Barrera",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steve Senior",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

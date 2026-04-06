@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Family Legal Care",
+    "website": "https://familylegalcare.org/",
+    "city": "New York City",
+    "practice_areas": [
+      "Family Law",
+      "Child Custody",
+      "Child Support",
+      "Orders of Protection",
+      "Paternity"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Family Legal Care provides legal assistance and resources to families navigating the family court system in New York City. They offer support through lawyers, advocates, and various programs.",
+    "notable_facts": [
+      "Offers assistance to pro se litigants in Family Court.",
+      "Provides bilingual staff attorneys.",
+      "Focuses on fair and equal access to justice."
+    ],
+    "technology_signals": [
+      "Uses Salesforce for data administration."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Clara Mohagen",
+        "title": "Salesforce and Data Administrator",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nathalie Gonz\u00e1lez",
+          "title": "Chief Program Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sarah Nolan",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristin Pulkkinen",
+          "title": "Chief Development and External Affairs Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Stadmeyer",
+          "title": "Director of Legal Resources and Digital Justice",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

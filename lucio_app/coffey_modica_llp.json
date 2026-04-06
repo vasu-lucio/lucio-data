@@ -1,0 +1,103 @@
+{
+  "firm_data": {
+    "firm_name": "Coffey Modica LLP",
+    "website": "https://coffeymodica.com/",
+    "city": "Tarrytown",
+    "practice_areas": [
+      "Insurance Defense",
+      "Liability Defense",
+      "Excess Property and Casualty Claims",
+      "Medical Malpractice",
+      "Nursing and Long-Term Care Litigation",
+      "Construction and Labor Law Disputes",
+      "Professional Liability",
+      "Business Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Coffey Modica LLP is a litigation and appellate firm representing insurers, businesses, municipalities, and professional industries in high-exposure and technically challenging matters. They focus on delivering complete solutions for complex litigation with clarity, efficiency, and courtroom strength.",
+    "notable_facts": [
+      "The firm's attorneys have collectively handled more than 500 jury trials.",
+      "The firm was founded in 2021.",
+      "The firm has offices in New York, Connecticut, Florida and New Jersey"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Maxwell Bottini",
+        "title": "Firm Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael W. Coffey",
+          "title": "Founding Partner",
+          "email": "mcoffey@coffeymodica.com",
+          "phone": "914-221-6502",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Modica",
+          "title": "Founding Partner",
+          "email": "rmodica@coffeymodica.com",
+          "phone": "212-827-4501",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Evan H. Echenthal",
+          "title": "Managing Partner GA",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan E. Bryson",
+          "title": "Managing Partner CT",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard A. Jarolem",
+          "title": "Managing Partner FL",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Mooney",
+          "title": "Managing Partner NY",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

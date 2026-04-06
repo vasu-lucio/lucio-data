@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Day Pitney LLP",
+    "website": "http://daypitney.com/",
+    "city": "Hartford",
+    "practice_areas": [
+      "Trust & Estates",
+      "Corporate & Business Law",
+      "Litigation",
+      "Intellectual Property & Technology",
+      "Energy Law",
+      "Environmental Law",
+      "Real Estate"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Day Pitney LLP empowers businesses and private clients to navigate complex landscapes while fostering stability and growth. The firm offers comprehensive legal services.",
+    "notable_facts": [
+      "Day Pitney has 17 attorneys who are Fellows of The American College of Trust and Estate Counsel (ACTEC).",
+      "Kritika Bharadwaj has been named to Lawdragon\u2019s 100 Leading Global AI & Legal Tech Advisors list for the third consecutive year."
+    ],
+    "technology_signals": [
+      "Kritika Bharadwaj is a Technology Partner at the firm, indicating a focus on technology and AI."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory A. Hayes",
+        "title": "Managing Partner",
+        "email": "gahayes@daypitney.com",
+        "phone": "(203) 977-7365",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Elizabeth A. Alquist",
+          "title": "Partner",
+          "email": "eaalquist@daypitney.com",
+          "phone": "(860) 275-0137",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael P. Byrne",
+          "title": "Partner",
+          "email": "mpbyrne@daypitney.com",
+          "phone": "(203) 977-7349",
+          "linkedin_url": null
+        },
+        {
+          "name": "Namita Tripathi Shah",
+          "title": "Partner",
+          "email": "ntshah@daypitney.com",
+          "phone": "(860) 275-0132",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kritika Bharadwaj",
+          "title": "Technology Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

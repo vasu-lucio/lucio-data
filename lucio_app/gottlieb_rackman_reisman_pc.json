@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Gottlieb, Rackman & Reisman, P.C.",
+    "website": "https://grr.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Patent Law",
+      "Trademark Law",
+      "Copyright Law",
+      "Unfair Competition Law"
+    ],
+    "lawyer_count": 16,
+    "firm_description": "Gottlieb, Rackman & Reisman, P.C. is a full-service intellectual property boutique law firm that has been providing legal advice and guidance on all aspects of patent, trademark, copyright, unfair competition law and related areas for 50 years. It represents a wide variety of high-tech products-oriented clients, and many companies in fashion and related industries.",
+    "notable_facts": [
+      "Recognized as a Top Ranked Law Firm receiving a Martindale-Hubbell AV Preeminent Peer Review Rating.",
+      "Founded in 1970.",
+      "Represents second-generation clients."
+    ],
+    "technology_signals": [
+      "well",
+      "c",
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Jeffrey M. Kaden",
+        "title": "Co-Managing Attorney",
+        "email": "jkaden@grr.com",
+        "phone": "212-684-3900",
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "George Gottlieb",
+          "title": "Of Counsel",
+          "email": "ggottlieb@grr.com",
+          "phone": "212-684-3900",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mike Rackman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jim Reisman",
+          "title": "Of Counsel",
+          "email": "jreisman@grr.com",
+          "phone": "212-684-3900",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason R. Wachter",
+          "title": "Co-Managing Attorney and Principal",
+          "email": "jwachter@grr.com",
+          "phone": "646-813-3567",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

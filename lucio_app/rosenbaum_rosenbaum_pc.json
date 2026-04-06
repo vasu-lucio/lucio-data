@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Rosenbaum Personal Injury Lawyers",
+    "website": "https://www.rosenbaumnylaw.com/",
+    "city": "New York, NY",
+    "practice_areas": [
+      "Personal Injury",
+      "Premises Liability",
+      "Motor Vehicle Accidents",
+      "Mass Torts \u2013 Defective Drugs and Medical Devices",
+      "Product Liability",
+      "Construction Accidents",
+      "Medical Malpractice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Rosenbaum Personal Injury Lawyers represents injury victims in New York City and surrounding areas. They are committed to providing clients with aggressive and compassionate representation.",
+    "notable_facts": [
+      "The firm has recovered $22,000,000 for a woman who suffered a brain injury as a result of being hit by a vehicle.",
+      "The firm has recovered $7,000,000 for a child who was injured at birth.",
+      "The firm represents clients nationwide whose defective drugs and medical devices have harmed them."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Craig D. Rosenbaum",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Andrew G. Meier",
+          "title": "Partner | Senior Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erica Martini",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey Rosenbaum",
+          "title": "President and owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

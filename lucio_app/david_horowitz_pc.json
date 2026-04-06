@@ -1,0 +1,102 @@
+{
+  "firm_data": {
+    "firm_name": "David Horowitz PC",
+    "website": "https://www.davidhorowitzpc.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury",
+      "Auto Accidents",
+      "Medical Malpractice",
+      "Wrongful Death"
+    ],
+    "lawyer_count": null,
+    "firm_description": "David Horowitz P.C. is a client-focused practice that has been helping innocent victims achieve justice for over 65 years. They exclusively represent the victims of catastrophic personal injury, auto accidents, medical malpractice, and wrongful death.",
+    "notable_facts": [
+      "The firm has been helping victims obtain compensation for their injuries for nearly 50 years.",
+      "They have served multiple generations of the same family.",
+      "The firm offers free consultations."
+    ],
+    "technology_signals": [
+      "Cloudflare",
+      "WordPress",
+      "Google Analytics"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "David Horowitz",
+        "title": "President and Founder",
+        "email": null,
+        "phone": "(212) 684-3630",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Steven Horowitz",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "William Sanyer",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Roer",
+          "title": "Senior Associate Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/david-roer-1a89a779"
+        },
+        {
+          "name": "Joanna Plonska",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher Joslin",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Fischman",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gloria Drelich",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

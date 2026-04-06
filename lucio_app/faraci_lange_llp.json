@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Faraci Lange, LLP",
+    "website": "https://www.faraci.com/",
+    "city": "Rochester",
+    "practice_areas": [
+      "Personal Injury Law",
+      "Medical Malpractice",
+      "Wrongful Death Claims",
+      "Product Liability",
+      "Motor Vehicle Negligence",
+      "Toxic Tort",
+      "Vaccine Claims"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Faraci Lange, LLP is a personal injury law firm in Rochester and Buffalo. They offer legal representation to those injured in an accident.",
+    "notable_facts": [
+      "The firm employs a team-based approach, working with on-staff nurses and accident reconstructionists.",
+      "The firm was founded by Angelo G. Faraci and Paul K. Lange."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "John A. Falk",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Angelo G. Faraci",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul K. Lange",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Katrina L. Connelly",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jennifer L. Fay",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "http://www.faraci.com/meet-your-team/jennifer-l-fay/"
+        },
+        {
+          "name": "Matthew F. Belanger",
+          "title": "Senior Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "http://www.faraci.com/meet-your-team/matthew-f-belanger/"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

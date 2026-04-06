@@ -1,0 +1,71 @@
+{
+  "firm_data": {
+    "firm_name": "CoveyLaw",
+    "website": "https://covey.law/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Immigration",
+      "Entertainment",
+      "Nonprofit",
+      "Business Law",
+      "Arts & Entertainment Law"
+    ],
+    "lawyer_count": 24,
+    "firm_description": "CoveyLaw is a Brooklyn-based law firm that serves the legal needs of the domestic and international arts, nonprofit, and business communities. They handle immigration, entertainment, nonprofit, and business matters for musicians, actors, dancers, visual artists, record labels, talent agencies, theater companies, and professionals working throughout the creative and tech industries.",
+    "notable_facts": [
+      "CoveyLaw handles a wide variety of U.S. immigration issues for professionals in entertainment, sports, fashion, academics, and corporate contexts, as well as the needs of private individuals and families.",
+      "CoveyLaw\u2019s attorneys have expertise with a wide variety of legal issues related to media, entertainment, rights, and intellectual property, including streaming, copyrights, live and recording contracts, royalties, and trademarks.",
+      "CoveyLaw\u2019s Nonprofit & Business Group helps organizations and businesses innovate and adapt, providing counsel in nonprofit and corporate law, human resources and employment law, art law, trusts, estates and planned giving, and federal and state tax law."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Matthew Covey",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Will Spitz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

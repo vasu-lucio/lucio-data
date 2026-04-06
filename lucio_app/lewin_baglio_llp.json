@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Lewin & Baglio LLP",
+    "website": "https://lewinbaglio.com/",
+    "city": "Westbury",
+    "practice_areas": [
+      "Commercial Collections",
+      "Workers Compensation",
+      "No Fault",
+      "Other Collection Services"
+    ],
+    "lawyer_count": 2,
+    "firm_description": "Lewin & Baglio LLP is a law firm focused on helping medical providers successfully collect their unpaid bills, concentrating their resources on Worker's Compensation and No-Fault claims. They have over 15 years of experience in collecting, arbitrating, or litigating claims.",
+    "notable_facts": [
+      "Founded in 2005",
+      "The firm focuses on medical providers in the collection of their worker\u2019s compensation and no fault claims."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Lev Lewin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Baglio",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Arthur Wobig",
+          "title": "Director Of Client Relations And Workers' Comp Collection Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brendan Kearns",
+          "title": "Lead Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

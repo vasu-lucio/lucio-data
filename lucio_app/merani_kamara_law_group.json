@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "The Merani Kamara Law Group",
+    "website": "https://www.meranilaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Law",
+      "Appeals",
+      "General Practice & Litigation",
+      "International",
+      "No-Fault Insurance Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Merani Kamara Law Group, part of the Law Offices of Peter C. Merani, P.C., focuses on insurance law and litigation and features experienced trial litigation attorneys with proven track records. The firm has been providing high-quality legal representation and advice to its clients for over three decades.",
+    "notable_facts": [
+      "The firm has handled thousands of litigation matters on behalf of their clients and over 75,000 litigation matters for insurers alone.",
+      "The firm has offices in Long Island and Manhattan, New York, and meeting offices in Washington, D.C., and Irving, Texas.",
+      "The firm was founded in 1993 by Peter C. Merani as The Law Offices of Peter C. Merani, P.C."
+    ],
+    "technology_signals": [
+      "Custom IT system with case management and document management programs",
+      "Electronic billing programs"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Peter C. Merani",
+        "title": "Principal Partner",
+        "email": null,
+        "phone": "(212) 629-9690",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Samuel A. Kamara",
+        "title": "Senior Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael Zeleznock",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Kass",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

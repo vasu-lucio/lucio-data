@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Sobel Pevzner, LLC.",
+    "website": "https://sobelpevzner.com/",
+    "city": "Huntington",
+    "practice_areas": [
+      "Negligence Defense Litigation",
+      "Civil Law Suits",
+      "Workers\u2019 Compensation",
+      "Insurance Fraud"
+    ],
+    "lawyer_count": 16,
+    "firm_description": "Sobel Pevzner, LLC. is a defense firm with offices in Huntington, New York, New York City and Burlington, New Jersey, which for more than 25 years, has been engaged in all aspects of negligence defense litigation. The firm represents members of the insurance, hospitality, retail, transportation, habitation and construction industries.",
+    "notable_facts": [
+      "The firm started as the solo practice of Curtis Sobel in 1986.",
+      "The firm has offices in New York, New Jersey and Eastern Pennsylvania."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Goldman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Curtis Sobel",
+          "title": "Senior and Founding Member",
+          "email": "csobel@sobelpevzner.com",
+          "phone": "(631) 549-4677",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Bella Pevzner",
+          "title": "Partner",
+          "email": "bpevzner@sobelpevzner.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gary Robbins",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jyoti Halsband",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul W. Sonstein",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

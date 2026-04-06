@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "C.A. Goldberg, PLLC",
+    "website": "https://www.cagoldberglaw.com/",
+    "city": "Brooklyn",
+    "practice_areas": [
+      "Big Tech & Social Media Injuries",
+      "Victims' Rights",
+      "Abortion Provider Rights",
+      "Employment Discrimination & Harassment",
+      "Title IX",
+      "Defamation Defense"
+    ],
+    "lawyer_count": null,
+    "firm_description": "C.A. Goldberg, PLLC, is a law firm dedicated to justice for victims catastrophically injured by human maniacs and inhumane tech platforms. Since 2014, they\u2019ve been at the forefront shutting down some of the worst humans and platforms and have litigated some of the most influential cases reining in the tech companies that thought they were above the law.",
+    "notable_facts": [
+      "The firm represents victims and their families against tech platforms like Amazon, Grindr, Snap, Uber, Meta etc. for catastrophic injuries.",
+      "They defend and protect abortion providers who are being harassed and threatened for just doing their job.",
+      "They won a landmark 9-0 appeal in Amazon suicide cases on February 19, 2026."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Carrie A. Goldberg",
+        "title": "Founding Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/carrie-goldberg-04511a6"
+      },
+      "co_managing_partner": {
+        "name": "Naomi Leeds",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Laura Hecht-Felella",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Roxanne Rimonte",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katie McKay",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Jennifer S. Adams",
+    "website": null,
+    "city": "Williamsville",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "Law Offices of Jennifer Adams is a law firm located in Williamsville, New York.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert Meyers",
+          "title": "House Counsel II at Law Offices of Jennifer S. Adams",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/robert-meyers-b262ab27"
+        },
+        {
+          "name": "Michael Keith Gertzer",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shayna D Gorski",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

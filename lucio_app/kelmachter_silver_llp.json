@@ -1,0 +1,101 @@
+{
+  "firm_data": {
+    "firm_name": "Silver & Kelmachter, LLP",
+    "website": "https://www.silverkelmachter.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Construction Accidents",
+      "Birth-Related Injuries",
+      "Wrongful Death",
+      "Labor Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Silver & Kelmachter, LLP is a New York-based law firm focusing on justice and maximum compensation for injury victims. Their skilled trial lawyers have more than 30 years of experience and have obtained hundreds of millions of dollars in verdicts and settlements for their clients.",
+    "notable_facts": [
+      "Obtained hundreds of millions of dollars in verdicts and settlements.",
+      "Represents clients in New York City\u2019s five boroughs and statewide.",
+      "Partners are directly involved in all aspects of each case."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Leslie D. Kelmachter",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "212-661-8400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Perry D. Silver",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": "212-661-8400",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ariella M. Colman",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Aaron S. Halpern",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jennifer A. Fleming",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frances L. Garfinkel",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

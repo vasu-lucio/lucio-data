@@ -1,0 +1,74 @@
+{
+  "firm_data": {
+    "firm_name": "Goddard Law PLLC",
+    "website": "https://goddardlawnyc.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Litigation",
+      "Labor and Employment",
+      "Discrimination",
+      "Retaliation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Goddard Law is dedicated to representing employees and other individuals in all industries and at all employment levels. As advocates for workplace fairness, their passion and profession is to help advance the goals of employees and protect their rights against injustices at work.",
+    "notable_facts": [
+      "Founded in 2017",
+      "Recognized by Best Lawyers"
+    ],
+    "technology_signals": [
+      "clio",
+      "juris",
+      "well"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Megan Goddard",
+        "title": "Founding and Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Siobhan Klassen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsay Goldbrum",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

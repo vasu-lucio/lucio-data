@@ -1,0 +1,62 @@
+{
+  "firm_data": {
+    "firm_name": "Marshall & Taylor PLLC",
+    "website": "https://marshalltaylorlawfirm.com/",
+    "city": "Raleigh",
+    "practice_areas": [
+      "Divorce",
+      "Separation",
+      "Child Custody",
+      "Child Support",
+      "Property Division",
+      "Alimony",
+      "Spousal Support",
+      "Mediation & Arbitration",
+      "Domestic Violence Abuse",
+      "Neglect & Dependency",
+      "Estate Planning",
+      "Wills & Trusts"
+    ],
+    "lawyer_count": 13,
+    "firm_description": "Marshall & Taylor PLLC is a law practice that takes a safe and proactive approach. They specialize in family law issues such as divorce and separation.",
+    "notable_facts": [
+      "Takes a safe and proactive approach to the coronavirus situation.",
+      "Arranges court appearances, settlement conferences, and other litigation events remotely whenever possible."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Christian Jennings",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

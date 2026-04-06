@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Clayman Rosenberg Kirshner & Linder LLP",
+    "website": "https://clayro.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Criminal Law",
+      "Regulatory Law",
+      "Civil Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Clayman Rosenberg Kirshner & Linder LLP provides criminal, regulatory, and civil representation in state and federal courts nationwide. The firm's attorneys are skilled courtroom advocates who also possess the judgment and experience necessary to determine when quiet resolution is the best course.",
+    "notable_facts": [
+      "Many attorneys are former state and federal prosecutors.",
+      "The firm was among the first law practices ever founded in New York by a former federal prosecutor.",
+      "The firm emphasizes a collaborative approach, working together on shared matters."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Thomas Rotko",
+        "title": "Managing Partner",
+        "email": "rotko@clayro.com",
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Charles E. Clayman",
+          "title": null,
+          "email": "clayman@clayro.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Isabelle A. Kirshner",
+          "title": "Partner",
+          "email": "kirshner@clayro.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian D. Linder",
+          "title": "Partner",
+          "email": "linder@clayro.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth L. Rosenberg",
+          "title": "Partner",
+          "email": "rosenberg@clayro.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Effie Blassberger",
+          "title": "Partner",
+          "email": "blassberger@clayro.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

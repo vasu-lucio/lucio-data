@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "The New School",
+    "website": "http://newschool.edu",
+    "city": "New York",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The New School is a university in New York City with a commitment to academic freedom, tolerance, and experimentation.",
+    "notable_facts": [
+      "Joel Towers became the tenth President of The New School on August 1, 2024."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Joel Towers",
+        "title": "University President",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alex Perez",
+          "title": "Senior Vice President and General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Todd Drantch",
+          "title": "Deputy General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Claudette Espanol",
+          "title": "Assistant General Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Latha Poonamallee",
+          "title": "Professor of Management and Social Innovation & Chair of Management Programs",
+          "email": "poonamallee@newschool.edu",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

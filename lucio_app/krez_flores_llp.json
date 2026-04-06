@@ -1,0 +1,115 @@
+{
+  "firm_data": {
+    "firm_name": "Krez & Flores, LLP",
+    "website": "https://krezflores.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Krez & Flores, LLP is a Law Practice company headquartered in New York, United States.",
+    "notable_facts": [
+      "Edward A. Flores was a founding partner.",
+      "The firm employs 18 people."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Gregory Wilson",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Curtis Jackson",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Edward A. Flores",
+          "title": "Of Counsel",
+          "email": "eflores@krezflores.com",
+          "phone": "(212) 266-0400",
+          "linkedin_url": null
+        },
+        {
+          "name": "Karla R. Alston",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Larisa Girsh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan D. Goldsmith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Alan Taustine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew E. Schaefer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank A. Melendez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joel S. Ray",
+          "title": "Partner",
+          "email": "jray@krezflores.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "N. Jeffrey Brown",
+          "title": "Special Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

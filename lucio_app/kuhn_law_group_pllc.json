@@ -1,0 +1,81 @@
+{
+  "firm_data": {
+    "firm_name": "Kuhn Law Group PLLC",
+    "website": "www.kuhnlawgroup.com",
+    "city": "New York",
+    "practice_areas": [
+      "Entertainment Law",
+      "Intellectual Property",
+      "Copyright Disputes",
+      "Contract Disputes",
+      "Business Transactions"
+    ],
+    "lawyer_count": 25,
+    "firm_description": "Kuhn Law Group PLLC is a boutique law firm in New York City servicing the entertainment industry. The firm protects the work of composers and recording artists, as well as major record labels, music publishers, and independents, providing guidance and strategic planning to maximize clients\u2019 revenue streams and safeguard their intellectual property.",
+    "notable_facts": [
+      "The firm was founded in 2019.",
+      "Kuhn Law Group's clients include major record labels and music publishers, indie music publishers, content creators, music production companies, photographers, and producers.",
+      "Kuhn Law Group regularly handles copyright infringement claims and other intellectual property matters.",
+      "Kuhn Law Group uses 8 technology products and services including Sucuri, Google Fonts API, Nuxt.js"
+    ],
+    "technology_signals": [
+      "Sucuri",
+      "Google Fonts API",
+      "Nuxt.js",
+      "Vue.js",
+      "Node.js",
+      "Vuetify",
+      "Nginx",
+      "Apache"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Jonathan Kuhn",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "M. K.",
+          "title": "Founder/Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "A. G.",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

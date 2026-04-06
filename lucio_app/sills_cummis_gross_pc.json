@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Sills Cummis & Gross P.C.",
+    "website": "https://sillscummis.com/",
+    "city": "Newark",
+    "practice_areas": [
+      "Commercial Law"
+    ],
+    "lawyer_count": 180,
+    "firm_description": "Sills Cummis & Gross is a full-service commercial law firm focused on providing quality and effective legal services to a diverse range of clients. The Firm\u2019s client base extends from Fortune 500 companies to emerging growth businesses and foreign corporations conducting business within the United States.",
+    "notable_facts": [
+      "Founded in 1971",
+      "Offices in Newark, New York, and West Palm Beach, Florida",
+      "Aggressively represents the interests of national and international clients"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "R. Max Crane",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Arthur J. Sills",
+          "title": "Founder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Donald Grover",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "John F. Aiello",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Milvia Burns",
+          "title": "Chief Talent & Strategy Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

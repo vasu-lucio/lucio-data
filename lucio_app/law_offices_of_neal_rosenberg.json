@@ -1,0 +1,60 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Neal H. Rosenberg",
+    "website": "https://www.nyedlaw.com/index.html",
+    "city": "New York City",
+    "practice_areas": [
+      "Education Law"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "The Law Offices of Neal H. Rosenberg have been representing parents of students with disabilities for more than 35 years, offering comprehensive advocacy to children with special education needs and their parents.",
+    "notable_facts": [
+      "Founded in 1979",
+      "Represents parents of students with disabilities.",
+      "Provides advocacy for children with special education needs."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Neal H. Rosenberg",
+          "title": "Founder and Owner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Arthur B. Cordero",
+        "title": "Chief Operating Financial Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": []
+    }
+  },
+  "email": {}
+}

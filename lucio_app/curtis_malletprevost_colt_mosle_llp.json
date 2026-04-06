@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Curtis, Mallet-Prevost, Colt & Mosle LLP",
+    "website": "https://curtis.com/",
+    "city": "New York",
+    "practice_areas": [
+      "International Arbitration",
+      "Corporate",
+      "Construction",
+      "Appellate Litigation",
+      "Sovereign Representation"
+    ],
+    "lawyer_count": 517,
+    "firm_description": "Curtis, Mallet-Prevost, Colt & Mosle LLP is an international law firm that provides legal advice to clients across the globe. They offer expertise in areas such as international disputes and cross-border transactions.",
+    "notable_facts": [
+      "Founded in 1830, one of the first U.S. law firms to develop a truly international practice.",
+      "Recognized for Arbitration in Argentina and Mexico by Leaders League in 2026.",
+      "Obtained victory for Kuwait in ICSID Annulment Proceeding."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Claudia Frutos-Peterson",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Al Lynch",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kristen DiCerto",
+          "title": "Director of IT Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Teresa Graham",
+          "title": "Director of Conflicts and New Business Intake",
+          "email": null,
+          "phone": "917468XXXX",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kate Fairweather",
+          "title": "Director of Business Development and Marketing",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

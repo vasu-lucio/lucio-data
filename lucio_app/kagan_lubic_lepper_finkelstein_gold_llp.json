@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Kagan Lubic Lepper Finkelstein & Gold, LLP",
+    "website": "http://www.kll-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Cooperative and Condominium Law",
+      "Real Estate",
+      "Mitchell-Lama/HDFC Housing Law",
+      "Business Law",
+      "Litigation and Alternate Dispute Resolution"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kagan Lubic Lepper Finkelstein & Gold, LLP is a full-service AV\u2013rated law firm providing practical and legal counsel to clients for over forty years. A substantial portion of their practice is centered on real estate and cooperative and condominium law, including reconstruction/ Local Law compliance, landmark preservation, Mitchell-Lama/HDFC housing law, business law, litigation and alternate dispute resolution.",
+    "notable_facts": [
+      "The firm has specialized in cooperative and condominium law for over forty years.",
+      "They serve as general counsel to over 150 cooperatives and condominiums."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Jack E. Lepper",
+        "title": "Managing Partner",
+        "email": "jlepper@kll-law.com",
+        "phone": "212-252-0300",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Adam D. Finkelstein",
+          "title": "Partner",
+          "email": "afinkelstein@kll-law.com",
+          "phone": "212-252-0300",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald J. Gold",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Fran I. Lawless",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William J. Lubic",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Silverman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

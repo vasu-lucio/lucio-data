@@ -1,0 +1,85 @@
+{
+  "firm_data": {
+    "firm_name": "Farber Balsam Papain Ferrari LLP",
+    "website": "https://www.newyorktrial.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Real Estate",
+      "Litigation",
+      "Restaurant / Service Establishments",
+      "Business Solutions",
+      "Administrative / State Agency Advocacy",
+      "Trial Advocacy & Appeals"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Farber Balsam Papain Ferrari LLP is a boutique law firm located in midtown Manhattan in New York City. They uphold superior standards of client service through their commitment to exceptional legal advocacy and client satisfaction.",
+    "notable_facts": [
+      "The firm's attorneys have prior tenures serving as corporate general counsels.",
+      "The firm has earned a reputation for meaningful, cost-effective legal solutions."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael S. Farber",
+        "title": "Founding & Managing Partner",
+        "email": "mfarber@newyorktrial.com",
+        "phone": "212-972-7040",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Howard A. Balsam",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas T. Papain",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Ferrari",
+          "title": "Founding Partner",
+          "email": "mferrari@newyorktrial.com",
+          "phone": "212-972-7040",
+          "linkedin_url": null
+        },
+        {
+          "name": "Darya Kapulina",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

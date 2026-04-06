@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Martin Clearwater & Bell LLP",
+    "website": "https://mcblaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice",
+      "Healthcare Litigation",
+      "Employment and Labor",
+      "Toxic Tort and Product Liability",
+      "Professional Liability",
+      "Appellate Matters",
+      "General Liability",
+      "Dental Malpractice",
+      "Health Care Law",
+      "Nursing Home Law"
+    ],
+    "lawyer_count": 75,
+    "firm_description": "Martin Clearwater & Bell LLP is the oldest and largest medical defense firm in New York, specializing in all areas of professional liability, medical and healthcare litigation. They represent defendants before state and federal courts and tribunals, and in disciplinary investigations.",
+    "notable_facts": [
+      "The firm has been serving the professions for over 100 years.",
+      "Six of the senior partners have over 30 years\u2019 tenure with the Firm.",
+      "MCB is a New York\u2008State Accredited CLE\u2008provider."
+    ],
+    "technology_signals": [
+      "Invested in state-of-the-art, high-speed data and communications networks.",
+      "Uses a next-generation firewall and robust anti-virus and anti-malware software.",
+      "Virtual Desktop Infrastructure allows attorneys to securely connect to their virtual office remotely."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Michael F. Madden",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Courtney Lavin",
+        "title": "Director Of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Rosemarie Romano",
+          "title": "DIRECTOR OF OPERATIONS & HR",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacqueline D. Berger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter T. Crean",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bruce G. Habian",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

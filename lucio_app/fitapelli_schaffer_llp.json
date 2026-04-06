@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Fitapelli & Schaffer, LLP",
+    "website": "https://fslawfirm.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Employment Law",
+      "Wage and Hour Claims",
+      "Unpaid Overtime",
+      "Workplace Harassment",
+      "Discrimination"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Fitapelli & Schaffer, LLP is a boutique plaintiffs\u2019 Employment Law Firm based in New York City dedicated to combating abusive and illegal workplace practices. The firm handles large scale class and collective wage and hour claims for unpaid minimum wages, overtime, tips and commissions, and also handles individual unpaid wage, wrongful termination, retaliation, sexual harassment and discrimination claims on behalf of employees.",
+    "notable_facts": [
+      "Founded in 2008 by Joseph A. Fitapelli and Brian S. Schaffer.",
+      "The firm has taken on some of the largest corporations in the country including Bank of America, HSBC, KPMG, and Target.",
+      "The firm has recovered tens of millions of dollars for their employment law clients throughout the state of New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Joseph A. Fitapelli",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian S. Schaffer",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Frank Mazzaferro",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Armando Ortiz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Mitchell Sack",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

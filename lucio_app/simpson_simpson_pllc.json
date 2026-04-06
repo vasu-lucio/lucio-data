@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Simpson & Simpson, PLLC",
+    "website": "https://www.idealawyers.com",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Patent Law",
+      "Trademark Law",
+      "Copyright Law",
+      "Intellectual Property Law"
+    ],
+    "lawyer_count": 11,
+    "firm_description": "Simpson & Simpson is an intellectual property law firm that specializes in the practice of patent, trademark, and copyright law. They are passionate about helping clients protect their inventions, trademarks, and copyrights.",
+    "notable_facts": [
+      "The firm was founded in 1998.",
+      "They have offices in Buffalo, NY and West Palm Beach, FL.",
+      "They serve clients internationally, including in Canada, Sweden, Germany, the United Kingdom, China, and Japan."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Robert P. Simpson",
+          "title": "Registered Patent Attorney, Partner",
+          "email": "rsimpson@idealawyers.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ellen S. Simpson",
+          "title": "Trademark Attorney, Partner",
+          "email": "esimpson@idealawyers.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adelina E. Simpson",
+          "title": "Senior Associate",
+          "email": "asimpson@idealawyers.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert Sparks",
+          "title": "Registered Patent Agent, Of Counsel",
+          "email": "rsparks@idealawyers.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "S Peter Konzel",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

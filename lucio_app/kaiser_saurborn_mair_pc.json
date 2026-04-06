@@ -1,0 +1,79 @@
+{
+  "firm_data": {
+    "firm_name": "Kaiser Saurborn & Mair, P.C.",
+    "website": "https://www.ksmlaw.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Employment Law",
+      "Litigation",
+      "Whistleblower"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kaiser Saurborn & Mair, P.C. is an employment & litigation law firm representing executives and professionals. They handle high-stakes employment transitions, disputes and litigation.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Henry L. Saurborn Jr.",
+          "title": "Shareholder",
+          "email": "saurborn@ksmlaw.com",
+          "phone": "212-338-9100",
+          "linkedin_url": null
+        },
+        {
+          "name": "David N. Mair",
+          "title": "Shareholder",
+          "email": "mair@ksmlaw.com",
+          "phone": "212-338-9100",
+          "linkedin_url": null
+        },
+        {
+          "name": "William H. Kaiser",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel J. Kaiser",
+          "title": "Shareholder",
+          "email": "kaiser@ksmlaw.com",
+          "phone": "212-338-9100",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

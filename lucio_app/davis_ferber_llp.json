@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Davis & Ferber LLP",
+    "website": "https://davisferber.com/",
+    "city": "Islandia",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Nursing Home Abuse & Neglect",
+      "Motor Vehicle Accidents",
+      "Labor Relations",
+      "Employment Law",
+      "Divorce and Family Law",
+      "Estate Planning",
+      "Elder Law",
+      "Real Estate",
+      "Surrogate Court Proceedings",
+      "Civil Litigation"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Davis & Ferber, LLP is a New York-based law firm providing legal representation to clients throughout New York State. They are dedicated to achieving the best possible results for their clients with personal service and attention to detail.",
+    "notable_facts": [
+      "Steven B. Ferber has recovered hundreds of millions of dollars on his clients\u2019 behalf.",
+      "Steven B. Ferber has taken over 200 cases to verdict.",
+      "David A. Davis heads the Labor Relations and Employment Law Group."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David A. Davis",
+          "title": "Senior Partner",
+          "email": "ddavis@davisferber.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven B. Ferber",
+          "title": "Senior Partner",
+          "email": "sferber@davisferber.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Allison Davis-Sica",
+          "title": "Partner",
+          "email": "adavis@davisferber.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher S. Rothemich",
+          "title": "Partner",
+          "email": "crothemich@davisferber.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

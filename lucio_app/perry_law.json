@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Perry Law",
+    "website": "https://www.danyaperrylaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Criminal Matters",
+      "Government and Internal Investigations",
+      "Regulatory Inquiries",
+      "Civil Litigation",
+      "Appeals",
+      "Executive Employment Discrimination Disputes",
+      "White Collar Criminal Defense",
+      "Complex Commercial Litigation",
+      "Trial Advocacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Perry Law is a litigation boutique specializing in trial advocacy, executive employment discrimination disputes, white collar criminal defense and complex commercial litigation. The firm's attorneys have experience in federal and state government, private practice, and academia, representing companies and individuals in criminal matters, high-stakes government and internal investigations, regulatory inquiries, and appeals.",
+    "notable_facts": [
+      "The firm was founded by E. Danya Perry.",
+      "Perry Law prioritizes results instead of revenue.",
+      "The firm is a woman-owned law firm committed to creating opportunities for attorneys and staff who traditionally have been excluded from the legal industry."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "E. Danya Perry",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Kimberly Fleming",
+        "title": "Director Of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Peter Gwynne",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Joan Illuzzi",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander Nocks",
+          "title": "Managing Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

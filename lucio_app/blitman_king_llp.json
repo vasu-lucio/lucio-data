@@ -1,0 +1,132 @@
+{
+  "firm_data": {
+    "firm_name": "Blitman & King LLP",
+    "website": "https://bklawyers.com/",
+    "city": "Syracuse",
+    "practice_areas": [
+      "Labor Law",
+      "Employee Benefits",
+      "Employment Law",
+      "Individual Employment",
+      "Workplace Litigation",
+      "Union Labor",
+      "ERISA Compensation and Benefits",
+      "Arbitration",
+      "Contracts",
+      "Deferred Compensation",
+      "EEOC",
+      "Employee Benefits",
+      "Civil Rights",
+      "Collective Bargaining",
+      "Discrimination",
+      "Appellate",
+      "Finance"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Blitman & King LLP is a law firm with a national reputation for providing cutting edge practical advice in complicated areas of the law. They practice law at the highest level and serve clients with a level of commitment and success that has earned their attorneys numerous awards and professional recognition.",
+    "notable_facts": [
+      "The firm's Labor and Employment Practices date back to the 1930s.",
+      "The firm's Employee Benefits Practice pre-dates 1974."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Timothy Bauman",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Monica Heath",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Tokarsky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kenneth Wagner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jules L Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Daniel Brice",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nolan Lafler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rebecca Josefiak",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara Van Dyke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Nathaniel Lambright",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/blitman-&-king-llp"
+  },
+  "email": {}
+}

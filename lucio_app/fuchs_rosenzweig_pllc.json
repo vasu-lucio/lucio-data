@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "FUCHS ROSENZWEIG PLLC",
+    "website": "https://www.fuchsrosenzweig.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Insurance Defense",
+      "Contract Review",
+      "Commercial Litigation",
+      "Excess Insurance Coverage / Monitoring",
+      "Construction Accidents",
+      "Premises Liability & Property Damage Claims",
+      "Product Liability",
+      "First Party Litigation",
+      "Transportation Claims"
+    ],
+    "lawyer_count": null,
+    "firm_description": "FUCHS ROSENZWEIG PLLC is a team of attorneys committed to finding innovative solutions to clients' legal problems. The firm's practice includes the review, drafting, editing and negotiation of contracts.",
+    "notable_facts": [
+      "The firm was founded in January 2019.",
+      "The firm aims to deliver amazing service.",
+      "The firm is looking for an experienced Associate."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Cheryl Fuchs",
+        "title": "Senior Partner",
+        "email": "cheryl@frlawpllc.com",
+        "phone": "(646) 760-5444",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Doug Rosenzweig",
+        "title": "Senior Partner",
+        "email": "doug@frlawpllc.com",
+        "phone": "(646) 760-5445",
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Valerie Prizimenter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Theresa Dinh",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Loman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yashana McAuley-Parrish",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jessica Suleymanov",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

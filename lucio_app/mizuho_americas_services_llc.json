@@ -1,0 +1,108 @@
+{
+  "firm_data": {
+    "firm_name": "Mizuho Americas",
+    "website": "https://www.mizuhogroup.com/americas",
+    "city": "New York",
+    "practice_areas": [
+      "Capital markets",
+      "Securities",
+      "Corporate finance",
+      "Derivatives law",
+      "Sales and trading",
+      "Research",
+      "Banking",
+      "Regulatory issues",
+      "Municipal Markets",
+      "Futures + Options",
+      "Treasury Administration",
+      "Equity Research",
+      "Loan Sales & Trading",
+      "Fixed Income & Derivatives Sales",
+      "XVA Trading",
+      "Equities Operations",
+      "Community Relations",
+      "Human Resources",
+      "Information Technology",
+      "US Equities"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Mizuho Americas offers expertise and diverse perspectives, navigating the changing business landscape with a focus on clients and collaboration.",
+    "notable_facts": [
+      "Thousands of hours of volunteer service by the NYC office",
+      "Over $1M raised in annual charity walks",
+      "Mizuho Americas genuinely cares about its employees and embodies a culture of respect, collaboration and integrity.",
+      "Mizuho Americas prioritizes the health and safety of its employees."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Liz Ceisler",
+          "title": "Managing Director, Chief Human Resources Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Leo Jurynec",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dawn Yiannoullou",
+          "title": "Managing Director, Deputy CIO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Adam Hopkins",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Corino",
+          "title": "Managing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

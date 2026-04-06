@@ -1,0 +1,100 @@
+{
+  "firm_data": {
+    "firm_name": "Gair, Gair, Conason, Rubinowitz, Bloom, Hershenhorn, Steigman & Mackauf",
+    "website": "https://gairgair.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Construction Accidents",
+      "Product Liability",
+      "Wrongful Death"
+    ],
+    "lawyer_count": 51,
+    "firm_description": "Gair, Gair, Conason, Rubinowitz, Bloom, Hershenhorn, Steigman & Mackauf is a New York City-based personal injury law firm founded in 1919. They specialize in serious personal injury and general negligence cases, with a national reputation as \"counsel to the profession.\"",
+    "notable_facts": [
+      "The firm has recovered more than $5 billion on behalf of clients.",
+      "They have a track record of over 350 cases resulting in verdicts or settlements exceeding $1 million in the last 10 years.",
+      "The firm holds the record for the highest pain and suffering award in New York State history."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Ben Rubinowitz",
+        "title": "Managing Partner",
+        "email": "Unavailable",
+        "phone": "Unavailable",
+        "linkedin_url": "Unavailable"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Harry A. Gair",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Alex R. Bloom",
+          "title": "Associate",
+          "email": "abloom@gairgair.com",
+          "phone": "646-846-1414",
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert L. Conason",
+          "title": "Senior Partner (Deceased)",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard S. Hershenhorn",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter J. Saghir",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard M. Steigman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

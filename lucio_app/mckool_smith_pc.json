@@ -1,0 +1,70 @@
+{
+  "firm_data": {
+    "firm_name": "McKool Smith",
+    "website": "https://www.mckoolsmith.com/",
+    "city": "Dallas",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Intellectual Property Litigation",
+      "Bankruptcy",
+      "Insurance Recovery",
+      "White Collar Defense"
+    ],
+    "lawyer_count": 130,
+    "firm_description": "McKool Smith is a preeminent litigation and trial firm. They represent clients in complex commercial litigation, intellectual property, bankruptcy, insurance recovery, and white collar defense matters.",
+    "notable_facts": [
+      "Secured more VerdictSearch and The National Law Journal \u201cTop 100 Verdicts\u201d than any other law firm.",
+      "The firm has secured 14 nine-figure jury verdicts and 15 eight-figure jury verdicts."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Sochia",
+        "title": "Managing Principal",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Samuel F. Baxter",
+          "title": "Principal",
+          "email": null,
+          "phone": "903.923.9001",
+          "linkedin_url": null
+        },
+        {
+          "name": "Alan P. Block",
+          "title": "Principal",
+          "email": null,
+          "phone": "213.694.1054",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Hagelin Spencer LLC",
+    "website": "https://www.newyorkinsurancedefenselawyers.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Automobile Liability",
+      "Premises Liability",
+      "Insurance Coverage",
+      "No-Fault",
+      "Appellate Practice",
+      "Business and Commercial Litigation",
+      "Toxic Tort and Lead Paint Defense",
+      "Municipal Liability",
+      "Products Liability",
+      "Alternative Dispute Resolution",
+      "Motor Vehicle Litigation",
+      "Wrongful Death",
+      "Trucking And Transportation Defense",
+      "Slip-And-Fall",
+      "Dog Bites And Animal Liability",
+      "Liability Defense",
+      "Personal Counsel"
+    ],
+    "lawyer_count": 10,
+    "firm_description": "Hagelin Spencer LLC is a litigation-intensive and results-oriented law firm with substantial experience in all facets of litigation throughout New York State. They use a team-centric approach that values leadership, collaboration, and long-term client relationships.",
+    "notable_facts": [
+      "The firm has offices in Buffalo, Rochester, Syracuse, Garden City, and Jersey City, New Jersey.",
+      "Attorneys are recognized by Super Lawyers and Best\u2019s Insurance Attorneys.",
+      "The firm conducts firmwide attorney meetings daily to discuss individual cases and issues at no cost to their clients.",
+      "The firm does not charge for travel time."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Manager, Accounting",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael T. Hagelin",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean M. Spencer",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Megan F. Organek",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alex C. Betschen",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Keith D. Miller",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dawn Jacobs",
+          "title": "Manager, Accounting",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

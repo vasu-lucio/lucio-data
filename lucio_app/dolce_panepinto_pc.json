@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Dolce Panepinto, P.C.",
+    "website": "https://www.dolcepanepinto.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Personal Injury",
+      "Workers\u2019 Compensation",
+      "Construction Accidents",
+      "Social Security Disability",
+      "Unemployment Insurance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Dolce Panepinto, P.C. is a full-service personal injury firm created by, and for, workers, leveling the playing field for working families. Their team of experienced attorneys includes former laborers, an ironworker, labor organizers, and civil rights advocates.",
+    "notable_facts": [
+      "The firm works construction cases in Western New York.",
+      "They represent unions such as Local 210."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Frank J. Dolce",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Marc C. Panepinto",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sean E. Cooney",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward L. Smith, III",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anne M. Wheeler",
+          "title": "Partner",
+          "email": "awheeler@dolcefirm.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan M. Gorski",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

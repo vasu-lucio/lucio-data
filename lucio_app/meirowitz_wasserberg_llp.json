@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Meirowitz & Wasserberg, LLP",
+    "website": "https://www.samndan.com",
+    "city": "New York",
+    "practice_areas": [
+      "Mesothelioma",
+      "Accident Injury",
+      "Personal Injury",
+      "Medical Malpractice",
+      "Workplace Accidents",
+      "Product Liability",
+      "Motor Vehicle Collisions"
+    ],
+    "lawyer_count": 52,
+    "firm_description": "Meirowitz & Wasserberg, LLP, is a trial law firm dedicated to fighting for injured people, with a focus on personal attention and dedication to each client\u2019s case. They represent individuals and families, aiming to empower them against corporate malfeasance or injustice.",
+    "notable_facts": [
+      "The firm has recovered over $500 million in settlements and verdicts for its clients.",
+      "The firm was founded in 2011 with a mission to help victims injured at no fault of their own.",
+      "The firm has a multicultural team that speaks multiple languages including Spanish, Ukrainian, Turkish, Russian, and more."
+    ],
+    "technology_signals": [
+      "Utilizes advanced legal technologies and resources"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Samuel Meirowitz",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/mwinjurylaw"
+        },
+        {
+          "name": "Daniel Wasserberg",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Perry Shusterman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan Alvarez",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Bonnie Steinwolf",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kelley Burke",
+          "title": "Human Resources Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

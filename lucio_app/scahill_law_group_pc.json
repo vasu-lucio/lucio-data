@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Scahill Law Group P.C.",
+    "website": "https://scahillpc.com/",
+    "city": "Bethpage",
+    "practice_areas": [
+      "Automobile Litigation",
+      "Construction Litigation",
+      "Fraud Investigations",
+      "General Litigation",
+      "Labor Law Litigation",
+      "No-Fault Litigation",
+      "Insurance Coverage Litigation",
+      "Uninsured Motorist / Supplemental",
+      "Premises Liability",
+      "Appellate Practice"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "Scahill Law Group P.C. is a leading New York Litigation Law Firm dedicated to serving commercial insurers and self-insured corporations. They have grown to a staff of over 100 professionals, including more than 40 lawyers.",
+    "notable_facts": [
+      "The firm was founded in 1991 by Frank Scahill and John F. Picciano.",
+      "The firm has experience conducting fraud investigations and handling complex insurance coverage issues.",
+      "Scahill Law Group P.C. offers pro bono legal services to the U.S. Marine Garrison in Garden City and the U.S. Army Garrison at Fort Hamilton."
+    ],
+    "technology_signals": [
+      "The firm uses a custom-built case management system.",
+      "Attorneys leverage the latest online tools."
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Francis J. Scahill",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John F. Picciano",
+          "title": "Former FBI agent and Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Joseph Loughlin",
+          "title": "Litigation Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

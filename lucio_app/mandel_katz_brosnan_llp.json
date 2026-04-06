@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Mandel, Katz & Brosnan LLP",
+    "website": "https://mkbllp.com/",
+    "city": "Orangeburg Ny Ny",
+    "practice_areas": [
+      "Law Practice",
+      "banking",
+      "bankruptcy",
+      "corporate",
+      "trusts and estates",
+      "Distressed Debt",
+      "Finance",
+      "International",
+      "Asia",
+      "Asset Management"
+    ],
+    "lawyer_count": 14,
+    "firm_description": "Mandel Katz & Brosnan LLP is an international law firm dedicated to assisting clients in a wide variety of high-yield investment transactions, from secondary loan and bankruptcy / insolvency claims trading to structured asset disposition transactions, private equity investments and debtor-in-possession financing. With a fully integrated practice encompassing MK&B's offices in New York, Singapore and London, MK&B can assist clients wherever and whenever needed.",
+    "notable_facts": [
+      "MKB - Mandel, Katz & Brosnan is an international law firm.",
+      "They offer services such as secondary loan trading, bankruptcy/insolvency claims trading, structured asset disposition transactions, private equity investments, and debtor-in-possession financing.",
+      "The firm has offices in New York, Singapore, and London."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Kara Scheinmann Katz",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gary Day",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Deborah Dieterich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jacqui Allen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Allison Reich",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elizabeth Bilbao",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

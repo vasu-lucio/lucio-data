@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "Shanley Law Offices",
+    "website": "shanleylawoffices.com",
+    "city": "Oswego",
+    "practice_areas": [
+      "Labor Law",
+      "Employee Benefits",
+      "Employment Discrimination",
+      "Wrongful Termination",
+      "Wage and Hour Issues",
+      "Real Estate",
+      "Trust Funds"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Shanley Law Offices is a law firm that assists unions and their members in achieving good jobs, fair wages, and secure benefits. The firm provides legal services for working families.",
+    "notable_facts": [
+      "Represents the Carpenters Union.",
+      "Has a history of representing clients in federal and state courts across the country."
+    ],
+    "technology_signals": [
+      "Ubuntu",
+      "Apache"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel Shanley",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Desmond Lee",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alice Chen",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Yuliya Mirzoyan",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

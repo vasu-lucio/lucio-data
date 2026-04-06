@@ -1,0 +1,114 @@
+{
+  "firm_data": {
+    "firm_name": "Winkler Kurtz, LLP",
+    "website": "https://www.winklerkurtz.com/",
+    "city": "Port Jefferson Station",
+    "practice_areas": [
+      "Personal Injury",
+      "Family Law",
+      "Elder Law",
+      "Wills and Trusts",
+      "Real Estate"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Winkler Kurtz, LLP, established in 1987, is devoted to helping Long Islanders in areas of personal injury, family law, elder law, wills and trusts, and real estate. Their legal team provides quality services tailored to each individual\u2019s needs.",
+    "notable_facts": [
+      "Firm established in 1987.",
+      "Expanded into Estates, Wills and Trusts in 2005.",
+      "Richard D. Winkler has been named a New York Metro \u201cSuper Lawyer\u201d since 2013."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "James R. Winkler",
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "James Winkler",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sandy Kurtz",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard Winkler",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard D. Winkler",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.winklerkurtz.com/richard-winkler"
+        },
+        {
+          "name": "Anastasia V. Larios",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jason W. Hake",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Lindsey M. Albinski",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Janet L. O\u2019Hanlon",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

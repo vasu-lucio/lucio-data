@@ -1,0 +1,69 @@
+{
+  "firm_data": {
+    "firm_name": "Schindler Cohen & Hochman LLP",
+    "website": "https://www.schlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Complex Commercial Litigation",
+      "Financial and Securities Litigation",
+      "Art Law",
+      "Privacy/Data Security"
+    ],
+    "lawyer_count": 12,
+    "firm_description": "Schindler Cohen & Hochman LLP is a boutique law firm known for its litigation and art law practices. The firm represents a broad range of industries with an international client base.",
+    "notable_facts": [
+      "Founded in 1997",
+      "Represents leading investment banks, major hedge funds, companies, high net-worth individuals, galleries, museums, artists and art collectors"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Steven R. Schindler",
+        "title": "Managing Partner",
+        "email": "sschindler@schlaw.com",
+        "phone": "+1-212-277-6310",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Lisa C. Cohen",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jonathan L. Hochman",
+          "title": "Managing Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Katherine Wilson-Milne",
+          "title": "Contact",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

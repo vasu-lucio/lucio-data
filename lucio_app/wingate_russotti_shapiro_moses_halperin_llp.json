@@ -1,0 +1,125 @@
+{
+  "firm_data": {
+    "firm_name": "Wingate, Russotti, Shapiro, Moses & Halperin, LLP",
+    "website": "https://wrshlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Medical Malpractice",
+      "Construction Accident",
+      "Premises Liability",
+      "Wrongful Death"
+    ],
+    "lawyer_count": 33,
+    "firm_description": "Wingate, Russotti, Shapiro, Moses & Halperin, LLP is a New York-based law firm representing accident victims who have sustained injury due to the negligence of others. The firm is dedicated to helping each client on an individual level and thoroughly prepares every case for the courtroom.",
+    "notable_facts": [
+      "The firm has been representing clients for over 50 years.",
+      "They intentionally limit the number of cases they accept to ensure personalized attention.",
+      "The firm was founded in 1980."
+    ],
+    "technology_signals": [
+      "Google Ads Conversion Tracking",
+      "WordPress Super Cache",
+      "MySQL",
+      "Google Fonts API"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Clifford Shapiro",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jay Wechsler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Philip Russotti",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Erin Hurley",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Frank Lombardo",
+          "title": "Partner, Senior Trial Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan Lawlor",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Pardo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David Hoffman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Victor Goldblum",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael Zisser",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

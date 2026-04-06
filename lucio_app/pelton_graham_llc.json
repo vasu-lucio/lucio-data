@@ -1,0 +1,68 @@
+{
+  "firm_data": {
+    "firm_name": "Pelton Graham LLC",
+    "website": "https://peltongraham.com/",
+    "city": null,
+    "practice_areas": [
+      "employment law",
+      "personal injury law",
+      "consumer and employee class actions"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Pelton Graham LLC fights for workers\u2019 rights and are experts in all areas of employment law, personal injury law, and consumer and employee class actions.",
+    "notable_facts": [
+      "The firm has an international network of trusted law firms to assist with other types of cases.",
+      "They work under a contingent fee arrangement."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Brent E. Pelton",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Taylor B. Graham",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "McAloon & Friedman",
+    "website": "https://www.mcf-esq.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "Premises Liability",
+      "General Negligence Litigation",
+      "OPMC/Professional Licensing",
+      "Pre-Litigation Investigation",
+      "Appellate Services",
+      "Risk Management Counsel",
+      "Litigation Support"
+    ],
+    "lawyer_count": 40,
+    "firm_description": "McAloon & Friedman provides a full range of legal services related to the practice of medicine, with a focus on medical malpractice defense. They represent healthcare professionals and institutions throughout the New York metropolitan area.",
+    "notable_facts": [
+      "Ranked as a tier one firm for the defense of medical malpractice cases in U.S. News and World Report.",
+      "Serves as counsel to NYC Health + Hospitals and many professional liability insurers.",
+      "Many lawyers have been recognized with Martindale Hubble\u00ae AV ratings, ranked by their peers among the Best Lawyers in America\u00ae and elected as Super Lawyers."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stanley D. Friedman",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David Bohrer",
+          "title": "Partner",
+          "email": "davidbohrer@mcf-esq.com",
+          "phone": "(212) 331-0220",
+          "linkedin_url": null
+        },
+        {
+          "name": "Gina Bernardi Di Folco",
+          "title": "Appellate Partner",
+          "email": "ginadifolco@mcf-esq.com",
+          "phone": "(212) 331-0222",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

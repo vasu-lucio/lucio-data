@@ -1,0 +1,84 @@
+{
+  "firm_data": {
+    "firm_name": "Wollmuth Maher & Deutsch LLP",
+    "website": "https://www.wmd-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Litigation",
+      "Corporate",
+      "Employment",
+      "Bankruptcy"
+    ],
+    "lawyer_count": 74,
+    "firm_description": "Wollmuth Maher & Deutsch LLP is a NYC-based litigation, corporate, employment, and bankruptcy law firm providing creative, results-oriented, and cost-effective solutions tailored to the unique needs of particular cases and clients. Our cases and clients extend across the globe.",
+    "notable_facts": [
+      "The firm's lawyers have been recognized as leaders in their fields by independent ratings sources, including Chambers USA, Super Lawyers, and Martindale-Hubbell.",
+      "The firm represents clients' interests with tenacity and zeal."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "David Wollmuth",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Rory Deutsch",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Timothy Delange",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ronald Aranoff",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Thomas Ogden",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

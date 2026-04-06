@@ -1,0 +1,73 @@
+{
+  "firm_data": {
+    "firm_name": "LawrenceQueen",
+    "website": "https://www.lawrencequeen.com/",
+    "city": "Richmond",
+    "practice_areas": [
+      "Employment Law"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "LawrenceQueen is a Richmond-based law firm dedicated exclusively to employment law, representing workers who have suffered from wrongful termination, discrimination, harassment, or retaliation.",
+    "notable_facts": [
+      "The firm's attorneys are members of the National Employment Lawyer\u2019s Association, Virginia Employment Lawyer\u2019s Association, and Virginia Trial Lawyer\u2019s Association\u2019s Employment Law Section.",
+      "Barbara Queen was named 2021 Pro Bono Attorney of the Year by Cancer LINC."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Barbara Queen",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "804-409-8689",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Lori Gibson",
+        "title": "Office Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Lisa K. Lawrence",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ashley R. Passero",
+          "title": "Shareholder",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Passero",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

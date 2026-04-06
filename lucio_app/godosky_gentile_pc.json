@@ -1,0 +1,120 @@
+{
+  "firm_data": {
+    "firm_name": "Godosky & Gentile, P.C.",
+    "website": "https://godoskygentile.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Personal Injury",
+      "Work & Construction Accidents",
+      "Motor Vehicle Accidents",
+      "Premises Liability",
+      "Medical Malpractice",
+      "Nursing Home Abuse",
+      "Products Liability",
+      "Police Misconduct",
+      "Sexual Harassment",
+      "Civil and Commercial Disputes"
+    ],
+    "lawyer_count": 8,
+    "firm_description": "Godosky & Gentile, P.C. is a law firm serving the needs of injured clients throughout New York City and the tri-state area, providing expertise in personal injury, medical malpractice, and commercial disputes. The firm is known for meticulously preparing each case to win at trial and is regularly retained by attorneys and judges who face disciplinary actions.",
+    "notable_facts": [
+      "Represents members of the New York City Fire Department for injuries arising out of the September 11th attacks and its aftermath.",
+      "Regularly retained by attorneys and judges who face disciplinary actions.",
+      "Accepts less than 75 cases a year."
+    ],
+    "technology_signals": [
+      "clio"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Anthony P. Gentile",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert E. Godosky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David M. Godosky",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William A. Gentile",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jeffrey R. Brecker",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Pasquale V. Vairo",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Emily Kern",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "James King",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

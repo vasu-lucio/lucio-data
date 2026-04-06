@@ -1,0 +1,97 @@
+{
+  "firm_data": {
+    "firm_name": "Wuersch & Gering LLP",
+    "website": "https://wg-law.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Law Practice",
+      "International Business",
+      "Corporate and Securities",
+      "Intellectual Property",
+      "Litigation and Arbitration",
+      "Labor and Employment",
+      "Invest Management",
+      "Tax | Trust | Estates",
+      "Data Privacy"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Wuersch & Gering LLP is an international boutique firm dedicated to providing legal services to domestic and international clients who seek practical solutions for their legal challenges in the United States. The firm's experienced attorneys offer personalized attention and practical solutions for clients across a wide range of industries.",
+    "notable_facts": [
+      "The firm was founded in 1998.",
+      "The firm has a deep understanding of the differences between U.S. and foreign business practices and legal concepts.",
+      "Many of their attorneys are fluent in foreign languages, including German, French, Italian, Russian, and Spanish."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Daniel A. Wuersch",
+          "title": "Partner",
+          "email": "info@wg-law.com",
+          "phone": "212-509-5050",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thilo C. Agthe",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David T. Azrin",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jake Brown",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rowena Dungca",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

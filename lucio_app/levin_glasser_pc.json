@@ -1,0 +1,104 @@
+{
+  "firm_data": {
+    "firm_name": "Levin & Glasser, P.C.",
+    "website": "https://levinglasser.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Commercial Litigation",
+      "Real Estate",
+      "Construction Law",
+      "Business and Corporate Law",
+      "Family and Matrimonial Law",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The attorneys of Levin & Glasser, P.C. combine expertise in a variety of specialties including complex matters involving commercial litigation, real estate and construction law, business and corporate law, family and matrimonial law, and trusts and estates. We work collaboratively on behalf of our clients and always with a thoughtful approach to problem-solving.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "David G. Glasser",
+          "title": "Partner",
+          "email": "dglasser@levinglasser.com",
+          "phone": "212-867-3636, ext. 206",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven I. Levin",
+          "title": "Partner",
+          "email": "slevin@levinglasser.com",
+          "phone": "212-867-3636",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Victor Cohen",
+          "title": "Partner",
+          "email": "vcohen@levinglasser.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jay Ginsberg",
+          "title": "Partner",
+          "email": "jginsberg@levinglasser.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephen C. Greene",
+          "title": "Partner",
+          "email": "sgreene@levinglasser.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Douglas M. Lehman",
+          "title": "Partner",
+          "email": "dlehman@levinglasser.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "David J. Nathan",
+          "title": "Partner",
+          "email": "dnathan@levinglasser.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

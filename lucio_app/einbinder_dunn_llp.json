@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Einbinder Dunn Dimitri & Bayer LLP",
+    "website": "https://eddblaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Franchising",
+      "Litigation & Dispute Resolution",
+      "Business Law",
+      "Real Estate Law",
+      "Hospitality Law",
+      "Fashion Law",
+      "Trusts and Estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Einbinder Dunn Dimitri & Bayer LLP is a business law firm advising business owners on the legal aspects of creating, developing and sustaining a successful business. They offer excellent yet affordable legal services in a wide array of practice areas.",
+    "notable_facts": [
+      "The firm was founded in 1990.",
+      "The firm has a proven track record of delivering for its clients for more than 30 years.",
+      "The firm represents mid-size and larger companies, as well as small businesses and entrepreneurs, in the New York metropolitan area and nationally."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Michael Einbinder",
+        "title": "Founding Partner",
+        "email": "me@eddblaw.com",
+        "phone": "212-391-9500",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard Bayer",
+          "title": "Partner",
+          "email": "rbayer@eddblaw.com",
+          "phone": "212-391-9500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mackenzie L. Dimitri",
+          "title": "Partner",
+          "email": "mdimitri@eddblaw.com",
+          "phone": "212-391-9500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric A. Friedman",
+          "title": "Partner",
+          "email": "efriedman@eddblaw.com",
+          "phone": "212-391-9500",
+          "linkedin_url": null
+        },
+        {
+          "name": "Warren Friss",
+          "title": "Of Counsel",
+          "email": "wfriss@eddblaw.com",
+          "phone": "212-391-9500",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

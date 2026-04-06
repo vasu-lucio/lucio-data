@@ -1,0 +1,82 @@
+{
+  "firm_data": {
+    "firm_name": "MTA Long Island Rail Road",
+    "website": "https://www.mta.info/",
+    "city": "Jamaica",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": "The Metropolitan Transportation Authority (MTA) is North America\u2019s largest transportation network, serving a population of 15.3 million people across a 5,000-square-mile area surrounding New York City through its family of agencies: MTA New York City Transit, MTA Bus, Long Island Rail Road, Metro-North Railroad, MTA Bridges and Tunnels, and MTA Construction & Development.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Rafail Portnoy",
+        "title": "Chief Technology Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://theorg.com/org/metropolitan-transportation-authority/org-chart/rafail-portnoy"
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Catherine Rinaldi",
+          "title": "President, MTA Metro-North Railroad",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kelli Nicole Coughlin",
+          "title": "Attorney",
+          "email": null,
+          "phone": "(718) 558-7740",
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth Jason Blau",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Edward Michael Dumas",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sheryl Hope Levine",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

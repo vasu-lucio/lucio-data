@@ -1,0 +1,91 @@
+{
+  "firm_data": {
+    "firm_name": "Jacob Laufer, P.C.",
+    "website": "https://lauferlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "White-Collar Criminal Defense & Investigations",
+      "Commercial Litigation",
+      "Entertainment Law"
+    ],
+    "lawyer_count": 1,
+    "firm_description": "Jacob Laufer, P.C. is a boutique litigation firm located in the Financial District of New York City. For over 40 years, Jacob Laufer, P.C. has concentrated its practice on individual, institutional and corporate clients.",
+    "notable_facts": [
+      "The firm litigates cases at all levels of the federal and state courts.",
+      "The firm has broad experience conducting internal investigations on behalf of corporate clients.",
+      "Jacob Laufer has successfully argued before the Supreme Court of the United States."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Jacob Laufer",
+          "title": "Founder",
+          "email": "jlaufer@lauferlaw.com",
+          "phone": "212-422-8500",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Shulamis Peltz",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mark Ellis",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Akiva Goldberg",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Meryl Goldberg",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

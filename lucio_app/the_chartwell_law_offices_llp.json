@@ -1,0 +1,77 @@
+{
+  "firm_data": {
+    "firm_name": "The Chartwell Law Offices, LLP",
+    "website": "https://www.chartwelllaw.com/",
+    "city": "Miami",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Employment Law",
+      "Business Disputes",
+      "General Liability Defense",
+      "Healthcare",
+      "Professional Liability",
+      "Labor Relations",
+      "Insurance Coverage",
+      "Transportation",
+      "Bankruptcy",
+      "Insurance",
+      "Litigation",
+      "Personal Injury"
+    ],
+    "lawyer_count": 266,
+    "firm_description": "Chartwell Law defends employers, self-insureds, and insurance carriers in matters involving workers' compensation, employment law, business disputes and general liability defense. Chartwell Law is a nationally ranked litigation firm with more than 300 attorneys across nearly 40 offices coast-to-coast.",
+    "notable_facts": [
+      "Founded in 2002",
+      "Nationally ranked fast-growing civil litigation firm",
+      "Maintains a national presence while providing a boutique experience to clients",
+      "Chartwellian Charter guides firm culture",
+      "Named Founding Partner Charles (Chuck) Barreras as Managing Partner"
+    ],
+    "technology_signals": [
+      "Selected NetDocuments for intelligent document management to enhance efficiency",
+      "Leveraging cloud-based technology"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Charles (Chuck) Barreras",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Dana Bennett",
+        "title": "Chief Administrative Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Maor Levy",
+          "title": "Chief Information & Operations Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

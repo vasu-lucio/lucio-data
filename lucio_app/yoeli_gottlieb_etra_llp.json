@@ -1,0 +1,111 @@
+{
+  "firm_data": {
+    "firm_name": "Yoeli Gottlieb & Etra LLP",
+    "website": "https://www.yogolaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Medical Malpractice Defense",
+      "Tort Litigation",
+      "Premises and Construction Liability",
+      "Products Liability",
+      "Automobile Liability",
+      "Casualty",
+      "Liquor Liability",
+      "Insurance Coverage Litigation",
+      "Long Term Disability",
+      "Life and Medical Insurance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Yoeli Gottlieb & Etra LLP is a partnership that offers seasoned and experienced personal representation in cases involving medical issues, particularly the defense of medical malpractice actions. The firm also focuses on other areas of tort litigation and complex insurance coverage litigation.",
+    "notable_facts": [
+      "The firm was founded by Michael Yoeli and Richard J. Gottlieb.",
+      "Susan Etra joined the partnership in 2010."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Michael Yoeli",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 472-7270",
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard J. Gottlieb",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 472-7270",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan Etra",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 472-7270",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael L. Burke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Angela D. Vitali",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew E. Yoeli",
+          "title": "Partner",
+          "email": null,
+          "phone": "(212) 472-7270",
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryne Duchmann",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

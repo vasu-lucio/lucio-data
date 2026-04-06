@@ -1,0 +1,72 @@
+{
+  "firm_data": {
+    "firm_name": "Gerber Ciano Kelly Brady LLP",
+    "website": "http://gerberciano.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Insurance Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gerber Ciano Kelly Brady LLP is a full-service insurance law firm serving clients throughout New England. They have designed a frictionless, self-reinforcing system focused on client services, aligning their culture, structure, and processes with client success.",
+    "notable_facts": [
+      "The firm is committed to reducing costs and their environmental footprint by integrating virtually.",
+      "They utilize technology for simplification, efficiency, and automation.",
+      "The firm provides clients with 24/7/365 access to case information, reporting, and documents."
+    ],
+    "technology_signals": [
+      "Use of AI for due diligence and research",
+      "Computerized eDiscovery",
+      "Predictive technology and analytics software",
+      "Cloud-based technology tools"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "John J. Jablonski",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "+17163132082",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Kenneth L. Crooks",
+        "title": "Chief Operating Officer",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": "The firm employs and is building AI that can respond to legal questions in plain English. They use AI for contract review, due diligence, and legal research reduction."
+      },
+      "additional_contacts": [
+        {
+          "name": "Frank J. Ciano",
+          "title": "Partner",
+          "email": null,
+          "phone": "+19148302038",
+          "linkedin_url": null
+        },
+        {
+          "name": "William G. Kelly",
+          "title": "Founding Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

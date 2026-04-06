@@ -1,0 +1,94 @@
+{
+  "firm_data": {
+    "firm_name": "Gettinger Waldinger Monteleone Gushue & Hollis, LLP",
+    "website": "https://kiscolawfirm.com/",
+    "city": "Mount Kisco",
+    "practice_areas": [
+      "Real estate",
+      "Community association law",
+      "Litigation",
+      "Civil appeals",
+      "Business law",
+      "Estate planning",
+      "Elder law",
+      "Land use and zoning"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Gettinger Waldinger Monteleone Gushue & Hollis, LLP is a law firm that offers efficient and detailed legal services in Westchester County, focusing on real estate, community associations, and litigation.",
+    "notable_facts": [
+      "The firm represents clients throughout Westchester County and the lower Hudson Valley.",
+      "They work with individuals, directors, managers of condominiums, cooperatives, homeowners associations, managing agents, public companies, real estate developers, and small and large corporations."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Steven E. Waldinger",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": "https://www.linkedin.com/in/steven-e-waldinger-6206b99"
+        },
+        {
+          "name": "John H. Gettinger",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-515-2380",
+          "linkedin_url": null
+        },
+        {
+          "name": "Heather R. Gushue",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gregory A. Monteleone",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mona D. Shapiro",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

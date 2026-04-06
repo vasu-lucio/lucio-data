@@ -1,0 +1,112 @@
+{
+  "firm_data": {
+    "firm_name": "Law Offices of Fishman and Cabrera",
+    "website": "https://www.cna.com/claims/staff-counsel/melville",
+    "city": "Melville",
+    "practice_areas": [
+      "Workers' Compensation",
+      "Real Estate",
+      "Not for Profit",
+      "Healthcare",
+      "General Liability",
+      "Architects and Engineers"
+    ],
+    "lawyer_count": null,
+    "firm_description": "The Law Offices of Fishman and Cabrera serves as the Long Island and New York Staff Counsel for CNA insurance companies. They focus on areas such as Workers' Compensation, Real Estate, and General Liability.",
+    "notable_facts": [
+      "The firm is the Long Island and New York Staff Counsel for CNA insurance companies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Lori D. Fishman",
+        "title": "Lawyer responsible for the content of this website",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jacqueline Cabrera",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen M. Watson",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin P. Slattery",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan P. Pirog",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Orcel",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Marina Krikorian",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brian P. Flynn",
+          "title": "Attorney",
+          "email": "bpflynn(a)krklaw.com",
+          "phone": "(631) 577-2466",
+          "linkedin_url": null
+        },
+        {
+          "name": "A.G. Chancellor, III",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

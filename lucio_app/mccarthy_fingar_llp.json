@@ -1,0 +1,109 @@
+{
+  "firm_data": {
+    "firm_name": "McCarthy Fingar, LLP",
+    "website": "https://mccarthyfingar.com/",
+    "city": "White Plains",
+    "practice_areas": [
+      "Appellate Practice",
+      "Business Litigation",
+      "Charitable Gift Planning",
+      "Collaborative Law",
+      "Commercial Finance",
+      "Corporate and General Business",
+      "Exempt Organizations",
+      "Intellectual Property",
+      "Legal Malpractice",
+      "Matrimonial and Family Law",
+      "Medical Malpractice and Personal Injury",
+      "Mediation and Arbitration",
+      "Real Estate Transactions",
+      "Surrogate\u2019s Court Litigation",
+      "Taxation",
+      "Tax Certiorari",
+      "Trusts and Estates",
+      "Municipal Law & Land Use",
+      "Estate & Trust Litigation",
+      "Guardianship Practice",
+      "Commercial Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "McCarthy Fingar, founded in 1946, provides legal services to families and businesses in Westchester and the Metropolitan New York area. The firm's attorneys offer legal advice and legal representation in a wide variety of practice areas.",
+    "notable_facts": [
+      "Firm was founded in 1946.",
+      "The firm has been a leader in the legal and business community in Westchester County and beyond for over 70 years.",
+      "Former Justice Sondra M. Miller was Chief Counsel to the firm for many years."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Robert J. McCarthy",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Elmer Lee Fingar",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Susan Taxin Baer",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-385-1046",
+          "linkedin_url": "https://www.linkedin.com/in/susan-taxin-baer-7343291b"
+        },
+        {
+          "name": "Gail M. Boggio",
+          "title": "Partner",
+          "email": null,
+          "phone": "914-385-1026",
+          "linkedin_url": "https://www.linkedin.com/in/gail-boggio-8a15a017"
+        },
+        {
+          "name": "Kathleen Donelli",
+          "title": "Counsel",
+          "email": null,
+          "phone": "914-385-1055",
+          "linkedin_url": "https://www.linkedin.com/in/kathleen-donelli-88a41733"
+        }
+      ]
+    }
+  },
+  "email": {}
+}

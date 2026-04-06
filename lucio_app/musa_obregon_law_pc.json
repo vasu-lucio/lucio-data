@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Musa-Obregon Law PC",
+    "website": "https://www.musa-obregon.com/",
+    "city": "New York City",
+    "practice_areas": [
+      "Criminal Defense",
+      "Immigration Law",
+      "Personal Injury",
+      "Civil Rights"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Musa-Obregon Law PC provides legal assistance in the New York City and Queens areas, focusing on criminal defense and immigration law. The firm's founding attorney has received a client\u2019s choice award.",
+    "notable_facts": [
+      "The firm has a multi-cultural staff able to assist clients in multiple languages.",
+      "S. Michael Musa-Obregon is a former New York City prosecutor."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "S. Michael Musa-Obregon",
+        "title": "Managing Partner",
+        "email": "molawfirm@gmail.com",
+        "phone": "888-502-8461",
+        "linkedin_url": "https://www.linkedin.com/in/michaelmusaobregon"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": "Director of Operations",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Karl Ashanti",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter Kapitonov",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Silvia Schnitzer",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

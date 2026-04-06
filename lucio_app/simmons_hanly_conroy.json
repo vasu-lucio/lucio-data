@@ -1,0 +1,80 @@
+{
+  "firm_data": {
+    "firm_name": "Simmons Hanly Conroy",
+    "website": "https://www.simmonsfirm.com/",
+    "city": "Alton, Illinois",
+    "practice_areas": [
+      "Mesothelioma & Asbestos",
+      "Dangerous Drugs & Devices",
+      "Class Actions",
+      "Environmental",
+      "Personal Injury",
+      "Sexual Abuse"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Simmons Hanly Conroy is a national law firm committed to giving clients a strong voice to stand up for their rights. They have recovered billions of dollars in verdicts and settlements for thousands of clients harmed by corporate wrongdoing.",
+    "notable_facts": [
+      "The firm was founded in 1999 by John Simmons.",
+      "The firm has over 300 employees.",
+      "The firm has recovered over $11.7 billion in settlements and verdicts for clients nationwide."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Nicholas J. Angelides",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": "Lisa Nathanson Busch",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John Simmons",
+          "title": "Founder, Chairman",
+          "email": "[[email protected]]",
+          "phone": "618-693-3104",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Perry J. Browder",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Angelides",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

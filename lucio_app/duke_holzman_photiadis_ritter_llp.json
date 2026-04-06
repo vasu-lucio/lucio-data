@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Duke Holzman Photiadis & Ritter LLP",
+    "website": "https://dukeholzman.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Business and Corporate Law",
+      "Construction Law",
+      "Civil Litigation and Appellate Practice",
+      "Labor and Employment",
+      "Real Estate and Environmental",
+      "Personal Injury",
+      "Insurance Coverage",
+      "Estates and Trusts",
+      "Taxation"
+    ],
+    "lawyer_count": 18,
+    "firm_description": "Duke Holzman Photiadis & Ritter LLP is a law firm that has been providing legal services for over 50 years, offering a business objective approach in various industries. The firm provides responsive and effective solutions that uphold the trust our clients place in us.",
+    "notable_facts": [
+      "Founded in 1970",
+      "Offices in Buffalo, New York"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Charles C Ritter, Jr.",
+        "title": "Senior Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Gregory P. Photiadis",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Christopher M. Berloth",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "John D. Celani",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Dennis P. Cleary",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Patricia Gillen",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

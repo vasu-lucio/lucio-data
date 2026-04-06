@@ -1,0 +1,95 @@
+{
+  "firm_data": {
+    "firm_name": "Bernstein Liebhard LLP",
+    "website": "http://bernlieb.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Securities Fraud",
+      "Whistleblower",
+      "Antitrust",
+      "Consumer Fraud",
+      "Commercial Litigation",
+      "Drugs and Medical Devices",
+      "Professional Negligence",
+      "Sexual Harassment",
+      "Investigations",
+      "Appellate",
+      "Mass Torts",
+      "Corporate Governance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Bernstein Liebhard LLP represents individual and institutional clients in private and class action litigation. The firm was established in 1993 as a boutique law firm to represent investors and consumers in complex class action, corporate governance and individual actions throughout the United States.",
+    "notable_facts": [
+      "Recovered over $3.5 billion dollars for clients.",
+      "Named to The National Law Journal\u2019s \u201cPlaintiffs\u2019 Hot List\u2019 13 times.",
+      "Listed for the 15th consecutive year in The Legal 500."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Stanley D. Bernstein",
+          "title": "founding partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": "Newman Dube",
+        "title": "Director Of Operations \u2013Mass Torts",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Daniel Burke",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Laurence Hasson",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stephanie Beige",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bernstein-liebhard-llp",
+    "linkedin_size": "11-50"
+  },
+  "email": {}
+}

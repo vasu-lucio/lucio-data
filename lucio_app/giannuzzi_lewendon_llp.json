@@ -1,0 +1,88 @@
+{
+  "firm_data": {
+    "firm_name": "Giannuzzi Lewendon LLP",
+    "website": "https://gllaw.us/",
+    "city": "New York",
+    "practice_areas": [
+      "Consumer Products Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Giannuzzi Lewendon helps brands disrupt & transform the CPG industry, navigating companies through the unique legal and business challenges of building a great brand into a category leader. They represent better-for-you food, beverage, beauty, personal care and lifestyle brands.",
+    "notable_facts": [
+      "The firm was founded in 2011.",
+      "They advise disruptive, high-growth consumer product companies through every stage of their business lifecycle from inception through growth to acquisition.",
+      "Since 1993, founder and managing partner Nick Giannuzzi has worked with clients in over 500 financing transactions and in nearly 50 exits to strategics and PE funds."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Nicholas Giannuzzi",
+        "title": "Founder & Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ryan Lewendon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Anthony Iuzzolino",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Gabrielle Mcgonagle",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Maria Kolovos",
+          "title": "Executive Assistant",
+          "email": null,
+          "phone": "+5-********11",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mackenzie Hancock",
+          "title": "Office Manager",
+          "email": null,
+          "phone": "+5-********08",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

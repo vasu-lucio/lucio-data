@@ -1,0 +1,89 @@
+{
+  "firm_data": {
+    "firm_name": "Attea & Attea, P.C.",
+    "website": "https://www.attealaw.com/",
+    "city": "Hamburg",
+    "practice_areas": [
+      "Business Law",
+      "Estate Planning"
+    ],
+    "lawyer_count": 6,
+    "firm_description": "Attea & Attea, P.C. is a law firm serving Western New York & the Southern Tier for over 40 years. They are committed to providing legal guidance, care and representation to assist clients through almost any legal challenge.",
+    "notable_facts": [
+      "Founded in 1972.",
+      "Moved main offices to Hamburg in 2015.",
+      "Serving Western New York, Southern Ontario and the Southern Tier."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Brian F. Attea",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": "716-648-7000, ext. 205",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Richard J. Attea",
+          "title": "Senior Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mary Kay LaForce",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Ryan F. McCann",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin R. Rautenstrauch",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kathleen G. Moriarty",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,75 @@
+{
+  "firm_data": {
+    "firm_name": "Sarah C. Varghese & Associates",
+    "website": null,
+    "city": "Jericho",
+    "practice_areas": [],
+    "lawyer_count": null,
+    "firm_description": null,
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Sarah Varghese",
+        "title": "Managing Attorney",
+        "email": null,
+        "phone": null,
+        "linkedin_url": "https://www.linkedin.com/in/sarah-varghese-29110a265"
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Cindy Singh",
+          "title": "Attorney",
+          "email": null,
+          "phone": "516-229-6088",
+          "linkedin_url": null
+        },
+        {
+          "name": "Anna Pereira",
+          "title": "Attorney",
+          "email": "abogunova(a)gmail.com",
+          "phone": "917-754-5849",
+          "linkedin_url": null
+        },
+        {
+          "name": "Melissa Paige Brosnan",
+          "title": "Attorney",
+          "email": null,
+          "phone": "516-229-6235",
+          "linkedin_url": null
+        },
+        {
+          "name": "Mohammad Qasim Rubbani",
+          "title": "Attorney",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

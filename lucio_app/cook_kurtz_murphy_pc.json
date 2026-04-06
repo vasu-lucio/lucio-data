@@ -1,0 +1,96 @@
+{
+  "firm_data": {
+    "firm_name": "Cook, Kurtz & Murphy, P.C.",
+    "website": "https://www.cookfirm.com/",
+    "city": "Kingston",
+    "practice_areas": [
+      "Municipal litigation",
+      "Commercial litigation",
+      "Insurance coverage issues",
+      "Insurance defense litigation",
+      "Civil rights and discrimination",
+      "Personal injury litigation",
+      "Residential and commercial real estate",
+      "Trusts and estates"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cook, Kurtz & Murphy, P.C. is a law firm providing legal services throughout New York State for more than 100 years. The firm concentrates on insurance defense and also represents plaintiffs.",
+    "notable_facts": [
+      "Established in 1905 in Kingston, NY.",
+      "The firm has included four generations of Cooks.",
+      "Selected for listing in Best\u2019s Directory and the Bar Register of Preeminent Lawyers\u2122 by Martindale-Hubbell."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Andrew J. Cook, Sr.",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Thomas A. Murphy",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Eric M. Kurtz",
+          "title": "Esq.",
+          "email": "ekurtz(a)cookfirm.com",
+          "phone": "(845) 331-0702",
+          "linkedin_url": null
+        },
+        {
+          "name": "John C. Burns",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael T. Cook",
+          "title": "Esq.",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

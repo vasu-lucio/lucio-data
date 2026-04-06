@@ -1,0 +1,90 @@
+{
+  "firm_data": {
+    "firm_name": "Buchman Law Firm, LLP",
+    "website": "https://buchmanlaw.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Alcoholic Beverage Law",
+      "Licensing",
+      "Regulatory Compliance",
+      "Trade Practice"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Buchman Law Firm, LLP provides legal services in alcoholic beverage control laws and regulations, multi-jurisdictional licensing, customs, CBMA & importation matters, trade practice, special industry franchise laws, and resources & information. With more than 100 years of combined experience serving businesses in all segments of the alcoholic beverage industry, Buchman Law Firm, LLP is uniquely positioned to help our clients meet their specific business needs.",
+    "notable_facts": [
+      "The firm has been serving alcoholic beverage industry clients for over sixty years.",
+      "They have offices in New York, New Jersey, California and Washington D.C."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Mark A. Koslowe",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Nicholas J. Bergman",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Valerie Karasz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Rachele D. Winningham",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Jonathan M. Koslowe",
+          "title": "Senior Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Alexander J. Alpert",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

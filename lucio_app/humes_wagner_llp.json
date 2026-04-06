@@ -1,0 +1,139 @@
+{
+  "firm_data": {
+    "firm_name": "Humes & Wagner, LLP",
+    "website": "http://humeswagner.com/",
+    "city": "Locust Valley",
+    "practice_areas": [
+      "Municipal Law",
+      "Estate Planning",
+      "Estate Administration",
+      "Real Estate",
+      "Not for Profit",
+      "Business Organizations",
+      "Land Use Law",
+      "Tax Certiorari",
+      "Litigation",
+      "Insurance"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Humes & Wagner, LLP was founded in 1962 and has served the community since that date, representing individuals, not-for-profit organizations, businesses, and numerous incorporated Villages on the North Shore of Long Island as general and special counsel.",
+    "notable_facts": [
+      "Founded in 1962 by the Hon. John P. Humes and Colton P. Wagner.",
+      "Represents several incorporated Villages on the North Shore of Long Island."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John P. Humes",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Colton P. Wagner",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Christopher G. Wagner",
+          "title": "Partner",
+          "email": "chriswagner@humeswagner.com",
+          "phone": "516-676-4600 Ext: 210",
+          "linkedin_url": "https://www.linkedin.com/in/chris-wagner-2519766"
+        },
+        {
+          "name": "Peter M. Weiler",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter P. MacKinnon",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "H. Brooks Smith",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Beverly J. Bell",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Shannon T. Ackerly",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Sara E. Masouras",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kiera E. Cammarota",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Peter B. Colgrove",
+          "title": "Of Counsel",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

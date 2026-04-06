@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Flicker Garelick & Associates, PLLC",
+    "website": "https://www.flickergarelick.com/",
+    "city": null,
+    "practice_areas": [
+      "Defense Base Act",
+      "War hazards",
+      "Labor & Employment",
+      "Litigation/Appellate",
+      "Maritime/Intermodal Transportation Law"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Since 1985, Flicker Garelick & Associates, PLLC has provided highly professional, personalized and cost efficient legal services and counsel to the most prominent U.S. and overseas-based corporations in the defense contracting, insurance and marine industries. At the highest order, we provide knowledgeable, practical and creative solutions for our clients in addressing their business, regulatory, contract and litigation concerns.",
+    "notable_facts": [
+      "The firm was founded in 1985.",
+      "The firm provides legal services to corporations in the defense contracting, insurance, and marine industries.",
+      "The firm's attorneys are seasoned litigators who practice in state and federal courts."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Keith L. Flicker",
+          "title": "Senior Partner",
+          "email": "kflicker@flickergarelick.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Richard L. Garelick",
+          "title": "Retired",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Kenneth M. Simon",
+          "title": "Partner",
+          "email": "ksimon@flickergarelick.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Robert N. Dengler",
+          "title": "Partner",
+          "email": "rdengler@flickergarelick.com",
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Brendan E. McKeon",
+          "title": "Partner",
+          "email": "bmckeon@flickergarelick.com",
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

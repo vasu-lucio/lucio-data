@@ -1,0 +1,87 @@
+{
+  "firm_data": {
+    "firm_name": "Cyrulnik Fattaruso LLP",
+    "website": "https://cf-llp.com/",
+    "city": null,
+    "practice_areas": [
+      "Litigation",
+      "Arbitration",
+      "Regulatory Matters",
+      "Investigations"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Cyrulnik Fattaruso LLP is a premier litigation boutique built to help businesses and individuals solve their most complex and important legal problems. We represent our clients as plaintiffs and defendants in all types of civil disputes, including litigation and arbitration; in regulatory matters, including SEC examinations, investigations, and enforcement actions; and in performing investigations and solving issues before they ever reach the courtroom.",
+    "notable_facts": [],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Nielah Dotson",
+        "title": "Firm Manager",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Jason Cyrulnik",
+          "title": "Partner and Chairman",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Paul Fattaruso",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Matthew Henken",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael M. Pomerantz",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven Magnusson",
+          "title": "Associate",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

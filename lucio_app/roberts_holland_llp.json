@@ -1,0 +1,99 @@
+{
+  "firm_data": {
+    "firm_name": "Roberts & Holland LLP",
+    "website": "https://robertsandholland.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Tax Law",
+      "Real Estate Taxation",
+      "Corporate Taxation",
+      "International Taxation",
+      "State and Local Taxation",
+      "Tax Controversy and Litigation",
+      "Tax-Exempt Organizations",
+      "Workouts and Debt Restructurings",
+      "Employee Benefits",
+      "Estate and Personal Tax Planning",
+      "Executive Compensation"
+    ],
+    "lawyer_count": 28,
+    "firm_description": "Roberts & Holland LLP is an international law firm that focuses on tax law and provides innovative solutions to complex financial problems. It is the largest law firm in the United States engaged primarily in the practice of tax law.",
+    "notable_facts": [
+      "Founded in 1957",
+      "Concentrates in tax law",
+      "Provides services for planning, audits, and litigation"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Sidney I. Roberts",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "William C. Warren",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Ellen Seiler Brody",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-903-8712",
+          "linkedin_url": null
+        },
+        {
+          "name": "Quincy Cotton",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-903-8739",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael J. Miller",
+          "title": "Partner",
+          "email": null,
+          "phone": "212-903-8757",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,118 @@
+{
+  "firm_data": {
+    "firm_name": "HERTZ, CHERSON & ROSENTHAL, P.C",
+    "website": "https://rhcrlaw.com/",
+    "city": "Forest Hills",
+    "practice_areas": [
+      "Real Estate",
+      "Litigation",
+      "Tenant Law"
+    ],
+    "lawyer_count": 22,
+    "firm_description": "Hertz, Cherson & Rosenthal, P.C. represents clients in real estate matters throughout New York City and the counties of Nassau, Suffolk, and Westchester. Founded in 1993, our firm is comprised of accomplished attorneys who represent some of the most prominent owners, landlords, and management companies in complex real estate litigation cases and transactions.",
+    "notable_facts": [
+      "Represents clients in real estate matters throughout New York City and the counties of Nassau, Suffolk, and Westchester.",
+      "Represents prominent owners, landlords, and management companies."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "Eliot J. Cherson",
+          "title": "Senior and Founding Partner",
+          "email": "Eliot.Cherson@RHCRlaw.com",
+          "phone": "718.261.7700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michael C. Rosenthal",
+          "title": "Senior and Founding Partner",
+          "email": "Michael.Rosenthal@RHCRlaw.com",
+          "phone": "718.261.7700",
+          "linkedin_url": null
+        },
+        {
+          "name": "Steven M Hertz",
+          "title": "Founding partner",
+          "email": null,
+          "phone": "718-261-7700",
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Michael A. Steiner",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Haleh Ahdout",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Kerry S Glasgold",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Howard Scott Levine",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Stafford Liss",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Seth Denenberg",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

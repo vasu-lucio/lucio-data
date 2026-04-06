@@ -1,0 +1,78 @@
+{
+  "firm_data": {
+    "firm_name": "Callahan & Fusco, LLC.",
+    "website": "https://callahanfusco.com/",
+    "city": "West Orange",
+    "practice_areas": [
+      "Civil Litigation",
+      "Construction",
+      "Labor Law",
+      "Product Liability",
+      "Special Education Litigation"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Callahan & Fusco, LLC maintains a steadfast commitment to providing clients with a high level of representation and service, striving to offer creative solutions to complex legal problems. The firm is large enough to provide comprehensive service, yet personal enough to maintain an established reputation for individual client attention.",
+    "notable_facts": [
+      "Founded in 2001",
+      "Dispenses with large firm bureaucracy",
+      "Commited to continual education of all employees"
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Christopher G. Fusco",
+        "title": "Managing Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": "Antonio C. Irizarry",
+        "title": "Director of Business Operations",
+        "email": "info@callahanfusco.com",
+        "phone": "877-618-9770",
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Beth A. Callahan",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Charles J. Reiter",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        },
+        {
+          "name": "Mitchell Ayes",
+          "title": "Partner",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

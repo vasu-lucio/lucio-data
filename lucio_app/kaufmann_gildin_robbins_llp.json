@@ -1,0 +1,93 @@
+{
+  "firm_data": {
+    "firm_name": "Kaufmann Gildin & Robbins LLP",
+    "website": "https://www.kaufmanngildin.com/",
+    "city": "New York",
+    "practice_areas": [
+      "Franchising",
+      "Litigation And Appeals",
+      "Corporate/Mergers & Acquisitions",
+      "Securities Arbitration/Regulatory",
+      "Commercial Real Estate/Leasing",
+      "Estate Planning and Administration"
+    ],
+    "lawyer_count": null,
+    "firm_description": "Kaufmann Gildin & Robbins is a boutique law firm in the heart of New York City, known for its expertise in franchising, litigation, and corporate matters. The firm provides legal support to individuals as well as some of the world\u2019s largest corporations.",
+    "notable_facts": [
+      "Ranked Tier 1 \u2013 Nationwide by Best Lawyers in America in Franchising.",
+      "Represented YUM! Brands, Inc., Wendys\u2019 International, Inc., 7-Eleven Inc., Marriott International, Inc., among others.",
+      "David J. Kaufmann authored the New York Franchise Act."
+    ],
+    "technology_signals": [],
+    "people": {
+      "managing_partner": {
+        "name": "Daniel Gildin",
+        "title": "Managing Partner and Founding Member",
+        "email": "dgildin@kaufmanngildin.com",
+        "phone": "212-705-0840",
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "David J. Kaufmann",
+          "title": "Senior Partner and Founding Member",
+          "email": "dkaufmann@kaufmanngildin.com",
+          "phone": "212-705-0810",
+          "linkedin_url": null
+        },
+        {
+          "name": "David E. Robbins",
+          "title": "Partner",
+          "email": "drobbins@kaufmanngildin.com",
+          "phone": "212-705-0815",
+          "linkedin_url": null
+        },
+        {
+          "name": "Kevin M. Shelley",
+          "title": "Partner",
+          "email": "kshelley@kaufmanngildin.com",
+          "phone": "212-705-0814",
+          "linkedin_url": null
+        },
+        {
+          "name": "David B. Ramsey",
+          "title": "Partner",
+          "email": "dramsey@kaufmanngildin.com",
+          "phone": "212-705-0816",
+          "linkedin_url": null
+        },
+        {
+          "name": "Michelle Murray-Bertrand",
+          "title": "Partner",
+          "email": "mmbertrand@kaufmanngildin.com",
+          "phone": "212-705-0855",
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}

@@ -1,0 +1,76 @@
+{
+  "firm_data": {
+    "firm_name": "Collins & Collins Attorneys LLC",
+    "website": "https://collinscollins.com/",
+    "city": "Buffalo",
+    "practice_areas": [
+      "Construction Accidents",
+      "Personal Injury",
+      "Workers Compensation",
+      "Car Accidents",
+      "Wrongful Death",
+      "Slip and Fall",
+      "Occupational Diseases and Exposure"
+    ],
+    "lawyer_count": 5,
+    "firm_description": "Collins & Collins Attorneys LLC is a law practice focused on representing victims of construction accidents and personal injury in Western New York. The firm is known for winning tough, high-profile cases and has an outstanding record of verdicts and settlements.",
+    "notable_facts": [
+      "Founded in 2011",
+      "Represents victims of workplace injuries, automobile accidents, wrongful death, and occupational diseases",
+      "Originally founded by John T. Collins"
+    ],
+    "technology_signals": [
+      "amp"
+    ],
+    "people": {
+      "managing_partner": {
+        "name": "Ethan Collins",
+        "title": "Partner",
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "co_managing_partner": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "founders": [
+        {
+          "name": "John T. Collins",
+          "title": null,
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ],
+      "tech_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null
+      },
+      "ai_contact": {
+        "name": null,
+        "title": null,
+        "email": null,
+        "phone": null,
+        "linkedin_url": null,
+        "ai_notes": null
+      },
+      "additional_contacts": [
+        {
+          "name": "Maxwell Collins",
+          "title": "Marketing Director",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null
+        }
+      ]
+    }
+  },
+  "email": {}
+}
