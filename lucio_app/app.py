@@ -206,16 +206,40 @@ with st.sidebar:
         st.success(f"✅ {sender} connected")
         if st.button("Disconnect", key="gmail_revoke"):
             gmail_helper.revoke_token(sender)
+            st.session_state.pop("gmail_flow", None)
+            st.session_state.pop("gmail_flow_user", None)
             st.rerun()
     elif gmail_helper.has_credentials(sender):
-        st.warning(f"⚠️ {sender} not authorized")
-        if st.button(f"🔗 Authorize {sender}", key="gmail_auth"):
-            _, err = gmail_helper.get_service(sender)
-            if err == "ok":
-                st.success("Authorized!")
+        # Step 1: generate auth URL
+        if st.session_state.get("gmail_flow_user") != sender:
+            if st.button(f"🔗 Authorize {sender}", key="gmail_auth"):
+                auth_url, flow, err = gmail_helper.get_auth_url(sender)
+                if err:
+                    st.error(f"Error: {err}")
+                else:
+                    st.session_state["gmail_flow"] = flow
+                    st.session_state["gmail_flow_user"] = sender
+                    st.rerun()
+        else:
+            # Step 2: show link + code input
+            st.markdown(f"[Click here to authorize {sender}]({st.session_state.get('_auth_url', '')})")
+            auth_url, flow, _ = gmail_helper.get_auth_url(sender)
+            st.session_state["gmail_flow"] = flow
+            st.markdown(f"**[👉 Click to authorize {sender}]({auth_url})**")
+            code = st.text_input("Paste the code from Google here:", key="gmail_code")
+            if st.button("✅ Submit Code", key="gmail_submit"):
+                err = gmail_helper.exchange_code(st.session_state["gmail_flow"], code.strip(), sender)
+                if err:
+                    st.error(f"Error: {err}")
+                else:
+                    st.session_state.pop("gmail_flow", None)
+                    st.session_state.pop("gmail_flow_user", None)
+                    st.success("Authorized!")
+                    st.rerun()
+            if st.button("Cancel", key="gmail_cancel"):
+                st.session_state.pop("gmail_flow", None)
+                st.session_state.pop("gmail_flow_user", None)
                 st.rerun()
-            else:
-                st.error(f"Error: {err}")
     else:
         st.error(f"❌ No credentials for {sender}")
         st.markdown(

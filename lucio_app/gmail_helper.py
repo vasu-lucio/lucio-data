@@ -1,16 +1,11 @@
 """
 Gmail helper for Lucio app — multi-user support (Vasu & Anshul).
-Each user has their own credentials and token file.
-
-Setup per user:
-  1. Go to console.cloud.google.com → APIs & Services → Credentials
-  2. Create OAuth 2.0 Client ID (Desktop app)
-  3. Download JSON → save as lucio_app/gmail_credentials_vasu.json (or _anshul)
-  4. Click "Authorize Gmail" for that user in the sidebar — browser opens, approve, token saved.
+Uses a manual OAuth flow that works on Streamlit Cloud (no local browser needed).
 """
 
 import os
 import base64
+import json
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
@@ -32,31 +27,59 @@ USERS = {
 }
 
 
-def get_service(user="Vasu"):
-    """Return an authenticated Gmail service for the given user."""
+def get_auth_url(user: str = "Vasu") -> tuple:
+    """
+    Generate an OAuth authorization URL for the user to visit manually.
+    Returns (auth_url, flow) — flow must be kept in session_state to exchange the code later.
+    """
+    try:
+        from google_auth_oauthlib.flow import Flow
+        cfg = USERS[user]
+        if not os.path.exists(cfg["creds_file"]):
+            return None, None, "missing_credentials"
+        flow = Flow.from_client_secrets_file(
+            cfg["creds_file"],
+            scopes=SCOPES,
+            redirect_uri="urn:ietf:wg:oauth:2.0:oob",
+        )
+        auth_url, _ = flow.authorization_url(prompt="consent")
+        return auth_url, flow, None
+    except Exception as e:
+        return None, None, str(e)
+
+
+def exchange_code(flow, code: str, user: str = "Vasu") -> str:
+    """Exchange the auth code for a token and save it. Returns error string or None."""
+    try:
+        flow.fetch_token(code=code)
+        creds = flow.credentials
+        with open(USERS[user]["token_file"], "w") as f:
+            f.write(creds.to_json())
+        return None
+    except Exception as e:
+        return str(e)
+
+
+def get_service(user: str = "Vasu"):
+    """Return an authenticated Gmail service using saved token."""
     try:
         from google.oauth2.credentials import Credentials
-        from google_auth_oauthlib.flow import InstalledAppFlow
         from google.auth.transport.requests import Request
         from googleapiclient.discovery import build
 
         cfg = USERS[user]
-        creds = None
+        if not os.path.exists(cfg["token_file"]):
+            return None, "not_authorized"
 
-        if os.path.exists(cfg["token_file"]):
-            creds = Credentials.from_authorized_user_file(cfg["token_file"], SCOPES)
+        creds = Credentials.from_authorized_user_file(cfg["token_file"], SCOPES)
 
-        if not creds or not creds.valid:
-            if creds and creds.expired and creds.refresh_token:
+        if not creds.valid:
+            if creds.expired and creds.refresh_token:
                 creds.refresh(Request())
-            elif os.path.exists(cfg["creds_file"]):
-                flow = InstalledAppFlow.from_client_secrets_file(cfg["creds_file"], SCOPES)
-                creds = flow.run_local_server(port=0)
+                with open(cfg["token_file"], "w") as f:
+                    f.write(creds.to_json())
             else:
-                return None, "missing_credentials"
-
-            with open(cfg["token_file"], "w") as f:
-                f.write(creds.to_json())
+                return None, "token_expired"
 
         service = build("gmail", "v1", credentials=creds)
         return service, "ok"
@@ -67,10 +90,7 @@ def get_service(user="Vasu"):
 
 def create_draft(to_email: str, subject: str, body: str,
                  user: str = "Vasu", attach_pdf: bool = True) -> tuple:
-    """
-    Create a Gmail draft for the given user.
-    Returns (draft_id, error_message).
-    """
+    """Create a Gmail draft. Returns (draft_id, error_message)."""
     service, status = get_service(user)
     if service is None:
         return None, status
@@ -97,7 +117,6 @@ def create_draft(to_email: str, subject: str, body: str,
             userId="me",
             body={"message": {"raw": raw}},
         ).execute()
-
         return draft["id"], None
 
     except Exception as e:
