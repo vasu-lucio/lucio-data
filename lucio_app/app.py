@@ -229,12 +229,11 @@ with st.sidebar:
                 else:
                     st.session_state["gmail_flow"] = flow
                     st.session_state["gmail_flow_user"] = sender
+                    st.session_state["gmail_auth_url"] = auth_url
                     st.rerun()
         else:
-            # Step 2: show link + code input
-            st.markdown(f"[Click here to authorize {sender}]({st.session_state.get('_auth_url', '')})")
-            auth_url, flow, _ = gmail_helper.get_auth_url(sender)
-            st.session_state["gmail_flow"] = flow
+            # Step 2: show stored link + code input (do NOT regenerate flow)
+            auth_url = st.session_state.get("gmail_auth_url", "")
             st.markdown(f"**[👉 Click to authorize {sender}]({auth_url})**")
             code = st.text_input("Paste the code from Google here:", key="gmail_code")
             if st.button("✅ Submit Code", key="gmail_submit"):
@@ -244,11 +243,13 @@ with st.sidebar:
                 else:
                     st.session_state.pop("gmail_flow", None)
                     st.session_state.pop("gmail_flow_user", None)
+                    st.session_state.pop("gmail_auth_url", None)
                     st.success("Authorized!")
                     st.rerun()
             if st.button("Cancel", key="gmail_cancel"):
                 st.session_state.pop("gmail_flow", None)
                 st.session_state.pop("gmail_flow_user", None)
+                st.session_state.pop("gmail_auth_url", None)
                 st.rerun()
     else:
         st.error(f"❌ No credentials for {sender}")
