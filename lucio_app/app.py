@@ -330,6 +330,7 @@ if page == "📊 Dashboard":
 elif page == "🏢 Firm Browser":
     st.title("🏢 Firm Browser")
 
+    # Row 1: search + status + city
     col_s, col_f, col_city = st.columns([3, 2, 2])
     with col_s:
         search = st.text_input("🔍 Search firms", placeholder="Type firm name...")
@@ -339,7 +340,27 @@ elif page == "🏢 Firm Browser":
         all_cities = sorted({(rec["firm_data"].get("city") or "Unknown") for rec in firms})
         filter_city = st.selectbox("City", ["All"] + all_cities)
 
+    # Row 2: size filter + sort
+    SIZE_ORDER = ["1-10", "11-50", "51-200", "201-500", "501-1000", "1001-5000", "5000+"]
+    col_sz, col_sort, col_blank = st.columns([2, 2, 3])
+    with col_sz:
+        available_sizes = sorted(
+            {rec["firm_data"].get("linkedin_size") for rec in firms if rec["firm_data"].get("linkedin_size")},
+            key=lambda x: SIZE_ORDER.index(x) if x in SIZE_ORDER else 99
+        )
+        filter_size = st.selectbox("Firm Size (LinkedIn)", ["All"] + available_sizes)
+    with col_sort:
+        sort_by = st.selectbox("Sort by", ["Default", "A → Z", "Z → A", "Largest First", "Smallest First"])
+
     st.markdown("---")
+
+    def size_rank(rec):
+        s = rec["firm_data"].get("linkedin_size", "")
+        return SIZE_ORDER.index(s) if s in SIZE_ORDER else 99
+
+    def lawyer_count(rec):
+        try:    return int(rec["firm_data"].get("lawyer_count") or 0)
+        except: return 0
 
     filtered = []
     for rec in firms:
@@ -348,8 +369,19 @@ elif page == "🏢 Firm Browser":
         city = fd.get("city") or "Unknown"
         if search and search.lower() not in fd.get("firm_name","").lower(): continue
         if filter_status != "All" and s != filter_status: continue
-        if filter_city != "All" and city != filter_city: continue
+        if filter_city   != "All" and city != filter_city: continue
+        if filter_size   != "All" and fd.get("linkedin_size") != filter_size: continue
         filtered.append((rec, s))
+
+    # Apply sort
+    if sort_by == "A → Z":
+        filtered.sort(key=lambda x: x[0]["firm_data"].get("firm_name","").lower())
+    elif sort_by == "Z → A":
+        filtered.sort(key=lambda x: x[0]["firm_data"].get("firm_name","").lower(), reverse=True)
+    elif sort_by == "Largest First":
+        filtered.sort(key=lambda x: (size_rank(x[0]), -lawyer_count(x[0])))
+    elif sort_by == "Smallest First":
+        filtered.sort(key=lambda x: (size_rank(x[0]), lawyer_count(x[0])))
 
     st.markdown(f"<small style='color:#9CA3AF'>Showing {len(filtered)} firms</small>", unsafe_allow_html=True)
 
