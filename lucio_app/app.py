@@ -283,37 +283,36 @@ def next_week_slots(seed: str = "") -> tuple:
 def auto_subject(firm_name: str) -> str:
     return f"{firm_name} / Lucio AI"
 
-def _build_signature(name: str, title: str, phone: str, email: str, linkedin: str) -> str:
-    """Build an HTML email signature with the Lucio logo."""
+def _build_signature(name: str, phone: str, email: str, linkedin: str) -> str:
+    """Build a clean HTML email signature with the Lucio logo."""
     import base64
     logo_path = os.path.join(os.path.dirname(__file__), "lucio_logo.png")
     logo_tag = ""
     if os.path.exists(logo_path):
         with open(logo_path, "rb") as f:
             b64 = base64.b64encode(f.read()).decode()
-        logo_tag = f'<br><img src="data:image/png;base64,{b64}" width="120" style="margin-top:10px;">'
-    return (
-        f'<br><br>Best,<br><strong>{name}</strong><br><br>'
-        f'<strong>{name}</strong><br>'
-        f'{title}<br>'
-        f'<a href="tel:{phone}">{phone}</a><br>'
-        f'<a href="mailto:{email}">{email}</a><br>'
-        f'<a href="{linkedin}">{linkedin}</a><br>'
-        f'<a href="https://www.lucioai.com">www.lucioai.com</a>'
-        f'{logo_tag}'
-    )
+        logo_tag = f'<img src="data:image/png;base64,{b64}" width="100" style="display:block;margin-top:8px;">'
+    return f"""
+<br><br>
+<span style="font-family:Arial,sans-serif;font-size:14px;">Best,<br><br>
+<strong>{name}</strong><br>
+Lucio AI<br>
+<a href="tel:{phone}" style="color:inherit;text-decoration:none;">{phone}</a><br>
+<a href="mailto:{email}" style="color:inherit;text-decoration:none;">{email}</a><br>
+<a href="{linkedin}" style="color:inherit;text-decoration:none;">LinkedIn</a> &nbsp;|&nbsp;
+<a href="https://www.lucioai.com" style="color:inherit;text-decoration:none;">lucioai.com</a>
+</span><br>
+{logo_tag}"""
 
 SENDER_SIGNATURES = {
     "Vasu": _build_signature(
         name="Vasu",
-        title="Lucio AI",
         phone="+1 (213) 883-3255",
         email="vasu@lucioai.com",
         linkedin="https://www.linkedin.com/in/vasulucio/",
     ),
     "Anshul": _build_signature(
         name="Anshul",
-        title="Lucio AI",
         phone="+1 (650) 283 5574",
         email="anshul@lucioai.com",
         linkedin="https://www.linkedin.com/in/anshulbutani/",
@@ -680,7 +679,8 @@ elif page == "🏢 Firm Browser":
                             st.warning("Email body is empty")
                         else:
                             _sig  = SENDER_SIGNATURES.get(_sender, "")
-                            _full = e_body.rstrip().replace("\n", "<br>") + _sig
+                            _body_html = "<div style='font-family:Arial,sans-serif;font-size:14px;'>" + e_body.rstrip().replace("\n", "<br>") + "</div>"
+                            _full = _body_html + _sig
                             save_email(conn, rec["_slug"], e_name, e_title, e_email, e_cc, e_subj, e_body)
                             draft_id, err = gmail_helper.create_draft(e_email, e_subj, _full, user=_sender, attach_pdf=True, cc_emails=e_cc)
                             if draft_id:
