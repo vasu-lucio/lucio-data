@@ -21,9 +21,9 @@
       "managing_partner": {
         "name": "Karen L. Weiss",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "kweiss@levittlawllp.com",
+        "phone": "+1-516-248-9700",
+        "linkedin_url": "https://www.linkedin.com/in/karen-weiss-7337287"
       },
       "co_managing_partner": {
         "name": null,
@@ -52,8 +52,8 @@
         {
           "name": "Steven L. Levitt",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
+          "email": "slevitt@levittlawllp.com",
+          "phone": "+1-516-248-9700",
           "linkedin_url": null
         },
         {
@@ -61,14 +61,14 @@
           "title": "Senior Partner",
           "email": "hlevitt@levittllp.com",
           "phone": "416.594.3900",
-          "linkedin_url": null
+          "linkedin_url": "https://uk.linkedin.com/in/howard-levitt-a2024513a"
         },
         {
           "name": "Puneet Tiwari",
           "title": "Partner",
           "email": "ptiwari@levittllp.com",
           "phone": "416.594.3900",
-          "linkedin_url": null
+          "linkedin_url": "https://ca.linkedin.com/in/puneetlaw"
         }
       ]
     },

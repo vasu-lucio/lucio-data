@@ -38,14 +38,14 @@
         "title": "Founding Partner",
         "email": null,
         "phone": "646-663-4430",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/arthur-lebedin-32a3ba30"
       },
       "co_managing_partner": {
         "name": "Russ Kofman",
         "title": "Founding Partner",
         "email": null,
         "phone": "646-663-4430",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/russ-kofman-93749777"
       },
       "founders": [],
       "tech_contact": {
@@ -68,29 +68,29 @@
           "name": "Michael Leinoff",
           "title": "Associate Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "646-663-4430",
+          "linkedin_url": "https://www.linkedin.com/in/michael-leinoff-4751ab20"
         },
         {
           "name": "Jessica Gorman",
           "title": "Associate Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "646-663-4430",
+          "linkedin_url": "https://www.linkedin.com/in/jessica-gorman-b2439412"
         },
         {
           "name": "Jonathan Perez",
           "title": "Criminal Defense Attorney",
-          "email": null,
-          "phone": null,
+          "email": "eprusan@lebedinkofmanlaw.com",
+          "phone": "646-663-4430",
           "linkedin_url": null
         },
         {
           "name": "Alyson Luftig",
           "title": "Debt Settlement",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "eprusan@lebedinkofmanlaw.com",
+          "phone": "646-663-4430",
+          "linkedin_url": "https://www.linkedin.com/in/alyson-luftig-esq"
         }
       ]
     },

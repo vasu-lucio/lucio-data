@@ -23,7 +23,7 @@
         "title": "Managing Principal",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/david-sochia-2b153a8"
       },
       "co_managing_partner": {
         "name": null,
@@ -54,14 +54,14 @@
           "title": "Principal",
           "email": null,
           "phone": "903.923.9001",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sam-baxter-711a3a33"
         },
         {
           "name": "Alan P. Block",
           "title": "Principal",
           "email": null,
           "phone": "213.694.1054",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alanpblock"
         }
       ]
     },

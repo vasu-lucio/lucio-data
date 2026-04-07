@@ -61,7 +61,7 @@
           "title": "Partner",
           "email": "pbonner@mbkklaw.com",
           "phone": "732-933-2757",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patrick-d-bonner-jr-196a7347"
         },
         {
           "name": "Michael S. Komar",
@@ -82,12 +82,12 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/melissa-k-driscoll-6498696"
         },
         {
           "name": "Lindsay Weibel",
           "title": "Associate",
-          "email": null,
+          "email": "lweibel@mbkklaw.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -96,7 +96,7 @@
           "title": "Of Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/haganj"
         }
       ]
     },

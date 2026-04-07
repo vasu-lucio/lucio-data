@@ -53,9 +53,9 @@
         {
           "name": "Barry R. Lax",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "blax@laxneville.com",
+          "phone": "+12126961999",
+          "linkedin_url": "https://www.linkedin.com/in/barry-lax-896848ba"
         },
         {
           "name": "Brian J. Neville",
@@ -67,23 +67,23 @@
         {
           "name": "Ross B. Intelisano",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
+          "email": "ross@laxneville.com",
+          "phone": "+12126961999",
           "linkedin_url": null
         },
         {
           "name": "Sandra P. Lahens",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "sandra@laxneville.com",
+          "phone": "+12126961999",
+          "linkedin_url": "https://www.linkedin.com/in/sandra-lahens-47758722"
         },
         {
           "name": "Matthew C. Plant",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mplant@laxneville.com",
+          "phone": "+12126961999",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-plant-15a5b53"
         }
       ]
     },

@@ -41,16 +41,16 @@
         {
           "name": "Thomas J. Maroney",
           "title": "Owner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "tmaroney@maroneyoconnorllp.com",
+          "phone": "+12125092009",
+          "linkedin_url": "https://www.linkedin.com/in/thomas-maroney-542a7559"
         },
         {
           "name": "Andrew O'Connor",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "aoconnor@maroneyoconnorllp.com",
+          "phone": "+12125092009",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-o\u2019connor-b8257b302"
         }
       ],
       "tech_contact": {
@@ -72,22 +72,22 @@
         {
           "name": "Demetrios Stratis",
           "title": "Law Clerk",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dstratis@maroneyoconnorllp.com",
+          "phone": "+12125092009",
+          "linkedin_url": "https://www.linkedin.com/in/demetrios-stratis-esq-838658160"
         },
         {
           "name": "Darian Bryan",
           "title": "Associate Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dbryan@maroneyoconnorllp.com",
+          "phone": "+12125092009",
+          "linkedin_url": "https://www.linkedin.com/in/darian-parold-a374a83b1"
         },
         {
           "name": "Brandon Santiago",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "bsantiago@maroneyoconnorllp.com",
+          "phone": "+12125092009",
           "linkedin_url": null
         }
       ]

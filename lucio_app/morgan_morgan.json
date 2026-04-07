@@ -20,7 +20,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/christopher-ryan-5b02a5113"
       },
       "co_managing_partner": {
         "name": null,
@@ -35,14 +35,14 @@
           "title": "Founder & Attorney",
           "email": "johnmorgan@forthepeople.com",
           "phone": "(407) 420-1414",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/johnmorganesq"
         },
         {
           "name": "Ultima Morgan",
           "title": null,
-          "email": null,
+          "email": "umorgan@forthepeople.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rob-culpepper-a9bb8469"
         }
       ],
       "tech_contact": {
@@ -64,8 +64,8 @@
         {
           "name": "Mike Morgan",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "mmorgan@forthepeople.com",
+          "phone": "(407) 420-1414",
           "linkedin_url": null
         }
       ]

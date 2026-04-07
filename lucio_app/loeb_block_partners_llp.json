@@ -38,7 +38,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/riley-loeb-344901365"
         },
         {
           "name": "Charles J. Block",
@@ -52,7 +52,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/leonard-wallace-a84004237"
         }
       ],
       "tech_contact": {
@@ -74,7 +74,7 @@
         {
           "name": "Navin Pal",
           "title": "Partner",
-          "email": null,
+          "email": "npal@loebblock.com",
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/company/loeb-block-partners-llp"
         },
@@ -90,7 +90,7 @@
           "title": "Partner",
           "email": "jweiss@loebblock.com",
           "phone": "212 755-1777",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jpweiss"
         }
       ]
     }

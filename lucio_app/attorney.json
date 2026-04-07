@@ -86,9 +86,9 @@
     "linkedin_company_url": "https://www.linkedin.com/company/perkins-coie-llp"
   },
   "email": {
-    "to_name": "William",
-    "to_title": "Managing Partner",
-    "to_email": "WMalley@perkinscoie.com",
+    "to_name": "Christopher Ende",
+    "to_title": "Chief Operating Officer",
+    "to_email": null,
     "subject": "AI for Perkins Coie, built for firms like yours",
     "body": "Hi William,\n\nYour expansion into Austin and London signals real growth, and your venture capital and M&A practices are exactly where AI-powered legal workflows create immediate competitive advantage.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters most: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Pacific Northwest to meet regional firms. I'd be happy to stop by your Seattle office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on document review, due diligence, and contract analysis.\n\nWorth 20 minutes?\n\nVasu\nLucio"
   }

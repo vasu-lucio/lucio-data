@@ -47,7 +47,7 @@
         "name": "Michelle Brewer",
         "title": "Office Manager",
         "email": null,
-        "phone": null,
+        "phone": "845-600-0000",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -71,28 +71,28 @@
           "title": "Partner",
           "email": null,
           "phone": "845-600-0000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-mainetti-b803a786"
         },
         {
           "name": "Alexander E. Mainetti",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alexander-e-mainetti-esq-a2618516"
         },
         {
           "name": "Michael Kavanagh",
           "title": "Associate",
           "email": null,
-          "phone": null,
+          "phone": "845-600-0000",
           "linkedin_url": null
         },
         {
           "name": "Joseph Pugliese",
           "title": "Associate",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "845-600-0000",
+          "linkedin_url": "https://www.linkedin.com/in/josephpugliese1"
         }
       ]
     },

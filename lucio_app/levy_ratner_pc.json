@@ -37,9 +37,9 @@
         {
           "name": "Richard Levy",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rdorn@levyratner.com",
+          "phone": "2126278100",
+          "linkedin_url": "https://www.linkedin.com/in/levy-ratner-b16373220"
         }
       ],
       "tech_contact": {
@@ -62,28 +62,28 @@
           "name": "Daniel J. Ratner",
           "title": null,
           "email": "dratner@levyratner.com",
-          "phone": null,
+          "phone": "2126278100",
           "linkedin_url": null
         },
         {
           "name": "Jessica I. Apter",
           "title": null,
           "email": "japter@levyratner.com",
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2126278100",
+          "linkedin_url": "https://www.linkedin.com/in/jessica-apter-3a46b985"
         },
         {
           "name": "Ryan J. Barbur",
           "title": null,
           "email": "rbarbur@levyratner.com",
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2126278100",
+          "linkedin_url": "https://www.linkedin.com/in/ryan-barber-crestview"
         },
         {
           "name": "Allyson L. Belovin",
           "title": null,
           "email": "abelovin@levyratner.com",
-          "phone": null,
+          "phone": "2126278100",
           "linkedin_url": null
         }
       ]

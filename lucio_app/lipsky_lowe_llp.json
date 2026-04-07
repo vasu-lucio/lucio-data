@@ -18,15 +18,15 @@
       "managing_partner": {
         "name": "Douglas Lipsky",
         "title": "Partner",
-        "email": null,
-        "phone": null,
+        "email": "doug@lipskylowe.com",
+        "phone": "212-392-4772",
         "linkedin_url": "https://lipskylowe.com/douglas-lipsky/"
       },
       "co_managing_partner": {
         "name": "Christopher Lowe",
         "title": "Partner",
-        "email": null,
-        "phone": null,
+        "email": "Chris@lipskylowe.com",
+        "phone": "212-392-4772",
         "linkedin_url": "http://lipskylowe.com/team/christopher-lowe/"
       },
       "founders": [],
@@ -49,15 +49,15 @@
         {
           "name": "Milana Dostanitch",
           "title": "Senior Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "milana@lipskylowe.com",
+          "phone": "212-392-4772",
+          "linkedin_url": "https://www.linkedin.com/in/milana-dostanitch"
         },
         {
           "name": "Sara Isaacson",
           "title": "Senior Associate",
-          "email": null,
-          "phone": null,
+          "email": "sara@lipskylowe.com",
+          "phone": "212-392-4772",
           "linkedin_url": null
         }
       ]

@@ -40,7 +40,7 @@
         "title": "COO",
         "email": "cburstein@mblawfirm.com",
         "phone": "(973) 243-7914",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/cheryl-burstein-653042a/"
       },
       "ai_contact": {
         "name": null,
@@ -56,7 +56,7 @@
           "title": "CEO",
           "email": "wbarrett@mblawfirm.com",
           "phone": "(973) 243-7952",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/william-barrett-94412610/"
         },
         {
           "name": "Barry R. Mandelbaum",
@@ -70,14 +70,14 @@
           "title": "Partner",
           "email": "sadler@mblawfirm.com",
           "phone": "(973) 243-7930",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steven-adler-64a01a66"
         },
         {
           "name": "Dennis J. Alessi",
           "title": "Partner",
           "email": "dalessi@mblawfirm.com",
           "phone": "(973) 243-7968",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dennis-j-alessi-esq-1510a034"
         }
       ]
     },
@@ -85,7 +85,7 @@
     "linkedin_size": "201-500"
   },
   "email": {
-    "to_name": "Cheryl",
+    "to_name": "Cheryl H. Burstein",
     "to_title": "COO",
     "to_email": "cburstein@mblawfirm.com",
     "subject": "AI for Mandelbaum Barrett PC, built for firms like yours",

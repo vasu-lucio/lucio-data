@@ -29,7 +29,7 @@
         "title": "Firm Administrator",
         "email": null,
         "phone": "1 (845) 452-4000 x 330",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jana-fezza-b61074a2"
       },
       "ai_contact": {
         "name": null,
@@ -45,21 +45,21 @@
           "title": "Partner",
           "email": null,
           "phone": "1 (845) 779-9930",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joshua-mackey-8b897917"
         },
         {
           "name": "Cara A. Whalen",
           "title": "Partner",
           "email": null,
           "phone": "1 (845) 677-6700",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/cara-whalen"
         }
       ]
     },
     "linkedin_company_url": "https://www.linkedin.com/company/mcwlawyers"
   },
   "email": {
-    "to_name": "Jana",
+    "to_name": "Jana L. Fezza",
     "to_title": "Firm Administrator",
     "to_email": null,
     "subject": "AI for Mackey Catania & Whalen LLP, built for firms like yours",

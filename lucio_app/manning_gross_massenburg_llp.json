@@ -50,36 +50,36 @@
         {
           "name": "David Hatem",
           "title": "Band 1, Construction, Massachusetts",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dhatem@mgmlaw.com",
+          "phone": "617 406 4800",
+          "linkedin_url": "https://www.linkedin.com/in/david-j-hatem-pc-9ba581125/"
         },
         {
           "name": "Tiffany Keith Ackley",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "tackley@mgmlaw.com",
+          "phone": "949 381 6101",
+          "linkedin_url": "https://www.linkedin.com/in/tiffanyliuroc"
         },
         {
           "name": "Gregory M Alvarez",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "galvarez@mgmlaw.com",
+          "phone": "949 892 4671",
+          "linkedin_url": "https://www.linkedin.com/in/gregory-alvarez-2804245/"
         },
         {
           "name": "Garth W Aubert",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "gaubert@mgmlaw.com",
+          "phone": "213 694 4216",
           "linkedin_url": null
         },
         {
           "name": "Dillon Aisenberg",
           "title": "Associate",
-          "email": null,
-          "phone": null,
+          "email": "daisenberg@mgmlaw.com",
+          "phone": "617 406 4538",
           "linkedin_url": null
         }
       ]

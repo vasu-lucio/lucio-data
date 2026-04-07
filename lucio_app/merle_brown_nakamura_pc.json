@@ -45,8 +45,8 @@
         {
           "name": "Pierre F.V. Merle",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "p.merle@mbnpc.com",
+          "phone": "(212) 471-2990",
           "linkedin_url": null
         }
       ],
@@ -69,8 +69,8 @@
         {
           "name": "George R. Brown V",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
+          "email": "g.brown@mbnpc.com",
+          "phone": "(212) 471-2990",
           "linkedin_url": null
         },
         {
@@ -83,14 +83,14 @@
         {
           "name": "Scott K. McClain",
           "title": "Attorney",
-          "email": null,
+          "email": "s.mcclain@mbnpc.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Theodore P. Nikolis",
           "title": "Of Counsel",
-          "email": null,
+          "email": "t.nikolis@mbnpc.com",
           "phone": null,
           "linkedin_url": null
         }

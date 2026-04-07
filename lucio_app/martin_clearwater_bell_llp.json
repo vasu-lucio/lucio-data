@@ -31,9 +31,9 @@
       "managing_partner": {
         "name": "Michael F. Madden",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "maddem@mcblaw.com",
+        "phone": "(212)916-0969",
+        "linkedin_url": "https://www.linkedin.com/in/michael-madden-258bb742"
       },
       "co_managing_partner": {
         "name": null,
@@ -48,7 +48,7 @@
         "title": "Director Of Operations",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/courtney-levine-4b040b171"
       },
       "ai_contact": {
         "name": null,
@@ -64,28 +64,28 @@
           "title": "DIRECTOR OF OPERATIONS & HR",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rosemarie-romano-a99037100"
         },
         {
           "name": "Jacqueline D. Berger",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bergej@mcblaw.com",
+          "phone": "(516)712-3138",
+          "linkedin_url": "https://www.linkedin.com/in/jacqueline-bell-a4b98559"
         },
         {
           "name": "Peter T. Crean",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "creanp@mcblaw.com",
+          "phone": "(212)916-0916",
           "linkedin_url": null
         },
         {
           "name": "Bruce G. Habian",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "habiab@mcblaw.com",
+          "phone": "(212)916-0940",
+          "linkedin_url": "https://www.linkedin.com/in/bruce-habian-37b87064"
         }
       ]
     },

@@ -48,16 +48,16 @@
         {
           "name": "Peter Massumi",
           "title": "Co-founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pmassumi@mcllp.com",
+          "phone": "310.971.9470",
+          "linkedin_url": "https://www.linkedin.com/in/petermassumi/"
         },
         {
           "name": "Anthony Consoli",
           "title": "Co-founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "aconsoli@mcllp.com",
+          "phone": "310.971.9470",
+          "linkedin_url": "https://www.linkedin.com/in/anthonyconsoli"
         }
       ],
       "tech_contact": {
@@ -79,30 +79,30 @@
         {
           "name": "Daniel Dubelman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ddubelman@mcllp.com",
+          "phone": "310.971.9470",
+          "linkedin_url": "https://www.linkedin.com/in/daniel-dubelman-9632062b/"
         },
         {
           "name": "Parsa Ansari",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pansari@mcllp.com",
+          "phone": "310.971.9470",
+          "linkedin_url": "https://www.linkedin.com/in/parsaansari/"
         },
         {
           "name": "Michael Young",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "myoung@mcllp.com",
+          "phone": "310.971.9470",
+          "linkedin_url": "https://www.linkedin.com/in/michael-young-768a69b2/"
         },
         {
           "name": "Andrew Kang",
           "title": "Lawyer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "akang@mcllp.com",
+          "phone": "310.971.9470",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-kang-70b0b818/"
         }
       ]
     }

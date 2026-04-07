@@ -31,14 +31,14 @@
         "title": "Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jean-claude-jc-mazzola-13066330"
       },
       "co_managing_partner": {
         "name": "Wendy J. Lindstrom",
         "title": "Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/wendy-l-0428651b2"
       },
       "founders": [],
       "tech_contact": {
@@ -46,7 +46,7 @@
         "title": "Chief Financial Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/david-lynders-a969633"
       },
       "ai_contact": {
         "name": null,
@@ -60,9 +60,9 @@
         {
           "name": "Laura D. Castner",
           "title": "Partner",
-          "email": null,
+          "email": "laura@mazzolalindstrom.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/laura-castner-6714545/"
         },
         {
           "name": "Richard Lerner",
@@ -76,7 +76,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/aimeescala"
         }
       ]
     },

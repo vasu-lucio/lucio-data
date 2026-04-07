@@ -54,15 +54,15 @@
         {
           "name": "Michael Miranda",
           "title": "Co-Founder",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mmiranda@msssv.com",
+          "phone": "5167519060",
+          "linkedin_url": "https://www.linkedin.com/in/michael-a-miranda-11a5386"
         },
         {
           "name": "Ondine Slone",
           "title": "Co-Founder",
-          "email": null,
-          "phone": null,
+          "email": "oslone@msssv.com",
+          "phone": "5167519060",
           "linkedin_url": null
         }
       ],
@@ -92,30 +92,30 @@
         {
           "name": "Steve Verveniotis",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
+          "email": "sverveniotis@msssv.com",
+          "phone": "5167519060",
           "linkedin_url": null
         },
         {
           "name": "Maurizio Savoiardo",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "msavoiardo@msssv.com",
+          "phone": "5167519060",
+          "linkedin_url": "https://www.linkedin.com/in/maurizio-savoiardo-927a8221"
         },
         {
           "name": "Andrew B. Kaufman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "akaufman@msssv.com",
+          "phone": "5167519060",
           "linkedin_url": null
         },
         {
           "name": "Lawrence S. Wasserman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lwasserman@msssv.com",
+          "phone": "5167519060",
+          "linkedin_url": "https://www.linkedin.com/in/shalonda-lawrence-19a60082"
         }
       ]
     },

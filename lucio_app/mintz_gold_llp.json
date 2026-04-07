@@ -21,7 +21,7 @@
         "title": "Founding Partner",
         "email": "gold@mintzandgold.com",
         "phone": "212-696-4848",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/steven-w-gold-9b24645/"
       },
       "co_managing_partner": {
         "name": null,
@@ -59,21 +59,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-w-kennedy-a411b49"
         },
         {
           "name": "Craig Spector",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "spector@mintzandgold.com",
+          "phone": "6467920327",
+          "linkedin_url": "https://www.linkedin.com/in/cdspector/"
         },
         {
           "name": "Julia Milne",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "milne@mintzandgold.com",
+          "phone": "6467920327",
+          "linkedin_url": "https://www.linkedin.com/in/julia-milne-96b2435b/"
         }
       ]
     },

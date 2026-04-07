@@ -45,7 +45,7 @@
           "title": "Partner",
           "email": "ekroub@mizrahikroub.com",
           "phone": "(212) 595-6200",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/isaac-kroub-aa096167"
         }
       ],
       "tech_contact": {
@@ -67,29 +67,29 @@
         {
           "name": "Louis M. Leon",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
+          "email": "lleon@mizrahikroub.com",
+          "phone": "(212)595-6200",
           "linkedin_url": null
         },
         {
           "name": "Ingrid M. Fernandez",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ifernandez@mizrahikroub.com",
+          "phone": "(212)595-6200",
+          "linkedin_url": "https://www.linkedin.com/in/ingrid-m-fernandez-31a12755"
         },
         {
           "name": "Valeria Fernandez",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "vfernandez@mizrahikroub.com",
+          "phone": "(212)595-6200",
+          "linkedin_url": "https://www.linkedin.com/in/valeria-fernandez-142341116"
         },
         {
           "name": "Daniel J. Bernard",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
+          "email": "dbernard@mizrahikroub.com",
+          "phone": "(212)595-6200",
           "linkedin_url": null
         }
       ]

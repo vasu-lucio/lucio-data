@@ -21,22 +21,22 @@
       "managing_partner": {
         "name": "Bud London",
         "title": "Managing Partner",
-        "email": null,
+        "email": "blondon@londonfischer.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/bud-london-83433023"
       },
       "co_managing_partner": {
         "name": "Julie van Wert",
         "title": "Managing Partner Of Los Angeles Office",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/julie-van-wert-2b7947176"
       },
       "founders": [
         {
           "name": "Bernard London",
           "title": "founding partner",
-          "email": null,
+          "email": "blondon@londonfischer.com",
           "phone": null,
           "linkedin_url": null
         }
@@ -60,16 +60,16 @@
         {
           "name": "Amy Kramer",
           "title": "Partner",
-          "email": null,
+          "email": "akramer@londonfischer.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/amy-kramer-754741b2"
         },
         {
           "name": "Daniel London",
           "title": "Partner",
-          "email": null,
+          "email": "dlondon@londonfischer.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-london-170a7676"
         }
       ]
     },

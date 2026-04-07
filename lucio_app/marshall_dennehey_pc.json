@@ -18,7 +18,7 @@
         "title": "President & CEO",
         "email": "GMThompson@mdwcg.com",
         "phone": "(215) 575-3570",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gmarkthompson"
       },
       "co_managing_partner": {
         "name": null,
@@ -33,7 +33,7 @@
         "title": "Chief Operating Officer",
         "email": "CMBannon@mdwcg.com",
         "phone": "(215) 575-2852",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/colleenbannon"
       },
       "ai_contact": {
         "name": null,
@@ -56,7 +56,7 @@
           "title": "Director of Human Resources",
           "email": "kdwilliams@mdwcg.com",
           "phone": "(215) 575-3563",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/karen-david-13a769202"
         },
         {
           "name": "Chris Hansen",
@@ -77,8 +77,8 @@
     "linkedin_company_url": "https://www.linkedin.com/company/marshall-dennehey-warner-coleman-&-goggin"
   },
   "email": {
-    "to_name": "Colleen",
-    "to_title": "Chief Operating Assistant",
+    "to_name": "Colleen Bannon",
+    "to_title": "Chief Operating Officer",
     "to_email": "CMBannon@mdwcg.com",
     "subject": "AI for Marshall Dennehey, built for firms like yours",
     "body": "Hi Colleen,\n\nWith 500 attorneys spanning seven states, Marshall Dennehey operates at a scale where precision and efficiency in civil defense work directly impact your bottom line. I lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams.\n\nWe recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: precision, client trust, and operational efficiency. Having completed successful pilots on the East Coast, we're now expanding to meet firms like yours.\n\nI'd be happy to stop by your Philadelphia office to share how, as ex-lawyers ourselves, we're helping civil defense shops compete with larger competitors. Worth 20 minutes?\n\nVasu\nLucio"

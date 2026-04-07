@@ -44,14 +44,14 @@
           "title": "Founding Partner",
           "email": "jnl@lipsitzponterio.com",
           "phone": "716.849.0701",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-comerford-31187815"
         },
         {
           "name": "Michael A. Ponterio",
           "title": "Founding Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "18662381452",
+          "linkedin_url": "https://www.linkedin.com/in/michael-a-ponterio-2367a64b"
         }
       ],
       "tech_contact": {
@@ -74,21 +74,21 @@
           "name": "John P. Comerford",
           "title": "Senior Partner",
           "email": null,
-          "phone": null,
+          "phone": "18662381452",
           "linkedin_url": null
         },
         {
           "name": "Mathew J. Morton",
           "title": "Senior Partner",
           "email": null,
-          "phone": null,
+          "phone": "18662381452",
           "linkedin_url": null
         },
         {
           "name": "Zachary J. Woods",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
+          "email": "zjwoods@lipsitzponterio.com",
+          "phone": "18662381452",
           "linkedin_url": null
         }
       ]

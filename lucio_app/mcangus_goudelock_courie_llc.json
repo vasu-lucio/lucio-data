@@ -46,21 +46,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/hugh-mckenzie"
         },
         {
           "name": "J Russell Goudelock",
           "title": "Founding Member",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/j-russell-goudelock-b541246"
         },
         {
           "name": "Jay Courie",
           "title": "Managing Member",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jay-courie-03948b8"
         }
       ],
       "tech_contact": {
@@ -68,7 +68,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/elizabeth-ann-ea-waddell-1304a2120"
       },
       "ai_contact": {
         "name": null,
@@ -84,7 +84,7 @@
           "title": "Chief Information Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kaona-mercer-2855b7158"
         }
       ]
     },

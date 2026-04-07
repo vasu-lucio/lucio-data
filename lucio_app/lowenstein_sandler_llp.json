@@ -18,7 +18,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jonathanwishnia"
       },
       "co_managing_partner": {
         "name": null,
@@ -33,7 +33,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michael-caplan-"
       },
       "ai_contact": {
         "name": null,
@@ -49,21 +49,21 @@
           "title": "Chief Innovation & Information Officer (CIIO)",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/hae-sung-nam-5a9aa13"
         },
         {
           "name": "Maureen Naughton",
           "title": "Chief Administrative Officer (CAO)",
           "email": "mnaughton@lowenstein.com",
           "phone": "+1 862.926.2033",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mnaughton601"
         },
         {
           "name": "Gary Wingens",
           "title": "Chair",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/garywingens"
         }
       ]
     },

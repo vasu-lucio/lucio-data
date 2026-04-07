@@ -73,29 +73,29 @@
         {
           "name": "Tomohiro Tsuchiya",
           "title": "Lawyer",
-          "email": null,
+          "email": "tomohiro.tsuchiya@morihamada.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://jp.linkedin.com/in/hideaki-roy-umetsu-0b43b6184"
         },
         {
           "name": "Norihito Sato",
           "title": "Lawyer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "norihito.sato@morihamada.com",
+          "phone": "03-6266-8717",
+          "linkedin_url": "https://jp.linkedin.com/in/norihito-sato-39281a60"
         },
         {
           "name": "Junichi Tsuji",
           "title": "Lawyer",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "03-6213-8178",
+          "linkedin_url": "https://www.linkedin.com/in/junichi-tsuji-883499291"
         },
         {
           "name": "Hideki Utsunomiya",
           "title": "Lawyer",
-          "email": null,
-          "phone": null,
+          "email": "hideki.utsunomiya@morihamada.com",
+          "phone": "03-5223-7784",
           "linkedin_url": null
         }
       ]

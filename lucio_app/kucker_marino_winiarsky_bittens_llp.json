@@ -44,15 +44,15 @@
         {
           "name": "Alan Kucker",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "akucker@kuckermarino.com",
+          "phone": "+12128695030",
+          "linkedin_url": "https://www.linkedin.com/in/alan-kucker-98211a22/"
         },
         {
           "name": "James Marino",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "nwiniarsky@kuckermarino.com",
+          "phone": "+12128695030",
           "linkedin_url": "https://www.linkedin.com/in/jimmarino1"
         },
         {
@@ -82,9 +82,9 @@
         {
           "name": "Andrew Bittens",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "abittens@kuckermarino.com",
+          "phone": "+12128695030",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-bittens-97a76a4/"
         }
       ]
     },

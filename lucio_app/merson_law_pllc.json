@@ -26,7 +26,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jordan-rutsky-8205184"
       },
       "co_managing_partner": {
         "name": null,
@@ -40,7 +40,7 @@
           "name": "Jordan Merson",
           "title": "Founding Partner",
           "email": null,
-          "phone": null,
+          "phone": "212-603-9100",
           "linkedin_url": null
         }
       ],
@@ -64,22 +64,22 @@
           "name": "Nathan Werksman",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-603-9100",
+          "linkedin_url": "https://www.linkedin.com/in/nathanwerksman"
         },
         {
           "name": "Giovanna Mabile Ferreira Dos Santos",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/giovanna-mabile-ferreira-dos-santos-144749115"
         },
         {
           "name": "Matthew Merson",
           "title": "Associate",
           "email": null,
           "phone": "212-603-9100",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-merson-b6190a53"
         }
       ]
     },

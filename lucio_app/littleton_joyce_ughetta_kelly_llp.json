@@ -23,9 +23,9 @@
       "managing_partner": {
         "name": "Kristen E. Dennison",
         "title": "Managing Partner",
-        "email": null,
+        "email": "kristen.dennison@littletonjoyce.com",
         "phone": "321-549-2855",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kristen-dennison-1048256"
       },
       "co_managing_partner": {
         "name": null,
@@ -38,30 +38,30 @@
         {
           "name": "Robert W. Littleton",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "robert.littleton@littletonjoyce.com",
+          "phone": "6463309055",
           "linkedin_url": null
         },
         {
           "name": "Robert L. Joyce",
           "title": null,
-          "email": null,
+          "email": "robert.joyce@littletonjoyce.com",
           "phone": "914-417-3412",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rob-joyce-5855026"
         },
         {
           "name": "James C. Ughetta",
           "title": null,
-          "email": null,
+          "email": "james.ughetta@littletonjoyce.com",
           "phone": "914-417-3410",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rob-joyce-5855026"
         },
         {
           "name": "Robert J. Kelly",
           "title": null,
-          "email": null,
+          "email": "robert.kelly@littletonjoyce.com",
           "phone": "732-530-9101",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-kelly-a19bb8318"
         }
       ],
       "tech_contact": {
@@ -83,9 +83,9 @@
         {
           "name": "Michael H. Bai",
           "title": "Office Managing Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "michael.bai@littletonjoyce.com",
+          "phone": "2124045775",
+          "linkedin_url": "https://www.linkedin.com/in/michael-bai-57563113"
         }
       ]
     },

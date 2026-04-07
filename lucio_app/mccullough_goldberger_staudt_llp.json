@@ -23,9 +23,9 @@
       "managing_partner": {
         "name": "Seth M. Mandelbaum",
         "title": "Managing Partner",
-        "email": null,
+        "email": "smandelbaum@mgslawyers.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/seth-mandelbaum-3532938"
       },
       "co_managing_partner": {
         "name": null,
@@ -54,21 +54,21 @@
         {
           "name": "Patricia Wetmore Gurahian",
           "title": "Partner",
-          "email": null,
+          "email": "pgurahian@mgslawyers.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patricia-gurahian-6017a23a"
         },
         {
           "name": "Charles A. Goldberger",
           "title": "Senior Counsel",
           "email": "cgoldberger@mgslawyers.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/moshe-goldberger-7a7749a8"
         },
         {
           "name": "James Staudt",
           "title": "Partner",
-          "email": null,
+          "email": "jstaudt@mgslawyers.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -77,21 +77,21 @@
           "title": "Partner",
           "email": "lwhitehead@mgslawyers.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/linda-whitehead-76943518"
         },
         {
           "name": "Steven M. Wrabel",
           "title": "Partner",
-          "email": null,
+          "email": "swrabel@mgslawyers.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Frank S. McCullough, Jr.",
           "title": "Senior Counsel",
-          "email": null,
+          "email": "fmccullough@mgslawyers.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/savion-mccullough-728816298"
         }
       ]
     },

@@ -17,9 +17,9 @@
       "managing_partner": {
         "name": "Dean Mavrides",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "dmavrides@mmps.com",
+        "phone": "212-396-4288",
+        "linkedin_url": "https://www.linkedin.com/in/deanmavrides"
       },
       "co_managing_partner": {
         "name": null,
@@ -48,23 +48,23 @@
         {
           "name": "Joshua K",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "JKnoll@mmps.com",
+          "phone": "516-358-7200",
+          "linkedin_url": "https://www.linkedin.com/in/joshua-k-291a8963"
         },
         {
           "name": "Erica Goldberg",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "egoldberg@mmps.com",
+          "phone": "212-396-4288",
           "linkedin_url": null
         },
         {
           "name": "David Koshers",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dkoshers@mmps.com",
+          "phone": "212-396-4288",
+          "linkedin_url": "https://www.linkedin.com/in/davidkoshers"
         },
         {
           "name": "Leah Bloomberg",
@@ -76,37 +76,37 @@
         {
           "name": "Scott Packman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "spackman@mmps.com",
+          "phone": "212-396-4288",
           "linkedin_url": null
         },
         {
           "name": "Jason Kim",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jkim@mmps.com",
+          "phone": "516-358-7200",
+          "linkedin_url": "https://www.linkedin.com/in/jason-kim-64051514b"
         },
         {
           "name": "Matthew Weinberger",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mweinberger@mmps.com",
+          "phone": "212-396-4288",
+          "linkedin_url": "https://www.linkedin.com/in/matthewdweinberger"
         },
         {
           "name": "Eric Sadkin",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "esadkin@mmps.com",
+          "phone": "212-396-4288",
+          "linkedin_url": "https://www.linkedin.com/in/eric-sadkin-82118028"
         },
         {
           "name": "Ron Alkalay",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ralkalay@mmps.com",
+          "phone": "212.396.4288",
+          "linkedin_url": "https://www.linkedin.com/in/ron-alkalay"
         }
       ]
     },

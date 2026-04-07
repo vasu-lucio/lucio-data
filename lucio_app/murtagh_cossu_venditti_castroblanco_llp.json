@@ -12,9 +12,9 @@
       "managing_partner": {
         "name": "John M. Murtagh",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "jmurtagh@mcvclaw.com",
+        "phone": "914-517-3078",
+        "linkedin_url": "https://www.linkedin.com/in/johnmurtagh"
       },
       "co_managing_partner": {
         "name": null,
@@ -44,14 +44,14 @@
           "name": "James Castro-Blanco",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "914-517-3078",
           "linkedin_url": null
         },
         {
           "name": "David E. Venditti",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "914-517-3078",
           "linkedin_url": null
         }
       ]

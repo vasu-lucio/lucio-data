@@ -36,9 +36,9 @@
       "tech_contact": {
         "name": "Maryana Kodner",
         "title": "Chief Operating Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "mkodner@maglaw.com",
+        "phone": "212-880-9478",
+        "linkedin_url": "https://www.linkedin.com/in/maryana-kodner-b3b4886/"
       },
       "ai_contact": {
         "name": null,
@@ -52,23 +52,23 @@
         {
           "name": "Elkan Abramowitz",
           "title": "Partner",
-          "email": null,
+          "email": "eabramowitz@maglaw.com",
           "phone": "212.880.9500",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/elkan-abramowitz-a3177512"
         },
         {
           "name": "Robert J. Anello",
           "title": "Partner",
-          "email": null,
+          "email": "ranello@maglaw.com",
           "phone": "212.880.9520",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-j-anello-35b80016/"
         },
         {
           "name": "Lawrence Iason",
           "title": "Partner",
-          "email": null,
+          "email": "liason@maglaw.com",
           "phone": "212.880.9420",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lawrence-s-bader-2b062811"
         },
         {
           "name": "Kathleen Cappelli",

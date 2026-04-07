@@ -28,9 +28,9 @@
       "managing_partner": {
         "name": "Peter J. Weishaar",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "pweishaar@mccmlaw.com",
+        "phone": "5855462500",
+        "linkedin_url": "https://www.linkedin.com/in/peter-weishaar/"
       },
       "co_managing_partner": {
         "name": null,
@@ -45,7 +45,7 @@
         "title": "Director Of Operations, Law Firm Administrator",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/johanna-winter-a9957216"
       },
       "ai_contact": {
         "name": null,
@@ -59,44 +59,44 @@
         {
           "name": "Kevin S. Cooman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kcooman@mccmlaw.com",
+          "phone": "5855462500",
+          "linkedin_url": "https://www.linkedin.com/in/kevin-s-cooman-94878a20/"
         },
         {
           "name": "Mikal J. Krueger",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mkrueger@mccmlaw.com",
+          "phone": "5855462500",
+          "linkedin_url": "https://www.linkedin.com/in/mike-krueger-2296367/"
         },
         {
           "name": "Michael F. McConville",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mmcconville@mccmlaw.com",
+          "phone": "5855462500",
+          "linkedin_url": "https://www.linkedin.com/in/peter-weishaar"
         },
         {
           "name": "Lucien A. Morin, II",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "lmorin@mccmlaw.com",
+          "phone": "5855462500",
           "linkedin_url": null
         },
         {
           "name": "Amy L. Varel",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "avarel@mccmlaw.com",
+          "phone": "5855462500",
+          "linkedin_url": "https://www.linkedin.com/in/amyvarel/"
         },
         {
           "name": "Daniel S. Williford",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dwilliford@mccmlaw.com",
+          "phone": "5855462500",
+          "linkedin_url": "https://www.linkedin.com/in/daniel-williford-7913a370/"
         }
       ]
     },

@@ -41,14 +41,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kevin-oscar-214b01341"
         },
         {
           "name": "Russell T. Mount",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/russellmatney"
         }
       ],
       "tech_contact": {
@@ -72,28 +72,28 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kevin-flynn-01241314"
         },
         {
           "name": "Erica Civitano",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "erica.civitano@mendes.com",
+          "phone": "+1-212-261-8143",
           "linkedin_url": null
         },
         {
           "name": "Anthony Spain",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "anthony.spain@mendes.com",
+          "phone": "+1-212-261-8337",
+          "linkedin_url": "https://www.linkedin.com/in/anthony-spain-8a397422"
         },
         {
           "name": "Dean Herman",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dean-herman-a33493b"
         },
         {
           "name": "Dylan E. Sack",

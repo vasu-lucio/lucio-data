@@ -21,9 +21,9 @@
       "managing_partner": {
         "name": "Richard C. Engel",
         "title": "Managing Partner",
-        "email": null,
+        "email": "rengel@mackenziehughes.com",
         "phone": "315-233-8220",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/amy-hodgson-a71538106"
       },
       "co_managing_partner": {
         "name": null,
@@ -36,9 +36,9 @@
       "tech_contact": {
         "name": "Christopher Daniel",
         "title": "Director of Finance and Administration",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "cdaniel@mackenziehughes.com",
+        "phone": "3154747571",
+        "linkedin_url": "https://www.linkedin.com/in/christopher-daniel-cpa"
       },
       "ai_contact": {
         "name": null,
@@ -52,23 +52,23 @@
         {
           "name": "Clayton H. Hale, Jr.",
           "title": "Partner and Co General Counsel",
-          "email": null,
-          "phone": null,
+          "email": "chale@mackenziehughes.com",
+          "phone": "3154747571",
           "linkedin_url": null
         },
         {
           "name": "Ami S. Longstreet",
           "title": "Partner and Co General Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "alongstreet@mackenziehughes.com",
+          "phone": "3154747571",
+          "linkedin_url": "https://www.linkedin.com/in/amie-longstreet-aicp-ptp-7b531967"
         },
         {
           "name": "John M. Nichols",
           "title": "Partner",
-          "email": null,
+          "email": "jnichols@mackenziehughes.com",
           "phone": "315-233-8305",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/johnmnicholsesq"
         }
       ]
     },

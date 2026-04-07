@@ -61,14 +61,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brice-jastrow-776b9b217"
         },
         {
           "name": "Donald Conklin",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/donaldconklin"
         },
         {
           "name": "Evan Mandel",
@@ -80,16 +80,16 @@
         {
           "name": "Robert Glunt",
           "title": null,
-          "email": null,
+          "email": "glunt@mandelbhandari.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-glunt-16b2a819"
         },
         {
           "name": "A. Leah Vickers",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/a-leah-vickers-0659972b"
         }
       ]
     },

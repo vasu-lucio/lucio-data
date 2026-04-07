@@ -34,7 +34,7 @@
         "title": "Managing Partner",
         "email": "dheymann@meltzerlippe.com",
         "phone": "516.747.0300 Ext. 139",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ronald-dwyer-553445a6"
       },
       "co_managing_partner": {
         "name": null,
@@ -49,7 +49,7 @@
         "title": "CFO/COO",
         "email": "dlaffin@meltzerlippe.com",
         "phone": "516.747.0300 Ext. 126",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/dawn-laffin-0a66a680"
       },
       "ai_contact": {
         "name": null,
@@ -70,8 +70,8 @@
         {
           "name": "Scott Steinberg",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "ssteinberg@meltzerlippe.com",
+          "phone": "15167470300",
           "linkedin_url": "https://theorg.com/org/meltzer-lippe-goldstein-breitstone-llp/org-chart/scott-steinberg"
         }
       ]
@@ -79,7 +79,7 @@
     "linkedin_company_url": "https://www.linkedin.com/company/meltzer-lippe-goldstein-breitstone-llp"
   },
   "email": {
-    "to_name": "Dawn",
+    "to_name": "Dawn Laffin",
     "to_title": "CFO/COO",
     "to_email": "dlaffin@meltzerlippe.com",
     "subject": "AI for Meltzer, Lippe, Goldstein & Breitstone - built for firms like yours",

@@ -40,14 +40,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tamakudman"
         },
         {
           "name": "Gary Trachten",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "GTrachten@kudmanlaw.com",
+          "phone": "212-868-1010",
+          "linkedin_url": "https://www.linkedin.com/in/gary-trachten-56a5a51/"
         }
       ],
       "tech_contact": {
@@ -69,9 +69,9 @@
         {
           "name": "Tama Beth Kudman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "%20tkudman@kudmanlaw.com",
+          "phone": "212-868-1010",
+          "linkedin_url": "https://www.linkedin.com/in/tamakudman/"
         },
         {
           "name": "Michael S. Aloe",
@@ -85,7 +85,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steven-posner-a333a7177"
         }
       ]
     },

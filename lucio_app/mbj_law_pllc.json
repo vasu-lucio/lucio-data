@@ -29,7 +29,7 @@
         "title": "FOUNDER AND CEO",
         "email": null,
         "phone": "914.292.0230",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michael-ben-jacob-270b26236"
       },
       "co_managing_partner": {
         "name": null,
@@ -74,7 +74,7 @@
           "title": "ATTORNEY",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/moshe-pinchas-56590a8"
         },
         {
           "name": "Yisroel Orlofsky",
@@ -95,7 +95,7 @@
           "title": "Special Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-riordan-5a47211"
         }
       ]
     },
@@ -103,7 +103,7 @@
     "linkedin_size": "1-10"
   },
   "email": {
-    "to_name": "Ovadiah",
+    "to_name": "Ovadiah Ben-Jacob",
     "to_title": "Office Manager",
     "to_email": null,
     "subject": "AI for MBJ Law PLLC, built for firms like yours",

@@ -25,16 +25,16 @@
       "managing_partner": {
         "name": "Peter C. Merani",
         "title": "Principal Partner",
-        "email": null,
+        "email": "pmerani@meranilaw.com",
         "phone": "(212) 629-9690",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/peter-mariani-cpa-982752126"
       },
       "co_managing_partner": {
         "name": "Samuel A. Kamara",
         "title": "Senior Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "pmerani@meranilaw.com",
+        "phone": "+12126299690",
+        "linkedin_url": "https://www.linkedin.com/in/christopher-j-merone-esq-b8483783"
       },
       "founders": [],
       "tech_contact": {
@@ -56,15 +56,15 @@
         {
           "name": "Michael Zeleznock",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "pmerani@meranilaw.com",
+          "phone": "+12126299690",
           "linkedin_url": null
         },
         {
           "name": "Adam Kass",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "pmerani@meranilaw.com",
+          "phone": "+12126299690",
           "linkedin_url": null
         }
       ]

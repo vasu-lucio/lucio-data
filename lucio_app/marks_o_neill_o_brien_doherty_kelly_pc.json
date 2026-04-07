@@ -24,7 +24,7 @@
       "managing_partner": {
         "name": "Kaitlyn Long",
         "title": "Managing Partner",
-        "email": null,
+        "email": "KLong@moodklaw.com",
         "phone": null,
         "linkedin_url": "https://www.linkedin.com/company/marks-o%27neill-o%27brien-doherty-%26-kelly-p-c-"
       },
@@ -57,7 +57,7 @@
           "title": "Owner",
           "email": "JOneill@moodklaw.com",
           "phone": "215-832-4208",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joseph-o-neill-b242138"
         },
         {
           "name": "Matt Konstance",
@@ -69,21 +69,21 @@
         {
           "name": "Patricia Moreland",
           "title": "Senior Partner",
-          "email": null,
+          "email": "PMoreland@moodklaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patricia-moreland-195737b9"
         },
         {
           "name": "Casey McCurdy",
           "title": "Partner",
-          "email": null,
+          "email": "CMcCurdy@moodklaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/casey-mccurdy-8018a4126"
         },
         {
           "name": "Joan Devlin Daly",
           "title": "Partner",
-          "email": null,
+          "email": "JDaly@moodklaw.com",
           "phone": null,
           "linkedin_url": null
         }

@@ -27,8 +27,8 @@
       "managing_partner": {
         "name": "Dawn Besserman",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "dbesserman@mrhfmlaw.com",
+        "phone": "1-866-234-7997",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -58,37 +58,37 @@
         {
           "name": "Marcus Raichle",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mraichle@mrhfmlaw.com",
+          "phone": "1-866-234-7997",
+          "linkedin_url": "https://www.linkedin.com/in/mraichlejr"
         },
         {
           "name": "Meredith Good",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mgood@mrhfmlaw.com",
+          "phone": "1-866-234-7997",
+          "linkedin_url": "https://www.linkedin.com/in/meredith-good-6b240094"
         },
         {
           "name": "William Ruiz",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "wruiz@mrhfmlaw.com",
+          "phone": "1-866-234-7997",
+          "linkedin_url": "https://www.linkedin.com/in/williamfruiz"
         },
         {
           "name": "Suzanne Ratcliffe",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "sratcliffe@mrhfmlaw.com",
+          "phone": "1-866-234-7997",
           "linkedin_url": null
         },
         {
           "name": "Clay Thompson",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "cthompson@mrhfmlaw.com",
+          "phone": "1-866-234-7997",
+          "linkedin_url": "https://www.linkedin.com/in/clay-thompson-047175142"
         }
       ]
     }

@@ -59,7 +59,7 @@
         "title": "Executive Director",
         "email": "CSutera@morrisonmahoney.com",
         "phone": "(617) 737-8845",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/carl-sutera-073a9813"
       },
       "ai_contact": {
         "name": null,
@@ -75,7 +75,7 @@
           "title": "Director of Information Technology",
           "email": "EKelly@morrisonmahoney.com",
           "phone": "(617) 737-8833",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/eileen-kelly-695ba1a"
         }
       ]
     },
@@ -83,7 +83,7 @@
     "linkedin_size": "201-500"
   },
   "email": {
-    "to_name": "Carl",
+    "to_name": "Carl Sutera",
     "to_title": "Executive Director",
     "to_email": "CSutera@morrisonmahoney.com",
     "subject": "AI for Morrison Mahoney, built for firms like yours",

@@ -61,8 +61,8 @@
         {
           "name": "Gary Klinger",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "gklinger@milberg.com",
+          "phone": "8662520878",
           "linkedin_url": null
         },
         {
@@ -70,14 +70,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mikeacciavatti"
         },
         {
           "name": "James Oldnall",
           "title": "Managing Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://uk.linkedin.com/in/james-oldnall-771b2024"
         },
         {
           "name": "Edward Cardington",
@@ -91,7 +91,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/polly-brennan-98418020"
         }
       ]
     },

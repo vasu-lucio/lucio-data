@@ -59,36 +59,36 @@
         {
           "name": "Amy Vigneron",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "avigneron@lglaw.com",
+          "phone": "7168491333",
+          "linkedin_url": "https://www.linkedin.com/in/amy-vigneron-ab02aa1a"
         },
         {
           "name": "William Justyk",
           "title": "Junior Partner",
-          "email": null,
-          "phone": null,
+          "email": "wjustyk@lglaw.com",
+          "phone": "7168491333",
           "linkedin_url": null
         },
         {
           "name": "Karoline R Faltas",
           "title": "Junior Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kfaltas@lglaw.com",
+          "phone": "7168491333",
+          "linkedin_url": "https://www.linkedin.com/in/karoline-r-faltas-0a229745"
         },
         {
           "name": "Anthony Faraco",
           "title": "Junior Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "afaraco@lglaw.com",
+          "phone": "7168491333",
+          "linkedin_url": "https://www.linkedin.com/in/anthony-faraco-151a17181"
         },
         {
           "name": "Dale J Bauman",
           "title": "Junior Partner",
-          "email": null,
-          "phone": null,
+          "email": "dbauman@lglaw.com",
+          "phone": "7168491333",
           "linkedin_url": null
         }
       ]

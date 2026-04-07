@@ -57,14 +57,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/donald-labbate-3a693384"
         },
         {
           "name": "Kenneth J. Balkan",
           "title": null,
-          "email": null,
+          "email": "kbalkan@lbcclaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kenneth-balkan-8376bb23/"
         }
       ],
       "tech_contact": {
@@ -93,7 +93,7 @@
         {
           "name": "Peter L. Contini",
           "title": "Partner",
-          "email": null,
+          "email": "pcontini@lbcclaw.com",
           "phone": null,
           "linkedin_url": null
         }

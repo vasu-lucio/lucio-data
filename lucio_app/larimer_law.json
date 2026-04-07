@@ -26,7 +26,7 @@
         "title": "Founder & Managing Attorney",
         "email": "john.larimer@larimer-law.com",
         "phone": "585-851-0340",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/john-rudikoff-a558381a"
       },
       "co_managing_partner": {
         "name": null,
@@ -55,22 +55,22 @@
         {
           "name": "Lawrence Bice",
           "title": "Sr. Counsel & Director of Litigation Services",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "l.bice@larimer-law.com",
+          "phone": "5858510340",
+          "linkedin_url": "https://www.linkedin.com/in/lawrence-bice-32870915/"
         },
         {
           "name": "Jennifer Castaldo",
           "title": "Discovery Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jcastaldo@larimer-law.com",
+          "phone": "5858510340",
+          "linkedin_url": "https://www.linkedin.com/in/jennifer-castaldo-84343a3b/"
         },
         {
           "name": "Heather DiStefano",
           "title": "Discovery Counsel",
-          "email": null,
-          "phone": null,
+          "email": "hdistefano@larimer-law.com",
+          "phone": "716-428-5398",
           "linkedin_url": null
         }
       ]

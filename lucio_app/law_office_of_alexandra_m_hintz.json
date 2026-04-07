@@ -20,9 +20,9 @@
       "managing_partner": {
         "name": "Susan Hintze",
         "title": "Founder & Managing Partner",
-        "email": null,
+        "email": "susan@hintzelaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/susanlhintze"
       },
       "co_managing_partner": {
         "name": null,
@@ -51,14 +51,14 @@
         {
           "name": "Mike Hintze",
           "title": "Partner",
-          "email": null,
+          "email": "mike@hintzelaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mhintze"
         },
         {
           "name": "Jennifer Ruehr",
           "title": "Partner",
-          "email": null,
+          "email": "jennifer@hintzelaw.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -67,7 +67,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/samuelcastic"
         },
         {
           "name": "Alexandra Schlight",
@@ -79,9 +79,9 @@
         {
           "name": "Taylor Widawski",
           "title": "Partner",
-          "email": null,
+          "email": "taylor@hintzelaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/taylor-widawski-356b5687"
         }
       ]
     },

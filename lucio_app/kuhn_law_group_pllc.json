@@ -34,7 +34,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-cohn"
       },
       "co_managing_partner": {
         "name": null,
@@ -65,14 +65,14 @@
           "title": "Founder/Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/thepatrickpaul"
         },
         {
           "name": "A. G.",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/conner-eversole"
         }
       ]
     },

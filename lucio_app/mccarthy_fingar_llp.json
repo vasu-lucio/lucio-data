@@ -55,14 +55,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-j-mccarthy-1b40a6182"
         },
         {
           "name": "Elmer Lee Fingar",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/maureenmccarthy"
         }
       ],
       "tech_contact": {
@@ -84,21 +84,21 @@
         {
           "name": "Susan Taxin Baer",
           "title": "Partner",
-          "email": null,
+          "email": "stbaer@mccarthyfingar.com",
           "phone": "914-385-1046",
           "linkedin_url": "https://www.linkedin.com/in/susan-taxin-baer-7343291b"
         },
         {
           "name": "Gail M. Boggio",
           "title": "Partner",
-          "email": null,
+          "email": "gboggio@mccarthyfingar.com",
           "phone": "914-385-1026",
           "linkedin_url": "https://www.linkedin.com/in/gail-boggio-8a15a017"
         },
         {
           "name": "Kathleen Donelli",
           "title": "Counsel",
-          "email": null,
+          "email": "kdonelli@mccarthyfingar.com",
           "phone": "914-385-1055",
           "linkedin_url": "https://www.linkedin.com/in/kathleen-donelli-88a41733"
         }

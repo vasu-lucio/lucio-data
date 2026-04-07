@@ -27,9 +27,9 @@
       "managing_partner": {
         "name": "Jeffrey K. Brown",
         "title": "Managing Partner",
-        "email": null,
+        "email": "jbrown@leedsbrownlaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jeffreybrownattorney"
       },
       "co_managing_partner": {
         "name": null,
@@ -58,21 +58,21 @@
         {
           "name": "Michael A. Tompkins",
           "title": "Partner",
-          "email": null,
+          "email": "mtompkins@leedsbrownlaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Brett R. Cohen",
           "title": "Partner",
-          "email": null,
+          "email": "bcohen@leedsbrownlaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Rick Ostrove",
           "title": "Litigation Partner",
-          "email": null,
+          "email": "rostrove@leedsbrownlaw.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -81,7 +81,7 @@
           "title": "Senior Associate",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brandon-okano-6ab03916"
         }
       ]
     },

@@ -33,9 +33,9 @@
       "co_managing_partner": {
         "name": "Yakub Hazzard",
         "title": "Vice-Chair",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "yxh@msk.com",
+        "phone": "+13103123191",
+        "linkedin_url": "https://www.linkedin.com/in/yakub-hazzard-1469b113/"
       },
       "founders": [],
       "tech_contact": {
@@ -43,7 +43,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": "310-312-3712",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/douggold"
       },
       "ai_contact": {
         "name": null,
@@ -59,7 +59,7 @@
           "title": "Partner, Litigation",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-steinberg-8467b86"
         },
         {
           "name": "Lucia Coyoca",
@@ -74,7 +74,7 @@
     "linkedin_size": "201-500"
   },
   "email": {
-    "to_name": "Doug",
+    "to_name": "Doug Gold",
     "to_title": "Chief Operating Officer",
     "to_email": null,
     "subject": "AI for Mitchell Silberberg & Knupp - built for firms like yours",

@@ -44,7 +44,7 @@
         "title": "Chief Operating Officer",
         "email": "cmcdevitt@mgmlaw.com",
         "phone": "617 670 8419",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/chrismcdevitt/"
       },
       "ai_contact": {
         "name": null,
@@ -60,21 +60,21 @@
           "title": "Partner",
           "email": "dgold@mgmlaw.com",
           "phone": "213 694 4205",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-gold-8194791b/"
         },
         {
           "name": "Mary C. Rau",
           "title": "Chief Human Relations Officer",
           "email": "mrau@mgmlaw.com",
           "phone": "312 625 4997",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/amaryahbocchino"
         },
         {
           "name": "James A. Donnelly",
           "title": "Chief Information Officer",
           "email": "jdonnelly@mgmlaw.com",
           "phone": "617 670 8427",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-donnelly-45499725"
         },
         {
           "name": "Mary T. Tucker",
@@ -95,7 +95,7 @@
     "linkedin_company_url": "https://www.linkedin.com/company/mgmlawfirm"
   },
   "email": {
-    "to_name": "Christopher",
+    "to_name": "Christopher P. McDevitt",
     "to_title": "Chief Operating Officer",
     "to_email": "cmcdevitt@mgmlaw.com",
     "subject": "AI for MG+M The Law Firm, built for national litigation shops",

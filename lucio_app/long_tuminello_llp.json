@@ -44,9 +44,9 @@
         {
           "name": "John E. Long Jr.",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dbesso@ltesq.com",
+          "phone": "631-666-2500",
+          "linkedin_url": "https://www.linkedin.com/in/johnowensjr"
         }
       ],
       "tech_contact": {
@@ -68,37 +68,37 @@
         {
           "name": "Barry M. Tuminello",
           "title": "Member",
-          "email": null,
+          "email": "dbesso@ltesq.com",
           "phone": "631-666-2500",
           "linkedin_url": null
         },
         {
           "name": "David H. Besso",
           "title": "Member",
-          "email": null,
+          "email": "dbesso@ltesq.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/buenod"
         },
         {
           "name": "Karen Svendsen",
           "title": "Attorney",
-          "email": null,
+          "email": "dbesso@ltesq.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/karen-svendsen-8035b59"
         },
         {
           "name": "Jeffrey Panasci",
           "title": "Attorney",
-          "email": null,
+          "email": "dbesso@ltesq.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-weisenfeld-95b194310"
         },
         {
           "name": "Michelle Aulivola",
           "title": "Attorney",
-          "email": null,
+          "email": "dbesso@ltesq.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michelle-aulivola-17b3521"
         }
       ]
     },

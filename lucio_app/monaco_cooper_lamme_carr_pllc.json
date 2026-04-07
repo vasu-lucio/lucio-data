@@ -43,8 +43,8 @@
         {
           "name": "Adam H. Cooper",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "acooper@mclclaw.com",
+          "phone": "518-855-3535",
           "linkedin_url": null
         },
         {
@@ -57,9 +57,9 @@
         {
           "name": "Brian D. Carr",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bcarr@mclclaw.com",
+          "phone": "518-855-3535",
+          "linkedin_url": "https://www.linkedin.com/in/brian-carr-393a136"
         }
       ],
       "tech_contact": {
@@ -88,8 +88,8 @@
         {
           "name": "Norah M. Murphy",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "nmurphy@mclclaw.com",
+          "phone": "518-855-3535",
           "linkedin_url": null
         }
       ]

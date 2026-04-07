@@ -21,9 +21,9 @@
       "managing_partner": {
         "name": "Yuval H. Marcus",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "marcus@leasonellis.com",
+        "phone": "914.821.9075",
+        "linkedin_url": "https://www.linkedin.com/in/yuvalmarcus"
       },
       "co_managing_partner": {
         "name": null,
@@ -36,15 +36,15 @@
         {
           "name": "David Leason",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "leason@leasonellis.com",
+          "phone": "914.821.9070",
+          "linkedin_url": "https://www.linkedin.com/in/davidleason"
         },
         {
           "name": "Edward Ellis",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "ellis@leasonellis.com",
+          "phone": "914.821.9071",
           "linkedin_url": null
         }
       ],
@@ -67,23 +67,23 @@
         {
           "name": "Lauren Emerson",
           "title": "Partner, Co-Chair of the Firm\u2019s Trademark & Copyright Practice Group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "emerson@leasonellis.com",
+          "phone": "914.821.9078",
+          "linkedin_url": "https://www.linkedin.com/in/lauren-emerson-b882044"
         },
         {
           "name": "Jordan Garner",
           "title": "Partner, Co-Chair of the Firm\u2019s Patent Practice Group and a Co-Chair of the Transactions Practice Group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jgarner@leasonellis.com",
+          "phone": "914.821.8007",
+          "linkedin_url": "https://www.linkedin.com/in/jordan-garner-75aaa212"
         },
         {
           "name": "Peter S. Sloane",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "Sloane@leasonellis.com",
+          "phone": "914.821.9073",
+          "linkedin_url": "https://www.linkedin.com/in/petersloane"
         }
       ]
     },

@@ -29,7 +29,7 @@
         "title": "Proprietor",
         "email": null,
         "phone": "(212) 480-3030",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michael-pressman-453452107"
       },
       "co_managing_partner": {
         "name": null,
@@ -67,7 +67,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stuart-cholewa-559a00367"
         },
         {
           "name": "Robert Bonelli",
@@ -81,14 +81,14 @@
           "title": "Associate Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/binyamin-bixon-289b5ab8"
         },
         {
           "name": "Patrick Bell",
           "title": "Associate Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patrickbells"
         }
       ]
     },

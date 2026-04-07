@@ -30,9 +30,9 @@
       "managing_partner": {
         "name": "Michael Cardello III",
         "title": "Managing Partner",
-        "email": null,
+        "email": "mcardello@moritthock.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michael-cardello-iii-995aa35"
       },
       "co_managing_partner": {
         "name": null,
@@ -45,9 +45,9 @@
       "tech_contact": {
         "name": "Megan Rogers",
         "title": "Executive Director, Not-For-Profit",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "badelman@moritthock.com",
+        "phone": "(516) 265-1184",
+        "linkedin_url": "https://www.linkedin.com/in/brian-adelman-15598772/"
       },
       "ai_contact": {
         "name": null,
@@ -70,7 +70,7 @@
           "title": "Director of Marketing",
           "email": "lhauser@moritthock.com",
           "phone": "(516) 873-2000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-adelman-15598772/"
         }
       ]
     },

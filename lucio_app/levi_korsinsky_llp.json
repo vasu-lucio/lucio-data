@@ -22,7 +22,7 @@
         "title": "Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/eduardkorsinsky"
       },
       "co_managing_partner": {
         "name": null,
@@ -53,7 +53,7 @@
           "title": "Founding Partner",
           "email": "[[email protected]]",
           "phone": "212-363-7500",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joseph-levi-94150"
         },
         {
           "name": "Adam Apton",
@@ -67,7 +67,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gregory-potrepka-0b026234"
         },
         {
           "name": "Nicholas Porritt",
@@ -88,21 +88,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/danieltepper"
         },
         {
           "name": "Shannon Hopkins",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/shannon-hopkins-54634b45"
         },
         {
           "name": "Elizabeth Tripodi",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/elizabeth-tripodi-229b104"
         }
       ]
     },
