@@ -98,21 +98,28 @@ def get_db():
     """)
     conn.execute("""
         CREATE TABLE IF NOT EXISTS emails (
-            firm_slug   TEXT PRIMARY KEY,
-            to_name     TEXT,
-            to_title    TEXT,
-            to_email    TEXT,
-            cc_emails   TEXT DEFAULT '',
-            subject     TEXT,
-            body        TEXT,
-            updated     TEXT
+            firm_slug    TEXT PRIMARY KEY,
+            to_name      TEXT,
+            to_title     TEXT,
+            to_email     TEXT,
+            cc_emails    TEXT DEFAULT '',
+            subject      TEXT,
+            body         TEXT,
+            updated      TEXT,
+            draft_saved  INTEGER DEFAULT 0,
+            draft_sender TEXT DEFAULT ''
         )
     """)
-    # migrate: add cc_emails if missing
-    try:
-        conn.execute("ALTER TABLE emails ADD COLUMN cc_emails TEXT DEFAULT ''")
-    except Exception:
-        pass
+    # migrate: add columns if missing
+    for col, definition in [
+        ("cc_emails",    "TEXT DEFAULT ''"),
+        ("draft_saved",  "INTEGER DEFAULT 0"),
+        ("draft_sender", "TEXT DEFAULT ''"),
+    ]:
+        try:
+            conn.execute(f"ALTER TABLE emails ADD COLUMN {col} {definition}")
+        except Exception:
+            pass
     conn.commit()
     return conn
 
@@ -132,12 +139,22 @@ def set_status(conn, slug, firm_name, status, notes):
 def get_email(conn, slug, fallback_em: dict):
     """Return email dict — from DB if edited, else from JSON."""
     row = conn.execute(
-        "SELECT to_name, to_title, to_email, cc_emails, subject, body FROM emails WHERE firm_slug=?", (slug,)
+        "SELECT to_name, to_title, to_email, cc_emails, subject, body, draft_saved, draft_sender FROM emails WHERE firm_slug=?", (slug,)
     ).fetchone()
     if row:
         return {"to_name": row[0], "to_title": row[1], "to_email": row[2],
-                "cc_emails": row[3] or "", "subject": row[4], "body": row[5]}
-    return {**fallback_em, "cc_emails": ""}
+                "cc_emails": row[3] or "", "subject": row[4], "body": row[5],
+                "draft_saved": bool(row[6]), "draft_sender": row[7] or ""}
+    return {**fallback_em, "cc_emails": "", "draft_saved": False, "draft_sender": ""}
+
+def mark_draft_saved(conn, slug, sender):
+    conn.execute("""
+        INSERT INTO emails (firm_slug, draft_saved, draft_sender, updated)
+        VALUES (?, 1, ?, ?)
+        ON CONFLICT(firm_slug) DO UPDATE SET
+            draft_saved=1, draft_sender=excluded.draft_sender, updated=excluded.updated
+    """, (slug, sender, datetime.now().isoformat()))
+    conn.commit()
 
 def save_email(conn, slug, to_name, to_title, to_email, cc_emails, subject, body):
     conn.execute("""
@@ -669,25 +686,65 @@ elif page == "📋 Pipeline":
 elif page == "✉️ Emails":
     st.title("✉️ Email Copy")
 
-    search_e = st.text_input("🔍 Search", placeholder="Firm or recipient name...")
+    # ── Filters ──────────────────────────────────────────────────────────────
+    col_se, col_sz2, col_coo, col_draft_f = st.columns([3, 2, 2, 2])
+    with col_se:
+        search_e = st.text_input("🔍 Search", placeholder="Firm or recipient name...")
+    with col_sz2:
+        SIZE_ORDER = ["1-10", "11-50", "51-200", "201-500", "501-1000", "1001-5000", "5000+"]
+        avail_sizes_e = sorted(
+            {rec["firm_data"].get("linkedin_size") for rec in firms if rec["firm_data"].get("linkedin_size")},
+            key=lambda x: SIZE_ORDER.index(x) if x in SIZE_ORDER else 99
+        )
+        filter_size_e = st.selectbox("Firm Size", ["All"] + avail_sizes_e, key="email_size_filter")
+    with col_coo:
+        filter_coo = st.selectbox("COO / Ops Contact", ["All", "Has COO", "No COO"], key="email_coo_filter")
+    with col_draft_f:
+        filter_draft = st.selectbox("Draft Status", ["All", "✅ Draft Saved", "⏳ Not Yet Saved"], key="email_draft_filter")
+
     only_with_email = st.checkbox("Only show firms with a direct email address", value=True)
+    st.markdown("---")
+
+    def _has_coo(rec):
+        ps = rec["firm_data"].get("people", {}) or {}
+        coo = ps.get("coo_contact") or {}
+        if coo.get("name"): return True
+        tc = ps.get("tech_contact") or {}
+        title = (tc.get("title") or "").lower()
+        return "coo" in title or "chief operating" in title
 
     for rec in firms:
-        fd = rec["firm_data"]
-        em = rec["email"]
+        fd  = rec["firm_data"]
+        em  = rec["email"]
+        em_live = get_email(conn, rec["_slug"], em)
+
+        # Apply filters
         if search_e and search_e.lower() not in fd.get("firm_name","").lower() \
                      and search_e.lower() not in (em.get("to_name","") or "").lower():
             continue
         if only_with_email and not em.get("to_email"):
             continue
-
-        em_live  = get_email(conn, rec["_slug"], em)
-        people   = fd.get("people", {}) or {}
-        _coo     = get_coo_contact(people)
-        _city    = fd.get("city","")
+        if filter_size_e != "All" and fd.get("linkedin_size") != filter_size_e:
+            continue
+        if filter_coo == "Has COO" and not _has_coo(rec):
+            continue
+        if filter_coo == "No COO" and _has_coo(rec):
+            continue
+        if filter_draft == "✅ Draft Saved" and not em_live.get("draft_saved"):
+            continue
+        if filter_draft == "⏳ Not Yet Saved" and em_live.get("draft_saved"):
+            continue
+        people    = fd.get("people", {}) or {}
+        _coo      = get_coo_contact(people)
+        _city     = fd.get("city","")
         _inperson = is_inperson_eligible(_city)
         _def_subj = auto_subject(fd.get("firm_name",""))
-        label = f"**{fd.get('firm_name','')}** → {em_live.get('to_name','(no recipient yet)')} ({em_live.get('to_title','')})"
+        _saved    = em_live.get("draft_saved", False)
+        _sender_tag = f" · saved by {em_live['draft_sender']}" if _saved and em_live.get("draft_sender") else ""
+        _size_tag = f" · {fd.get('linkedin_size','')}" if fd.get("linkedin_size") else ""
+        _coo_tag  = " · 👔 COO" if _has_coo(rec) else ""
+        _draft_badge = " ✅ Draft saved" if _saved else ""
+        label = f"{'✅ ' if _saved else ''}**{fd.get('firm_name','')}**{_size_tag}{_coo_tag} → {em_live.get('to_name','(no recipient yet)')} ({em_live.get('to_title','')}){_draft_badge}{_sender_tag}"
         with st.expander(label):
             if _inperson:
                 st.markdown("📍 **In-person eligible** (NY/NJ/Philadelphia)")
@@ -734,6 +791,8 @@ elif page == "✉️ Emails":
                         save_email(conn, rec["_slug"], e_name, e_title, e_email, e_cc, e_subj, e_body)
                         draft_id, err = gmail_helper.create_draft(e_email, e_subj, _full, user=_sender, attach_pdf=True, cc_emails=e_cc)
                         if draft_id:
+                            mark_draft_saved(conn, rec["_slug"], _sender)
                             st.success(f"✅ Draft saved via {_sender}'s Gmail! (ID: {draft_id[:12]}…)")
+                            st.rerun()
                         else:
                             st.error(f"❌ {err}")
