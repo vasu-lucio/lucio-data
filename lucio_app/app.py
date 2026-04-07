@@ -196,33 +196,32 @@ with st.sidebar:
     page = st.radio("Navigate", ["📊 Dashboard", "🏢 Firm Browser", "📋 Pipeline", "✉️ Emails"])
     st.markdown("---")
 
-    # Gmail connection status
+    # Sender selector
+    st.markdown("**Sending as**")
+    sender = st.radio("Sender", ["Vasu", "Anshul"], horizontal=True, label_visibility="collapsed")
+    st.session_state["sender"] = sender
+
     st.markdown("**Gmail**")
-    if gmail_helper.is_authorized():
-        st.success("✅ Connected")
+    if gmail_helper.is_authorized(sender):
+        st.success(f"✅ {sender} connected")
         if st.button("Disconnect", key="gmail_revoke"):
-            gmail_helper.revoke_token()
+            gmail_helper.revoke_token(sender)
             st.rerun()
-    elif gmail_helper.has_credentials():
-        st.warning("⚠️ Not authorized")
-        if st.button("🔗 Authorize Gmail", key="gmail_auth"):
-            _, err = gmail_helper.get_service()
+    elif gmail_helper.has_credentials(sender):
+        st.warning(f"⚠️ {sender} not authorized")
+        if st.button(f"🔗 Authorize {sender}", key="gmail_auth"):
+            _, err = gmail_helper.get_service(sender)
             if err == "ok":
                 st.success("Authorized!")
                 st.rerun()
             else:
                 st.error(f"Error: {err}")
     else:
-        st.error("❌ No credentials file")
-        st.markdown("<small>Add `gmail_credentials.json` to the app folder</small>", unsafe_allow_html=True)
-        with st.expander("Setup instructions"):
-            st.markdown("""
-1. Go to [Google Cloud Console](https://console.cloud.google.com)
-2. APIs & Services → Credentials
-3. Create **OAuth 2.0 Client ID** (Desktop app)
-4. Download JSON → save as `lucio_app/gmail_credentials.json`
-5. Click **Authorize Gmail** above
-""")
+        st.error(f"❌ No credentials for {sender}")
+        st.markdown(
+            f"<small>Add `gmail_credentials_{sender.lower()}.json` to the app folder</small>",
+            unsafe_allow_html=True
+        )
     st.markdown("---")
     st.markdown(f"<small style='color:#6B7280'>Data dir: {DATA_DIR}</small>", unsafe_allow_html=True)
 
@@ -460,15 +459,18 @@ elif page == "🏢 Firm Browser":
                         st.success("Saved!")
                 with col_draft:
                     if st.button("📨 Save Gmail Draft", key=f"draft_{rec['_slug']}"):
-                        if not gmail_helper.is_authorized():
-                            st.warning("Connect Gmail first (see sidebar)")
+                        _sender = st.session_state.get("sender", "Vasu")
+                        if not gmail_helper.is_authorized(_sender):
+                            st.warning(f"Connect {_sender}'s Gmail first (see sidebar)")
                         elif not e_body.strip():
                             st.warning("Email body is empty")
                         else:
+                            _sig = gmail_helper.get_signature(_sender)
+                            _body_with_sig = e_body.rstrip() + _sig
                             save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
-                            draft_id, err = gmail_helper.create_draft(e_email, e_subj, e_body, attach_pdf=True)
+                            draft_id, err = gmail_helper.create_draft(e_email, e_subj, _body_with_sig, user=_sender, attach_pdf=True)
                             if draft_id:
-                                st.success(f"✅ Draft saved to Gmail! (ID: {draft_id[:12]}…)")
+                                st.success(f"✅ Draft saved via {_sender}'s Gmail! (ID: {draft_id[:12]}…)")
                             else:
                                 st.error(f"❌ {err}")
 
@@ -562,14 +564,17 @@ elif page == "✉️ Emails":
                     st.success("Saved!")
             with col_pd:
                 if st.button("📨 Save Gmail Draft", key=f"pdraft_{rec['_slug']}"):
-                    if not gmail_helper.is_authorized():
-                        st.warning("Connect Gmail first (see sidebar)")
+                    _sender = st.session_state.get("sender", "Vasu")
+                    if not gmail_helper.is_authorized(_sender):
+                        st.warning(f"Connect {_sender}'s Gmail first (see sidebar)")
                     elif not e_body.strip():
                         st.warning("Email body is empty")
                     else:
+                        _sig = gmail_helper.get_signature(_sender)
+                        _body_with_sig = e_body.rstrip() + _sig
                         save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
-                        draft_id, err = gmail_helper.create_draft(e_email, e_subj, e_body, attach_pdf=True)
+                        draft_id, err = gmail_helper.create_draft(e_email, e_subj, _body_with_sig, user=_sender, attach_pdf=True)
                         if draft_id:
-                            st.success(f"✅ Draft saved to Gmail! (ID: {draft_id[:12]}…)")
+                            st.success(f"✅ Draft saved via {_sender}'s Gmail! (ID: {draft_id[:12]}…)")
                         else:
                             st.error(f"❌ {err}")
