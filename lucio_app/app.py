@@ -208,7 +208,12 @@ def auto_subject(firm_name: str) -> str:
 
 SENDER_SIGNATURES = {
     "Vasu": (
-        "\n\nBest,\nVasu\nLucio AI\nvasu@lucioai.com\nwww.lucioai.com"
+        "\n\nBest,\nVasu\n\n"
+        "Vasu Lucio\nLucio AI\n"
+        "+1 (213) 883-3255\n"
+        "vasu@lucioai.com\n"
+        "https://www.linkedin.com/in/vasulucio/\n"
+        "www.lucioai.com"
     ),
     "Anshul": (
         "\n\nBest,\nAnshul\n\n"
