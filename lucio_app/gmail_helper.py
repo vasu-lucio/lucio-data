@@ -39,10 +39,10 @@ def _ensure_creds_file(user: str) -> str:
         import streamlit as st
         secret_key = cfg["secret_key"]
         if secret_key in st.secrets:
-            creds_data = dict(st.secrets[secret_key])
-            # Write to a temp file that persists for the process lifetime
+            # Secret is stored as a raw JSON string
+            raw = st.secrets[secret_key]
             with open(cfg["creds_file"], "w") as f:
-                json.dump(creds_data, f)
+                f.write(raw if isinstance(raw, str) else json.dumps(raw))
             return cfg["creds_file"]
     except Exception:
         pass
