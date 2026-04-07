@@ -111,7 +111,8 @@ def get_service(user: str = "Vasu"):
 
 
 def create_draft(to_email: str, subject: str, body: str,
-                 user: str = "Vasu", attach_pdf: bool = True) -> tuple:
+                 user: str = "Vasu", attach_pdf: bool = True,
+                 cc_emails: str = "") -> tuple:
     """Create a Gmail draft. Returns (draft_id, error_message)."""
     service, status = get_service(user)
     if service is None:
@@ -121,6 +122,8 @@ def create_draft(to_email: str, subject: str, body: str,
         msg = MIMEMultipart()
         msg["to"]      = to_email or ""
         msg["subject"] = subject or ""
+        if cc_emails and cc_emails.strip():
+            msg["cc"] = cc_emails.strip()
         msg.attach(MIMEText(body, "plain"))
 
         if attach_pdf and os.path.exists(PDF_PATH):

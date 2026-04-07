@@ -102,11 +102,17 @@ def get_db():
             to_name     TEXT,
             to_title    TEXT,
             to_email    TEXT,
+            cc_emails   TEXT DEFAULT '',
             subject     TEXT,
             body        TEXT,
             updated     TEXT
         )
     """)
+    # migrate: add cc_emails if missing
+    try:
+        conn.execute("ALTER TABLE emails ADD COLUMN cc_emails TEXT DEFAULT ''")
+    except Exception:
+        pass
     conn.commit()
     return conn
 
@@ -126,21 +132,22 @@ def set_status(conn, slug, firm_name, status, notes):
 def get_email(conn, slug, fallback_em: dict):
     """Return email dict — from DB if edited, else from JSON."""
     row = conn.execute(
-        "SELECT to_name, to_title, to_email, subject, body FROM emails WHERE firm_slug=?", (slug,)
+        "SELECT to_name, to_title, to_email, cc_emails, subject, body FROM emails WHERE firm_slug=?", (slug,)
     ).fetchone()
     if row:
         return {"to_name": row[0], "to_title": row[1], "to_email": row[2],
-                "subject": row[3], "body": row[4]}
-    return fallback_em
+                "cc_emails": row[3] or "", "subject": row[4], "body": row[5]}
+    return {**fallback_em, "cc_emails": ""}
 
-def save_email(conn, slug, to_name, to_title, to_email, subject, body):
+def save_email(conn, slug, to_name, to_title, to_email, cc_emails, subject, body):
     conn.execute("""
-        INSERT INTO emails (firm_slug, to_name, to_title, to_email, subject, body, updated)
-        VALUES (?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO emails (firm_slug, to_name, to_title, to_email, cc_emails, subject, body, updated)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(firm_slug) DO UPDATE SET
             to_name=excluded.to_name, to_title=excluded.to_title, to_email=excluded.to_email,
-            subject=excluded.subject, body=excluded.body, updated=excluded.updated
-    """, (slug, to_name, to_title, to_email, subject, body, datetime.now().isoformat()))
+            cc_emails=excluded.cc_emails, subject=excluded.subject, body=excluded.body,
+            updated=excluded.updated
+    """, (slug, to_name, to_title, to_email, cc_emails, subject, body, datetime.now().isoformat()))
     conn.commit()
 
 # ── Data loading ───────────────────────────────────────────────────────────────
@@ -170,6 +177,48 @@ def person_summary(p):
     parts = [p["name"]]
     if p.get("title"):  parts.append(p["title"])
     return " · ".join(parts)
+
+# ── Email helpers ───────────────────────────────────────────────────────────────
+INPERSON_KEYWORDS = ["new york", "ny", "brooklyn", "manhattan", "bronx", "queens",
+                     "new jersey", "nj", "newark", "hoboken", "jersey city",
+                     "philadelphia", "philly", "pa"]
+
+def is_inperson_eligible(city: str) -> bool:
+    c = (city or "").lower()
+    return any(kw in c for kw in INPERSON_KEYWORDS)
+
+def get_coo_contact(people: dict) -> dict:
+    """Return best contact: prefer COO/COO-title, then tech_contact, then managing_partner."""
+    coo_keywords = ["coo", "chief operating", "operations"]
+    for role in ["tech_contact", "ai_contact", "co_managing_partner", "managing_partner"]:
+        p = people.get(role) or {}
+        if p.get("name") and any(k in (p.get("title","") or "").lower() for k in coo_keywords):
+            return p
+    for p in (people.get("additional_contacts") or []):
+        if p.get("name") and any(k in (p.get("title","") or "").lower() for k in coo_keywords):
+            return p
+    # fallback order
+    for role in ["tech_contact", "ai_contact", "co_managing_partner", "managing_partner"]:
+        p = people.get(role) or {}
+        if p.get("name"): return p
+    return {}
+
+def auto_subject(firm_name: str) -> str:
+    return f"{firm_name} / Lucio AI"
+
+SENDER_SIGNATURES = {
+    "Vasu": (
+        "\n\nBest,\nVasu\nLucio AI\nvasu@lucioai.com\nwww.lucioai.com"
+    ),
+    "Anshul": (
+        "\n\nBest,\nAnshul\n\n"
+        "Anshul Butani\nLucio AI\n"
+        "+1 (650) 283 5574\n"
+        "anshul@lucioai.com\n"
+        "https://www.linkedin.com/in/anshulbutani/\n"
+        "www.lucioai.com"
+    ),
+}
 
 # ── Password Gate ──────────────────────────────────────────────────────────────
 USERS_AUTH = {
@@ -480,17 +529,45 @@ elif page == "🏢 Firm Browser":
                     st.success("Saved!")
 
                 st.markdown("---")
+                _city = fd.get("city","")
+                _inperson = is_inperson_eligible(_city)
+                if _inperson:
+                    st.markdown("📍 **In-person meeting eligible** (NY/NJ/Philadelphia)")
+                else:
+                    st.markdown("💻 **Remote only** (outside NY/NJ/Philadelphia)")
+
                 st.markdown("**Cold Email**")
-                em_live = get_email(conn, rec["_slug"], em)
-                e_name  = st.text_input("To (name)",    value=em_live.get("to_name",""),  key=f"en_{rec['_slug']}")
-                e_title = st.text_input("To (title)",   value=em_live.get("to_title",""), key=f"et_{rec['_slug']}")
-                e_email = st.text_input("To (email)",   value=em_live.get("to_email",""), key=f"ee_{rec['_slug']}")
-                e_subj  = st.text_input("Subject",      value=em_live.get("subject",""),  key=f"es_{rec['_slug']}")
-                e_body  = st.text_area("Body", value=em_live.get("body",""), height=180,  key=f"eb_{rec['_slug']}")
+                em_live  = get_email(conn, rec["_slug"], em)
+                _coo     = get_coo_contact(people)
+                _def_subj = auto_subject(fd.get("firm_name",""))
+                e_name  = st.text_input("To (name)",    value=em_live.get("to_name","") or _coo.get("name",""),   key=f"en_{rec['_slug']}")
+                e_title = st.text_input("To (title)",   value=em_live.get("to_title","") or _coo.get("title",""), key=f"et_{rec['_slug']}")
+                e_email = st.text_input("To (email)",   value=em_live.get("to_email","") or _coo.get("email",""), key=f"ee_{rec['_slug']}")
+                e_cc    = st.text_input("CC (comma-separated emails)", value=em_live.get("cc_emails",""),          key=f"ecc_{rec['_slug']}")
+                e_subj  = st.text_input("Subject",      value=em_live.get("subject","") or _def_subj,             key=f"es_{rec['_slug']}")
+
+                # Time slot helper
+                import datetime as dt
+                with st.expander("📅 Insert meeting slots"):
+                    sc1, sc2 = st.columns(2)
+                    slot1 = sc1.date_input("Slot 1", key=f"s1_{rec['_slug']}", value=dt.date.today() + dt.timedelta(days=3))
+                    time1 = sc1.time_input("Time 1", key=f"t1_{rec['_slug']}", value=dt.time(10, 0))
+                    slot2 = sc2.date_input("Slot 2", key=f"s2_{rec['_slug']}", value=dt.date.today() + dt.timedelta(days=5))
+                    time2 = sc2.time_input("Time 2", key=f"t2_{rec['_slug']}", value=dt.time(14, 0))
+                    if st.button("Insert slots into body", key=f"ins_{rec['_slug']}"):
+                        _meeting = "in person" if _inperson else "over a call"
+                        _slot_text = (f"\n\nWould love to connect {_meeting}. Here are two times that work:\n"
+                                      f"• {slot1.strftime('%A, %d %B')} at {time1.strftime('%I:%M %p')}\n"
+                                      f"• {slot2.strftime('%A, %d %B')} at {time2.strftime('%I:%M %p')}\n"
+                                      f"Please let me know which works best for you.")
+                        st.session_state[f"eb_{rec['_slug']}"] = st.session_state.get(f"eb_{rec['_slug']}", em_live.get("body","")) + _slot_text
+                        st.rerun()
+
+                e_body  = st.text_area("Body", value=em_live.get("body",""), height=180, key=f"eb_{rec['_slug']}")
                 col_save, col_draft = st.columns(2)
                 with col_save:
                     if st.button("💾 Save Email", key=f"saveem_{rec['_slug']}"):
-                        save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
+                        save_email(conn, rec["_slug"], e_name, e_title, e_email, e_cc, e_subj, e_body)
                         st.success("Saved!")
                 with col_draft:
                     if st.button("📨 Save Gmail Draft", key=f"draft_{rec['_slug']}"):
@@ -500,8 +577,10 @@ elif page == "🏢 Firm Browser":
                         elif not e_body.strip():
                             st.warning("Email body is empty")
                         else:
-                            save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
-                            draft_id, err = gmail_helper.create_draft(e_email, e_subj, e_body, user=_sender, attach_pdf=True)
+                            _sig  = SENDER_SIGNATURES.get(_sender, "")
+                            _full = e_body.rstrip() + _sig
+                            save_email(conn, rec["_slug"], e_name, e_title, e_email, e_cc, e_subj, e_body)
+                            draft_id, err = gmail_helper.create_draft(e_email, e_subj, _full, user=_sender, attach_pdf=True, cc_emails=e_cc)
                             if draft_id:
                                 st.success(f"✅ Draft saved via {_sender}'s Gmail! (ID: {draft_id[:12]}…)")
                             else:
@@ -579,21 +658,45 @@ elif page == "✉️ Emails":
         if only_with_email and not em.get("to_email"):
             continue
 
-        em_live = get_email(conn, rec["_slug"], em)
+        em_live  = get_email(conn, rec["_slug"], em)
+        people   = fd.get("people", {}) or {}
+        _coo     = get_coo_contact(people)
+        _city    = fd.get("city","")
+        _inperson = is_inperson_eligible(_city)
+        _def_subj = auto_subject(fd.get("firm_name",""))
         label = f"**{fd.get('firm_name','')}** → {em_live.get('to_name','(no recipient yet)')} ({em_live.get('to_title','')})"
         with st.expander(label):
+            if _inperson:
+                st.markdown("📍 **In-person eligible** (NY/NJ/Philadelphia)")
+            else:
+                st.markdown("💻 **Remote only**")
             c1, c2 = st.columns([1, 2])
             with c1:
-                e_name  = st.text_input("To (name)",  value=em_live.get("to_name",""),  key=f"pn_{rec['_slug']}")
-                e_title = st.text_input("To (title)", value=em_live.get("to_title",""), key=f"pt_{rec['_slug']}")
-                e_email = st.text_input("To (email)", value=em_live.get("to_email",""), key=f"pe_{rec['_slug']}")
-                e_subj  = st.text_input("Subject",    value=em_live.get("subject",""),  key=f"ps_{rec['_slug']}")
+                e_name  = st.text_input("To (name)",  value=em_live.get("to_name","") or _coo.get("name",""),    key=f"pn_{rec['_slug']}")
+                e_title = st.text_input("To (title)", value=em_live.get("to_title","") or _coo.get("title",""),  key=f"pt_{rec['_slug']}")
+                e_email = st.text_input("To (email)", value=em_live.get("to_email","") or _coo.get("email",""),  key=f"pe_{rec['_slug']}")
+                e_cc    = st.text_input("CC (comma-separated)", value=em_live.get("cc_emails",""),               key=f"pcc_{rec['_slug']}")
+                e_subj  = st.text_input("Subject",    value=em_live.get("subject","") or _def_subj,              key=f"ps_{rec['_slug']}")
+                import datetime as dt
+                with st.expander("📅 Meeting slots"):
+                    slot1 = st.date_input("Slot 1", key=f"ps1_{rec['_slug']}", value=dt.date.today() + dt.timedelta(days=3))
+                    time1 = st.time_input("Time 1", key=f"pt1_{rec['_slug']}", value=dt.time(10, 0))
+                    slot2 = st.date_input("Slot 2", key=f"ps2_{rec['_slug']}", value=dt.date.today() + dt.timedelta(days=5))
+                    time2 = st.time_input("Time 2", key=f"pt2_{rec['_slug']}", value=dt.time(14, 0))
+                    if st.button("Insert into body", key=f"pins_{rec['_slug']}"):
+                        _meeting = "in person" if _inperson else "over a call"
+                        _slot_text = (f"\n\nWould love to connect {_meeting}. Here are two times that work:\n"
+                                      f"• {slot1.strftime('%A, %d %B')} at {time1.strftime('%I:%M %p')}\n"
+                                      f"• {slot2.strftime('%A, %d %B')} at {time2.strftime('%I:%M %p')}\n"
+                                      f"Please let me know which works best for you.")
+                        st.session_state[f"pb_{rec['_slug']}"] = st.session_state.get(f"pb_{rec['_slug']}", em_live.get("body","")) + _slot_text
+                        st.rerun()
             with c2:
                 e_body = st.text_area("Email Body", value=em_live.get("body",""), height=220, key=f"pb_{rec['_slug']}")
             col_ps, col_pd = st.columns(2)
             with col_ps:
                 if st.button("💾 Save", key=f"psave_{rec['_slug']}"):
-                    save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
+                    save_email(conn, rec["_slug"], e_name, e_title, e_email, e_cc, e_subj, e_body)
                     st.success("Saved!")
             with col_pd:
                 if st.button("📨 Save Gmail Draft", key=f"pdraft_{rec['_slug']}"):
@@ -603,8 +706,10 @@ elif page == "✉️ Emails":
                     elif not e_body.strip():
                         st.warning("Email body is empty")
                     else:
-                        save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
-                        draft_id, err = gmail_helper.create_draft(e_email, e_subj, e_body, user=_sender, attach_pdf=True)
+                        _sig  = SENDER_SIGNATURES.get(_sender, "")
+                        _full = e_body.rstrip() + _sig
+                        save_email(conn, rec["_slug"], e_name, e_title, e_email, e_cc, e_subj, e_body)
+                        draft_id, err = gmail_helper.create_draft(e_email, e_subj, _full, user=_sender, attach_pdf=True, cc_emails=e_cc)
                         if draft_id:
                             st.success(f"✅ Draft saved via {_sender}'s Gmail! (ID: {draft_id[:12]}…)")
                         else:
