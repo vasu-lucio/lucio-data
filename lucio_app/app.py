@@ -465,10 +465,8 @@ elif page == "🏢 Firm Browser":
                         elif not e_body.strip():
                             st.warning("Email body is empty")
                         else:
-                            _sig = gmail_helper.get_signature(_sender)
-                            _body_with_sig = e_body.rstrip() + _sig
                             save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
-                            draft_id, err = gmail_helper.create_draft(e_email, e_subj, _body_with_sig, user=_sender, attach_pdf=True)
+                            draft_id, err = gmail_helper.create_draft(e_email, e_subj, e_body, user=_sender, attach_pdf=True)
                             if draft_id:
                                 st.success(f"✅ Draft saved via {_sender}'s Gmail! (ID: {draft_id[:12]}…)")
                             else:
@@ -570,10 +568,8 @@ elif page == "✉️ Emails":
                     elif not e_body.strip():
                         st.warning("Email body is empty")
                     else:
-                        _sig = gmail_helper.get_signature(_sender)
-                        _body_with_sig = e_body.rstrip() + _sig
                         save_email(conn, rec["_slug"], e_name, e_title, e_email, e_subj, e_body)
-                        draft_id, err = gmail_helper.create_draft(e_email, e_subj, _body_with_sig, user=_sender, attach_pdf=True)
+                        draft_id, err = gmail_helper.create_draft(e_email, e_subj, e_body, user=_sender, attach_pdf=True)
                         if draft_id:
                             st.success(f"✅ Draft saved via {_sender}'s Gmail! (ID: {draft_id[:12]}…)")
                         else:

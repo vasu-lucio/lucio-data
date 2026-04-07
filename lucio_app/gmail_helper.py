@@ -24,22 +24,10 @@ USERS = {
     "Vasu": {
         "creds_file": os.path.join(APP_DIR, "gmail_credentials_vasu.json"),
         "token_file": os.path.join(APP_DIR, "gmail_token_vasu.json"),
-        "signature": (
-            "\n\nBest,\n"
-            "Vasu Lucio\n"
-            "Lucio Legal AI\n"
-            "vasu@lucio.ai"
-        ),
     },
     "Anshul": {
         "creds_file": os.path.join(APP_DIR, "gmail_credentials_anshul.json"),
         "token_file": os.path.join(APP_DIR, "gmail_token_anshul.json"),
-        "signature": (
-            "\n\nBest,\n"
-            "Anshul Lucio\n"
-            "Lucio Legal AI\n"
-            "anshul@lucio.ai"
-        ),
     },
 }
 
@@ -114,10 +102,6 @@ def create_draft(to_email: str, subject: str, body: str,
 
     except Exception as e:
         return None, str(e)
-
-
-def get_signature(user: str = "Vasu") -> str:
-    return USERS.get(user, USERS["Vasu"])["signature"]
 
 
 def is_authorized(user: str = "Vasu") -> bool:
