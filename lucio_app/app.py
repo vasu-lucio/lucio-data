@@ -186,12 +186,12 @@ if not st.session_state.authenticated:
     col_c = st.columns([1, 1, 1])[1]
     with col_c:
         st.markdown("## ⚖️ Lucio CRM")
+        name = st.selectbox("Who are you?", ["Vasu", "Anshul"])
         pwd = st.text_input("Password", type="password")
         if st.button("Enter", use_container_width=True):
-            matched = next((name for name, p in USERS_AUTH.items() if pwd == p), None)
-            if matched:
+            if pwd == USERS_AUTH.get(name):
                 st.session_state.authenticated = True
-                st.session_state.sender = matched
+                st.session_state.sender = name
                 st.rerun()
             else:
                 st.error("Incorrect password")
