@@ -85,5 +85,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Thomas",
+    "to_title": "Partner",
+    "to_email": "info@oconnorlaw.co",
+    "subject": "AI for O'Connor & O'Connor - built for firms like yours",
+    "body": "Hi Thomas,\n\nYour firm combines the skill and expertise of larger defense firms with the personal touch and cost-cutting abilities of a smaller firm. That's exactly the reality we're built for.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by your Northport office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on construction and insurance defense matters.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

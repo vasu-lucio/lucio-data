@@ -90,7 +90,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://tr.linkedin.com/company/garwin-gerstein-&-fisher"
   },
-  "email": {}
+  "email": {
+    "to_name": "Bruce",
+    "to_title": "Managing Partner",
+    "to_email": "bgerstein@garwingerstein.com",
+    "subject": "AI for Garwin Gerstein & Fisher LLP - built for antitrust plaintiffs counsel",
+    "body": "Hi Bruce,\n\nOver 80 years, GGF has recovered over $2.5 billion for clients harmed by price-fixing and monopolies. That track record demands systems that scale without losing the precision your antitrust work requires.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of plaintiff-side practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving regionally to meet firms like yours. I'd be happy to stop by to share how we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

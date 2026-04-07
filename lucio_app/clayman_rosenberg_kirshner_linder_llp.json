@@ -85,7 +85,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/clayman-rosenberg-kirsher-linder-llp",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Thomas",
+    "to_title": "Managing Partner",
+    "to_email": "rotko@clayro.com",
+    "subject": "AI for Clayman Rosenberg Kirshner & Linder LLP, built for firms like yours",
+    "body": "Hi Thomas,\n\nYour firm's strength in criminal, regulatory, and civil representation across state and federal courts is built on something most legal AI misses: the judgment to know when quiet resolution beats trial. That's where we come in.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into New York to meet firms doing the kind of sophisticated advocacy your team is known for. I'd be happy to stop by your office to show how we're helping similar firms compete without losing the collaborative, judgment-driven approach that defines Clayman Rosenberg.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

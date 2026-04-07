@@ -86,5 +86,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Lori",
+    "to_title": "Administrator",
+    "to_email": "lguillon@rwhm.com",
+    "subject": "AI for Rusk, Wadlin, Heppner & Martuscello, LLP - built for firms like yours",
+    "body": "Hi Lori,\n\nAs the administrator for the oldest law firm in Ulster County, you know the unique demands of managing a general practice that's been serving the Hudson Valley since 1870. Handling everything from Personal Injury to Family Law to Commercial Litigation with 11 attorneys takes real operational precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet firms like yours. I'd be happy to stop by your Marlboro office to share how we're helping similar firms compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

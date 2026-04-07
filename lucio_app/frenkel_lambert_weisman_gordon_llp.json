@@ -95,7 +95,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/frenkel-lambert-weiss-weisman-&-gordon"
   },
-  "email": {}
+  "email": {
+    "to_name": "David",
+    "to_title": "Managing Partner, CEO",
+    "to_email": null,
+    "subject": "AI for Frenkel Lambert Weisman & Gordon, LLP",
+    "body": "Hi David,\n\nYour investment in customized software and the secure Case Status portal shows you're committed to client service that matches BigLaw standards. That approach matters, especially across insurance law and real estate finance where accuracy and efficiency separate top firms from the rest.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now moving into your region to meet firms like yours. I'd be happy to stop by Bay Shore on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete at the top.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -117,5 +117,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Kevin",
+    "to_title": "Managing Partner",
+    "to_email": "kstimpfl@smblawny.com",
+    "subject": "AI for Stimpfl Manashirov & Bundschuh, PLLC - built for firms like yours",
+    "body": "Hi Kevin,\n\nConstruction defect and insurance coverage disputes demand precision and speed, especially when you're handling complex litigation across State and Federal Courts. I noticed you've built that capability with a lean team since 2013, and that's exactly the profile we're seeing succeed with AI.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms like yours. I'd be happy to stop by Hauppauge on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

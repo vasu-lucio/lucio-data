@@ -79,7 +79,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hollander-legal-group-p-c"
   },
-  "email": {}
+  "email": {
+    "to_name": "Allan",
+    "to_title": "President",
+    "to_email": null,
+    "subject": "AI for Hollander Legal Group, built for firms like yours",
+    "body": "Hi Allan,\n\nYour Super Lawyer Rising Star recognition in Insurance Coverage reflects exactly the kind of results-driven practice we work with. At firms balancing high-stakes insurance and criminal defense matters with lean teams, precision and efficiency aren't luxuries.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with smaller rosters. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices like yours: client trust, workflow speed, and defensible work product.\n\nHaving completed successful pilots on the East Coast, we're expanding into the Metro New York area. I'd be happy to stop by Melville to share how we're helping similar firms compete without adding headcount.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -83,5 +83,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Alex",
+    "to_title": "Founding Partner and General Counsel",
+    "to_email": "[email protected]",
+    "subject": "AI for Shulman & Hill, built for firms like yours",
+    "body": "Hi Alex,\n\nYour firm has recovered over $700 million in verdicts and settlements for injury victims, which speaks to both your litigation strength and the volume you're managing across workers' compensation, personal injury, and construction accident cases.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what actually matters to smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

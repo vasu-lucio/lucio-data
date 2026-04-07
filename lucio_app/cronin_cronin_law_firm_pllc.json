@@ -64,7 +64,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cronin-law-firm-llc",
+    "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Brad",
+    "to_title": "Founding Partner",
+    "to_email": null,
+    "subject": "AI for Cronin & Cronin Law Firm, PLLC - built for firms like yours",
+    "body": "Hi Brad,\n\nYou built Cronin & Cronin to deliver personal attention on property tax reduction, and that focus on individual client needs is exactly what separates strong regional firms from the rest. It's also why most legal AI tools miss the mark for practices like yours.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms. I'd be happy to stop by your Mineola office to show how we help firms like yours compete without sacrificing the personal service your clients expect.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

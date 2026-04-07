@@ -63,5 +63,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Caryn",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Pincus & Tarab, built for firms like yours",
+    "body": "Hi Caryn,\n\nI noticed Pincus & Tarab handles residential foreclosure and evictions across multiple states, and as a certified Women-Owned Small Business, you're competing on service excellence rather than size. That's exactly where AI creates the biggest advantage.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nWith your focus on foreclosure and evictions, our platform streamlines document review and case management. I'd love to show you how other 9-15 attorney firms are competing effectively without adding headcount.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

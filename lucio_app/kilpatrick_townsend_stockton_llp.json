@@ -62,7 +62,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kilpatrick-townsend-stockton-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Alexander",
+    "to_title": "Chief Operating Assistant",
+    "to_email": null,
+    "subject": "AI for Kilpatrick Townsend, built for firms prioritizing innovation",
+    "body": "Hi Alexander,\n\nYour firm's commitment to driving innovative solutions that enhance productivity and efficiency caught our attention. That's exactly what we're built for.\n\nI lead business at Lucio, an AI platform designed for law firms that need BigLaw performance with leaner operations. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we understand what matters: precision, client trust, and real efficiency gains.\n\nHaving completed successful pilots on the East Coast, we're expanding into Atlanta. I'd love to stop by your office to show how our ex-lawyer team is helping firms like yours compete and scale without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

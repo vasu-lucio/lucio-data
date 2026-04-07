@@ -61,5 +61,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "John",
+    "to_title": "Global Chief Transformation Officer | Chief Information Officer",
+    "to_email": "jpowers@deloitte.com",
+    "subject": "AI for Deloitte Legal, built for your global footprint",
+    "body": "Hi John,\n\nDeloitte Legal operates across 57 countries with over 2,500 legal professionals. Managing that kind of distributed expertise while maintaining consistency and quality is exactly the challenge we solve.\n\nI lead business at Lucio, an AI platform built for law firms navigating complex, multi-jurisdictional work. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and enabling lean teams to punch above their weight.\n\nAs someone leading global transformation and technology strategy, you know the gap between what legacy tools promise and what modern practices actually need. I'd welcome 20 minutes to show how ex-lawyers like us are helping firms compete at scale.\n\nWorth a conversation?\n\nVasu\nLucio"
+  }
 }

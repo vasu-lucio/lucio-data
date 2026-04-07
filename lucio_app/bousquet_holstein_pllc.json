@@ -81,5 +81,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Lisa",
+    "to_title": "Director of Human Resources",
+    "to_email": "lbachar@bhlawpllc.com",
+    "subject": "AI for Bousquet Holstein, built for firms like yours",
+    "body": "Hi Lisa,\n\nWith 58 attorneys across Syracuse and Ithaca handling everything from M&A to brownfields work, Bousquet Holstein manages the kind of complex, multi-practice workload that demands precision and efficiency without bloating overhead.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding into New York to meet regional firms. I'd be happy to stop by your office to show how ex-lawyers like us are helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

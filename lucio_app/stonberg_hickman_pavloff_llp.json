@@ -70,5 +70,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Kevin",
+    "to_title": "Managing Partner",
+    "to_email": "Kevin.Hickman@shplawyers.com",
+    "subject": "AI for Stonberg, Hickman & Pavloff, built for defense litigation firms",
+    "body": "Hi Kevin,\n\nStonberg, Hickman & Pavloff built your practice around cost-effective defense litigation and insurance coverage work in New York and New Jersey courts. That lean, high-output model is exactly what we see working for firms competing with BigLaw.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers built tools that actually work for defense and coverage practices.\n\nWorth 20 minutes to explore this?\n\nVasu\nLucio"
+  }
 }

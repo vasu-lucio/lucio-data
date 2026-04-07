@@ -71,5 +71,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Benjamin",
+    "to_title": "Vice President Of Finance And Operations",
+    "to_email": null,
+    "subject": "AI for Zelle LLP, built for firms like yours",
+    "body": "Hi Benjamin,\n\nZelle's dual perspective, representing both Defendants and Plaintiffs across insurance disputes and complex antitrust litigation, gives your team insights most firms never develop. That competitive edge deserves operational tools that match your sophistication.\n\nI lead business at Lucio, an AI platform built for law firms managing BigLaw-level demands with lean operations. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what actually matters: precision, client trust, and efficiency without bloat.\n\nHaving completed successful pilots on the East Coast, we're expanding to the Midwest. I'd love to show you how we're helping firms like yours compete where it counts most.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

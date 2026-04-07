@@ -67,5 +67,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Aina",
+    "to_title": "Chief Culture Officer",
+    "to_email": null,
+    "subject": "AI for Euclid Transactional, built for firms like yours",
+    "body": "Hi Aina,\n\nWith over $8T in deal value insured, Euclid Transactional has built something rare in transactional insurance: real scale and operational excellence. That kind of underwriting volume creates specific operational challenges that most legal tech ignores.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with focused teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us because we understand the realities of specialized practices: precision, client trust, and efficiency without compromise.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms. I'd be happy to stop by your New York office to show how we're helping transactional-focused firms compete without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

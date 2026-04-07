@@ -98,7 +98,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/jglawllp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Kelly",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for J&G Law - built for firms like yours",
+    "body": "Hi Kelly,\n\nWith nearly 60 years serving Monticello clients across municipal law, business counsel, and complex transactions, J&G Law has built something most firms can't: deep local trust paired with serious practice depth.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

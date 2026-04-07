@@ -86,5 +86,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for The Alber Firm - built for firms like yours",
+    "body": "Hi Michael,\n\nYour selection as Super Lawyer 2019-2025 reflects what we see across boutique litigation firms: exceptional results and client focus, but often with leaner teams than BigLaw competitors.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly those demands. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet firms like yours that concentrate in high-stakes areas like matrimonial law and criminal litigation. I'd be happy to stop by Huntington Station on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -71,5 +71,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Liz",
+    "to_title": "CEO",
+    "to_email": null,
+    "subject": "AI for Safe Horizon, built for victim services leaders",
+    "body": "Hi Liz,\n\nAs the nation's largest victim services agency, Safe Horizon manages complex case loads and documentation demands that rival any law firm. Supporting victims of crime and abuse across New York City requires precision, trust, and efficiency under pressure.\n\nI lead business at Lucio, an AI platform built for organizations facing exactly these constraints. We recently raised $5M, and teams across 9 jurisdictions have chosen us over competitors because we focus on the realities of mission-driven practices: accuracy, client confidentiality, and speed.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional leaders to explore how AI can reduce administrative burden and let your team focus on what matters most. As ex-lawyers ourselves, we understand the stakes.\n\nWorth a brief conversation?\n\nVasu\nLucio"
+  }
 }

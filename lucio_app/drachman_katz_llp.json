@@ -59,7 +59,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/drachmankatz"
   },
-  "email": {}
+  "email": {
+    "to_name": "Neal",
+    "to_title": "COO",
+    "to_email": null,
+    "subject": "AI for Drachman Katz LLP, built for firms like yours",
+    "body": "Hi Neal,\n\nYour online client portal with HIPAA protection is exactly the kind of forward-thinking infrastructure that separates firms competing at scale. Most practices still email documents around.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nFor revenue recovery and no-fault arbitration teams especially, we're helping firms maximize claim outcomes while reducing the manual overhead that slows growth. Having completed successful pilots on the East Coast, we're now arriving in the NY/NJ region to meet firms like Drachman Katz.\n\nWorth 20 minutes to see how we're helping similar practices compete?\n\nVasu\nLucio"
+  }
 }

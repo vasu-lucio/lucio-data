@@ -80,7 +80,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/certain-&-zilberg-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner | Trial Lawyer",
+    "to_email": "mzilberg@certainlaw.com",
+    "subject": "AI for Certain & Zilberg, PLLC - built for firms like yours",
+    "body": "Hi Michael,\n\nYour cases have been covered by major news outlets across the country, and that kind of visibility comes from winning trials and delivering results. I imagine managing the technical complexity and volume that comes with high-profile products liability work is a different challenge entirely.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters for trial practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping firms like yours compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -118,5 +118,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Brad",
+    "to_title": "Chief Technology Officer",
+    "to_email": null,
+    "subject": "AI for Siri & Glimstad LLP, built for firms like yours",
+    "body": "Hi Brad,\n\nManaging tech infrastructure across a 70-attorney firm handling class actions and federal litigation nationwide is no small feat. That's exactly the complexity we built Lucio for.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters most: precision, client trust, and efficiency without the overhead.\n\nHaving completed successful pilots on the East Coast, we're now expanding to the New York market. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping firms like Siri & Glimstad compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

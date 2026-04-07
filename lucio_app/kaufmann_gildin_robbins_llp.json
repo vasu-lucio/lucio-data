@@ -87,7 +87,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kaufmann-gildin-robbins-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Daniel",
+    "to_title": "Managing Partner and Founding Member",
+    "to_email": "dgildin@kaufmanngildin.com",
+    "subject": "AI for Kaufmann Gildin & Robbins, built for firms like yours",
+    "body": "Hi Daniel,\n\nYour firm's Tier 1 ranking in Franchising from Best Lawyers in America speaks to the caliber of work you deliver. That same precision is what we're building into Lucio, an AI platform designed for boutique firms balancing sophisticated client demands with lean operations.\n\nWe recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency. We've completed successful pilots on the East Coast and are now expanding into new markets.\n\nI'd welcome 20 minutes to show you how our ex-lawyer team is helping firms like yours compete with BigLaw on the work that matters most.\n\nWorth a brief conversation?\n\nVasu\nLucio"
+  }
 }

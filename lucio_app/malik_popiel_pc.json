@@ -58,7 +58,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/malik-&-popiel-p.c.-a-law-firm-specializing-in-immigration-and-corporate-law",
+    "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jitesh",
+    "to_title": "Founding/Managing Partner",
+    "to_email": "jmalik@malikpopiel.com",
+    "subject": "AI for Malik & Popiel - built for immigration and treaty work",
+    "body": "Hi Jitesh,\n\nYour practice across U.S. Immigration & Nationality Law, Treaty Law, and U.S. Business Law puts you at the center of some of the most document-heavy, high-stakes work in legal services. The complexity only multiplies when you're managing employment-based and family-based cases across consular and border matters.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

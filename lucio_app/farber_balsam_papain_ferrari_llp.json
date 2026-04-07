@@ -79,7 +79,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/newyorktrial"
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Founding & Managing Partner",
+    "to_email": "mfarber@newyorktrial.com",
+    "subject": "AI for Farber Balsam Papain Ferrari LLP, built for firms like yours",
+    "body": "Hi Michael,\n\nYour team's background as corporate general counsels gives you a unique edge in litigation and real estate work, but it also means you understand the operational demands BigLaw firms take for granted. That's exactly where we're seeing the biggest gaps.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters for boutique practices: precision, client trust, and real efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms in Manhattan. I'd be happy to stop by your office Thursday, April 10 to show how we're helping similar firms compete without compromising the exceptional advocacy your clients expect.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

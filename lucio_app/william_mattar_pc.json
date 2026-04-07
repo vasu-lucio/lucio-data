@@ -50,5 +50,11 @@
       "additional_contacts": []
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "William",
+    "to_title": "Owner",
+    "to_email": null,
+    "subject": "AI for William Mattar, P.C. - built for firms like yours",
+    "body": "Hi William,\n\nYour firm has built something remarkable since 1990: one of New York's largest motor vehicle accident practices, spanning from Buffalo through New York City. That kind of regional scale across multiple offices requires precision at every touchpoint.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in upstate New York to meet regional firms. I'd be happy to stop by your Buffalo office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

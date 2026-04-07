@@ -51,7 +51,15 @@
         "ai_notes": null
       },
       "additional_contacts": []
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bullard-law-group-pllc",
+    "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Edward",
+    "to_title": "Firm Founder, Senior Partner",
+    "to_email": "ebullard@bullardpllc.com",
+    "subject": "AI for Bullard Law Group, built for real estate and financing practices",
+    "body": "Hi Edward,\n\nWith Bullard handling real estate transactions, corporate matters, and financing across the Tri-State area since 2013, your team navigates deals that demand precision and speed. I imagine managing that volume with a 5-attorney shop means trading workflow efficiency for client value every single day.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding into the Melville area. I'd be happy to stop by your office to show how our ex-lawyer team is helping firms like yours compete with BigLaw on real estate and financing work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

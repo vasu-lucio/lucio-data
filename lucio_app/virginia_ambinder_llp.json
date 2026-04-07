@@ -95,5 +95,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Eva",
+    "to_title": "Director of Operations",
+    "to_email": "ekeating@vandallp.com",
+    "subject": "AI for Virginia & Ambinder - built for firms like yours",
+    "body": "Hi Eva,\n\nVirginia & Ambinder has spent nearly 30 years building deep expertise in labor and employment law, representing workers and unions across the tri-state area. That kind of specialized, mission-driven practice deserves technology that actually works for you, not against you.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to share how, as ex-lawyers ourselves, we're helping similar practices compete. I'd be happy to stop by your office to show you how Lucio handles complex employment case workflows.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

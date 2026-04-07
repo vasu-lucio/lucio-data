@@ -66,7 +66,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gerber-ciano-kelly-brady-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Kenneth",
+    "to_title": "Chief Operating Partner",
+    "to_email": null,
+    "subject": "AI for Gerber Ciano Kelly Brady LLP, built for firms like yours",
+    "body": "Hi Kenneth,\n\nI noticed Gerber Ciano Kelly Brady is already building AI to respond to legal questions in plain English for contract review and due diligence. That's exactly the direction smart insurance firms are moving, especially ones committed to reducing costs and environmental impact through virtual integration.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by White Plains on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping insurance practices accelerate due diligence and research reduction without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

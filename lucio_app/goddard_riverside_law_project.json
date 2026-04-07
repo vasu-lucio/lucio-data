@@ -70,5 +70,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Andrea",
+    "to_title": "Chief Operating Officer/Compliance Officer",
+    "to_email": "acain@goddard.org",
+    "subject": "AI for Goddard Riverside Law Project, built for firms like yours",
+    "body": "Hi Andrea,\n\nYour team provides free legal representation in Housing Court for SRO and apartment tenants across Manhattan's west side, which means you're managing high-volume cases with limited resources. That's exactly the constraint we see across mission-driven practices.\n\nI lead business at Lucio, an AI platform built for law firms that face complex demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping similar firms compete and scale.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

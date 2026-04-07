@@ -86,5 +86,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Anthony",
+    "to_title": "Managing Attorney",
+    "to_email": "ajc3@colucci-gallaher.com",
+    "subject": "AI for Colucci & Gallaher, P.C. - built for firms like yours",
+    "body": "Hi Anthony,\n\nColucci & Gallaher has built an impressive practice across Commercial Litigation, Construction Litigation, and Real Estate Transactions since 1997. Given the complexity of managing those practice areas across multiple jurisdictions, I thought you'd want to see what we're building.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into the Northeast. I'd be happy to stop by Buffalo to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

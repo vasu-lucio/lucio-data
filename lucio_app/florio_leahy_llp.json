@@ -78,7 +78,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/florio-leahy-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Nicole",
+    "to_title": "Director of Operations",
+    "to_email": "namitrano@orical.org",
+    "subject": "AI for Florio Leahy LLP, built for firms like yours",
+    "body": "Hi Nicole,\n\nFlorio Leahy's work in fund formation and examinations defense across 100+ clients puts your team in the thick of regulatory complexity and volume. That's exactly where AI makes the biggest difference for firms that compete on precision, not headcount.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nWe've completed successful pilots on the East Coast and are now meeting regional firms to show how ex-lawyers like us are helping similar practices compete with BigLaw on investment management work.\n\nWorth 20 minutes to explore?\n\nVasu\nLucio"
+  }
 }

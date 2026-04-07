@@ -77,5 +77,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Craig",
+    "to_title": "Chief Information Officer",
+    "to_email": "cehredt@archerlaw.com",
+    "subject": "AI for Archer & Greiner, built for firms like yours",
+    "body": "Hi Craig,\n\nArcher & Greiner has been delivering high-quality legal services across the Delaware Valley since 1928, and with 175 attorneys serving clients across multiple states, you're competing at a scale where efficiency and precision matter intensely.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: client trust, precision, and competitive edge.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet firms like yours. I'd be happy to stop by Voorhees to share how ex-lawyers ourselves are helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -80,7 +80,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bryant-rabbino-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Seth",
+    "to_title": "Managing Partner",
+    "to_email": "info@bryantrabbino.com",
+    "subject": "AI for Bryant Rabbino LLP, built for transactional practices",
+    "body": "Hi Seth,\n\nYour work on the $4.55 billion green bond offering for JFK New Terminal One reflects exactly the kind of sophisticated capital markets work that demands precision without compromise. That's where most firms struggle to scale.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping transactional teams compete with BigLaw on turnaround and quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

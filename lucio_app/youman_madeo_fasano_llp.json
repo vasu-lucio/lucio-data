@@ -62,5 +62,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Donald",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for YOUMAN, MADEO & FASANO LLP - built for firms like yours",
+    "body": "Hi Donald,\n\nYour firm's reputation for aggressive deportation defense and relief for complex cases caught my attention. As a 10-attorney practice focused on innovation and excellence, you're exactly the kind of firm that needs tools to scale impact without scaling headcount.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms like yours. I'd be happy to stop by your Queens office to show how we're helping immigration practices manage complex case workflows and discovery more effectively.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

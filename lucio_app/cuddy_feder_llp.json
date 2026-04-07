@@ -89,7 +89,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cuddy-&-feder-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Anthony",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Cuddy & Feder LLP, built for firms like yours",
+    "body": "Hi Anthony,\n\nCuddy & Feder has built something rare: a 44-attorney firm that balances BigLaw-level service with the agility and culture of a smaller practice. That balance is exactly what our clients tell us is hardest to maintain as complexity grows.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of mid-sized practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your White Plains office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping firms like yours compete without sacrificing the camaraderie that makes you different.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

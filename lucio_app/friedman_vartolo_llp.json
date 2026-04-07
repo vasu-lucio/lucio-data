@@ -51,7 +51,14 @@
         "ai_notes": null
       },
       "additional_contacts": []
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/friedman-vartolo-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Adam",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Friedman Vartolo, built for firms like yours",
+    "body": "Hi Adam,\n\nFriedman Vartolo's footprint across foreclosure, litigation, and bankruptcy work in seven states caught my attention, especially given how document-heavy those practices are. Since 2016, you've built something rare: boutique attention with big-firm capacity.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're arriving in New York next week. I'd be happy to stop by your office to share how ex-lawyers like us are helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

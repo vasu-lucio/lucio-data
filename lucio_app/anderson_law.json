@@ -52,5 +52,11 @@
     "linkedin_company_url": "https://www.linkedin.com/company/anderson-law",
     "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Mark",
+    "to_title": "Managing Partner",
+    "to_email": "enquiries@andlaw.eu",
+    "subject": "AI for Anderson Law, built for firms like yours",
+    "body": "Hi Mark,\n\nYour Chambers Directory recognition in life science transactions caught my attention. As tech law becomes more document-intensive, firms advising across life sciences, ICT, and engineering face growing pressure to scale IP and commercial work without scaling headcount.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the UK to meet regional firms. I'd be happy to stop by Oxford on a date that works for you to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -107,5 +107,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/meritage-group"
   },
-  "email": {}
+  "email": {
+    "to_name": "Phyllis",
+    "to_title": "Client Relations & Operations Specialist",
+    "to_email": "info@bargergaines.com",
+    "subject": "AI for Barger & Gaines, built for education law firms",
+    "body": "Hi Phyllis,\n\nBarger & Gaines represents children to secure appropriate services across special education, bullying, and guardianship matters. That mission-driven work requires precision and client trust, especially when your 7-attorney team is handling cases that shape families' lives.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by your Irvington office to share how, as ex-lawyers ourselves, we're helping similar firms compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

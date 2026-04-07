@@ -84,5 +84,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "McGregor",
+    "to_title": "Executive Director",
+    "to_email": "nylpi@nylpi.org",
+    "subject": "AI for NYLPI, built for firms like yours",
+    "body": "Hi McGregor,\n\nNYLPI's work across Civil Rights, Health Justice, and Disability Justice for over 40 years represents exactly the kind of high-impact legal practice that demands precision and trust. I lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams.\n\nWe recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how ex-lawyers built Lucio to help firms like yours amplify impact without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -82,5 +82,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Christopher",
+    "to_title": "Managing Attorney",
+    "to_email": "cyapchanyk@eustacelaw.com",
+    "subject": "AI for Yapchanyk, Prezioso & Yang - built for firms like yours",
+    "body": "Hi Christopher,\n\nYour firm's AV rating and track record defending professional liability and errors and omissions cases for Chubb insureds shows the caliber of work you're delivering. We work with similar practices that balance high-stakes litigation with lean teams.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller headcount. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in NYC to meet regional firms. I'd be happy to stop by your office to show how we're helping practices like yours compete and win.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

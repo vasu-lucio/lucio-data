@@ -51,5 +51,11 @@
       "additional_contacts": []
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Katie",
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Law Office of Katie Walsh, built for firms like yours",
+    "body": "Hi Katie,\n\nI noticed you offer video conferencing to clients, which tells me you're already thinking about how technology can strengthen client relationships. That's the mindset we see in the best solo and small firm practices.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nWith your focus on juvenile law and domestic violence cases, your client relationships are everything. We're helping similar firms compete with BigLaw while keeping that personal touch intact.\n\nWorth a quick conversation about how this could work for your practice?\n\nVasu\nLucio"
+  }
 }

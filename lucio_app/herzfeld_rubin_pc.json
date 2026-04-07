@@ -95,5 +95,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Wendy",
+    "to_title": "Managing Member",
+    "to_email": null,
+    "subject": "AI for Herzfeld + Rubin - built for firms like yours",
+    "body": "Hi Wendy,\n\nWith Herzfeld + Rubin's reputation across the country and globally recognized work in toxic torts and tort defense, you're competing on complexity. That's exactly where precision and efficiency matter most.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your Manhattan office to share how we're helping similar firms compete with BigLaw, especially in high-stakes litigation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

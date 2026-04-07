@@ -96,7 +96,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kaplan-ditrapani-faria-manin-llp/",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jared",
+    "to_title": "Managing Partner",
+    "to_email": "jared@closerattorney.com",
+    "subject": "AI for Kaplan, Ditrapani, Faria & Manin LLP - built for firms like yours",
+    "body": "Hi Jared,\n\nYour firm's aggressive, streamlined approach to expediting mortgage transactions across the greater New York area caught my attention. That kind of efficiency at scale is exactly what we're built to support.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms like yours. I'd be happy to stop by Syosset to share how our ex-lawyer team is helping similar firms compete with BigLaw on real estate transactions and closings.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

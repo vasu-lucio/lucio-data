@@ -95,5 +95,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Craig",
+    "to_title": null,
+    "to_email": "cpc@cpcurciolaw.com",
+    "subject": "AI for Curcio & Bannon, PLLC - built for firms like yours",
+    "body": "Hi Craig,\n\nWith over 40 years defending professional malpractice and products liability cases, Curcio & Bannon has built real expertise. I imagine managing that depth across complex defense work requires precision and efficiency.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms doing exactly the work you do. I'd be happy to stop by your Middletown office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

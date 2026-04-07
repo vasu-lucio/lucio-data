@@ -110,5 +110,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "William",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Braunstein Turkish LLP, built for firms like yours",
+    "body": "Hi William,\n\nYou and Harry built Braunstein Turkish on a foundation of commercial real estate transactions and lending work that demands precision and client trust. That's exactly the kind of practice we're built to support.\n\nI lead business at Lucio, an AI platform designed for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: accuracy, relationship preservation, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into the New York region. I'd be happy to stop by your Woodbury office on Thursday, April 10 to show how we're helping similar firms compete with BigLaw, particularly in commercial litigation and real estate work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -98,5 +98,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Thomas",
+    "to_title": "Managing Partner",
+    "to_email": "tvolz@volzvigliotta.com",
+    "subject": "AI for Volz & Vigliotta, PLLC: built for firms like yours",
+    "body": "Hi Thomas,\n\nSince founding Volz & Vigliotta in 2010, you've built a tight team handling high-stakes education and municipal work, from disciplinary matters to discrimination claims. That requires precision at scale, which is exactly what we solve for.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

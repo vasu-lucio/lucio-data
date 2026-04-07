@@ -71,5 +71,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Samantha",
+    "to_title": "Chief Operations Officer",
+    "to_email": "sdygert@windisability.com",
+    "subject": "AI for Olinsky Law Group, built for firms like yours",
+    "body": "Hi Samantha,\n\nOlinsky is one of the largest filers of Social Security Disability Federal Court cases in the country, which means your team handles volume and complexity that demands precision every single time.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of specialized practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by Syracuse to share how ex-lawyers like us are helping similar firms compete without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

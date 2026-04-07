@@ -78,5 +78,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Aaron",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Pierro, Connor & Strauss, LLC - built for firms like yours",
+    "body": "Hi Aaron,\n\nI lead business at Lucio, an AI platform built for law firms managing Elder Law, Estate Planning, and Trust Administration across multiple jurisdictions. Your mission to empower clients and protect families while navigating complex generational challenges resonates deeply with what we're solving for.\n\nWe recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: precision, client trust, and efficiency. As ex-lawyers ourselves, we understand the demands of individualized client service without the BigLaw infrastructure.\n\nHaving completed successful pilots on the East Coast, I'd welcome a 20-minute conversation about how we're helping similar firms compete and scale. Worth your time?\n\nVasu\nLucio"
+  }
 }

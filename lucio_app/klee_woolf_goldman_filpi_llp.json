@@ -79,7 +79,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/klee-&-woolf-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jonathan",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Klee Woolf Goldman & Filpi, LLP",
+    "body": "Hi Jonathan,\n\nYour firm has been serving injured workers across New York State since 2000, which means you know firsthand how Workers' Compensation and Social Security Disability cases demand both precision and personal attention. That's exactly what we're built for.\n\nI lead business at Lucio, an AI platform designed for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: accuracy, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms like yours. I'd be happy to stop by your Mineola office to share how we're helping similar firms compete without losing what makes you different.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

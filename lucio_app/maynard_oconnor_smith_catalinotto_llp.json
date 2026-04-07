@@ -101,7 +101,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/maynard-o'connor-smith-&-catalinotto-llp-",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Scott",
+    "to_title": "Firm Administrator",
+    "to_email": "adelmann@moscllp.com",
+    "subject": "AI for Maynard, O'Connor, Smith & Catalinotto LLP - built for firms like yours",
+    "body": "Hi Scott,\n\nWith your firm's depth across appeals, commercial litigation, and employment law, you're juggling complex briefs and discovery across multiple practice areas. That's where most traditional legal tech falls short.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your Albany office to share how we're helping firms like yours compete with larger competitors on quality and speed.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

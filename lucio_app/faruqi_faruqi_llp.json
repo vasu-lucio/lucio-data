@@ -57,7 +57,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/faruqi-&-faruqi-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Umar",
+    "to_title": "Director, System Implementations",
+    "to_email": null,
+    "subject": "AI for Faruqi & Faruqi - built for firms like yours",
+    "body": "Hi Umar,\n\nFaruqi & Faruqi has built an excellent reputation handling complex securities litigation and antitrust cases since 1995. That kind of work demands precision, client trust, and operational excellence, especially with lean teams competing against much larger firms.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller headcounts. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of boutique practices: accuracy, client confidence, and real efficiency gains.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms. I'd be happy to stop by your office to share how ex-lawyers like us are helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

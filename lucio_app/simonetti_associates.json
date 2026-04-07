@@ -80,5 +80,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Louis",
+    "to_title": "Founder & Managing Partner",
+    "to_email": null,
+    "subject": "AI for Simonetti & Associates, built for firms like yours",
+    "body": "Hi Louis,\n\nTen years running as Long Island's Best Divorce Firm speaks to the precision your team brings to family law. With three attorneys handling complex cases across divorce, adoption, and custody matters, you're competing on skill and reputation, not headcount.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding to the Northeast. I'd be happy to stop by your Westbury office to share how ex-lawyers built this specifically for firms like Simonetti & Associates.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -68,7 +68,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cohen-liuzzo"
   },
-  "email": {}
+  "email": {
+    "to_name": "Brenna",
+    "to_title": "Operations Manager",
+    "to_email": null,
+    "subject": "AI for Cohen Liuzzo, built for firms like yours",
+    "body": "Hi Brenna,\n\nWith Cohen Liuzzo closing affordable housing transactions across 30+ states, your team is managing complex financing structures that demand precision: tax-exempt bonds, LIHTC compliance, multi-jurisdictional coordination. That's exactly where AI makes the difference.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding and would like to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -88,7 +88,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/jacobowitz-newman-tversky-llp",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Evan",
+    "to_title": "Managing Partner",
+    "to_email": "en*****@****lp.com",
+    "subject": "AI for Jacobowitz Newman Tversky LLP, built for firms like yours",
+    "body": "Hi Evan,\n\nAs Managing Partner balancing corporate, litigation, and bankruptcy work across a 14-attorney firm, you're handling BigLaw-caliber complexity with a leaner, more efficient team. That's exactly the reality we built Lucio for.\n\nI lead business at Lucio, an AI platform designed for firms that face sophisticated client demands without the overhead. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what smaller practices actually need: precision, client trust, and real efficiency gains on complex transactions.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by Cedarhurst Thursday, April 10 to share how we're helping firms like yours compete without the BigLaw headcount.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

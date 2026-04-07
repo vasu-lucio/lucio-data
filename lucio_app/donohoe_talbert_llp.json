@@ -109,7 +109,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/donohoe-talbert-llp",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

@@ -81,7 +81,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/lieb-at-law-p.c.",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Andrew",
+    "to_title": "Managing Partner",
+    "to_email": "andrew@liebatlaw.com",
+    "subject": "AI for Lieb at Law, P.C. - built for firms like yours",
+    "body": "Hi Andrew,\n\nYour firm's focus on AI Compliance and Emerging Technology Litigation caught my attention, especially as algorithmic bias and compliance work becomes more central to litigation strategy across NY, NJ, CT, and CO.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms. I'd be happy to stop by Smithtown to share how we're helping practices like yours compete with BigLaw on complex litigation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

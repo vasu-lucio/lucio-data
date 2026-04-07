@@ -72,5 +72,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner",
+    "to_email": "molawfirm@gmail.com",
+    "subject": "AI for Musa-Obregon Law PC, built for firms like yours",
+    "body": "Hi Michael,\n\nYour multi-cultural staff handling criminal defense and immigration cases across NYC and Queens puts you in a unique position: you're serving clients who need precision, trust, and speed across complex jurisdictions. That's exactly where most law firms struggle.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the NYC area to meet regional firms. I'd be happy to stop by your office to show how we're helping similar practices compete without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

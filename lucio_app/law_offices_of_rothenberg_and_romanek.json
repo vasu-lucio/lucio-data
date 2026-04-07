@@ -68,7 +68,9 @@
           "linkedin_url": "https://www.linkedin.com/in/marcjrothenberg"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/the-rothenberg-law-firm",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

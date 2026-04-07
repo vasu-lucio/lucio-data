@@ -88,5 +88,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Douglas",
+    "to_title": "Partner",
+    "to_email": "dmorea@msbllp.com",
+    "subject": "AI for Morea Schwartz Bradham Friedman & Brown LLP, built for firms like yours",
+    "body": "Hi Douglas,\n\nYour firm's approach to M&A and complex commercial litigation combines large-firm sophistication with boutique-level attention, which is exactly where AI creates the biggest advantage. Firms like yours compete on precision and client trust, not headcount.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what actually matters for smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your NYC office to show how ex-lawyers like us are helping firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

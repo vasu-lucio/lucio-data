@@ -89,5 +89,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Andrew",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Proto, Sachs & Brown, LLP - built for firms like yours",
+    "body": "Hi Andrew,\n\nWith over 100 years of combined experience across criminal defense and DWI work, your team at Proto, Sachs & Brown handles cases that demand precision and deep expertise. The challenge: staying competitive when BigLaw has ten times your headcount.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly this reality. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what smaller practices actually need: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the White Plains area to meet regional firms. I'd be happy to stop by your office to show how we're helping similar practices compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -93,5 +93,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Jennifer",
+    "to_title": "Chief Operating Assistant",
+    "to_email": "Jennifer.Huntington@kroll.com",
+    "subject": "AI for Kroll, built for Decision Intelligence teams",
+    "body": "Hi Jennifer,\n\nKroll Decision Intelligence combines financial expertise with advanced data science and AI capabilities to accelerate decision-making. We've built Lucio specifically to amplify what your team already does: turn complex data into competitive advantage, faster.\n\nI lead business at Lucio, an AI platform designed for advisory and risk firms that face enterprise demands with leaner operational teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us because we focus on operational reality: precision, client trust, and measurable efficiency gains.\n\nWith your COO focus on scaling operations and maximizing impact, I'd love to share how we're helping similar firms compress timelines on valuation, cyber risk assessment, and transaction advisory work.\n\nWorth 20 minutes this week?\n\nVasu\nLucio"
+  }
 }

@@ -61,5 +61,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Mark",
+    "to_title": "Partner",
+    "to_email": "madicello@dicellolevitt.com",
+    "subject": "AI for DiCello Levitt, built for firms like yours",
+    "body": "Hi Mark,\n\nYour team has won over $25 billion for clients across class action, antitrust, and mass tort litigation. That track record reflects the caliber of legal work your 114-attorney firm delivers, and it also signals something else: you're handling increasingly complex cases with precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Chicago to meet firms like yours. I'd be happy to stop by your office to share how ex-lawyers built tools that actually help litigation teams compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

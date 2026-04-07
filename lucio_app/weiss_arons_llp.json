@@ -62,5 +62,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Joel",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Weiss & Arons LLP, built for firms like yours",
+    "body": "Hi Joel,\n\nWeiss & Arons was founded on a combined 30 years of legal and technical experience across complex domains like medical devices, algorithms, and imaging. That technical depth is exactly why AI built by ex-lawyers resonates with firms like yours.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet regional firms handling IP work. I'd be happy to stop by Spring Valley to share how we're helping similar firms compete with BigLaw on patent prosecution and post-grant proceedings.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

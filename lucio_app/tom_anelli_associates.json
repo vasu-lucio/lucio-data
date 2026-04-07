@@ -69,5 +69,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "James",
+    "to_title": "Director of Operations",
+    "to_email": null,
+    "subject": "AI for Tom Anelli & Associates, PC - built for firms like yours",
+    "body": "Hi James,\n\nTom Anelli's certification as a NHTSA practitioner and field sobriety testing instructor puts your firm at the forefront of DWI defense in New York. That expertise deserves operations that scale without sacrificing precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into upstate New York to meet regional firms. I'd be happy to stop by your Syracuse office to share how we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

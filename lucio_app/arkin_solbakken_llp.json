@@ -78,5 +78,11 @@
     "linkedin_company_url": "https://www.linkedin.com/company/arkin-solbakken-llp",
     "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Lisa",
+    "to_title": "Managing Partner",
+    "to_email": "lsolbakken@arkin-law.com",
+    "subject": "AI for Arkin Solbakken LLP, built for firms like yours",
+    "body": "Hi Lisa,\n\nYour firm's reputation for executing unconventional strategies in regulatory and business litigation caught my attention. That approach requires precision and speed, especially when competing on complex cases without BigLaw resources.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -79,5 +79,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Craig",
+    "to_title": "Managing Partner",
+    "to_email": "Craig@nydisabilitylaw.com",
+    "subject": "AI for Turley Redmond & Rosasco, built for firms like yours",
+    "body": "Hi Craig,\n\nRecovering over $250,000,000 for clients across workers' compensation, Social Security Disability, and construction accident law takes precision and trust. I'd imagine managing that volume with a 5-attorney team means every workflow decision matters.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how our AI handles document review, case assessment, and intake so your team stays focused on strategy and clients.\n\nWorth 20 minutes to explore whether this could work for Turley Redmond & Rosasco?\n\nVasu\nLucio"
+  }
 }

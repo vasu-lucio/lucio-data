@@ -90,7 +90,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/miller-mayer"
   },
-  "email": {}
+  "email": {
+    "to_name": "Kim",
+    "to_title": "Office Administrator",
+    "to_email": null,
+    "subject": "AI for Miller Mayer, built for firms like yours",
+    "body": "Hi Kim,\n\nYour immigration practice has already embraced AI to streamline processes, which puts Miller Mayer ahead of most regional firms. That forward-thinking approach is exactly what we see in practices that compete effectively.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to explore how our platform supports corporate, litigation, and health law practices specifically. I'd be happy to stop by your Ithaca office to share how ex-lawyers like us are helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

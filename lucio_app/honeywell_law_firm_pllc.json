@@ -87,7 +87,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/honeywell-law-firm-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Christopher",
+    "to_title": "Managing Shareholder",
+    "to_email": null,
+    "subject": "AI for Honeywell Law Firm, built for firms like yours",
+    "body": "Hi Christopher,\n\nWith your team handling everything from education law to municipal litigation across New York, you're likely stretched thin managing State and Federal compliance for school districts and private clients simultaneously.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding regionally to meet firms like yours. I'd be happy to stop by Albany to show how, as ex-lawyers ourselves, we're helping similar teams compete with BigLaw on litigation prep and legal research.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

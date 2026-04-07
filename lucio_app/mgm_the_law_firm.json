@@ -91,7 +91,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/mgmlawfirm"
   },
-  "email": {}
+  "email": {
+    "to_name": "Christopher",
+    "to_title": "Chief Operating Officer",
+    "to_email": "cmcdevitt@mgmlaw.com",
+    "subject": "AI for MG+M The Law Firm, built for national litigation shops",
+    "body": "Hi Christopher,\n\nYour team's work across all 50 states on high-stakes corporate defense cases caught my attention. Managing complex, multi-jurisdictional litigation at that scale requires precision and efficiency that most platforms simply don't deliver.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Boston to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on tort and commercial litigation matters.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

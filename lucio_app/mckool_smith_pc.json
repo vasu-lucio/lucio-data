@@ -64,7 +64,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/mckool-smith",
+    "linkedin_size": "201-500"
   },
   "email": {}
 }

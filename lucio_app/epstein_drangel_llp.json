@@ -49,7 +49,15 @@
         "ai_notes": null
       },
       "additional_contacts": []
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/epstein-drangel-llp",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jason",
+    "to_title": "Managing Partner",
+    "to_email": "jdrangel@ipcounselors.com",
+    "subject": "AI for Epstein Drangel - built for firms like yours",
+    "body": "Hi Jason,\n\nYour work across trademark prosecution, copyright litigation, and anti-counterfeiting enforcement requires precision at every stage. We've built Lucio specifically for that, and it's resonating with IP-focused firms who need to compete without adding headcount.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of specialized practices: accuracy, client trust, and real efficiency gains.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your office to share how ex-lawyers like us are helping firms in IP-heavy practice areas compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

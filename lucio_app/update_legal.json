@@ -79,5 +79,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Erin",
+    "to_title": "President & COO",
+    "to_email": null,
+    "subject": "AI for Uptime Legal, built for firms like yours",
+    "body": "Hi Erin,\n\nUptime Legal helps law firms across North America manage and grow through cloud services and legal technology. I thought you'd find it interesting that we're seeing the same firms you serve grapple with one specific challenge: delivering BigLaw-quality work without BigLaw headcount.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly this tension. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of leaner practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Midwest to meet regional firms. I'd be happy to stop by Minneapolis to share how we're helping similar firms compete without compromise.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

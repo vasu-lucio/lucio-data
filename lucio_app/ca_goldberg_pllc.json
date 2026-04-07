@@ -75,5 +75,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Carrie",
+    "to_title": "Founding Attorney",
+    "to_email": null,
+    "subject": "AI for C.A. Goldberg, PLLC - built for firms like yours",
+    "body": "Hi Carrie,\n\nYour work defending victims catastrophically injured by tech platforms like Amazon, Grindr, and Snap is exactly why we built Lucio. These cases demand precision, relentless case management, and client trust that most legal software completely misses.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Brooklyn to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping firms like yours compete and win.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

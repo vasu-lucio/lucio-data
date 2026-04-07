@@ -63,5 +63,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Marc",
+    "to_title": "Senior Partner",
+    "to_email": null,
+    "subject": "AI for Pulvers, Pulvers & Thompson, LLP - built for firms like yours",
+    "body": "Hi Marc,\n\nWith over 80 years of medical malpractice and personal injury work, Pulvers, Pulvers & Thompson has built something most firms never achieve: sustained excellence in high-stakes litigation. That reputation is exactly why you need the right tools to scale without losing precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding in New York. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping firms like yours compete with BigLaw on capacity without compromising quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

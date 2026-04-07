@@ -68,5 +68,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Sharon",
+    "to_title": "Executive Director of Business Operations",
+    "to_email": null,
+    "subject": "AI for A.Y. Strauss, built for firms like yours",
+    "body": "Hi Sharon,\n\nWith 42 lawyers across Livingston and New York handling everything from real estate to construction to employment work, A.Y. Strauss balances the intellectual depth of a larger firm with the personalized service boutiques are known for. That model creates real operational demands.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of mid-sized practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to share how ex-lawyers like us are helping you compete without the overhead.\n\nWorth 20 minutes to explore?\n\nVasu\nLucio"
+  }
 }

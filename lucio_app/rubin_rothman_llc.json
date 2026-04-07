@@ -72,5 +72,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Alona",
+    "to_title": "Chief Technology Officer",
+    "to_email": null,
+    "subject": "AI for Rubin & Rothman, LLC: built for firms like yours",
+    "body": "Hi Alona,\n\nRubin & Rothman handles creditor's rights and debt collection across nine jurisdictions, which means your team juggles complexity at scale. That's exactly where AI built for law firms makes the biggest impact.\n\nI lead business at Lucio, an AI platform designed for firms that face BigLaw demands with leaner teams. We recently raised $5M, and practices across the East Coast have chosen us over Harvey because we focus on what smaller firms actually need: precision, client trust, and efficiency.\n\nHaving completed successful pilots in the region, I'd like to stop by Islandia to show how our approach helps firms like yours compete without the overhead. Are you open to a brief conversation this week?\n\nVasu\nLucio"
+  }
 }

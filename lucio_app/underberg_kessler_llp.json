@@ -69,5 +69,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Patrick",
+    "to_title": "Managing Partner",
+    "to_email": "pcusato@underbergkessler.com",
+    "subject": "AI for Underberg & Kessler LLP, built for firms like yours",
+    "body": "Hi Patrick,\n\nWith roots going back to 1926, Underberg & Kessler has built something most firms never achieve: genuine regional reach across four offices while maintaining the trust clients expect. That model works, but it demands efficiency.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Northeast to meet firms managing complex work across Banking & Corporate. I'd be happy to stop by your Rochester office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

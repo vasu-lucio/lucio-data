@@ -75,5 +75,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Audra",
+    "to_title": "Practice Manager",
+    "to_email": "aorourke@scl-llp.com",
+    "subject": "AI for Shinder Cantor Lerner, built for firms like yours",
+    "body": "Hi Audra,\n\nI noticed SCL is already using AI for enhanced legal research, streamlined document review, and initial draft preparation. That tells me you're thinking strategically about how to compete and scale efficiently in antitrust litigation.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of boutique practices: precision, client trust, and enterprise-level security.\n\nWe've completed successful pilots on the East Coast and are expanding into new markets. I'd be happy to stop by your New York office to show how we're helping antitrust boutiques like yours compete more effectively with larger firms.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

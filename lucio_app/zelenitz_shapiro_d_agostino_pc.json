@@ -62,5 +62,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Bradley",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Zelenitz, Shapiro & D'Agostino, P.C. - built for firms like yours",
+    "body": "Hi Bradley,\n\nYour focus on elder law and nursing home abuse cases requires precision and client trust that simply can't be rushed. I noticed you've built that reputation since 1998 with a lean team in Briarwood.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the greater NYC area to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

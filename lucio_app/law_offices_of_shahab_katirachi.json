@@ -76,7 +76,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/pabinvestfinancial"
   },
-  "email": {}
+  "email": {
+    "to_name": "Shahab",
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Law Offices of Shahab Katirachi, built for New York practices",
+    "body": "Hi Shahab,\n\nYour firm is based in New York, where legal operations have become increasingly complex and cost-intensive. I lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams.\n\nWe recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency. Our ex-lawyer team understands the specific pressures you navigate daily.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your New York office on Thursday, April 10 to share how we're helping similar practices compete without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

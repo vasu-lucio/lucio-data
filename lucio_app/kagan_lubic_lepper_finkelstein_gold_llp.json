@@ -85,7 +85,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gordon-and-rees-llp/"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jack",
+    "to_title": "Managing Partner",
+    "to_email": "jlepper@kll-law.com",
+    "subject": "AI for KLLF&G, built for firms like yours",
+    "body": "Hi Jack,\n\nYour 40 years of depth in cooperative and condominium law, including the complex Local Law compliance and landmark preservation work, positions KLLF&G uniquely in the market. That specialization also means handling high-volume compliance reviews and documentation for your 150+ condo and co-op clients creates real operational friction.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like ourselves are helping similar practices compete. I'd be happy to stop by your office to share how Lucio handles the document-heavy work your clients depend on.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

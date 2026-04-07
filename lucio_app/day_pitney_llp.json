@@ -84,5 +84,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Gregory",
+    "to_title": "Managing Partner",
+    "to_email": "gahayes@daypitney.com",
+    "subject": "AI for Day Pitney LLP, built for firms like yours",
+    "body": "Hi Gregory,\n\nWith 17 ACTEC Fellows on your team, Day Pitney is clearly a powerhouse in Trust & Estates. What caught my attention, though, is Kritika's role as your Technology Partner, which signals you're thinking strategically about how AI can strengthen your practice.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Hartford area to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

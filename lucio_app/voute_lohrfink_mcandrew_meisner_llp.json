@@ -73,5 +73,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner & Appellate Counsel",
+    "to_email": null,
+    "subject": "AI for Vout\u00e9, Lohrfink, McAndrew & Meisner, LLP - built for firms like yours",
+    "body": "Hi Michael,\n\nWith 60+ years defending professionals, corporations, and healthcare organizations across State and Federal courts in the New York metro area, your firm handles the complexity that demands precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your White Plains office to share how, as ex-lawyers ourselves, we're helping litigation and professional liability firms compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

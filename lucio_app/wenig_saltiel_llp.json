@@ -56,5 +56,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Jeffrey",
+    "to_title": "Managing Partner",
+    "to_email": "JSaltiel@Ltattorneys.com",
+    "subject": "AI for Wenig Saltiel LLP, built for firms like yours",
+    "body": "Hi Jeffrey,\n\nMeryl's 25+ years in Landlord Tenant Law and her reputation as a tough litigator tell me Wenig Saltiel handles some of the most demanding real estate litigation cases in NYC. That requires precision, speed, and zero room for error.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into NYC. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on complex litigation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

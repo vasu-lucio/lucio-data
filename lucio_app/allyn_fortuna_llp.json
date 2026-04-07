@@ -66,5 +66,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/allyn-&-fortuna-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Nicholas",
+    "to_title": "Managing Partner",
+    "to_email": "info@allynfortuna.com",
+    "subject": "AI for Allyn & Fortuna LLP, built for firms like yours",
+    "body": "Hi Nicholas,\n\nAllyn & Fortuna has built real expertise across commercial litigation, administrative law, and employment law since 1990, serving Fortune 500 clients across New York and New Jersey. That combination of complexity and scale is exactly what we see in the firms that benefit most from AI.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers ourselves are helping similar practices compete. Worth 20 minutes to explore?\n\nVasu\nLucio"
+  }
 }

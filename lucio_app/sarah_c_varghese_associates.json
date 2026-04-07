@@ -71,5 +71,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Sarah",
+    "to_title": "Managing Attorney",
+    "to_email": null,
+    "subject": "AI for Sarah C. Varghese & Associates, built for firms like yours",
+    "body": "Hi Sarah,\n\nI noticed you're leading Sarah C. Varghese & Associates out of Jericho. Firms in your market are increasingly caught between BigLaw competition and leaner resources, which is exactly what we built Lucio to solve.\n\nI lead business at Lucio, an AI platform for law firms that need precision, client trust, and efficiency without the overhead. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we understand the realities of smaller, focused practices.\n\nHaving completed successful pilots on the East Coast, we're expanding regionally. I'd welcome 20 minutes to show how our ex-lawyer team is helping firms like yours compete effectively.\n\nWorth a brief call this week?\n\nVasu\nLucio"
+  }
 }

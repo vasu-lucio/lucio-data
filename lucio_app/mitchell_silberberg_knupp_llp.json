@@ -71,5 +71,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Doug",
+    "to_title": "Chief Operating Officer",
+    "to_email": null,
+    "subject": "AI for Mitchell Silberberg & Knupp - built for firms like yours",
+    "body": "Hi Doug,\n\nMSK's Entertainment & IP Litigation and Motion Picture/Music/Television Transactions practices operate at BigLaw intensity with 130 attorneys across three coasts. That scale creates real operational complexity, especially when managing high-stakes client work across multiple jurisdictions simultaneously.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly these demands. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in LA to meet firms like yours. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

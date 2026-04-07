@@ -93,5 +93,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Joey",
+    "to_title": "Principal",
+    "to_email": null,
+    "subject": "AI for Joey Jackson Law, PLLC - built for firms like yours",
+    "body": "Hi Joey,\n\nYour representation of unions like COBA and LEEBA across state and federal courts puts you at the center of high-stakes labor and criminal defense work. That's exactly where precision and efficiency matter most.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the NYC market to meet regional firms. I'd be happy to stop by your office on a day that works for you to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

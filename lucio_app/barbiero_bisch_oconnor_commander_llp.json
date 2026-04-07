@@ -90,5 +90,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/barbiero-bisch-o-connor-commander-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Anthony",
+    "to_title": "Managing Partner",
+    "to_email": "abarbiero@bbollp.com",
+    "subject": "AI for Barbiero Bisch O'Connor & Commander LLP, built for results-driven firms",
+    "body": "Hi Anthony,\n\nYour results-driven model across medical malpractice, construction, and trucking litigation demands precision at scale. Most firms your size tell us they're stretched thin managing complex discovery and case strategy in parallel.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Northeast to meet regional firms. I'd be happy to stop by your Melville office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -89,5 +89,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "David",
+    "to_title": "Director of Finance",
+    "to_email": "dglicksman@lskdnylaw.com",
+    "subject": "AI for Lester Schwab Katz & Dwyer, built for defense firms like yours",
+    "body": "Hi David,\n\nLester Schwab Katz & Dwyer's reputation as a leading defense firm across complex tort, commercial litigation, and appellate work is built on precision and quality. That demands the right tools, especially when BigLaw competes on resources rather than judgment.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what actually matters for defense practices: precision, client trust, and efficiency without the bloat.\n\nHaving completed successful pilots on the East Coast, we're expanding into New York. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

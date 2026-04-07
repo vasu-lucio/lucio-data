@@ -65,5 +65,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Daniel",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Morrin & Sands, built for firms like yours",
+    "body": "Hi Daniel,\n\nWith over 30 years in practice, you know the pressure: Social Security Disability and Workers' Compensation cases demand precision, but they also demand speed. Most firms your size are still managing case documents and client communications the way they did a decade ago.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms like Morrin & Sands. I'd be happy to stop by Bellmore to show how, as ex-lawyers ourselves, we're helping similar firms compete without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

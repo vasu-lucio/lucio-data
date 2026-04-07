@@ -86,7 +86,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/crone-law-group"
   },
-  "email": {}
+  "email": {
+    "to_name": "Mark",
+    "to_title": "Managing Partner",
+    "to_email": "mcrone@cronelawgroup.com",
+    "subject": "AI for Crone Law Group, built for firms like yours",
+    "body": "Hi Mark,\n\nYour team handles securities law and corporate finance across five offices, from New York to Beijing, which means you're managing complex, high-stakes work across multiple jurisdictions and time zones.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in LA to meet regional firms. I'd be happy to stop by your New York office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

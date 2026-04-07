@@ -71,7 +71,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://tr.linkedin.com/company/golden-rothschild-spagnola-lundell-boylan-&-garubo",
+    "linkedin_size": "51-200"
   },
-  "email": {}
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": "Recruitment@grsl.com",
+    "subject": "AI for Golden Rothschild Spagnola Lundell Boylan Garubo & Bell",
+    "body": "Hi there,\n\nOver 50 years defending clients across General Liability, Construction, and Professional Liability matters from Bridgewater, GRSLBG&B has built something rare: deep expertise paired with lean efficiency. That combination is exactly what we see in the best firms we work with.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us because we focus on what matters to practices like yours: precision, client trust, and the ability to compete without doubling headcount.\n\nHaving completed successful pilots on the East Coast, we're expanding our reach. I'd be happy to stop by your Bridgewater office to show how our ex-lawyer team is helping similar firms do more with their current resources.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

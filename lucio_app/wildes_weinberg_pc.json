@@ -69,5 +69,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner",
+    "to_email": "michael@wildeslaw.com",
+    "subject": "AI for Wildes & Weinberg, built for immigration practices",
+    "body": "Hi Michael,\n\nYour firm's 65-year track record in immigration law, including Leon Wildes' landmark representation of John Lennon, reflects the kind of precision and client focus that sets specialty practices apart.\n\nI lead business at Lucio, an AI platform built for law firms handling complex cases with lean teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what smaller practices actually need: accuracy, client trust, and speed.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional immigration and business visa practices. I'd be happy to stop by your NYC office on Thursday, April 10 to show how we're helping firms compete with larger competitors on efficiency.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

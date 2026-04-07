@@ -87,5 +87,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Emma",
+    "to_title": "Director of Operations",
+    "to_email": "ebeach@slarskey.com",
+    "subject": "AI for Slarskey LLC, built for firms like yours",
+    "body": "Hi Emma,\n\nSlarskey's plaintiff-side class action practice requires precision work at scale, and I suspect your 18-person team feels the pressure to compete on document review and case analysis without the overhead of BigLaw.\n\nI lead business at Lucio, an AI platform built for litigation boutiques facing exactly those demands. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on their own terms.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

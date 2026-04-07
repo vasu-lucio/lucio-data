@@ -97,5 +97,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Gregory",
+    "to_title": "Esq. \u2013 Managing Partner",
+    "to_email": null,
+    "subject": "AI for Hill, Betts & Nash - built for firms like yours",
+    "body": "Hi Gregory,\n\nWith a practice rooted in admiralty and maritime law since 1898, your firm handles some of the most complex transportation and logistics cases in the industry. That means your team faces the same pressure as BigLaw: precision, client trust, and the need to do more with lean resources.\n\nI lead business at Lucio, an AI platform built for law firms exactly like yours. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of boutique practices: turning data into competitive advantage without sacrificing control.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms in New York. I'd be happy to stop by your office to share how our ex-lawyer team is helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

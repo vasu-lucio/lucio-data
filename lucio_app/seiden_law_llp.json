@@ -108,5 +108,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Allen",
+    "to_title": "Director of Finance & Administration",
+    "to_email": null,
+    "subject": "AI for Seiden Law LLP, built for firms like yours",
+    "body": "Hi Allen,\n\nSeiden Law's global reach across high-stakes international litigation and arbitration means your team juggles complexity that most platforms simply weren't built for. We know because our founders spent years in similar trenches.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and efficiency in cross-border work.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your Manhattan office on Thursday, April 10 to share how we're helping similar practices compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

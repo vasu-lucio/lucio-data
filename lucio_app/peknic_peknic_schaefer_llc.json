@@ -86,5 +86,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Charles",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Peknic, Peknic & Schaefer, built for firms like yours",
+    "body": "Hi Charles,\n\nWith your practice spanning Corporate Law, Real Estate, and Criminal Law, you're managing the kind of diverse caseload that demands precision across multiple domains. Most firms your size struggle to scale without proportional overhead.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding in the New York market to meet regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping firms like yours compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

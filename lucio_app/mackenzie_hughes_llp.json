@@ -73,5 +73,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Christopher",
+    "to_title": "Director of Finance and Administration",
+    "to_email": null,
+    "subject": "AI for Mackenzie Hughes LLP, built for firms like yours",
+    "body": "Hi Christopher,\n\nMackenzie Hughes has been a leader in Upstate New York's legal community since 1884. That kind of longevity comes from knowing how to compete effectively, and I suspect your team in Syracuse faces the same pressure as firms everywhere: delivering BigLaw-caliber work across business transactions, estate planning, and civil litigation without BigLaw resources.\n\nI lead business at Lucio, an AI platform built specifically for law firms facing exactly that challenge. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your office to show how ex-lawyers like us are helping similar firms compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

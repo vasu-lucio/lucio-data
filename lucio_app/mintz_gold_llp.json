@@ -76,7 +76,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/mintz-&-gold-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Steven",
+    "to_title": "Founding Partner",
+    "to_email": "gold@mintzandgold.com",
+    "subject": "AI for Mintz & Gold, built for firms like yours",
+    "body": "Hi Steven,\n\nMintz & Gold's 30+ year track record of delivering high-quality representation at fair costs across the tri-state area and beyond is exactly the kind of efficient, client-focused operation that benefits most from AI built for lean teams.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner resources. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters for smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to share how our ex-lawyer team is helping practices compete with BigLaw without compromising quality.\n\nWorth 20 minutes to explore?\n\nVasu\nLucio"
+  }
 }

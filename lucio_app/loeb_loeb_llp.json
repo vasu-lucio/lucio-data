@@ -61,7 +61,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/loeb-loeb-llp",
+    "linkedin_size": "501-1000"
   },
-  "email": {}
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Loeb & Loeb LLP, built for firms like yours",
+    "body": "Hi there,\n\nLoeb & Loeb has been delivering strategic solutions on complex deals and high-profile disputes since 1909, across 8 global offices. That track record demands tools that match your firm's precision and client expectations.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and efficiency without the enterprise overhead.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms. I'd be happy to stop by your New York office to show how ex-lawyers built this for firms like yours to compete effectively.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

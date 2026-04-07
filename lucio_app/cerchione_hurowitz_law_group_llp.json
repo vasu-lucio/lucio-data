@@ -67,7 +67,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cerchione-hurowitz-law-group-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Gregory",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Cerchione Hurowitz - built for firms like yours",
+    "body": "Hi Gregory,\n\nBuilt on decades of New York City personal injury experience, your firm represents injured individuals with clarity and litigation-ready resources. That accessibility and precision is exactly what we're built to scale.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in NYC to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar personal injury practices compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -65,5 +65,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Steven",
+    "to_title": "Managing Partner",
+    "to_email": "sschindler@schlaw.com",
+    "subject": "AI for Schindler Cohen & Hochman, built for boutique litigation",
+    "body": "Hi Steven,\n\nYour firm's securities and complex commercial litigation practice represents the kind of high-stakes, intellectually demanding work where precision matters most. That's exactly why we built Lucio.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of boutique practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet firms like yours. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

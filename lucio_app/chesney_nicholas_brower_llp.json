@@ -64,5 +64,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Gregory",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Chesney, Nicholas & Brower, LLP - built for firms like yours",
+    "body": "Hi Gregory,\n\nWith your firm's 30-year track record across New York State and Federal Courts handling everything from construction litigation to motor vehicle accidents, you've built something that demands precision at every case stage. That's exactly where most smaller firms struggle against BigLaw competition.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by your Syosset office to share how, as ex-lawyers ourselves, we're helping similar firms compete without losing the personalized approach your clients expect.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

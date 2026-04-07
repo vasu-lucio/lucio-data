@@ -84,5 +84,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Raymond",
+    "to_title": "District Attorney",
+    "to_email": null,
+    "subject": "AI for Suffolk County District Attorney's Office, built for law enforcement teams",
+    "body": "Hi Raymond,\n\nSince you took office in January 2022, the Suffolk County District Attorney's Office has been tasked with investigating and prosecuting state and local criminal violations across the region. That mission demands both precision and scale, especially with over 300 prosecutors and investigators coordinating complex cases.\n\nI lead business at Lucio, an AI platform built for law firms and prosecution offices that face BigLaw demands with leaner teams. We recently raised $5M, and organizations across 9 jurisdictions have chosen us because we focus on what actually matters: case accuracy, team efficiency, and the trust your victims and community deserve.\n\nWe've completed successful pilots on the East Coast and are now meeting with regional law enforcement leaders. I'd be happy to stop by your office to show how ex-lawyers like us are helping similar teams compete without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

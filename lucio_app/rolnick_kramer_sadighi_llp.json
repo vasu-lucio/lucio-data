@@ -79,5 +79,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Sheila",
+    "to_title": "Managing Partner",
+    "to_email": "ssadighi@rksllp.com",
+    "subject": "AI for Rolnick Kramer Sadighi LLP, built for firms like yours",
+    "body": "Hi Sheila,\n\nRolnick Kramer Sadighi was founded to focus on investor rights and recoveries, and that precision mission is exactly what we see missing in most legal AI tools. When you're handling securities opt-out litigation, structured finance disputes, and creditor rights cases for clients with trillions in AUM, your tools need to match your expertise.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters most: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York. I'd be happy to stop by your office to share how we're helping similar firms compete with larger practices.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

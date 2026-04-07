@@ -95,7 +95,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/entwistle-&-cappucci-llp/"
   },
-  "email": {}
+  "email": {
+    "to_name": "Andrew",
+    "to_title": "Managing Partner",
+    "to_email": "info@entwistle-law.com",
+    "subject": "AI for Entwistle & Cappucci, built for firms like yours",
+    "body": "Hi Andrew,\n\nYour $126.3 million recovery in In re Alta Mesa Resources shows what precision litigation work looks like. That level of investor advocacy requires the kind of focused, efficient case management that stretched teams struggle to maintain at scale.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what smaller practices actually need: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Austin to meet regional firms. I'd be happy to stop by your office to share how we're helping securities and commercial litigation teams compete with larger firms.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

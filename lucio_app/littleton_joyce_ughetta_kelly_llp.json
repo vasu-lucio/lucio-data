@@ -88,7 +88,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/littleton-joyce-ughetta-kelly-llp/",
+    "linkedin_size": "51-200"
   },
-  "email": {}
+  "email": {
+    "to_name": "Kristen",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Littleton Joyce Ughetta & Kelly LLP, built for firms like yours",
+    "body": "Hi Kristen,\n\nManaging national product liability and mass tort cases across seven offices takes the precision of a boutique with BigLaw-scale operations. That's exactly the tension we solve for.\n\nI lead business at Lucio, an AI platform built for law firms facing complex litigation demands with lean teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and efficiency without the enterprise overhead.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms. I'd be happy to stop by your Purchase office to show how ex-lawyers like us are helping firms compete with BigLaw on discovery, document review, and case strategy.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

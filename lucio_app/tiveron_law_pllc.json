@@ -72,5 +72,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Diane",
+    "to_title": "Managing Partner, Business Law Chair",
+    "to_email": null,
+    "subject": "AI for Tiveron Law, built for firms like yours",
+    "body": "Hi Diane,\n\nWith 35 attorneys across five Western New York offices handling everything from personal injury to estate planning, Tiveron Law operates at a scale where precision and efficiency separate leaders from the rest. I noticed you're processing more home closings in the Buffalo area than any other residential real estate group, which tells me your teams are stretched.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Western New York to meet regional firms. I'd be happy to stop by Getzville on a day that works for you to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

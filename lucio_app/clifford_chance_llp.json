@@ -79,5 +79,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Charles Adams",
+    "to_title": "Global Managing Partner",
+    "to_email": null,
+    "subject": "AI for Clifford Chance, built for firms like yours",
+    "body": "Hi Charles,\n\nYour Houston expansion into Energy and Infrastructure is exactly the kind of growth that demands smarter workflows. We've been watching how top-tier firms scale specialist practices across new markets, and it's clear that precision and efficiency are non-negotiable.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of growing practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in London to meet global firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete at scale.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

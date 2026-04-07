@@ -81,5 +81,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Attorney/Partner and Counselor at Law",
+    "to_email": "[email protected]",
+    "subject": "AI for Ettinger Law Firm, built for firms like yours",
+    "body": "Hi Michael,\n\nThirty thousand clients served since 1991 is a remarkable testament to Ettinger's reputation in elder law and estate planning. That scale demands systems that protect client trust while keeping your team efficient.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Albany region to meet firms managing complex Medicaid and probate workflows. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -103,5 +103,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Marc",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Phillips Nizer - built for firms like yours",
+    "body": "Hi Marc,\n\nPhillips Nizer's track record since 1926, combined with your focus on sophisticated corporate and litigation work for domestic and international clients, puts you exactly where AI can deliver the most impact: freeing your team to focus on client strategy rather than document review and legal research.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now working with NYC firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on intellectual property and corporate matters.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

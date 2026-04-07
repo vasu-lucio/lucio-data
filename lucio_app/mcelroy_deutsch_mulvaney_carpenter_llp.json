@@ -70,7 +70,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/mcelroy-deutsch-mulvaney-&-carpenter-llp",
+    "linkedin_size": "201-500"
   },
-  "email": {}
+  "email": {
+    "to_name": "Joseph",
+    "to_title": "Chief Financial Officer",
+    "to_email": null,
+    "subject": "AI for McElroy, Deutsch, Mulvaney & Carpenter, LLP built for firms like yours",
+    "body": "Hi Joseph,\n\nWith 175 attorneys across litigation, labor and employment, and bankruptcy practices, McElroy, Deutsch, Mulvaney & Carpenter is exactly the kind of diverse firm facing pressure to scale efficiency without compromising the client-first approach that's defined your practice since 1983.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of mid-sized practices: precision, client trust, and measurable efficiency gains.\n\nHaving completed successful pilots on the East Coast, we're expanding regionally. I'd be happy to stop by Morristown to share how ex-lawyers like us are helping similar firms compete without losing their identity.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

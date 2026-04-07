@@ -77,5 +77,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/adams-leclair-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Steven",
+    "to_title": "Managing Partner",
+    "to_email": "scole@adamsleclair.law",
+    "subject": "AI for Adams Leclair LLP, built for firms like yours",
+    "body": "Hi Steven,\n\nWith two offices across the U.S. and a focused practice in commercial and construction litigation, Adams Leclair has built something most firms struggle with: scale without losing precision. That's exactly the challenge we solve.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your Rochester office to share how ex-lawyers like us are helping similar firms compete with BigLaw on document review and discovery work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

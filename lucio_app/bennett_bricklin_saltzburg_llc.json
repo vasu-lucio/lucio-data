@@ -97,5 +97,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/bennett-bricklin-&-saltzburg-llc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Theresa",
+    "to_title": "Human Resources Director",
+    "to_email": "meyer@bbs-law.com",
+    "subject": "AI for Bennett, Bricklin & Saltzburg, built for your insurance coverage practice",
+    "body": "Hi Theresa,\n\nBennett, Bricklin & Saltzburg has built something rare: a 53-attorney firm that's maintained deep client relationships for 40, 50, and 60+ years while handling complex insurance coverage and bad faith litigation. That loyalty speaks to your operational excellence.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your Philadelphia office to share how, as ex-lawyers ourselves, we're helping similar firms compete without losing the efficiency edge.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

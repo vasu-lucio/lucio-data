@@ -78,5 +78,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Marty",
+    "to_title": "Managing Partner",
+    "to_email": "mnmartenson@martensonlaw.com",
+    "subject": "AI for Martenson, Hasbrouck & Simon - built for firms like yours",
+    "body": "Hi Marty,\n\nYour national labor and employment defense practice across six offices is exactly the kind of operation we're built for. Managing complex litigation and administrative matters across all 50 states while maintaining service quality takes precision and scale that most platforms don't deliver.\n\nI lead business at Lucio, an AI platform purpose-built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding our footprint. I'd be happy to stop by your Atlanta office to share how ex-lawyers like ourselves are helping firms compete with BigLaw on their terms.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

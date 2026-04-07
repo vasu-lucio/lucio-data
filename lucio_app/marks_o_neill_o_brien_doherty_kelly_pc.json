@@ -88,7 +88,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/moodk"
   },
-  "email": {}
+  "email": {
+    "to_name": "Kaitlyn",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for defense litigation at Marks, O'Neill, O'Brien, Doherty & Kelly",
+    "body": "Hi Kaitlyn,\n\nWith 122 attorneys across six states handling professional liability, casualty, and products liability work, you're managing the exact complexity where precision and efficiency matter most. After 25 years at the forefront of defense litigation, you know the gap between BigLaw resources and regional firm realities.\n\nI lead business at Lucio, an AI platform built for law firms facing that exact tension. We recently raised $5M, and defense firms across the East Coast have chosen us over Harvey because we focus on what matters: client trust, accuracy on deadline, and leaner operations.\n\nHaving completed successful pilots nearby, I'd be happy to stop by your Philadelphia office to show how ex-lawyers like us are helping firms like yours compete without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

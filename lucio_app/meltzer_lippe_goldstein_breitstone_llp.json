@@ -77,5 +77,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Dawn",
+    "to_title": "CFO/COO",
+    "to_email": "dlaffin@meltzerlippe.com",
+    "subject": "AI for Meltzer, Lippe, Goldstein & Breitstone - built for firms like yours",
+    "body": "Hi Dawn,\n\nWith Bankruptcy and Real Estate Taxation practices spanning Long Island, NYC, and Florida, Meltzer, Lippe, Goldstein & Breitstone handles the kind of complex, high-stakes work that demands both precision and scale. That's exactly what we're solving for.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

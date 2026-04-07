@@ -84,7 +84,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/manice-budd-baggett-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Nancy",
+    "to_title": "Trust Administration & Office Management",
+    "to_email": "nlau@manicebudd.com",
+    "subject": "AI for Manice Budd & Baggett LLP, built for firms like yours",
+    "body": "Hi Nancy,\n\nWith over 50 years guiding multi-generational estate planning, Manice Budd & Baggett has mastered what most firms struggle with: managing complex trust administration and fiduciary work at scale without losing the personalized touch that families expect.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by your New York office to share how we're helping similar firms compete with larger competitors, especially on trust administration workflows.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

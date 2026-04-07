@@ -70,7 +70,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://bd.linkedin.com/company/lambda-cloud",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

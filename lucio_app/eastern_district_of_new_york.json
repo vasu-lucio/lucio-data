@@ -71,7 +71,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/usao-edny/",
+    "linkedin_size": "201-500"
   },
-  "email": {}
+  "email": {
+    "to_name": "Joseph",
+    "to_title": "U.S. Attorney",
+    "to_email": null,
+    "subject": "AI for Eastern District of New York, built for national security and white-collar work",
+    "body": "Hi Joseph,\n\nThe Eastern District of New York's national security and white-collar crime programs are among the most sophisticated in the nation. That level of complexity demands tools that match the stakes.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and offices across 9 jurisdictions have chosen us over Harvey because we focus on what matters most: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional offices. I'd be happy to stop by Brooklyn to show how ex-lawyers like ourselves are helping similar teams compete with larger operations.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

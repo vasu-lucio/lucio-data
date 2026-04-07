@@ -94,5 +94,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/amato-law-group-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Alfred",
+    "to_title": "Founder & Managing Attorney",
+    "to_email": "info@amatofirm.com",
+    "subject": "AI for Amato Law Group, built for firms like yours",
+    "body": "Hi Alfred,\n\nWith your real estate department ranking among the five largest on Long Island, you're competing on deals that demand precision and speed. We see this constantly: growing firms balancing BigLaw-caliber work with leaner operations.\n\nI lead business at Lucio, an AI platform built for law firms exactly like yours. We recently raised $5M, and practices across 9 jurisdictions have chosen us over Harvey because we focus on what matters to regional firms: client trust, accuracy, and real efficiency gains.\n\nWe've completed successful pilots on the East Coast and are now meeting firms across the region. I'd love to stop by your Garden City office and show you how we're helping similar practices stay competitive without the overhead.\n\nWorth 20 minutes this week?\n\nVasu\nLucio"
+  }
 }

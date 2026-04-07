@@ -67,5 +67,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Andrew",
+    "to_title": "Partner",
+    "to_email": "info@walawny.com",
+    "subject": "AI for Wiese & Aydiner, PLLC - built for firms like yours",
+    "body": "Hi Andrew,\n\nWith over 40 years of combined experience serving accident victims across New York City and Long Island, you've built something most firms can't: a track record of millions recovered and a 5.0 rating. That level of trust takes discipline and precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms doing the work you do. I'd be happy to stop by Mineola on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -80,5 +80,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Colleen",
+    "to_title": "Director of HR and Administrative Services",
+    "to_email": "cboyle@shermanatlas.com",
+    "subject": "AI for Sherman Atlas Sylvester & Stamelman LLP, built for firms like yours",
+    "body": "Hi Colleen,\n\nSeveral of your partners have been recognized in Best Lawyers lists for 2025, which speaks to the caliber of talent at Sherman Atlas. That reputation also means your teams are handling complex corporate law, estate planning, and litigation work that demands precision and efficiency.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the New Jersey area to meet regional firms. I'd be happy to stop by your Florham Park office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

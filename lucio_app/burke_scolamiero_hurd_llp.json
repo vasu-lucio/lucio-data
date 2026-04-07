@@ -81,7 +81,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/burke-scolamiero-mortati-hurd"
   },
-  "email": {}
+  "email": {
+    "to_name": "Kevin",
+    "to_title": "Managing Partner",
+    "to_email": "kevin@bshlaw.us",
+    "subject": "AI for Burke, Scolamiero & Hurd - built for defense firms like yours",
+    "body": "Hi Kevin,\n\nYour firm's focus on Professional Liability and Environmental Torts across Upstate NY's judicial districts means handling complex cases with precision on lean resources. That's exactly the challenge we solve.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into New York to meet defense firms. I'd be happy to stop by your Albany office this week to show how, as ex-lawyers ourselves, we're helping firms like yours compete with BigLaw on efficiency without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

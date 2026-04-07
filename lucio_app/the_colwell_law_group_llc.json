@@ -64,5 +64,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Jennifer",
+    "to_title": "Chief Operating Officer",
+    "to_email": null,
+    "subject": "AI for The Colwell Law Group - built for firms like yours",
+    "body": "Hi Jennifer,\n\nThe Colwell Law Group was voted Best Place to Work in both 2023 and 2025 by the Albany Business Review, which tells me you're building something special with your team. That kind of culture matters most when you're handling complex matrimonial and family law cases that demand both precision and deep personalization.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what actually matters to practices like yours: client trust, efficiency, and the ability to scale without losing the customized approach that sets you apart.\n\nHaving completed successful pilots on the East Coast, we're expanding into new markets. I'd be happy to stop by your Albany office to share how ex-lawyers built this platform for firms like The Colwell Law Group.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

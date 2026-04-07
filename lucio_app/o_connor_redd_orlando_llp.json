@@ -78,5 +78,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Steven",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for O'Connor Redd Orlando LLP, built for firms like yours",
+    "body": "Hi Steven,\n\nYour firm's Martindale-Hubbell highest rating reflects the caliber of appellate and insurance coverage work O'Connor Redd Orlando LLP delivers across New York, New Jersey, and Connecticut. That same precision is exactly what we're helping trial and defense practices protect as caseloads grow.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your White Plains office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on appellate and coverage defense.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

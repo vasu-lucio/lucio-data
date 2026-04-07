@@ -83,5 +83,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Nancy",
+    "to_title": "Director of Legal Operations",
+    "to_email": null,
+    "subject": "AI for Finkelstein & Partners, LLP built for firms like yours",
+    "body": "Hi Nancy,\n\nFinkelstein & Partners has earned recognition in Profiles of Law for making a meaningful impact in your field and community. That kind of reputation is built on precision and client trust, not just volume.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nWith your focus on construction accidents, car accidents, and complex cases, you're exactly the kind of firm we work with. I'd be happy to stop by Newburgh or hop on a call to show how we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -72,7 +72,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/fordharrisonlaw"
   },
-  "email": {}
+  "email": {
+    "to_name": "Scott",
+    "to_title": "Chief Technology Officer",
+    "to_email": "sshaw@fordharrison.com",
+    "subject": "AI for FordHarrison, built for firms like yours",
+    "body": "Hi Scott,\n\nI noticed FordHarrison has built FHind, a searchable knowledge database powered by Lexis Search Advantage. That kind of investment in internal intelligence infrastructure tells me you're thinking seriously about how technology can compound your firm's labor and employment expertise across 25 offices.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into new markets. I'd be happy to stop by your Atlanta office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

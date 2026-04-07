@@ -95,5 +95,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Yong Jin Park",
+    "to_title": "Managing Partner",
+    "to_email": "yongjin.park@pkparkllp.com",
+    "subject": "AI for P&K Park, built for firms managing high-stakes product liability",
+    "body": "Hi Yong Jin,\n\nYour team's track record defending complex product liability cases nationwide caught my attention, especially given the regulatory compliance demands you're juggling across international and domestic clients. That's exactly where we see firms like yours needing precision tools most.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

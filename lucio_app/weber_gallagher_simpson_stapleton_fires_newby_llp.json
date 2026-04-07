@@ -72,5 +72,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Greg",
+    "to_title": "Chief Technology Officer",
+    "to_email": "glargent@wglaw.com",
+    "subject": "AI for Weber Gallagher, built for firms like yours",
+    "body": "Hi Greg,\n\nI saw that Weber Gallagher's internal AI task force is investigating ways to safely and responsibly use AI to increase efficiencies across your 130-attorney practice. That kind of intentional approach to AI adoption is exactly what separates firms that scale from those that get left behind.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to the Mid-Atlantic. I'd be happy to stop by your office to show how we're helping similar firms compete with BigLaw, especially in workers' compensation and employment law where document review and case analysis matter most.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

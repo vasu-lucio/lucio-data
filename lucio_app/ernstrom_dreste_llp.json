@@ -90,7 +90,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ernstrom-&-dreste-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Brian",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Ernstrom & Dreste, LLP - built for firms like yours",
+    "body": "Hi Brian,\n\nYour firm's national recognition in Construction and Surety Law, built over 30 years since 1992, reflects the kind of specialized expertise that demands smarter tools, not just bigger teams.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Rochester to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on complex commercial litigation and contract work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

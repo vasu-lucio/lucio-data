@@ -79,7 +79,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kirby-aisner-curley-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Dawn",
+    "to_title": "Partner",
+    "to_email": "dkirby@kacllp.com",
+    "subject": "AI for Kirby Aisner & Curley LLP, built for firms like yours",
+    "body": "Hi Dawn,\n\nYour bankruptcy and real estate practice across New York City, Long Island, Westchester and the lower Hudson Valley handles the kind of high-stakes, multi-jurisdictional work that demands both precision and speed from a lean team.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with smaller practices. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters most: client trust, accuracy, and efficiency without the overhead.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms who want to compete smarter. I'd be happy to stop by your Scarsdale office to show how, as ex-lawyers ourselves, we're helping practices like yours do more with your current team.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

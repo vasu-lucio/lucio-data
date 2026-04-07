@@ -76,5 +76,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Ramya",
+    "to_title": "Director of People and Firm Operations",
+    "to_email": null,
+    "subject": "AI for Turken, Heath and McCauley, LLP built for firms like yours",
+    "body": "Hi Ramya,\n\nYour litigation partners have built careers zealously defending medical malpractice and tort claims across New York and federal courts. That depth of expertise deserves tools that match it.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms like Turken, Heath and McCauley. I'd be happy to stop by Armonk to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

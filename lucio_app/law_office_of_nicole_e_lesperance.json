@@ -76,7 +76,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/opensity-solutions"
   },
-  "email": {}
+  "email": {
+    "to_name": "Nicole",
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Law Office of Nicole E. Lesperance, built for firms like yours",
+    "body": "Hi Nicole,\n\nI noticed your firm is based in Melville, and we've been working with practices across the East Coast that are balancing premium service with leaner operations.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of independent and regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots throughout the region, we're expanding our reach and would love to show you how, as ex-lawyers ourselves, we're helping firms like yours compete effectively.\n\nWould you be open to a brief 20-minute conversation to see if this is a fit?\n\nBest,\nVasu\nLucio"
+  }
 }

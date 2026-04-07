@@ -55,7 +55,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/law-offices-of-michelle-siegel"
   },
-  "email": {}
+  "email": {
+    "to_name": "Michelle",
+    "to_title": null,
+    "to_email": "michellesiegel@msiegelaw.com",
+    "subject": "AI for Law Office of Michelle Siegel, built for firms like yours",
+    "body": "Hi Michelle,\n\nYour work navigating IEP meetings for families across NYC requires precision, deep case knowledge, and trust. That's exactly where smaller practices like yours outpace BigLaw, but the administrative load can slow you down.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the NYC area to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

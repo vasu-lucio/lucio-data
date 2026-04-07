@@ -69,7 +69,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://za.linkedin.com/company/constangy",
+    "linkedin_size": "201-500"
   },
-  "email": {}
+  "email": {
+    "to_name": "Scott",
+    "to_title": "Chief Information Officer",
+    "to_email": "ssoutherland@constangy.com",
+    "subject": "AI for Constangy, Brooks, Smith & Prophete, LLP. Built for firms like yours",
+    "body": "Hi Scott,\n\nYour expansion into cybersecurity and data privacy in 2023 signals serious growth across new practice verticals. Managing that alongside labor and employment across 230 attorneys and 21 states creates real operational demands.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Atlanta. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

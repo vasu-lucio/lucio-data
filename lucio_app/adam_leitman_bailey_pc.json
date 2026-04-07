@@ -74,5 +74,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Adam",
+    "to_title": "Founding Partner",
+    "to_email": null,
+    "subject": "AI for Adam Leitman Bailey, P.C. - built for firms like yours",
+    "body": "Hi Adam,\n\nYour firm's AV Martindale-Hubbell rating is rare achievement, and it reflects the precision your real estate practice demands. That same rigor is what drew us to building Lucio.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

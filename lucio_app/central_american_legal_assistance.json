@@ -69,7 +69,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/central-american-legal-assistance",
+    "linkedin_size": "5000+"
   },
   "email": {}
 }

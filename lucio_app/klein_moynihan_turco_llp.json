@@ -81,7 +81,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/klein-moynihan-turco-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "David",
+    "to_title": "Managing Partner",
+    "to_email": "info@kleinmoynihan.com",
+    "subject": "AI for Klein Moynihan Turco LLP, built for firms like yours",
+    "body": "Hi David,\n\nYour firm's focus on Internet and mobile marketing law, data privacy, and NFT law puts you at the intersection of some of the fastest-moving legal practice areas. That kind of specialization demands both precision and speed.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

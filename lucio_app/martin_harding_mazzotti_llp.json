@@ -78,5 +78,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Paul",
+    "to_title": "Managing Partner",
+    "to_email": "Paul.Harding@1800LAW1010.com",
+    "subject": "AI for Harding Mazzotti, LLP - built for firms like yours",
+    "body": "Hi Paul,\n\nWith over $1 billion in settlements recovered across your upstate New York and Vermont locations, your firm has proven the value of scale and excellence in personal injury. Most platforms built for law firms forget this reality: you need tools that respect client relationships while handling volume.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Albany region to meet firms like yours. I'd be happy to stop by and share how our ex-lawyer team is helping similar firms compete without losing the personal touch that built your reputation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

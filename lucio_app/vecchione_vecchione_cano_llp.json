@@ -64,5 +64,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for workers' compensation practices like yours",
+    "body": "Hi Michael,\n\nWith decades of experience litigating workers' compensation cases for employers, carriers, and third-party administrators, Vecchione, Vecchione & Cano operates in one of the most document-intensive practice areas in law. The complexity you handle daily is exactly what we built for.\n\nI lead business at Lucio, an AI platform created for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like us are helping practices compete with larger competitors.\n\nWorth 20 minutes to explore if Lucio fits your workflow?\n\nVasu\nLucio"
+  }
 }

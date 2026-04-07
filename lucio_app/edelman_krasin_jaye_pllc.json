@@ -72,5 +72,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Carissa",
+    "to_title": "Case & Office Manager",
+    "to_email": null,
+    "subject": "AI for Edelman, Krasin & Jaye, PLLC: built for firms like yours",
+    "body": "Hi Carissa,\n\nEdelman, Krasin & Jaye represents victims across the country in serious personal injury lawsuits, class actions, and mass torts. That means your team handles high-stakes cases that demand precision and speed, but likely without the back-office resources of BigLaw.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly these demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: client trust, precision, and real efficiency.\n\nHaving completed successful pilots on the East Coast, we're arriving in the New York region to meet firms. I'd be happy to stop by Westbury on a day that works for you to share how ex-lawyers like us are helping similar firms compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -100,5 +100,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Joseph",
+    "to_title": "Managing General Partner",
+    "to_email": "jpareres@splllp.com",
+    "subject": "AI for SILVERSON, PARERES & LOMBARDI - built for firms like yours",
+    "body": "Hi Joseph,\n\nWith 8 attorneys covering medical malpractice, litigation, and employment law out of White Plains, you're managing complex caseloads with a lean team. That's exactly the pressure point we see across the East Coast.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

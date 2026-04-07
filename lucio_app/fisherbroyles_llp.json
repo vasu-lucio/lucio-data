@@ -61,7 +61,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/fisherbroyles-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Judy",
+    "to_title": "Chief Operating Partner",
+    "to_email": null,
+    "subject": "AI for FisherBroyles, built for your Law Firm 2.0\u00ae model",
+    "body": "Hi Judy,\n\nYour Law Firm 2.0\u00ae model has always prioritized efficiency and value by redesigning legal workflows around advanced technologies. We built Lucio specifically for firms operating at that intersection.\n\nI lead business at Lucio, an AI platform built for law firms managing BigLaw demands with distributed teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and real operational efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Atlanta to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping distributed practices compete with traditional BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

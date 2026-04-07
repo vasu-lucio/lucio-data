@@ -82,7 +82,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/copps-dipaola-silverman-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Ashlee",
+    "to_title": "Office Manager",
+    "to_email": "APestuglicci@theCDSLawFirm.com",
+    "subject": "AI for Copps DiPaola Silverman - built for firms like yours",
+    "body": "Hi Ashlee,\n\nI noticed your team handles complex family law matters across divorce, surrogacy, and adoption while staying available 7 days a week for litigation clients. That kind of around-the-clock commitment demands serious operational efficiency.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now working with regional firms in New York. I'd be happy to stop by your Albany office to share how, as ex-lawyers ourselves, we're helping similar practices compete on quality while protecting margins.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -54,7 +54,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hodgson-russ-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Mairi",
+    "to_title": "Chief Operating Partner",
+    "to_email": "mstewart@hodgsonruss.com",
+    "subject": "AI for Hodgson Russ, built for Am Law 200 firms",
+    "body": "Hi Mairi,\n\nHodgson Russ handles U.S. legal matters across the U.S., Canada, and Europe for clients with sophisticated, evolving needs. With 230 attorneys operating across 90+ practice groups, your firm balances scale with precision in ways that require the right tools.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of complex practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to visit Buffalo or meet by phone to share how we're helping similar firms compete at scale.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

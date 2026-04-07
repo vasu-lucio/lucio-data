@@ -83,5 +83,11 @@
     },
     "linkedin_company_url": "https://tr.linkedin.com/company/bal-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jeremy",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Berry Appleman & Leiden LLP, built for firms like yours",
+    "body": "Hi Jeremy,\n\nBAL's investment in proprietary Cobalt mobile app and artificial intelligent engines puts you ahead of most immigration practices. You're clearly committed to leveraging AI and machine learning to compete on scale and precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of specialized practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Dallas to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping corporate immigration practices compete with BigLaw on throughput without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

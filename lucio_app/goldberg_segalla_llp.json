@@ -68,5 +68,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Christopher",
+    "to_title": "Chief Operating Partner",
+    "to_email": null,
+    "subject": "AI for Goldberg Segalla, built for national civil litigation firms",
+    "body": "Hi Christopher,\n\nGoldberg Segalla's recognition by The American Lawyer as a top 200 firm speaks to your team's excellence in civil litigation and insurance coverage. That level of sophistication paired with a 500-attorney operation means you're managing complex cases at scale, which is exactly where AI becomes the difference between staying ahead and drowning in motion practice.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of national practices: precision, client trust, and efficiency without the overhead.\n\nHaving completed successful pilots on the East Coast, we're now meeting with regional firms. I'd be happy to stop by Buffalo and share how, as ex-lawyers ourselves, we're helping similar firms compete and scale.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

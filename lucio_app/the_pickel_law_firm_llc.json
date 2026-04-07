@@ -76,5 +76,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Alan",
+    "to_title": "Founder & Managing Partner",
+    "to_email": "apickel@nullpickellaw.com",
+    "subject": "AI for The Pickel Law Firm, built for firms like yours",
+    "body": "Hi Alan,\n\nOver thirty years, you've recovered millions for clients across Connecticut in personal injury and medical malpractice cases. That track record comes from precision and trust, not bloated infrastructure.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Connecticut. I'd be happy to stop by your Stamford office to share how ex-lawyers like us are helping similar firms compete without losing their edge.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

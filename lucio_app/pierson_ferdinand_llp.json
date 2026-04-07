@@ -93,5 +93,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Pierson Ferdinand, built for firms like yours",
+    "body": "Hi there,\n\nPierson Ferdinand was founded on legal innovation, and your firm's AI-native model across Corporate, Litigation, and IP is exactly the kind of forward-thinking infrastructure we see among the strongest East Coast practices.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by your New York office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

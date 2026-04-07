@@ -92,7 +92,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/marcum-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jeffrey",
+    "to_title": "Founding Partner",
+    "to_email": "jeffrey@jzlegal.com",
+    "subject": "AI for Jeffrey Zwick & Associates - built for firms like yours",
+    "body": "Hi Jeffrey,\n\nYour firm has become one of the most active real estate law firms operating across New York, New Jersey, and nationally. That pace, especially in commercial real estate transactions and bond offerings, demands both precision and efficiency.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Brooklyn area to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

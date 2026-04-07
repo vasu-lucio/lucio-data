@@ -50,5 +50,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Aaron",
+    "to_title": "Managing Member",
+    "to_email": null,
+    "subject": "AI for Mullen Associates, built for firms like yours",
+    "body": "Hi Aaron,\n\nBased in Bath, Mullen Associates operates with the kind of lean, high-leverage model that separates firms punching above their weight from the rest. That's exactly who we built Lucio for.\n\nI lead business at Lucio, an AI platform designed for law firms facing BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency without the overhead.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Northeast to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

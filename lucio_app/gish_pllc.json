@@ -82,7 +82,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gishpllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Andrew",
+    "to_title": "Managing Partner",
+    "to_email": "agish@gishpllc.com",
+    "subject": "AI for Gish PLLC, built for firms like yours",
+    "body": "Hi Andrew,\n\nYour team's background as former Big Law litigators, combined with deep technical expertise across patents and trade secrets, positions Gish PLLC to compete at the highest level. We're noticing that boutique IP firms like yours need tools that match BigLaw capability without the overhead.\n\nI lead business at Lucio, an AI platform built specifically for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

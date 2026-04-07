@@ -85,5 +85,11 @@
     },
     "linkedin_company_url": "https://dk.linkedin.com/company/borchert-&-laspina-p.c."
   },
-  "email": {}
+  "email": {
+    "to_name": "Gregory",
+    "to_title": "Partner",
+    "to_email": "glaspina@blpcny.com",
+    "subject": "AI for Borchert & LaSpina - built for firms like yours",
+    "body": "Hi Gregory,\n\nWith over 100 years of combined legal experience across your team, Borchert & LaSpina has built something most firms never achieve: deep expertise and trusted relationships. That foundation makes you exactly the kind of firm that can compete harder when the right tools match your precision and client focus.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: accuracy, client trust, and real efficiency gains in real estate, foreclosure, and commercial litigation.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms in your market. I'd be happy to stop by your Whitestone office to share how we're helping similar practices compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

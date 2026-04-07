@@ -84,5 +84,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/bartkopavia"
   },
-  "email": {}
+  "email": {
+    "to_name": "An",
+    "to_title": "Co-Managing Partner",
+    "to_email": null,
+    "subject": "AI for Bartko Pavia, built for complex litigation shops",
+    "body": "Hi An,\n\nRepresenting both plaintiffs and defendants across complex litigation demands real operational precision. At 68 attorneys, you're running the playbook of a much larger firm without the overhead.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in California to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar litigation shops compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

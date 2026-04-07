@@ -79,7 +79,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/glancy-prongay-wolke-rotter-llp",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Robert",
+    "to_title": "Managing Partner",
+    "to_email": "rprongay@glancylaw.com",
+    "subject": "AI for Glancy Prongay Wolke & Rotter LLP, built for firms like yours",
+    "body": "Hi Robert,\n\nYour firm has recovered over $1 billion for investors wronged by corporate fraud and antitrust violations. That track record takes precision, deep expertise, and lean execution across securities and antitrust work.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in LA to meet firms like yours. I'd be happy to stop by your office to share how ex-lawyers built this to actually work for class action and securities litigation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

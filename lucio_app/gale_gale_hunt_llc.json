@@ -59,7 +59,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://tr.linkedin.com/company/gale-gale-&-hunt-llc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jo Ann",
+    "to_title": "Office Manager",
+    "to_email": "jstuhler@gghlawoffice.com",
+    "subject": "AI for Gale Gale & Hunt, LLC - built for firms like yours",
+    "body": "Hi Jo Ann,\n\nWith a 12-attorney team handling litigation, appellate, and malpractice work, Gale Gale & Hunt is exactly the kind of nimble firm we built Lucio for. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to smaller practices: precision, client trust, and efficiency.\n\nI lead business at Lucio, an AI platform designed by ex-lawyers who understand the real constraints you face competing with BigLaw resources. Having completed successful pilots on the East Coast, we're now meeting regional firms to show how we help teams like yours do more with less.\n\nWould you and Matthew be open to a brief 20-minute conversation about what's working for similar firms in your region?\n\nVasu\nLucio"
+  }
 }

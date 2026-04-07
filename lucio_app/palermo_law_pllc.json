@@ -106,5 +106,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Steven",
+    "to_title": "Esq.",
+    "to_email": null,
+    "subject": "AI for Palermo Law, built for firms like yours",
+    "body": "Hi Steven,\n\nOver $75 million recovered for injured clients on Long Island is a remarkable track record. That kind of success requires precision in case handling, client trust, and lean operational efficiency.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with focused teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we understand the realities of personal injury practices: managing high case volumes without sacrificing quality.\n\nHaving completed successful pilots on the East Coast, we're expanding to meet regional firms like yours. I'd be happy to stop by your Long Island office to show how ex-lawyers built Lucio to help firms compete with larger competitors while protecting client relationships.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

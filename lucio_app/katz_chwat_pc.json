@@ -87,7 +87,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/katzchwatpc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Neil",
+    "to_title": "Managing Partner",
+    "to_email": "neil@katzchwat.com",
+    "subject": "AI for Katz Chwat, P.C. - built for firms like yours",
+    "body": "Hi Neil,\n\nYou built Katz Chwat around integrated tax, estate planning, and business transaction work for closely-held and family-owned businesses. That focus on depth over breadth is exactly where AI can amplify your team's impact without compromising the client relationships that drive your practice.\n\nI lead business at Lucio, an AI platform designed for law firms handling complex work with lean teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us because we understand the realities of smaller practices: precision, client trust, and efficiency.\n\nWith successful East Coast pilots complete, we're expanding regionally. I'd welcome the chance to stop by Melville and show you how, as ex-lawyers ourselves, we're helping similar firms compete effectively.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

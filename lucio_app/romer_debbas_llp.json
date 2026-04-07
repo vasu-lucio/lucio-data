@@ -73,5 +73,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Romer Debbas - built for firms like yours",
+    "body": "Hi Michael,\n\nThe Real Deal consistently ranks Romer Debbas as one of NYC's top real estate law firms based on volume. That kind of throughput in commercial real estate finance and transactions creates a specific challenge: scaling precision without sacrificing the client relationships that built your reputation.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your office to show how ex-lawyers like us are helping similar firms stay competitive in high-volume real estate work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

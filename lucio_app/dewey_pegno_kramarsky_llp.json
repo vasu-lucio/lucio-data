@@ -80,7 +80,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/dpklaw"
   },
-  "email": {}
+  "email": {
+    "to_name": "David",
+    "to_title": "Partner",
+    "to_email": "dpegno@dpklaw.com",
+    "subject": "AI for Dewey Pegno & Kramarsky LLP, built for firms like yours",
+    "body": "Hi David,\n\nYour boutique's track record in complex commercial litigation and securities matters speaks volumes, especially given the caliber of talent you've attracted since 1998. That kind of specialized practice demands precision tools that understand nuance over volume.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to explore fit. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping litigation boutiques like yours compete with larger firms.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

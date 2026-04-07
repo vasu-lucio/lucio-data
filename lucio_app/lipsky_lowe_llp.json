@@ -61,7 +61,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/lipsky-lowe-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Douglas",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Lipsky Lowe LLP, built for employment law",
+    "body": "Hi Douglas,\n\nSince founding Lipsky Lowe in 2017, you've built a firm focused exclusively on employment law across individual, class, and small business matters. That specialization is exactly where AI creates the most leverage.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of specialized practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding in New York. I'd be happy to stop by your office to show how we're helping employment law firms compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

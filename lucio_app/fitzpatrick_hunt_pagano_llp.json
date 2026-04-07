@@ -80,7 +80,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/fitzpatrick-hunt-&-pagano-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Ralph",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Fitzpatrick, Hunt & Pagano, LLP - built for firms like yours",
+    "body": "Hi Ralph,\n\nManaging complex aviation and aerospace litigation across five offices takes precision and resources. We work with 28-attorney firms like yours that demand BigLaw-caliber work without the overhead.\n\nI lead business at Lucio, an AI platform built for law firms facing those exact demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of mid-market practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your New York office to share how, as ex-lawyers ourselves, we're helping firms like Fitzpatrick & Hunt compete at scale.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

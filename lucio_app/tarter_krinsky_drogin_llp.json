@@ -95,5 +95,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Alan",
+    "to_title": "Managing Partner",
+    "to_email": "atarter@tarterkrinsky.com",
+    "subject": "AI for Tarter Krinsky, built for firms like yours",
+    "body": "Hi Alan,\n\nWith 18 complex practice areas spanning bankruptcy, commercial finance, and construction, your firm navigates the kind of high-stakes disputes that demand both precision and speed. That's exactly where most firms struggle to keep pace without bloat.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of midsize practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now reaching out to regional leaders. I'd be happy to stop by your New York office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

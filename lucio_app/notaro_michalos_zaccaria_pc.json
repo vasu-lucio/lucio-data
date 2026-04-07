@@ -97,5 +97,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "John",
+    "to_title": "Attorney",
+    "to_email": "john.zaccaria@notaromichalos.com",
+    "subject": "AI for Notaro, Michalos & Zaccaria, built for firms like yours",
+    "body": "Hi John,\n\nWith decades of experience across patent, trademark, and IP litigation, Notaro, Michalos & Zaccaria handles the complexity that demands precision. I imagine managing that volume with an 8-person team means every efficiency gain matters.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

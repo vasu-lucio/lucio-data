@@ -59,5 +59,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Russell",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Yankwitt LLP, built for firms like yours",
+    "body": "Hi Russell,\n\nCongratulations on being named a Best Place to Work by The Best Companies Group for the second consecutive year in 2024. That recognition reflects the kind of culture that attracts top talent, especially when competing across complex litigation and appellate matters.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Westchester region to meet firms handling the kind of civil and criminal disputes you specialize in. I'd be happy to stop by your White Plains office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

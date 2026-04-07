@@ -70,5 +70,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Ken",
+    "to_title": "Director of Administration & Operations",
+    "to_email": "kle@schlamstone.com",
+    "subject": "AI for Schlam Stone & Dolan, built for firms like yours",
+    "body": "Hi Ken,\n\nYour team handles complex commercial litigation and government investigations against the largest law firms in the country, yet you're doing it with 30 attorneys. That's the exact constraint we built Lucio to solve.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now working with regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping boutique firms like Schlam Stone compete with the largest competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

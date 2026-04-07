@@ -55,7 +55,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/glenn-agre-bergman-fuentes-llp",
+    "linkedin_size": "51-200"
   },
-  "email": {}
+  "email": {
+    "to_name": "Megan",
+    "to_title": "Director of Administration & Special Counsel",
+    "to_email": null,
+    "subject": "AI for Glenn Agre Bergman & Fuentes, built for firms like yours",
+    "body": "Hi Megan,\n\nSince your founding in 2021, Glenn Agre has built a reputation for exceptional results in bankruptcy, restructuring, and complex commercial litigation. That track record demands tools that keep pace with the work.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters for practices like yours: precision, client trust, and efficiency.\n\nWe've completed successful pilots on the East Coast and are now expanding regionally. I'd be happy to stop by your New York office to share how ex-lawyers built this tool to help firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

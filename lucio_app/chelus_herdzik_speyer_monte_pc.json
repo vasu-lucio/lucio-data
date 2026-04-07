@@ -114,7 +114,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/chelus-herdzik-speyer-monte-pc",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Ann",
+    "to_title": "OFFICE MANAGER",
+    "to_email": "alippitt@cheluslaw.com",
+    "subject": "AI for Chelus Herdzik Speyer & Monte, built for firms like yours",
+    "body": "Hi Ann,\n\nYour work across Commercial Litigation, Construction Litigation, and Insurance Defense puts Chelus Herdzik in a category we know well: complex practices that demand precision and speed. I noticed you're already using TrialDirector, which tells me your team is thinking strategically about how tech can sharpen competitive advantage.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what smaller practices actually need: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Buffalo to meet regional firms. I'd be happy to stop by your office to share how ex-lawyers like us are helping similar firms compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

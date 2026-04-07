@@ -69,5 +69,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Aileen",
+    "to_title": "Chief Administrator",
+    "to_email": null,
+    "subject": "AI for Rottenberg Lipman Rich, built for firms like yours",
+    "body": "Hi Aileen,\n\nWith AI Law now a core practice area for Rottenberg Lipman Rich, your firm is navigating the convergence of legal tech and substantive legal strategy. That positions you ahead of most.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

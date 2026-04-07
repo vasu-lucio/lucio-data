@@ -90,5 +90,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Jonathan",
+    "to_title": "Partner",
+    "to_email": "JNewman@nfllp.com",
+    "subject": "AI for Newman Ferrara, built for firms like yours",
+    "body": "Hi Jonathan,\n\nYour firm's attorneys are regularly called upon by media to share insights on legal developments and trends, which speaks to the caliber of work Newman Ferrara delivers across real estate, commercial litigation, and complex multiparty matters.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping firms like Newman Ferrara compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

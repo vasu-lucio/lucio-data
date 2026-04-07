@@ -79,7 +79,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://vn.linkedin.com/company/samkwang-vina-co-ltd"
   },
-  "email": {}
+  "email": {
+    "to_name": "Frank",
+    "to_title": "Founder",
+    "to_email": "chau@chauiplaw.com",
+    "subject": "AI for CHAU|IP, built for firms handling complex IP",
+    "body": "Hi Frank,\n\nYour firm's work on 250+ complex AI cases in the past two years puts you at the forefront of a practice area most firms are still figuring out. That expertise, paired with your proprietary processes, gives you a real competitive edge.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of boutique practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your New York office to show how we're helping firms like yours compete and scale without losing the quality that built your reputation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

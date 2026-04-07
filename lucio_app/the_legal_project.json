@@ -45,5 +45,11 @@
       "additional_contacts": []
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Margie",
+    "to_title": "Executive Director",
+    "to_email": null,
+    "subject": "AI for The Legal Project, built for nonprofits serving underserved communities",
+    "body": "Hi Margie,\n\nYour work serving underserved communities across the Capital Region requires efficiency without compromising on legal quality. That's exactly what we built Lucio for: helping smaller practices compete on precision and client trust, not headcount.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of resource-conscious practices: accuracy, client service, and operational leverage.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your office to share how ex-lawyers like us are helping similar organizations do more with their existing teams.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

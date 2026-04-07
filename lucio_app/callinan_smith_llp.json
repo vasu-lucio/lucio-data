@@ -73,7 +73,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/callinan-smith-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Senior Partner",
+    "to_email": "mcallinan@callinansmith.com",
+    "subject": "AI for Callinan & Smith LLP, built for firms like yours",
+    "body": "Hi Michael,\n\nCallinan & Smith's focus on general liability and motor vehicle negligence claims across NY, NJ, and PA caught my attention, especially given your client-centered approach to litigation.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how, as ex-lawyers ourselves, we're helping similar practices compete with BigLaw.\n\nWorth 20 minutes to explore how this applies to your practice?\n\nVasu\nLucio"
+  }
 }

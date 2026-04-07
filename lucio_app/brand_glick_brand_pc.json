@@ -68,5 +68,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/brand-glick-&-brand"
   },
-  "email": {}
+  "email": {
+    "to_name": "Robert",
+    "to_title": "Managing Partner",
+    "to_email": "rglick@bgbfirm.com",
+    "subject": "AI for Brand Glick & Brand, built for firms like yours",
+    "body": "Hi Robert,\n\nYour focus on ingenuity in trial work and relentless negotiation across auto, workers comp, and litigation is exactly what drew me to reach out. Most AI platforms are built for BigLaw, but your approach to preparedness and client success requires something different.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet firms like yours. I'd be happy to stop by your East Meadow office to share how, as ex-lawyers ourselves, we're helping firms compete without losing the edge.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

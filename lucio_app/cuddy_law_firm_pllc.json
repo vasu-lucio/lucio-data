@@ -114,7 +114,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cuddy-law-firm-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Andrew",
+    "to_title": "President and Managing Attorney",
+    "to_email": "acuddy@cuddylawfirm.com",
+    "subject": "AI for Cuddy Law Firm, built for special education practices",
+    "body": "Hi Andrew,\n\nYour firm has spent over two decades representing families in special education law and guardianship matters across multiple states. That kind of sustained focus on complex, high-stakes cases requires precision and deep client trust, especially when handling administrative proceedings and appeals.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Auburn area to meet with firms doing this caliber of work. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

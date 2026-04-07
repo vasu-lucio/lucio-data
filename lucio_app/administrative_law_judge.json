@@ -65,5 +65,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/journal-of-the-national-association-of-administrative-law-judiciary"
   },
-  "email": {}
+  "email": {
+    "to_name": "Carrie",
+    "to_title": "President",
+    "to_email": "president@naalj.org",
+    "subject": "AI for Administrative Law Judges, built for your members",
+    "body": "Hi Carrie,\n\nI noticed NAALJ is hosting a session on AI for ALJs. It's a timely focus, especially as administrative law judges navigate growing case volumes and the pressure to deliver faster rulings without sacrificing precision.\n\nI lead business at Lucio, an AI platform built for legal teams facing high-volume demands with limited resources. We recently raised $5M, and legal organizations across 9 jurisdictions have chosen us because we understand the real constraints: client trust, accuracy, and efficiency matter more than flashy features.\n\nWe're expanding regionally and would value a conversation with you about how AI tools tailored for administrative law could serve your members' practices. I'd be happy to share how ex-lawyers built Lucio specifically for these realities.\n\nWorth a brief call?\n\nVasu\nLucio"
+  }
 }

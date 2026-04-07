@@ -66,5 +66,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/barghausen-consulting-engineers"
   },
-  "email": {}
+  "email": {
+    "to_name": "David",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for BERG & DAVID PLLC, built for firms like yours",
+    "body": "Hi David,\n\nYour work defending homeowners and borrowers in foreclosure proceedings across New York City and Long Island requires precision under pressure, especially when facing institutional lenders with deep resources.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the New York area to meet regional firms like yours. I'd be happy to stop by your Inwood office to share how, as ex-lawyers ourselves, we're helping similar firms compete with larger competitors in complex commercial and foreclosure litigation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

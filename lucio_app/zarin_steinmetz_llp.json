@@ -85,5 +85,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "David",
+    "to_title": "Partner",
+    "to_email": "david@zarin-steinmetz.com",
+    "subject": "AI for Zarin & Steinmetz - built for firms like yours",
+    "body": "Hi David,\n\nYour firm's reputation for land development expertise across the New York metropolitan area and Hudson Valley is impressive, especially given how complex SEQRA and zoning matters demand precision work on lean resources.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet firms like yours. I'd be happy to stop by your White Plains office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar practices compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

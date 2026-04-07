@@ -100,5 +100,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Ovadiah",
+    "to_title": "Office Manager",
+    "to_email": null,
+    "subject": "AI for MBJ Law PLLC, built for firms like yours",
+    "body": "Hi Ovadiah,\n\nMBJ Law PLLC's focus on long-term results for high-net-worth families across complex tax and estate planning matters requires precision work that scales. We've noticed many firms in your space are stretched thin managing the breadth of international planning, expatriation strategy, and audit defense simultaneously.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by your office in Chestnut Ridge to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on complex matters like yours.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

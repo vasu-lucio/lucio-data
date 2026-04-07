@@ -78,7 +78,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/derek-smith-law-group-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Alexander",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Derek Smith Law Group, built for employment law firms",
+    "body": "Hi Alexander,\n\nYour firm obtained the largest upheld emotional distress verdict ever in an employment law case in the entire United States. That kind of trial excellence demands systems that keep pace with your team's precision, not slow it down.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nWith 27 attorneys handling discrimination and sexual harassment cases, your team is exactly where AI can eliminate administrative friction and let your lawyers focus on what matters. I'd be happy to stop by your New York office to show how we're helping employment law firms compete with bigger players.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

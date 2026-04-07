@@ -80,5 +80,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Trystan",
+    "to_title": "Executive Director",
+    "to_email": null,
+    "subject": "AI for Glavin PLLC, built for firms like yours",
+    "body": "Hi Trystan,\n\nGlavin PLLC's focus on white collar criminal defense and government enforcement puts you in a space where document review speed and investigative precision separate winners from the rest. We recently raised $5M to build exactly that.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We focus on what smaller practices actually need: precision, client trust, and efficiency. Firms across 9 jurisdictions have chosen us over Harvey because we get it.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how ex-lawyers like us are helping firms compete with BigLaw on complex litigation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

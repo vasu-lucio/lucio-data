@@ -78,7 +78,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cole-schotz-p-c-",
+    "linkedin_size": "201-500"
   },
-  "email": {}
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Cole Schotz - built for firms like yours",
+    "body": "Hi there,\n\nAs Cole Schotz approaches its 100th anniversary in 2026, you're likely balancing growth with efficiency across your 7-office footprint. That's exactly where we see the most opportunity.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of mid-size practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your Hackensack office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on corporate transactions and restructuring work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

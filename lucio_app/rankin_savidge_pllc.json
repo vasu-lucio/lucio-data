@@ -74,5 +74,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Carolyn",
+    "to_title": "Partner",
+    "to_email": "crankin@rankinsavidgelaw.com",
+    "subject": "AI for Rankin Savidge PLLC, built for firms like yours",
+    "body": "Hi Carolyn,\n\nRankin Savidge has built deep expertise in insurance defense across auto and general liability claims. That focus on precision defense work is exactly where AI can amplify what you do best without replacing the judgment that matters.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet practices like yours. I'd be happy to stop by your Mineola office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

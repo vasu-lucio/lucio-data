@@ -81,5 +81,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Elias",
+    "to_title": "Managing Member",
+    "to_email": "Schwartz@ecslaw.com",
+    "subject": "AI for The Law Firm of Elias C. Schwartz PLLC, built for firms like yours",
+    "body": "Hi Elias,\n\nSince founding your firm in 1985, you've built something boutique law firms rarely achieve: a reputation for quality service and personal attention at a fair price across two markets. That model works because it scales precisely what matters.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the NY market to meet regional firms. I'd be happy to stop by your Great Neck office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

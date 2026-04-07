@@ -81,5 +81,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Terrence",
+    "to_title": "Managing Partner",
+    "to_email": "terry@ovedlaw.com",
+    "subject": "AI for Oved & Oved LLP, built for firms like yours",
+    "body": "Hi Terrence,\n\nAs Tribeca's largest law firm, you're handling multi-million dollar settlements and complex litigation across four practice areas with a lean, focused team. That's exactly the operational reality we built Lucio around.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices your size: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like us are helping similar practices compete with larger operations.\n\nWorth 20 minutes to explore what this could mean for your litigation and corporate work?\n\nVasu\nLucio"
+  }
 }

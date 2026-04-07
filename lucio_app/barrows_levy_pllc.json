@@ -91,5 +91,11 @@
     "linkedin_company_url": "https://www.linkedin.com/company/barrows-levy-pllc",
     "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Itamar",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Barrows Levy PLLC - built for firms like yours",
+    "body": "Hi Itamar,\n\nWith your focus on Divorce and Family Law across Garden City, Melville, and NYC, you're handling the kind of high-stakes cases where precision and client trust are everything. That's exactly where we see smaller practices getting squeezed by BigLaw workflows.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the NY area to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

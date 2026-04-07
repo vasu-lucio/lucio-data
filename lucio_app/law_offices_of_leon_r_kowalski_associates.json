@@ -91,7 +91,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin"
   },
-  "email": {}
+  "email": {
+    "to_name": "Leon",
+    "to_title": "Managing Attorney",
+    "to_email": "leon.kowalski@aig.com",
+    "subject": "AI for The Law Offices of Leon R. Kowalski & Associates - built for firms like yours",
+    "body": "Hi Leon,\n\nYour background managing a staff counsel office for a major insurance company in New York City gives you insight into what most trial attorneys never see: how to run lean operations without sacrificing quality. That's exactly the gap we solve.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like us are helping practices in General Liability and Labor Law compete at scale.\n\nWorth 20 minutes to explore this?\n\nVasu\nLucio"
+  }
 }

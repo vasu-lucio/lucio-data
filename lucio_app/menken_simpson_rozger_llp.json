@@ -67,7 +67,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/msrlawnyc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Bruce",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Menken Simpson & Rozger LLP, built for employment law firms",
+    "body": "Hi Bruce,\n\nYour firm's track record recovering significant settlements under the Fair Labor Standards Act and Title VII shows the caliber of work you do for individual employees and class groups. That precision demands tools that match your standards.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

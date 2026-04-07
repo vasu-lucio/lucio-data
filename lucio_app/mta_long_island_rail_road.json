@@ -78,5 +78,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Rafail",
+    "to_title": "Chief Technology Officer",
+    "to_email": null,
+    "subject": "AI for MTA Long Island Rail Road, built for operations at scale",
+    "body": "Hi Rafail,\n\nManaging technology across North America's largest transportation network, serving 15.3 million people, means balancing precision, reliability, and operational efficiency across multiple agencies and complex workflows. That's exactly where we see the biggest gaps in legal operations.\n\nI lead business at Lucio, an AI platform built for organizations facing enterprise demands with distributed teams. We recently raised $5M, and transportation authorities and large operators across 9 jurisdictions have chosen us because we focus on real operational realities: document accuracy, compliance, and speed without cutting corners.\n\nWe've completed successful pilots on the East Coast and are expanding our reach. I'd be happy to spend 20 minutes showing how legal tech built for scale can support MTA's operations.\n\nWorth a brief conversation?\n\nVasu\nLucio"
+  }
 }

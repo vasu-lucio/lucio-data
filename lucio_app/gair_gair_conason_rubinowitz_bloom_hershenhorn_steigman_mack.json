@@ -94,7 +94,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gair-gair-conason-steigman-mackauf-bloom-&-rubinowitz"
   },
-  "email": {}
+  "email": {
+    "to_name": "Ben",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Gair, Gair, Conason, Rubinowitz, Bloom, Hershenhorn, Steigman & Mackauf - built for firms like yours",
+    "body": "Hi Ben,\n\nWith over $5 billion in recoveries across your personal injury and medical malpractice cases, your firm operates at a scale most would struggle to manage. That precision and client trust is exactly what we're built to protect.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of serious practices like yours: accuracy, efficiency, and zero compromise on client outcomes.\n\nHaving completed successful pilots on the East Coast, we're now expanding into New York. I'd be happy to stop by your office to share how our ex-lawyer team is helping similar firms scale their case work without scaling headcount.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

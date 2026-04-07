@@ -89,5 +89,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/andersonbowmanpllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Dustin",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Anderson Bowman PLLC, built for firms like yours",
+    "body": "Hi Dustin,\n\nWith your focus on real estate transactions, partitions, and litigation across Queens and the New York Metro Area, you're navigating some of the most document-intensive practice areas in law. Since 2012, Anderson Bowman has built that expertise, but competing on efficiency against larger firms requires the right tools.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally to meet firms like yours. I'd be happy to stop by and share how our ex-lawyer team is helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

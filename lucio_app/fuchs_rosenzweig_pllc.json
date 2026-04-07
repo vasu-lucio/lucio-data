@@ -90,7 +90,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/fuchs-rosenzweig-pllc",
+    "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Cheryl",
+    "to_title": "Senior Partner",
+    "to_email": "cheryl@frlawpllc.com",
+    "subject": "AI for FUCHS ROSENZWEIG PLLC, built for your contract work",
+    "body": "Hi Cheryl,\n\nSince founding FUCHS ROSENZWEIG in January 2019, you've built a firm committed to innovative solutions for contract review, drafting, and negotiation. That focus on precision work at scale is exactly what we're seeing across growing insurance defense and commercial litigation practices.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting with New York firms. I'd be happy to stop by your office to share how ex-lawyers like us are helping similar firms compete with BigLaw on contract work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -79,5 +79,11 @@
     "linkedin_company_url": "https://www.linkedin.com/company/access-justice-brooklyn",
     "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Lilia",
+    "to_title": "President & Chief Executive Officer",
+    "to_email": null,
+    "subject": "AI for Access Justice Brooklyn, built for firms like yours",
+    "body": "Hi Lilia,\n\nYour work ensuring equal access to housing and family legal services across Brooklyn caught my attention, especially as you scale impact with pro bono partnerships. That depth of commitment requires both precision and efficiency.\n\nI lead business at Lucio, an AI platform built for law firms managing complex caseloads with lean teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: client trust, case accuracy, and time back for the work that matters most.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet organizations doing civil legal work. I'd be happy to stop by your office to show how we're helping similar firms compete and serve more clients without adding overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

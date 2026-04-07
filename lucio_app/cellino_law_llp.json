@@ -92,7 +92,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cellinolaw"
   },
-  "email": {}
+  "email": {
+    "to_name": "Ross",
+    "to_title": "Senior Trial Attorney / Partner",
+    "to_email": null,
+    "subject": "AI for Cellino Law, built for firms like yours",
+    "body": "Hi Ross,\n\nWith roots going back to 1956, Cellino Law has built something rare: a trusted personal injury practice across multiple states handling everything from car accidents to catastrophic injuries. That kind of reach demands efficiency without sacrificing the precision your clients expect.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet firms like yours. I'd be happy to stop by your Manhattan office to show how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

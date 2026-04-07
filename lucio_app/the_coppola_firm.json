@@ -89,5 +89,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Lisa",
+    "to_title": "Founder & Managing Partner",
+    "to_email": "info@coppolalegal.com",
+    "subject": "AI for The Coppola Firm, built for firms like yours",
+    "body": "Hi Lisa,\n\nYour track record breaking through at Hodgson Russ as the first female litigator named equity partner tells me you know how to compete at the highest level. That same drive to outperform is exactly what we're seeing from Buffalo and upstate firms handling complex employment and business disputes.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into New York. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping firms like yours compete with BigLaw on employment and commercial work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

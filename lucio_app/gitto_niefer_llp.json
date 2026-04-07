@@ -103,7 +103,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gitto-niefer-llp",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Kathryn",
+    "to_title": "Director Finance/HR",
+    "to_email": "comp@gittolaw.com",
+    "subject": "AI for Gitto & Niefer, LLP - built for firms like yours",
+    "body": "Hi Kathryn,\n\nSince 1986, your team has handled a high volume of workers' compensation cases for self-insured employers and insurance carriers across New York and Pennsylvania. That efficiency focus is exactly what we're built for.\n\nI lead business at Lucio, an AI platform designed for law firms managing BigLaw-scale demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by your Binghamton office to share how, as ex-lawyers ourselves, we're helping similar practices compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

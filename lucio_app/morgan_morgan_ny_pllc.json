@@ -85,5 +85,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Chaim",
+    "to_title": "Chief Technology Officer",
+    "to_email": null,
+    "subject": "AI for Morgan & Morgan, built for firms like yours",
+    "body": "Hi Chaim,\n\nWith 1,000 attorneys across 140 offices and $30 billion recovered for clients, Morgan & Morgan operates at scale most firms can't match. That scale creates unique demands on your tech stack, especially when coordinating personal injury cases across 50 states.\n\nI lead business at Lucio, an AI platform built for law firms managing complexity without proportional overhead. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into Florida. I'd be happy to stop by your Orlando office to show how we're helping similar firms compete without adding headcount.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

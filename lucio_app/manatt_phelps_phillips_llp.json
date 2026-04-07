@@ -70,5 +70,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Kristan",
+    "to_title": "Chief Operating Assistant",
+    "to_email": "KMorrell@manatt.com",
+    "subject": "AI for Manatt, Phelps & Phillips, LLP. Built for integrated firms like yours",
+    "body": "Hi Kristan,\n\nManatt's integrated legal and consulting model sets you apart from traditional BigLaw, but it also creates unique operational demands across 739 attorneys. I lead business at Lucio, an AI platform built specifically for firms balancing complexity, client trust, and efficiency at scale.\n\nWe recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision work without the bloat, seamless coordination across practice areas, and zero compromise on client relationships.\n\nHaving completed successful pilots on the East Coast, we're now arriving in LA to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how ex-lawyers are helping similar firms stay competitive.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -67,7 +67,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/chaffinluhana"
   },
-  "email": {}
+  "email": {
+    "to_name": "Eric",
+    "to_title": "Founding/Managing Partner",
+    "to_email": null,
+    "subject": "AI for Chaffin Luhana LLP, built for firms like yours",
+    "body": "Hi Eric,\n\nOver $1 billion recovered for clients across personal injury, product liability, and mass tort. That track record reflects the caliber of work your 52-attorney team delivers for plaintiffs nationwide.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the New York market to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping firms like yours compete with BigLaw on litigation finance strategies and AI-powered case management.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

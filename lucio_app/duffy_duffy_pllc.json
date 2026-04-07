@@ -85,7 +85,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/duffy-&-duffy-esqs."
   },
-  "email": {}
+  "email": {
+    "to_name": "Jessica",
+    "to_title": "Chief Technology Officer",
+    "to_email": null,
+    "subject": "AI for Duffy & Duffy, PLLC - built for firms like yours",
+    "body": "Hi Jessica,\n\nI noticed Duffy & Duffy handles complex medical malpractice and nursing home abuse cases across State and Federal Courts with a lean 27-attorney team. That kind of high-stakes work demands both precision and efficiency, especially when competing with larger practices.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: client trust, case complexity, and doing more with your current resources.\n\nHaving completed successful pilots on the East Coast, we're expanding regionally and would welcome the chance to show you how ex-lawyers have built this platform to actually work for personal injury and medical malpractice litigation.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

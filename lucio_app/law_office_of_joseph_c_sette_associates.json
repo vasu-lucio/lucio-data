@@ -79,5 +79,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Joseph",
+    "to_title": "Managing Attorney",
+    "to_email": null,
+    "subject": "AI for Insurance Defense Firms - built for firms like yours",
+    "body": "Hi Joseph,\n\nWith your 25+ years in insurance defense and your background leading litigation across Florida, you know the pressure to deliver results with lean operations. Managing BI, PIP, and subrogation cases requires precision that most tools simply don't provide.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to meet regional firms. I'd be happy to stop by Uniondale on Thursday, April 10 to share how we're helping insurance defense firms compete and scale.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

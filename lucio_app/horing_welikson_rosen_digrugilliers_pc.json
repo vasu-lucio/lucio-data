@@ -93,7 +93,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/horing-welikson-&-rosen-p.c.",
+    "linkedin_size": "11-50"
   },
-  "email": {}
+  "email": {
+    "to_name": "Philip",
+    "to_title": "Managing Partner",
+    "to_email": "prosen@hwrpc.com",
+    "subject": "AI for Horing Welikson Rosen & Digrugilliers - built for firms like yours",
+    "body": "Hi Philip,\n\nYour firm has spent over 40 years leading the fight for landlords' rights across New York, from the five boroughs through Nassau, Suffolk, and Westchester. That deep expertise in rent regulation, DHCR matters, and landlord-tenant litigation is exactly the kind of specialized practice that needs smarter tools to scale without losing precision.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the New York region to meet firms like yours. I'd be happy to stop by Williston Park on Thursday, April 10 to share how we're helping similar firms compete.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -92,5 +92,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Ralph",
+    "to_title": "Attorney",
+    "to_email": "rlorigo@lorigo.com",
+    "subject": "AI for Law Office of Ralph C. Lorigo, built for firms like yours",
+    "body": "Hi Ralph,\n\nOver 35 years in, you've built a general practice that handles everything from criminal law to business matters, all while keeping evening and weekend hours for clients who need accessible counsel. That's a model that works, and it's exactly why we exist.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in Buffalo to meet regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping practices like yours compete with BigLaw.\n\nWorth a brief conversation?\n\nVasu\nLucio"
+  }
 }

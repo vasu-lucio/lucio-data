@@ -99,5 +99,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Mark",
+    "to_title": "Managing Partner",
+    "to_email": "mrk@kkmllp.com",
+    "subject": "AI for Knuckles & Manfro LLP, built for firms like yours",
+    "body": "Hi Mark,\n\nYour firm's focus on real estate litigation and mortgage servicer representation across New York, New Jersey, and Connecticut puts you at the center of high-volume, time-sensitive practice. That's exactly where AI can create the biggest advantage.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like us are helping similar teams compete. I'd be happy to stop by Elmsford on Thursday, April 10 to share what we've learned about foreclosure and origination workflows.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

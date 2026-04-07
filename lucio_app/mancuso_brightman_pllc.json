@@ -93,7 +93,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/weaver-mancuso-frame-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "John",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Mancuso Brightman PLLC, built for firms like yours",
+    "body": "Hi John,\n\nServing immigration, municipal, and real estate clients across the greater Syracuse area requires balancing complex demands with a lean operation. That's exactly what we built Lucio for.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in upstate New York to meet regional firms. I'd be happy to stop by your Rochester office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on matters that demand accuracy and speed.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

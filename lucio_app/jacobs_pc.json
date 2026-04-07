@@ -57,7 +57,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/jacobspc",
+    "linkedin_size": "5000+"
   },
-  "email": {}
+  "email": {
+    "to_name": "Leo",
+    "to_title": "CEO and Founder",
+    "to_email": "leo@jacobspc.com",
+    "subject": "AI for Jacobs P.C. - built for firms like yours",
+    "body": "Hi Leo,\n\nYour focus on building long-lasting relationships while delivering creative, direct solutions to complex bankruptcy and commercial litigation matters is exactly what drew us to Jacobs P.C. That client-first approach is rare, and it's the foundation we built Lucio on.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

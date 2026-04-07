@@ -60,5 +60,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "James",
+    "to_title": "Partner",
+    "to_email": "jeagan@eaganheimer.com",
+    "subject": "AI for Eagan & Heimer, built for firms like yours",
+    "body": "Hi James,\n\nYour focus on medical malpractice defense and nursing home negligence puts you in high-stakes litigation where precision and client trust are non-negotiable. Since 2020, you've built that reputation on trial experience and work ethic across a lean team.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding to Buffalo to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

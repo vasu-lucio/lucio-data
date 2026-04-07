@@ -76,5 +76,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "John",
+    "to_title": "Founder & Managing Attorney",
+    "to_email": "john.larimer@larimer-law.com",
+    "subject": "AI for Larimer Law, built for firms like yours",
+    "body": "Hi John,\n\nYour work in eDiscovery and data retention forensics puts Larimer Law at the intersection of where AI is creating the biggest competitive advantage right now. With Guru Discovery handling data processing, you're already positioned to scale efficiently, but the document analysis and discovery workflows are still where most firms leave money on the table.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by Rochester to show how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on discovery speed and accuracy.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

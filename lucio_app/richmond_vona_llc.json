@@ -64,5 +64,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Dawn",
+    "to_title": "Director of Operations",
+    "to_email": "dvona@richmondvona.com",
+    "subject": "AI for Richmond Vona, LLC - built for firms like yours",
+    "body": "Hi Dawn,\n\nWith over $200M in recoveries across car accidents, premises liability, and construction cases, Richmond Vona is competing at a level that typically requires BigLaw resources. Yet you're doing it lean.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly this dynamic. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Buffalo region to meet firms scaling their operations. I'd be happy to stop by your office to show how we're helping similar firms compete without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

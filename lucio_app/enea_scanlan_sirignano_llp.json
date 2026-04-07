@@ -79,7 +79,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/enea-scanlan-&-sirignano-llp",
+    "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Anthony",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Elder Law and Estate Planning Firms",
+    "body": "Hi Anthony,\n\nWith over 150 combined years of legal experience serving the Hudson Valley, Enea, Scanlan & Sirignano has built something rare: deep expertise in elder law, Medicaid planning, and estate administration without the overhead of BigLaw.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding into the Westchester area. I'd be happy to stop by your White Plains office to share how our ex-lawyer team is helping similar firms compete with larger competitors, especially in complex planning work.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

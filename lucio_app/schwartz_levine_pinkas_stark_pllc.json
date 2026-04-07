@@ -106,5 +106,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for transactional real estate teams",
+    "body": "Hi there,\n\nSchwartz Levine Pinkas Stark has built a strong reputation in transactional real estate since 2020, handling complex deals for both domestic and foreign clients. That kind of volume creates real operational pressure, especially when BigLaw competitors have armies of associates.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly that challenge. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in NYC to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on deal velocity and quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

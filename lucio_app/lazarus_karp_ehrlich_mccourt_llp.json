@@ -66,7 +66,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/the-cadmus-group"
   },
-  "email": {}
+  "email": {
+    "to_name": "Chad",
+    "to_title": "Managing Partner",
+    "to_email": "ckarp@lazkarp.com",
+    "subject": "AI for Lazarus Karp Ehrlich McCourt, LLP - built for firms like yours",
+    "body": "Hi Chad,\n\nYour recent appearance on ABC Eyewitness News discussing NYC Housing Court caught my attention, especially given how Housing Court demands have intensified for landlord-tenant practices. We're seeing the same pressure across firms handling residential leasing and cooperative matters in New York.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like us are helping practices compete with larger competitors. I'd be happy to stop by your office to share a brief demo tailored to landlord-tenant workflows.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

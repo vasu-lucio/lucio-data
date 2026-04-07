@@ -81,5 +81,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Gregory",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Sobo & Sobo, built for firms like yours",
+    "body": "Hi Gregory,\n\nWith a 98% success rate on accepted cases, Sobo & Sobo is clearly executing at a level most firms aspire to. Managing that track record across seven states while handling complex personal injury cases requires serious operational precision.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Northeast to meet regional firms. I'd be happy to stop by your Middletown office to share how, as ex-lawyers ourselves, we're helping similar firms compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

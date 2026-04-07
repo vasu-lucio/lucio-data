@@ -69,7 +69,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kirby-mcinerney"
   },
-  "email": {}
+  "email": {
+    "to_name": "Daniel",
+    "to_title": "Managing Partner",
+    "to_email": "dhume@kmllp.com",
+    "subject": "AI for Kirby McInerney, built for securities-focused firms",
+    "body": "Hi Daniel,\n\nYour firm's lineage to the first generation of securities lawyers and early SEC service sets you apart. That institutional investor focus and recovery track record demands precision tools that most legal tech ignores.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

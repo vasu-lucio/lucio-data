@@ -66,7 +66,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/greystar/",
+    "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Briana",
+    "to_title": "Esq.",
+    "to_email": null,
+    "subject": "AI for Greystone Law, built for firms combining courtroom and boardroom strategy",
+    "body": "Hi Briana,\n\nYour approach at Greystone, combining courtroom advocacy with boardroom strategy across business law and labor/employment matters, reflects the kind of sophisticated practice that needs serious operational leverage. Most AI tools miss this complexity.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of boutique practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms like yours. I'd be happy to stop by to share how, as ex-lawyers ourselves, we're helping you compete with BigLaw on deal velocity and litigation throughput without sacrificing the detail-driven service Greystone is known for.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

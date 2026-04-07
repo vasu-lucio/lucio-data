@@ -82,7 +82,15 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/burnerprudentilawpc",
+    "linkedin_size": "1001-5000"
   },
-  "email": {}
+  "email": {
+    "to_name": "Britt",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Burner Prudenti Law, P.C. built for firms like yours",
+    "body": "Hi Britt,\n\nYour work in Trust and Estates on Long Island reflects something we see across the country: complex client needs that demand precision and deep personal attention. That's exactly why we built Lucio.\n\nI lead business at Lucio, an AI platform designed for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like us are helping similar practices compete with BigLaw on their terms.\n\nWorth 20 minutes to explore how this might work for Burner Prudenti?\n\nVasu\nLucio"
+  }
 }

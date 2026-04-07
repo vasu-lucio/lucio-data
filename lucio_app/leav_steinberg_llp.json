@@ -81,5 +81,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Daniela",
+    "to_title": "Managing Partner",
+    "to_email": "dhenriques@nyaccidentlawyer.com",
+    "subject": "AI for Leav & Steinberg LLP, built for firms like yours",
+    "body": "Hi Daniela,\n\nLeav & Steinberg's recognition in the New York Law Journal as a leading personal injury litigator caught my attention, especially given the complexity of medical malpractice and motor vehicle accident cases your firm handles.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on document review and case analysis.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

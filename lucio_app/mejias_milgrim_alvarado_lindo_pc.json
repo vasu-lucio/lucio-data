@@ -57,7 +57,14 @@
           "linkedin_url": "https://cn.linkedin.com/company/mejias-milgrim-alvarado-lindo-p-c?trk=similar-pages_result-card_full-click"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/mejias-milgrim-alvarado-lindo-p-c"
   },
-  "email": {}
+  "email": {
+    "to_name": "Dave",
+    "to_title": "Managing Partner",
+    "to_email": "info@mejiaslaw.com",
+    "subject": "AI for Mejias Milgrim Alvarado & Lindo, built for firms like yours",
+    "body": "Hi Dave,\n\nYour personal injury and divorce practice in Glen Cove requires deep client relationships and precision work, not bloated enterprise tools. After 20 years fighting for clients, you know the difference between volume and results.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the region to meet practices like yours. I'd be happy to stop by your Glen Cove office to show how ex-lawyers like us are helping similar firms compete without sacrificing the personal touch your clients expect.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

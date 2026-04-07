@@ -88,5 +88,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Brian",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Sokoloff Stern LLP, built for firms like yours",
+    "body": "Hi Brian,\n\nYour firm's work across civil rights, commercial litigation, and employment law requires precision that most platforms simply don't deliver. I noticed Sokoloff Stern invests in state-of-the-art research tools and case management software, which tells me you're already thinking ahead about competitive advantage.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what actually matters for practices like yours: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your Garden City office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

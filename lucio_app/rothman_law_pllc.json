@@ -64,5 +64,11 @@
       "additional_contacts": []
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Sarah",
+    "to_title": "Executive Administrator",
+    "to_email": "Sarah@rothmanlawpllc.com",
+    "subject": "AI for Rothman Law PLLC, built for firms like yours",
+    "body": "Hi Sarah,\n\nRothman Law's focus on sophisticated real estate and finance transactions across major asset classes puts you in a position where precision and client trust are everything. We've found that boutique practices handling complex deals face the same document and contract demands as BigLaw, but with leaner teams.\n\nI lead business at Lucio, an AI platform built for exactly this challenge. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: speed without sacrificing quality.\n\nHaving completed successful pilots on the East Coast, we're now arriving in NYC to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on deal velocity.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

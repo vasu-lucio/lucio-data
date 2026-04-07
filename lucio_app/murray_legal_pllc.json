@@ -86,5 +86,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Christopher",
+    "to_title": "Managing Member",
+    "to_email": "cmurray@murraylegalpllc.com",
+    "subject": "AI for Murray Legal, built for firms like yours",
+    "body": "Hi Christopher,\n\nMurray Legal's focus on commercial finance litigation in state and federal court caught my attention. That's exactly the space where firms need to move faster without sacrificing precision or client trust.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: efficiency without compromise.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping firms like yours compete with BigLaw on discovery, compliance work, and motion practice.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

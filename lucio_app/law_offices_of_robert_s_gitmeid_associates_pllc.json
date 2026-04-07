@@ -49,5 +49,11 @@
       "additional_contacts": []
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Robert",
+    "to_title": "Managing Member",
+    "to_email": "robert@gitmeidlab.com",
+    "subject": "AI for Law Offices of Robert S. Gitmeid & Associates, PLLC",
+    "body": "Hi Robert,\n\nYour firm was founded to meet a real gap in consumer advocacy following 2008, and you've built a practice around cutting-edge legal strategies in debt relief and bankruptcy. That kind of innovation requires tools that actually understand consumer law.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

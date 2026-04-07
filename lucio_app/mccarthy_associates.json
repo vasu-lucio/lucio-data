@@ -95,5 +95,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Elaine",
+    "to_title": "Managing Partner",
+    "to_email": "info@mccarthyduffy.com",
+    "subject": "AI for McCarthy Duffy LLP, built for firms like yours",
+    "body": "Hi Elaine,\n\nWith McCarthy Duffy's depth in corporate and banking law across the Midwest and globally, your team handles complex transactions that demand both precision and speed. I suspect your partners feel the pressure to match BigLaw's output without their headcount.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly that challenge. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Midwest to meet regional firms. I'd be happy to stop by your office to show how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw on transaction turnaround and document review.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

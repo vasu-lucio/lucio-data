@@ -80,5 +80,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Bradford",
+    "to_title": "Chief Information Officer",
+    "to_email": "bschwarz@gibney.com",
+    "subject": "AI for Gibney, Anthony & Flaherty, LLP - built for firms like yours",
+    "body": "Hi Bradford,\n\nAs CIO of an 82-attorney firm spanning New York, San Francisco, and international offices, you're likely balancing turn-key solutions with operational efficiency across multiple jurisdictions. That's exactly the challenge we see firms like yours facing.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of mid-market practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to share how, as ex-lawyers ourselves, we're helping firms like Gibney compete with BigLaw. I'd be happy to stop by your office to walk through a 20-minute demo.\n\nWorth a conversation?\n\nVasu\nLucio"
+  }
 }

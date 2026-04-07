@@ -96,7 +96,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gregory-j-cannata-associates-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Alison",
+    "to_title": "Partner",
+    "to_email": null,
+    "subject": "AI for Cannata, Hendele & Cannata, LLP - built for firms like yours",
+    "body": "Hi Alison,\n\nYour firm's $300 million recovery for World Trade Center clients shows the caliber of work you're handling. That kind of complex, high-stakes personal injury litigation demands precision and efficiency, especially across construction accidents, toxic exposure, and the cases you're managing today.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

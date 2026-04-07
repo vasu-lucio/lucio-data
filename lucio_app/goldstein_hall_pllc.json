@@ -86,7 +86,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/goldstein-hall-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Julia",
+    "to_title": "Director of Operations",
+    "to_email": null,
+    "subject": "AI for Goldstein Hall PLLC, built for firms like yours",
+    "body": "Hi Julia,\n\nAs a certified B-Corp focused on affordable housing and community development, Goldstein Hall is doing mission-driven work that most law firms can't handle at scale. The complexity of that practice, combined with lean operations, creates exactly the kind of pressure our platform solves.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in New York to meet firms like yours. I'd be happy to stop by and share how, as ex-lawyers ourselves, we're helping similar firms compete without compromise.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

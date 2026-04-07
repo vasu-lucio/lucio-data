@@ -79,5 +79,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/braverman-greenspun-p-c-"
   },
-  "email": {}
+  "email": {
+    "to_name": "Robert",
+    "to_title": "Principal & Managing Partner",
+    "to_email": "rbraverman@braverlaw.net",
+    "subject": "AI for Braverman Greenspun, built for firms like yours",
+    "body": "Hi Robert,\n\nFifty-six years after founding Braverman Greenspun, your firm remains the go-to counsel for nearly two hundred cooperatives and condominiums across the New York metro area. That institutional trust is your biggest asset, and it's also what slows scaling when condo and coop litigation demands multiply.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how ex-lawyers like us are helping practices compete with BigLaw on document review and due diligence.\n\nWorth 20 minutes to explore how this works for cooperative law?\n\nVasu\nLucio"
+  }
 }

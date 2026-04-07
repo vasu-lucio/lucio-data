@@ -90,7 +90,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/davidoff-hutcher-&-citron-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Davidoff Hutcher & Citron, built for firms like yours",
+    "body": "Hi there,\n\nDavidoff Hutcher & Citron has built a sophisticated practice across commercial litigation, real estate, and business law since 1975, spanning New York, D.C., and Albany. That kind of geographic and practice diversity creates real operational complexity.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of regional practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're arriving in New York to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

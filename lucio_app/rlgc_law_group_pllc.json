@@ -64,5 +64,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Joleen",
+    "to_title": "Chief Administrative Officer",
+    "to_email": "jmeins@rlgclaw.com",
+    "subject": "AI for RLGC Law Group, PLLC: built for firms like yours",
+    "body": "Hi Joleen,\n\nI noticed RLGC handles estate planning and trust administration with a lean 18-person team, which means your attorneys are likely managing complex client matters without the back-office resources of larger firms.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Northeast to meet regional firms. I'd be happy to stop by your Latham office to share how, as ex-lawyers ourselves, we're helping similar firms compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

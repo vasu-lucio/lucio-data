@@ -62,5 +62,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Aaron",
+    "to_title": "Managing Member",
+    "to_email": "aaron@zeisler-law.com",
+    "subject": "AI for ZEISLER PLLC, built for firms like yours",
+    "body": "Hi Aaron,\n\nSince founding ZEISLER in 2014, you've built a sophisticated practice handling complex commercial and IP disputes for corporate and fund clients. That requires precision work with lean resources, and that's exactly what we've designed for.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters for boutiques: client trust, cost-effectiveness, and competitive edge on complex litigation.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms. I'd be happy to stop by your office to show how we're helping similar practices compete without sacrificing quality.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

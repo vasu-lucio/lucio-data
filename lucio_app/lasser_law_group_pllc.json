@@ -53,7 +53,15 @@
         "ai_notes": null
       },
       "additional_contacts": []
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/lasser-law-group",
+    "linkedin_size": "1-10"
   },
-  "email": {}
+  "email": {
+    "to_name": "Stephen",
+    "to_title": "Managing Partner",
+    "to_email": "slasser@lasserlg.com",
+    "subject": "AI for Lasser Law Group, built for firms like yours",
+    "body": "Hi Stephen,\n\nWith over 200 cooperative, condominium and homeowners associations across five boroughs and seven counties, your firm handles the complexity that demands precision and efficiency at scale.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in your region to meet firms doing real estate, construction, and commercial litigation work. I'd be happy to stop by your Manhattan office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

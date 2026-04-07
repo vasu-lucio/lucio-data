@@ -69,5 +69,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Lori",
+    "to_title": "Office Manager",
+    "to_email": null,
+    "subject": "AI for LawrenceQueen, built for employment law firms",
+    "body": "Hi Lori,\n\nYour team at LawrenceQueen handles some of the most demanding employment law cases, wrongful termination, discrimination, harassment, retaliation. With 6 attorneys managing this caseload across Richmond, precision and client trust are everything.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us because we focus on the realities of smaller practices: efficiency without sacrificing quality.\n\nHaving completed successful pilots on the East Coast, we're now moving into Virginia to meet regional firms. I'd be happy to stop by your office to show how ex-lawyers like us are helping firms like yours compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

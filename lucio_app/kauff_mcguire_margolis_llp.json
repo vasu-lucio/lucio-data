@@ -88,7 +88,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kauff-mcguire-margolis"
   },
-  "email": {}
+  "email": {
+    "to_name": "James",
+    "to_title": "Chief Operating Partner",
+    "to_email": "cunningham@kmm.com",
+    "subject": "AI for Kauff McGuire & Margolis, built for labor practices like yours",
+    "body": "Hi James,\n\nI noticed Kauff McGuire & Margolis has been handling labor, employment, and immigration matters across the country since 1972, competing with much larger firms while keeping a focused 23-attorney team. That's exactly the constraint we hear about most: BigLaw resources with a lean operation.\n\nI lead business at Lucio, an AI platform built for law firms facing exactly that. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in LA to meet regional firms. I'd be happy to stop by your NYC office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -100,5 +100,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Scott",
+    "to_title": "Managing Partner",
+    "to_email": "scottg@oga-law.com",
+    "subject": "AI for Ouimette, Goldstein, & Andrews, LLP, built for firms like yours",
+    "body": "Hi Scott,\n\nWith 45+ years representing injured workers across the Hudson Valley, you've built something most firms can't: deep expertise in Social Security Disability and Workers' Compensation that BigLaw simply doesn't match. That advantage is exactly what we're built to protect.\n\nI lead business at Lucio, an AI platform made for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're expanding regionally. I'd love to stop by your Poughkeepsie office to show how, as ex-lawyers ourselves, we're helping similar firms compete without compromising what makes them strong.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

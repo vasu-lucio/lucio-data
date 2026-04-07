@@ -82,7 +82,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/krasner-law-pllc"
   },
-  "email": {}
+  "email": {
+    "to_name": "Leona",
+    "to_title": "Founder and Managing Partner",
+    "to_email": null,
+    "subject": "AI for Krasner Law - built for firms like yours",
+    "body": "Hi Leona,\n\nYour focus on helping clients reach their matrimonial goals with minimal stress and cost across New York and New Jersey caught my attention. That's exactly the kind of efficiency-driven practice we're built for.\n\nI lead business at Lucio, an AI platform designed for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how we're helping practices like yours compete with larger competitors. I'd be happy to stop by your office to share how ex-lawyers built this specifically for family law firms.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

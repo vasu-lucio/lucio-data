@@ -73,5 +73,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Michael",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Hoffman Warnick, built for firms like yours",
+    "body": "Hi Michael,\n\nWith over 400 patents obtained annually for your clients, your team is handling volume and complexity that demands precision. I lead business at Lucio, an AI platform built for law firms managing BigLaw-scale work with leaner teams.\n\nWe recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of boutique IP practices: accuracy, client trust, and cost efficiency. Our founding team includes ex-lawyers who understand patent prosecution workflows inside out.\n\nHaving completed successful pilots on the East Coast, we're expanding regionally. I'd be happy to stop by your Albany office to show how we're helping firms like yours compete without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

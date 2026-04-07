@@ -70,7 +70,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/joseph-&-norinsberg"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jitesh",
+    "to_title": "Executive Partner/COO of World Trade Center Office",
+    "to_email": null,
+    "subject": "AI for Joseph & Norinsberg, built for employment law firms",
+    "body": "Hi Jitesh,\n\nWith a 90% success rate across employment discrimination, sexual harassment, and labor violation cases, Joseph & Norinsberg has built something most firms chase for years. The challenge now is scaling that precision without scaling headcount.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in NYC to meet regional firms. I'd be happy to stop by your World Trade Center office to show how ex-lawyers like us are helping firms like yours compete without compromise.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

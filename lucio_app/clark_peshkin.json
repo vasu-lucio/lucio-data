@@ -76,5 +76,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Kevin",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Clark Peshkin, built for firms like yours",
+    "body": "Hi Kevin,\n\nWith three offices across Rochester, Buffalo, and Syracuse, Clark Peshkin is navigating the complexity of serving multiple markets while keeping your team lean and focused on family law excellence. That's exactly where most of our best clients started.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of practices like yours: precision, client trust, and efficiency without the overhead.\n\nHaving completed successful pilots on the East Coast, we're now meeting with regional firms to show how ex-lawyers built tools that actually work for divorce, mediation, and estate planning practices.\n\nWorth 20 minutes to explore?\n\nVasu\nLucio"
+  }
 }

@@ -71,7 +71,14 @@
           "linkedin_url": "https://www.linkedin.com/posts/annalee-j-cataldo-05753143_so-pleased-to-announce-the-formation-of-my-activity-6712461532539834369-UNKJ"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kcllp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Jonathan",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Kosakoff & Cataldo LLP, built for firms like yours",
+    "body": "Hi Jonathan,\n\nWith construction claims and commercial litigation driving your practice, you're solving complex problems on tight margins. That's exactly where most 9-attorney firms feel the squeeze.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now expanding regionally. I'd be happy to stop by Melville to show how ex-lawyers like us are helping similar firms compete on speed and quality without the overhead.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -77,5 +77,11 @@
     },
     "linkedin_company_url": "https://www.linkedin.com/company/ansanelli-law-group-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Vincent",
+    "to_title": "Founding and Managing Partner",
+    "to_email": "vince@ansanellilawgroup.com",
+    "subject": "AI for Ansanelli Law Group, built for firms like yours",
+    "body": "Hi Vincent,\n\nSince 1987, Ansanelli has built a reputation as a leader in elder law on Long Island, delivering creative solutions across estate planning, litigation, and complex family matters. That depth of expertise is exactly what we see in the 7-attorney practices that outcompete much larger firms.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the Northeast to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping practices like yours compete with bigger players.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -90,5 +90,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": null,
+    "to_title": null,
+    "to_email": null,
+    "subject": "AI for Olshan Frome Wolosky - built for firms like yours",
+    "body": "Hi there,\n\nOlshan's #1 ranked Shareholder Activism practice handles some of the most complex, high-stakes work in corporate law. That kind of sophisticated deal work demands precision and efficiency at scale.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of independent practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now meeting regional firms to show how-as ex-lawyers ourselves-we're helping sophisticated practices compete with BigLaw on capability, not headcount.\n\nWorth 20 minutes to explore?\n\nVasu\nLucio"
+  }
 }

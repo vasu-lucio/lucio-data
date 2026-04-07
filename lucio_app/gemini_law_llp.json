@@ -98,7 +98,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gemini-law-llp"
   },
-  "email": {}
+  "email": {
+    "to_name": "Robert",
+    "to_title": "Managing Partner",
+    "to_email": null,
+    "subject": "AI for Gemini Law LLP, built for firms like yours",
+    "body": "Hi Robert,\n\nYour remote-work infrastructure at Gemini Law is exactly the kind of lean, efficient model that's reshaping how boutique firms compete. You've already mastered what most firms struggle with: delivering world-class biopharma IP litigation without the overhead.\n\nI lead business at Lucio, an AI platform built for law firms that face BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the New York market to meet regional firms. I'd be happy to stop by your office to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

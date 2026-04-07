@@ -81,7 +81,9 @@
           "linkedin_url": "http://www.faraci.com/meet-your-team/matthew-f-belanger/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/faraci-lange",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

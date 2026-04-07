@@ -74,7 +74,14 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/conway-farrell-curtin-&-kelly"
   },
-  "email": {}
+  "email": {
+    "to_name": "Darrell",
+    "to_title": "Managing Partner",
+    "to_email": "djohn@conwayfarrell.com",
+    "subject": "AI for Conway, Farrell, Curtin & Kelly - built for firms like yours",
+    "body": "Hi Darrell,\n\nYour appellate and construction practices require precision that BigLaw simply can't match at your scale. At 15 attorneys, you're delivering sophisticated legal work without their overhead, and that agility is your competitive edge.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on the realities of smaller practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now arriving in the New York market to meet regional firms. I'd be happy to stop by your office on Thursday, April 10 to share how, as ex-lawyers ourselves, we're helping similar firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

@@ -69,7 +69,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/fbt-gibbons",
+    "linkedin_size": "201-500"
   },
   "email": {
     "to_name": "Peter",

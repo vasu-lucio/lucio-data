@@ -89,5 +89,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Salvatore",
+    "to_title": "Managing partner",
+    "to_email": "sall@wdldlaw.com",
+    "subject": "AI for Wagner Doman Leto & Di Leo PC, built for firms like yours",
+    "body": "Hi Salvatore,\n\nLitigation and appellate work demand precision under pressure, and your team in Mineola is handling complex cases with a lean group of 15 attorneys. That's exactly where AI that actually understands legal practice makes the difference.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with smaller teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters to practices your size: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're arriving in the region to meet firms like yours. I'd be happy to stop by your office to show how we're helping similar practices compete with larger competitors.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }

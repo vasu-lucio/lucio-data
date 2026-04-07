@@ -59,5 +59,11 @@
       ]
     }
   },
-  "email": {}
+  "email": {
+    "to_name": "Jeffrey",
+    "to_title": "Chairman of the Firm and Co-Managing Partner",
+    "to_email": "jforchelli@forchellilaw.com",
+    "subject": "AI for Forchelli Deegan Terrana LLP, built for problem solvers",
+    "body": "Hi Jeffrey,\n\nFifteen of your attorneys just made the 2026 Best Lawyers in America list, which tells me Forchelli Deegan Terrana attracts talent focused on real solutions. That's exactly the caliber of firm we work with at Lucio.\n\nI lead business at Lucio, an AI platform built for law firms facing BigLaw demands with leaner teams. We recently raised $5M, and firms across 9 jurisdictions have chosen us over Harvey because we focus on what matters for independent practices: precision, client trust, and efficiency.\n\nHaving completed successful pilots on the East Coast, we're now reaching out to regional firms like yours in the New York area. I'd be happy to stop by Uniondale on Thursday, April 10 to share how we help firms compete with BigLaw.\n\nWorth 20 minutes?\n\nVasu\nLucio"
+  }
 }
