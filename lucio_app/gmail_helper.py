@@ -6,6 +6,7 @@ Uses a manual OAuth flow that works on Streamlit Cloud (no local browser needed)
 import os
 import base64
 import json
+import tempfile
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.base import MIMEBase
@@ -19,12 +20,33 @@ USERS = {
     "Vasu": {
         "creds_file": os.path.join(APP_DIR, "gmail_credentials_vasu.json"),
         "token_file": os.path.join(APP_DIR, "gmail_token_vasu.json"),
+        "secret_key": "gmail_credentials_vasu",
     },
     "Anshul": {
         "creds_file": os.path.join(APP_DIR, "gmail_credentials_anshul.json"),
         "token_file": os.path.join(APP_DIR, "gmail_token_anshul.json"),
+        "secret_key": "gmail_credentials_anshul",
     },
 }
+
+
+def _ensure_creds_file(user: str) -> str:
+    """Return path to credentials file, writing from st.secrets if file doesn't exist locally."""
+    cfg = USERS[user]
+    if os.path.exists(cfg["creds_file"]):
+        return cfg["creds_file"]
+    try:
+        import streamlit as st
+        secret_key = cfg["secret_key"]
+        if secret_key in st.secrets:
+            creds_data = dict(st.secrets[secret_key])
+            # Write to a temp file that persists for the process lifetime
+            with open(cfg["creds_file"], "w") as f:
+                json.dump(creds_data, f)
+            return cfg["creds_file"]
+    except Exception:
+        pass
+    return cfg["creds_file"]  # may not exist, callers handle that
 
 
 def get_auth_url(user: str = "Vasu") -> tuple:
@@ -34,11 +56,11 @@ def get_auth_url(user: str = "Vasu") -> tuple:
     """
     try:
         from google_auth_oauthlib.flow import Flow
-        cfg = USERS[user]
-        if not os.path.exists(cfg["creds_file"]):
+        creds_file = _ensure_creds_file(user)
+        if not os.path.exists(creds_file):
             return None, None, "missing_credentials"
         flow = Flow.from_client_secrets_file(
-            cfg["creds_file"],
+            creds_file,
             scopes=SCOPES,
             redirect_uri="urn:ietf:wg:oauth:2.0:oob",
         )
@@ -128,7 +150,7 @@ def is_authorized(user: str = "Vasu") -> bool:
 
 
 def has_credentials(user: str = "Vasu") -> bool:
-    return os.path.exists(USERS[user]["creds_file"])
+    return os.path.exists(_ensure_creds_file(user))
 
 
 def revoke_token(user: str = "Vasu"):
