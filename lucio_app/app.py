@@ -173,8 +173,8 @@ def person_summary(p):
 
 # ── Password Gate ──────────────────────────────────────────────────────────────
 USERS_AUTH = {
-    "Vasu":   "ABC123456",
-    "Anshul": "ABC123456",  # change to Anshul's password
+    "Vasu":   "Vasu123456",
+    "Anshul": "Anshul123456",
 }
 
 if "authenticated" not in st.session_state:
