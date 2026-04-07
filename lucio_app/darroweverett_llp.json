@@ -25,9 +25,9 @@
       "managing_partner": {
         "name": "Jon M. Restivo",
         "title": "Managing Partner",
-        "email": null,
+        "email": "jrestivo@darroweverett.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jon-restivo-223b6010"
       },
       "co_managing_partner": {
         "name": null,
@@ -40,7 +40,7 @@
       "tech_contact": {
         "name": "Andrew J. Adams",
         "title": "Partner & Chief Administrative Officer",
-        "email": null,
+        "email": "aadams@darroweverett.com",
         "phone": null,
         "linkedin_url": null
       },
@@ -65,10 +65,11 @@
           "title": "Partner & Chief Growth Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/chadgottlieb"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/darroweverett-llp"
   },
   "email": {}
 }

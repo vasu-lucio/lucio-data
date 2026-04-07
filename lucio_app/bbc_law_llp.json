@@ -71,40 +71,41 @@
         {
           "name": "Darren C. Audino",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "daudino@bbclawfirm.com",
+          "phone": "2159774133",
+          "linkedin_url": "https://www.linkedin.com/in/darren-audino-37761421"
         },
         {
           "name": "Derek Timms",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dtimms@bbclawfirm.com",
+          "phone": "2159774133",
+          "linkedin_url": "https://www.linkedin.com/in/derek-timms-75349547/"
         },
         {
           "name": "James J. Green",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jgreen@bbclawfirm.com",
+          "phone": "2159774133",
+          "linkedin_url": "https://www.linkedin.com/in/james-green-a716015b"
         },
         {
           "name": "Laurence I. Gross",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lgross@bbclawfirm.com",
+          "phone": "2159774133",
+          "linkedin_url": "https://www.linkedin.com/in/laurence-gross-aba6946"
         },
         {
           "name": "Ryan J. Mowll",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rmowll@bbclawfirm.com",
+          "phone": "2159774133",
+          "linkedin_url": "https://www.linkedin.com/in/ryan-mowll-52415a15/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://fo.linkedin.com/company/bbclawllp"
   },
   "email": {}
 }

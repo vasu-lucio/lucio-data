@@ -18,7 +18,7 @@
         "title": "Managing Member",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/mary-battimelli-b590117"
       },
       "co_managing_partner": {
         "name": null,
@@ -33,7 +33,7 @@
         "title": "Chief Information Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/hany-moussa-8105b11b"
       },
       "ai_contact": {
         "name": null,
@@ -56,7 +56,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopherpaldino"
         },
         {
           "name": "Joseph Tripodi",
@@ -70,10 +70,12 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/morris-bienenfeld-b77268a"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/chiesa-shahinian-&-giantomasi-pc",
+    "linkedin_size": "201-500"
   },
   "email": {}
 }

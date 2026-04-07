@@ -82,7 +82,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/romano-law-pllc",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

@@ -74,17 +74,19 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-noble-cpa-3725271b"
         },
         {
           "name": "Edward Kim",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "Edward.Kim@KKLllp.com",
+          "phone": "212.970.5848",
+          "linkedin_url": "https://www.linkedin.com/in/ed-kim-KKL"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/decker-design-inc.",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

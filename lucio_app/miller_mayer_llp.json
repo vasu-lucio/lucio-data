@@ -91,7 +91,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/miller-mayer"
+    "linkedin_company_url": "https://www.linkedin.com/company/miller-mayer",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Kim",

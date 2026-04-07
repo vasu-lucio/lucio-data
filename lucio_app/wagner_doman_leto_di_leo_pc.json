@@ -87,7 +87,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/wagner-doman-&-leto-p.c.",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Salvatore",

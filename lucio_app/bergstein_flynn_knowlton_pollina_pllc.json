@@ -51,20 +51,20 @@
           "title": "PARTNER",
           "email": "lee@bfklawoffice.com",
           "phone": "(212) 803-9025",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brianna-neyland-9537ab162"
         },
         {
           "name": "Michael Flynn",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "mike@bfklawoffice.com",
+          "phone": "2128039025",
           "linkedin_url": "https://www.linkedin.com/in/michael-flynn-9428404a"
         },
         {
           "name": "Cooper Knowlton",
           "title": "PARTNER",
-          "email": null,
-          "phone": null,
+          "email": "cooper@bfklawoffice.com",
+          "phone": "2128039025",
           "linkedin_url": null
         },
         {
@@ -77,16 +77,16 @@
         {
           "name": "Rhonda Schwartz",
           "title": "Senior Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rhonda@bfklawoffice.com",
+          "phone": "2128039025",
+          "linkedin_url": "https://www.linkedin.com/in/rhonda-schwartz-845824132"
         },
         {
           "name": "Emily Ashe",
           "title": "Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "emily@bfklawoffice.com",
+          "phone": "2128039025",
+          "linkedin_url": "https://www.linkedin.com/in/conor-mclaughlin-26373124b"
         }
       ]
     },

@@ -59,7 +59,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/pryor-cashman",
+    "linkedin_size": "201-500"
   },
   "email": {}
 }

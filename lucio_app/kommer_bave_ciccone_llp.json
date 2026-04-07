@@ -28,16 +28,16 @@
       "managing_partner": {
         "name": "Patricia A. Bave",
         "title": "Managing Partner",
-        "email": null,
+        "email": "pbave@KBCattorneys.com",
         "phone": null,
         "linkedin_url": null
       },
       "co_managing_partner": {
         "name": "Jake Kommer",
         "title": "Managing Partner",
-        "email": null,
+        "email": "jkommer@kbcattorneys.com (inferred)",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jake-kommer-780b4989"
       },
       "founders": [],
       "tech_contact": {
@@ -59,35 +59,35 @@
         {
           "name": "Rachel F. Ciccone",
           "title": "Partner",
-          "email": null,
+          "email": "rciccone@KBCattorneys.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tara-ciccone-88ab6824"
         },
         {
           "name": "John S. Kommer",
           "title": "Partner",
           "email": "jkommer@KBCattorneys.com",
           "phone": "914-633-7400",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jok-kommer-73609a240"
         },
         {
           "name": "Joann D\u2019Emilio",
           "title": "Esq.",
-          "email": null,
+          "email": "jdemilio@KBCattorneys.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/regina-lynch-matos-267b6b54"
         },
         {
           "name": "Ashley Fertig",
           "title": "Esq.",
-          "email": null,
+          "email": "afertig@kbcattorneys.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ashley-fertig-a7947a33"
         },
         {
           "name": "Regina Matos",
           "title": "Esq.",
-          "email": null,
+          "email": "rmatos@KBCattorneys.com",
           "phone": null,
           "linkedin_url": null
         }

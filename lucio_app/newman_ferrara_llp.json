@@ -88,7 +88,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/newman-ferrara-llp"
   },
   "email": {
     "to_name": "Jonathan",

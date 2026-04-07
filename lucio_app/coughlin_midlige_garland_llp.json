@@ -63,21 +63,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/wtcorbettjr"
         },
         {
           "name": "Patrick Coughlin",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pcoughlin@cmg.law",
+          "phone": "973-631-6028",
+          "linkedin_url": "https://www.linkedin.com/in/patrick-coughlin-4989a982"
         },
         {
           "name": "Steven Adams",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steven-adams-922b223a"
         },
         {
           "name": "Lorraine Armenti",
@@ -105,7 +105,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patrick-florentino-5b520736"
         },
         {
           "name": "Thomas Cohn",
@@ -126,7 +126,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-garland-5133804"
         }
       ]
     },

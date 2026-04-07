@@ -23,7 +23,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/daniel-el-arnaouty-77ab9696"
       },
       "co_managing_partner": {
         "name": null,
@@ -38,7 +38,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-curatolo-7aa552165"
         },
         {
           "name": "Edgar M. Cullen",
@@ -69,14 +69,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/parnell-black-51875314"
         },
         {
           "name": "R.P.",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jacquie-vargas-67545330"
         },
         {
           "name": "S.K.",
@@ -90,10 +90,12 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/peter-jacobson-99859"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cullen-and-dykman-llp",
+    "linkedin_size": "201-500"
   },
   "email": {}
 }

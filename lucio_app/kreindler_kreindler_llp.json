@@ -37,7 +37,7 @@
         "title": "Managing Partner",
         "email": "nkushlefsky@kreindler.com",
         "phone": "212.973.3448",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/noah-kushlefsky-a509529"
       },
       "co_managing_partner": {
         "name": null,
@@ -52,7 +52,7 @@
         "title": "Chief Operating Officer",
         "email": "vbellizzi@kreindler.com",
         "phone": "212.973.3413",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/vbellizzi"
       },
       "ai_contact": {
         "name": null,
@@ -68,10 +68,12 @@
           "title": "Director of Information Services",
           "email": "jcisneros@kreindler.com",
           "phone": "212.973.3481",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/javier-a-manzano-327530160"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kreindler-&-kreindler-llp",
+    "linkedin_size": "51-200"
   },
   "email": {
     "to_name": "Vaneat",

@@ -53,15 +53,15 @@
         {
           "name": "Matthew Covey",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "matthew@covey.law",
+          "phone": "17182540023",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-covey-0155345"
         },
         {
           "name": "Will Spitz",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "will@covey.law",
+          "phone": "17182540023",
           "linkedin_url": null
         }
       ]

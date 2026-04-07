@@ -53,28 +53,28 @@
           "title": "General Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-kadushin-a1b51913"
         },
         {
           "name": "Jeanine Marie",
           "title": "Deputy Executive Director of Administration",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeanine-marie-3603149"
         },
         {
           "name": "Yojaira Alvarez",
           "title": "Senior Advisor and Director of Intergovernmental Affairs",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/yojaira-alvarez"
         },
         {
           "name": "Mercer \u201cMonte\u201d Givhan",
           "title": "Chief of Investigations",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mgivhan"
         },
         {
           "name": "Andre Applewhite",
@@ -92,7 +92,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/nyc-civilian-complaint-review-board-ccrb-"
+    "linkedin_company_url": "https://www.linkedin.com/company/nyc-civilian-complaint-review-board-ccrb-",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

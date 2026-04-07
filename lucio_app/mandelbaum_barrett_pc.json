@@ -81,7 +81,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/mandelbaum-barrett"
+    "linkedin_company_url": "https://www.linkedin.com/company/mandelbaum-barrett",
+    "linkedin_size": "201-500"
   },
   "email": {
     "to_name": "Cheryl",

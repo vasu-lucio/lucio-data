@@ -41,14 +41,14 @@
           "title": "Founding Partner",
           "email": "jbleichmar@bfalaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/javierbleichmar/"
         },
         {
           "name": "Joseph Fonti",
           "title": "Founding Partner",
-          "email": null,
+          "email": "jfonti@bfalaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jfonti/"
         }
       ],
       "tech_contact": {
@@ -70,26 +70,27 @@
         {
           "name": "Thayne Stoddard",
           "title": "Partner",
-          "email": null,
+          "email": "tstoddard@bfalaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/thayne-stoddard-42b72959/"
         },
         {
           "name": "Erin Woods",
           "title": "Partner",
-          "email": null,
+          "email": "ewoods@bfalaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/erinrump/"
         },
         {
           "name": "Dominic Auld",
           "title": "Partner",
-          "email": null,
+          "email": "dauld@bfalaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dominicauld"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bleichmar-fonti-auld-llp/"
   },
   "email": {}
 }

@@ -34,7 +34,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/alex-malino-4830515"
       },
       "co_managing_partner": {
         "name": "Suzanne M. Halbardier",
@@ -63,7 +63,7 @@
           "title": "Founder",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/johnmoore603"
         }
       ],
       "tech_contact": {
@@ -87,14 +87,14 @@
           "title": "Partner",
           "email": "WJoyce@bmmfirm.com",
           "phone": "212-313-3600",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/william-lee-6017b92"
         },
         {
           "name": "William A. Cooney",
           "title": "Partner",
           "email": "WCooney@bmmfirm.com",
           "phone": "212-313-3600",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/barry-brown-923a46341"
         }
       ]
     },

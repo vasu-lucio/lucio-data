@@ -83,7 +83,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://ie.linkedin.com/company/srmun"
   },
   "email": {
     "to_name": "Thomas",

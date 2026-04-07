@@ -81,7 +81,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/william-morris-endeavor",
+    "linkedin_size": "1001-5000"
   },
   "email": {}
 }

@@ -72,16 +72,16 @@
         {
           "name": "Peter Hoenig",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "Peter.Hoenig@lawbhs.com",
+          "phone": "16462187612",
+          "linkedin_url": "https://www.linkedin.com/in/peter-hoenig-52939948"
         },
         {
           "name": "Kurt E. Biedermann",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/megan-siniscalchi-a028a966"
         },
         {
           "name": "Thomas J. Sateary",
@@ -93,7 +93,7 @@
         {
           "name": "Pandy Shen",
           "title": "Attorney",
-          "email": null,
+          "email": "Pandy.Shen@lawbhs.com",
           "phone": null,
           "linkedin_url": null
         }

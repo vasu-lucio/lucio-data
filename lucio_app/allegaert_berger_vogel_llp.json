@@ -27,9 +27,9 @@
       "managing_partner": {
         "name": "David A. Berger",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "dberger@abv.com",
+        "phone": "+12126167080",
+        "linkedin_url": "https://www.linkedin.com/in/vera-zolotaryova-36950416"
       },
       "co_managing_partner": {
         "name": null,
@@ -58,15 +58,15 @@
         {
           "name": "Christopher Allegaert",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "callegaert@abv.com",
+          "phone": "+12126167050",
           "linkedin_url": null
         },
         {
           "name": "Michael S. Vogel",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "mvogel@abv.com",
+          "phone": "+12126167070",
           "linkedin_url": null
         }
       ]

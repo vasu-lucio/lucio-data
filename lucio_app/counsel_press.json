@@ -46,8 +46,8 @@
         "name": "Maria Piperis",
         "title": "Chief Operating Officer",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "18004277325",
+        "linkedin_url": "https://www.linkedin.com/in/mariapiperis"
       },
       "ai_contact": {
         "name": null,
@@ -62,22 +62,22 @@
           "name": "Brian Denes",
           "title": "Chief Financial Officer",
           "email": null,
-          "phone": null,
+          "phone": "18004277325",
           "linkedin_url": null
         },
         {
           "name": "Brian Vandegrift",
           "title": "Chief Sales Officer",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "18004277325",
+          "linkedin_url": "https://www.linkedin.com/in/brian-vandegrift-4893198"
         },
         {
           "name": "Nicholas Pompa",
           "title": "Chief Technology Officer",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "18004277325",
+          "linkedin_url": "https://www.linkedin.com/in/npompa"
         }
       ]
     },

@@ -24,9 +24,9 @@
       "managing_partner": {
         "name": "Jeffrey R. Patterson",
         "title": "Managing Partner and Chief Legal Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "jpatterson@allenmatkins.com",
+        "phone": "(619) 235-1537",
+        "linkedin_url": "https://www.linkedin.com/in/jeff-patterson-781a0112"
       },
       "co_managing_partner": {
         "name": null,
@@ -57,25 +57,26 @@
           "title": "Chief Information Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/henry-ho-0b677468"
         },
         {
           "name": "Elias Cervantes",
           "title": "Director of Finance",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/leahschloss"
         },
         {
           "name": "Gabrielle L. Fischer",
           "title": "Chief Administrative Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "gfischer@allenmatkins.com",
+          "phone": "(415) 837-1515",
+          "linkedin_url": "https://www.linkedin.com/in/gabriellefischer"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/allen-matkins"
+    "linkedin_company_url": "https://www.linkedin.com/company/allen-matkins",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

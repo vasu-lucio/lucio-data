@@ -21,9 +21,9 @@
       "managing_partner": {
         "name": "Adam Leitman Bailey",
         "title": "Founding Partner",
-        "email": null,
+        "email": "alb@alblawfirm.com",
         "phone": "212-584-1952",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/adamleitmanbailey"
       },
       "co_managing_partner": {
         "name": null,
@@ -36,8 +36,8 @@
         {
           "name": "Adam Leitman Bailey",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
+          "email": "alb@alblawfirm.com",
+          "phone": "212-584-1952",
           "linkedin_url": null
         }
       ],
@@ -60,19 +60,20 @@
         {
           "name": "John Desiderio",
           "title": "Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jdesiderio@alblawfirm.com",
+          "phone": "212-584-1953",
+          "linkedin_url": "https://www.linkedin.com/in/adamleitmanbailey"
         },
         {
           "name": "Nancy Fernandez",
           "title": "Director of Billing Operations",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2128250365",
+          "linkedin_url": "https://www.linkedin.com/in/nancy-fernandez-22337317"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/adam-leitman-bailey-p.c."
   },
   "email": {
     "to_name": "Adam",

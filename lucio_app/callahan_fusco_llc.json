@@ -69,10 +69,11 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mitchell-ayes-b970b85"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/callahan-&-fusco-llc."
   },
   "email": {
     "to_name": "Antonio",

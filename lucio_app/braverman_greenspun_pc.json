@@ -27,22 +27,22 @@
         "title": "Principal & Managing Partner",
         "email": "rbraverman@braverlaw.net",
         "phone": "917.657.9003",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/robbraverman"
       },
       "co_managing_partner": {
         "name": "Scott S. Greenspun",
         "title": null,
-        "email": null,
+        "email": "sgreenspun@braverlaw.net",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/scottgreenspun"
       },
       "founders": [
         {
           "name": "Ed Braverman",
           "title": null,
-          "email": null,
+          "email": "rbraverman@braverlaw.net",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robbraverman"
         }
       ],
       "tech_contact": {
@@ -64,20 +64,21 @@
         {
           "name": "Tracy Peterson",
           "title": null,
-          "email": null,
+          "email": "tpeterson@braverlaw.net",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tracypeterson2/"
         },
         {
           "name": "Benjamin Fox Tracy",
           "title": null,
-          "email": null,
+          "email": "btracy@braverlaw.net",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/benjamin-fox-tracy-9261204"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/braverman-greenspun-p-c-"
+    "linkedin_company_url": "https://www.linkedin.com/company/braverman-greenspun-p-c-",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Robert",

@@ -63,17 +63,18 @@
           "title": "Case Manager",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/telise-cassidy-2b1683245"
         },
         {
           "name": "Ella Bailey",
           "title": "Case Manager",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-bailey-942773b"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/dawsonlawfirm"
   },
   "email": {}
 }

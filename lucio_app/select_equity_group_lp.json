@@ -77,7 +77,9 @@
           "linkedin_url": "https://fintool.com/app/research/funds/investment-advisers/select-equity-group-lp/people/loren-lewallen"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/select-equity-group",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

@@ -28,7 +28,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": "(646) 650-2207",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/garyadelman"
       },
       "co_managing_partner": {
         "name": null,
@@ -43,14 +43,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/garyadelman"
         },
         {
           "name": "Sarah Matz",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sarah-matz-a3a446b"
         }
       ],
       "tech_contact": {
@@ -74,21 +74,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sarah-matz-a3a446b"
         },
         {
           "name": "Krishna Parekh",
           "title": "Associate Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/krishna-parekh-197990113"
         },
         {
           "name": "Sebastian Hoskins",
           "title": "Department Head - Corporate",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sebastianhoskins"
         }
       ]
     },

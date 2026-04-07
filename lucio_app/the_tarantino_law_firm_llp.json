@@ -93,7 +93,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/the-tarantino-law-firm-llp",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

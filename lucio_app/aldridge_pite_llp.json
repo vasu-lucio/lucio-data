@@ -29,9 +29,9 @@
       "managing_partner": {
         "name": "John G. Aldridge, Jr.",
         "title": "Managing Partner",
-        "email": null,
+        "email": "CustomerService@AldridgePite.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/john-aldridge-bab4a5168"
       },
       "co_managing_partner": {
         "name": null,
@@ -46,7 +46,7 @@
         "title": "COO",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kenny-daniel-164252143"
       },
       "ai_contact": {
         "name": null,
@@ -62,14 +62,14 @@
           "title": "Chief Financial Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffgarrity"
         },
         {
           "name": "Jody Charbonnet",
           "title": "IT PMO Director",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jody-charbonnet-7351b31"
         }
       ]
     },

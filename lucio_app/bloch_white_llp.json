@@ -40,24 +40,24 @@
         {
           "name": "Michael L. Bloch",
           "title": "Partner",
-          "email": null,
+          "email": "mbloch@blochwhite.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-bloch-8929a6198/"
         },
         {
           "name": "Benjamin D. White",
           "title": "Partner",
-          "email": null,
+          "email": "bwhite@blochwhite.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/benjamin-white-08399135/"
         }
       ],
       "tech_contact": {
         "name": "Anna Kate Cannon",
         "title": "Director Of Operations And Case Management",
-        "email": null,
+        "email": "acannon@blochwhite.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/anna-kate-cannon-ba923b178"
       },
       "ai_contact": {
         "name": null,

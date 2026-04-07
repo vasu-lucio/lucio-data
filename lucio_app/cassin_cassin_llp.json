@@ -35,7 +35,7 @@
         "title": "Director of Human Resources and Administration",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gsmyers"
       },
       "ai_contact": {
         "name": null,
@@ -58,14 +58,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/evanblau"
         },
         {
           "name": "Jordan Hersch",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jordan-hersch-7a71684a"
         },
         {
           "name": "John Thomas",
@@ -82,7 +82,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cassin-&-cassin-llp"
   },
   "email": {}
 }

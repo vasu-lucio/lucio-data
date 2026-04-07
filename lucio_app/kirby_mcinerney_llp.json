@@ -42,7 +42,7 @@
         "title": "Managing Partner",
         "email": "dkovel@kmllp.com",
         "phone": "212.699.1149",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/david-kovel-5b519a1b"
       },
       "founders": [],
       "tech_contact": {
@@ -64,9 +64,9 @@
         {
           "name": "Laura Parcells",
           "title": "Chief Marketing Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lparcells@kmllp.com",
+          "phone": "212.371.6600",
+          "linkedin_url": "https://www.linkedin.com/in/lparcells"
         }
       ]
     },

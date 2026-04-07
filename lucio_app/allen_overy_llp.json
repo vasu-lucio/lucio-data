@@ -30,22 +30,22 @@
         "title": "Global Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://de.linkedin.com/in/janerikwindthorst"
       },
       "co_managing_partner": {
         "name": "Khalid Garousha",
         "title": "Partner and Co-Chair of the Executive Committee and Board",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "khalid.garousha@aoshearman.com",
+        "phone": "+971 2 418 0470",
+        "linkedin_url": "https://www.linkedin.com/in/khalid-garousha/"
       },
       "founders": [],
       "tech_contact": {
         "name": "Bethan Chatters",
         "title": "Global CFO & Ops Director",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "bethan.chatters@aoshearman.com",
+        "phone": "+44 20 3088 1007",
+        "linkedin_url": "https://uk.linkedin.com/in/patrick-mears-obe-287a0833"
       },
       "ai_contact": {
         "name": null,
@@ -59,16 +59,16 @@
         {
           "name": "Sasha Hardman",
           "title": "Global Chief People Officer",
-          "email": null,
-          "phone": null,
+          "email": "sasha.hardman@aoshearman.com",
+          "phone": "+44 20 3088 2352",
           "linkedin_url": null
         },
         {
           "name": "Andrew Brammer",
           "title": "Global CIO and SSC Director",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "andrew.brammer@aoshearman.com",
+          "phone": "+44 20 3088 4019",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-brammer-4954511b5"
         }
       ]
     },

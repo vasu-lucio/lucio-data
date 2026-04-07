@@ -24,7 +24,7 @@
         "title": "Managing Partner",
         "email": "bob@danzilaw.com",
         "phone": "516-228-4226",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/robert-f-danzi-95ba38132"
       },
       "co_managing_partner": {
         "name": null,
@@ -60,22 +60,22 @@
         {
           "name": "Linda M. Oliva",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "linda@danzilaw.com",
+          "phone": "516-228-4226",
           "linkedin_url": null
         },
         {
           "name": "Christine C. Coscia",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "christine@danzilaw.com",
+          "phone": "516-228-4226",
           "linkedin_url": null
         },
         {
           "name": "Joan M. Ferretti",
           "title": "Of Counsel",
           "email": null,
-          "phone": null,
+          "phone": "516-228-4226",
           "linkedin_url": null
         }
       ]

@@ -35,7 +35,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/mordechai-book"
       },
       "co_managing_partner": {
         "name": null,
@@ -64,23 +64,23 @@
         {
           "name": "Chaim Book",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
+          "email": "bookadmin@booklawllp.com",
+          "phone": "2122440344",
           "linkedin_url": null
         },
         {
           "name": "Sheryl Galler",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bookadmin@booklawllp.com",
+          "phone": "2122440344",
+          "linkedin_url": "https://www.linkedin.com/in/sheryl-galler-63936314/"
         },
         {
           "name": "Rebecca Nathanson",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bookadmin@booklawllp.com",
+          "phone": "2122440344",
+          "linkedin_url": "https://www.linkedin.com/in/rebeccanathanson/"
         },
         {
           "name": "Andrew Heighington",
@@ -91,7 +91,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/book-law-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/book-law-llp",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

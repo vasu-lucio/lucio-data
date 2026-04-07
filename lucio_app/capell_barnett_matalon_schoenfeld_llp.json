@@ -31,9 +31,9 @@
       "managing_partner": {
         "name": "Renato Matos",
         "title": "Managing Partner",
-        "email": null,
+        "email": "rmatos@cbmslaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/renato-matos-5a46284/"
       },
       "co_managing_partner": {
         "name": null,
@@ -48,7 +48,7 @@
         "title": "Director of Operations",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/hallie-klein-7b71ab28a"
       },
       "ai_contact": {
         "name": null,
@@ -71,7 +71,7 @@
           "title": "Partner",
           "email": "rbarnett@cbmslaw.com",
           "phone": "(212) 661-1144 ext. 314",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-s-barnett-1908a920/"
         }
       ]
     },

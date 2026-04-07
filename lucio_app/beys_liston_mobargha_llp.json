@@ -65,19 +65,19 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joshua-liston"
         },
         {
           "name": "Nader Mobargha",
           "title": null,
-          "email": null,
+          "email": "nmobargha@blmllp.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nader-mobargha-b907763"
         },
         {
           "name": "Alison Moss",
           "title": null,
-          "email": null,
+          "email": "amoss@blmllp.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -86,14 +86,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jennifer-lippman-479a164"
         },
         {
           "name": "Catherine Conniff",
           "title": null,
-          "email": null,
+          "email": "cconniff@blmllp.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/cathy-papayiannis-7439947"
         },
         {
           "name": "Sara Robbin",
@@ -105,7 +105,7 @@
         {
           "name": "Tamar Kanefsky",
           "title": null,
-          "email": null,
+          "email": "tkanefsky@blmllp.com",
           "phone": null,
           "linkedin_url": null
         }

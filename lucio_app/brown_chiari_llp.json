@@ -57,39 +57,40 @@
           "name": "Donald P. Chiari",
           "title": "Esq.",
           "email": null,
-          "phone": null,
+          "phone": "7166817190",
           "linkedin_url": null
         },
         {
           "name": "Michael Scinta",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "7166817190",
           "linkedin_url": null
         },
         {
           "name": "Nicole T.C. Marques",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "7166817190",
           "linkedin_url": null
         },
         {
           "name": "Colleen Fahey",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "7166817190",
+          "linkedin_url": "https://www.linkedin.com/in/colleen-fahey-30883a65"
         },
         {
           "name": "Angelo Gambino",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "7166817190",
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/brown-chiari-llp"
   },
   "email": {}
 }

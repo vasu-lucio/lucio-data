@@ -26,9 +26,9 @@
       "managing_partner": {
         "name": "John R. Langey",
         "title": "Chief Executive Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "jlangey@ccf-law.com",
+        "phone": "3154221152",
+        "linkedin_url": "https://www.linkedin.com/in/john-langey-64810126"
       },
       "co_managing_partner": {
         "name": null,
@@ -41,8 +41,8 @@
       "tech_contact": {
         "name": "Paul G. Ferrara",
         "title": "Chief Operations Officer",
-        "email": null,
-        "phone": null,
+        "email": "pferrara@ccf-law.com",
+        "phone": "3154221152",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -57,37 +57,37 @@
         {
           "name": "Elizabeth A. Hoffman",
           "title": "Chief Financial Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ehoffman@ccf-law.com",
+          "phone": "3154221152",
+          "linkedin_url": "https://www.linkedin.com/in/elizabeth-hoffman-10a87855"
         },
         {
           "name": "James Gascon",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jgascon@ccf-law.com",
+          "phone": "3154221152",
+          "linkedin_url": "https://www.linkedin.com/in/james-gascon-388601269"
         },
         {
           "name": "Daniel R. Rose",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "drose@ccf-law.com",
+          "phone": "3154221152",
+          "linkedin_url": "https://www.linkedin.com/in/daniel-rose-5bab3757"
         },
         {
           "name": "Robert J. Smith",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rsmith@ccf-law.com",
+          "phone": "3154221152",
+          "linkedin_url": "https://www.linkedin.com/in/bob-smith-296a3919"
         },
         {
           "name": "Christopher M. Militello",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "cmilitello@ccf-law.com",
+          "phone": "3154221152",
+          "linkedin_url": "https://www.linkedin.com/in/christopher-militello-10849511"
         }
       ]
     },

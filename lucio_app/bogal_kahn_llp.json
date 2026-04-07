@@ -38,14 +38,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tom-bogal-6285b348"
         },
         {
           "name": "Ilana Kahn",
           "title": "Partner",
-          "email": null,
+          "email": "ikahn@bogalkahn.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ilana-kahn-6275606"
         }
       ],
       "tech_contact": {

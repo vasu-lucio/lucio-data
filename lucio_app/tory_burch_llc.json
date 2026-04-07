@@ -76,7 +76,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/tory-burch",
+    "linkedin_size": "1001-5000"
   },
   "email": {}
 }

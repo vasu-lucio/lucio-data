@@ -24,9 +24,9 @@
       "managing_partner": {
         "name": "Lawrence Eric Davidow",
         "title": "Senior and Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "ldavidow@davidowlaw.com",
+        "phone": "+1-631-234-3030",
+        "linkedin_url": "https://www.linkedin.com/in/ldavidow"
       },
       "co_managing_partner": {
         "name": null,
@@ -65,7 +65,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/siegel-david"
         },
         {
           "name": "Wallace Davidow",

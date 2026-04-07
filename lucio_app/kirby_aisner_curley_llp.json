@@ -69,7 +69,7 @@
           "title": "Attorney",
           "email": "ehaas@kacllp.com",
           "phone": "(845) 708-0340",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jess-carroll-83303a161"
         },
         {
           "name": "Jessica Hill",
@@ -80,7 +80,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/kirby-aisner-curley-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/kirby-aisner-curley-llp",
+    "linkedin_size": "1-10"
   },
   "email": {
     "to_name": "Dawn",

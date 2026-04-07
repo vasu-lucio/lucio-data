@@ -24,9 +24,9 @@
       "managing_partner": {
         "name": "Edward Klaris",
         "title": "Managing Partner",
-        "email": null,
+        "email": "edward.klaris@klarislaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ed-klaris-996a048/"
       },
       "co_managing_partner": {
         "name": null,
@@ -39,9 +39,9 @@
       "tech_contact": {
         "name": "Rory Stanton",
         "title": "Chief Financial Officer",
-        "email": null,
+        "email": "rory.stanton@klarisip.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/rory-stanton/"
       },
       "ai_contact": {
         "name": null,
@@ -55,40 +55,41 @@
         {
           "name": "Alexia Bedat",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "alexia.bedat@klarislaw.com",
+          "phone": "(646) 779-4882",
+          "linkedin_url": "https://www.linkedin.com/in/alexia-bedat-2a5049a4/"
         },
         {
           "name": "Matthew Leish",
           "title": "Partner",
-          "email": null,
+          "email": "matthew.leish@klarislaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-leish-21049728"
         },
         {
           "name": "Lance Koonce",
           "title": "Partner",
-          "email": null,
+          "email": "lance.koonce@klarislaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lance-koonce-ab07309/"
         },
         {
           "name": "Sam Borenzweig",
           "title": "Partner",
-          "email": null,
+          "email": "sam.borenzweig@klarislaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/samborenzweig/"
         },
         {
           "name": "Gili Karev",
           "title": "Partner",
-          "email": null,
+          "email": "gili.karev@klarislaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gili-karev-3631b2266/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/klaris-law"
   },
   "email": {}
 }

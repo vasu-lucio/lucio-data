@@ -73,7 +73,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://ng.linkedin.com/company/russolawgroup"
   },
   "email": {
     "to_name": "Vincent",

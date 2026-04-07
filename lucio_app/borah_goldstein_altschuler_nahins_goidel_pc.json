@@ -52,38 +52,39 @@
           "title": "Senior Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/newyorkattorney"
         },
         {
           "name": "Stephen Shulman",
           "title": "Senior Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stephen-shulman-b5305831"
         },
         {
           "name": "Mary D Milone",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mary-d-milone-1b58a4243"
         },
         {
           "name": "Anna Guiliano",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/anna-guiliano-73423093"
         },
         {
           "name": "Steven H Cohen",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steven-h-cohen-2b7347b4"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/borah-goldstein-altschuler-nahins-&-goidel-p-c-"
   },
   "email": {}
 }

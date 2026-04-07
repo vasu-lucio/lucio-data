@@ -22,7 +22,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/rmandaro"
       },
       "co_managing_partner": {
         "name": null,
@@ -37,7 +37,7 @@
         "title": "Director Of Information Technology And Operations",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/brian-amos-phd"
       },
       "ai_contact": {
         "name": null,
@@ -60,14 +60,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/charles-achkar-202311172"
         },
         {
           "name": "Chester Rothstein",
           "title": "Intellectual Property Partner - Trademarks, Copyrights, Design Patents",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212 336 8050",
+          "linkedin_url": "https://www.linkedin.com/in/chesterrothstein"
         }
       ]
     },

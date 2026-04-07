@@ -74,7 +74,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://ca.linkedin.com/company/perella-weinberg-partners",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

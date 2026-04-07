@@ -44,7 +44,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/myronbrock"
         }
       ],
       "tech_contact": {
@@ -68,46 +68,47 @@
           "title": "Owner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-herbst-84381b6"
         },
         {
           "name": "Henry Dlugacz",
           "title": "Partner",
-          "email": null,
+          "email": "sblumert@blhny.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/henry-dlugacz-2a252610"
         },
         {
           "name": "David Rankin",
           "title": "Partner",
-          "email": null,
+          "email": "drankin@blhny.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-rankin-a87449317"
         },
         {
           "name": "Kay Thompson",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kay-thompson-8998ab61"
         },
         {
           "name": "Jonathan Moore",
           "title": "Partner",
-          "email": null,
+          "email": "jmoore@blhny.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Karen Dippold",
           "title": "Partner",
-          "email": null,
+          "email": "kdippold@blhny.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/karen-dillon-619370117"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/beldock-levine-&-hoffman"
+    "linkedin_company_url": "https://www.linkedin.com/company/beldock-levine-&-hoffman",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

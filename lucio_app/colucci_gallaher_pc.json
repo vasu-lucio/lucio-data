@@ -81,10 +81,11 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ryan-gellman-03124110"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/colucci-&-gallaher-pc"
   },
   "email": {
     "to_name": "Anthony",

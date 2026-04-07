@@ -62,22 +62,22 @@
         {
           "name": "Jay Spievack",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "jspievack@ctswlaw.com",
+          "phone": "212.381.8735",
           "linkedin_url": null
         },
         {
           "name": "Larry Tauber",
           "title": "Corporate Attorney",
           "email": null,
-          "phone": null,
+          "phone": "212-586-5800",
           "linkedin_url": null
         },
         {
           "name": "Daniel Arbov",
           "title": "Corporate Attorney",
-          "email": null,
-          "phone": null,
+          "email": "darbov@ctswlaw.com",
+          "phone": "212.381.8749",
           "linkedin_url": null
         },
         {
@@ -90,12 +90,13 @@
         {
           "name": "Joseph Vann",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "jvann@ctswlaw.com",
+          "phone": "212.381.8724",
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cohen-tauber-spievack-&-wagner-p.c."
   },
   "email": {}
 }

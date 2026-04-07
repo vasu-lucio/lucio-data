@@ -39,7 +39,7 @@
           "title": "Partner",
           "email": "clark@csvllp.com",
           "phone": "212-377-0853",
-          "linkedin_url": null
+          "linkedin_url": "https://mp.linkedin.com/in/vincent-seman-b430231a"
         },
         {
           "name": "Patrick Smith",
@@ -53,7 +53,7 @@
           "title": "Partner",
           "email": "rodney.villazor@csvllp.com",
           "phone": "212-377-0852",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rodney-villazor-9a99ba54"
         }
       ],
       "tech_contact": {
@@ -75,16 +75,16 @@
         {
           "name": "Brian Burns",
           "title": "Partner",
-          "email": null,
+          "email": "brian.burns@csvllp.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-burns-6040a788"
         },
         {
           "name": "Benjamin Dozier",
           "title": "Partner",
-          "email": null,
+          "email": "benjamin.dozier@csvllp.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/benjamin-dozier-92431980"
         },
         {
           "name": "Andrew J. Rodgers",
@@ -94,7 +94,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/clark-smith-villazor-llp"
   },
   "email": {}
 }

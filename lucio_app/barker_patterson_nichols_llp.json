@@ -35,8 +35,8 @@
       "managing_partner": {
         "name": "John W. Barker",
         "title": "General Counsel and Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "J.BARKER@BPN.LAW",
+        "phone": "+1(516)282-3356",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -66,29 +66,29 @@
         {
           "name": "Megan A. Lawless",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "M.LAWLESS@BPN.LAW",
+          "phone": "+1(516)926-3399",
           "linkedin_url": "https://theorg.com/org/barker-patterson-nichols-llp/org-chart/megan-lawless"
         },
         {
           "name": "Neil C. Mascolo",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "N.MASCOLO@BPN.LAW",
+          "phone": "+1(516)288-7542",
+          "linkedin_url": "https://www.linkedin.com/in/eugenebnichols"
         },
         {
           "name": "Adonaid C. Medina",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "A.MEDINA@BPN.LAW",
+          "phone": "+1(914)495-4853",
           "linkedin_url": null
         },
         {
           "name": "Gregg D. Weinstock",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "G.WEINSTOCK@BPN.LAW",
+          "phone": "+1(516)926-3396",
           "linkedin_url": null
         }
       ]

@@ -35,14 +35,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-bangel-19847495"
         },
         {
           "name": "Stephen H. Cohen",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stephen-cohen-7a006637"
         }
       ],
       "tech_contact": {
@@ -73,14 +73,14 @@
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-biegel-3b8b1b45"
         },
         {
           "name": "Antonio J. Otero",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/antonio-j-otero-7a501125a"
         },
         {
           "name": "Brandon D. Armstrong",
@@ -94,31 +94,32 @@
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gene-leyn-25887938"
         },
         {
           "name": "Lawrence J. Komsky",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lawrence-komsky-0836a374"
         },
         {
           "name": "Jonathan R. Baez",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-baez-71797215"
         },
         {
           "name": "Manny G. Ramalho",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/emmanuel-gutierrez-"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bangel-cohen-&-falconetti-llp"
   },
   "email": {}
 }

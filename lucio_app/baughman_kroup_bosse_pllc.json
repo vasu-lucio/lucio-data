@@ -23,7 +23,7 @@
         "title": "Managing Partner",
         "email": "jbaughman@BKBfirm.com",
         "phone": "(347) 241-6347",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jack-baughman-053569108/"
       },
       "co_managing_partner": {
         "name": null,
@@ -52,30 +52,30 @@
         {
           "name": "George Kroup",
           "title": "Partner",
-          "email": null,
+          "email": "gkroup@bkbfirm.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/george-kroup-b63a65b0/"
         },
         {
           "name": "Andrew Bosse",
           "title": "Partner",
-          "email": null,
+          "email": "abosse@bkbfirm.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andrew-bosse-33760430/"
         },
         {
           "name": "Nathaniel Marmon",
           "title": "Partner",
-          "email": null,
+          "email": "nmarmon@bkbfirm.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nathaniel-marmon-3380207b/"
         },
         {
           "name": "Richard Cooke",
           "title": "Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richard-cooke-b087a5282"
         }
       ]
     },

@@ -84,7 +84,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://au.linkedin.com/company/penguin-random-house-publishing",
+    "linkedin_size": "5000+"
   },
   "email": {}
 }

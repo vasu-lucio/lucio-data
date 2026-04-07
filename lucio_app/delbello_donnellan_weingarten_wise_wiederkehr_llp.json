@@ -29,9 +29,9 @@
       "managing_partner": {
         "name": "Alfred E. Donnellan",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "aed@ddw-law.com",
+        "phone": "+1-914-681-0200",
+        "linkedin_url": "https://www.linkedin.com/in/alfred-donnellan-b9672313"
       },
       "co_managing_partner": {
         "name": null,
@@ -60,9 +60,9 @@
         {
           "name": "Mark Weingarten",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mpw@ddw-law.com",
+          "phone": "+1-914-681-0200",
+          "linkedin_url": "https://www.linkedin.com/in/mark-weingarten-64b5a6a"
         },
         {
           "name": "Nelida Lara",
@@ -74,9 +74,9 @@
         {
           "name": "Brian J. Donnellan",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bjd@ddw-law.com",
+          "phone": "+1-914-681-0200",
+          "linkedin_url": "https://www.linkedin.com/in/alfred-donnellan-b9672313"
         }
       ]
     },

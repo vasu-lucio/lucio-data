@@ -19,9 +19,9 @@
       "managing_partner": {
         "name": "William Brewer",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "WAB@Brewerattorneys.com",
+        "phone": "2146534000",
+        "linkedin_url": "https://www.linkedin.com/in/williamabrewer"
       },
       "co_managing_partner": {
         "name": "John Bickel",
@@ -34,9 +34,9 @@
       "tech_contact": {
         "name": "Michael Mccormack",
         "title": "Chief Financial Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "MJM@BrewerAttorneys.com",
+        "phone": "2146534000",
+        "linkedin_url": "https://www.linkedin.com/in/michael-mccormack-10126510b"
       },
       "ai_contact": {
         "name": null,

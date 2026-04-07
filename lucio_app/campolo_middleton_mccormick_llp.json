@@ -18,7 +18,7 @@
         "title": "Managing Partner",
         "email": "jcampolo@cmmllp.com",
         "phone": "(631) 738-9100, ext. 301",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/joe-campolo-37094a3"
       },
       "co_managing_partner": {
         "name": null,
@@ -47,26 +47,27 @@
         {
           "name": "Patrick McCormick",
           "title": "Senior Partner and General Counsel",
-          "email": null,
+          "email": "pmccormick@cmmllp.com",
           "phone": "(631) 738-9100 ext. 308",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patrick-mccormick-55ab6a"
         },
         {
           "name": "Scott Middleton",
           "title": "Senior Partner",
           "email": "smiddleton@cmmllp.com",
           "phone": "(631) 738-9100 ext. 302",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/scott-middleton"
         },
         {
           "name": "Jennifer Albrecht",
           "title": "Business IT Manager",
-          "email": null,
+          "email": "jalbrecht@cmmllp.com",
           "phone": "(631) 738-9100 ext. 315",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jennifer-albrecht-07111a7a/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/campolo-middleton-&-mccormick-llp"
   },
   "email": {
     "to_name": "Joseph",

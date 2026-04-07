@@ -20,7 +20,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/connie-cahill-949a262b"
       },
       "co_managing_partner": {
         "name": "David Burch",
@@ -35,7 +35,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jbk212"
       },
       "ai_contact": {
         "name": null,
@@ -51,14 +51,14 @@
           "title": "Partner and Financial Services Practice Group Leader",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopher-centore"
         },
         {
           "name": "Carolyn Marcotte Crowley",
           "title": "Partner, Co-Chair of the Commercial Litigation & Complex Trials Practice Area",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/carolyn-scott-21111619"
         },
         {
           "name": "Matt Moses",
@@ -69,7 +69,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/barclaydamonllp"
+    "linkedin_company_url": "https://www.linkedin.com/company/barclaydamonllp",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

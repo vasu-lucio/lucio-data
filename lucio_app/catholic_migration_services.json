@@ -62,7 +62,7 @@
           "title": "Director of Legal Services and Senior Vice President",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/magdalena-barbosa-956877317"
         },
         {
           "name": "C. Mario Russell",
@@ -72,7 +72,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/catholic-migration-services"
   },
   "email": {}
 }

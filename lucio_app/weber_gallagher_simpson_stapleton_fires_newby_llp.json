@@ -70,7 +70,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/weber-gallagher-simpson-stapleton-fires-newby-llc",
+    "linkedin_size": "201-500"
   },
   "email": {
     "to_name": "Greg",

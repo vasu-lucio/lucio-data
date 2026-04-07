@@ -60,53 +60,54 @@
           "name": "Karen B. Rosenthal",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "+12126826222",
           "linkedin_url": "https://www.linkedin.com/in/karen-b-rosenthal-esq-b4454318/"
         },
         {
           "name": "Dror Bikel",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "+12126826222",
           "linkedin_url": "https://www.linkedin.com/in/dror-bikel-esq-4690479/"
         },
         {
           "name": "Naomi Schanfield",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+12126826222",
+          "linkedin_url": "https://www.linkedin.com/in/naomi-schanfield-5191953b"
         },
         {
           "name": "Eileen Gong",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "+12126826222",
           "linkedin_url": null
         },
         {
           "name": "I\u200b\u200b\u200blana B. Sharan",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "+12126826222",
           "linkedin_url": null
         },
         {
           "name": "Maggie Revera",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+12126826222",
+          "linkedin_url": "https://www.linkedin.com/in/margaret-revera-205b61128"
         },
         {
           "name": "Suzanna Neal",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+12126826222",
+          "linkedin_url": "https://www.linkedin.com/in/suzannebouvierneal"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/brsmatlaw"
   },
   "email": {}
 }

@@ -63,28 +63,28 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-escobar-732631122"
         },
         {
           "name": "Jack G. Fruchter",
           "title": "Founding Partner",
           "email": "jfruchter@aftlaw.com",
           "phone": "(212) 279-5050",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/abraham-fruchter-and-twersky-llp-01688731"
         },
         {
           "name": "Mitchell M.Z. Twersky",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mitchell-twersky-92289937"
         },
         {
           "name": "Michael J. Klein",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-klein-5197463"
         },
         {
           "name": "Atara Hirsch",
@@ -95,7 +95,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/abraham-fruchter-&-twersky-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/abraham-fruchter-&-twersky-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

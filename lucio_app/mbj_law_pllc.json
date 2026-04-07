@@ -98,7 +98,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/mbj-law",
+    "linkedin_size": "1-10"
   },
   "email": {
     "to_name": "Ovadiah",

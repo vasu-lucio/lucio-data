@@ -48,7 +48,7 @@
         "title": "COO",
         "email": "social@bnrllp.com",
         "phone": "(212) 804-6329",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sarah-choi-45b4137"
       },
       "ai_contact": {
         "name": null,
@@ -64,7 +64,7 @@
           "title": "Co-Founder / Partner",
           "email": "bberlandi@bnrllp.com",
           "phone": "212.804.6329 x 501",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brianberlandi"
         },
         {
           "name": "Jay Nussbaum",
@@ -77,15 +77,15 @@
           "name": "Joshua T. Reitzas",
           "title": "Co-Founder / Partner",
           "email": "jreitzas@bnrllp.com",
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212.804.6329",
+          "linkedin_url": "https://www.linkedin.com/in/josh-reitzas-01656950"
         },
         {
           "name": "Daniel F. Leary",
           "title": "Partner",
           "email": "dleary@bnrllp.com",
           "phone": "212.804.6329 x 523",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-f-leary-88244315"
         }
       ]
     },

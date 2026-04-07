@@ -56,14 +56,14 @@
           "title": "Partner",
           "email": "marciero@ambpclaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/maureen-arciero-0b937a28"
         },
         {
           "name": "Craig A. Burgess",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kirkburgessii"
         },
         {
           "name": "Kristin L. Doyle",
@@ -77,7 +77,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-stafford-8aa59228"
         },
         {
           "name": "Nathan Shook",
@@ -88,7 +88,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/regenbaum-arciero-mcmillan-burgess-pc"
+    "linkedin_company_url": "https://www.linkedin.com/company/regenbaum-arciero-mcmillan-burgess-pc",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

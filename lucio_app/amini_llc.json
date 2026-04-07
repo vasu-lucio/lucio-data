@@ -38,23 +38,23 @@
         {
           "name": "Bijan Amini",
           "title": "Founding Member",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bamini@aminillc.com",
+          "phone": "+12124978217",
+          "linkedin_url": "https://www.linkedin.com/in/bijanamini"
         },
         {
           "name": "Lita Beth Wright",
           "title": "Founding Member",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lita-beth-wright-384a278"
         },
         {
           "name": "Avery Samet",
           "title": "Founding Member",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "asamet@aminillc.com",
+          "phone": "+12124978239",
+          "linkedin_url": "https://www.linkedin.com/in/avery-samet-641145199"
         }
       ],
       "tech_contact": {
@@ -76,9 +76,9 @@
         {
           "name": "Jeffrey Chubak",
           "title": "Member",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jchubak@aminillc.com",
+          "phone": "+12124978247",
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-chubak-240295274"
         }
       ]
     }

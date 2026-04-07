@@ -17,8 +17,8 @@
       "managing_partner": {
         "name": "Gregory Wilson",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "gwilson@krezflores.com",
+        "phone": "212.266.0400",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -32,9 +32,9 @@
       "tech_contact": {
         "name": "Curtis Jackson",
         "title": "Office Manager",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "cjackson@krezflores.com",
+        "phone": "212.266.0400",
+        "linkedin_url": "https://www.linkedin.com/in/curtis-flowers-159a3516"
       },
       "ai_contact": {
         "name": null,
@@ -50,7 +50,7 @@
           "title": "Of Counsel",
           "email": "eflores@krezflores.com",
           "phone": "(212) 266-0400",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/edward-a-flores-94571617"
         },
         {
           "name": "Karla R. Alston",

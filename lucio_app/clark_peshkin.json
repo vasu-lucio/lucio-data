@@ -26,14 +26,14 @@
         "title": "Managing Partner",
         "email": null,
         "phone": "585-695-5760",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kevin-clark-82b1a57"
       },
       "co_managing_partner": {
         "name": "Amber Peshkin",
         "title": "Managing Partner",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "3156795512",
+        "linkedin_url": "https://www.linkedin.com/in/amber-peshkin-esq-0b02411b8"
       },
       "founders": [],
       "tech_contact": {
@@ -63,15 +63,15 @@
           "name": "Lydia Rainey",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "3156795512",
           "linkedin_url": null
         },
         {
           "name": "Cynthia Carroll",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "3156795512",
+          "linkedin_url": "https://www.linkedin.com/in/cynthia-carroll-nolan-5a492311"
         }
       ]
     }

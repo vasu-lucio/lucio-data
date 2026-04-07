@@ -25,9 +25,9 @@
       "managing_partner": {
         "name": "Maxwell Bottini",
         "title": "Firm Managing Partner",
-        "email": null,
+        "email": "mbottini@coffeymodica.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/maxwellbottini1992/"
       },
       "co_managing_partner": {
         "name": null,
@@ -42,14 +42,14 @@
           "title": "Founding Partner",
           "email": "mcoffey@coffeymodica.com",
           "phone": "914-221-6502",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-coffey-0754ba7/"
         },
         {
           "name": "Robert Modica",
           "title": "Founding Partner",
           "email": "rmodica@coffeymodica.com",
           "phone": "212-827-4501",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-modica-a5164512/"
         }
       ],
       "tech_contact": {
@@ -71,30 +71,30 @@
         {
           "name": "Evan H. Echenthal",
           "title": "Managing Partner GA",
-          "email": null,
+          "email": "eechenthal@coffeymodica.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/evan-echenthal-302b461b/"
         },
         {
           "name": "Megan E. Bryson",
           "title": "Managing Partner CT",
-          "email": null,
+          "email": "mbryson@coffeymodica.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/megan-bryson-0727a7b/"
         },
         {
           "name": "Richard A. Jarolem",
           "title": "Managing Partner FL",
-          "email": null,
+          "email": "rjarolem@coffeymodica.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richard-jarolem-a26a4532/"
         },
         {
           "name": "Patricia Mooney",
           "title": "Managing Partner NY",
-          "email": null,
+          "email": "pmooney@coffeymodica.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patricia-mooney-899790306/"
         }
       ]
     },

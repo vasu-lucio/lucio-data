@@ -49,9 +49,9 @@
         {
           "name": "Robin Cohen",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rcohen@cohenziffer.com",
+          "phone": "2125841801",
+          "linkedin_url": "https://www.linkedin.com/in/robin-cohen-b566b353/"
         },
         {
           "name": "Adam Ziffer",
@@ -70,12 +70,13 @@
         {
           "name": "Keith McKenna",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kmckenna@cohenziffer.com",
+          "phone": "2125841830",
+          "linkedin_url": "https://www.linkedin.com/in/keith-mckenna-174685161/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cohenziffer"
   },
   "email": {}
 }

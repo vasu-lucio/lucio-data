@@ -65,18 +65,19 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://fr.linkedin.com/in/ang\u00e9line-duffour-a3305110"
         },
         {
           "name": "Franck Le Mentec",
           "title": "Tax Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://fr.linkedin.com/in/franck-le-mentec-06735b120"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/cohen-&-gresser-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/cohen-&-gresser-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

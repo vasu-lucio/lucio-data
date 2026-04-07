@@ -100,7 +100,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://in.linkedin.com/company/renaissane-technologies",
+    "linkedin_size": "201-500"
   },
   "email": {}
 }

@@ -76,7 +76,9 @@
           "linkedin_url": "https://www.pierrolaw.com/attorneys/peter-j-strauss/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/pierro-law-group-llc",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Aaron",

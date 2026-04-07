@@ -53,14 +53,14 @@
         {
           "name": "Peter DeLuca",
           "title": "Founder",
-          "email": null,
+          "email": "pdeluca@carterdeluca.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/pedeluca"
         },
         {
           "name": "Raymond E. Farrell",
           "title": "Founder",
-          "email": null,
+          "email": "rfarrell@carterdeluca.com",
           "phone": null,
           "linkedin_url": null
         }
@@ -84,23 +84,23 @@
         {
           "name": "Pina M. Campagna",
           "title": "Partner",
-          "email": null,
+          "email": "pcampagna@carterdeluca.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Edward Meagher",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "emeagher@carterdeluca.com",
+          "phone": "6315015700",
           "linkedin_url": null
         },
         {
           "name": "Christopher Trainor",
           "title": "Partner",
-          "email": null,
+          "email": "ctrainor@carterdeluca.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopher-trainor-200a8325"
         }
       ]
     },

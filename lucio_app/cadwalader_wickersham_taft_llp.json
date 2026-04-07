@@ -18,7 +18,7 @@
       "managing_partner": {
         "name": "Patrick T. Quinn",
         "title": "Managing Partner",
-        "email": null,
+        "email": "cwtinfo@cwt.com",
         "phone": null,
         "linkedin_url": null
       },
@@ -46,7 +46,8 @@
         "ai_notes": null
       },
       "additional_contacts": []
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cadwalader-wickersham-&-taft-llp"
   },
   "email": {}
 }

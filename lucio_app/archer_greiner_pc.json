@@ -35,7 +35,7 @@
         "title": "Chief Information Officer",
         "email": "cehredt@archerlaw.com",
         "phone": "856.354.3062",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/craig-ehredt-50a7484"
       },
       "ai_contact": {
         "name": null,
@@ -50,7 +50,7 @@
           "name": "Robert Auritt",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "215.246.3192",
           "linkedin_url": null
         },
         {
@@ -58,7 +58,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jason-sena-1832192b"
         },
         {
           "name": "Elizabeth Leo",
@@ -75,7 +75,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/archer-&-greiner-p-c-",
+    "linkedin_size": "201-500"
   },
   "email": {
     "to_name": "Craig",

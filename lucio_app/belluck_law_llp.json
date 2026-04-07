@@ -21,7 +21,7 @@
         "name": "Joseph W. Belluck",
         "title": "Founding Partner",
         "email": null,
-        "phone": null,
+        "phone": "(212) 681-1575",
         "linkedin_url": "https://www.linkedin.com/in/joseph-belluck-9b4b4710"
       },
       "co_managing_partner": {
@@ -36,8 +36,8 @@
         "name": "Francine E. Lahm",
         "title": "Executive Director",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "(212) 681-1575",
+        "linkedin_url": "https://www.linkedin.com/in/francinelahm"
       },
       "ai_contact": {
         "name": null,
@@ -52,19 +52,20 @@
           "name": "Seth A. Dymond",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(212) 681-1575",
+          "linkedin_url": "https://www.linkedin.com/in/seth-dymond-b388174/"
         },
         {
           "name": "Jason Farco",
           "title": "IT Manager",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(212) 681-1575",
+          "linkedin_url": "https://www.linkedin.com/in/jason-farco"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/bellucklaw"
+    "linkedin_company_url": "https://www.linkedin.com/company/bellucklaw",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Francine",

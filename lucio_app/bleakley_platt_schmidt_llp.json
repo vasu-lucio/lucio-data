@@ -29,16 +29,16 @@
       "managing_partner": {
         "name": "Robert Braumuller",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "rbraumuller@bpslaw.com",
+        "phone": "9149492700",
+        "linkedin_url": "https://www.linkedin.com/in/robert-braumuller-64b119a/"
       },
       "co_managing_partner": {
         "name": "Susan E. Galv\u00e3o",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "sgalvao@bpslaw.com",
+        "phone": "9149492700",
+        "linkedin_url": "https://www.linkedin.com/in/susan-galvao-5645407/"
       },
       "founders": [],
       "tech_contact": {
@@ -61,25 +61,27 @@
           "name": "William P. Harrington",
           "title": "Chairman, Executive Committee",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "9149492700",
+          "linkedin_url": "https://www.linkedin.com/in/bill-harrington-2715ba29"
         },
         {
           "name": "Peter N. Bassano",
           "title": "Senior Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pbassano@bpslaw.com",
+          "phone": "9149492700",
+          "linkedin_url": "https://www.linkedin.com/in/peter-bassano-25794aa/"
         },
         {
           "name": "Jonathan A. Murphy",
           "title": "Executive Committee",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jamurphy@bpslaw.com",
+          "phone": "9149492700",
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-murphy-0a26911/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bleakley-platt-&-schmidt-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

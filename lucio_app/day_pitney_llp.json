@@ -27,7 +27,7 @@
         "title": "Managing Partner",
         "email": "gahayes@daypitney.com",
         "phone": "(203) 977-7365",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gregory-hayes-14511614"
       },
       "co_managing_partner": {
         "name": null,
@@ -58,31 +58,32 @@
           "title": "Partner",
           "email": "eaalquist@daypitney.com",
           "phone": "(860) 275-0137",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/elizabeth-alquist-65917513"
         },
         {
           "name": "Michael P. Byrne",
           "title": "Partner",
           "email": "mpbyrne@daypitney.com",
           "phone": "(203) 977-7349",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-byrne-ab93984"
         },
         {
           "name": "Namita Tripathi Shah",
           "title": "Partner",
           "email": "ntshah@daypitney.com",
           "phone": "(860) 275-0132",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dr-nazia-shah-1b612b93"
         },
         {
           "name": "Kritika Bharadwaj",
           "title": "Technology Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kritikabharadwaj"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/day-pitney-llp/"
   },
   "email": {
     "to_name": "Gregory",

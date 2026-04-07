@@ -29,7 +29,7 @@
         "name": "Alex Nocerino",
         "title": "Managing Partner",
         "email": null,
-        "phone": null,
+        "phone": "855-692-4878",
         "linkedin_url": null
       },
       "founders": [],
@@ -53,32 +53,33 @@
           "name": "Todd Arbesfeld",
           "title": "Associate Attorney",
           "email": null,
-          "phone": null,
+          "phone": "855-692-4878",
           "linkedin_url": null
         },
         {
           "name": "Pavlo Pavlatos",
           "title": "Associate Attorney",
           "email": null,
-          "phone": null,
+          "phone": "855-692-4878",
           "linkedin_url": null
         },
         {
           "name": "Christine Duchatellier",
           "title": "Managing Attorney",
           "email": null,
-          "phone": null,
+          "phone": "855-692-4878",
           "linkedin_url": null
         },
         {
           "name": "Hassan Ahmed",
           "title": "Associate Attorney",
           "email": null,
-          "phone": null,
+          "phone": "855-692-4878",
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/chopranocerino"
   },
   "email": {
     "to_name": "Sameer",

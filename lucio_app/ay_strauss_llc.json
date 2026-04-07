@@ -40,7 +40,7 @@
         "title": "Executive Director of Business Operations",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sharon-swanson-a0022412"
       },
       "ai_contact": {
         "name": null,
@@ -56,7 +56,7 @@
           "title": "Operations Manager",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/audra-grosso-3109331a"
         },
         {
           "name": "Effie Langberg",
@@ -66,7 +66,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/a-y-strauss-llc",
+    "linkedin_size": "51-200"
   },
   "email": {
     "to_name": "Sharon",

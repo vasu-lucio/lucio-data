@@ -22,9 +22,9 @@
       "managing_partner": {
         "name": "Mohammad A. Saleem",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "msaleem@dnislaw.com",
+        "phone": "(718) 783-6819",
+        "linkedin_url": "https://www.linkedin.com/in/mohammad-a-saleem-6415694"
       },
       "co_managing_partner": {
         "name": null,
@@ -54,21 +54,21 @@
           "name": "Mustapha Ndanusa",
           "title": "Law Partner",
           "email": "mndanusa@dnislaw.com",
-          "phone": null,
+          "phone": "(718) 783-6819",
           "linkedin_url": null
         },
         {
           "name": "Tarik Davis",
           "title": "Law Partner",
           "email": "tdavis@dnislaw.com",
-          "phone": null,
+          "phone": "(718) 783-6819",
           "linkedin_url": null
         },
         {
           "name": "Muhammad Ikhlas",
           "title": "Law Partner",
-          "email": null,
-          "phone": null,
+          "email": "mikhlas@dnislaw.com",
+          "phone": "(718) 783-6819",
           "linkedin_url": null
         }
       ]

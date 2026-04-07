@@ -72,8 +72,8 @@
         {
           "name": "Michelle Miriam Younger",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "myounger@cardiedgarlaw.com",
+          "phone": "212-481-7770",
           "linkedin_url": null
         },
         {
@@ -84,7 +84,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/cardi-edgar-llp"
   },
   "email": {}
 }

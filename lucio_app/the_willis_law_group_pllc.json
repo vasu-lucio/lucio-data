@@ -80,7 +80,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/the-willis-law-group",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

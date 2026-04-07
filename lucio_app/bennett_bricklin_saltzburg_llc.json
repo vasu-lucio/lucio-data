@@ -47,7 +47,7 @@
         "title": "Human Resources Director",
         "email": "meyer@bbs-law.com",
         "phone": "215.561.4300",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/theresahornung"
       },
       "ai_contact": {
         "name": null,
@@ -63,19 +63,19 @@
           "title": "Member, Chairperson of the firm's Diversity Committee",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michele-e-turner-11468036"
         },
         {
           "name": "Nicholas Cummins",
           "title": "Member, Appellate Advocacy Practice Group Leader",
           "email": "cummins@bbs-law.com",
           "phone": "215-665-3328",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nicholas-cummins-191a805"
         },
         {
           "name": "Beth Carter",
           "title": "Member, Automobile Liability Practice Group Leader",
-          "email": null,
+          "email": "carter@bbs-law.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -84,7 +84,7 @@
           "title": "Member, Automobile Liability Practice Group Leader",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-moraglia-1634a126"
         },
         {
           "name": "Michael Saltzburg",
@@ -95,7 +95,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/bennett-bricklin-&-saltzburg-llc"
+    "linkedin_company_url": "https://www.linkedin.com/company/bennett-bricklin-&-saltzburg-llc",
+    "linkedin_size": "51-200"
   },
   "email": {
     "to_name": "Theresa",

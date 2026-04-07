@@ -58,14 +58,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/friedrich-laura-3a54795"
         },
         {
           "name": "Peter Ingerman",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/peter-ingerman-2b419322"
         },
         {
           "name": "Rob Colby",
@@ -79,10 +79,11 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-baecher-6718898"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/chadbourne-&-parke-llp"
   },
   "email": {}
 }

@@ -32,9 +32,9 @@
       "tech_contact": {
         "name": "Nielah Dotson",
         "title": "Firm Manager",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "ndotson@cf-llp.com",
+        "phone": "+\u00a0646 844 2466",
+        "linkedin_url": "https://www.linkedin.com/in/peaconsultants"
       },
       "ai_contact": {
         "name": null,
@@ -48,23 +48,23 @@
         {
           "name": "Jason Cyrulnik",
           "title": "Partner and Chairman",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jcyrulnik@cf-llp.com",
+          "phone": "+\u00a0646 844 2466",
+          "linkedin_url": "https://www.linkedin.com/in/jason-cyrulnik-6b06613/"
         },
         {
           "name": "Paul Fattaruso",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pfattaruso@cf-llp.com",
+          "phone": "+\u00a0646 844 2466",
+          "linkedin_url": "https://www.linkedin.com/in/paul-fattaruso-166012b/"
         },
         {
           "name": "Matthew Henken",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mhenken@cf-llp.com",
+          "phone": "+\u00a0646 844 2466",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-henken-03794086/"
         },
         {
           "name": "Michael M. Pomerantz",
@@ -76,9 +76,9 @@
         {
           "name": "Steven Magnusson",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "smagnusson@cf-llp.com",
+          "phone": "+\u00a0646 844 2466",
+          "linkedin_url": "https://www.linkedin.com/in/stevenmagnusson/"
         }
       ]
     },

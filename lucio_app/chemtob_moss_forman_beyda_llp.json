@@ -51,9 +51,9 @@
         {
           "name": "Nancy Chemtob",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "nchemtob@cmfb.com",
+          "phone": "212.317.1717",
+          "linkedin_url": "https://www.linkedin.com/in/nancychemtob"
         },
         {
           "name": "Susan M. Moss",
@@ -65,23 +65,23 @@
         {
           "name": "Joshua Forman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "jforman@cmfb.com",
+          "phone": "212.317.1717",
           "linkedin_url": null
         },
         {
           "name": "Michael Beyda",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mbeyda@cmfb.com",
+          "phone": "212.317.1717",
+          "linkedin_url": "https://www.linkedin.com/in/nancychemtob"
         },
         {
           "name": "Mudita Chawla",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mchawla@cmfb.com",
+          "phone": "212.317.1717",
+          "linkedin_url": "https://www.linkedin.com/in/mudita-chawla-18bb479"
         }
       ]
     },

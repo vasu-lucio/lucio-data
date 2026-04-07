@@ -27,9 +27,9 @@
       "tech_contact": {
         "name": "Mark Hooley",
         "title": "COO",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "Mark.Hooley@CohnReznick.com",
+        "phone": "858-300-3420",
+        "linkedin_url": "https://www.linkedin.com/in/mark-hooley-cpa-54621710/"
       },
       "ai_contact": {
         "name": null,
@@ -45,21 +45,21 @@
           "title": "Chief Knowledge Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nasser-ahmad-1130"
         },
         {
           "name": "Leonard E. Korn",
           "title": "CFO",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "leonard.korn@cohnreznick.com",
+          "phone": "973-228-3500",
+          "linkedin_url": "https://www.linkedin.com/in/len-korn-9425496/"
         },
         {
           "name": "Gary Levy",
           "title": "Chief Strategy And Growth Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "Gary.Levy@CohnReznick.com",
+          "phone": "646-254-7403",
+          "linkedin_url": "https://www.linkedin.com/in/garylevycpa/"
         }
       ]
     },

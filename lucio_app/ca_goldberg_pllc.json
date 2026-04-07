@@ -24,15 +24,15 @@
         "name": "Carrie A. Goldberg",
         "title": "Founding Attorney",
         "email": null,
-        "phone": null,
+        "phone": "(646) 666-8908",
         "linkedin_url": "https://www.linkedin.com/in/carrie-goldberg-04511a6"
       },
       "co_managing_partner": {
         "name": "Naomi Leeds",
         "title": "Partner",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "(646) 666-8908",
+        "linkedin_url": "https://uk.linkedin.com/in/naomi-leeds-381a685a"
       },
       "founders": [],
       "tech_contact": {
@@ -62,14 +62,14 @@
           "name": "Roxanne Rimonte",
           "title": "Senior Associate",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(646) 666-8908",
+          "linkedin_url": "https://www.linkedin.com/in/roxanne-rimonte"
         },
         {
           "name": "Katie McKay",
           "title": "Associate",
           "email": null,
-          "phone": null,
+          "phone": "(646) 666-8908",
           "linkedin_url": null
         }
       ]

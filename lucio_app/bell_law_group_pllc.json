@@ -48,31 +48,32 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nathalie-bell-4a2838a"
         },
         {
           "name": "Susan Tylar",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/susan-tylar-735a71265"
         },
         {
           "name": "Andrea Batres",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andrea-batres-esq-97913225"
         },
         {
           "name": "Paul Bartels",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/paul-bartels-2a511b11"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bell-law-group-pllc"
   },
   "email": {}
 }

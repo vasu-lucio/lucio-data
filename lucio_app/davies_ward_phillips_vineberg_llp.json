@@ -35,13 +35,13 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://ca.linkedin.com/in/sarbjitbasra"
       },
       "co_managing_partner": {
         "name": "Philippe Johnson",
         "title": "Co-Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "pjohnson@dwpv.com",
+        "phone": "514.841.6501",
         "linkedin_url": null
       },
       "founders": [],
@@ -64,8 +64,8 @@
         {
           "name": "Anthony Bossio",
           "title": "Chief Financial Officer",
-          "email": null,
-          "phone": null,
+          "email": "abossio@dwpv.com",
+          "phone": "416.367.6991",
           "linkedin_url": null
         },
         {
@@ -73,7 +73,7 @@
           "title": "Chief Business Development and Marketing Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/suzanne-dennis-a3354aa2"
         },
         {
           "name": "Peter A Glicklich",
@@ -84,7 +84,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://ca.linkedin.com/company/davies-ward-phillips-&-vineberg-llp"
+    "linkedin_company_url": "https://ca.linkedin.com/company/davies-ward-phillips-&-vineberg-llp",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

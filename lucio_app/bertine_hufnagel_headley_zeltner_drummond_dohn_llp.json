@@ -69,23 +69,23 @@
         {
           "name": "James P. Reduto",
           "title": "Partner",
-          "email": null,
+          "email": "jreduto@bertinelaw.com",
           "phone": "914-472-7700",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-reduto-247a49a9"
         },
         {
           "name": "Kelly M. Welch",
           "title": "Partner",
-          "email": null,
+          "email": "kwelch@bertinelaw.com",
           "phone": "914-472-7700",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kelly-welch-05031ba"
         },
         {
           "name": "Margo R. Sterling",
           "title": "Associate",
-          "email": null,
+          "email": "msterling@bertinelaw.com",
           "phone": "914-472-7700",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/margo-sterling-441869a"
         },
         {
           "name": "Peter P. Zeltner",
@@ -99,10 +99,12 @@
           "title": "Of Counsel",
           "email": null,
           "phone": "914-472-7700",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/frank-headley-25932b43"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bertine-hufnagel",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

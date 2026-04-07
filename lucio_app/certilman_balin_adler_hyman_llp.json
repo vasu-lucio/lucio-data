@@ -35,14 +35,14 @@
         "title": "Managing Partner And Co-chair Of The Real Estate Group",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/howard-m-stein"
       },
       "co_managing_partner": {
         "name": "Brendan Deriggi",
         "title": "Co Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/brendanderiggi"
       },
       "founders": [],
       "tech_contact": {
@@ -76,7 +76,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/certilman-balin",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

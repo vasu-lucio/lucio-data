@@ -71,14 +71,14 @@
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michele-mcguinness-157a422a"
         },
         {
           "name": "Timothy Collins",
           "title": "Member",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/timothy-collins-5616b717"
         },
         {
           "name": "Stephen Dobkin",
@@ -95,7 +95,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/collins-dobkin-&-miller-llp"
   },
   "email": {}
 }

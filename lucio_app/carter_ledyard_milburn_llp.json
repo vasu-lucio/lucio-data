@@ -38,9 +38,9 @@
       "managing_partner": {
         "name": "Jonathan Trafimow",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "trafimow@clm.com",
+        "phone": "2122388651",
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-trafimow-47549313"
       },
       "co_managing_partner": {
         "name": null,
@@ -71,38 +71,39 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/don-hawthorne-64bb1a8"
         },
         {
           "name": "Jeffrey Boxer",
           "title": "Co-Chair of the Litigation practice",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffreyboxer"
         },
         {
           "name": "Madelyn K White",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/madelyn-white-10723b32"
         },
         {
           "name": "Andris Vizbaras",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andris-vizbaras-0b1239131"
         },
         {
           "name": "Melinda Fellner",
           "title": "Chair, Tax Department",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "fellner@clm.com",
+          "phone": "2122388750",
+          "linkedin_url": "https://www.linkedin.com/in/melinda-fellner-13a8505"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/carter-ledyard-&-milburn-llp"
   },
   "email": {}
 }

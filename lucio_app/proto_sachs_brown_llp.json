@@ -87,7 +87,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/proto-sachs-brown-llp",
+    "linkedin_size": "1-10"
   },
   "email": {
     "to_name": "Andrew",

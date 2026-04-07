@@ -38,7 +38,7 @@
         "title": "Managing Partner",
         "email": "ken@kirschenbaumesq.com",
         "phone": "516-747-6700",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kenneth-kirschenbaum-862b977"
       },
       "founders": [],
       "tech_contact": {
@@ -62,7 +62,7 @@
           "title": "Partner",
           "email": null,
           "phone": "516-747-6700",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/maureen-beil-657a799b"
         },
         {
           "name": "Stacy Spector",
@@ -72,7 +72,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kirschenbaum-&-kirschenbaum-p.c."
   },
   "email": {
     "to_name": "Jennifer",

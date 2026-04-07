@@ -54,7 +54,7 @@
         {
           "name": "Michael J. Byrne",
           "title": "Partner",
-          "email": null,
+          "email": "mjb@bonlaw.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -68,21 +68,21 @@
         {
           "name": "Elaine C. Gangel",
           "title": "Partner",
-          "email": null,
+          "email": "ecg@bonlaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Albert W. McKee",
           "title": "Partner",
-          "email": null,
+          "email": "awm@bonlaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Mark R. McCauley",
           "title": null,
-          "email": null,
+          "email": "mrm@bonlaw.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -91,7 +91,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/paulnovakesq"
         }
       ]
     },

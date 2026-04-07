@@ -66,21 +66,21 @@
           "title": "Partner",
           "email": "mresnikoff@bronsterllp.com",
           "phone": "347-246-4644",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-resnikoff-32b28236"
         },
         {
           "name": "Don Abraham",
           "title": "Partner",
           "email": "dabraham@bronsterllp.com",
           "phone": "347-246-4704",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/don-abraham-0861b349"
         },
         {
           "name": "Andrew Kazin",
           "title": "Partner",
           "email": "kazin@bronsterllp.com",
           "phone": "347-246-4769",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andrew-kazin-75963150"
         },
         {
           "name": "Marc Scollar",
@@ -94,11 +94,12 @@
           "title": "Partner",
           "email": "mzwiren@bronsterllp.com",
           "phone": "347.246.4729",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-zwiren-01b28291"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/bronster-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/bronster-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

@@ -19,9 +19,9 @@
       "managing_partner": {
         "name": "Brian F. Attea",
         "title": "Managing Partner",
-        "email": null,
+        "email": "battea@attealaw.com",
         "phone": "716-648-7000, ext. 205",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/brian-attea-8a48b2b"
       },
       "co_managing_partner": {
         "name": null,
@@ -50,35 +50,35 @@
         {
           "name": "Richard J. Attea",
           "title": "Senior Partner",
-          "email": null,
+          "email": "rattea@attealaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Mary Kay LaForce",
           "title": "Partner",
-          "email": null,
+          "email": "mlaforce@attealaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mary-kay-laforce-887b9b29a"
         },
         {
           "name": "Ryan F. McCann",
           "title": "Esq.",
-          "email": null,
+          "email": "rmccann@attealaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ryan-mccann-4953761a"
         },
         {
           "name": "Kevin R. Rautenstrauch",
           "title": "Esq.",
-          "email": null,
+          "email": "krautenstrauch@attealaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Kathleen G. Moriarty",
           "title": "Esq.",
-          "email": null,
+          "email": "kmoriarty@attealaw.com",
           "phone": null,
           "linkedin_url": null
         }

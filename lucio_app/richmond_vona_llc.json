@@ -62,7 +62,9 @@
           "linkedin_url": "https://theorg.com/org/richmond-vona-llc"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/richmond-vona-llc",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Dawn",

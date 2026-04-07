@@ -36,9 +36,9 @@
       "tech_contact": {
         "name": "Milissa Acquard",
         "title": "Chief Administrative Officer (CAO)",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "macquard@chwattys.com",
+        "phone": "716-800-8727",
+        "linkedin_url": "https://www.linkedin.com/in/milissa-acquard-585b187/"
       },
       "ai_contact": {
         "name": null,
@@ -61,25 +61,26 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jason-yots-26903117b"
         },
         {
           "name": "Eamon Kelleher",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ekelleher@chwattys.com",
+          "phone": "518-807-0209",
+          "linkedin_url": "https://www.linkedin.com/in/eamon-kelleher-62653576/"
         },
         {
           "name": "Lauren Gannon",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lgannon@chwattys.com",
+          "phone": "716-800-8721",
+          "linkedin_url": "https://www.linkedin.com/in/lauren-gannon-7763a933/"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/cannon-heyman-&-weiss-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/cannon-heyman-&-weiss-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

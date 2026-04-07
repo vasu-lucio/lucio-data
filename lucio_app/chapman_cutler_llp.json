@@ -44,7 +44,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/debhertling"
         }
       ],
       "tech_contact": {
@@ -68,10 +68,12 @@
           "title": "Member of the National Public Finance Department",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/william-libit-b8b7969"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/chapman-and-cutler-llp",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

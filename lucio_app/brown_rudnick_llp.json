@@ -35,7 +35,7 @@
       "tech_contact": {
         "name": "Jennifer Korff",
         "title": "Chief Operating Officer",
-        "email": null,
+        "email": "jkorff@brownrudnick.com",
         "phone": null,
         "linkedin_url": null
       },
@@ -51,12 +51,13 @@
         {
           "name": "Vince Guglielmotti",
           "title": "CEO and chairman",
-          "email": null,
+          "email": "vguglielmotti@brownrudnick.com",
           "phone": null,
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/brown-rudnick"
   },
   "email": {}
 }

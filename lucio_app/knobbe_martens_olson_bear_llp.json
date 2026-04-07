@@ -59,28 +59,28 @@
           "title": "Partner",
           "email": "brian.barnes@knobbe.com",
           "phone": "949-760-0404",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-barnes-1a84aab8"
         },
         {
           "name": "Ben Shiroma",
           "title": "Partner",
-          "email": null,
+          "email": "ben.shiroma@knobbe.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ben-shiroma-445150a5"
         },
         {
           "name": "Makoto Tsunozaki",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "makoto.tsunozaki@knobbe.com",
+          "phone": "415-954-4114",
+          "linkedin_url": "https://www.linkedin.com/in/makoto-tsunozaki-07886934"
         },
         {
           "name": "Adeel Akhtar",
           "title": "Partner",
           "email": "adeel.akhtar@knobbe.com",
           "phone": "415-954-4114",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adeel-akhtar-797840"
         }
       ]
     }

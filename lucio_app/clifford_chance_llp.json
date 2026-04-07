@@ -29,7 +29,7 @@
         "title": "Global Managing Partner",
         "email": "Email Charles",
         "phone": "+3902806341",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/charles-adams-958799250"
       },
       "co_managing_partner": {
         "name": null,
@@ -74,10 +74,11 @@
           "title": "Global Senior Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://uk.linkedin.com/in/adrian-cartwright-31854012"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://cn.linkedin.com/company/clifford-chance-amsterdam"
   },
   "email": {
     "to_name": "Charles Adams",

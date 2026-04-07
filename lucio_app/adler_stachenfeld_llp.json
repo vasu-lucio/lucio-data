@@ -28,9 +28,9 @@
       "managing_partner": {
         "name": "Terri L. Adler",
         "title": "Managing Partner",
-        "email": null,
+        "email": "tadler@adstach.com",
         "phone": "(212) 692-5533",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/terri-adler-ab94a29/"
       },
       "co_managing_partner": {
         "name": null,
@@ -59,30 +59,30 @@
         {
           "name": "Bruce Stachenfeld",
           "title": "Chairman",
-          "email": null,
+          "email": "bstachenfeld@adstach.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/bruce-stachenfeld-27655a14"
         },
         {
           "name": "Danielle Ash",
           "title": "Partner",
-          "email": null,
+          "email": "dash@adstach.com",
           "phone": "(212) 692-5531",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniellealexandraash"
         },
         {
           "name": "YuhTyng Patka",
           "title": "Partner",
-          "email": null,
+          "email": "ypatka@adstach.com",
           "phone": "(212) 692-5532",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/yuhtyng-patka-7444009/"
         },
         {
           "name": "Eric G. Menkes",
           "title": "Partner",
-          "email": null,
+          "email": "emenkes@adstach.com",
           "phone": "(212) 692-5522",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/eric-menkes"
         }
       ]
     },

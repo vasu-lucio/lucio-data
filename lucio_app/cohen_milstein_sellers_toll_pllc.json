@@ -28,7 +28,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/john-dominguez-bb55b333"
       },
       "co_managing_partner": {
         "name": null,
@@ -43,7 +43,7 @@
         "title": "Director Of Accounting",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/rushelledacres"
       },
       "ai_contact": {
         "name": null,
@@ -66,21 +66,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/karina-puttieva-98a2642b"
         },
         {
           "name": "Raymond Sarola",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/raymond-sarola-02b96578"
         },
         {
           "name": "Brian Corman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bcorman@cohenmilstein.com",
+          "phone": "202.408.4600",
+          "linkedin_url": "https://www.linkedin.com/in/brian-corman-113a19138/"
         }
       ]
     },

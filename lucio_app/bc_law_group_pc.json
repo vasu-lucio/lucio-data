@@ -19,9 +19,9 @@
       "managing_partner": {
         "name": "Brett E. Cooper",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "bcooper@bclgpc.com",
+        "phone": "212-951-0100",
+        "linkedin_url": "https://www.linkedin.com/in/brett-cooper-087594211"
       },
       "co_managing_partner": {
         "name": null,
@@ -50,22 +50,22 @@
         {
           "name": "Jonathan Yim",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jyim@bclgpc.com",
+          "phone": "212-951-0100",
+          "linkedin_url": "https://www.linkedin.com/in/yim-gong-232b86"
         },
         {
           "name": "Scott Kolassa",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "skolassa@bclgpc.com",
+          "phone": "212-951-0100",
+          "linkedin_url": "https://www.linkedin.com/in/scottkolassa"
         },
         {
           "name": "Mike McManus",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "mmcmanus@bclgpc.com",
+          "phone": "212-951-0100",
           "linkedin_url": null
         },
         {
@@ -73,7 +73,7 @@
           "title": "Partner",
           "email": "dhollander@bclgpc.com",
           "phone": "212.951.0100",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/drewkatz1"
         }
       ]
     },

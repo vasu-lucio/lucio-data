@@ -64,7 +64,7 @@
           "title": "Esq.",
           "email": null,
           "phone": "833-200-2000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/charles-falgiatano-35221912"
         },
         {
           "name": "Lisa M. Robinson",
@@ -78,7 +78,7 @@
           "title": "Esq.",
           "email": null,
           "phone": "833-200-2000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/annabadalian"
         },
         {
           "name": "James L. Donigan",
@@ -88,7 +88,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://in.linkedin.com/company/defrancisco-&-falgiatano-law-firm"
   },
   "email": {}
 }

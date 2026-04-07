@@ -44,7 +44,7 @@
           "title": "Founding Partner",
           "email": null,
           "phone": "716-852-5533",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lensa-abdukadir-44809a225"
         }
       ],
       "tech_contact": {
@@ -75,7 +75,7 @@
           "title": "Partner",
           "email": null,
           "phone": "716-852-5533",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/suzanne-pieszak-13ab60145"
         },
         {
           "name": "Vincent E. Doyle III",
@@ -93,7 +93,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/connors-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/connors-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

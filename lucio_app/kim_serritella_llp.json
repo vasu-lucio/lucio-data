@@ -41,14 +41,14 @@
           "title": "Partner",
           "email": "hkim@kandslaw.com",
           "phone": "(212) 986-1662",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/hee-jean-kim-1a29583b"
         },
         {
           "name": "James R. Serritella",
           "title": "Partner",
           "email": "jserritella@kandslaw.com",
           "phone": "(212) 960-8345",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-serritella-53810055"
         }
       ],
       "tech_contact": {
@@ -67,7 +67,8 @@
         "ai_notes": "The firm's attorneys are fluent in emerging technologies, from blockchain to AI."
       },
       "additional_contacts": []
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kim-serritella-llp"
   },
   "email": {}
 }

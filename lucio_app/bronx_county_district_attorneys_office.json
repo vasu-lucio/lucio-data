@@ -34,7 +34,7 @@
         "title": "Chief Technology Officer (CTO)",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sonygvarughese"
       },
       "ai_contact": {
         "name": null,
@@ -53,7 +53,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bronx-county-district-attorney-office"
   },
   "email": {
     "to_name": "Sony",

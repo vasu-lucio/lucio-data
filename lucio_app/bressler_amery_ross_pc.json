@@ -32,9 +32,9 @@
       "co_managing_partner": {
         "name": "Joshua D. Jones",
         "title": "Management Committee Member",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "jdjones@bressler.com",
+        "phone": "205.820.8227",
+        "linkedin_url": "https://www.linkedin.com/in/joshuadjones/"
       },
       "founders": [],
       "tech_contact": {
@@ -58,7 +58,7 @@
           "title": "Management Committee Member",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/diana-c-manning-543b4510"
         },
         {
           "name": "Daniel Korb, Jr.",

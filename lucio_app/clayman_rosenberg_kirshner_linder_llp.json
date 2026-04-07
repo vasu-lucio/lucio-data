@@ -22,7 +22,7 @@
         "title": "Managing Partner",
         "email": "rotko@clayro.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/thomas-rotko-a693175"
       },
       "co_managing_partner": {
         "name": null,
@@ -37,7 +37,7 @@
           "title": null,
           "email": "clayman@clayro.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/eliel-talo-54a63019"
         }
       ],
       "tech_contact": {
@@ -61,14 +61,14 @@
           "title": "Partner",
           "email": "kirshner@clayro.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/isabelle-kirshner-3368a34"
         },
         {
           "name": "Brian D. Linder",
           "title": "Partner",
           "email": "linder@clayro.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-linder-4b617910"
         },
         {
           "name": "Seth L. Rosenberg",
@@ -82,7 +82,7 @@
           "title": "Partner",
           "email": "blassberger@clayro.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/effie-blassberger-49378b7"
         }
       ]
     },

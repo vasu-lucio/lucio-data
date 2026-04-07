@@ -35,7 +35,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/timothy-bauman-58308a11"
       },
       "co_managing_partner": {
         "name": null,
@@ -80,14 +80,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kenneth-wagner-7a134114"
         },
         {
           "name": "Jules L Smith",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jules-l-smith-3590b114"
         },
         {
           "name": "Daniel Brice",
@@ -99,9 +99,9 @@
         {
           "name": "Nolan Lafler",
           "title": "Partner",
-          "email": null,
+          "email": "njlafler@bklawyers.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nolan-lafler-a8574327"
         },
         {
           "name": "Rebecca Josefiak",
@@ -115,7 +115,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sara-van-dyke-7613b65"
         },
         {
           "name": "Nathaniel Lambright",

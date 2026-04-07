@@ -40,9 +40,9 @@
         {
           "name": "Lauren Tabaksblat",
           "title": "Founding Partner",
-          "email": null,
+          "email": "ltabaksblat@brithem.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lauren-tabaksblat/"
         }
       ],
       "tech_contact": {
@@ -62,7 +62,8 @@
       },
       "additional_contacts": []
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/brithem"
+    "linkedin_company_url": "https://www.linkedin.com/company/brithem",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

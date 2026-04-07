@@ -68,14 +68,14 @@
           "title": "Partner",
           "email": "lshaw@nyenvlaw.com",
           "phone": "585.546.8430",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/linda-shaw-0877142"
         },
         {
           "name": "Dwight E. Kanyuck",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dwight-kanyuck-02517847"
         },
         {
           "name": "Amy K. Kendall",
@@ -89,7 +89,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joseph-tantillo-"
         },
         {
           "name": "Eamon Danieu",
@@ -100,7 +100,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/knaufshawllp"
+    "linkedin_company_url": "https://www.linkedin.com/company/knaufshawllp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

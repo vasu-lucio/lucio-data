@@ -72,7 +72,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/rankin-savidge",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Carolyn",

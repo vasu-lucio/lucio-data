@@ -24,7 +24,7 @@
         "title": "Managing Partner",
         "email": "dan@lawahl.com",
         "phone": "212-582-6500",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/arshack"
       },
       "co_managing_partner": {
         "name": null,
@@ -54,8 +54,8 @@
           "name": "Lynn Hajek",
           "title": "Partner",
           "email": "lynn@lawahl.com",
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+12125826500",
+          "linkedin_url": "https://www.linkedin.com/in/lynn-hajek-a59408a"
         },
         {
           "name": "Michael B. Lehrman",
@@ -67,30 +67,30 @@
         {
           "name": "Matthew Reisman",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "matthew@lawahl.com",
+          "phone": "+12125826500",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-reisman-b6ab3097"
         },
         {
           "name": "Thomas C. Viles",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "tom@lawahl.com",
+          "phone": "+12125826500",
+          "linkedin_url": "https://www.linkedin.com/in/tom-viles-a3998b9"
         },
         {
           "name": "Jesse Gordon",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
+          "email": "jesse@lawahl.com",
+          "phone": "+12125826500",
           "linkedin_url": null
         },
         {
           "name": "Nancy Hollander",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dan@lawahl.com",
+          "phone": "+12125826500",
+          "linkedin_url": "https://www.linkedin.com/in/arshack"
         }
       ]
     }

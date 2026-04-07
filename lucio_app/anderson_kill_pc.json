@@ -26,7 +26,7 @@
         "title": "Firm Managing Shareholder",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/alexhardiman"
       },
       "co_managing_partner": {
         "name": null,
@@ -57,7 +57,7 @@
           "title": "Executive Committee",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dianasgliedmaninsurancelaw"
         },
         {
           "name": "William G. Passannante",
@@ -67,7 +67,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://il.linkedin.com/company/andersonkilllaw"
   },
   "email": {}
 }

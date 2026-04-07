@@ -41,14 +41,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-miller-7799b04"
         },
         {
           "name": "Seth R. Lesser",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/seth-lesser-330b68b"
         }
       ],
       "tech_contact": {
@@ -70,12 +70,13 @@
         {
           "name": "Jane M. Gill",
           "title": "Finance Manager",
-          "email": null,
+          "email": "jane.gill@klafterlesser.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jane-gill-4025851b"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/klafter-lesser-llp"
   },
   "email": {}
 }

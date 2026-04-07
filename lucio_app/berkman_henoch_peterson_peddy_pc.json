@@ -43,8 +43,8 @@
         {
           "name": "Steven J. Peddy",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "s.peddy@bhpp.com",
+          "phone": "516-780-0205",
           "linkedin_url": null
         },
         {
@@ -59,7 +59,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adam-kalb-94b7b039"
         }
       ],
       "tech_contact": {
@@ -81,22 +81,22 @@
         {
           "name": "Robert Carruba",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "r.carruba@bhpp.com",
+          "phone": "516-780-0257",
+          "linkedin_url": "https://www.linkedin.com/in/robert-carruba-716b0471"
         },
         {
           "name": "Pesia Kinraich",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "p.kinraich@bhpp.com",
+          "phone": "516-780-0352",
+          "linkedin_url": "https://www.linkedin.com/in/pesia-kinraich-51381a92"
         },
         {
           "name": "Joseph E. Macy",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "j.macy@bhpp.com",
+          "phone": "516-780-0258",
           "linkedin_url": null
         }
       ]

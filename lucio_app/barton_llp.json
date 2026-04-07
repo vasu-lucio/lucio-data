@@ -46,9 +46,9 @@
       "managing_partner": {
         "name": "Roger E. Barton",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "rbarton@bartonesq.com",
+        "phone": "212-687-6262",
+        "linkedin_url": "https://www.linkedin.com/in/rogerbarton/"
       },
       "co_managing_partner": {
         "name": null,
@@ -61,9 +61,9 @@
       "tech_contact": {
         "name": "James E. Heavey",
         "title": "Operations Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "jheavey@bartonesq.com",
+        "phone": "212-687-6262",
+        "linkedin_url": "https://www.linkedin.com/in/james-e-heavey-esq-997a7416"
       },
       "ai_contact": {
         "name": null,
@@ -77,8 +77,8 @@
         {
           "name": "Ken Rashbaum",
           "title": "Senior Counsel",
-          "email": null,
-          "phone": null,
+          "email": "krashbaum@bartonesq.com",
+          "phone": "212-687-6262",
           "linkedin_url": null
         },
         {
@@ -86,18 +86,19 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tarastelluto"
         },
         {
           "name": "Jeffrey Symons",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-symons-aa5424100"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/barton-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/barton-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

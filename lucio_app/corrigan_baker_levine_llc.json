@@ -45,22 +45,22 @@
           "name": "John Corrigan",
           "title": "Member",
           "email": null,
-          "phone": null,
+          "phone": "(914) 468-0190",
           "linkedin_url": null
         },
         {
           "name": "Gregg Baker",
           "title": "Member",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(914) 468-0190",
+          "linkedin_url": "https://www.linkedin.com/in/gregg-baker-a63b42102"
         },
         {
           "name": "Robert Levine",
           "title": "Member",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(914) 468-0190",
+          "linkedin_url": "https://www.linkedin.com/in/robertjosephlevine"
         }
       ],
       "tech_contact": {

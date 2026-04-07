@@ -87,7 +87,9 @@
           "linkedin_url": "https://www.zoominfo.com/pic/lester-schwab-katz--dwyer-llp/68879593"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/lester-schwab-katz-&-dwyer",
+    "linkedin_size": "51-200"
   },
   "email": {
     "to_name": "David",

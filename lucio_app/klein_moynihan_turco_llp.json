@@ -55,34 +55,35 @@
         {
           "name": "Jonathan E. Turco",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jturco@kleinmoynihan.com",
+          "phone": "2122460900",
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-eigen-98298429"
         },
         {
           "name": "Sean A. Moynihan",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
+          "email": "smoynihan@kleinmoynihan.com",
+          "phone": "2122460900",
           "linkedin_url": null
         },
         {
           "name": "Neil E. Asnen",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "nasnen@kleinmoynihan.com",
+          "phone": "2122460900",
+          "linkedin_url": "https://www.linkedin.com/in/neileisenberg"
         },
         {
           "name": "Dustin P. Mansoor",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dmansoor@kleinmoynihan.com",
+          "phone": "2122460900",
+          "linkedin_url": "https://www.linkedin.com/in/dustin-pazar-77a8b2150"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/klein-moynihan-turco-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/klein-moynihan-turco-llp",
+    "linkedin_size": "1-10"
   },
   "email": {
     "to_name": "David",

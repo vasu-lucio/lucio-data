@@ -36,16 +36,16 @@
         {
           "name": "Anna Aguilar",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "aaguilar@aguilarbentley.com",
+          "phone": "212-835-1521",
+          "linkedin_url": "https://www.linkedin.com/in/anna-aguilar-93a7b09"
         },
         {
           "name": "Lisa Bentley",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lbentley@aguilarbentley.com",
+          "phone": "212-835-1521",
+          "linkedin_url": "https://www.linkedin.com/in/lisa-bentley-61114a63"
         }
       ],
       "tech_contact": {
@@ -67,19 +67,21 @@
         {
           "name": "Lisa Bentley",
           "title": "Founding Partner",
-          "email": null,
+          "email": "lbentley@aguilarbentley.com",
           "phone": "212-835-1521",
           "linkedin_url": "https://www.linkedin.com/in/lisa-bentley-61114a63"
         },
         {
           "name": "Anna Aguilar",
           "title": "Founding Partner",
-          "email": null,
+          "email": "aaguilar@aguilarbentley.com",
           "phone": "212-835-1521",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/anna-aguilar-93a7b09"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/aguilar-bentley-llc",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

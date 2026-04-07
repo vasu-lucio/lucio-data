@@ -54,7 +54,7 @@
           "title": "Director of Information Technology",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/roblobue1"
         },
         {
           "name": "Sara Gribbon",
@@ -68,17 +68,18 @@
           "title": "Vice President for Administration",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mdeanbradley"
         },
         {
           "name": "Alia Winters",
           "title": "Vice President, Digital Strategy",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/aliawinters"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/community-service-society"
   },
   "email": {}
 }

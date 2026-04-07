@@ -54,27 +54,28 @@
         {
           "name": "Steven Daniel Levy",
           "title": "Partner",
-          "email": null,
+          "email": "slevy@callinansmith.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steven-daniel-levy-14637115"
         },
         {
           "name": "Jennifer B. Strong",
           "title": "Senior Counsel",
-          "email": null,
+          "email": "jstrong@callinansmith.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Matthew Patrick Smith",
           "title": "Partner",
-          "email": null,
+          "email": "mpsmith@callinansmith.com",
           "phone": null,
           "linkedin_url": null
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/callinan-smith-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/callinan-smith-llp",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Michael",

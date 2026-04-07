@@ -65,14 +65,14 @@
           "title": "Partner",
           "email": "jbaker@awadbaker.com",
           "phone": "(516) 716-4444",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-e-baker-phd"
         },
         {
           "name": "Veronica Sewnarine",
           "title": "Partner, Managing Medical Malpractice Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alexandria-awad"
         },
         {
           "name": "Alexandria Awad",
@@ -84,19 +84,20 @@
         {
           "name": "Christian Coppinger",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ccoppinger@awadbaker.com",
+          "phone": "(516) 716-4444",
+          "linkedin_url": "https://www.linkedin.com/in/donna-silverglad-5434919"
         },
         {
           "name": "Amina Ali",
           "title": "Associate Attorney",
-          "email": null,
-          "phone": null,
+          "email": "aali@awadbaker.com",
+          "phone": "(516) 716-4444",
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/awad-baker-law"
   },
   "email": {}
 }

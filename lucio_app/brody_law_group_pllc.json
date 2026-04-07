@@ -25,9 +25,9 @@
       "managing_partner": {
         "name": "Scott Brody",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "scott.brody@brodylg.com",
+        "phone": "212.233.2505",
+        "linkedin_url": "https://www.linkedin.com/in/scott-brody-23b77597"
       },
       "co_managing_partner": {
         "name": null,
@@ -56,29 +56,29 @@
         {
           "name": "Randee Arem",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "randee.arem@brodylg.com",
+          "phone": "212.233.2505",
+          "linkedin_url": "https://www.linkedin.com/in/randeearem"
         },
         {
           "name": "Magdalene Skountzos",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "magdalene.skountzos@brodylg.com",
+          "phone": "212.233.2505",
+          "linkedin_url": "https://www.linkedin.com/in/magdalene-skountzos-62a39987"
         },
         {
           "name": "Ben Gonson",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "benjamin.gonson@brodylg.com",
+          "phone": "212.233.2505",
+          "linkedin_url": "https://www.linkedin.com/in/ben-gonson-0a4b33116"
         },
         {
           "name": "Michael Burke",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "michael.burke@brodylg.com",
+          "phone": "212.233.2505",
           "linkedin_url": null
         }
       ]
