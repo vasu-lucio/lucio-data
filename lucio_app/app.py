@@ -235,15 +235,41 @@ def get_cc_contact(people: dict, primary: dict) -> dict:
     return {}
 
 import datetime as _dt
+import random as _random
+import hashlib as _hashlib
 
-def next_week_slots() -> tuple:
-    """Return (slot1_date, slot2_date) for next Mon and Wed, skipping holidays."""
+def next_week_slots(seed: str = "") -> tuple:
+    """
+    Return (slot1_date, time1, slot2_date, time2) for two different days next week.
+    Uses a seed (e.g. firm slug) so slots are consistent per firm but vary across firms.
+    Days: Mon–Fri only. Times vary: 9am, 10am, 11am, 2pm, 3pm, 4pm.
+    The two slots are always on different days and different times of day (one AM, one PM).
+    """
     today = _dt.date.today()
-    # Find next Monday
     days_until_monday = (7 - today.weekday()) % 7 or 7
     next_monday = today + _dt.timedelta(days=days_until_monday)
-    next_wednesday = next_monday + _dt.timedelta(days=2)
-    return next_monday, next_wednesday
+
+    # Seed randomness from firm slug so it's stable per firm
+    rng = _random.Random(_hashlib.md5(seed.encode()).hexdigest())
+
+    # Pick 2 different weekdays (0=Mon … 4=Fri)
+    day_offsets = rng.sample(range(5), 2)
+    day_offsets.sort()  # earlier slot first
+    date1 = next_monday + _dt.timedelta(days=day_offsets[0])
+    date2 = next_monday + _dt.timedelta(days=day_offsets[1])
+
+    # AM slot: 9, 10, or 11am — PM slot: 2, 3, or 4pm
+    am_times = [_dt.time(9, 0), _dt.time(10, 0), _dt.time(11, 0)]
+    pm_times = [_dt.time(14, 0), _dt.time(15, 0), _dt.time(16, 0)]
+    # Randomly assign AM/PM to the two slots
+    if rng.random() > 0.5:
+        time1 = rng.choice(am_times)
+        time2 = rng.choice(pm_times)
+    else:
+        time1 = rng.choice(pm_times)
+        time2 = rng.choice(am_times)
+
+    return date1, time1, date2, time2
 
 def auto_subject(firm_name: str) -> str:
     return f"{firm_name} / Lucio AI"
@@ -613,14 +639,14 @@ elif page == "🏢 Firm Browser":
                 e_cc    = st.text_input("CC (comma-separated emails)", value=_def_cc,                              key=f"ecc_{rec['_slug']}")
                 e_subj  = st.text_input("Subject",      value=em_live.get("subject","") or _def_subj,             key=f"es_{rec['_slug']}")
 
-                # Time slot helper — defaults to next Mon + Wed at 10am / 2pm
-                _slot1_def, _slot2_def = next_week_slots()
+                # Time slot helper — randomized per firm, stable across reloads
+                _slot1_def, _time1_def, _slot2_def, _time2_def = next_week_slots(rec["_slug"])
                 with st.expander("📅 Insert meeting slots"):
                     sc1, sc2 = st.columns(2)
                     slot1 = sc1.date_input("Slot 1", key=f"s1_{rec['_slug']}", value=_slot1_def)
-                    time1 = sc1.time_input("Time 1", key=f"t1_{rec['_slug']}", value=_dt.time(10, 0))
+                    time1 = sc1.time_input("Time 1", key=f"t1_{rec['_slug']}", value=_time1_def)
                     slot2 = sc2.date_input("Slot 2", key=f"s2_{rec['_slug']}", value=_slot2_def)
-                    time2 = sc2.time_input("Time 2", key=f"t2_{rec['_slug']}", value=_dt.time(14, 0))
+                    time2 = sc2.time_input("Time 2", key=f"t2_{rec['_slug']}", value=_time2_def)
                     if st.button("Insert slots into body", key=f"ins_{rec['_slug']}"):
                         _meeting = "in person" if _inperson else "over a call"
                         _slot_text = (f"\n\nWould love to connect {_meeting}. Here are two times that work:\n"
@@ -786,12 +812,12 @@ elif page == "✉️ Emails":
                 e_email = st.text_input("To (email)", value=em_live.get("to_email","") or _coo.get("email",""),  key=f"pe_{rec['_slug']}")
                 e_cc    = st.text_input("CC (comma-separated)", value=_def_cc,                                    key=f"pcc_{rec['_slug']}")
                 e_subj  = st.text_input("Subject",    value=em_live.get("subject","") or _def_subj,              key=f"ps_{rec['_slug']}")
-                _slot1_def, _slot2_def = next_week_slots()
+                _slot1_def, _time1_def, _slot2_def, _time2_def = next_week_slots(rec["_slug"])
                 with st.expander("📅 Meeting slots"):
                     slot1 = st.date_input("Slot 1", key=f"ps1_{rec['_slug']}", value=_slot1_def)
-                    time1 = st.time_input("Time 1", key=f"pt1_{rec['_slug']}", value=_dt.time(10, 0))
+                    time1 = st.time_input("Time 1", key=f"pt1_{rec['_slug']}", value=_time1_def)
                     slot2 = st.date_input("Slot 2", key=f"ps2_{rec['_slug']}", value=_slot2_def)
-                    time2 = st.time_input("Time 2", key=f"pt2_{rec['_slug']}", value=_dt.time(14, 0))
+                    time2 = st.time_input("Time 2", key=f"pt2_{rec['_slug']}", value=_time2_def)
                     if st.button("Insert into body", key=f"pins_{rec['_slug']}"):
                         _meeting = "in person" if _inperson else "over a call"
                         _slot_text = (f"\n\nWould love to connect {_meeting}. Here are two times that work:\n"
