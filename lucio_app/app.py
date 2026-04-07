@@ -172,8 +172,14 @@ def person_summary(p):
     return " · ".join(parts)
 
 # ── Password Gate ──────────────────────────────────────────────────────────────
+USERS_AUTH = {
+    "Vasu":   "ABC123456",
+    "Anshul": "ABC123456",  # change to Anshul's password
+}
+
 if "authenticated" not in st.session_state:
     st.session_state.authenticated = False
+    st.session_state.sender = "Vasu"
 
 if not st.session_state.authenticated:
     st.markdown("<br><br>", unsafe_allow_html=True)
@@ -182,8 +188,10 @@ if not st.session_state.authenticated:
         st.markdown("## ⚖️ Lucio CRM")
         pwd = st.text_input("Password", type="password")
         if st.button("Enter", use_container_width=True):
-            if pwd == "ABC123456":
+            matched = next((name for name, p in USERS_AUTH.items() if pwd == p), None)
+            if matched:
                 st.session_state.authenticated = True
+                st.session_state.sender = matched
                 st.rerun()
             else:
                 st.error("Incorrect password")
@@ -196,10 +204,12 @@ with st.sidebar:
     page = st.radio("Navigate", ["📊 Dashboard", "🏢 Firm Browser", "📋 Pipeline", "✉️ Emails"])
     st.markdown("---")
 
-    # Sender selector
-    st.markdown("**Sending as**")
-    sender = st.radio("Sender", ["Vasu", "Anshul"], horizontal=True, label_visibility="collapsed")
-    st.session_state["sender"] = sender
+    sender = st.session_state.get("sender", "Vasu")
+    st.markdown(f"**Logged in as: {sender}**")
+    if st.button("Log out", key="logout"):
+        st.session_state.authenticated = False
+        st.session_state.sender = "Vasu"
+        st.rerun()
 
     st.markdown("**Gmail**")
     if gmail_helper.is_authorized(sender):
