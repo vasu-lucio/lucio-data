@@ -5,9 +5,6 @@ gmail_token.json
 # Local database
 outreach.db
 
-# PDF attachment
-*.pdf
-
 # Python
 __pycache__/
 *.pyc
