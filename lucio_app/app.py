@@ -204,17 +204,26 @@ def is_inperson_eligible(city: str) -> bool:
     c = (city or "").lower()
     return any(kw in c for kw in INPERSON_KEYWORDS)
 
+COO_KEYWORDS = ["coo", "chief operating", "director of operations", "operations director",
+                "chief operations", "director, operations", "operations manager",
+                "chief administrative", "cao", "firm administrator", "office manager",
+                "executive director", "director of administration"]
+
+def is_coo_title(title: str) -> bool:
+    t = (title or "").lower()
+    return any(k in t for k in COO_KEYWORDS)
+
 def get_coo_contact(people: dict) -> dict:
-    """Return best contact: prefer COO/COO-title, then tech_contact, then managing_partner."""
-    coo_keywords = ["coo", "chief operating", "operations"]
+    """Return best ops contact: prefer COO/ops title in tech_contact, then any role with ops title, then tech_contact, then MP."""
+    # First pass: find anyone with a COO-like title
     for role in ["tech_contact", "ai_contact", "co_managing_partner", "managing_partner"]:
         p = people.get(role) or {}
-        if p.get("name") and any(k in (p.get("title","") or "").lower() for k in coo_keywords):
+        if p.get("name") and is_coo_title(p.get("title","")):
             return p
     for p in (people.get("additional_contacts") or []):
-        if p.get("name") and any(k in (p.get("title","") or "").lower() for k in coo_keywords):
+        if p.get("name") and is_coo_title(p.get("title","")):
             return p
-    # fallback order
+    # Fallback: tech_contact, then managing_partner
     for role in ["tech_contact", "ai_contact", "co_managing_partner", "managing_partner"]:
         p = people.get(role) or {}
         if p.get("name"): return p
@@ -760,11 +769,12 @@ elif page == "✉️ Emails":
 
     def _has_coo(rec):
         ps = rec["firm_data"].get("people", {}) or {}
-        coo = ps.get("coo_contact") or {}
-        if coo.get("name"): return True
-        tc = ps.get("tech_contact") or {}
-        title = (tc.get("title") or "").lower()
-        return "coo" in title or "chief operating" in title
+        for role in ["tech_contact", "ai_contact", "co_managing_partner", "managing_partner"]:
+            p = ps.get(role) or {}
+            if p.get("name") and is_coo_title(p.get("title","")): return True
+        for p in (ps.get("additional_contacts") or []):
+            if p.get("name") and is_coo_title(p.get("title","")): return True
+        return False
 
     for rec in firms:
         fd  = rec["firm_data"]
