@@ -119,12 +119,18 @@ def create_draft(to_email: str, subject: str, body: str,
         return None, status
 
     try:
-        msg = MIMEMultipart()
+        msg = MIMEMultipart("mixed")
         msg["to"]      = to_email or ""
         msg["subject"] = subject or ""
         if cc_emails and cc_emails.strip():
             msg["cc"] = cc_emails.strip()
-        msg.attach(MIMEText(body, "plain"))
+        # Send as HTML if body contains HTML tags, else plain text
+        if "<br" in body or "<p" in body or "<img" in body:
+            alt = MIMEMultipart("alternative")
+            alt.attach(MIMEText(body, "html"))
+            msg.attach(alt)
+        else:
+            msg.attach(MIMEText(body, "plain"))
 
         if attach_pdf and os.path.exists(PDF_PATH):
             with open(PDF_PATH, "rb") as f:
