@@ -26,8 +26,8 @@
       "managing_partner": {
         "name": "Jim Bucking",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "jbucking@foleyhoag.com",
+        "phone": "+16178321182",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -59,42 +59,42 @@
           "title": "Co-chair of the firm\u2019s Litigation Department",
           "email": "cdonovan@foleyhoag.com",
           "phone": "+1.617.832.1165",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/caroline-donovan-750963164/"
         },
         {
           "name": "Kristyn DeFilipp",
           "title": "Co-chair of the firm\u2019s Litigation Department",
           "email": "kbuncedefilipp@foleyhoag.com",
           "phone": "+1.617.832.1218",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kristyn-defilipp-a7b4001"
         },
         {
           "name": "Patrick Connolly",
           "title": "Co\u2011chair of the Business Department",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pconnolly@foleyhoag.com",
+          "phone": "+16178321221",
+          "linkedin_url": "https://www.linkedin.com/in/patrick-connolly-a908b219"
         },
         {
           "name": "Brendan Burke",
           "title": "Co-chair of the Emerging Company & Venture Capital Practice Group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "bburke@foleyhoag.com",
+          "phone": "+16178321234",
+          "linkedin_url": "https://www.linkedin.com/in/fbburke/"
         },
         {
           "name": "Colin Kirby",
           "title": "Co-chair of the Emerging Company & Venture Capital Practice Group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ckirby@foleyhoag.com",
+          "phone": "+12128120371",
+          "linkedin_url": "https://www.linkedin.com/in/colinkirby/"
         },
         {
           "name": "Kevin Lin",
           "title": "Co\u2011chair of the Technology Industry Group",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+16178321145",
+          "linkedin_url": "https://www.linkedin.com/in/kvnln5"
         }
       ]
     },

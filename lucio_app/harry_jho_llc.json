@@ -37,7 +37,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/harry-jho"
         }
       ],
       "tech_contact": {
@@ -45,7 +45,7 @@
         "title": "COO & Managing Analyst",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/karl-last-08ba0a8"
       },
       "ai_contact": {
         "name": null,
@@ -78,7 +78,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/harry-jho-llc",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

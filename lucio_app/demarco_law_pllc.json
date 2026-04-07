@@ -55,10 +55,11 @@
           "title": null,
           "email": "[email protected]",
           "phone": "+1 212 922 9499",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joseph-demarco-1413594"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin"
   },
   "email": {}
 }

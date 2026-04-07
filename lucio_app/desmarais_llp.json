@@ -34,9 +34,9 @@
         {
           "name": "John M. Desmarais",
           "title": "Founding Partner",
-          "email": null,
+          "email": "jdesmarais@desmaraisllp.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-desimone-20a814207"
         }
       ],
       "tech_contact": {
@@ -58,23 +58,23 @@
         {
           "name": "Benjamin N. Luehrs",
           "title": "Partner",
-          "email": null,
+          "email": "bluehrs@desmaraisllp.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/benluehrs"
         },
         {
           "name": "Goutam Patnaik",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/goutam-patnaik-95bb101ab"
         },
         {
           "name": "Tuhin Ganguly",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "tganguly@desmaraisllp.com",
+          "phone": "202-451-4912",
+          "linkedin_url": "https://www.linkedin.com/in/tuhin-ganguly-a24a8311"
         },
         {
           "name": "David Shaw",

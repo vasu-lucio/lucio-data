@@ -67,33 +67,34 @@
           "name": "Susan Duke",
           "title": "Chief Executive Officer",
           "email": null,
-          "phone": null,
+          "phone": "585-515-3282",
           "linkedin_url": "https://www.linkedin.com/company/duke-law-firm-p-c-"
         },
         {
           "name": "Sarah Knox",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "585-515-3282",
+          "linkedin_url": "https://www.linkedin.com/in/michele-knox-54a99496"
         },
         {
           "name": "Gabrielle Powell",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "585-515-3282",
           "linkedin_url": null
         },
         {
           "name": "Stacy McKinney",
           "title": "Director of Legal Operations",
           "email": null,
-          "phone": null,
+          "phone": "585-515-3282",
           "linkedin_url": null
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/linkedin"
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

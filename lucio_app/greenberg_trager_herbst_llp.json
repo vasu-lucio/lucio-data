@@ -76,32 +76,33 @@
           "name": "Kyle Hendrickson",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-688-1900",
+          "linkedin_url": "https://www.linkedin.com/in/kyle-hendrickson-b4674434"
         },
         {
           "name": "Aliza Ganz",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "212-688-1900",
           "linkedin_url": null
         },
         {
           "name": "Evan Wagowski",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-688-1900",
+          "linkedin_url": "https://www.linkedin.com/in/evan-wagowski-08237015"
         },
         {
           "name": "Simon Orner",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-688-1900",
+          "linkedin_url": "https://www.linkedin.com/in/simon-orner-2631b016"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gthw"
   },
   "email": {}
 }

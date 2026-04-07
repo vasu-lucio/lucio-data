@@ -26,9 +26,9 @@
       "managing_partner": {
         "name": "Kyle Mansfield",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "kmansfield@foleymansfield.com",
+        "phone": "612-347-0184",
+        "linkedin_url": "https://www.linkedin.com/in/kyle-mansfield-30ba314/"
       },
       "co_managing_partner": {
         "name": null,
@@ -43,7 +43,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stephen-vedova-840a8426"
         }
       ],
       "tech_contact": {
@@ -65,9 +65,9 @@
         {
           "name": "Alexa Newton",
           "title": "Office Managing Partner, St. Louis",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "anewton@foleymansfield.com",
+          "phone": "314-925-5700",
+          "linkedin_url": "https://www.linkedin.com/in/l-alexa-newton-4b131b3a/"
         },
         {
           "name": "Mark D. Sayre",
@@ -79,9 +79,9 @@
         {
           "name": "Lisa Lamm Bachman",
           "title": "Partner, Chair of the Mediation & Arbitration practice group and co-chair of the Employment & Litigation practice group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "llammbachman@foleymansfield.com",
+          "phone": "612-216-0216",
+          "linkedin_url": "https://www.linkedin.com/in/lisa-lamm-bachman-59207464/"
         }
       ]
     },

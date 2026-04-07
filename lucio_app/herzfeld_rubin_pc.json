@@ -35,7 +35,7 @@
       "managing_partner": {
         "name": "Wendy L. Prince",
         "title": "Managing Member",
-        "email": null,
+        "email": "WPrince@herzfeld-rubin.com",
         "phone": "212-471-8458",
         "linkedin_url": null
       },
@@ -74,26 +74,28 @@
         {
           "name": "Gisella Levi Caroti",
           "title": "Member",
-          "email": null,
+          "email": "GCaroti@herzfeld-rubin.com",
           "phone": "212-471-8515",
           "linkedin_url": null
         },
         {
           "name": "Howard S. Edinburgh",
           "title": "Member",
-          "email": null,
+          "email": "HEdinburgh@herzfeld-rubin.com",
           "phone": "212-471-8529",
           "linkedin_url": null
         },
         {
           "name": "Peter J. Kurshan",
           "title": "Member",
-          "email": null,
+          "email": "PKurshan@herzfeld-rubin.com",
           "phone": "212-471-8484",
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/herzfeld-&-rubin-p.c.",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Wendy",

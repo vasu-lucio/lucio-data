@@ -59,7 +59,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/roberta-kaplan-740748141"
         },
         {
           "name": "Timothy S. Martin",
@@ -73,7 +73,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steven-m-cohen-4857453b"
         },
         {
           "name": "Ellen V. Holloman",
@@ -87,10 +87,12 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/roberta-kaplan-740748141"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kaplan-martin-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

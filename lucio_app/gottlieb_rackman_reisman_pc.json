@@ -34,7 +34,7 @@
         "title": "Co-Managing Attorney",
         "email": "jkaden@grr.com",
         "phone": "212-684-3900",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jeffreykaden"
       },
       "founders": [
         {
@@ -49,14 +49,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-rackman-2a997031"
         },
         {
           "name": "Jim Reisman",
           "title": "Of Counsel",
           "email": "jreisman@grr.com",
           "phone": "212-684-3900",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jim-reisman-8ba97a3"
         }
       ],
       "tech_contact": {
@@ -80,10 +80,11 @@
           "title": "Co-Managing Attorney and Principal",
           "email": "jwachter@grr.com",
           "phone": "646-813-3567",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jason-wachter-0799a755"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/grr"
   },
   "email": {
     "to_name": null,

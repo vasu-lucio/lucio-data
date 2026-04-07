@@ -34,16 +34,16 @@
         {
           "name": "Andrew P. Fishkin",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "afishkin@fishkinlucks.com",
+          "phone": "(646) 768-7683",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-p-fishkin-462a2ba9"
         },
         {
           "name": "Steven M. Lucks",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "slucks@fishkinlucks.com",
+          "phone": "(646) 768-7682",
+          "linkedin_url": "https://www.linkedin.com/in/steven-lucks-4491558"
         }
       ],
       "tech_contact": {
@@ -65,23 +65,23 @@
         {
           "name": "Matthew C. Cairone",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mcairone@fishkinlucks.com",
+          "phone": "(267) 627-1234",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-cairone-7467781ba"
         },
         {
           "name": "Maria Angela Brusco",
           "title": "Associate Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mbrusco@fishkinlucks.com",
+          "phone": "(646) 768-7687",
+          "linkedin_url": "https://www.linkedin.com/in/mariabrusco"
         },
         {
           "name": "Erin C. O\u2019Leary",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/erinogburn"
         }
       ]
     }

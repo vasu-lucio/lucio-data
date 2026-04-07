@@ -58,17 +58,19 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-schwarz-7ba48418"
         },
         {
           "name": "Russ F. Jellinek",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/russ-jellinek-29556220"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/geist-schwarz-&-jellinek-pllc",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

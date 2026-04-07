@@ -32,21 +32,21 @@
           "title": "Founding Partner",
           "email": "jhall@hallboothsmith.com",
           "phone": "404.954.6927",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/johnhalljr"
         },
         {
           "name": "Alex Booth",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "abooth@hallboothsmith.com",
+          "phone": "404.954.6921",
+          "linkedin_url": "https://www.linkedin.com/in/alex-h-booth-7a950815/"
         },
         {
           "name": "Rush Smith",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rush-smith-jr-a903714"
         }
       ],
       "tech_contact": {
@@ -54,7 +54,7 @@
         "title": "Chief Human Resources Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/juanita-kendall-jacob-phr-shrm-cp-05601016a"
       },
       "ai_contact": {
         "name": null,
@@ -77,11 +77,12 @@
           "title": "Alpharetta Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/evansingenuity"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/hall-booth-smith-p-c-"
+    "linkedin_company_url": "https://www.linkedin.com/company/hall-booth-smith-p-c-",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

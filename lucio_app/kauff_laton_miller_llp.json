@@ -55,7 +55,7 @@
           "title": "Partner",
           "email": "amiller@klmllp.com",
           "phone": "212-906-3442",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adam-miller-08156942/"
         }
       ],
       "tech_contact": {
@@ -74,7 +74,9 @@
         "ai_notes": null
       },
       "additional_contacts": []
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

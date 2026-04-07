@@ -55,26 +55,27 @@
           "name": "Vivian Rivera Drohan",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2127100004",
+          "linkedin_url": "https://www.linkedin.com/in/vivian-stern-380bba3aa"
         },
         {
           "name": "Jacqueline J. Drohan",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2127100019",
+          "linkedin_url": "https://www.linkedin.com/in/jacqueline-james-39260711"
         },
         {
           "name": "Roberto Portillo Togno",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2127100000",
+          "linkedin_url": "https://www.linkedin.com/in/roberto-portillo-togno"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/drohan-lee-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/drohan-lee-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

@@ -44,7 +44,7 @@
           "title": "Founding Partner",
           "email": "nb@jorgesbowers.com",
           "phone": "212-768-0088, ext. 2",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nickbowers"
         }
       ],
       "tech_contact": {
@@ -66,30 +66,30 @@
         {
           "name": "Paul A. Carlotto",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pcarlotto@jorgesbowers.com",
+          "phone": "2127680088",
+          "linkedin_url": "https://www.linkedin.com/in/brooklyn-bowers-9269193b3"
         },
         {
           "name": "Judith E. Turkel",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
+          "email": "jturkel@jorgesbowers.com",
+          "phone": "2127680088",
           "linkedin_url": null
         },
         {
           "name": "Howard M. Forman",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "hforman@jorgesbowers.com",
+          "phone": "2127680088",
+          "linkedin_url": "https://www.linkedin.com/in/howard-forman-35089730"
         },
         {
           "name": "Michelle Charbonneau",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mcharbonneau@jorgesbowers.com",
+          "phone": "2127680088",
+          "linkedin_url": "https://www.linkedin.com/in/michellebocklage"
         }
       ]
     },

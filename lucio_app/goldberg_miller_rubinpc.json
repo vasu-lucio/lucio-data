@@ -29,8 +29,8 @@
       "managing_partner": {
         "name": "Richard Castagna",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "rcastagna@gmrlawfirm.com",
+        "phone": "1-800-867-0267",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -45,16 +45,16 @@
           "name": "Cy Goldberg",
           "title": "Founder",
           "email": null,
-          "phone": null,
+          "phone": "1-800-867-0267",
           "linkedin_url": null
         }
       ],
       "tech_contact": {
         "name": "Jason W. Rubin",
         "title": "Chief Operating Officer",
-        "email": null,
+        "email": "jrubin@gmrlawfirm.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jasonwaynerubin"
       },
       "ai_contact": {
         "name": null,
@@ -68,8 +68,8 @@
         {
           "name": "Eamon C. Merrigan",
           "title": "Chief Information Security Officer",
-          "email": null,
-          "phone": null,
+          "email": "emerrigan@gmrlawfirm.com",
+          "phone": "1-800-867-0267",
           "linkedin_url": null
         },
         {
@@ -81,7 +81,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/goldberg-miller-&-rubin"
+    "linkedin_company_url": "https://www.linkedin.com/company/goldberg-miller-&-rubin",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

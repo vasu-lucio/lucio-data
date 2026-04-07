@@ -57,40 +57,42 @@
         {
           "name": "John Minoza",
           "title": "Controller",
-          "email": null,
-          "phone": null,
+          "email": "Jminoza@ecbawm.com",
+          "phone": "(212) 763-5000",
           "linkedin_url": null
         },
         {
           "name": "Jonathan S. Abady",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "(212) 763-5000",
           "linkedin_url": null
         },
         {
           "name": "Matthew D. Brinckerhoff",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mbrinckerhoff@ecbawm.com",
+          "phone": "(212) 763-5000",
+          "linkedin_url": "https://www.linkedin.com/in/kent-stauffer-830878b"
         },
         {
           "name": "Andrew G. Celli, Jr.",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "acelli@ecbawm.com",
+          "phone": "(212) 763-5000",
           "linkedin_url": null
         },
         {
           "name": "Richard D. Emery",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "remery@ecbawm.com",
+          "phone": "(212) 763-5000",
+          "linkedin_url": "https://www.linkedin.com/in/richard-emery-41286055/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/emery-celli-brinckerhoff-abady-ward-maazel",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

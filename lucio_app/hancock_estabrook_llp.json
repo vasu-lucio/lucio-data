@@ -27,7 +27,7 @@
         "title": "Managing Partner",
         "email": "tmurphy@hancocklaw.com",
         "phone": "315.565.4544",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/timothymurphytriallawyer/"
       },
       "co_managing_partner": {
         "name": null,
@@ -56,20 +56,21 @@
         {
           "name": "Joseph T. Mancuso",
           "title": "Partner",
-          "email": null,
+          "email": "jmancuso@hancocklaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joseph-mancuso-145a18a/"
         },
         {
           "name": "John G. Powers",
           "title": "Partner",
           "email": "jpowers@hancocklaw.com",
           "phone": "315.565.4547",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-powers-63019813/"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/hancock-estabrook-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/hancock-estabrook-llp",
+    "linkedin_size": "51-200"
   },
   "email": {
     "to_name": "Timothy",

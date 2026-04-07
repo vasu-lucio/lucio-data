@@ -28,9 +28,9 @@
       "co_managing_partner": {
         "name": "Chad Johnson",
         "title": "Co-Founding Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "chad@jvk-law.com",
+        "phone": "+1646-836-9660",
+        "linkedin_url": "https://www.linkedin.com/in/chad-johnson-360537155/"
       },
       "founders": [],
       "tech_contact": {
@@ -50,7 +50,8 @@
       },
       "additional_contacts": []
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/johnsonvankwawegen"
+    "linkedin_company_url": "https://www.linkedin.com/company/johnsonvankwawegen",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Jeroen",

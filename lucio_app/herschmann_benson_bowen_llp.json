@@ -54,28 +54,28 @@
         {
           "name": "Eric Daniel Herschmann",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "eherschmann@hbb-firm.com",
+          "phone": "(512) 996-2396",
+          "linkedin_url": "https://www.linkedin.com/in/eric-herschman-90b751194"
         },
         {
           "name": "Daniel Richard Benson",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dbenson@hbb-firm.com",
+          "phone": "(917) 341-4628",
+          "linkedin_url": "https://www.linkedin.com/in/daniel-benson-3ba23117"
         },
         {
           "name": "Michael Paul Bowen",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "mbowen@hbb-firm.com",
+          "phone": "(917) 341-4611",
           "linkedin_url": null
         },
         {
           "name": "Jacob Isaac Benson",
           "title": "Attorney",
-          "email": null,
+          "email": "jbenson@hbb-firm.com",
           "phone": "(212) 226-4226",
           "linkedin_url": null
         }

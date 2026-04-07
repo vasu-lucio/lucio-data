@@ -63,24 +63,25 @@
           "title": "Lawyer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/johnthague"
         },
         {
           "name": "Joshua Ross Hoffman",
           "title": "Lawyer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joshua-hoffman-6095a61b"
         },
         {
           "name": "Mary Solimine",
           "title": "Lawyer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mary-solimine-114369b0"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hoffman-matlin-monroy-llp"
   },
   "email": {}
 }

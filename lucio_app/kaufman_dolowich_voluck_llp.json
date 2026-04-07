@@ -26,15 +26,15 @@
         "name": "Arif Virji",
         "title": "Managing Partner",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "+1-844-860-1010",
+        "linkedin_url": "https://www.linkedin.com/in/arif-virji-4804a61a3"
       },
       "co_managing_partner": {
         "name": "Ivan J. Dolowich",
         "title": "Co-Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "idolowich@kaufmandolowich.com",
+        "phone": "+1-844-860-1010",
+        "linkedin_url": "https://www.linkedin.com/in/ivan-dolowich-45b60a6"
       },
       "founders": [],
       "tech_contact": {
@@ -42,7 +42,7 @@
         "title": "Chief Operating Officer",
         "email": "kdejesus@kaufmandolowich.com",
         "phone": "(516) 283-8742",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kristin-dejesus-shrm-scp-530788189"
       },
       "ai_contact": {
         "name": null,
@@ -63,9 +63,9 @@
         {
           "name": "Katherine S. Catlos",
           "title": "Partner, Chief Diversity & Inclusion Officer, CIPP, US, CIPM",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kcatlos@kaufmandolowich.com",
+          "phone": "+1-844-860-1010",
+          "linkedin_url": "https://www.linkedin.com/in/katherine-catlos-esq-cipp-us-cipm-460715a"
         }
       ]
     },

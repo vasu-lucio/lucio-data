@@ -24,15 +24,15 @@
         "name": "Mark A. DiCello",
         "title": "Partner",
         "email": "madicello@dicellolevitt.com",
-        "phone": null,
-        "linkedin_url": null
+        "phone": "440.953.8888",
+        "linkedin_url": "https://www.linkedin.com/in/markdicello/"
       },
       "co_managing_partner": {
         "name": "Adam J. Levitt",
         "title": "Partner",
         "email": "alevitt@dicellolevitt.com",
-        "phone": null,
-        "linkedin_url": null
+        "phone": "312.214.7900",
+        "linkedin_url": "https://www.linkedin.com/in/adam-levitt-87216b/"
       },
       "founders": [],
       "tech_contact": {
@@ -56,10 +56,11 @@
           "title": "Chair of the Securities and Financial Products Litigation Practice Group",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patrickwdaniels"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/dicellolevitt"
   },
   "email": {
     "to_name": "Mark",

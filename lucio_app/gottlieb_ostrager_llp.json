@@ -36,14 +36,14 @@
           "title": "Co-founding Partner",
           "email": "WGottlieb@golawllp.com",
           "phone": "914 909-4646 x 401",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/caroline-gottlieb-68120876"
         },
         {
           "name": "Eric Ostrager",
           "title": "Co-founding Partner",
           "email": "email@email.com",
           "phone": "631-652-6873",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/eric-ostrager-40936511"
         }
       ],
       "tech_contact": {
@@ -65,16 +65,16 @@
         {
           "name": "Laura Weiss",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lweiss@golawllp.com",
+          "phone": "631-761-6591",
+          "linkedin_url": "https://www.linkedin.com/in/davidweisscpa"
         },
         {
           "name": "Michael Tobia",
           "title": "Client Relations",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mtobia@golawllp.com",
+          "phone": "631-761-6591",
+          "linkedin_url": "https://www.linkedin.com/in/michael-tobia-05223325"
         }
       ]
     },

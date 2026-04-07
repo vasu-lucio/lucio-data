@@ -27,9 +27,9 @@
       "managing_partner": {
         "name": "Robert V. Cerwinski",
         "title": "Managing Partner",
-        "email": null,
+        "email": "rcerwinski@geminilaw.com",
         "phone": "+1.917.915.8832",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/robert-cerwinski-a76b06a6/"
       },
       "co_managing_partner": {
         "name": null,
@@ -58,44 +58,44 @@
         {
           "name": "Lora Green",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lgreen@geminilaw.com",
+          "phone": "+19179158832",
+          "linkedin_url": "https://www.linkedin.com/in/lora-green-a232a762"
         },
         {
           "name": "Aviv Zalcenstein",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "azalcenstein@geminilaw.com",
+          "phone": "+19179158832",
+          "linkedin_url": "https://www.linkedin.com/in/aviv-zalcenstein-117a645b"
         },
         {
           "name": "Michael Johnson",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mjohnson@geminilaw.com",
+          "phone": "+19179158832",
+          "linkedin_url": "https://www.linkedin.com/in/michael-johnson-a4897917/"
         },
         {
           "name": "Kyle Musgrove",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kyle-musgrove-97a6a012"
         },
         {
           "name": "Heather Schneider",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/heather-schneider-b2a6a3"
         },
         {
           "name": "Mike Cottler",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mike-cottler-b89a5829"
         }
       ]
     },

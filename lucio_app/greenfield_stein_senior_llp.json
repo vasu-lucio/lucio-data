@@ -58,30 +58,30 @@
         {
           "name": "Amy F Altman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "aaltman@gss-law.com",
+          "phone": "212.818.9600",
+          "linkedin_url": "https://www.linkedin.com/in/amy-f-altman-ba41486"
         },
         {
           "name": "Daniella Wittenberg",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dwittenberg@gss-law.com",
+          "phone": "212.818.9600",
+          "linkedin_url": "https://www.linkedin.com/in/daniella-wittenberg-b58b293"
         },
         {
           "name": "Anne Bederka",
           "title": "Partner",
           "email": "abederka@gss-law.com",
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212.818.9600",
+          "linkedin_url": "https://www.linkedin.com/in/anne-bederka-107a9b19"
         },
         {
           "name": "Paul T Shoemaker",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pshoemaker@gss-law.com",
+          "phone": "212.818.9600",
+          "linkedin_url": "https://www.linkedin.com/in/paul-t-shoemaker-3902a234"
         }
       ]
     },

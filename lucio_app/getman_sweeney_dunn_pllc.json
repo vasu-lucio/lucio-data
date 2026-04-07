@@ -33,8 +33,8 @@
         {
           "name": "Dan Getman",
           "title": "Founding Partner (retired)",
-          "email": null,
-          "phone": null,
+          "email": "dgetman@getmansweeney.com",
+          "phone": "8452559370",
           "linkedin_url": null
         }
       ],
@@ -57,40 +57,41 @@
         {
           "name": "Matt Dunn",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "mdunn@getmansweeney.com",
+          "phone": "8452559370",
           "linkedin_url": null
         },
         {
           "name": "Michael Sweeney",
           "title": "retired",
-          "email": null,
-          "phone": null,
+          "email": "msweeney@getmansweeney.com",
+          "phone": "8452559370",
           "linkedin_url": null
         },
         {
           "name": "Whitney Flanagan",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "8452559370",
+          "linkedin_url": "https://www.linkedin.com/in/whitneyflanagan"
         },
         {
           "name": "Caroline Friedman",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "cfriedman@getmansweeney.com",
+          "phone": "8452559370",
+          "linkedin_url": "https://www.linkedin.com/in/caroline-friedman-211334216"
         },
         {
           "name": "Rebecca King",
           "title": "Attorney",
-          "email": null,
+          "email": "rking@getmansweeney.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rebecca-king-a6311189"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/getman-&-sweeney-pllc"
   },
   "email": {}
 }

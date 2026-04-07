@@ -62,7 +62,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/guillaumedesampigny"
         },
         {
           "name": "Warren Wang",
@@ -76,21 +76,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sally-yin-841a1549"
         },
         {
           "name": "Jenny Johnson-sardella",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jenny-johnson-sardella-3639406"
         },
         {
           "name": "Brian Margolis",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-margolis"
         },
         {
           "name": "Fab\u00edola Bueno",
@@ -104,10 +104,11 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/saraibstewart"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hunter-taubman-weiss-llp"
   },
   "email": {}
 }

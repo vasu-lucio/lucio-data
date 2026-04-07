@@ -22,9 +22,9 @@
       "managing_partner": {
         "name": "Allan S. Hollander",
         "title": "President",
-        "email": null,
+        "email": "ahollander@hollanderlg.com",
         "phone": "(631) 333-1300 ext 107",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/allan-stein-19828650"
       },
       "co_managing_partner": {
         "name": null,
@@ -53,16 +53,16 @@
         {
           "name": "Justin A. Calabrese",
           "title": "Partner",
-          "email": null,
+          "email": "jcalabrese@hollanderlg.com",
           "phone": "(631) 333-1300 ext 114",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/justin-a-calabrese-2180062a"
         },
         {
           "name": "Emilio A. Cacace",
           "title": "Of Counsel",
-          "email": null,
+          "email": "cacaceattorney@gmail.com",
           "phone": "(631) 333-1300",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopher-volpe-esq-119b2529"
         },
         {
           "name": "Matthew L. Hallock",
@@ -74,7 +74,7 @@
         {
           "name": "Jack Vobis",
           "title": "Associate",
-          "email": null,
+          "email": "jvobis@hollanderlg.com",
           "phone": "(631) 333-1300 ext 109",
           "linkedin_url": null
         }

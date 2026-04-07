@@ -19,9 +19,9 @@
       "managing_partner": {
         "name": "John Renken",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "jrenken@hawkins.com",
+        "phone": "212.820.9402",
+        "linkedin_url": "https://www.linkedin.com/in/john-renken-5b20367"
       },
       "co_managing_partner": {
         "name": null,
@@ -36,7 +36,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/annalau08"
       },
       "ai_contact": {
         "name": null,
@@ -50,16 +50,16 @@
         {
           "name": "Takashi Iwata",
           "title": "Managing Director Of The Financial Analysis & Services Group",
-          "email": null,
+          "email": "tiwata@hawkins.com",
           "phone": "212.820.9432",
           "linkedin_url": null
         },
         {
           "name": "Andrew Thomas Hahn Sr.",
           "title": "General Counsel",
-          "email": null,
+          "email": "ahahn@hawkins.com",
           "phone": "212 820 9443",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andrew-hawkins-94a04421"
         }
       ]
     },

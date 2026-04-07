@@ -44,7 +44,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/walterjdunn"
         }
       ],
       "tech_contact": {
@@ -68,12 +68,12 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alan-d-ambrosio-21a8b416"
         },
         {
           "name": "Padmaja Chinta",
           "title": "Partner",
-          "email": null,
+          "email": "PChinta@Dunnington.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -82,21 +82,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rhyden-dowd-3112072a9"
         },
         {
           "name": "Brenda L Gill",
           "title": "Partner",
-          "email": null,
+          "email": "BGill@Dunnington.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brenda-l-gill-nyc"
         },
         {
           "name": "Olivera Medenica",
           "title": "Equity Partner",
-          "email": null,
+          "email": "omedenica@dunnington.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/olivera-medenica-fashionip"
         }
       ]
     },

@@ -57,14 +57,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/eric-rosen-6ab08a2"
         },
         {
           "name": "Constantine Economides",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/constantineeconomides"
         },
         {
           "name": "Robert S. Frenchman",
@@ -81,7 +81,8 @@
           "linkedin_url": "http://www.dynamisllp.com/talent/emily-scarisbrick-weisberg"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/dynamis-llp"
   },
   "email": {}
 }

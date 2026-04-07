@@ -25,7 +25,7 @@
         "title": "Esq. \u2013 Managing Partner",
         "email": null,
         "phone": "(212) 839-7000",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gregory-o-neill-34723730"
       },
       "co_managing_partner": {
         "name": null,
@@ -40,21 +40,21 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tiffany-leavitt-807960135"
         },
         {
           "name": "Charles Hill",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/charles-hill-b957155"
         },
         {
           "name": "George W. Betts",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/georgeraftis"
         }
       ],
       "tech_contact": {
@@ -78,14 +78,14 @@
           "title": "Esq. \u2013 Partner",
           "email": null,
           "phone": "(212) 839-7000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lowe-mark-4397779"
         },
         {
           "name": "Michael J. Ryan",
           "title": "Esq. \u2013 Partner Emeritus",
           "email": null,
           "phone": "(212) 839-7000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-ryan-919a613"
         },
         {
           "name": "James D. Kleiner",
@@ -95,7 +95,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hill-betts-nash-llp"
   },
   "email": {
     "to_name": "Gregory",

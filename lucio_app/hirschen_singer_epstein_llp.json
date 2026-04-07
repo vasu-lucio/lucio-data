@@ -47,8 +47,8 @@
       "tech_contact": {
         "name": "Esma Deljanin",
         "title": "Chief Operating Officer",
-        "email": null,
-        "phone": null,
+        "email": "edeljanin@hseny.com",
+        "phone": "212-843-6060",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -65,7 +65,7 @@
           "title": "Partner",
           "email": "rsinger@hseny.com",
           "phone": "(212) 819-1130",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richard-c-singer-80897224"
         }
       ]
     },

@@ -32,7 +32,7 @@
         "title": "Managing Partner, Department Chair, Corporate",
         "email": "pdoherty@hdrbb.com",
         "phone": "201.441.9056",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/paul-doherty-240b8112"
       },
       "co_managing_partner": {
         "name": null,
@@ -63,31 +63,32 @@
           "title": "Department Chair, Real Estate",
           "email": "khartmann@hdrbb.com",
           "phone": "201.649.8088",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kurt-hartmann-a8969745"
         },
         {
           "name": "Mark A. Berman",
           "title": "Department Chair, Litigation & Criminal Defense",
           "email": "mberman@hdrbb.com",
           "phone": "201.649.8015",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/markaberman"
         },
         {
           "name": "Naim D. Bulbulia",
           "title": "Department Chair, Trusts & Estates",
           "email": "nbulbulia@hdrbb.com",
           "phone": "201.649.8061",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/naim-bulbulia-21aa40"
         },
         {
           "name": "Robert S. Goldenberg",
           "title": "Department Chair, Private Lending Group",
           "email": "rgoldenberg@hdrbb.com",
           "phone": "201.649.8064",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-goldenberg-a8baa731"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hartmann-doherty-rosa-berman-bulbulia-llp"
   },
   "email": {
     "to_name": "Paul",

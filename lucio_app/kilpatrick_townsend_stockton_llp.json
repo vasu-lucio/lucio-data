@@ -14,7 +14,7 @@
         "title": "Firm Managing Partner",
         "email": null,
         "phone": "206.516.3092",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/rogerwyliepatentattorney"
       },
       "co_managing_partner": {
         "name": null,
@@ -45,14 +45,14 @@
           "title": "Chair",
           "email": null,
           "phone": "404.532.6959",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/wabkadaba"
         },
         {
           "name": "Susan M. Spaeth",
           "title": "Chief Legal Officer",
           "email": null,
           "phone": "650.324.6335",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/susan-spaeth-a79aa011"
         },
         {
           "name": "Brett A. Fazio",
@@ -63,7 +63,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/kilpatrick-townsend-stockton-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/kilpatrick-townsend-stockton-llp",
+    "linkedin_size": "1001-5000"
   },
   "email": {
     "to_name": "Alexander",

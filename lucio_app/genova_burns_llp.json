@@ -20,9 +20,9 @@
       "managing_partner": {
         "name": "Jennifer Borek",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "jborek@genovaburns.com",
+        "phone": "973.814.4045",
+        "linkedin_url": "https://www.linkedin.com/in/jennifer-borek-88668a49/"
       },
       "co_managing_partner": {
         "name": null,
@@ -53,14 +53,14 @@
           "title": "Chairman",
           "email": "agenova@genovaburns.com",
           "phone": "973.535.7100",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/angelo-j-genova-esq-4ab74149/"
         },
         {
           "name": "James M. Burns",
           "title": "Co-Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jburns@genovaburns.com",
+          "phone": "973.535.7101",
+          "linkedin_url": "https://www.linkedin.com/in/james-burns-5023a56a/"
         }
       ]
     },

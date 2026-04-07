@@ -66,9 +66,9 @@
         {
           "name": "David L. Berkey",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dlb@gdblaw.com",
+          "phone": "212-935-4514",
+          "linkedin_url": "https://www.linkedin.com/in/randy-heller-326a44a"
         },
         {
           "name": "Adam J. Berkey",
@@ -80,23 +80,23 @@
         {
           "name": "Atty K. Bruggemann",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "akb@gdblaw.com",
+          "phone": "212-935-3131",
           "linkedin_url": null
         },
         {
           "name": "Allen A. Drexel",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "aad@gdblaw.com",
+          "phone": "212-935-3131",
+          "linkedin_url": "https://www.linkedin.com/in/allen-a-drexel"
         },
         {
           "name": "Joseph I. Farca",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jif@gdblaw.com",
+          "phone": "212-935-3131",
+          "linkedin_url": "https://www.linkedin.com/in/josephfarca"
         }
       ]
     },

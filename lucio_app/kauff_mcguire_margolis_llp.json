@@ -48,7 +48,7 @@
         "title": "Chief Operating Officer",
         "email": "cunningham@kmm.com",
         "phone": "212-909-0737",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jamiecunningham1"
       },
       "ai_contact": {
         "name": null,
@@ -64,14 +64,14 @@
           "title": "Member",
           "email": "mcguire@kmm.com",
           "phone": "212-909-0711",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/raymond-mcguire-63a75323"
         },
         {
           "name": "William E. Zuckerman",
           "title": "Member",
           "email": "zuckerman@kmm.com",
           "phone": "212-909-0701",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/william-zukows-a421718"
         },
         {
           "name": "Michele A. Coyne",
@@ -85,11 +85,12 @@
           "title": "Member",
           "email": "lieber@kmm.com",
           "phone": "212-909-0720",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/maggiemcguire9"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/kauff-mcguire-margolis"
+    "linkedin_company_url": "https://www.linkedin.com/company/kauff-mcguire-margolis",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "James",

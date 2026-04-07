@@ -39,8 +39,8 @@
       "tech_contact": {
         "name": "Rina Hunter",
         "title": "COO",
-        "email": null,
-        "phone": null,
+        "email": "rhunter@kahanafeld.com",
+        "phone": "+1-949-751-6972",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -55,23 +55,23 @@
         {
           "name": "Samuel Yu",
           "title": "Irvine Managing Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "syu@kahanafeld.com",
+          "phone": "+1-949-812-4781",
+          "linkedin_url": "https://linkedin.com/in/samuel-yu-6277721b/"
         },
         {
           "name": "David Fox",
           "title": "Chief Information Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dfox@kahanafeld.com",
+          "phone": "+1-917-451-1709",
+          "linkedin_url": "https://www.linkedin.com/in/david-f-b4a47894/"
         },
         {
           "name": "Mimi Ahn",
           "title": "Partner, Chair of Labor & Employment Practice Group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mahn@kahanafeld.com",
+          "phone": "+1-949-812-4781",
+          "linkedin_url": "https://linkedin.com/in/mimi-ahn-81480389/"
         },
         {
           "name": "Brian Maxwell",

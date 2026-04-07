@@ -30,9 +30,9 @@
       "managing_partner": {
         "name": "Andrew Finkelstein",
         "title": "Managing Partner",
-        "email": null,
+        "email": "CIS@lawampm.com",
         "phone": "845-205-7556",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/andrew-finkelstein-53bb3847"
       },
       "co_managing_partner": {
         "name": null,
@@ -45,17 +45,17 @@
         {
           "name": "Howard S. Finkelstein",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "CIS@lawampm.com",
+          "phone": "18774872897",
+          "linkedin_url": "https://www.linkedin.com/in/finkelstein-22k139-812a7241"
         }
       ],
       "tech_contact": {
         "name": "Nancy Y. Morgan",
         "title": "Director of Legal Operations",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "CIS@lawampm.com",
+        "phone": "18774872897",
+        "linkedin_url": "https://www.linkedin.com/in/nancy-morgan-7959b519"
       },
       "ai_contact": {
         "name": null,
@@ -69,8 +69,8 @@
         {
           "name": "Kara L. Campbell",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "CIS@lawampm.com",
+          "phone": "18774872897",
           "linkedin_url": null
         },
         {
@@ -78,7 +78,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andrew-g-finkelstein-b92a061b4"
         }
       ]
     }

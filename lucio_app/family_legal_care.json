@@ -41,7 +41,7 @@
         "title": "Salesforce and Data Administrator",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/claire-monaghan-360a3a6a"
       },
       "ai_contact": {
         "name": null,
@@ -64,7 +64,7 @@
           "title": "Chief Executive Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sarah-nolan-a789071b"
         },
         {
           "name": "Kristin Pulkkinen",
@@ -78,10 +78,11 @@
           "title": "Director of Legal Resources and Digital Justice",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jessica-staiger-61348b113"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/familylegalcare"
   },
   "email": {}
 }

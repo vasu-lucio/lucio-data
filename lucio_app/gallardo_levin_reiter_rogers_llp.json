@@ -55,7 +55,7 @@
         {
           "name": "Domingo R. Gallardo",
           "title": "Partner",
-          "email": null,
+          "email": "dgallardo@cgpllp.com",
           "phone": "516-931-1800",
           "linkedin_url": "https://www.linkedin.com/in/domingo-gallardo-93639018"
         },
@@ -71,25 +71,26 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sophie-e-reiter-esq-3297237b"
         },
         {
           "name": "Christopher T. Rogers",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopher-rogers-407492a9"
         },
         {
           "name": "Renton D. Persaud",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/renton-persaud-3101bb17"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/gallardo-levin-reiter-rogers-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/gallardo-levin-reiter-rogers-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

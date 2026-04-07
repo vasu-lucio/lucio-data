@@ -25,7 +25,7 @@
         "title": "Managing Partner",
         "email": "neil@katzchwat.com",
         "phone": "631-683-8595",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/neilkatztaxlaw/"
       },
       "co_managing_partner": {
         "name": null,
@@ -54,37 +54,37 @@
         {
           "name": "Lara R. Chwat",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lara@katzchwat.com",
+          "phone": "631.683.8700",
+          "linkedin_url": "https://www.linkedin.com/in/lara-chwat-19957412/"
         },
         {
           "name": "Alyssa Danziger",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "alyssa@katzchwat.com",
+          "phone": "631.683.8700",
+          "linkedin_url": "https://www.linkedin.com/in/alyssa-danziger-590b2646/"
         },
         {
           "name": "Brandon Amon",
           "title": "Senior Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "brandon@katzchwat.com",
+          "phone": "631.683.8700",
+          "linkedin_url": "https://www.linkedin.com/in/brandon-amon-5b1ba877/"
         },
         {
           "name": "Emily Hurni",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "emily@katzchwat.com",
+          "phone": "631.683.8700",
+          "linkedin_url": "https://www.linkedin.com/in/emily-hurni-esq-7ba313182/"
         },
         {
           "name": "Jenna Baillie",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jenna@katzchwat.com",
+          "phone": "631.683.8700",
+          "linkedin_url": "https://www.linkedin.com/in/jenna-l-baillie-esq-3800101a7/"
         }
       ]
     },

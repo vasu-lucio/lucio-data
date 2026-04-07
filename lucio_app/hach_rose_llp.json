@@ -40,7 +40,7 @@
           "name": "Gregory Hach",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "2127790057",
           "linkedin_url": null
         }
       ],
@@ -64,53 +64,54 @@
           "name": "Michael Rose",
           "title": "Senior Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2127790057",
+          "linkedin_url": "https://www.linkedin.com/in/michaelaaronrose"
         },
         {
           "name": "Amanda Lyons",
           "title": "Managing Attorney",
           "email": null,
-          "phone": null,
+          "phone": "2127790057",
           "linkedin_url": null
         },
         {
           "name": "John Blyth",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2127790057",
+          "linkedin_url": "https://www.linkedin.com/in/john-blyth-98b76950"
         },
         {
           "name": "George Ilchert",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "askgeorge@hachroselaw.com",
+          "phone": "2127790057",
+          "linkedin_url": "https://www.linkedin.com/in/george-ilchert-a8142519"
         },
         {
           "name": "Adam Roth",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2127790057",
+          "linkedin_url": "https://www.linkedin.com/in/adam-roth-3389665"
         },
         {
           "name": "Christopher Cellante",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "2127790057",
           "linkedin_url": null
         },
         {
           "name": "Corey Morgenstern",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "cmorgenstern@hachroselaw.com",
+          "phone": "2127790057",
+          "linkedin_url": "https://www.linkedin.com/in/corey-morgenstern-b0b8b298"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hach-&-rose"
   },
   "email": {}
 }

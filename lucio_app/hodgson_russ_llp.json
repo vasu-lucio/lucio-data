@@ -20,7 +20,7 @@
         "title": "Managing Partner",
         "email": "nberti@hodgsonruss.com",
         "phone": "646.218.7516",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/nate-berti-b725522a"
       },
       "co_managing_partner": {
         "name": "Benjamin M. Zuffranieri Jr.",
@@ -51,11 +51,12 @@
           "title": "Co-Chair of the Firm, Partner",
           "email": "cfitzsim@hodgsonruss.com",
           "phone": "716.848.1477",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/carol-fitzsimmons-b894b814"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/hodgson-russ-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/hodgson-russ-llp",
+    "linkedin_size": "501-1000"
   },
   "email": {
     "to_name": "Mairi",

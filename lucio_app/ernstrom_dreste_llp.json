@@ -26,8 +26,8 @@
       "managing_partner": {
         "name": "Brian Streicher",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "bstreicher@ed-llp.com",
+        "phone": "5854733100",
         "linkedin_url": "https://www.linkedin.com/company/ernstrom-%26-dreste-llp"
       },
       "co_managing_partner": {
@@ -57,29 +57,29 @@
         {
           "name": "Martha Connolly",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mconnolly@ed-llp.com",
+          "phone": "5854733100",
+          "linkedin_url": "https://www.linkedin.com/in/martha-connolly-41786922"
         },
         {
           "name": "John Dreste",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "jdreste@ed-llp.com",
+          "phone": "5854733100",
           "linkedin_url": null
         },
         {
           "name": "Kevin Peartree",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kpeartree@ed-llp.com",
+          "phone": "5854733100",
+          "linkedin_url": "https://www.linkedin.com/in/kevin-peartree-67603510"
         },
         {
           "name": "Brian Geary",
           "title": null,
-          "email": null,
-          "phone": null,
+          "email": "BGeary@ed-llp.com",
+          "phone": "5854733100",
           "linkedin_url": null
         },
         {
@@ -87,11 +87,12 @@
           "title": "Founding Member",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/bill-ernstrom-8ab65a8"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/ernstrom-&-dreste-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/ernstrom-&-dreste-llp",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Brian",

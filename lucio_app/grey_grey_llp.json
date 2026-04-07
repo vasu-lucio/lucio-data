@@ -26,7 +26,7 @@
         "name": "Robert E. Grey",
         "title": "Managing Partner",
         "email": null,
-        "phone": null,
+        "phone": "(516) 249-1342",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -57,32 +57,34 @@
           "name": "Sanjai Doobay",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(516) 249-1342",
+          "linkedin_url": "https://www.linkedin.com/in/sanjai-doobay-49272277"
         },
         {
           "name": "Andra Fraiberg-Vetro",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "(516) 249-1342",
           "linkedin_url": null
         },
         {
           "name": "Brian P. O'Keefe",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(516) 249-1342",
+          "linkedin_url": "https://www.linkedin.com/in/brian-o-keefe-664473b"
         },
         {
           "name": "Daniel A. Dutton",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "(516) 249-1342",
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/grey-&-grey-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

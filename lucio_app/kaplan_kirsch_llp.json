@@ -57,49 +57,49 @@
           "title": null,
           "email": "madams@kaplankirsch.com",
           "phone": "415.907.8707",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-golin"
         },
         {
           "name": "Sara A. Dutschke",
           "title": null,
           "email": "sdutschke@kaplankirsch.com",
           "phone": "415.907.8706",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sara-dutschke-1b2b9121"
         },
         {
           "name": "Thomas A. Bloomfield",
           "title": null,
           "email": "tbloomfield@kaplankirsch.com",
           "phone": "303.825.6390",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tom-bloomfield-01bb/"
         },
         {
           "name": "Nicole E. Grigg",
           "title": null,
           "email": "ngrigg@kaplankirsch.com",
           "phone": "415.907.8709",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nicolegrigg3"
         },
         {
           "name": "Heather J. Haney",
           "title": null,
           "email": "hhaney@kaplankirsch.com",
           "phone": "303.825.7000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/heatherjhaney"
         },
         {
           "name": "Sarah M. Keane",
           "title": null,
           "email": "skeane@kaplankirsch.com",
           "phone": "303.825.7028",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sarahbb"
         },
         {
           "name": "Samuel Kohn",
           "title": null,
           "email": "Skohn@kaplankirsch.com",
           "phone": "415.907.8705",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/samuel-kohn-386aab13"
         },
         {
           "name": "William C. Mumby",
@@ -117,7 +117,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/kaplan-kirsch-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/kaplan-kirsch-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

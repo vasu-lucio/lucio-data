@@ -59,30 +59,30 @@
         {
           "name": "Shulamis Peltz",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "speltz@lauferlaw.com",
+          "phone": "+12124228500",
+          "linkedin_url": "https://www.linkedin.com/in/shulamis-peltz-55b6635"
         },
         {
           "name": "Mark Ellis",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
+          "email": "mellis@lauferlaw.com",
+          "phone": "+12124228500",
           "linkedin_url": null
         },
         {
           "name": "Akiva Goldberg",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "agoldberg@lauferlaw.com",
+          "phone": "+12124228500",
+          "linkedin_url": "https://www.linkedin.com/in/akiva-goldberg-627bb61b2"
         },
         {
           "name": "Meryl Goldberg",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mgoldberg@lauferlaw.com",
+          "phone": "+12124228500",
+          "linkedin_url": "https://www.linkedin.com/in/meryl-goldberg"
         }
       ]
     }

@@ -23,7 +23,7 @@
         "title": "Principal",
         "email": "Email",
         "phone": "646.693.5505",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/rita-glavin-177722b1"
       },
       "co_managing_partner": {
         "name": null,
@@ -38,7 +38,7 @@
         "title": "Executive Director",
         "email": "Email",
         "phone": "646.693.5505",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/trystan-phifer-oleary"
       },
       "ai_contact": {
         "name": null,
@@ -61,21 +61,21 @@
           "title": "Associate",
           "email": "Email",
           "phone": "646.693.5505",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/thomas-halpern-b9861b99"
         },
         {
           "name": "Alexander Holland",
           "title": "Associate",
           "email": "Email",
           "phone": "646.693.5505",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alex-holland-9a535799"
         },
         {
           "name": "Leo Korman",
           "title": "Associate",
           "email": "Email",
           "phone": "646.693.5505",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/leo-korman-6439648b"
         }
       ]
     }

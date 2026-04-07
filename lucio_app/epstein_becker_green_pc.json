@@ -36,9 +36,9 @@
       "tech_contact": {
         "name": "Steven Di Fiore",
         "title": "Chief Operating Officer",
-        "email": null,
+        "email": "sdifiore@ebglaw.com",
         "phone": "212-351-4500",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/steven-difiore-7a542713/"
       },
       "ai_contact": {
         "name": null,
@@ -52,37 +52,37 @@
         {
           "name": "Mark E. Lutes",
           "title": "Member of the Firm",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mlutes@ebglaw.com",
+          "phone": "202-861-1824",
+          "linkedin_url": "https://www.linkedin.com/in/mlutes"
         },
         {
           "name": "James (Jim) P. Flynn",
           "title": "Member of the Firm",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jflynn@ebglaw.com",
+          "phone": "973-639-8285",
+          "linkedin_url": "https://www.linkedin.com/in/james-flynn-86a9464"
         },
         {
           "name": "Christopher M. Farella",
           "title": "Member of the Firm",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "cfarella@ebglaw.com",
+          "phone": "212-351-4935",
+          "linkedin_url": "https://www.linkedin.com/in/christopher-farella-3b553785"
         },
         {
           "name": "Patricia (Trish) M. Wagner",
           "title": "Member of the Firm",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "pwagner@ebglaw.com",
+          "phone": "202-861-4182",
+          "linkedin_url": "https://www.linkedin.com/in/patriciamwagner"
         },
         {
           "name": "Andrew Katznelson",
           "title": "Chief Business Development and Marketing Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "akatznelson@ebglaw.com",
+          "phone": "212-351-4595",
+          "linkedin_url": "https://www.linkedin.com/in/andrewkatznelson/"
         }
       ]
     },

@@ -23,7 +23,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gregory-florio-6854433b"
       },
       "co_managing_partner": {
         "name": "Gregory Florio",
@@ -54,32 +54,33 @@
           "title": "Legal Associate",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/hanna-katz-41562a316"
         },
         {
           "name": "Danielle Tuluca",
           "title": "Legal Associate",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/danielle-tuluca-220670b2"
         },
         {
           "name": "Simran Ahuja",
           "title": "Post-Bar Law Clerk",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/simran-ahuja-047387142"
         },
         {
           "name": "Charlotte Goralski",
           "title": "Regulatory Compliance Specialist",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/charlotte-goralski-ab54b944"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/florio-leahy-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/florio-leahy-llp",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Nicole",

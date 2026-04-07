@@ -54,32 +54,33 @@
           "name": "Bonnie Kraham",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "800-500-2525",
+          "linkedin_url": "https://www.linkedin.com/in/michaelettinger"
         },
         {
           "name": "Suzanne Ettinger",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "800-500-2525",
+          "linkedin_url": "https://www.linkedin.com/in/michaelettinger"
         },
         {
           "name": "Danielle Becker",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "800-500-2525",
+          "linkedin_url": "https://www.linkedin.com/in/michaelettinger"
         },
         {
           "name": "James Asquith",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "800-500-2525",
+          "linkedin_url": "https://www.linkedin.com/in/michaelettinger"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ettinger-law-firm"
   },
   "email": {
     "to_name": "Michael",

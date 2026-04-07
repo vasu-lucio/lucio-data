@@ -23,15 +23,15 @@
         "name": "Rebecca Bratter",
         "title": "Managing Partner",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "+1-888-491-1120",
+        "linkedin_url": "https://www.linkedin.com/in/rebecca-bratter-744b404"
       },
       "co_managing_partner": {
         "name": "Gerald Greenspoon",
         "title": "Co-Managing Director",
         "email": "[[email protected]]",
         "phone": "(954) 267-8000",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gerald-greenspoon-7376b713"
       },
       "founders": [],
       "tech_contact": {
@@ -39,7 +39,7 @@
         "title": "Chief Operating Officer and Chief Financial Officer",
         "email": "[[email protected]]",
         "phone": "(754) 200-7090",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jen-fante-876b401b/"
       },
       "ai_contact": {
         "name": null,
@@ -54,8 +54,8 @@
           "name": "Michael E. Marder",
           "title": "Co-Managing Director",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+1-888-491-1120",
+          "linkedin_url": "https://www.linkedin.com/in/michael-e-marder-258234255/"
         }
       ]
     },

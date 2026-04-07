@@ -53,21 +53,21 @@
           "title": "Partner",
           "email": "[[email protected]]",
           "phone": "+1 (646) 777-4511",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mark-elliott-8a229638/"
         },
         {
           "name": "Matthew Levine",
           "title": "Partner",
           "email": "[[email protected]]",
           "phone": "+1 (646) 777-4513",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-levine-2603216/"
         },
         {
           "name": "Ilene Jaroslaw",
           "title": "Partner",
           "email": "[[email protected]]",
           "phone": "+1 (646) 777-4514",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ilenejaroslaw/"
         },
         {
           "name": "Lynn A. Neils",
@@ -81,11 +81,12 @@
           "title": "Partner",
           "email": "[[email protected]]",
           "phone": "+1 (646) 585-6861",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jared-clark-esq"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/oakforestconsulting"
+    "linkedin_company_url": "https://www.linkedin.com/company/oakforestconsulting",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

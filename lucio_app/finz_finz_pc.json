@@ -25,7 +25,7 @@
         "title": "Partner and Managing Attorney",
         "email": "cfinz@finzfirm.com",
         "phone": "(516) 433-3000",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jackie-finz-0b861a10"
       },
       "co_managing_partner": {
         "name": null,
@@ -39,7 +39,7 @@
           "name": "Leonard L. Finz",
           "title": "Founder and Former NYS Supreme Court Justice",
           "email": null,
-          "phone": null,
+          "phone": "8558673476",
           "linkedin_url": null
         }
       ],
@@ -62,16 +62,16 @@
         {
           "name": "Stuart L. Finz",
           "title": "Partner, Trial Attorney, and CEO",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "sfinz@finzfirm.com",
+          "phone": "8558673476",
+          "linkedin_url": "https://www.linkedin.com/in/stuart-l-finz-466a6119"
         },
         {
           "name": "Todd M. Rubin",
           "title": "Partner and Trial Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "trubin@finzfirm.com",
+          "phone": "8558673476",
+          "linkedin_url": "https://www.linkedin.com/in/todd-rubin-6322a146"
         },
         {
           "name": "Jacquelin Finz",
@@ -85,7 +85,7 @@
           "title": "Trial Attorney",
           "email": "bfinz@finzfirm.com",
           "phone": "(516) 433-3000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-mermigis-5bb60711"
         }
       ]
     },

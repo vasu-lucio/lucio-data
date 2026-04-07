@@ -39,9 +39,9 @@
       "tech_contact": {
         "name": "Mike Cavanaugh",
         "title": "Office Manager",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "mcavanaugh@hballp.com",
+        "phone": "212-956-9506",
+        "linkedin_url": "https://www.linkedin.com/in/mikecav/"
       },
       "ai_contact": {
         "name": null,
@@ -57,56 +57,56 @@
           "title": "Partner",
           "email": "info@hballp.com",
           "phone": "212-956-9541",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alanbaldachin/"
         },
         {
           "name": "Kathey Guo",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kguo@hballp.com",
+          "phone": "212-295-2723",
+          "linkedin_url": "https://www.linkedin.com/in/kathey-guo-366805261/"
         },
         {
           "name": "Douglas Hand",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dhand@hballp.com",
+          "phone": "212-956-9539",
+          "linkedin_url": "https://www.linkedin.com/in/douglas-hand/"
         },
         {
           "name": "Adam Michaels",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "amichaels@hballp.com",
+          "phone": "212-956-9508",
+          "linkedin_url": "https://www.linkedin.com/in/amichaels/"
         },
         {
           "name": "Andrew Peken",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dschumeister@hballp.com",
+          "phone": "646-752-2733",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-peken-11669a8/"
         },
         {
           "name": "Mark Pieri",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mpieri@hballp.com",
+          "phone": "212-956-9504",
+          "linkedin_url": "https://www.linkedin.com/in/mark-pieri-617a603/"
         },
         {
           "name": "Marc Reiner",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mreiner@hballp.com",
+          "phone": "212-295-2719",
+          "linkedin_url": "https://www.linkedin.com/in/marc-reiner-03a3aa18/"
         },
         {
           "name": "Robert Scott",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rscott@hballp.com",
+          "phone": "212-956-9505",
+          "linkedin_url": "https://www.linkedin.com/in/robert-scott-070316/"
         }
       ]
     },

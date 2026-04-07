@@ -15,7 +15,7 @@
         "name": "Jeffrey D. Forchelli",
         "title": "Chairman of the Firm and Co-Managing Partner",
         "email": "jforchelli@forchellilaw.com",
-        "phone": null,
+        "phone": "+1-516-248-1700",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -47,14 +47,14 @@
           "title": "Deputy Managing Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richard-blumberg"
         },
         {
           "name": "Daniel P. Deegan",
           "title": "Partner",
           "email": "ddeegan@forchellilaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dan-deegan-5b20954"
         }
       ]
     }

@@ -53,14 +53,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adamcford"
         },
         {
           "name": "Matthew Aaron Ford",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthewaaronford"
         },
         {
           "name": "Noah D. Genel",
@@ -74,7 +74,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ren\u00e9e-jarusinsky-31b7602"
         },
         {
           "name": "Robert S. Landy",
@@ -88,11 +88,12 @@
           "title": "Partner",
           "email": "kobrien@fordobrien.com",
           "phone": "212-444-4892",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/obrienkyle"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/linkedin"
+    "linkedin_company_url": "https://www.linkedin.com/company/linkedin",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

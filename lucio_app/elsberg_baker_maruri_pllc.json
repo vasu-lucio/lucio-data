@@ -34,42 +34,42 @@
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-elsberg-38a1632a"
         },
         {
           "name": "Rollo Baker",
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rollo-baker-66491076"
         },
         {
           "name": "Silpa Maruri",
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/silpa-maruri-10887473"
         },
         {
           "name": "Michael Duke",
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-duke-89b575a5"
         },
         {
           "name": "Vivek Tata",
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/vivektata"
         },
         {
           "name": "Jared Ruocco",
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jared-ruocco-657ab610"
         }
       ],
       "tech_contact": {
@@ -77,7 +77,7 @@
         "title": "Chief Financial Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/colleen-o-neill-bb61258"
       },
       "ai_contact": {
         "name": null,
@@ -93,24 +93,26 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alexandra-sadinsky-09a22933"
         },
         {
           "name": "Brian Campbell",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-campbell-71855b42"
         },
         {
           "name": "Joanna Desposati",
           "title": "Legal Recruiting Director",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joanna-desposati-27a97378"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/elsberg-baker-maruri-pllc/",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

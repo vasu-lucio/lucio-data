@@ -49,9 +49,9 @@
       "tech_contact": {
         "name": "Petagay Hutchinson",
         "title": "Office Manager",
-        "email": null,
+        "email": "phutchinson@gartnerbloom.com",
         "phone": "212-759-5800 X 230",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ileana-martinez-467359173"
       },
       "ai_contact": {
         "name": null,
@@ -67,7 +67,7 @@
           "title": "Partner",
           "email": null,
           "phone": "973-921-0300 X 306",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/marc-shortino-50bb5162"
         },
         {
           "name": "Christine M. Messina",
@@ -77,7 +77,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://de.linkedin.com/company/gartner-bloom"
   },
   "email": {
     "to_name": "Petagay",

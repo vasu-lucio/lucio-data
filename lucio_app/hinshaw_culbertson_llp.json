@@ -25,8 +25,8 @@
         "name": "Robert T. Shannon",
         "title": "Firm Managing Partner",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "312-704-3901",
+        "linkedin_url": "https://www.linkedin.com/in/roberttshannon/"
       },
       "co_managing_partner": {
         "name": null,
@@ -40,7 +40,7 @@
         "name": "Tracy Elmblad",
         "title": "Chief Operating Officer",
         "email": null,
-        "phone": null,
+        "phone": "312-704-3330",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -56,36 +56,36 @@
           "name": "Julie Amos",
           "title": "Chief Marketing & Business Development Officer",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "312-704-3301",
+          "linkedin_url": "https://www.linkedin.com/in/julie-a-amos"
         },
         {
           "name": "Jim Barbaria",
           "title": "Chief Financial Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-barbaria-aa2790189"
         },
         {
           "name": "Tara Cook",
           "title": "Chief Information Officer",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-655-3861",
+          "linkedin_url": "https://www.linkedin.com/in/courtenay-joseph-15116631"
         },
         {
           "name": "Belinda Garrett, SPHR, SCP",
           "title": "Chief Human Resources Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/belinda-gonzalez-ba40b6370"
         },
         {
           "name": "Peter D. Sullivan",
           "title": "Chairman",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "312-704-3102",
+          "linkedin_url": "https://www.linkedin.com/in/peterasullivan"
         }
       ]
     },

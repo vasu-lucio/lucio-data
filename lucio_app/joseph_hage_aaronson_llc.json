@@ -58,14 +58,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopher-joseph-a10797149"
         },
         {
           "name": "Courtney A. Solomon",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/courtney-ad"
         },
         {
           "name": "Mara Leventhal",
@@ -86,14 +86,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mustopadesign"
         },
         {
           "name": "Benjamin A. Taylor",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ben-taylor-49200561"
         },
         {
           "name": "Roman Asudulayev",
@@ -107,7 +107,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rachel-cherington-518200"
         },
         {
           "name": "Eric K. Stodola",
@@ -121,14 +121,14 @@
           "title": "In Memoriam",
           "email": "gjoseph@jhany.com",
           "phone": "+1 (212) 407-1200",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/paul-bschorr-46265547"
         },
         {
           "name": "Honey L. Kober",
           "title": "Of Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthage"
         },
         {
           "name": "Samuel N. Fraidin",
@@ -142,10 +142,11 @@
           "title": "Of Counsel (USBJ Retired)",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-e-cornegy-jr-8465b516"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/joseph-hage-aaronson-llc"
   },
   "email": {}
 }

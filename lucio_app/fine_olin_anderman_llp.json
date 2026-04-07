@@ -57,8 +57,8 @@
         {
           "name": "Marvin Anderman",
           "title": "Founder",
-          "email": null,
-          "phone": null,
+          "email": "manderman@foalaw.com",
+          "phone": "1-800-522-9001",
           "linkedin_url": null
         }
       ],
@@ -82,29 +82,29 @@
           "name": "Andrew G. Finkelstein",
           "title": "Personal Injury - General",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-800-522-9001",
+          "linkedin_url": "https://www.linkedin.com/in/andrew-g-finkelstein-b92a061b4"
         },
         {
           "name": "Rodrigo Arcuri",
           "title": "Workers' Compensation",
-          "email": null,
-          "phone": null,
+          "email": "Rarcuri@foalaw.com",
+          "phone": "1-800-522-9001",
           "linkedin_url": null
         },
         {
           "name": "Patricia Fontaine",
           "title": "Workers' Compensation",
-          "email": null,
+          "email": "Pfontaine@foalaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Vincent J. Rossillo",
           "title": "Workers' Compensation, Social Security Disability, Employment & Labor",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "Vrossillo@foalaw.com",
+          "phone": "1-800-522-9001",
+          "linkedin_url": "https://www.linkedin.com/in/vincent-rossillo-28b923178"
         }
       ]
     }

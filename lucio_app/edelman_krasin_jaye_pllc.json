@@ -29,14 +29,14 @@
         "title": "Senior Partner",
         "email": null,
         "phone": "800-469-7429",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/paul-edelman-0522403a"
       },
       "co_managing_partner": {
         "name": "Lawrence P. Krasin",
         "title": "Senior Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/lawrence-krasin-5a860b7"
       },
       "founders": [],
       "tech_contact": {
@@ -44,7 +44,7 @@
         "title": "Case & Office Manager",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/carissa-taffel-913761287"
       },
       "ai_contact": {
         "name": null,
@@ -67,10 +67,11 @@
           "title": "Associate Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ari-friedman-93860054"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/edelman-krasin-jaye-pllc"
   },
   "email": {
     "to_name": "Carissa",

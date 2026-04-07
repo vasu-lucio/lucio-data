@@ -24,7 +24,7 @@
         "title": "Firm Co-Chair & Principal",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/dtosca"
       },
       "founders": [],
       "tech_contact": {
@@ -48,10 +48,11 @@
           "title": "Firm Co-Chair & Principal",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rafael-gomez-98586b301"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/foster-garvey-pc"
   },
   "email": {}
 }

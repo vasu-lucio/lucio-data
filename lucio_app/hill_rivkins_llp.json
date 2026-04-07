@@ -51,7 +51,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jason-saville-9764a7182"
         },
         {
           "name": "Ernesto V. Luzzatto",
@@ -65,24 +65,25 @@
           "title": "Senior Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ray-hayden-4963255"
         },
         {
           "name": "Gerard W. White",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gerard-white-212bb5248"
         },
         {
           "name": "Brian P. R. Eisenhower",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-riopelle-5300449"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/freehill-hogan-&-mahar-llp"
   },
   "email": {}
 }

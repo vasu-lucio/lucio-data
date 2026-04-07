@@ -52,9 +52,9 @@
       "tech_contact": {
         "name": "Kevin McCarthy",
         "title": "Chief Financial & Administrative Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "KMcCarthy@KiernanTrebach.com",
+        "phone": "(202) 712-7000",
+        "linkedin_url": "https://www.linkedin.com/in/kevinmccarthy-kiernantrebach/"
       },
       "ai_contact": {
         "name": null,
@@ -70,28 +70,28 @@
           "title": "Firm Co-Chair",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alan-block"
         },
         {
           "name": "Michael Smith",
           "title": "Firm Co-Chair",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "msmith@kiernantrebach.com",
+          "phone": "(617) 426-3900",
+          "linkedin_url": "https://www.linkedin.com/in/mike-smith-kiernantrebach/"
         },
         {
           "name": "Michael Chefitz",
           "title": "Partner, General Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mchefitz@kiernantrebach.com",
+          "phone": "(617) 426-3900",
+          "linkedin_url": "https://www.linkedin.com/in/mike-chefitz-11ba154/"
         },
         {
           "name": "Dennis Wakeman",
           "title": "Director of Information Systems",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/denniswakeman"
         }
       ]
     },

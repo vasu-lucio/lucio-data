@@ -54,7 +54,7 @@
           "title": "Partner",
           "email": null,
           "phone": "212.350.8850",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/israel-david-8060558"
         },
         {
           "name": "Mark Cianci",
@@ -89,21 +89,21 @@
           "title": "Associate",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richard-barbecho-9b276647"
         },
         {
           "name": "Madeline Sheffield",
           "title": "Associate",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/madeline-sheffield-bb3026138"
         },
         {
           "name": "Adia Davis",
           "title": "Associate",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/hannah-belitz-1a067367"
         },
         {
           "name": "Mark Kahn",
@@ -114,7 +114,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/israel-david-llc"
+    "linkedin_company_url": "https://www.linkedin.com/company/israel-david-llc",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

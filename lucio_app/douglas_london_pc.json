@@ -36,15 +36,15 @@
           "name": "Gary J. Douglas",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-566-7500",
+          "linkedin_url": "https://www.linkedin.com/in/gary-douglas-672a6320"
         },
         {
           "name": "Michael A. London",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-566-7500",
+          "linkedin_url": "https://www.linkedin.com/in/kfehsenfeld"
         }
       ],
       "tech_contact": {
@@ -67,8 +67,8 @@
           "name": "Randolph D. Janis",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-566-7500",
+          "linkedin_url": "https://www.linkedin.com/in/randolph-janis-73476b86"
         },
         {
           "name": "Stephanie O\u2019Connor",
@@ -81,7 +81,7 @@
           "name": "Philippa Ratzki, Esq.",
           "title": "Managing Attorney",
           "email": null,
-          "phone": null,
+          "phone": "212-566-7500",
           "linkedin_url": null
         }
       ]

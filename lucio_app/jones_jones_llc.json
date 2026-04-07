@@ -55,9 +55,9 @@
         {
           "name": "Matthew Jones",
           "title": "Executive Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mjones@jonesjones.com",
+          "phone": "2127761808",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-jones-esq/"
         },
         {
           "name": "William Jones",
@@ -69,16 +69,16 @@
         {
           "name": "Kristina Jones",
           "title": "Operations Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "clientservices@jonesjonesllc.com",
+          "phone": "2127761808",
+          "linkedin_url": "https://www.linkedin.com/in/kristina-jones-4702391b0"
         },
         {
           "name": "Sarah Thomas",
           "title": "Managing Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "sthomas@jonesjonesllc.com",
+          "phone": "2127761808",
+          "linkedin_url": "https://www.linkedin.com/in/sarah-thomas-5328119/"
         }
       ]
     },

@@ -43,23 +43,23 @@
         {
           "name": "Douglas S. Ellenoff",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ellenoff@egsllp.com",
+          "phone": "212 370 1300",
+          "linkedin_url": "https://www.linkedin.com/in/douglas-ellenoff-17b98ab6"
         },
         {
           "name": "Barry Grossman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "bigrossman@egsllp.com",
+          "phone": "212 370 1300",
           "linkedin_url": null
         },
         {
           "name": "Allen Schole",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "schole@egsllp.com",
+          "phone": "212 370 1300",
+          "linkedin_url": "https://www.linkedin.com/in/allen-schole-74b502118"
         }
       ],
       "tech_contact": {
@@ -81,16 +81,16 @@
         {
           "name": "Steven Mermelstein",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "smermelstein@egsllp.com",
+          "phone": "(212) 370-1300",
+          "linkedin_url": "https://www.linkedin.com/in/steven-mermelstein-882350183"
         },
         {
           "name": "Maura I Russell",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mrussell@egsllp.com",
+          "phone": "(212) 370-1300",
+          "linkedin_url": "https://www.linkedin.com/in/maura-i-russell-2b880562"
         }
       ]
     },

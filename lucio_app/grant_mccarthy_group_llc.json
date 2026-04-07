@@ -70,16 +70,16 @@
         {
           "name": "Rich Schmidt",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rschmidt@gmgconsulting.com",
+          "phone": "4126005689",
+          "linkedin_url": "https://www.linkedin.com/in/rich-schmidt-11053b32"
         },
         {
           "name": "Diane Reach",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dreach@gmgconsulting.com",
+          "phone": "914.798.9900",
+          "linkedin_url": "https://www.linkedin.com/in/diane-reach-63365b83"
         },
         {
           "name": "Zachary Grant",
@@ -93,17 +93,18 @@
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-larson-b86126276"
         },
         {
           "name": "Amanda Bishop Gebicki",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/bianca-bishop-985439125"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/grant-mccarthy-group-llc"
   },
   "email": {}
 }

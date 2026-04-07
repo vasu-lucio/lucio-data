@@ -30,7 +30,7 @@
         "name": "Andrew L. Libo",
         "title": "Co-Founder",
         "email": null,
-        "phone": null,
+        "phone": "800-529-9997",
         "linkedin_url": null
       },
       "founders": [],
@@ -54,15 +54,15 @@
           "name": "Jeff S. Korek",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "800-529-9997",
           "linkedin_url": "https://www.linkedin.com/company/gersowitz-libo-%26-korek-p.c."
         },
         {
           "name": "Michael A. Fruhling",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "800-529-9997",
+          "linkedin_url": "https://www.linkedin.com/in/averymiller2001"
         },
         {
           "name": "Jennifer K. Fink",
@@ -89,19 +89,20 @@
           "name": "Nicolas Bagley",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "800-529-9997",
+          "linkedin_url": "https://www.linkedin.com/in/nicholas-bagley"
         },
         {
           "name": "James H. Bartolomei",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jamesbartolomei"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/gersowitz-libo-&-korek-p.c."
+    "linkedin_company_url": "https://www.linkedin.com/company/gersowitz-libo-&-korek-p.c.",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Edward",

@@ -37,14 +37,14 @@
         {
           "name": "Karl Huth",
           "title": "Partner and Founder",
-          "email": null,
+          "email": "huth@huthreynolds.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/karl-huth-8931723b"
         },
         {
           "name": "Matthew Reynolds",
           "title": "Partner and Co-Founder",
-          "email": null,
+          "email": "reynolds@huthreynolds.com",
           "phone": "(646) 872-9353",
           "linkedin_url": null
         }
@@ -68,23 +68,23 @@
         {
           "name": "Gregory Crapanzano",
           "title": "Senior Counsel",
-          "email": null,
+          "email": "gcrapanzano@huthreynolds.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/greg-crapanzano-9a188148"
         },
         {
           "name": "James Fribley",
           "title": "Counsel",
-          "email": null,
+          "email": "jfribley@huthreynolds.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Lee Hill",
           "title": "Counsel",
-          "email": null,
+          "email": "lhill@huthreynolds.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lee-hill-715a0a76"
         }
       ]
     },

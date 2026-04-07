@@ -55,40 +55,41 @@
           "name": "G. William Germano",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "631-588-8778",
           "linkedin_url": null
         },
         {
           "name": "Michael J. Cahill",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "631-588-8778",
           "linkedin_url": null
         },
         {
           "name": "Meghan Healy",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "631-588-8778",
           "linkedin_url": null
         },
         {
           "name": "Doris B. Bilotti",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "631-588-8778",
           "linkedin_url": null
         },
         {
           "name": "Marie E. Knapp",
           "title": null,
           "email": null,
-          "phone": null,
+          "phone": "631-588-8778",
           "linkedin_url": null
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/germano-&-cahill-p-c-"
+    "linkedin_company_url": "https://www.linkedin.com/company/germano-&-cahill-p-c-",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

@@ -56,7 +56,7 @@
           "title": "Partner",
           "email": "RKaplan@kaplanfox.com",
           "phone": "(800) 290-1952",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robert-kaplan-593a5834"
         },
         {
           "name": "Laurence D. King",
@@ -70,14 +70,14 @@
           "title": "Owner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/fred-fox-a7068012"
         },
         {
           "name": "Aaron Schwartz",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/aaron-schwartz-85883117"
         },
         {
           "name": "Greg Arenson",
@@ -88,7 +88,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/kaplan-fox-&-kilsheimer-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/kaplan-fox-&-kilsheimer-llp",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

@@ -40,15 +40,15 @@
           "name": "Andrew D. Fanizzi",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "+17162848888",
           "linkedin_url": null
         },
         {
           "name": "Paul K. Barr",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+17162848888",
+          "linkedin_url": "https://www.linkedin.com/in/paul-k-barr-0180117"
         }
       ],
       "tech_contact": {
@@ -72,11 +72,12 @@
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tina-kasperek-5828037b"
         }
       ]
     },
-    "linkedin_company_url": "https://kr.linkedin.com/company/fanizziandbarr"
+    "linkedin_company_url": "https://kr.linkedin.com/company/fanizziandbarr",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

@@ -39,7 +39,7 @@
         "name": "Amanda R. Crain",
         "title": "Managing Partner",
         "email": null,
-        "phone": null,
+        "phone": "1-612-217-8711",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -70,68 +70,69 @@
           "name": "Artemio Guerra",
           "title": "Managing Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-212-451-9533",
+          "linkedin_url": "https://www.linkedin.com/in/artemio-guerra-10b36451"
         },
         {
           "name": "Benjamin Ellis",
           "title": "Managing Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-317-779-3537",
+          "linkedin_url": "https://www.linkedin.com/in/benjamin-ellis-b449125"
         },
         {
           "name": "Cecilia N. Brennan Esq.",
           "title": "Managing Partner - San Diego And Irvine Offices",
           "email": null,
-          "phone": null,
+          "phone": "1-619-717-6409",
           "linkedin_url": null
         },
         {
           "name": "Claire Hunter",
           "title": "Managing Partner - Denver",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-303-991-3075",
+          "linkedin_url": "https://www.linkedin.com/in/clairemunger"
         },
         {
           "name": "Corey Asay",
           "title": "Managing Partner - Cincinnati",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-513-822-4024",
+          "linkedin_url": "https://www.linkedin.com/in/coreyasay"
         },
         {
           "name": "Daniel Kalish",
           "title": "Managing Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "8007911007",
+          "linkedin_url": "https://www.linkedin.com/in/daniel-kalish-74194768"
         },
         {
           "name": "Hugh Barber",
           "title": "Managing Partner, Trial Practice Division",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-206-838-2504",
+          "linkedin_url": "https://www.linkedin.com/in/hugh-barber-b713172"
         },
         {
           "name": "Jermaine A. Walker (Jay)",
           "title": "Managing Partner Of Atlanta And Birmingham Offices",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-404-301-4022",
+          "linkedin_url": "https://www.linkedin.com/in/jermaine-jay-a-walker-251a3a5"
         },
         {
           "name": "John Ziegelmeyer III",
           "title": "Managing Partner (kansas City)",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-816-607-4691",
+          "linkedin_url": "https://www.linkedin.com/in/john-ziegelmeyer-iii-568b9813a"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/hkm-employment-attorneys-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/hkm-employment-attorneys-llp",
+    "linkedin_size": "1-10"
   },
   "email": {}
 }

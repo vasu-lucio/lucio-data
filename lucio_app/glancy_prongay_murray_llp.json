@@ -24,7 +24,7 @@
         "title": "Managing Partner",
         "email": "rprongay@glancylaw.com",
         "phone": "888-773-9224",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/robert-prongay-b5184a113"
       },
       "co_managing_partner": {
         "name": null,
@@ -53,29 +53,29 @@
         {
           "name": "Kara Wolke",
           "title": "Partner, Co-chair of the Firm\u2019s securities litigation group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kwolke@glancylaw.com",
+          "phone": "+1-888-773-9224",
+          "linkedin_url": "https://www.linkedin.com/in/zouk"
         },
         {
           "name": "Jonathan Rotter",
           "title": "Partner, Chair of the Firm\u2019s antitrust, consumer protection, and privacy groups",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jrotter@glancylaw.com",
+          "phone": "+1-888-773-9224",
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-rotter"
         },
         {
           "name": "Charles Linehan",
           "title": "Senior Counsel",
-          "email": null,
-          "phone": null,
+          "email": "clinehan@glancylaw.com",
+          "phone": "+1-888-773-9224",
           "linkedin_url": null
         },
         {
           "name": "Garth Spencer",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "gspencer@glancylaw.com",
+          "phone": "+1-888-773-9224",
           "linkedin_url": null
         }
       ]

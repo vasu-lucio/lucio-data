@@ -53,35 +53,35 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-margiotta-2a7663116"
         },
         {
           "name": "Laura Popp-rosenberg",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rachel-rosencrans-2542a5156"
         },
         {
           "name": "Leo Kittay",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lkittay@fzlz.com",
+          "phone": "2128138210",
+          "linkedin_url": "https://www.linkedin.com/in/leo-kittay-96a36236/"
         },
         {
           "name": "Jason Jones",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jason-jones-b3452610b"
         },
         {
           "name": "Maritza Schaeffer",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/maritza-schaeffer-49b5082a"
         }
       ]
     },

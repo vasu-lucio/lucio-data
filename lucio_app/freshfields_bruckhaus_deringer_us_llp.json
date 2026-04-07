@@ -47,7 +47,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://uk.linkedin.com/in/alan-mason-407a9723"
       },
       "co_managing_partner": {
         "name": null,
@@ -81,7 +81,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://tn.linkedin.com/company/freshfields"
   },
   "email": {}
 }

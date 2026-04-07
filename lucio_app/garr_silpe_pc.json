@@ -26,15 +26,15 @@
         "name": "Ira E. Garr",
         "title": null,
         "email": null,
-        "phone": null,
+        "phone": "212-750-1333",
         "linkedin_url": null
       },
       "co_managing_partner": {
         "name": "Steven M. Silpe",
         "title": "Founding Partner",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "212-750-1333",
+        "linkedin_url": "https://www.linkedin.com/in/stevensilpe"
       },
       "founders": [],
       "tech_contact": {
@@ -56,30 +56,30 @@
         {
           "name": "Jordana Barish",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jordana@garrsilpe.com",
+          "phone": "212.750.1333",
+          "linkedin_url": "https://www.linkedin.com/in/jordanabarish"
         },
         {
           "name": "Lindsay Miller",
           "title": "Attorney",
-          "email": null,
-          "phone": null,
+          "email": "lindsay@garrsilpe.com",
+          "phone": "212.750.1333",
           "linkedin_url": null
         },
         {
           "name": "Jacqueline P. Itani",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "212-750-1333",
           "linkedin_url": null
         },
         {
           "name": "Emily R. Rubin",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-750-1333",
+          "linkedin_url": "https://www.linkedin.com/in/emilyrrubin"
         }
       ]
     },

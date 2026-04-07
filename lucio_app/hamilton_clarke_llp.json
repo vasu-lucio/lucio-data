@@ -32,7 +32,7 @@
         "title": "Managing Partner",
         "email": "Clarke@HCLLPLaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/lance-a-clarke-4244967"
       },
       "founders": [],
       "tech_contact": {
@@ -40,7 +40,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/evan-k-brooks"
       },
       "ai_contact": {
         "name": null,
@@ -63,10 +63,12 @@
           "title": "Firm Administrator & Executive Director of Community Engagement",
           "email": "sc@hcllplaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stacey-clarke-9a9986282"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hamilton-clarke-llp",
+    "linkedin_size": "201-500"
   },
   "email": {
     "to_name": "Brooks",

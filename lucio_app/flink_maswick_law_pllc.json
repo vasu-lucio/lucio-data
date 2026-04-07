@@ -47,14 +47,14 @@
           "title": "Founding Member",
           "email": "eflink@flinkmaswicklaw.com",
           "phone": "518-786-1800",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kathleen-keck-88676b1b"
         },
         {
           "name": "James L. Maswick",
           "title": "Founding Member",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-maswick-a82865221"
         }
       ],
       "tech_contact": {
@@ -78,7 +78,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/molly-landis-08b64829a"
         },
         {
           "name": "Jill E. O'Sullivan",
@@ -99,10 +99,11 @@
           "title": "Associate Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/elliot-nicks-445579138"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/flink-maswick-law-pllc"
   },
   "email": {}
 }

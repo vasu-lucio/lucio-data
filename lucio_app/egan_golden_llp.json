@@ -52,41 +52,42 @@
         {
           "name": "Brian T. Egan",
           "title": "Partner",
-          "email": null,
+          "email": "egan@egangolden.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/attorneyegan"
         },
         {
           "name": "Michael Garabedian",
           "title": "Partner",
-          "email": null,
+          "email": "garabedian@egangolden.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Harvey B. Besunder",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "hbesunder@egangolden.com",
+          "phone": "+16314478100",
+          "linkedin_url": "https://www.linkedin.com/in/harvey-besunder-a954336/"
         },
         {
           "name": "Michael DiLeo",
           "title": "Partner",
-          "email": null,
+          "email": "mdileo@egangolden.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-dileo-b6813a1b"
         },
         {
           "name": "Karen Golden",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "golden@egangolden.com",
+          "phone": "+16313292828",
+          "linkedin_url": "https://www.linkedin.com/in/karen-golden-52885673/"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/egan-&-golden-llp-attorneys"
+    "linkedin_company_url": "https://www.linkedin.com/company/egan-&-golden-llp-attorneys",
+    "linkedin_size": "5000+"
   },
   "email": {}
 }

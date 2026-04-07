@@ -45,21 +45,21 @@
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-kent-43509322"
         },
         {
           "name": "Harry C. Beatty",
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kenton-beatty-31b388330"
         },
         {
           "name": "Jack A. Gordon",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jack-a-gordon-esq-97959a10"
         }
       ],
       "tech_contact": {
@@ -86,7 +86,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kbg-llp"
   },
   "email": {}
 }

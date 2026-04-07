@@ -1,6 +1,6 @@
 # Secrets & credentials — never commit these
-gmail_credentials.json
-gmail_token.json
+gmail_credentials*.json
+gmail_token*.json
 
 # Local database
 outreach.db

@@ -36,20 +36,20 @@
           "title": "Partner",
           "email": "Vfusco@FBRlaw.com",
           "phone": "516-496-0400",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/victor-fusco-8564846"
         },
         {
           "name": "Richard J. Brandenstein",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "RBrandenstein@FBRlaw.com",
+          "phone": "5164960400",
           "linkedin_url": null
         },
         {
           "name": "Milan Rada",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "MRada@FBRlaw.com",
+          "phone": "5164960400",
           "linkedin_url": null
         }
       ],
@@ -72,8 +72,8 @@
         {
           "name": "Sean James Beaton",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "SBeaton@FBRlaw.com",
+          "phone": "5164960400",
           "linkedin_url": null
         },
         {
@@ -81,11 +81,12 @@
           "title": "Partner",
           "email": "JRada@FBRlaw.com",
           "phone": "516-496-0400",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jared-rada-esq-a4a6143a"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/fusco-brandenstein-rada-p-c"
+    "linkedin_company_url": "https://www.linkedin.com/company/fusco-brandenstein-rada-p-c",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

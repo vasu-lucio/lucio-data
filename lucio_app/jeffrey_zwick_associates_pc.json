@@ -23,7 +23,7 @@
         "title": "Founding Partner",
         "email": "jeffrey@jzlegal.com",
         "phone": "718-513-2050 ext. 123",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jeffrey-zwick-09502382"
       },
       "co_managing_partner": {
         "name": null,
@@ -52,43 +52,43 @@
         {
           "name": "Daniel Cohen",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
+          "email": "daniel@jzlegal.com",
+          "phone": "718-513-2050",
           "linkedin_url": null
         },
         {
           "name": "Mordy Goldenberg",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "mordy@jzlegal.com",
+          "phone": "718-513-2050",
           "linkedin_url": null
         },
         {
           "name": "David Hager",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dhager@jzlegal.com",
+          "phone": "718-513-2050",
+          "linkedin_url": "https://www.linkedin.com/in/david-hager-18527b21"
         },
         {
           "name": "Hillel Lazarus",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "hillel@jzlegal.com",
+          "phone": "718-513-2050",
+          "linkedin_url": "https://www.linkedin.com/in/hillellazarus"
         },
         {
           "name": "Ilan Lerman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ilan@jzlegal.com",
+          "phone": "718-513-2050",
+          "linkedin_url": "https://www.linkedin.com/in/ilan-lerman-97630a4"
         },
         {
           "name": "Benjamin J. Stanger",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "ben@jzlegal.com",
+          "phone": "718-513-2050",
           "linkedin_url": null
         }
       ]

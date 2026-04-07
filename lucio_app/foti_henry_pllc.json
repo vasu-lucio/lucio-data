@@ -78,11 +78,12 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-cartwright-682136115"
         }
       ]
     },
-    "linkedin_company_url": "https://af.linkedin.com/company/foti-henry-pllc"
+    "linkedin_company_url": "https://af.linkedin.com/company/foti-henry-pllc",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

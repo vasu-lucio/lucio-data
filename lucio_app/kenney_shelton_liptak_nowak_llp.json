@@ -27,8 +27,8 @@
       "managing_partner": {
         "name": "Thomas Liptak",
         "title": "Founding and Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "TELiptak@KSLNLaw.com",
+        "phone": "1+716-853-3801",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -44,21 +44,21 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patrick-kenney-b2160910"
         },
         {
           "name": "Judi Shelton",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/judi-shelton-a2ab81b"
         },
         {
           "name": "Thomas Liptak",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "TELiptak@KSLNLaw.com",
+          "phone": "1+716-853-3801",
+          "linkedin_url": "https://www.linkedin.com/in/thomas-liptak-549b9230b"
         }
       ],
       "tech_contact": {
@@ -80,8 +80,8 @@
         {
           "name": "Jeffrey A Carlino",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "JACarlino@KSLNLaw.com",
+          "phone": "1+716-853-3801",
           "linkedin_url": null
         },
         {
@@ -89,18 +89,19 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jennifer-collesano-57a16611"
         },
         {
           "name": "Mark Collesano",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "MACollesano@KSLNLaw.com",
+          "phone": "1+716-853-3801",
+          "linkedin_url": "https://www.linkedin.com/in/jennifer-collesano-57a16611"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/kenney-shelton-liptak-nowak-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/kenney-shelton-liptak-nowak-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

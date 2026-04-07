@@ -24,7 +24,7 @@
         "title": "Founding & Managing Partner",
         "email": "mfarber@newyorktrial.com",
         "phone": "212-972-7040",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michaelsethfarber"
       },
       "co_managing_partner": {
         "name": null,
@@ -55,7 +55,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/howard-balsam-b521664"
         },
         {
           "name": "Thomas T. Papain",
@@ -69,14 +69,14 @@
           "title": "Founding Partner",
           "email": "mferrari@newyorktrial.com",
           "phone": "212-972-7040",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-ferrari-730ba96b"
         },
         {
           "name": "Darya Kapulina",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dkapulina@newyorktrial.com",
+          "phone": "+1-212-972-7040",
+          "linkedin_url": "https://www.linkedin.com/in/daryakapulina"
         }
       ]
     },

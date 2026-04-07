@@ -22,7 +22,7 @@
         "title": "Managing Partner",
         "email": "luke.zadkovich@floydzad.com",
         "phone": "+1 917 868 1245",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/luke-zadkovich-a24a7697"
       },
       "co_managing_partner": {
         "name": null,
@@ -37,7 +37,7 @@
           "title": "Partner",
           "email": "edward.floyd@floydzad.com",
           "phone": "+1 917 999 6914",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/edward-floyd-9121289"
         }
       ],
       "tech_contact": {
@@ -60,8 +60,8 @@
           "name": "Alexandra Dean",
           "title": "Senior Operations and HR Manager",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+44 20 8017 2510",
+          "linkedin_url": "https://www.linkedin.com/in/agdean"
         }
       ]
     },

@@ -18,8 +18,8 @@
       "managing_partner": {
         "name": "Susan Johns",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "stjohns@ferrarafirm.com",
+        "phone": "315-437-7600",
         "linkedin_url": "https://www.linkedin.com/in/susan-johns-11b74431"
       },
       "co_managing_partner": {
@@ -49,30 +49,30 @@
         {
           "name": "Nicholas Fiorenza",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "njfiorenza@ferrarafirm.com",
+          "phone": "315-437-7600",
+          "linkedin_url": "https://www.linkedin.com/in/nicholas-fiorenza-42b0687/"
         },
         {
           "name": "Michael P. Leone",
           "title": "Senior Counsel",
-          "email": null,
-          "phone": null,
+          "email": "mpleone@ferrarafirm.com",
+          "phone": "315-437-7600",
           "linkedin_url": null
         },
         {
           "name": "Joseph G. Shields",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jshields@ferrarafirm.com",
+          "phone": "315-437-7600",
+          "linkedin_url": "https://www.linkedin.com/in/joe-shields-38789532/"
         },
         {
           "name": "Colleen W. Heinrich",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "cwheinrich@ferrarafirm.com",
+          "phone": "315-437-7600",
+          "linkedin_url": "https://www.linkedin.com/in/colleen-w-heinrich-128a23a5/"
         }
       ]
     },

@@ -56,11 +56,12 @@
           "title": "US Founding Partner, New York",
           "email": null,
           "phone": "+1 646 513 3284",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/noreenweiss/"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/gunnercooke-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/gunnercooke-llp",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

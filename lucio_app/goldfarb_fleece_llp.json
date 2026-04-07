@@ -75,24 +75,25 @@
           "title": "Member",
           "email": null,
           "phone": "917-814-3796",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/arielle-siegel-15280126"
         },
         {
           "name": "Marc J. Becker",
           "title": "Member",
-          "email": null,
+          "email": "mbecker@gflegal.com",
           "phone": "917-920-3345",
           "linkedin_url": null
         },
         {
           "name": "Ronald E. Burton",
           "title": "Member",
-          "email": null,
-          "phone": null,
+          "email": "rburton@gflegal.com",
+          "phone": "1-212-891-9100",
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/westchester-jewish-conference"
   },
   "email": {}
 }

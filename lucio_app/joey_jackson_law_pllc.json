@@ -53,7 +53,7 @@
           "title": "Senior Trial Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/peter-troxler-6a79123"
         },
         {
           "name": "Jenell Ellison",
@@ -74,14 +74,14 @@
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tracey-epstein-b70b826"
         },
         {
           "name": "Nia Fung",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jfungkral"
         },
         {
           "name": "Ren\u00e9e C. Hill",
@@ -91,7 +91,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/bondandboteslawoffices"
   },
   "email": {
     "to_name": "Joey",

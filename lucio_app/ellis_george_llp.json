@@ -28,9 +28,9 @@
       "managing_partner": {
         "name": "Keith Wesley",
         "title": "Managing Partner",
-        "email": null,
+        "email": "kwesley@ellisgeorge.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/keith-wesley-27756b5a"
       },
       "co_managing_partner": {
         "name": null,
@@ -61,14 +61,14 @@
           "title": "Partner",
           "email": "dellis@ellisgeorge.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/katherine-murray-a873956"
         },
         {
           "name": "Eric M. George",
           "title": "Partner",
           "email": "egeorge@ellisgeorge.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-jacobson-9a1a87bb"
         },
         {
           "name": "Chris Arledge",

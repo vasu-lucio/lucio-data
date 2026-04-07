@@ -34,7 +34,7 @@
         "title": "Deputy CEO",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://uk.linkedin.com/in/michael-davison-51a55484"
       },
       "founders": [
         {
@@ -42,7 +42,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/madison-flowers"
         },
         {
           "name": "Frank J. Hogan",
@@ -80,11 +80,12 @@
           "title": "Global Regulatory & IP Practice Group Leader",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/janice-hogan-14798"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/hoganlovells/"
+    "linkedin_company_url": "https://www.linkedin.com/company/hoganlovells/",
+    "linkedin_size": "1001-5000"
   },
   "email": {
     "to_name": "Paul",

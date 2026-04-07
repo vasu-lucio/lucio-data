@@ -30,9 +30,9 @@
       "tech_contact": {
         "name": "Sean J. Sullivan",
         "title": "Chief Information Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "Sean.Sullivan@friedfrank.com",
+        "phone": "+1.212.859.8990",
+        "linkedin_url": "https://www.linkedin.com/in/seanjsullivan"
       },
       "ai_contact": {
         "name": null,
@@ -48,14 +48,14 @@
           "title": "Chief Marketing Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joan-imperato-4ab4288"
         },
         {
           "name": "Jonathan Hallihan",
           "title": "Chief Operating Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "Jonathan.Hallihan@friedfrank.com",
+          "phone": "+1.212.859.8390",
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-hallihan-0b821149"
         }
       ]
     },

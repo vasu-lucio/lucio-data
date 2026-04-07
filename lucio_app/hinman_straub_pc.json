@@ -76,31 +76,32 @@
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-carr-a3b94112"
         },
         {
           "name": "Bartley J. Costello III",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/b-j-costello-32ba8a5"
         },
         {
           "name": "Sean Doolan",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sean-doolan-b0358213"
         },
         {
           "name": "Philip Dunne",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/bj-costello-14b247197"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hinman-straub-p.c."
   },
   "email": {}
 }

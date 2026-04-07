@@ -34,9 +34,9 @@
       "tech_contact": {
         "name": "Megan M. Reilly",
         "title": "Director of Administration & Special Counsel",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "mreilly@glennagre.com",
+        "phone": "212.970.1621",
+        "linkedin_url": "https://www.linkedin.com/in/meganmreilly/"
       },
       "ai_contact": {
         "name": null,
@@ -52,7 +52,7 @@
           "title": "Partner; Chair of the Litigation Department",
           "email": "jbergman@glennagre.com",
           "phone": "212.970.1603",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jed-i-bergman-76848b3/"
         }
       ]
     },

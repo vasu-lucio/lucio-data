@@ -33,9 +33,9 @@
       "tech_contact": {
         "name": "Danielle Rosenthal",
         "title": "Partner and Chief Operating Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "danielle.rosenthal@groombridgewu.com",
+        "phone": "332-269-0036",
+        "linkedin_url": "https://www.linkedin.com/in/danielle-rosenthal-8b5448"
       },
       "ai_contact": {
         "name": null,
@@ -49,15 +49,15 @@
         {
           "name": "Nicholas Groombridge",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "nick.groombridge@groombridgewu.com",
+          "phone": "332-269-0031",
           "linkedin_url": null
         },
         {
           "name": "Jennifer H. Wu",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "+1-332-269-0030",
           "linkedin_url": null
         },
         {
@@ -65,13 +65,13 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steve-baughman-a312186"
         },
         {
           "name": "Eric Alan Stone",
           "title": "Partner",
           "email": null,
-          "phone": null,
+          "phone": "+1-332-269-0030",
           "linkedin_url": null
         }
       ]

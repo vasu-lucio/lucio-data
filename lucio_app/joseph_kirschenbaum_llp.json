@@ -24,9 +24,9 @@
       "managing_partner": {
         "name": "D. Maimon Kirschenbaum",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "maimon@jk-llp.com",
+        "phone": "+12126885640",
+        "linkedin_url": "https://www.linkedin.com/in/maimon-kirschenbaum-00254a4"
       },
       "co_managing_partner": {
         "name": null,
@@ -39,9 +39,9 @@
         {
           "name": "Charles Joseph",
           "title": "Partner",
-          "email": null,
+          "email": "charles@jk-llp.com",
           "phone": "212-688-5640",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/charles-joseph-2878686"
         }
       ],
       "tech_contact": {
@@ -63,36 +63,36 @@
         {
           "name": "Denise Schulman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "denise@jk-llp.com",
+          "phone": "+12126885640",
+          "linkedin_url": "https://www.linkedin.com/in/denise-schulman-564b8b11"
         },
         {
           "name": "Josef Nussbaum",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jnussbaum@jk-llp.com",
+          "phone": "+12126885640",
+          "linkedin_url": "https://www.linkedin.com/in/michael-nussbaum-4a7ba7b"
         },
         {
           "name": "Lucas Buzzard",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "lucas@jk-llp.com",
+          "phone": "+12126885640",
           "linkedin_url": null
         },
         {
           "name": "Leah Seliger",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "leah@jk-llp.com",
+          "phone": "+12126885640",
+          "linkedin_url": "https://www.linkedin.com/in/leahseliger"
         },
         {
           "name": "Mike DiGiulio",
           "title": "Associate",
-          "email": null,
-          "phone": null,
+          "email": "Mike@jk-llp.com",
+          "phone": "+12126885640",
           "linkedin_url": null
         }
       ]

@@ -55,7 +55,7 @@
           "title": "Attorney",
           "email": null,
           "phone": "631-499-9100",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/troy-kessler-a0a2a1b"
         },
         {
           "name": "Marijana Matura",
@@ -68,32 +68,33 @@
           "name": "Garrett Kaske",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+6314999100",
+          "linkedin_url": "https://www.linkedin.com/in/garrett-kaske-38495616"
         },
         {
           "name": "Tana Forrester",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+6314999100",
+          "linkedin_url": "https://www.linkedin.com/in/tana-forrester-137669105"
         },
         {
           "name": "Jocelyn Small",
           "title": "Attorney",
           "email": null,
-          "phone": null,
+          "phone": "+6314999100",
           "linkedin_url": null
         },
         {
           "name": "Benjamin Goldstein",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+6314999100",
+          "linkedin_url": "https://www.linkedin.com/in/benjamin-a-goldstein"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/shulman-kessler-llp"
   },
   "email": {}
 }

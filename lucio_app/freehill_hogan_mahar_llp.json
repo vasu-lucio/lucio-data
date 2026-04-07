@@ -67,14 +67,14 @@
           "title": "Partner",
           "email": "gutowski@freehill.com",
           "phone": "212-381-3008",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/peter-gutowski-32409a14"
         },
         {
           "name": "Yaakov Adler",
           "title": "Partner",
           "email": "adler@freehill.com",
           "phone": "212-381-3026",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/yaakov-adler-2b202850"
         },
         {
           "name": "Michael Dehart",
@@ -95,10 +95,11 @@
           "title": "Partner",
           "email": "nastro@freehill.com",
           "phone": "212-381-3033",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/justin-t-nastro-62860621"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/freehill-hogan-&-mahar-llp"
   },
   "email": {}
 }

@@ -60,28 +60,28 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://uk.linkedin.com/in/roger-nash-70478b13"
         },
         {
           "name": "Maxim Rapoport",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/maxim-rapoport-6ba50825b"
         },
         {
           "name": "Anthony Boiano",
           "title": "Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/anthony-boiano-119411a4"
         },
         {
           "name": "Thomas P. Trainor",
           "title": "Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/thomasptrainor"
         },
         {
           "name": "Peter Hale",
@@ -92,7 +92,8 @@
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/hglaw"
+    "linkedin_company_url": "https://www.linkedin.com/company/hglaw",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

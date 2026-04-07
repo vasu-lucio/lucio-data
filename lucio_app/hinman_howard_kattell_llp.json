@@ -53,14 +53,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/howard-slatkin-77590a29"
         },
         {
           "name": "Thomas B. Kattell",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/scottkurkoski"
         }
       ],
       "tech_contact": {
@@ -68,7 +68,7 @@
         "title": "Chief Administrative Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/stacey-axtell-a5a5188"
       },
       "ai_contact": {
         "name": null,
@@ -84,21 +84,21 @@
           "title": "Chief Financial Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mark-mushalla-64429a80"
         },
         {
           "name": "Ryan Mead",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ryanmead"
         },
         {
           "name": "Megan Curinga",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/megan-curinga-38b9a01a"
         }
       ]
     }

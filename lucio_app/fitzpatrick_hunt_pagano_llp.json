@@ -56,32 +56,33 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-maye-2659556"
         },
         {
           "name": "Todd Saranecki",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/martha-rodriguez-66b9396a"
         },
         {
           "name": "Nicholas Bart",
           "title": "Equity Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nicholas-bart-a4631068"
         },
         {
           "name": "Thomas Pantino",
           "title": "Partner",
           "email": "Unavailable",
           "phone": "212.937.4005",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/thomas-pantino-77ba4a21"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/fitzpatrick-hunt-&-pagano-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/fitzpatrick-hunt-&-pagano-llp",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Ralph",

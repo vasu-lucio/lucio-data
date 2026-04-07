@@ -26,7 +26,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/danarosenfeld"
       },
       "co_managing_partner": {
         "name": null,
@@ -41,7 +41,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ralphallenjr"
       },
       "ai_contact": {
         "name": null,
@@ -64,17 +64,19 @@
           "title": "Partner",
           "email": null,
           "phone": "(202) 342-8845",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/scott-doyle-17314110"
         },
         {
           "name": "Kate Stoddard",
           "title": "Chief Marketing Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/katestoddard"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kelley-drye-&-warren-llp",
+    "linkedin_size": "501-1000"
   },
   "email": {}
 }

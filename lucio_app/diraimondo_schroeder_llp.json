@@ -31,7 +31,7 @@
         "title": "Chief OperatinG officer & Immigration MANAGER",
         "email": "mgundersen@ds-immigration.com",
         "phone": "+ 1 (718) 215-0744",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/mariegundersen"
       },
       "ai_contact": {
         "name": null,
@@ -47,7 +47,7 @@
           "title": "Partner",
           "email": "dana@ds-immigration.com",
           "phone": "+1 (718) 215-0504",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/danadiraimondo"
         },
         {
           "name": "Sarah A. Schroeder",
@@ -61,7 +61,7 @@
           "title": "SENIOR ASSOCIATE ATTORNEY",
           "email": "ursula@ds-immigration.com",
           "phone": "+ 1 (718) 215-9463",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/uboc"
         },
         {
           "name": "Isabel Rajabzadeh",
@@ -71,7 +71,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/diraimondo-&-schroeder-llp",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Marie",

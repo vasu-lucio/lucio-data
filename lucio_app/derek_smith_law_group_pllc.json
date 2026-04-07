@@ -20,8 +20,8 @@
       "managing_partner": {
         "name": "Alexander Cabeceiras",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "Alexc@dereksmithlaw.com",
+        "phone": "800-807-2209",
         "linkedin_url": "https://theorg.com/org/derek-smith-law-group-pllc/org-chart/alexander-cabeceiras"
       },
       "co_managing_partner": {
@@ -37,7 +37,7 @@
           "title": "Partner",
           "email": "derek@dereksmithlaw.com",
           "phone": "(800) 807-2209",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/derek-smith-b1192a111"
         }
       ],
       "tech_contact": {
@@ -59,23 +59,23 @@
         {
           "name": "Caroline Miller",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "caroline@dereksmithlaw.com",
+          "phone": "800-807-2209",
+          "linkedin_url": "https://www.linkedin.com/in/carolinemilleresq"
         },
         {
           "name": "Daniel Barroukh",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "danielb@dereksmithlaw.com",
+          "phone": "800-807-2209",
+          "linkedin_url": "https://www.linkedin.com/in/carolinemilleresq"
         },
         {
           "name": "Dawn Demaio",
           "title": "Human Resources Director",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dawn-demaio-a8b08995"
         }
       ]
     },

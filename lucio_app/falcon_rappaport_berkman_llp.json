@@ -29,24 +29,24 @@
       "managing_partner": {
         "name": "Kenneth J. Falcon",
         "title": "Co-Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "kfalcon@frblaw.com",
+        "phone": "+1-516-599-0888",
+        "linkedin_url": "https://www.linkedin.com/in/kenneth-falcon-04714310/"
       },
       "co_managing_partner": {
         "name": "Moish E. Peltz",
         "title": "Co-Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "mpeltz@frblaw.com",
+        "phone": "+1-516-599-0888",
+        "linkedin_url": "https://www.linkedin.com/in/mpeltz/"
       },
       "founders": [],
       "tech_contact": {
         "name": "Chuck D Bernstein",
         "title": "Chief Financial Officer",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "+1-516-599-0888",
+        "linkedin_url": "https://www.linkedin.com/in/chuck-d-bernstein-cpa-mba-baa3b07"
       },
       "ai_contact": {
         "name": null,
@@ -60,16 +60,16 @@
         {
           "name": "Matthew E. Rappaport",
           "title": "Vice Managing Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mer@frblaw.com",
+          "phone": "+1-516-599-0888",
+          "linkedin_url": "https://www.linkedin.com/in/matthewevanrappaport/"
         },
         {
           "name": "Jeffrey W. Berkman",
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeberkman"
         },
         {
           "name": "Michele Schlereth",

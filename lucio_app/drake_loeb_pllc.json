@@ -16,7 +16,7 @@
         "title": "Managing Attorney",
         "email": null,
         "phone": "845-561-0550",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jennifer-l-224373124"
       },
       "co_managing_partner": {
         "name": null,
@@ -30,15 +30,15 @@
           "name": "Richard J. Drake",
           "title": "Founding Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "845.561.0550",
+          "linkedin_url": "https://www.linkedin.com/in/drake-rebman-9aab85205"
         },
         {
           "name": "James R. Loeb",
           "title": "Founder & Retired Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "845.561.0550",
+          "linkedin_url": "https://www.linkedin.com/in/james-lo-287760177"
         }
       ],
       "tech_contact": {
@@ -62,21 +62,21 @@
           "title": "Partner",
           "email": null,
           "phone": "845.561.0550",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sam-loeb-ab75b4362"
         },
         {
           "name": "Marianna R. Kennedy",
           "title": "Partner",
           "email": null,
           "phone": "845.561.0550",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/marianna-sonitis-01b8b1376"
         },
         {
           "name": "Gary J. Gogerty",
           "title": "Partner",
           "email": null,
           "phone": "845.561.0550",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gary-j-gogerty-a9156310"
         }
       ]
     }

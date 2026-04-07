@@ -52,14 +52,14 @@
           "title": "Partner",
           "email": "jfixler@fixlerlaw.com",
           "phone": "212.785.9800",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jason-fixler-a11b242"
         },
         {
           "name": "Paul F. LaGattuta III",
           "title": "Partner",
           "email": null,
           "phone": "212.785.9800",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/paul-f-lagattuta-iii-6a70138"
         },
         {
           "name": "Luigi Tollis",
@@ -71,7 +71,7 @@
         {
           "name": "Jonathan Jacob Pincus",
           "title": "Attorney",
-          "email": null,
+          "email": "jonathan.pincus@fixlerlaw.com",
           "phone": "(212) 785-9800",
           "linkedin_url": null
         }

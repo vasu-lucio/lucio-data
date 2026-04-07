@@ -61,36 +61,36 @@
         {
           "name": "David I. Blee",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "%20dblee@gsbwlaw.com",
+          "phone": "+12123636900",
+          "linkedin_url": "https://www.linkedin.com/in/david-blee-2bb18749"
         },
         {
           "name": "Marisa Goetz",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mgoetz@gsbwlaw.com",
+          "phone": "+12123636900",
+          "linkedin_url": "https://www.linkedin.com/in/keith-andresen-074b39124"
         },
         {
           "name": "Robert G. Schenker",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rschenker@gsbwlaw.com",
+          "phone": "+12123636900",
+          "linkedin_url": "https://www.linkedin.com/in/robert-glaser-4185761"
         },
         {
           "name": "Steven J. Wiederhorn",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "swiederhorn@gsbwlaw.com",
+          "phone": "+19734229600",
+          "linkedin_url": "https://www.linkedin.com/in/steven-wiederhorn-714943199"
         },
         {
           "name": "Lisa Kramer",
           "title": "Senior Partner",
-          "email": null,
-          "phone": null,
+          "email": "lkramer@gsbwlaw.com",
+          "phone": "+12123636900",
           "linkedin_url": null
         }
       ]

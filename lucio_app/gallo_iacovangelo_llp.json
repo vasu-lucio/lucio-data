@@ -28,7 +28,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michael-ringrose-25655914"
       },
       "co_managing_partner": {
         "name": null,
@@ -43,14 +43,14 @@
           "title": "Founding Partner",
           "email": "EmailFrank",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/frank-iacovangelo-8067bbb"
         },
         {
           "name": "Louis J. Gallo",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/bobby-gallo-3700a8302"
         }
       ],
       "tech_contact": {

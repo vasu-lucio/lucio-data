@@ -33,7 +33,7 @@
       "co_managing_partner": {
         "name": "Hannah Taylor",
         "title": "Deputy Managing Partner",
-        "email": null,
+        "email": "htaylor@fkks.com",
         "phone": null,
         "linkedin_url": null
       },
@@ -57,33 +57,34 @@
         {
           "name": "Wendy Heilbut",
           "title": "Partner",
-          "email": null,
+          "email": "wheilbut@fkks.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/wendy-heilbut-1356022b"
         },
         {
           "name": "Joshua Lewin",
           "title": "Partner",
-          "email": null,
+          "email": "jlewin@fkks.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joshua-lewin-32014b67"
         },
         {
           "name": "Matthew Pearson",
           "title": "Partner",
-          "email": null,
+          "email": "mpearson@fkks.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-pearson-89199567"
         },
         {
           "name": "Zachary A. Lewis",
           "title": "Associate",
-          "email": null,
+          "email": "zlewis@fkks.com",
           "phone": null,
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/frankfurt-kurnit-klein-&-selz"
   },
   "email": {}
 }

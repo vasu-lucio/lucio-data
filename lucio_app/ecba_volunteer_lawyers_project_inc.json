@@ -41,8 +41,8 @@
         "name": "Nikole Wynn",
         "title": "Chief Operating Officer",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "+17168470662",
+        "linkedin_url": "https://www.linkedin.com/in/nikole-wynn-76183261"
       },
       "ai_contact": {
         "name": null,
@@ -57,18 +57,19 @@
           "name": "Gretchen Gonzalez",
           "title": "Chief Executive Officer",
           "email": null,
-          "phone": null,
+          "phone": "+17168470662",
           "linkedin_url": null
         },
         {
           "name": "Julie Gee",
           "title": "Human Resources Director",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+17168470662",
+          "linkedin_url": "https://www.linkedin.com/in/julieogee"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/ecbavlp"
   },
   "email": {}
 }

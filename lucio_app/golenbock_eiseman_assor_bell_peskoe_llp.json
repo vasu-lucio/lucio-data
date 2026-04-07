@@ -30,7 +30,7 @@
         "title": "Managing partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jeffrey-berger-sf"
       },
       "co_managing_partner": {
         "name": null,
@@ -45,14 +45,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/nathanassor"
         },
         {
           "name": "Lawrence M. Bell",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/larry-bell-32a53716"
         }
       ],
       "tech_contact": {
@@ -76,14 +76,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-eiseman-337a9b30"
         },
         {
           "name": "Jeffrey T. Golenbock",
           "title": "Partner",
           "email": "jgolenbock@golenbock.com",
           "phone": "212.907.7373",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffreygolenbock"
         }
       ]
     },

@@ -22,7 +22,7 @@
         "title": "Managing Partner",
         "email": "[email protected]",
         "phone": "646-797-4353",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/peter-lambrianakos-868b482"
       },
       "co_managing_partner": {
         "name": null,
@@ -53,35 +53,35 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alfredfabricant"
         },
         {
           "name": "Vincent J. Rubino III",
           "title": "Partner",
           "email": "[email protected]",
           "phone": "646-797-4345",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/vincentrubino"
         },
         {
           "name": "Richard Cowell",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "212-257-5797",
+          "linkedin_url": "https://www.linkedin.com/in/richard-cowell-706ab45/"
         },
         {
           "name": "Enrique Iturralde",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "646-797-4361",
+          "linkedin_url": "https://www.linkedin.com/in/eiturralde/"
         },
         {
           "name": "Evan H. Langdon",
           "title": "Partner, ITC Practice Chair",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/evan-langdon"
         }
       ]
     },

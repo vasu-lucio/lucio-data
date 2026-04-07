@@ -46,7 +46,7 @@
         "title": "IT Director",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/scott-dolsky-53198267"
       },
       "ai_contact": {
         "name": null,
@@ -62,14 +62,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gabriella-ruggiero-24ba9150"
         },
         {
           "name": "Denise Holzka",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/denise-holzka-18260914"
         },
         {
           "name": "Matthew Mcnamara",
@@ -104,25 +104,26 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adam-dlugacz-a7024b61"
         },
         {
           "name": "Thomas G",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/thomas-g-37262022"
         },
         {
           "name": "Silvia Durri Manashirov",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/silvia-manashirov-esq-42627687"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/heidell-pittoni-murphy-&-bach-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/heidell-pittoni-murphy-&-bach-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

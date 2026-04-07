@@ -30,7 +30,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ben-mathis-7169a53a"
       },
       "co_managing_partner": {
         "name": null,
@@ -43,8 +43,8 @@
       "tech_contact": {
         "name": "Chuck Freeman",
         "title": "COO",
-        "email": null,
-        "phone": null,
+        "email": "cfreeman@fmglaw.com",
+        "phone": "770.818.0000",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -61,24 +61,25 @@
           "title": "General Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/dana-maine-1516785"
         },
         {
           "name": "Derek Singleton",
           "title": "CFO",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "derek.singleton@fmglaw.com",
+          "phone": "678.996.9073",
+          "linkedin_url": "https://www.linkedin.com/in/derek-singleton-89836722"
         },
         {
           "name": "Dan Brunson",
           "title": "Partner | Director Of Legal Operations",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dan.brunson@fmglaw.com",
+          "phone": "773.389.3076",
+          "linkedin_url": "https://www.linkedin.com/in/dan-brunson-b609b519/"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/freeman-mathis-&-gary"
   },
   "email": {}
 }

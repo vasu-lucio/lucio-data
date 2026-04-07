@@ -26,7 +26,7 @@
         "title": "Managing Partner",
         "email": "jared@closerattorney.com",
         "phone": "516-801-6363",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jaredkaplanesq"
       },
       "co_managing_partner": {
         "name": null,
@@ -41,7 +41,7 @@
           "title": "Founder",
           "email": "bart@closerattorney.com",
           "phone": "516-510-3128",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/barry-kaplan-77b32b"
         }
       ],
       "tech_contact": {
@@ -72,28 +72,28 @@
           "title": "Partner",
           "email": "joe@closerattorney.com",
           "phone": "516-801-6363",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joefaria"
         },
         {
           "name": "Mara Manin Amendola",
           "title": "Partner",
           "email": "mara@closerattorney.com",
           "phone": "516-801-6363",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mara-manin-89653b26"
         },
         {
           "name": "Seth A. Romanick",
           "title": "Partner",
           "email": "Seth@closerattorney.com",
           "phone": "(212)404-7804",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/seth-romanick-a9212332"
         },
         {
           "name": "Kevin Hagler",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kevin-hagler-0532475"
         }
       ]
     },

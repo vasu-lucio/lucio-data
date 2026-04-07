@@ -23,16 +23,16 @@
       "managing_partner": {
         "name": "Adam J. Friedman",
         "title": "Managing Partner",
-        "email": null,
+        "email": "afriedman@friedmanvartolo.com",
         "phone": "(212) 471-5100 Extension: 2000",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/adamjfriedman/"
       },
       "co_managing_partner": {
         "name": "Ralph L. Vartolo",
         "title": "Managing Partner",
-        "email": null,
+        "email": "rvartolo@friedmanvartolo.com",
         "phone": "(212) 471-5100 Extension: 2001",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ralph-vartolo-bb85702a"
       },
       "founders": [],
       "tech_contact": {
@@ -52,7 +52,8 @@
       },
       "additional_contacts": []
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/friedman-vartolo-llp"
+    "linkedin_company_url": "https://www.linkedin.com/company/friedman-vartolo-llp",
+    "linkedin_size": "201-500"
   },
   "email": {
     "to_name": "Adam",

@@ -80,7 +80,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://lu.linkedin.com/company/new-york-city-bar"
   },
   "email": {
     "to_name": null,

@@ -29,14 +29,14 @@
         "title": "Chief Information & Security Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ziosovich"
       },
       "ai_contact": {
         "name": "Gopal Subramanian",
         "title": "Chief Data & AI Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null,
+        "linkedin_url": "https://www.linkedin.com/in/gopal",
         "ai_notes": null
       },
       "additional_contacts": [
@@ -45,21 +45,21 @@
           "title": "General Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gregory-woods-a500751a2"
         },
         {
           "name": "Michael Nathanson",
           "title": "Chairman",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-nathanson-9616285"
         },
         {
           "name": "Salvatore Papa",
           "title": "Head of Legal, Compliance and Regulatory",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sal-papa-7a54621"
         }
       ]
     },

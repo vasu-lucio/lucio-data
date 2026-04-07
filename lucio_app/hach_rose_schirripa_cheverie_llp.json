@@ -64,7 +64,7 @@
           "title": "partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/miketrose"
         },
         {
           "name": "Frank R. Schirripa",
@@ -78,17 +78,18 @@
           "title": "partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/davidcheverie"
         },
         {
           "name": "Daniel B. Rehns",
           "title": "partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-rehns-7228535"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hach-rose-schirripa-rehns-llp"
   },
   "email": {}
 }

@@ -57,38 +57,40 @@
           "title": "Partner",
           "email": "mitch@dfmklaw.com",
           "phone": "646-768-0592",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mitch-kulick"
         },
         {
           "name": "David Feuerstein",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-feuerstein-03ba9226"
         },
         {
           "name": "Seth D. Fiur",
           "title": "Lawyer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/seth-fiur-453b8516"
         },
         {
           "name": "Anan Kahari",
           "title": "Lawyer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/anankahari"
         },
         {
           "name": "Kristina C. Ng",
           "title": "Lawyer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kristina-ng-6228b814"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/feuerstein-kulick",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

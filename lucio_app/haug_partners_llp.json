@@ -23,16 +23,16 @@
       "managing_partner": {
         "name": "Ed Haug",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "ehaug@haugpartners.com",
+        "phone": "+1.212.863.2060",
+        "linkedin_url": "https://www.linkedin.com/in/ed-haug-6638aaa1"
       },
       "co_managing_partner": {
         "name": "Sandy Kuzmich",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "skuzmich@haugpartners.com",
+        "phone": "+1.212.863.2051",
+        "linkedin_url": "https://www.linkedin.com/in/davidzwally"
       },
       "founders": [],
       "tech_contact": {
@@ -54,26 +54,27 @@
         {
           "name": "Robert Colletti",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rcolletti@haugpartners.com",
+          "phone": "+1.212.588.0800",
+          "linkedin_url": "https://www.linkedin.com/in/robertcolletti"
         },
         {
           "name": "Jon Gordon",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jgordon@haugpartners.com",
+          "phone": "+1.212.863.2061",
+          "linkedin_url": "https://www.linkedin.com/in/jonegordon"
         },
         {
           "name": "Ralph E. Labaton",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rlabaton@haugpartners.com",
+          "phone": "+1.212.588.0800",
+          "linkedin_url": "https://www.linkedin.com/in/rel263"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://jm.linkedin.com/company/haug-partners-llp"
   },
   "email": {}
 }

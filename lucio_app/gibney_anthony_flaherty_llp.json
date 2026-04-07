@@ -45,7 +45,7 @@
         "title": "Chief Information Officer",
         "email": "bschwarz@gibney.com",
         "phone": "212) 688-5151",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/r-james-bradford-5956955"
       },
       "ai_contact": {
         "name": null,
@@ -61,14 +61,14 @@
           "title": "Marketing Director",
           "email": null,
           "phone": "516647XXXX",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lauren-allen-ny"
         },
         {
           "name": "Cristina Park",
           "title": "Client Services Manager",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/cristina-park-49b12411"
         },
         {
           "name": "Joycelyn Carandang",
@@ -78,7 +78,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gibney-anthony-&-flaherty-llp",
+    "linkedin_size": "51-200"
   },
   "email": {
     "to_name": "Bradford",

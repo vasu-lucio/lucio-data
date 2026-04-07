@@ -37,7 +37,7 @@
         {
           "name": "John D. Kelly",
           "title": null,
-          "email": null,
+          "email": "jkelly@krklaw.com (inferred)",
           "phone": null,
           "linkedin_url": null
         },
@@ -46,7 +46,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jfonti"
         }
       ],
       "tech_contact": {
@@ -77,24 +77,25 @@
           "title": "Partner",
           "email": "gjwilson@krklaw.com",
           "phone": "516-739-0400",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kelly-martinez-6aa4b735a"
         },
         {
           "name": "Loris Zeppieri",
           "title": "Partner",
           "email": "lzeppieri@krklaw.com",
           "phone": "516-739-0400",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/loris-zeppieri-06a7216"
         },
         {
           "name": "Edward J. Kelly IV",
           "title": "Partner",
           "email": "ejkelly@krklaw.com",
           "phone": "516-739-0400",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/antifraudlawyer"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/kelly-rode-kelly-llp"
   },
   "email": {}
 }

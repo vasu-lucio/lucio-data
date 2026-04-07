@@ -49,7 +49,7 @@
           "title": "Partner",
           "email": "[[email protected]]",
           "phone": "(716) 314-6335",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-crosby-bb4047b"
         },
         {
           "name": "R. Donald Finn",
@@ -63,14 +63,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kathleen-sweet-60719714"
         },
         {
           "name": "C. Christopher Bridge",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopher-carrion-8578016"
         },
         {
           "name": "Norman B. Viti, Jr.",
@@ -84,14 +84,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/robertscumaci"
         },
         {
           "name": "Timothy J. Graber",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/timothy-graber-05ab391b"
         },
         {
           "name": "Sally J. Broad",
@@ -105,17 +105,19 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/melissamorton"
         },
         {
           "name": "Amanda C. Rossi",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/amanda-rossi-2483a442"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gibson-mcaskill-&-crosby-llp",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

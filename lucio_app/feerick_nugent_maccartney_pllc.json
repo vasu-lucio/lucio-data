@@ -57,39 +57,40 @@
           "name": "Donald J. Feerick, Jr.",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(845) 353-2000",
+          "linkedin_url": "https://www.linkedin.com/in/donald-j-feerick-jr-b5030b37"
         },
         {
           "name": "Brian D. Nugent",
           "title": "Partner",
           "email": null,
           "phone": "(845) 353-2000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-d-nugent-ab0a1b177"
         },
         {
           "name": "J. David MacCartney, Jr.",
           "title": "Partner",
           "email": null,
           "phone": "(845) 353-2000",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/davidmaccartney"
         },
         {
           "name": "Stephen M. Honan",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stephen-m-a99579"
         },
         {
           "name": "Alak Shah",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "(845) 353-2000",
+          "linkedin_url": "https://www.linkedin.com/in/alak-shah-7532a710"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/feerick-nugent-maccartney-pllc"
   },
   "email": {}
 }

@@ -64,39 +64,40 @@
           "title": "President & CEO",
           "email": null,
           "phone": "(518) 462-6831",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kristin-brown-3bb98610a"
         },
         {
           "name": "Jill Paperno",
           "title": "Chief Strategy Officer",
           "email": null,
           "phone": "(585) 454-4060",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jill-paperno-149a793b"
         },
         {
           "name": "Alex Dery Snider",
           "title": "Policy and Communications Director",
           "email": null,
           "phone": "(518) 935-2843",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alexderysnider"
         },
         {
           "name": "AJ Durwin",
           "title": "Managing Attorney",
           "email": null,
           "phone": "(585) 454-4060",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/durwin-jones-12873833"
         },
         {
           "name": "Elizabeth Woods",
           "title": "Supervising Senior Attorney",
           "email": null,
           "phone": "(518) 462-6831",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/elizabeth-woods-a756b3108"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/empire-justice-center"
+    "linkedin_company_url": "https://www.linkedin.com/company/empire-justice-center",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

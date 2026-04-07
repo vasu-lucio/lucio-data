@@ -25,14 +25,14 @@
         "title": "Founding Partner",
         "email": null,
         "phone": "718.407.2411",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/rachel-drachman-a0965917b"
       },
       "co_managing_partner": {
         "name": "David Katz",
         "title": "Founding Partner",
         "email": "connect@drachmankatz.com",
         "phone": "718.407.2411",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/davidfkatz"
       },
       "founders": [],
       "tech_contact": {
@@ -40,7 +40,7 @@
         "title": "COO",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/neal-shmidman-804023253"
       },
       "ai_contact": {
         "name": null,
@@ -56,11 +56,12 @@
           "title": "Legal support No-fault department",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andrea-robalino-18696011b"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/drachmankatz"
+    "linkedin_company_url": "https://www.linkedin.com/company/drachmankatz",
+    "linkedin_size": "11-50"
   },
   "email": {
     "to_name": "Neal",

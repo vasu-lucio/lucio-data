@@ -25,9 +25,9 @@
       "managing_partner": {
         "name": "Gregory Galterio",
         "title": "Managing Partner",
-        "email": null,
+        "email": "GGalterio@JaffeandAsher.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gregory-galterio-4876b95b"
       },
       "co_managing_partner": {
         "name": null,
@@ -58,21 +58,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-shyer-92b54b4"
         },
         {
           "name": "Jonathan D. Berg",
           "title": "Partner",
-          "email": null,
+          "email": "JBerg@JaffeandAsher.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alexander-bromberg-5a113b114"
         },
         {
           "name": "Marshall T. Potashner",
           "title": "Partner",
-          "email": null,
+          "email": "MPotashner@JaffeandAsher.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/asher-smith-96825017a"
         }
       ]
     },

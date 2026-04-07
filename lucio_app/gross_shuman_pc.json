@@ -51,14 +51,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/paul-gonson-a61b43116"
         },
         {
           "name": "Irving M. Shuman",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/shumand"
         }
       ],
       "tech_contact": {
@@ -66,7 +66,7 @@
         "title": "Director, Technology Operations",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jennifer-waley-8a151918"
       },
       "ai_contact": {
         "name": null,
@@ -81,8 +81,8 @@
           "name": "Michael P. McClaren",
           "title": "Member Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "716-854-4300",
+          "linkedin_url": "https://www.linkedin.com/in/michaelmcclaren/"
         },
         {
           "name": "Peter S. Gilfillan",

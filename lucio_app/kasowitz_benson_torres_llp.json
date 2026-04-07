@@ -66,7 +66,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-algor-0432214"
         },
         {
           "name": "Brandy Worden",
@@ -80,10 +80,11 @@
           "title": "Special Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/david-miller-aa875917"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://il.linkedin.com/company/kasowitzbensontorresllp"
   },
   "email": {}
 }

@@ -50,27 +50,27 @@
           "title": "Member",
           "email": "kgrimshaw@fglawllc.com",
           "phone": "212-324-1715",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kristina-grimshaw-8961279a"
         },
         {
           "name": "Amanda Baker",
           "title": "Member",
-          "email": null,
-          "phone": null,
+          "email": "abaker@fglawllc.com",
+          "phone": "+12123241715",
           "linkedin_url": null
         },
         {
           "name": "Kelly Jines",
           "title": "Senior Counsel",
-          "email": null,
-          "phone": null,
+          "email": "kjines@fglawllc.com",
+          "phone": "2123241715",
           "linkedin_url": null
         },
         {
           "name": "John Culhane",
           "title": "Associate",
-          "email": null,
-          "phone": null,
+          "email": "jculhane@fglawllc.com",
+          "phone": "+2123241715",
           "linkedin_url": null
         },
         {
@@ -83,9 +83,9 @@
         {
           "name": "Kate Townley",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ktownley@fglawllc.com",
+          "phone": "+12123241715",
+          "linkedin_url": "https://www.linkedin.com/in/kate-townley-a801ba51"
         }
       ]
     }

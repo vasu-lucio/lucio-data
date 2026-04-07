@@ -21,7 +21,7 @@
         "title": "Partner",
         "email": null,
         "phone": "212-994-9963",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michaelkfederman"
       },
       "co_managing_partner": {
         "name": null,
@@ -52,24 +52,25 @@
           "title": "Partner",
           "email": null,
           "phone": "212-994-9963",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/lee-edelson-78961930"
         },
         {
           "name": "Hamid Soltani",
           "title": "Partner",
-          "email": null,
+          "email": "hsoltani@federmansteifman.com",
           "phone": "212-994-9963",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/hamid-soltani-b81b244"
         },
         {
           "name": "Seth P. Steifman",
           "title": "Partner",
           "email": null,
           "phone": "212-994-9963",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/seth-seifman-955b2052"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/federman-steifman-llp"
   },
   "email": {
     "to_name": "Michael",

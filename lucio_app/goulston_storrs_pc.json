@@ -46,8 +46,8 @@
         "name": "John Arsneault",
         "title": "Chief Information Officer",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "+16174821776",
+        "linkedin_url": "https://www.linkedin.com/in/johnarsneault/"
       },
       "ai_contact": {
         "name": null,
@@ -75,13 +75,14 @@
         {
           "name": "Eric Seltzer",
           "title": "Director",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "eseltzer@goulstonstorrs.com",
+          "phone": "+12128785194",
+          "linkedin_url": "https://www.linkedin.com/in/eric-seltzer-587abb5/"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/goulston-&-storrs"
+    "linkedin_company_url": "https://www.linkedin.com/company/goulston-&-storrs",
+    "linkedin_size": "201-500"
   },
   "email": {}
 }

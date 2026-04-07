@@ -30,16 +30,16 @@
       "managing_partner": {
         "name": "Aaron Boyajian",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "aboyajian@goetzplatzer.com",
+        "phone": "+12126958100",
+        "linkedin_url": "https://www.linkedin.com/in/aaronboyajian"
       },
       "co_managing_partner": {
         "name": "Cliff Katz",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "ckatz@goetzplatzer.com",
+        "phone": "+12126958100",
+        "linkedin_url": "https://www.linkedin.com/in/cliff-katz-3871813b"
       },
       "founders": [],
       "tech_contact": {
@@ -61,30 +61,30 @@
         {
           "name": "Alison Arden Besunder",
           "title": "Equity Partner, Chair, Trusts & Estates Planning and Fiduciary Litigation Group",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "abesunder@goetzplatzer.com",
+          "phone": "+12126958100",
+          "linkedin_url": "https://www.linkedin.com/in/alisonardenbesunder/"
         },
         {
           "name": "Donald J. Carbone",
           "title": "Equity Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dcarbone@goetzplatzer.com",
+          "phone": "+12126958100",
+          "linkedin_url": "https://www.linkedin.com/in/donald-j-carbone-24171427"
         },
         {
           "name": "Linda Gates",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "linda@goetzplatzer.com",
+          "phone": "+12126958100",
+          "linkedin_url": "https://www.linkedin.com/in/linda-gates-2b103056"
         },
         {
           "name": "David Gise",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dgise@goetzplatzer.com",
+          "phone": "+12126958100",
+          "linkedin_url": "https://www.linkedin.com/in/david-gise-b95b8968/"
         }
       ]
     }

@@ -64,14 +64,14 @@
           "title": "Partner",
           "email": "jferetic@hfpmlaw.com",
           "phone": "(212) 530-3915",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jim-feretic-38551ab9"
         },
         {
           "name": "Sean M. Prendergast",
           "title": "Partner",
           "email": "sprendergast@hfpmlaw.com",
           "phone": "(212) 530-3907",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sean-prendergast-60668083"
         },
         {
           "name": "James Merlino",
@@ -85,11 +85,12 @@
           "title": "Partner",
           "email": "Rhamai@hfpmlaw.com",
           "phone": "(212) 530-3995",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/riad-hamai-esq-bb6250113"
         }
       ]
     },
-    "linkedin_company_url": "https://www.linkedin.com/company/hannum-feretic-prendergast-&-merlino-llc"
+    "linkedin_company_url": "https://www.linkedin.com/company/hannum-feretic-prendergast-&-merlino-llc",
+    "linkedin_size": "11-50"
   },
   "email": {}
 }

@@ -20,7 +20,7 @@
         "title": "Chairman & Managing Partner",
         "email": null,
         "phone": "949.798.2130",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/john-polson-b5552911"
       },
       "co_managing_partner": {
         "name": null,
@@ -33,9 +33,9 @@
       "tech_contact": {
         "name": "Dave Lentz",
         "title": "Chief Operating Officer",
-        "email": null,
+        "email": "fpcontactus@fisherphillips.com",
         "phone": "404.240.4251",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/brian-fischer-15425888"
       },
       "ai_contact": {
         "name": null,
@@ -51,31 +51,32 @@
           "title": "Executive Partner, Management Committee",
           "email": null,
           "phone": "813.769.7503",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christine-howard-6a85272"
         },
         {
           "name": "Michael Steele",
           "title": "Chief Information Officer",
-          "email": null,
+          "email": "fpcontactus@fisherphillips.com",
           "phone": "404.240.5858",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-gentile-b810652"
         },
         {
           "name": "Richard R. Meneghello",
           "title": "Chief Content Officer",
           "email": null,
           "phone": "503.205.8044",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richmeneghello"
         },
         {
           "name": "Jean Cleveland",
           "title": "General Counsel",
-          "email": null,
+          "email": "fpcontactus@fisherphillips.com",
           "phone": "813-769-7459",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brooklyn-phillips-82091038a"
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/fisher-&-phillips-llp"
   },
   "email": {
     "to_name": "Dave",

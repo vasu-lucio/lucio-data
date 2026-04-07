@@ -79,7 +79,7 @@
           "title": "Vice-President/Senior Trial Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jordan-trachtenberg-9728006b"
         },
         {
           "name": "Gary R. Urquhart",
@@ -93,7 +93,7 @@
           "title": "Vice President - Trial Counsel (fidelity National Law Group)",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/monika-vyas-scott-bbb28313"
         },
         {
           "name": "Benjamin Butler",
@@ -103,7 +103,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/hemar-rousso-&-heald-llp"
   },
   "email": {}
 }

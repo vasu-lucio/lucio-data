@@ -51,7 +51,7 @@
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adamlgross1"
         }
       ],
       "tech_contact": {
@@ -75,21 +75,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/amyepolowy"
         },
         {
           "name": "Nicole C. Gazzo",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/katie-herring-4ba73aa0"
         },
         {
           "name": "Mario A. Serra, Jr.",
           "title": "Partner \u2013New Jersey",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/mario-larosa-932bb28"
         },
         {
           "name": "Brian D. Goldberg",
@@ -99,7 +99,9 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://www.linkedin.com/company/gross-polowy-llc",
+    "linkedin_size": "51-200"
   },
   "email": {}
 }

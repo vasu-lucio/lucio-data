@@ -43,7 +43,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jacob-feldman-07000219"
         },
         {
           "name": "Jacob S. Feldman",
@@ -81,7 +81,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rory-duffus-71686a289"
         },
         {
           "name": "Wade Christopher Wilkinson",
@@ -95,7 +95,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jacob-feldman-07000219"
         },
         {
           "name": "Laura A. Ferrugiari",
@@ -105,7 +105,8 @@
           "linkedin_url": null
         }
       ]
-    }
+    },
+    "linkedin_company_url": "https://bw.linkedin.com/company/frazer-llp"
   },
   "email": {}
 }
