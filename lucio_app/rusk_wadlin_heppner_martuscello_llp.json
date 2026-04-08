@@ -82,6 +82,14 @@
           "email": "dmmart@rwhm.com",
           "phone": "+18005664101",
           "linkedin_url": null
+        },
+        {
+          "name": "Lori Guillon",
+          "title": "Administrator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

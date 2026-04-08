@@ -74,6 +74,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/duane-loft-99644112"
+        },
+        {
+          "name": "Linda Penfold",
+          "title": "Chief Administrative Officer",
+          "email": "linda.penfold@pallasllp.com",
+          "phone": "+44 20 4574 1002",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

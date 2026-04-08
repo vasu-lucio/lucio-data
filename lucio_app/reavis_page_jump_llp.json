@@ -47,11 +47,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Sally J. Cox",
+        "title": "Director of Finance",
+        "email": "scox@rpjlaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

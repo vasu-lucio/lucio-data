@@ -49,11 +49,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Amber L. Wright",
+        "title": "Managing Partner",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "518-720-6188",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

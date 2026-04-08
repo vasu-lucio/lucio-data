@@ -72,6 +72,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Ramya Mathur",
+          "title": "Director of People and Firm Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

@@ -65,6 +65,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Terry Wang",
+          "title": "Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

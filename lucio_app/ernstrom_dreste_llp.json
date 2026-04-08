@@ -39,11 +39,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Erin A. Warr",
+        "title": "OFFICE MANAGER",
+        "email": "ewarr@ed-llp.com",
+        "phone": "(585) 473-3100 x186",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

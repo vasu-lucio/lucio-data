@@ -53,11 +53,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Mitchell Rait",
+        "title": "Partner and Executive Director",
+        "email": "mrait@lawjw.com",
+        "phone": "973-379-4200",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

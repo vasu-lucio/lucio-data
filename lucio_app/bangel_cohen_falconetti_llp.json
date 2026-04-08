@@ -46,11 +46,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Kelly Ramirez",
+        "title": "Executive Assistant",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "+1 347 \u2745\u2745\u2745\u2745\u2745\u2745\u2745",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

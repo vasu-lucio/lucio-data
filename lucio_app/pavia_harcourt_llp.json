@@ -91,6 +91,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/joseph-chioffi-5592841b4"
+        },
+        {
+          "name": "Phyllis Barr",
+          "title": "Director, Administration",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

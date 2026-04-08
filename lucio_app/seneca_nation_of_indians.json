@@ -64,6 +64,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/tina-kang-5317bb5"
+        },
+        {
+          "name": "Brenda Frank",
+          "title": "Vice President, Project Controls",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

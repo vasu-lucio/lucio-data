@@ -40,11 +40,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Leonard Speiser",
+        "title": "Chief Operating Officer",
+        "email": "pr@lambda.ai",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

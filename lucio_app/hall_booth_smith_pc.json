@@ -78,6 +78,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/evansingenuity"
+        },
+        {
+          "name": "Nina Tickaradze",
+          "title": "Chief Operating Officer",
+          "email": "ninat@hallboothsmith.com",
+          "phone": "404.586.6605",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

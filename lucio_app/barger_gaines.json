@@ -102,6 +102,14 @@
           "email": "info@bargergaines.com",
           "phone": "914-902-5918",
           "linkedin_url": "https://www.linkedin.com/in/rebecca-kreiser-506595161"
+        },
+        {
+          "name": "Phyllis Lombardi",
+          "title": "Client Relations & Operations Specialist",
+          "email": "info@bargergaines.com",
+          "phone": "914-902-5918",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

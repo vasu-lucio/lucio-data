@@ -38,11 +38,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Chip Krauss",
+        "title": "Chief Operating Officer",
+        "email": "ckrauss@daypitney.com",
+        "phone": "(203) 977-7338",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

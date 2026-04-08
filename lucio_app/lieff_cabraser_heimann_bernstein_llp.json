@@ -38,11 +38,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Joe Dragicevic",
+        "title": "Director of Operations",
+        "email": "j*****@lchb***.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

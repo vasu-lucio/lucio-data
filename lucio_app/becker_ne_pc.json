@@ -37,11 +37,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Mark Borosko",
+        "title": "Director of Operations",
+        "email": "markborosko@becker.legal",
+        "phone": "(973) 251-8915",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

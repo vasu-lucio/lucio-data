@@ -69,6 +69,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Debra Arroyo",
+          "title": "Law Practice Administrator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

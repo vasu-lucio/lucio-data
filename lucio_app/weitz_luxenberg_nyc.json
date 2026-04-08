@@ -49,11 +49,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Sean McCue",
+        "title": "Associate Director Operations",
+        "email": "s*****@weitzlux.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sean-mccue",
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

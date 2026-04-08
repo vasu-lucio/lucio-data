@@ -71,6 +71,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/1charliewise1"
+        },
+        {
+          "name": "Robert B. Blakeley",
+          "title": "Chief Operating Officer/Chief Financial Officer",
+          "email": "rblakeley@nutter.com",
+          "phone": "617.439.2447",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

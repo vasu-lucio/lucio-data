@@ -44,11 +44,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Cheri Finz",
+        "title": "Managing Attorney",
+        "email": "cfinz@finzfirm.com",
+        "phone": "(516) 433-3000",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

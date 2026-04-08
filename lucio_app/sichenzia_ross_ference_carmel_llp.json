@@ -56,11 +56,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Matilde Tysz",
+        "title": "Chief Strategy Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

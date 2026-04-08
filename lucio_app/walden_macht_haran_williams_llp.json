@@ -72,6 +72,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Aaron D. Whiteman",
+          "title": "Chief Financial and Operations Officer",
+          "email": "awhiteman@wmhwlaw.com",
+          "phone": "212 335 3046",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

@@ -31,11 +31,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Mitchell Selip",
+        "title": "Partner and CCO",
+        "email": "mitchellselip(a)seliplaw.com",
+        "phone": "(212) ***-*377",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

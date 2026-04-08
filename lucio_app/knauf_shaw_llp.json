@@ -48,11 +48,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Sarah Ingle",
+        "title": "Office Manager / Assistant to Linda R. Shaw",
+        "email": "sarahingle@nyenvlaw.com",
+        "phone": "585.546.8430",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

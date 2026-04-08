@@ -68,6 +68,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Bart Huff",
+          "title": "Chief Executive Officer \u2013 ZGSSSenior Counsel \u2013 ZwillGen",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

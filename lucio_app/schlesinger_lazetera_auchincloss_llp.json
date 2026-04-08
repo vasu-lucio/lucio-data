@@ -116,6 +116,14 @@
           "email": "rkatz@sla-llp.com",
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Ann Canino",
+          "title": "Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

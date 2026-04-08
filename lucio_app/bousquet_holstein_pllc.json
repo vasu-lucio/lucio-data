@@ -77,6 +77,14 @@
           "email": "tanderson@bhlawpllc.com",
           "phone": "315) 701-6495",
           "linkedin_url": null
+        },
+        {
+          "name": "Alicia Madden",
+          "title": "Chief of Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     }

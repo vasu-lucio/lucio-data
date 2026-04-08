@@ -37,11 +37,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Debbi Kacocha",
+        "title": "Office Manager",
+        "email": "d*****@denlea***.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

@@ -42,11 +42,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Shobna P. Cuddy",
+        "title": "Firmwide Office Administrator",
+        "email": "scuddy@cuddylawfirm.com",
+        "phone": "(315) 370-4027",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

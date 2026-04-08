@@ -40,11 +40,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Peter E. Calabrese",
+        "title": "Director of Operations",
+        "email": "[[email protected]]",
+        "phone": "212.390.9554",
+        "linkedin_url": "https://www.linkedin.com/posts/peter-calabrese-77051462_krieger-kim-lewin-llp-activity-6754795689806454784-t8ct?trk=public_profile",
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

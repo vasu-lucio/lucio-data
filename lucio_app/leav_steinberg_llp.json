@@ -35,11 +35,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Rikki Davidoff",
+        "title": "Managing Attorney",
+        "email": "rdavidoff@nyaccidentlawyer.com",
+        "phone": "347-408-2947 Ext: 212",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

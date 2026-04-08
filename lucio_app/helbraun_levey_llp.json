@@ -89,6 +89,14 @@
           "email": null,
           "phone": "3055390646",
           "linkedin_url": null
+        },
+        {
+          "name": "Wrenn Odim",
+          "title": "Legal Operations Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

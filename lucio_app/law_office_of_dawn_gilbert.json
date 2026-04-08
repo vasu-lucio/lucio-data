@@ -47,11 +47,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Craig Litherland",
+        "title": "CEO",
+        "email": "litherlandc@gilbertlegal.com",
+        "phone": "202-772-2264",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

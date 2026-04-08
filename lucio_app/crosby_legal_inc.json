@@ -48,11 +48,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Kathryn Fiore",
+        "title": "Chief Operating Officer",
+        "email": "k******@crosbybymollieburch.com",
+        "phone": "+1 123-456-7890",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

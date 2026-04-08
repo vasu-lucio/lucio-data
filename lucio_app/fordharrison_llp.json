@@ -70,6 +70,14 @@
           "email": "lwilson@fordharrison.com",
           "phone": "404-888-3824",
           "linkedin_url": "https://www.linkedin.com/in/lavernwilson"
+        },
+        {
+          "name": "Margaret F. Holman",
+          "title": "Chief Operating Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

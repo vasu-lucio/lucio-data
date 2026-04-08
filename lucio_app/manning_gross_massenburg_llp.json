@@ -32,11 +32,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Christopher P. McDevitt",
+        "title": "Chief Operating Officer",
+        "email": "cmcdevitt@mgmlaw.com",
+        "phone": "617 670 8419",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

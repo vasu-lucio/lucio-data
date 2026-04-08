@@ -46,11 +46,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Michele Yuen",
+        "title": "VP of Operations",
+        "email": "myuen@scalefirm.com",
+        "phone": "415.735.5933",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

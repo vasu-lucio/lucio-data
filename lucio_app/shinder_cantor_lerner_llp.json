@@ -71,6 +71,14 @@
           "email": "james@scl-llp.com",
           "phone": "(646) 960-8611",
           "linkedin_url": "https://www.linkedin.com/in/james-kovacs-130ab352/"
+        },
+        {
+          "name": "Audra O'Rourke",
+          "title": "Practice Manager",
+          "email": "aorourke@scl-llp.com",
+          "phone": "(646) 960-8620",
+          "linkedin_url": "https://www.linkedin.com/in/audra-o-rourke-65b1721a",
+          "source": "coo_finder"
         }
       ]
     },

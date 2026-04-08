@@ -67,6 +67,14 @@
           "email": "danderson@zellelaw.com",
           "phone": "(612) 336-9179",
           "linkedin_url": null
+        },
+        {
+          "name": "Frank Elsenbast",
+          "title": "Chief Operating Officer / Chief Financial Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

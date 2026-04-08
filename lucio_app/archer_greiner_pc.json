@@ -73,6 +73,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Stacey Sinclair",
+          "title": "Chief Operating Officer",
+          "email": "*********@archerlaw.com",
+          "phone": "856-784XXXX",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

@@ -68,6 +68,14 @@
           "email": null,
           "phone": "973-425-8727",
           "linkedin_url": "https://www.linkedin.com/in/lucille-karp-3bb3892"
+        },
+        {
+          "name": "John Dunlea",
+          "title": "CFO and COO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

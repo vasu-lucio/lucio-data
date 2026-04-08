@@ -81,6 +81,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/janice-hogan-14798"
+        },
+        {
+          "name": "Donney Seow",
+          "title": "Global Chief Operating Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

@@ -34,11 +34,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Zully Karbowski",
+        "title": "Firm Administrator",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "518-449-0044",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

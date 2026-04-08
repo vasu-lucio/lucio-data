@@ -38,11 +38,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Rene\u00e9 Benda",
+        "title": "Director, Marketing & Business Development",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

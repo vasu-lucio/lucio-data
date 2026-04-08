@@ -48,11 +48,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Mitchell R. Schrage",
+        "title": "Managing Partner of Operations",
+        "email": "mschrage@kasowitz.com",
+        "phone": "+1 (212) 506-1960",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

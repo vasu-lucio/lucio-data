@@ -51,11 +51,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Abishek Manmadhan",
+        "title": "Chief Operating Officer",
+        "email": "[[email&#160;protected]]",
+        "phone": "9546554210",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

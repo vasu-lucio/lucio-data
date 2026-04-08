@@ -33,11 +33,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Jackie Soden",
+        "title": "Firm Administrator",
+        "email": "enquiries@andlaw.eu",
+        "phone": "+44 (0) 1865 858 878",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

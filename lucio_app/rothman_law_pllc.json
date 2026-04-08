@@ -61,7 +61,16 @@
         "linkedin_url": null,
         "ai_notes": null
       },
-      "additional_contacts": []
+      "additional_contacts": [
+        {
+          "name": "Sarah Morgan",
+          "title": "Executive Administrator",
+          "email": "Sarah@rothmanlawpllc.com",
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
+        }
+      ]
     },
     "linkedin_company_url": "https://www.linkedin.com/company/rothmanlawpllc",
     "linkedin_size": "1-10"

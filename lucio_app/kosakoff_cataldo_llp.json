@@ -41,11 +41,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Margie Morabito",
+        "title": "null",
+        "email": "mmorabito@kcllp.net",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

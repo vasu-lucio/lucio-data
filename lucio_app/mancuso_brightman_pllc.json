@@ -35,11 +35,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Christine Newman",
+        "title": "Administrative Assistant",
+        "email": "cnewman@mbnylaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

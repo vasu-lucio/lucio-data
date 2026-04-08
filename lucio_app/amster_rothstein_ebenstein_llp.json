@@ -68,6 +68,14 @@
           "email": null,
           "phone": "212 336 8050",
           "linkedin_url": "https://www.linkedin.com/in/chesterrothstein"
+        },
+        {
+          "name": "Michael Lafferty",
+          "title": "Director Of Information Technology And Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

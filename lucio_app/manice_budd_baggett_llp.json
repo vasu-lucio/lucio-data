@@ -82,6 +82,14 @@
           "email": "salberts@manicebudd.com",
           "phone": "212 418 0531",
           "linkedin_url": "https://www.linkedin.com/in/sandra-p-199101212"
+        },
+        {
+          "name": "Nancy Lau",
+          "title": "Trust Administration & Office Management",
+          "email": "nlau@manicebudd.com",
+          "phone": "212 418 0531",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

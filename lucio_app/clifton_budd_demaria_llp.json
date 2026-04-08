@@ -51,11 +51,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Meredith Lonner",
+        "title": "Director of Administration and Finance",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

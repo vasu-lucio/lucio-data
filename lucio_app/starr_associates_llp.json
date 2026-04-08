@@ -44,11 +44,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Erica Starr",
+        "title": "Director of Financial Operations",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

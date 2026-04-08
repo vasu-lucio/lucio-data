@@ -40,11 +40,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Scott Meacham",
+        "title": "Director of Business Operations",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "716.636.7600",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

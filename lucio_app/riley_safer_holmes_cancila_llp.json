@@ -65,11 +65,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Kate Mahoney Aphr",
+        "title": "Payroll & Benefits Manager",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

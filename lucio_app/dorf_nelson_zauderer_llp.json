@@ -35,11 +35,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Christopher M. Malikschmitt",
+        "title": "Chief Operating Officer",
+        "email": "cmalikschmitt@dorflaw.com",
+        "phone": "914.381.7600 x129",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

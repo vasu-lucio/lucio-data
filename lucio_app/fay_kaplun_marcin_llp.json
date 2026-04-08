@@ -39,11 +39,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Fay Kaplun",
+        "title": "Recruiting Director",
+        "email": "fa****@fkmiplaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

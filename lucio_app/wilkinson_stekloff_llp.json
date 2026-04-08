@@ -33,11 +33,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Morgan Rohrhofer",
+        "title": "Chief Administrative Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/morgan-rohrhofer-2503587",
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

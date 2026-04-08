@@ -81,6 +81,14 @@
           "email": "bcorman@cohenmilstein.com",
           "phone": "202.408.4600",
           "linkedin_url": "https://www.linkedin.com/in/brian-corman-113a19138/"
+        },
+        {
+          "name": "James Gehrke",
+          "title": "Executive Director",
+          "email": null,
+          "phone": "202.408.4600",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

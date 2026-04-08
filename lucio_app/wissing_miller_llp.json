@@ -31,11 +31,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Nancy Grimm",
+        "title": "Paralegal",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

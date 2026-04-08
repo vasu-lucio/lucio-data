@@ -65,6 +65,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.nytco.com/person/david-mccraw/"
+        },
+        {
+          "name": "Meredith A. Kopit Levien",
+          "title": "Chief Executive Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

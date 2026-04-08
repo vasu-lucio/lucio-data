@@ -63,11 +63,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Ashley Goss",
+        "title": "Chief Operating Officer",
+        "email": "ashley.goss@rimonlaw.com",
+        "phone": "(800) 930-7271 Ext. 332",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

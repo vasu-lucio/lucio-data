@@ -43,11 +43,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Erica Rivera",
+        "title": "Chief Financial Officer | SHRM-CP",
+        "email": "erivera@hdrbb.com",
+        "phone": "201.441.9056",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

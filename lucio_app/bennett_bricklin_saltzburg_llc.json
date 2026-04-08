@@ -92,6 +92,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Anthony F. Pettigrosso",
+          "title": "Chief Operating Officer",
+          "email": "pettigrosso@bbs-law.com",
+          "phone": "215.665.3319",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

@@ -63,11 +63,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Stacy A. Smith",
+        "title": "Chief Operating Officer",
+        "email": "ssmith@mclclaw.com",
+        "phone": "518-675-7745",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

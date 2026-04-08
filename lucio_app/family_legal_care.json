@@ -79,6 +79,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/jessica-staiger-61348b113"
+        },
+        {
+          "name": "Liza Rosa",
+          "title": "Associate Director of Operations and Human Resources",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

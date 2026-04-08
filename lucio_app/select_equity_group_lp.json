@@ -75,6 +75,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://fintool.com/app/research/funds/investment-advisers/select-equity-group-lp/people/loren-lewallen"
+        },
+        {
+          "name": "Sarah Seelaus",
+          "title": "Chief Operating Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

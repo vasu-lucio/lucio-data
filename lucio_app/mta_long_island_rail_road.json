@@ -74,6 +74,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Justin Vonashek",
+          "title": "EVP & Chief Operating Officer at Metro-North Railroad",
+          "email": "vonashek@mnr.org",
+          "phone": "+1(212) 465-5000",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

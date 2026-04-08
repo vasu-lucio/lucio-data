@@ -79,6 +79,14 @@
           "email": "smagnusson@cf-llp.com",
           "phone": "+\u00a0646 844 2466",
           "linkedin_url": "https://www.linkedin.com/in/stevenmagnusson/"
+        },
+        {
+          "name": "Nielah Dotson",
+          "title": "Firm Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

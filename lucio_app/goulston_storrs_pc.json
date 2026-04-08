@@ -78,6 +78,14 @@
           "email": "eseltzer@goulstonstorrs.com",
           "phone": "+12128785194",
           "linkedin_url": "https://www.linkedin.com/in/eric-seltzer-587abb5/"
+        },
+        {
+          "name": "John Arsneault",
+          "title": "Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

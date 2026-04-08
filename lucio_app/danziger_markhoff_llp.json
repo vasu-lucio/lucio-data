@@ -85,6 +85,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/markthamilton1"
+        },
+        {
+          "name": "Debbie Potash-Turner",
+          "title": "CFO",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

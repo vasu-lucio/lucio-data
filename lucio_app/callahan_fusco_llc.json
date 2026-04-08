@@ -70,6 +70,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/mitchell-ayes-b970b85"
+        },
+        {
+          "name": "Antonio C. Irizarry",
+          "title": "Director of Business Operations",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

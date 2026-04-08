@@ -38,11 +38,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Gina Provenzano",
+        "title": "Office Manager",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "516-679-4300 OR 631-414-7500",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

@@ -58,11 +58,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Sydney Calhoun",
+        "title": "Director of Operations and Paralegal Team Lead",
+        "email": "scalhoun@aminillc.com",
+        "phone": "+1 212 490 4700",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

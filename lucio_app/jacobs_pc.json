@@ -34,11 +34,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Stefany Arteaga",
+        "title": "Head of Operations",
+        "email": "stefany@jacobspc.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "linkedin.com/in/stefany-arteaga-066b0825a/",
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

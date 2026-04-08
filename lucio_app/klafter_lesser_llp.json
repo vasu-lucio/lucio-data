@@ -52,11 +52,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Jane Gill",
+        "title": "Finance Manager",
+        "email": "jane.gill@klafterlesser.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

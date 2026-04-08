@@ -88,11 +88,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Kimberly Wolf Price",
+        "title": "Chief Operating Officer",
+        "email": "kwolfprice@bsk.com",
+        "phone": "(315) 218-8287",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

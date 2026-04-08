@@ -54,11 +54,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Phillip Rapini",
+        "title": "Chief Operating Financial Officer",
+        "email": "prapini@phillipslytle.com",
+        "phone": "(716) 847-7087",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

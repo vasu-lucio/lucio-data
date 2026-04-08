@@ -39,11 +39,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Kirsten Lemke",
+        "title": "Paralegal to Partner Kristin L. Arcuri, Esq.",
+        "email": "klemke@bsawlaw.com",
+        "phone": "(716)242-81111",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

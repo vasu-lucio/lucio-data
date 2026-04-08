@@ -102,6 +102,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Lorene Rome",
+          "title": "Director of Firm Operations and Chief of Paralegals",
+          "email": "*****@cookgrouplegal.com",
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

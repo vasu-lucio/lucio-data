@@ -54,11 +54,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Lucy DiCanio",
+        "title": "Office Management",
+        "email": "\u2745\u2745\u2745\u2745\u2745@wbccc.com",
+        "phone": "(914) 686-9010",
+        "linkedin_url": "linkedin.com/in/... or null",
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

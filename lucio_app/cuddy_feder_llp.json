@@ -45,11 +45,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Tanika Armstrong",
+        "title": "Director of Human Resources & Administration",
+        "email": "t*****@cuddyf***.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

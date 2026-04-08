@@ -46,11 +46,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Debra Scala Giokas",
+        "title": "Director of Marketing",
+        "email": "dscala@certilmanbalin.com",
+        "phone": "516.296.7087",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

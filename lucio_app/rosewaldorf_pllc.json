@@ -75,6 +75,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://ca.linkedin.com/in/mark-skanes-760a4596"
+        },
+        {
+          "name": "Serene Wheeler",
+          "title": "Human Resources/Office Man",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

@@ -35,11 +35,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Jessica Hoffmann",
+        "title": "Chief Operating Officer",
+        "email": "jessica.hoffmann@steptoe-johnson.com",
+        "phone": "(214) 251-8090",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

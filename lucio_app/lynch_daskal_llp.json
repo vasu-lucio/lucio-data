@@ -63,11 +63,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Sandy Victorio",
+        "title": "Firm Administrator",
+        "email": "victorio@lynchdaskal.law",
+        "phone": "212.710.0045",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

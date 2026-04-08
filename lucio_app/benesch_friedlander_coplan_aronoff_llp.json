@@ -72,11 +72,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "John Banks",
+        "title": "Chief Operating Officer",
+        "email": "j*****@benesc***.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

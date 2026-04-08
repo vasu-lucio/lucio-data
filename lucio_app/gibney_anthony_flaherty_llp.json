@@ -76,6 +76,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Joy Cline",
+          "title": "Executive Director",
+          "email": "Available on RocketReach, @gibney.com and @gmail.com",
+          "phone": "Available on RocketReach, multiple numbers listed",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

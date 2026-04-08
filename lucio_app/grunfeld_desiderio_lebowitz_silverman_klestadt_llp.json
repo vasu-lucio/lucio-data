@@ -82,6 +82,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/peter-klestadt-56a0686"
+        },
+        {
+          "name": "Fern Ellen Thomas",
+          "title": "Chief Financial & Administrative Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

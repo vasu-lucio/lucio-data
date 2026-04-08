@@ -54,6 +54,14 @@
           "email": "mwallach@mccarter.com",
           "phone": "2126096819",
           "linkedin_url": "https://www.linkedin.com/in/margarita-wallach-44ba909"
+        },
+        {
+          "name": "John Brefach",
+          "title": "Chief Operating Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

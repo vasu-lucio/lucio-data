@@ -57,11 +57,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Diane Peterson",
+        "title": "Paralegals & Support",
+        "email": "dpeterson@bbollp.com",
+        "phone": "631.481.2390",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

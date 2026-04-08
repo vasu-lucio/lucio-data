@@ -52,11 +52,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Zeleena Mohamedkhan",
+        "title": "Human Resources Manager",
+        "email": "[[email&#160;protected]]",
+        "phone": "305-***-*411",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

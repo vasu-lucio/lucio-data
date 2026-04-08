@@ -27,11 +27,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Lyne R Freestone",
+        "title": "Office Manager",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "(518) 884-0200",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

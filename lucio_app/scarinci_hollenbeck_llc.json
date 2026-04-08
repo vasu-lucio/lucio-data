@@ -63,6 +63,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/petermoeller"
+        },
+        {
+          "name": "Katerin Traugh",
+          "title": "Chief Executive Officer",
+          "email": "ktraugh@sh-law.com",
+          "phone": "201-896-4100 ext. 7113",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

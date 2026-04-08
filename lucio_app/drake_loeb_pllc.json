@@ -42,11 +42,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Jennifer L. Schneider",
+        "title": "Managing Attorney",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "845-561-0550",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

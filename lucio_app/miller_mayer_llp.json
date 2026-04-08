@@ -88,6 +88,14 @@
           "email": "emailEmailFlame icon indicating likelihood to engage via phone.directDirect",
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/haydenbrainard"
+        },
+        {
+          "name": "Tonya VanCamp",
+          "title": "HR & Operations Manager",
+          "email": "[email protected]",
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

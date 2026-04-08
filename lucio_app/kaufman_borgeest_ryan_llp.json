@@ -40,11 +40,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Taylor Sterner",
+        "title": "Assistant Director of Administration and Personnel",
+        "email": "t*****@kbrla***.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

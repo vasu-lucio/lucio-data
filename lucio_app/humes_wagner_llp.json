@@ -54,11 +54,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Timothy J. Savage",
+        "title": "Financial & Facility Administrator",
+        "email": "Tsavage@humeswagner.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

@@ -119,6 +119,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/silvia-manashirov-esq-42627687"
+        },
+        {
+          "name": "Jaclyn Wimer",
+          "title": "Marketing Coordinator",
+          "email": "jwimer@hpmb.com",
+          "phone": "212.471.4686",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

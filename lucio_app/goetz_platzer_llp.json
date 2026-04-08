@@ -43,11 +43,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Tamar Russell Brown",
+        "title": "Contact",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "718-974-3328",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

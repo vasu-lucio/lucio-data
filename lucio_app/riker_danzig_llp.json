@@ -65,11 +65,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Alison Feldman Walsh",
+        "title": "Chief Operating Officer",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "877-673-1022",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

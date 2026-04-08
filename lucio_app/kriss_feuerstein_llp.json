@@ -61,11 +61,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
+        "name": "Milagros Ocasio",
+        "title": "Director, Human Resources and Business Operations",
+        "email": "moc*******@kandfllp.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "linkedin.com/in/**************",
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

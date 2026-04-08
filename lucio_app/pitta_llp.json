@@ -75,6 +75,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/robert-bishop-b374b75"
+        },
+        {
+          "name": "Mickey Cekovic",
+          "title": "Chief Financial Officer and Chief Information Officer",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

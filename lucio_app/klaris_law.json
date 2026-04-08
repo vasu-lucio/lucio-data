@@ -86,6 +86,14 @@
           "email": "gili.karev@klarislaw.com",
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/gili-karev-3631b2266/"
+        },
+        {
+          "name": "Cali Liporace",
+          "title": "Law Firm Operations Executive Administrator",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

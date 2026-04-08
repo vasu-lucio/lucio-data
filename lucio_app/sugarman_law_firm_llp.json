@@ -45,11 +45,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Maria Armstrong",
+        "title": "Controller",
+        "email": "marmstrong@sugarmanlaw.com",
+        "phone": "(315) 362.8901",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

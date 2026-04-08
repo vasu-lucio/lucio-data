@@ -45,11 +45,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Viviana Poveda",
+        "title": "Managing Paralegal",
+        "email": "viviana@closerattorney.com",
+        "phone": "516-801-6363",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

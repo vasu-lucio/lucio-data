@@ -35,11 +35,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Danielle \"Dee\" Darling",
+        "title": "Administrative Professional",
+        "email": "dee@tpdlawfirm.com",
+        "phone": "518-899-9200 ext. 101",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

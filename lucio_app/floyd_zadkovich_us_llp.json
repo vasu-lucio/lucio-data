@@ -41,11 +41,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Chloe Davies",
+        "title": "Operations & Finance Manager",
+        "email": "[[email protected]]",
+        "phone": "+44 7713 669 157",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

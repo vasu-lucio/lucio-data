@@ -50,11 +50,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
+        "name": "Donna Manion",
         "title": "Chief Operating Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "dmanion@cahill.com",
+        "phone": "212.701.3901",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

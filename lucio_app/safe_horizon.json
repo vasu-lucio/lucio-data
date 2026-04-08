@@ -25,11 +25,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": "VP, Information Technology",
+        "name": "Lisa A. O\u2019Connor",
+        "title": "Deputy CEO",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

@@ -29,11 +29,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Barry R. Kozak",
+        "title": "Chief Operating Officer",
+        "email": "bkozak@harrisbeachmurtha.com",
+        "phone": "(585) 419-8706",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

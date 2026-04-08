@@ -92,6 +92,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/denniswakeman"
+        },
+        {
+          "name": "Kevin McCarthy",
+          "title": "Chief Financial & Administrative Officer",
+          "email": "KMcCarthy@KiernanTrebach.com",
+          "phone": "(202) 712-7000",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

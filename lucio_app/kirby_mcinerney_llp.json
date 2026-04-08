@@ -46,11 +46,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Elaine Mui",
+        "title": "Chief Operating Officer",
+        "email": "emui@kmllp.com",
+        "phone": "212.699.1146",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

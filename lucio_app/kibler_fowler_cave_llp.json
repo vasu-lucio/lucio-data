@@ -80,6 +80,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/company/kibler-fowler-cave-llp"
+        },
+        {
+          "name": "Samantha Ahlheim",
+          "title": "Litigation Paralegal/Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

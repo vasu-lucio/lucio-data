@@ -72,6 +72,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": null
+        },
+        {
+          "name": "Ventris C. Gibson",
+          "title": "Director of Administration",
+          "email": "publicinfo@nlrb.gov",
+          "phone": "202-273-1991",
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },

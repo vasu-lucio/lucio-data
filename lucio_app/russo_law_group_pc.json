@@ -36,11 +36,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
+        "name": "Melanie Castillo",
         "title": "Administrator",
         "email": "mcastillo@vjrussolaw.com",
-        "phone": null,
-        "linkedin_url": null
+        "phone": "(516) 393-3147",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

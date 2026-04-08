@@ -28,11 +28,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Scott Flichtbeil",
+        "title": "Chief Operating Officer",
+        "email": "scott.flichtbeil@foster.com",
+        "phone": "206.447.4400",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

@@ -42,11 +42,12 @@
       },
       "founders": [],
       "tech_contact": {
-        "name": null,
-        "title": null,
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "name": "Amy Klein",
+        "title": "Director of Corporate Services and Compliance",
+        "email": "aklein@ghsklaw.com",
+        "phone": "(332) 232-1607",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

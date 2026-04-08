@@ -44,11 +44,12 @@
         }
       ],
       "tech_contact": {
-        "name": null,
-        "title": null,
+        "name": "Steve M. Yeung",
+        "title": "Facilities Manager",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "415.956.1900",
+        "linkedin_url": null,
+        "source": "coo_finder"
       },
       "ai_contact": {
         "name": null,

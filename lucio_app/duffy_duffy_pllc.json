@@ -83,6 +83,14 @@
           "email": null,
           "phone": null,
           "linkedin_url": "https://www.linkedin.com/in/cliff-argintar-9a183a120"
+        },
+        {
+          "name": "Mary Cuedek",
+          "title": "Office Manager",
+          "email": null,
+          "phone": null,
+          "linkedin_url": null,
+          "source": "coo_finder"
         }
       ]
     },
