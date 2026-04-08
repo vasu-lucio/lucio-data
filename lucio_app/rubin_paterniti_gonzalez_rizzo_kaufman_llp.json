@@ -22,9 +22,9 @@
       "managing_partner": {
         "name": "Christina Papadopoulos",
         "title": "MANAGING PARTNER",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "papadopoulos@rpgrklaw.com",
+        "phone": "516-340-1197",
+        "linkedin_url": "https://www.linkedin.com/in/christina-papadopoulos-548b4211a"
       },
       "co_managing_partner": {
         "name": null,
@@ -53,37 +53,37 @@
         {
           "name": "Steven I. Rubin",
           "title": "PARTNER",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rubin@rpgrklaw.com",
+          "phone": "516-340-1174",
+          "linkedin_url": "https://www.linkedin.com/in/steven-rubin-bb6b0b70"
         },
         {
           "name": "John D. Paterniti",
           "title": "PARTNER",
           "email": "paterniti@rpgrklaw.com",
           "phone": "646 893-2389",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-paterniti-15776a18"
         },
         {
           "name": "Juan C. Gonzalez",
           "title": "PARTNER",
           "email": "gonzalez@rpgrklaw.com",
           "phone": "646 893-2386",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/juan-c-gonzalez-054a1913"
         },
         {
           "name": "Craig V. Rizzo",
           "title": "OF COUNSEL",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rizzo@rpgrklaw.com",
+          "phone": "516-874-7240",
+          "linkedin_url": "https://www.linkedin.com/in/craig-rizzo-01542a165/"
         },
         {
           "name": "Roy F. Kaufman",
           "title": "PARTNER",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kaufman@rpgrklaw.com",
+          "phone": "516-340-1083",
+          "linkedin_url": "https://www.linkedin.com/in/roy-f-kaufman-446082135/"
         }
       ]
     },

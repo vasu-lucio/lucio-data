@@ -28,9 +28,9 @@
       "co_managing_partner": {
         "name": "David Blumenthal",
         "title": "Co-Managing Partner",
-        "email": null,
+        "email": "dblumenthal@srfc.law",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/beth-anne-roy-langrell-9b510b3"
       },
       "founders": [
         {
@@ -38,19 +38,19 @@
           "title": "Partner",
           "email": "gsichenzia@srfc.law",
           "phone": "(212) 930-9700, Ext. 207",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gregory-sichenzia-3675114"
         },
         {
           "name": "Marc Ross",
           "title": null,
-          "email": null,
+          "email": "mross@srfc.law",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/marc-ross-757b145"
         },
         {
           "name": "Michael Ference",
           "title": null,
-          "email": null,
+          "email": "mference@srfc.law",
           "phone": null,
           "linkedin_url": null
         }
@@ -74,21 +74,21 @@
         {
           "name": "Thomas Rose",
           "title": "Co-Managing Partner",
-          "email": null,
+          "email": "trose@srfc.law",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Evan Cappelli",
           "title": "Managing Partner \u2013 Corporate and Securities Department",
-          "email": null,
+          "email": "ecappelli@srfc.law",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/fedor-babovich-61765555"
         },
         {
           "name": "Ross Carmel",
           "title": "Named Partner",
-          "email": null,
+          "email": "rcarmel@srfc.law",
           "phone": null,
           "linkedin_url": null
         }

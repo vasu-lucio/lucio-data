@@ -34,7 +34,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/mikeomara"
       },
       "co_managing_partner": {
         "name": null,
@@ -49,7 +49,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/marissa-parker-31963543"
       },
       "ai_contact": {
         "name": null,
@@ -65,7 +65,7 @@
           "title": "Chief Financial Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jameshjenkins"
         },
         {
           "name": "Brett C. Don",
@@ -79,7 +79,7 @@
           "title": "Partner and Chairman Emeritus",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kevin-byrne-33066a1"
         }
       ]
     }

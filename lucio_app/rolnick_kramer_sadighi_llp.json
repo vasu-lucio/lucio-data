@@ -22,7 +22,7 @@
         "title": "Managing Partner",
         "email": "ssadighi@rksllp.com",
         "phone": "212.597.2808",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sheila-sadighi-a4869014"
       },
       "co_managing_partner": {
         "name": null,
@@ -60,20 +60,20 @@
           "title": "Partner",
           "email": "Mkramer@rksllp.com",
           "phone": "212.597.2828",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/marc-kramer-816111a4"
         },
         {
           "name": "Steven Hecht",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "shecht@rksllp.com",
+          "phone": "212.597.2818",
+          "linkedin_url": "https://www.linkedin.com/in/steven-hecht-3a801631"
         },
         {
           "name": "Michael Hampson",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "mhampson@rksllp.com",
+          "phone": "212.597.2847",
           "linkedin_url": null
         }
       ]

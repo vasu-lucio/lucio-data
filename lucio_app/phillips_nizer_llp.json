@@ -43,7 +43,7 @@
       "managing_partner": {
         "name": "Marc Landis",
         "title": "Managing Partner",
-        "email": null,
+        "email": "mlandis@phillipsnizer.com",
         "phone": null,
         "linkedin_url": "https://theorg.com/org/phillips-nizer-llp/org-chart/marc-landis"
       },
@@ -60,7 +60,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/louis-weiner-6a38b112"
         },
         {
           "name": "Louis Phillips",
@@ -91,14 +91,14 @@
           "title": "Chief Talent Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/katherine-m-624182198"
         },
         {
           "name": "Spencer Brodsky",
           "title": "Information Technology Support Specialist",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/spencerbrodsky1"
         }
       ]
     },

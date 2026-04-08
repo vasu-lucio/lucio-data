@@ -37,7 +37,7 @@
           "title": "Partner",
           "email": "dslarskey@slarskey.com",
           "phone": "646.893.6082",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/davidslarskey"
         }
       ],
       "tech_contact": {
@@ -45,7 +45,7 @@
         "title": "Director of Operations",
         "email": "ebeach@slarskey.com",
         "phone": "646.347.3031",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/emma-beach-b5661219a"
       },
       "ai_contact": {
         "name": null,
@@ -61,28 +61,28 @@
           "title": "Partner",
           "email": "rbea@slarskey.com",
           "phone": "646.893.1700",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/reneebeltranenabea"
         },
         {
           "name": "Evan Fried",
           "title": "Partner",
           "email": "efried@slarskey.com",
           "phone": "646.893.6083",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/evan-fried-69453a25"
         },
         {
           "name": "Adam Hollander",
           "title": "Partner",
           "email": "ahollander@slarskey.com",
           "phone": "646.893.0482",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adam-hollander-23425356"
         },
         {
           "name": "Ricky Weingarten",
           "title": "Partner",
           "email": "rweingarten@slarskey.com",
           "phone": "646.347.3033",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richard-weingarten-88875330"
         }
       ]
     },

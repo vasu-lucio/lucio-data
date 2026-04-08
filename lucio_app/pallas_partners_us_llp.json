@@ -19,9 +19,9 @@
       "managing_partner": {
         "name": "Natasha Harrison",
         "title": "Founder & Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "natasha.harrison@pallasllp.com",
+        "phone": "+44 20 4574 1001",
+        "linkedin_url": "https://uk.linkedin.com/in/natasha-harrison-a8b5363"
       },
       "co_managing_partner": {
         "name": null,
@@ -57,15 +57,15 @@
         {
           "name": "Anastasia Cembrovska",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "anastasia.cembrovska@pallasllp.com",
+          "phone": "+1 (212) 970 2323",
+          "linkedin_url": "https://www.linkedin.com/in/anastasia-cembrovska-564a514b"
         },
         {
           "name": "Neil Pigott",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "neil.pigott@pallasllp.com",
+          "phone": "+44 20 4574 1005",
           "linkedin_url": null
         },
         {
@@ -73,7 +73,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/duane-loft-99644112"
         }
       ]
     },

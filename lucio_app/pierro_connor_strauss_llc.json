@@ -25,8 +25,8 @@
       "managing_partner": {
         "name": "Aaron E. Connor",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "aconnor@pierrolaw.com",
+        "phone": "+18669517526",
         "linkedin_url": "https://www.pierrolaw.com/attorneys/aaron-connor/"
       },
       "co_managing_partner": {
@@ -42,7 +42,7 @@
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/albanyattorney"
         }
       ],
       "tech_contact": {
@@ -64,7 +64,7 @@
         {
           "name": "Frank E. Hemming III",
           "title": "Partner",
-          "email": null,
+          "email": "fhemming@pierrolaw.com",
           "phone": null,
           "linkedin_url": null
         },
@@ -72,7 +72,7 @@
           "name": "Peter J. Strauss",
           "title": "Senior Counsel",
           "email": null,
-          "phone": null,
+          "phone": "+18669517526",
           "linkedin_url": "https://www.pierrolaw.com/attorneys/peter-j-strauss/"
         }
       ]

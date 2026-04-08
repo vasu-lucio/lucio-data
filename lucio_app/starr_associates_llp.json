@@ -23,9 +23,9 @@
       "managing_partner": {
         "name": "Samantha Sheeber",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "ssheeber@starr-lawfirm.com",
+        "phone": "(212) 620-2682",
+        "linkedin_url": "https://www.linkedin.com/in/samantha-sheeber-791082112"
       },
       "co_managing_partner": {
         "name": null,
@@ -38,9 +38,9 @@
         {
           "name": "Allan Starr",
           "title": "Founder & Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "astarr@starr-lawfirm.com",
+          "phone": "(212) 620-2686",
+          "linkedin_url": "https://www.linkedin.com/in/allan-starr-esq-6755896"
         }
       ],
       "tech_contact": {
@@ -62,37 +62,37 @@
         {
           "name": "Adam Kriegstein",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "akriegstein@starr-lawfirm.com",
+          "phone": "(212) 620-2675",
+          "linkedin_url": "https://www.linkedin.com/in/adam-kriegstein-esq-aaa7b016"
         },
         {
           "name": "Andrea L. Roschelle",
           "title": "Partner",
-          "email": null,
+          "email": "aroschelle@starr-lawfirm.com",
           "phone": "(212) 620-2681",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/andrea-roschelle-2903b5a"
         },
         {
           "name": "Shaun W. Pappas",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/shaun-pappas-a2906774"
         },
         {
           "name": "Erica Starr",
           "title": "Director of Financial Operations",
           "email": "estarr@starr-lawfirm.com",
           "phone": "212-620-2674",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/erica-starr-197b07262"
         },
         {
           "name": "John Rodriguez",
           "title": "Director of Closing Department",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jrodriguez@starr-lawfirm.com",
+          "phone": "(212) 620-2685",
+          "linkedin_url": "https://www.linkedin.com/in/john-rodriguez-1b5170128"
         }
       ]
     },

@@ -35,15 +35,15 @@
         "title": "Deputy Managing Partner & Acting General Counsel",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/christophercolvin"
       },
       "founders": [],
       "tech_contact": {
         "name": "Tracey Watson",
         "title": "Vice President of Operations & Culture",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "tracey.watson@practus.com",
+        "phone": "(804) 897-0126",
+        "linkedin_url": "https://www.linkedin.com/in/tracey-watson-9486a6122/"
       },
       "ai_contact": {
         "name": null,
@@ -57,9 +57,9 @@
         {
           "name": "Shawn Daniels",
           "title": "Chief Technology Officer",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "shawn.daniels@practus.com",
+          "phone": "(913) 543-3563",
+          "linkedin_url": "https://www.linkedin.com/in/shawn-daniels-00b17b/"
         }
       ]
     },

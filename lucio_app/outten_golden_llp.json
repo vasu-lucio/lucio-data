@@ -35,24 +35,24 @@
         {
           "name": "Wayne Outten",
           "title": "Chair",
-          "email": null,
+          "email": "wno@outtengolden.com",
           "phone": "(646) 825-9810",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/wayne-outten-3384b65"
         },
         {
           "name": "Anne Golden",
           "title": null,
           "email": null,
           "phone": "(347) 390-2144",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/anne-golden-4a681729"
         }
       ],
       "tech_contact": {
         "name": "Anna Thea Bridge",
         "title": "Chief Operating Officer",
-        "email": null,
+        "email": "abridge@outtengolden.com",
         "phone": "(347) 390-2123",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/anna-thea-bridge-19b28490"
       },
       "ai_contact": {
         "name": null,
@@ -66,16 +66,16 @@
         {
           "name": "Celene Judge",
           "title": "Chief Human Resources Officer",
-          "email": null,
+          "email": "cjudge@outtengolden.com",
           "phone": "(347) 390-2155",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/celene-judge"
         },
         {
           "name": "Cory Osher",
           "title": "Director of Litigation Technology",
-          "email": null,
+          "email": "cosher@outtengolden.com",
           "phone": "(202) 847-4408",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/cory-osher-ai"
         }
       ]
     },

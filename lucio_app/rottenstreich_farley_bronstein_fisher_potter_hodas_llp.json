@@ -30,7 +30,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": "561.832.1005",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/zachary-potter-ab2592"
       },
       "founders": [],
       "tech_contact": {
@@ -38,7 +38,7 @@
         "title": "Chief Operating Officer/Financial Analyst",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kristipallante"
       },
       "ai_contact": {
         "name": null,
@@ -54,14 +54,14 @@
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/peter-e-bronstein-b9a41a24"
         },
         {
           "name": "John O. Farley",
           "title": "Founding Partner",
           "email": null,
           "phone": "212.956.8300",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/johnofarley"
         }
       ]
     },

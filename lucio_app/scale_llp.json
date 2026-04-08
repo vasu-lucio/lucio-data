@@ -25,9 +25,9 @@
       "managing_partner": {
         "name": "David Reidy",
         "title": "Managing Partner",
-        "email": null,
+        "email": "reidy@scalefirm.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/davidreidy"
       },
       "co_managing_partner": {
         "name": null,
@@ -42,7 +42,7 @@
           "title": "Founding Partner",
           "email": "adam@scalefirm.com",
           "phone": "415.735.5933",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/adam-forest"
         }
       ],
       "tech_contact": {
@@ -64,30 +64,30 @@
         {
           "name": "Brian Detwiler",
           "title": "Practice Group Leader",
-          "email": null,
+          "email": "bdetwiler@scalefirm.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-detwiler-41854023"
         },
         {
           "name": "Brian Elliott",
           "title": "Practice Group Leader",
-          "email": null,
+          "email": "brian@scalefirm.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brianjelliottesq"
         },
         {
           "name": "Robert S. \u201cBob\u201d Gans",
           "title": "Practice Group Leader",
-          "email": null,
+          "email": "rgans@scalefirm.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Charles R. \u201cChuck\u201d Kraus",
           "title": "Practice Group Leader",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ckraus@scalefirm.com",
+          "phone": "415-735-5933",
+          "linkedin_url": "https://www.linkedin.com/in/charles-krause-b72142b"
         },
         {
           "name": "Kristen Smith-Dayley",
@@ -99,16 +99,16 @@
         {
           "name": "Cary Ullman",
           "title": "Practice Group Leader",
-          "email": null,
+          "email": "cary@scalefirm.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Jamie Wells",
           "title": "Practice Group Leader",
-          "email": null,
+          "email": "jamie.wells@scalefirm.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jamiedwellsesq"
         }
       ]
     },

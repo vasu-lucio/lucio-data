@@ -25,7 +25,7 @@
         "title": "Senior Partner",
         "email": null,
         "phone": "212-593-2155",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/roy-scaffidi-22a86117"
       },
       "co_managing_partner": {
         "name": null,
@@ -54,16 +54,16 @@
         {
           "name": "Robert Marino",
           "title": "Attorney at Law",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rob@scaffidilaw.com",
+          "phone": "2125932155",
+          "linkedin_url": "https://www.linkedin.com/in/robert-marino-944600114/"
         },
         {
           "name": "Kevin B. Lynch",
           "title": "Attorney at Law \u2022 Of Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kevin-lynch-b7389b21"
         },
         {
           "name": "Anthony J. Scaffidi",
@@ -77,13 +77,13 @@
           "title": "Attorney at Law",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-scaffidi-51866a17b"
         },
         {
           "name": "Victor Guzman",
           "title": "Attorney at Law \u2022 Of Counsel",
-          "email": null,
-          "phone": null,
+          "email": "vguzman@guzmanlawflny.com",
+          "phone": "2125932155",
           "linkedin_url": null
         }
       ]

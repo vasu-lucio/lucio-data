@@ -19,8 +19,8 @@
       "managing_partner": {
         "name": "David Pfalzgraf, Jr.",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "pfalzgraf@rupppfalzgraf.com",
+        "phone": "(716) 854-3400",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -34,9 +34,9 @@
         {
           "name": "Tony Rupp",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "rupp@rupppfalzgraf.com",
+          "phone": "(716) 854-3400",
+          "linkedin_url": "https://www.linkedin.com/in/r-anthony-rupp-iii-285900111"
         }
       ],
       "tech_contact": {
@@ -58,9 +58,9 @@
         {
           "name": "William Demarest III",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "demarest@rupppfalzgraf.com",
+          "phone": "518.432.4100",
+          "linkedin_url": "https://www.linkedin.com/in/william-f-demarest-iii-12b59973/"
         }
       ]
     },

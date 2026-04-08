@@ -21,7 +21,7 @@
         "title": "Partner",
         "email": "Daniel@rothmanlawpllc.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/daniel-rothman-46311382"
       },
       "co_managing_partner": {
         "name": null,
@@ -36,12 +36,12 @@
           "title": "Partner",
           "email": "jared@rothman.law",
           "phone": "212-840-3016",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jared-rothman-68a15441"
         },
         {
           "name": "Jordan Rothman",
           "title": null,
-          "email": null,
+          "email": "daniel@rothmanlawpllc.com",
           "phone": null,
           "linkedin_url": null
         }
@@ -51,7 +51,7 @@
         "title": "Executive Administrator",
         "email": "Sarah@rothmanlawpllc.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sarahemorgan1"
       },
       "ai_contact": {
         "name": null,

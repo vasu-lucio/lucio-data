@@ -47,7 +47,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/marc-rousseau"
         }
       ],
       "tech_contact": {
@@ -78,21 +78,21 @@
           "title": "Attorney",
           "email": "marc.a.rousseau@peircesalvato.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/marc-rousseau"
         },
         {
           "name": "Alessandra L. Cortina",
           "title": "Attorney",
           "email": "alessandra.l.cortina@peircesalvato.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alessandra-cortina-esq-11a39415a"
         },
         {
           "name": "Daniel T. Hughes",
           "title": "Attorney",
           "email": "daniel.t.hughes@peircesalvato.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/daniel-hughes-323772129"
         }
       ]
     }

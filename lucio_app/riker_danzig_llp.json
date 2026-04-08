@@ -83,23 +83,23 @@
         {
           "name": "Kelly Crawford",
           "title": "Co-Chair",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "kcrawford@riker.com",
+          "phone": "973.451.8417",
+          "linkedin_url": "https://www.linkedin.com/in/kelly-crawford-1bbaab13/"
         },
         {
           "name": "Jonathan Barrera",
           "title": null,
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jbarrera@riker.com",
+          "phone": "973.451.8599",
+          "linkedin_url": "https://www.linkedin.com/in/jonathan-barrera-17a0661a"
         },
         {
           "name": "Steve Senior",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steve-senior-5009139"
         }
       ]
     },

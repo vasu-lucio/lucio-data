@@ -32,9 +32,9 @@
       "managing_partner": {
         "name": "Barry Levy",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "barry.levy@rivkin.com",
+        "phone": "(516) 357-3149",
+        "linkedin_url": "https://www.linkedin.com/in/barry-levy-481ba613"
       },
       "co_managing_partner": {
         "name": null,
@@ -63,8 +63,8 @@
         {
           "name": "Evan Krinick",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "evan.krinick@rivkin.com",
+          "phone": "(516) 357-3483",
           "linkedin_url": "https://theorg.com/org/rivkin-radler-llp/org-chart/evan-h-krinick"
         }
       ]

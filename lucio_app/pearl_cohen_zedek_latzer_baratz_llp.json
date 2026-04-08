@@ -51,16 +51,16 @@
         {
           "name": "Haim Ravia",
           "title": "Partner, Head of Cyber, Data Protection and Privacy Department",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "HRavia@PearlCohen.com",
+          "phone": "+972-3-303-9058",
+          "linkedin_url": "https://www.linkedin.com/in/haimravia/"
         },
         {
           "name": "Dotan Hammer",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "DHammer@PearlCohen.com",
+          "phone": "+972-3-303-9037",
+          "linkedin_url": "https://www.linkedin.com/in/dotan-hammer-301b7015/"
         },
         {
           "name": "Brian Marcus",
@@ -81,7 +81,7 @@
           "title": "Senior Associate, Corporate Practice Group and Startup Practice Group",
           "email": "MAbrumovsky@pearlcohen.com",
           "phone": "+1-617-228-5724",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/moshe-abrumovsky-43495719a/"
         }
       ]
     },

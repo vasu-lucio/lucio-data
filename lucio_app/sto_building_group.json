@@ -38,14 +38,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/marino-francis"
         },
         {
           "name": "Patrick Donaghy",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeanne-tregidgo-03703117b"
         }
       ],
       "tech_contact": {
@@ -53,7 +53,7 @@
         "title": "Chief Administration Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/greg-dunkle-1976754"
       },
       "ai_contact": {
         "name": null,
@@ -69,21 +69,21 @@
           "title": "EVP, General Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeff-rosenstein-9276712a"
         },
         {
           "name": "Leah Ramos",
           "title": "SVP, Director of Ethics, Compliance & Audit",
-          "email": null,
+          "email": "careers@stobuildinggroup.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/leah-a-ramos"
         },
         {
           "name": "Jerry Rosenheck",
           "title": null,
-          "email": null,
+          "email": "careers@stobuildinggroup.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jerryrosenheck"
         }
       ]
     },

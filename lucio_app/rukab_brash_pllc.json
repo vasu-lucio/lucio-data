@@ -20,14 +20,14 @@
         "title": "Managing Partner",
         "email": "jack@rukabbrash.com",
         "phone": "(212) 257-1961",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jack-rukab-83860212"
       },
       "co_managing_partner": {
         "name": "Benjamin Brash",
         "title": "Managing Partner",
         "email": "ben@rukabbrash.com",
         "phone": "(212) 257-1962",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/benjamin-brash-5120339"
       },
       "founders": [],
       "tech_contact": {
@@ -51,20 +51,20 @@
           "title": "Partner",
           "email": "alexandra@rukabbrash.com",
           "phone": "(212) 257-1963",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alexandra-jonas-53976a127"
         },
         {
           "name": "Lindsay Alfano",
           "title": "Associate",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "lindsay@rukabbrash.com",
+          "phone": "+1(212) 257-1965",
+          "linkedin_url": "https://www.linkedin.com/in/lindsay-alfano-9b7095165"
         },
         {
           "name": "Lynn Judell",
           "title": "Of Counsel",
-          "email": null,
-          "phone": null,
+          "email": "lynn@rukabbrash.com",
+          "phone": "+1(212) 257-1964",
           "linkedin_url": null
         }
       ]

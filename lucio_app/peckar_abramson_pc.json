@@ -36,9 +36,9 @@
       "co_managing_partner": {
         "name": "Levi W. Barrett",
         "title": "Co-Managing Partner, New Jersey Office",
-        "email": null,
+        "email": "lbarrett@pecklaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/levi-barrett-4b39ab10"
       },
       "founders": [
         {
@@ -46,7 +46,7 @@
           "title": "Founding Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michaelzicherman"
         }
       ],
       "tech_contact": {
@@ -68,9 +68,9 @@
         {
           "name": "Steven M. Charney",
           "title": "Chair",
-          "email": null,
+          "email": "scharney@pecklaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/steven-charney-28559013"
         },
         {
           "name": "Richard R. Volack",

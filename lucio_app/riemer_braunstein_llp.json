@@ -27,7 +27,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kevin-lyons-877444183"
       },
       "co_managing_partner": {
         "name": null,
@@ -42,7 +42,7 @@
         "title": "Director of Services",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/tim-horn-a56b167"
       },
       "ai_contact": {
         "name": null,
@@ -58,35 +58,35 @@
           "title": "Chief Operating Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/barrygbraunstein"
         },
         {
           "name": "Ron Braunstein",
           "title": "Managing Partner New York",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ron-braunstein-8b9b6846"
         },
         {
           "name": "Stacy Goldstein",
           "title": null,
-          "email": null,
+          "email": "sgoldstein@riemerlaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stacy-goldstein-b414ab205/"
         },
         {
           "name": "Richard Lefkowitz",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/rich-lefkowitz-141525b1"
         },
         {
           "name": "Matthew Nash",
           "title": null,
-          "email": null,
+          "email": "mnash@riemerlaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/matthew-nash-9317608/"
         },
         {
           "name": "Kevin Murtagh",

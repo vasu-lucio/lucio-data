@@ -37,8 +37,8 @@
       "managing_partner": {
         "name": "Benjamin Lieber",
         "title": "Founder & Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "blieber@potomaclaw.com",
+        "phone": "202.558.5557",
         "linkedin_url": null
       },
       "co_managing_partner": {
@@ -52,9 +52,9 @@
       "tech_contact": {
         "name": "Marlene E. Laro",
         "title": "Partner & COO",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "mlaro@potomaclaw.com",
+        "phone": "703.517.6449",
+        "linkedin_url": "https://www.linkedin.com/in/marlene-laro-b4458270"
       },
       "ai_contact": {
         "name": null,
@@ -68,9 +68,9 @@
         {
           "name": "Galia Messika",
           "title": "Partner & General Counsel",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "gmessika@potomaclaw.com",
+          "phone": "240.600.1357",
+          "linkedin_url": "https://www.linkedin.com/in/galia-messika-6a72bb5"
         }
       ]
     }

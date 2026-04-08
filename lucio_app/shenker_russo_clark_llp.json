@@ -20,16 +20,16 @@
       "managing_partner": {
         "name": "Theresa Russo",
         "title": "Co-Managing Partner and CEO",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "theresa.russo@srclawoffices.com",
+        "phone": "+15184075800",
+        "linkedin_url": "https://www.linkedin.com/in/theresa-russo-a95135b"
       },
       "co_managing_partner": {
         "name": "Douglas Clark",
         "title": "Co-Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "douglas.clark@srclawoffices.com",
+        "phone": "+15184075800",
+        "linkedin_url": "https://www.linkedin.com/in/douglas-clark-356899185"
       },
       "founders": [],
       "tech_contact": {
@@ -52,22 +52,22 @@
           "name": "Cindy Shenker",
           "title": "Founder (Implied)",
           "email": null,
-          "phone": null,
+          "phone": "+15184075800",
           "linkedin_url": null
         },
         {
           "name": "Michael Trunzo",
           "title": "Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "+15184075800",
+          "linkedin_url": "https://www.linkedin.com/in/michael-trunzo-73623b5"
         },
         {
           "name": "Jill T. Sandhaas",
           "title": "Attorney",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jill-davis-ab6155aa"
         }
       ]
     },

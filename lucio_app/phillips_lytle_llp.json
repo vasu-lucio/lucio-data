@@ -33,9 +33,9 @@
       "managing_partner": {
         "name": "Douglas W. Dimitroff",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "ddimitroff@phillipslytle.com",
+        "phone": "(716) 847-5408",
+        "linkedin_url": "https://www.linkedin.com/in/aswalters"
       },
       "co_managing_partner": {
         "name": null,
@@ -50,7 +50,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/greg-kirschenbaum-8a9bb543"
         }
       ],
       "tech_contact": {
@@ -74,7 +74,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/james-kevin-wholey-7443a92a"
         },
         {
           "name": "Walter P. Cooke",
@@ -88,7 +88,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/danielfriedmanesq"
         },
         {
           "name": "George F. Phillips",
@@ -102,7 +102,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/william-lee-6017b92"
         }
       ]
     }

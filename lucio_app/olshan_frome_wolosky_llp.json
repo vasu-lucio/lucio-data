@@ -38,9 +38,9 @@
       "co_managing_partner": {
         "name": "Andrew Freedman",
         "title": "Co-Managing Partner; Chair, Shareholder Activism Practice",
-        "email": null,
+        "email": "afreedman@olshanlaw.com",
         "phone": "212.451.2250",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/andrewfreedman/"
       },
       "founders": [],
       "tech_contact": {
@@ -62,16 +62,16 @@
         {
           "name": "Nina M. Roket",
           "title": "Co-Managing Partner; Co-Chair, Real Estate Law Practice; Chair, Commercial Leasing Practice",
-          "email": null,
+          "email": "nroket@olshanlaw.com",
           "phone": "212.451.2335",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ninaroket/"
         },
         {
           "name": "Andrew B. Lustigman",
           "title": "CO-MANAGING PARTNER; Chair, Advertising, Marketing & Promotions Practice; Co-Chair, Brand Management & Protection Practice",
-          "email": null,
+          "email": "alustigman@olshanlaw.com",
           "phone": "212.451.2258",
-          "linkedin_url": null
+          "linkedin_url": "http://www.linkedin.com/in/alustigman"
         },
         {
           "name": "Lori Marks-Esterman",
@@ -83,7 +83,7 @@
         {
           "name": "Mitchell Raab",
           "title": "Executive Committee Member; Chair, Corporate/Securities Law Practice",
-          "email": null,
+          "email": "mraab@olshanlaw.com",
           "phone": "212.451.2237",
           "linkedin_url": null
         }

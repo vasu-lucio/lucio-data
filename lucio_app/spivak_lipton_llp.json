@@ -47,14 +47,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/neil-lipton-a7a64454"
         }
       ],
       "tech_contact": {
         "name": "Glenda Malave",
         "title": "Office Manager",
-        "email": null,
-        "phone": null,
+        "email": "gmalave@spivaklipton.com",
+        "phone": "(212) 765-2100",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -69,23 +69,23 @@
         {
           "name": "Sara A. Corello",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "scorello@spivaklipton.com",
+          "phone": "2127652100",
+          "linkedin_url": "https://www.linkedin.com/in/sara-clark-300716148"
         },
         {
           "name": "Gillian Costello",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "gcostello@spivaklipton.com",
+          "phone": "2127652100",
+          "linkedin_url": "https://www.linkedin.com/in/gilliansalit"
         },
         {
           "name": "Denis P. Duffey, Jr.",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/denis-p-duffey-jr-18422517"
         }
       ]
     },

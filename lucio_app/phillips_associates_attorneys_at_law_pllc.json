@@ -21,8 +21,8 @@
         "name": "William K. Phillips",
         "title": "Managing Partner",
         "email": "wkphillips@tpglaws.com",
-        "phone": null,
-        "linkedin_url": null
+        "phone": "8662299441",
+        "linkedin_url": "https://www.linkedin.com/in/bill-phillips-40740050"
       },
       "co_managing_partner": {
         "name": null,
@@ -35,9 +35,9 @@
       "tech_contact": {
         "name": "Vanessa Keys",
         "title": "Chief Operating Officer",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "vkeys@tpglaws.com",
+        "phone": "8662299441",
+        "linkedin_url": "https://www.linkedin.com/in/vanessamkeys"
       },
       "ai_contact": {
         "name": null,
@@ -51,23 +51,23 @@
         {
           "name": "Bryan Arce",
           "title": "Managing Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "barce@tpglaws.com",
+          "phone": "8662299441",
+          "linkedin_url": "https://www.linkedin.com/in/bryan-arce-0736341a"
         },
         {
           "name": "Gregory Calliste",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "gcalliste@tpglaws.com",
+          "phone": "8662299441",
+          "linkedin_url": "https://www.linkedin.com/in/gregory-calliste-jr-esq-0102349"
         },
         {
           "name": "Steven Fingerhut",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "sfingerhut@tpglaws.com",
+          "phone": "8662299441",
+          "linkedin_url": "https://www.linkedin.com/in/steven-fingerhut-esq-9914a226"
         }
       ]
     },

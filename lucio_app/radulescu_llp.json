@@ -18,7 +18,7 @@
         "title": "Partner",
         "email": "david@radip.com",
         "phone": "(646) 502-5951",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/davidradulescu"
       },
       "co_managing_partner": {
         "name": null,
@@ -49,7 +49,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/etai-lahav-529735b"
         },
         {
           "name": "Kevin S. Kudlac",
@@ -63,14 +63,14 @@
           "title": "Of Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jaauerbach"
         },
         {
           "name": "Bryon T. Wasserman",
           "title": "Of Counsel",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/bryonwasserman"
         }
       ]
     },

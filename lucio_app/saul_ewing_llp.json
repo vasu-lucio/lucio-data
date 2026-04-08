@@ -32,7 +32,7 @@
         "title": "Chief Operating Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/kelly-breslin-enache"
       },
       "ai_contact": {
         "name": null,
@@ -48,14 +48,14 @@
           "title": "Transactional Department Chair",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/alcolemanjr"
         },
         {
           "name": "Jeffrey S. Goodfried",
           "title": "Litigation Department Vice Chair",
-          "email": null,
+          "email": "jeffrey.goodfried@saul.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-ehrlich-697a924"
         }
       ]
     },

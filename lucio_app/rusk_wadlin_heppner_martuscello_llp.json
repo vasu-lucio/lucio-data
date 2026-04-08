@@ -27,9 +27,9 @@
       "managing_partner": {
         "name": "Daniel J. Rusk",
         "title": "Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "DanRusk@rwhm.com",
+        "phone": "+18005664101",
+        "linkedin_url": "https://www.linkedin.com/in/daniel-j-rusk-esq-1bb1087"
       },
       "co_managing_partner": {
         "name": null,
@@ -58,15 +58,15 @@
         {
           "name": "Daniel G. Heppner",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dgheppner@rwhm.com",
+          "phone": "+18005664101",
+          "linkedin_url": "https://www.linkedin.com/in/dan-heppner-5aa31425"
         },
         {
           "name": "John G. Rusk",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "johngrusk@rwhm.com",
+          "phone": "+18005664101",
           "linkedin_url": null
         },
         {
@@ -79,8 +79,8 @@
         {
           "name": "Daniel M. Martuscello",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "dmmart@rwhm.com",
+          "phone": "+18005664101",
           "linkedin_url": null
         }
       ]

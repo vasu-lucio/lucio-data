@@ -18,9 +18,9 @@
       "managing_partner": {
         "name": "Peter Eccles",
         "title": "Managing Partner (New York)",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "preccles@pag.law",
+        "phone": "212.300.2803",
+        "linkedin_url": "https://www.linkedin.com/in/preccles"
       },
       "co_managing_partner": {
         "name": null,
@@ -33,16 +33,16 @@
         {
           "name": "Lizbeth Flores",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "liz@pag.law",
+          "phone": "786.292.1599",
+          "linkedin_url": "https://www.linkedin.com/in/floreslizbeth"
         },
         {
           "name": "Juan Pablo Cappello",
           "title": "Co-Founder",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "786-292-1599",
+          "linkedin_url": "https://www.linkedin.com/in/juan-pablo-cappello-52692b56"
         }
       ],
       "tech_contact": {
@@ -64,23 +64,23 @@
         {
           "name": "Ramon Abreu De Lima",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "ramon@pag.law",
+          "phone": "212.300.2803",
+          "linkedin_url": "https://www.linkedin.com/in/ramon-abreu-lima/en"
         },
         {
           "name": "Patricia Acosta",
           "title": "Partner",
           "email": "patricia@pag.law",
           "phone": "786-292-1599",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/patricia-acosta-2b271125"
         },
         {
           "name": "Alejandro D. Fiuza",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "alejandro@pag.law",
+          "phone": "212.300.2803",
+          "linkedin_url": "https://www.linkedin.com/in/alejandro-d-fiuza-6a58a64"
         }
       ]
     },

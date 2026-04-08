@@ -57,34 +57,34 @@
           "title": "Partner, M&A",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brent-babcock-1445a34b"
         },
         {
           "name": "Jeremy L. Goldstein",
           "title": "Partner, Executive Compensation",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jeremy.goldstein@sterlingtonlaw.com",
+          "phone": "+19175962955",
+          "linkedin_url": "https://www.linkedin.com/in/jeremy-goldstein-26aa1b4"
         },
         {
           "name": "Daniel Cooper",
           "title": "Partner and Head, Private Wealth",
-          "email": null,
+          "email": "dan.cooper@sterlingtonlaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/danielle-cooper"
         },
         {
           "name": "Courtney Rockett",
           "title": "Partner, Litigation",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "courtney.rockett@sterlingtonlaw.com",
+          "phone": "+12124332847",
+          "linkedin_url": "https://www.linkedin.com/in/courtney-rockett-42397017"
         },
         {
           "name": "Jonathan Sherman",
           "title": "Partner and Vice Chair, Strategic Litigation",
-          "email": null,
-          "phone": null,
+          "email": "jonathan.sherman@sterlingtonlaw.com",
+          "phone": "+12124332849",
           "linkedin_url": null
         }
       ]

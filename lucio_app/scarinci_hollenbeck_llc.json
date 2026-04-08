@@ -29,16 +29,16 @@
       "co_managing_partner": {
         "name": "Lester Aron",
         "title": "Deputy Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "laron@sh-law.com",
+        "phone": "201-896-7204",
+        "linkedin_url": "https://www.linkedin.com/in/lester-aron-91568665/"
       },
       "founders": [],
       "tech_contact": {
         "name": "Katerin Traugh",
         "title": "Chief Executive Officer",
-        "email": null,
-        "phone": null,
+        "email": "ktraugh@sh-law.com",
+        "phone": "201-896-4100",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -55,14 +55,14 @@
           "title": "Director of Business Administration",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-palumbo-30782a34"
         },
         {
           "name": "Peter S. Moeller",
           "title": "Chief Growth Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/petermoeller"
         }
       ]
     },

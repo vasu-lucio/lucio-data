@@ -50,9 +50,9 @@
       "managing_partner": {
         "name": "Juan Z\u00fa\u00f1iga",
         "title": "Managing Partner",
-        "email": null,
+        "email": "juan.zuniga@rimonlaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/juan-zuniga-122b993"
       },
       "co_managing_partner": {
         "name": null,
@@ -83,7 +83,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/moradzadeh"
         }
       ]
     },

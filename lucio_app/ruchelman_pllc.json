@@ -23,9 +23,9 @@
       "managing_partner": {
         "name": "Galia Antebi",
         "title": "Managing Member",
-        "email": null,
+        "email": "antebi@ruchelaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/galia-antebi-1b92765"
       },
       "co_managing_partner": {
         "name": null,
@@ -38,9 +38,9 @@
       "tech_contact": {
         "name": "Gilda Bueno",
         "title": "Office Manager",
-        "email": null,
+        "email": "bueno@ruchelaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/gilda-bueno-03b1235"
       },
       "ai_contact": {
         "name": null,
@@ -54,30 +54,30 @@
         {
           "name": "Stanley C. Ruchelman",
           "title": "Chairman",
-          "email": null,
+          "email": "ruchelman@ruchelaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/stanley-c-ruchelman-063b361"
         },
         {
           "name": "Nina Krauthamer",
           "title": "Member",
-          "email": null,
+          "email": "krauthamer@ruchelaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gilda-bueno-03b1235"
         },
         {
           "name": "Simon H. Prisk",
           "title": "Member",
-          "email": null,
+          "email": "prisk@ruchelaw.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Neha Rastogi",
           "title": "Member",
-          "email": null,
+          "email": "rastogi@ruchelaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/neha-rastogi-43a363b0/"
         }
       ]
     },

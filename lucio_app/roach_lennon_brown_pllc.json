@@ -39,9 +39,9 @@
         {
           "name": "David L. Roach",
           "title": "Partner & Founder",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "dlroach@rlbattorneys.com",
+          "phone": "(716) 235-3025",
+          "linkedin_url": "https://www.linkedin.com/in/david-roach-980a7613/"
         },
         {
           "name": "J. Michael Lennon",
@@ -53,16 +53,16 @@
         {
           "name": "Christopher H. Brown, Jr.",
           "title": "Partner & Founder",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "chbrown@rlbattorneys.com",
+          "phone": "(716) 235-3025",
+          "linkedin_url": "https://www.linkedin.com/in/christopher-brown-9a013057/"
         },
         {
           "name": "John P. (Jack) Dee",
           "title": "Partner & Founder",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jpdee@rlbattorneys.com",
+          "phone": "(716) 235-3025",
+          "linkedin_url": "https://www.linkedin.com/in/dee-john-23709174/"
         }
       ],
       "tech_contact": {
@@ -84,8 +84,8 @@
         {
           "name": "Tammy Nelson",
           "title": "Office Manager",
-          "email": null,
-          "phone": null,
+          "email": "tlnelson@rlbattorneys.com",
+          "phone": "716-235-3025",
           "linkedin_url": null
         }
       ]

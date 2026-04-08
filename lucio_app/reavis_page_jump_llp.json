@@ -34,9 +34,9 @@
       "managing_partner": {
         "name": "Helen D. (Heidi) Reavis",
         "title": "Managing Partner",
-        "email": null,
+        "email": "hreavis@rpjlaw.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sallyjanecox"
       },
       "co_managing_partner": {
         "name": null,
@@ -65,9 +65,9 @@
         {
           "name": "John A. Beranbaum",
           "title": "Partner",
-          "email": null,
+          "email": "jberanbaum@rpjlaw.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-beranbaum-886076235"
         }
       ]
     },

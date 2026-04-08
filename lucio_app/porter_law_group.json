@@ -37,22 +37,22 @@
         "title": "Founder, Managing Partner",
         "email": "mporter@porterlawteam.com",
         "phone": "315.477.9913",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/michael-porter-281b97140"
       },
       "co_managing_partner": {
         "name": "Eric C. Nordby",
         "title": "Co-Founder, Partner",
-        "email": null,
-        "phone": null,
+        "email": "enordby@porterlawteam.com",
+        "phone": "8337678379",
         "linkedin_url": null
       },
       "founders": [],
       "tech_contact": {
         "name": "Maureen Wagner",
         "title": "Office Manager",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "mwagner@porterlawteam.com",
+        "phone": "8337678379",
+        "linkedin_url": "https://www.linkedin.com/in/maureen-wagner-66b6021b6"
       },
       "ai_contact": {
         "name": null,
@@ -66,37 +66,37 @@
         {
           "name": "Mary E. Langan",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mlangan@porterlawteam.com",
+          "phone": "8337678379",
+          "linkedin_url": "https://www.linkedin.com/in/ellen-langan-9b0895203"
         },
         {
           "name": "Jeffrey M. Narus",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jnarus@porterlawteam.com",
+          "phone": "8337678379",
+          "linkedin_url": "https://www.linkedin.com/in/jeffrey-narus-10917890"
         },
         {
           "name": "Marla E. Raus",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mraus@porterlawteam.com",
+          "phone": "8337678379",
+          "linkedin_url": "https://www.linkedin.com/in/marlavharris"
         },
         {
           "name": "Aaron J. Ryder",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "aryder@porterlawteam.com",
+          "phone": "8337678379",
+          "linkedin_url": "https://www.linkedin.com/in/aaron-ryder-13aa211b6"
         },
         {
           "name": "Matthew P. Germain",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mgermain@porterlawteam.com",
+          "phone": "8337678379",
+          "linkedin_url": "https://www.linkedin.com/in/matt-germain-2409b49b"
         }
       ]
     },

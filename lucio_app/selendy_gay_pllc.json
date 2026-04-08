@@ -27,8 +27,8 @@
       "managing_partner": {
         "name": "Jennifer Selendy",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
+        "email": "jselendy@selendygay.com",
+        "phone": "212 390 9003",
         "linkedin_url": "https://www.linkedin.com/in/faith-gay-5287065"
       },
       "co_managing_partner": {
@@ -42,8 +42,8 @@
         {
           "name": "Faith Gay",
           "title": "Founding Partner",
-          "email": null,
-          "phone": null,
+          "email": "fgay@selendygay.com",
+          "phone": "212 390 9001",
           "linkedin_url": "https://www.linkedin.com/in/faith-gay-5287065"
         }
       ],
@@ -68,14 +68,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/temidayo-aganga-williams"
         },
         {
           "name": "Maria Ginzburg",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "mginzburg@selendygay.com",
+          "phone": "212 390 9006",
+          "linkedin_url": "https://www.linkedin.com/in/maria-ginzburg-9811414b/"
         }
       ]
     },

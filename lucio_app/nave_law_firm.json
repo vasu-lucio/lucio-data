@@ -27,9 +27,9 @@
       "managing_partner": {
         "name": "Dennis Nave",
         "title": "Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "nave-team@naveteam.com",
+        "phone": "3153136593",
+        "linkedin_url": "https://www.linkedin.com/in/navedennis"
       },
       "co_managing_partner": {
         "name": null,
@@ -44,7 +44,7 @@
         "title": "Chief Executive Officer",
         "email": "skelsey@naveteam.com",
         "phone": "+1-866-792-7800",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/sean-kelsey-leader"
       },
       "ai_contact": {
         "name": null,
@@ -58,8 +58,8 @@
         {
           "name": "Jennifer Bisson",
           "title": "Chief Legal Operating Officer",
-          "email": null,
-          "phone": null,
+          "email": "jbisson@naveteam.com",
+          "phone": "3153136593",
           "linkedin_url": null
         },
         {
@@ -67,7 +67,7 @@
           "title": "Chief Impact Officer",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/aimeetarin"
         }
       ]
     },

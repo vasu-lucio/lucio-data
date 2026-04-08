@@ -38,7 +38,7 @@
         "title": "Chief Administrative Officer (CAO)",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/v-cabellos-chavez"
       },
       "ai_contact": {
         "name": null,
@@ -52,8 +52,8 @@
         {
           "name": "Donna Mansfield",
           "title": "Chief Strategy And Growth Officer",
-          "email": null,
-          "phone": null,
+          "email": "dmansfield@srdlegalgroup.com",
+          "phone": "+12034382770",
           "linkedin_url": null
         },
         {
@@ -66,22 +66,22 @@
         {
           "name": "Elissa Davis",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "edavis@srdlegalgroup.com",
+          "phone": "+12034382770",
           "linkedin_url": null
         },
         {
           "name": "Ken Davis",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "kdavis@srdlegalgroup.com",
+          "phone": "+12034382770",
           "linkedin_url": null
         },
         {
           "name": "Dan Cohen",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "dcohen@srdlegalgroup.com",
+          "phone": "+12034382770",
           "linkedin_url": null
         }
       ]

@@ -40,7 +40,7 @@
           "title": "Founding Partner",
           "email": "csanders@sanderslaw.group",
           "phone": "(516) 203-7634",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/craig-sanders-5456b424"
         }
       ],
       "tech_contact": {
@@ -64,7 +64,7 @@
           "title": "Director Of Client Relations",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/donna-halperin-94867428"
         },
         {
           "name": "Jonathan M. Cader",
@@ -76,15 +76,15 @@
         {
           "name": "Alain Cesar",
           "title": "Litigation Associate",
-          "email": null,
-          "phone": null,
+          "email": "acesar@sanderslaw.group",
+          "phone": "+15162037612",
           "linkedin_url": null
         },
         {
           "name": "Marian Quintero",
           "title": "Litigation Associate",
-          "email": null,
-          "phone": null,
+          "email": "mquintero@sanderslaw.group",
+          "phone": "+15162037647",
           "linkedin_url": null
         }
       ]

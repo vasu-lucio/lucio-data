@@ -51,37 +51,37 @@
         {
           "name": "Nelson A. Boxer",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "nboxer@pkbllp.com",
+          "phone": "(212) 370-0338",
           "linkedin_url": null
         },
         {
           "name": "Joshua Klein",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "jklein@pkbllp.com",
+          "phone": "(212) 370-0334",
+          "linkedin_url": "https://www.linkedin.com/in/joshua-klein-esq"
         },
         {
           "name": "Guy Petrillo",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "gpetrillo@pkbllp.com",
+          "phone": "(212) 370-0331",
+          "linkedin_url": "https://www.linkedin.com/in/caelyn-stephens-57a39662"
         },
         {
           "name": "Kevin R. Puvalowski",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "kpuvalowski@pkbllp.com",
+          "phone": "(212) 370-0332",
           "linkedin_url": null
         },
         {
           "name": "Adam H. Schuman",
           "title": "Partner",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "aschuman@pkbllp.com",
+          "phone": "(212) 370-0390",
+          "linkedin_url": "https://www.linkedin.com/in/adamhschuman"
         }
       ]
     },

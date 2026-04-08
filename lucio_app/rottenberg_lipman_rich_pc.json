@@ -26,7 +26,7 @@
         "title": "Managing Member",
         "email": "mrottenberg@rlrpclaw.com",
         "phone": "212.661.3080",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/mark-rottenberg-6a097110"
       },
       "co_managing_partner": {
         "name": null,
@@ -39,8 +39,8 @@
       "tech_contact": {
         "name": "Aileen A. Murphy",
         "title": "Chief Administrator",
-        "email": null,
-        "phone": null,
+        "email": "murphy@rlrpclaw.com",
+        "phone": "212.661.3080",
         "linkedin_url": null
       },
       "ai_contact": {
@@ -57,14 +57,14 @@
           "title": "Member",
           "email": "hlipman@rlrpclaw.com",
           "phone": "212.661.3080",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/harry-lipman-5482556"
         },
         {
           "name": "Charles S. Rich",
           "title": "Member",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "crich@rlrpclaw.com",
+          "phone": "212.661.3080",
+          "linkedin_url": "https://www.linkedin.com/in/charlesrich2"
         }
       ]
     },

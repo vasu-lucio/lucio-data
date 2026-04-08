@@ -26,24 +26,24 @@
       "managing_partner": {
         "name": "David H. Tracey",
         "title": "Firm Managing Partner",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "dtracey@sanfordheisler.comLinkedIn",
+        "phone": "646-402-5667",
+        "linkedin_url": "https://www.linkedin.com/in/david-tracey-60240116"
       },
       "co_managing_partner": {
         "name": "Saba Bireda",
         "title": "Co-Managing Partner of the Washington, DC Office",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "sbireda@sanfordheisler.comLinkedIn",
+        "phone": "+1-202-499-5209",
+        "linkedin_url": "https://www.linkedin.com/in/saba-bireda"
       },
       "founders": [],
       "tech_contact": {
         "name": "Alec Konstantin",
         "title": "Chief Operating Officer",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "619-614-0512",
+        "linkedin_url": "https://www.linkedin.com/in/alec-konstantin-28828336"
       },
       "ai_contact": {
         "name": null,
@@ -58,7 +58,7 @@
           "name": "Michael Greene",
           "title": "Chief Financial Officer",
           "email": null,
-          "phone": null,
+          "phone": "646-402-5649",
           "linkedin_url": null
         }
       ]

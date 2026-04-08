@@ -23,7 +23,7 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/erin-green-comite-64093367"
       },
       "co_managing_partner": {
         "name": null,
@@ -61,14 +61,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/sindhu-daniel-086b6952"
         },
         {
           "name": "Matthew Perez",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "646.571.0610",
+          "linkedin_url": "https://www.linkedin.com/in/matthew-perez-0207b8ba/"
         }
       ]
     },

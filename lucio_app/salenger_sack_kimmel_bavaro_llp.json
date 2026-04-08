@@ -35,14 +35,14 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/terry-st-john-4886b99"
         },
         {
           "name": "Bob Sack",
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/joe-bavaro-bb937612"
         }
       ],
       "tech_contact": {
@@ -73,7 +73,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/carolyn-caccese-05585b91"
         },
         {
           "name": "Gerilynn Falasco",
@@ -87,7 +87,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/john-zervopoulos-bb59829"
         }
       ]
     },

@@ -47,9 +47,9 @@
       "managing_partner": {
         "name": "Steven Palermo",
         "title": "Esq.",
-        "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "email": "steven@palermolawyers.com",
+        "phone": "+16316216183",
+        "linkedin_url": "https://www.linkedin.com/in/steven-palermo"
       },
       "co_managing_partner": {
         "name": "Edward Palermo",
@@ -80,21 +80,21 @@
           "title": "Esq.",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/christopherpny"
         },
         {
           "name": "Courtney Troyan",
           "title": "Esq.",
-          "email": null,
-          "phone": null,
+          "email": "courtney@palermolawyers.com",
+          "phone": "+16316216183",
           "linkedin_url": null
         },
         {
           "name": "Riley Perry",
           "title": "Esq.",
-          "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "email": "riley@palermolawyers.com",
+          "phone": "+16316216183",
+          "linkedin_url": "https://www.linkedin.com/in/riley-perry-73929662"
         },
         {
           "name": "Anthony Maragno",

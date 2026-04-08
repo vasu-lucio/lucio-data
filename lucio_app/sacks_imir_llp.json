@@ -59,28 +59,28 @@
           "title": "Partner",
           "email": "wsacks@sacksimir.com",
           "phone": "914-682-1708",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/warren-sacks-5523ba9"
         },
         {
           "name": "Jacob Imir",
           "title": "Partner",
           "email": "JImir@sacksimir.com",
           "phone": "914) 682-8128",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jacob-imir"
         },
         {
           "name": "Gidon Shamir",
           "title": null,
-          "email": null,
+          "email": "gshamir@sacksimir.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "Christopher Hilpert",
           "title": null,
-          "email": null,
+          "email": "chilpert@sacksimir.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/chris-hilpert-147820239"
         }
       ]
     },

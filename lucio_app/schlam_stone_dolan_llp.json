@@ -26,14 +26,14 @@
         "title": "Co-Managing Partner",
         "email": "jeilender@schlamstone.com",
         "phone": "212.612.1212",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jeffrey-eilender-45028a3/"
       },
       "co_managing_partner": {
         "name": "Harvey M. Stone",
         "title": "Founder and Co-Managing Partner",
         "email": "hstone@schlamstone.com",
         "phone": "212.344.5400",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/harvey-m-stone-a4274935"
       },
       "founders": [
         {
@@ -41,7 +41,7 @@
           "title": "Founder",
           "email": "rdolan@schlamstone.com",
           "phone": "212.612.1219",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/richard-dolan-41394451/"
         }
       ],
       "tech_contact": {
@@ -49,7 +49,7 @@
         "title": "Director of Administration & Operations",
         "email": "kle@schlamstone.com",
         "phone": "212.612.0690",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/ken-le-5061ab26/"
       },
       "ai_contact": {
         "name": null,
@@ -65,7 +65,7 @@
           "title": "Controller",
           "email": "bdasilva@schlamstone.com",
           "phone": "212.612.0682",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/brian-dasilva/"
         }
       ]
     },

@@ -52,7 +52,7 @@
           "title": null,
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/william-c-warren-76a8b3360"
         }
       ],
       "tech_contact": {
@@ -74,23 +74,23 @@
         {
           "name": "Ellen Seiler Brody",
           "title": "Partner",
-          "email": null,
+          "email": "ebrody@rhtax.com",
           "phone": "212-903-8712",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ellen-brody-3aa61b1a/"
         },
         {
           "name": "Quincy Cotton",
           "title": "Partner",
-          "email": null,
+          "email": "qcotton@rhtax.com",
           "phone": "212-903-8739",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/quincy-cotton-1b7a6123"
         },
         {
           "name": "Michael J. Miller",
           "title": "Partner",
-          "email": null,
+          "email": "mmiller@rhtax.com",
           "phone": "212-903-8757",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/michael-j-miller-3201175"
         }
       ]
     }

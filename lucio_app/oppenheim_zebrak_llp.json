@@ -27,14 +27,14 @@
         "title": "Managing Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/matthew-oppenheim-1353a85"
       },
       "co_managing_partner": {
         "name": "Scott Zebrak",
         "title": "Co-Founding Partner",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/scott-zebrak-212a637"
       },
       "founders": [],
       "tech_contact": {
@@ -58,7 +58,7 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/katherynjarvisenters"
         },
         {
           "name": "Jeff Kane",

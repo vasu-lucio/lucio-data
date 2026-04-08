@@ -44,14 +44,14 @@
           "title": "Partner",
           "email": "taso@pnlawyers.com",
           "phone": "+1-212-213-8511",
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/tasopardalis"
         },
         {
           "name": "Joseph D. Nohavicka",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2122138511",
+          "linkedin_url": "https://www.linkedin.com/in/joseph-d-nohavicka-b812276"
         }
       ],
       "tech_contact": {
@@ -74,21 +74,21 @@
           "name": "Israel Klein",
           "title": "Associate Attorney",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "2122138511",
+          "linkedin_url": "https://www.linkedin.com/in/isrealklein"
         },
         {
           "name": "Todd Sherman",
           "title": "Litigation Managing Attorney",
           "email": null,
-          "phone": null,
+          "phone": "2122138511",
           "linkedin_url": null
         },
         {
           "name": "Destiny Figueroa",
           "title": "Finance Manager",
           "email": null,
-          "phone": null,
+          "phone": "2122138511",
           "linkedin_url": null
         }
       ]

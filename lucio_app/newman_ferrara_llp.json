@@ -33,7 +33,7 @@
         "title": "Partner",
         "email": "JNewman@nfllp.com",
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/jonathan-newman-"
       },
       "co_managing_partner": {
         "name": null,
@@ -71,21 +71,21 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jarred-kassenoff-42709555"
         },
         {
           "name": "Jeffrey M. Norton",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/jeffreymnorton"
         },
         {
           "name": "Ricardo M. Vera",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/veraricardo"
         }
       ]
     },

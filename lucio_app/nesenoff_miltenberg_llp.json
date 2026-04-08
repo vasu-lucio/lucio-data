@@ -29,7 +29,7 @@
         "title": "Partner",
         "email": null,
         "phone": "212-736-4500",
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/andrew-t-miltenberg-372a276"
       },
       "co_managing_partner": {
         "name": null,
@@ -60,13 +60,13 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/ira-nevre-4379639"
         },
         {
           "name": "Stuart Bernstein",
           "title": "Partner",
-          "email": null,
-          "phone": null,
+          "email": "sbernstein@nmllplaw.com",
+          "phone": "+1-212-736-4500",
           "linkedin_url": null
         },
         {
@@ -81,14 +81,14 @@
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/gabrielle-vinci-3a6a6251"
         },
         {
           "name": "Kara Gorycki",
           "title": "Partner",
           "email": null,
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/kara-gorycki-0138b0"
         }
       ]
     },

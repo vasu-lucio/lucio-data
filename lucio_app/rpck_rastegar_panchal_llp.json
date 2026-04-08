@@ -43,23 +43,23 @@
           "name": "Chintan Panchal",
           "title": "Founder",
           "email": null,
-          "phone": null,
+          "phone": "1-2125949600",
           "linkedin_url": null
         },
         {
           "name": "Keyvan Rastegar",
           "title": "Founder",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-2125949600",
+          "linkedin_url": "https://at.linkedin.com/in/rastegar"
         }
       ],
       "tech_contact": {
         "name": "Mark Javello",
         "title": "Chief Financial Officer",
         "email": null,
-        "phone": null,
-        "linkedin_url": null
+        "phone": "1-2125949600",
+        "linkedin_url": "https://www.linkedin.com/in/timothygladden"
       },
       "ai_contact": {
         "name": null,
@@ -74,22 +74,22 @@
           "name": "Alisa Friedman",
           "title": "Controller",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-2125949600",
+          "linkedin_url": "https://www.linkedin.com/in/alissa-friedman-a9a05875"
         },
         {
           "name": "Aaron Bourke",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-2125949600",
+          "linkedin_url": "https://www.linkedin.com/in/aaron-bourke-68a135b"
         },
         {
           "name": "Joshua Teitelbaum",
           "title": "Partner",
           "email": null,
-          "phone": null,
-          "linkedin_url": null
+          "phone": "1-2125949600",
+          "linkedin_url": "https://www.linkedin.com/in/zahra-charles-7a98052b"
         }
       ]
     }

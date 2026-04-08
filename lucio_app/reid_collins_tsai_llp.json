@@ -40,7 +40,7 @@
         "title": "Chief Financial Officer",
         "email": null,
         "phone": null,
-        "linkedin_url": null
+        "linkedin_url": "https://www.linkedin.com/in/roman-kheyfets"
       },
       "ai_contact": {
         "name": null,
@@ -54,23 +54,23 @@
         {
           "name": "Aaron Brown",
           "title": "Partner",
-          "email": null,
+          "email": "abrown@reidcollins.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/aaronbrown-rct"
         },
         {
           "name": "Barbara Whiten Balliette",
           "title": "Partner",
-          "email": null,
+          "email": "bballiette@reidcollins.com",
           "phone": null,
           "linkedin_url": null
         },
         {
           "name": "J Benjamin King",
           "title": "Partner",
-          "email": null,
+          "email": "bking@reidcollins.com",
           "phone": null,
-          "linkedin_url": null
+          "linkedin_url": "https://www.linkedin.com/in/j-benjamin-king-647a2b20"
         }
       ]
     },
