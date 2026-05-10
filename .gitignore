@@ -32,3 +32,9 @@ env/
 # Spreadsheet source data
 *.xlsx
 *.csv
+
+# Streamlit session data (contains real firm/contact data)
+enrichment/streamlit/sessions/
+
+# Streamlit local secrets (never commit)
+enrichment/streamlit/.streamlit/secrets.toml

@@ -20,7 +20,15 @@ from enrichment import enrich_row, PRESET_PROMPTS  # noqa: E402
 
 load_dotenv()
 
-APP_PASSWORD = os.getenv("APP_PASSWORD", "lucio2025")
+# Inject Streamlit Cloud secrets into the environment so the enrichment
+# engine (which reads os.getenv) picks them up correctly.
+for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY", "TAVILY_API_KEY"):
+    if _key not in os.environ:
+        _val = st.secrets.get(_key, "")
+        if _val:
+            os.environ[_key] = _val
+
+APP_PASSWORD = os.getenv("APP_PASSWORD", "")
 SESSIONS_DIR = Path(__file__).parent / "sessions"
 SESSIONS_DIR.mkdir(exist_ok=True)
 
