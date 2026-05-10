@@ -6,9 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "serve dist -l $PORT"
   },
   "dependencies": {
+    "serve": "^14.2.3",
     "ag-grid-community": "^31.3.2",
     "ag-grid-react": "^31.3.2",
     "axios": "^1.7.2",
