@@ -97,15 +97,21 @@ def load_df(session_id: str) -> Optional[pd.DataFrame]:
     return pd.read_parquet(p) if p.exists() else None
 
 
-# ── Async helper ───────────────────────────────────────────────────────────────
+# ── Async helper (no Streamlit calls inside) ───────────────────────────────────
 
 def run_async(coro):
     result = {}
+    error  = {}
     def _run():
-        result["value"] = asyncio.run(coro)
+        try:
+            result["value"] = asyncio.run(coro)
+        except Exception as e:
+            error["msg"] = str(e)
     t = threading.Thread(target=_run)
     t.start()
     t.join()
+    if error:
+        raise RuntimeError(error["msg"])
     return result.get("value")
 
 
@@ -175,18 +181,20 @@ if st.session_state.page == "sessions":
 elif st.session_state.page == "spreadsheet":
 
     sid = st.session_state.session_id
-    df = load_df(sid)
+    df  = load_df(sid)
     if df is None:
         st.error("Session not found.")
         st.session_state.page = "sessions"
         st.rerun()
 
     meta = json.loads((SESSIONS_DIR / f"{sid}.json").read_text())
+    job  = st.session_state.get("enrich_job")
 
     # ── Header ─────────────────────────────────────────────────────────────────
     c1, c2, c3, c4 = st.columns([1, 5, 1, 1])
     with c1:
         if st.button("← Back"):
+            st.session_state.enrich_job = None
             st.session_state.page = "sessions"
             st.rerun()
     with c2:
@@ -210,7 +218,7 @@ elif st.session_state.page == "spreadsheet":
             use_container_width=True,
         )
 
-    # ── Enrich sidebar ─────────────────────────────────────────────────────────
+    # ── Sidebar ────────────────────────────────────────────────────────────────
     with st.sidebar:
         st.markdown("### ✨ Enrich Data")
 
@@ -238,88 +246,113 @@ elif st.session_state.page == "spreadsheet":
 
         st.divider()
 
-        run_enrichment = st.button("✨ Enrich", type="primary", use_container_width=True, disabled=not data_points)
-
-    # ── Enrichment run (outside sidebar so status renders in main area) ─────────
-    if run_enrichment:
-
-        # ── Dry run ────────────────────────────────────────────────────────────
-        if dry_run:
-            target_count = len(df)
-            if scope == "Re-run not found":
-                cols_to_check = [dp["column"] for dp in data_points if dp["column"] in df.columns]
-                if cols_to_check:
-                    target_count = int(df[cols_to_check].isin(["not_found", "not_sure"]).any(axis=1).sum())
-            cost = round(target_count * 0.002, 2)
-            mins = max(1, round(target_count * 0.25))
-            st.info(
-                f"**Estimate**  \n"
-                f"{target_count} rows · {len(data_points)} data points  \n"
-                f"~${cost} · ~{mins} min"
-            )
-
-        # ── Real run ───────────────────────────────────────────────────────────
+        if job:
+            if st.button("⛔ Cancel", use_container_width=True):
+                st.session_state.enrich_job = None
+                st.rerun()
         else:
-            if scope == "Re-run not found":
-                cols_to_check = [dp["column"] for dp in data_points if dp["column"] in df.columns]
-                mask = df[cols_to_check].isin(["not_found", "not_sure"]).any(axis=1) if cols_to_check else pd.Series(True, index=df.index)
-                target_idx = df[mask].index.tolist()
-            else:
-                target_idx = df.index.tolist()
-
-            if not target_idx:
-                st.warning("No rows to enrich with current scope.")
-            else:
-                for dp in data_points:
-                    if dp["column"] and dp["column"] not in df.columns:
-                        df[dp["column"]] = ""
-
-                enrich_error = {}
-
-                with st.status(f"Enriching {len(target_idx)} rows…", expanded=True) as status:
-                    progress_bar = st.progress(0)
-
-                    async def _enrich():
-                        try:
-                            async with httpx.AsyncClient(timeout=60) as client:
-                                for i, idx in enumerate(target_idx):
-                                    row   = df.loc[idx]
-                                    firm  = str(row.get(firm_col, ""))
-                                    site  = str(row.get("Website", "")) if "Website" in df.columns else None
-
-                                    st.write(f"🔍 **{firm}**")
-                                    results = await enrich_row(firm, site, data_points, client)
-
-                                    cols_md = []
-                                    for r in results:
-                                        val = r.get("value") or r.get("status", "not_found")
-                                        df.at[idx, r["column"]] = val
-                                        icon = "✅" if r.get("status") == "found" else ("⚠️" if r.get("status") == "not_sure" else "—")
-                                        cols_md.append(f"{icon} **{r['column']}**: {val}")
-                                    st.caption("  ·  ".join(cols_md))
-
-                                    progress_bar.progress((i + 1) / len(target_idx))
-                        except Exception as e:
-                            enrich_error["msg"] = str(e)
-
-                    run_async(_enrich())
-
-                    if enrich_error:
-                        status.update(label="Enrichment error", state="error")
-                        st.error(enrich_error["msg"])
+            if st.button("✨ Enrich", type="primary", use_container_width=True, disabled=not data_points):
+                if dry_run:
+                    target_count = len(df)
+                    if scope == "Re-run not found":
+                        cols_to_check = [dp["column"] for dp in data_points if dp["column"] in df.columns]
+                        if cols_to_check:
+                            target_count = int(df[cols_to_check].isin(["not_found", "not_sure"]).any(axis=1).sum())
+                    cost = round(target_count * 0.002, 2)
+                    mins = max(1, round(target_count * 0.25))
+                    st.info(f"**Estimate**  \n{target_count} rows · {len(data_points)} data points  \n~${cost} · ~{mins} min")
+                else:
+                    if scope == "Re-run not found":
+                        cols_to_check = [dp["column"] for dp in data_points if dp["column"] in df.columns]
+                        mask = df[cols_to_check].isin(["not_found", "not_sure"]).any(axis=1) if cols_to_check else pd.Series(True, index=df.index)
+                        target_idx = df[mask].index.tolist()
                     else:
+                        target_idx = df.index.tolist()
+
+                    if not target_idx:
+                        st.warning("No rows to enrich.")
+                    else:
+                        # Add any new columns to df before starting
+                        for dp in data_points:
+                            if dp["column"] and dp["column"] not in df.columns:
+                                df[dp["column"]] = ""
                         save_session(sid, meta["name"], df)
-                        status.update(label=f"Done — {len(target_idx)} rows enriched", state="complete")
+
+                        st.session_state.enrich_job = {
+                            "sid":        sid,
+                            "target_idx": target_idx,
+                            "data_points": data_points,
+                            "firm_col":   firm_col,
+                            "current":    0,
+                            "logs":       [],
+                            "error":      None,
+                        }
                         st.rerun()
 
-    # ── Editable table ─────────────────────────────────────────────────────────
-    edited = st.data_editor(
-        df,
-        use_container_width=True,
-        height=600,
-        num_rows="fixed",
-        key=f"editor_{sid}",
-    )
+    # ══════════════════════════════════════════════════════════════════════════
+    # ENRICHMENT — process one row per script run, rerun until done
+    # ══════════════════════════════════════════════════════════════════════════
 
-    if not edited.equals(df):
-        save_session(sid, meta["name"], edited)
+    if job and job["sid"] == sid:
+        total   = len(job["target_idx"])
+        current = job["current"]
+        done    = current >= total
+
+        # Progress bar
+        st.progress(current / total if total else 1, text=f"Enriched {current} / {total} rows")
+
+        # Live log of completed rows
+        if job["logs"]:
+            for entry in job["logs"]:
+                icon_map = {"found": "✅", "not_sure": "⚠️", "not_available": "🚫"}
+                cols_str = "  ·  ".join(
+                    f"{icon_map.get(r['status'], '—')} **{r['column']}**: {r.get('value') or r['status']}"
+                    for r in entry["results"]
+                )
+                st.caption(f"🔍 **{entry['firm']}** — {cols_str}")
+
+        if job["error"]:
+            st.error(f"Error on row {current}: {job['error']}")
+            st.session_state.enrich_job = None
+
+        elif not done:
+            # Process the next row
+            idx  = job["target_idx"][current]
+            df2  = load_df(sid)   # always reload from disk to avoid stale state
+            row  = df2.loc[idx]
+            firm = str(row.get(job["firm_col"], ""))
+            site = str(row.get("Website", "")) if "Website" in df2.columns else None
+
+            with st.spinner(f"Enriching row {current + 1}/{total}: {firm}…"):
+                try:
+                    results = run_async(enrich_row(firm, site, job["data_points"],
+                                                   httpx.AsyncClient(timeout=60)))
+                    for r in results:
+                        df2.at[idx, r["column"]] = r.get("value") or r.get("status", "not_found")
+                    save_session(sid, meta["name"], df2)
+                    job["logs"].append({"firm": firm, "results": results})
+                    job["current"] += 1
+                    job["error"] = None
+                except Exception as e:
+                    job["error"] = str(e)
+
+            st.rerun()
+
+        else:
+            # All done
+            st.success(f"Done! Enriched {total} rows.")
+            st.session_state.enrich_job = None
+            st.rerun()
+
+    else:
+        # ── Editable table ─────────────────────────────────────────────────────
+        df = load_df(sid)
+        edited = st.data_editor(
+            df,
+            use_container_width=True,
+            height=600,
+            num_rows="fixed",
+            key=f"editor_{sid}",
+        )
+        if not edited.equals(df):
+            save_session(sid, meta["name"], edited)
