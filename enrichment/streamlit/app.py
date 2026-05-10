@@ -14,19 +14,18 @@ import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
 
-# Reuse enrichment engine from backend
-sys.path.insert(0, str(Path(__file__).parent.parent / "backend"))
-from enrichment import enrich_row, PRESET_PROMPTS  # noqa: E402
-
+# Inject secrets BEFORE importing enrichment — that module reads API keys at
+# module level via os.getenv, so env vars must be set first.
 load_dotenv()
-
-# Inject Streamlit Cloud secrets into the environment so the enrichment
-# engine (which reads os.getenv) picks them up correctly.
 for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY", "TAVILY_API_KEY"):
     if _key not in os.environ:
         _val = st.secrets.get(_key, "")
         if _val:
             os.environ[_key] = _val
+
+# Reuse enrichment engine from backend
+sys.path.insert(0, str(Path(__file__).parent.parent / "backend"))
+from enrichment import enrich_row, PRESET_PROMPTS  # noqa: E402
 
 APP_PASSWORD = os.getenv("APP_PASSWORD", "")
 SESSIONS_DIR = Path(__file__).parent / "sessions"
