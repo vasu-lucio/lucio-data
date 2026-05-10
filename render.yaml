@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: lucio-enrichment
+    runtime: python
+    rootDir: enrichment
+    buildCommand: bash build.sh
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: APP_PASSWORD
+        sync: false
+      - key: OPENROUTER_API_KEY
+        sync: false
+      - key: TAVILY_API_KEY
+        sync: false
+      - key: DB_PATH
+        value: /var/data/enrichment.db
+    disk:
+      name: data
+      mountPath: /var/data
+      sizeGB: 1

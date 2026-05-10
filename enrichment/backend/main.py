@@ -16,6 +16,7 @@ from dotenv import load_dotenv
 from fastapi import BackgroundTasks, FastAPI, File, Header, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 load_dotenv()
@@ -621,3 +622,10 @@ def get_job(job_id: str, x_password: Optional[str] = Header(None)):
         "created_at": job["created_at"],
         "updated_at": job["updated_at"],
     }
+
+
+# ── Serve React frontend (production) ─────────────────────────────────────────
+
+_DIST = os.path.join(os.path.dirname(__file__), "dist")
+if os.path.isdir(_DIST):
+    app.mount("/", StaticFiles(directory=_DIST, html=True), name="static")
