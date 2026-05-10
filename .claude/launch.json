@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "tabular-review",
+      "runtimeExecutable": "/usr/local/bin/node",
+      "runtimeArgs": ["/Users/vasuatlucio/Desktop/Tabular_Review/node_modules/vite/bin/vite.js", "/Users/vasuatlucio/Desktop/Tabular_Review", "--port", "3000"],
+      "port": 3000
+    },
+    {
+      "name": "enrichment-frontend",
+      "runtimeExecutable": "/usr/local/bin/node",
+      "runtimeArgs": [
+        "/Users/vasuatlucio/Desktop/claude/Data/.claude/worktrees/nifty-bardeen/enrichment/frontend/node_modules/vite/bin/vite.js",
+        "/Users/vasuatlucio/Desktop/claude/Data/.claude/worktrees/nifty-bardeen/enrichment/frontend",
+        "--port", "5173"
+      ],
+      "port": 5173
+    }
+  ]
+}

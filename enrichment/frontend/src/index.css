@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Override Tailwind color utilities with premium light palette ── */
+/* (Vite's PostCSS/Tailwind cache holds old dark values; these always win) */
+
+/* Surfaces */
+.bg-surface-0 { background-color: #F7F6F2 !important; }
+.bg-surface-1 { background-color: #FFFFFF !important; }
+.bg-surface-2 { background-color: #F3F1EC !important; }
+.bg-surface-3 { background-color: #EAE8E3 !important; }
+.bg-surface-border { background-color: #E4E1D9 !important; }
+
+/* Borders */
+.border-surface-border { border-color: #E4E1D9 !important; }
+
+/* Accent */
+.bg-accent { background-color: #4F46E5 !important; }
+.bg-accent\/5 { background-color: rgb(79 70 229 / 0.05) !important; }
+.bg-accent\/8 { background-color: rgb(79 70 229 / 0.08) !important; }
+.text-accent { color: #4F46E5 !important; }
+.border-accent { border-color: #4F46E5 !important; }
+.border-accent\/12 { border-color: rgb(79 70 229 / 0.12) !important; }
+.border-accent\/15 { border-color: rgb(79 70 229 / 0.15) !important; }
+.border-accent\/30 { border-color: rgb(79 70 229 / 0.3) !important; }
+
+/* Accent hover */
+.hover\:bg-accent-hover:hover { background-color: #4338CA !important; }
+.hover\:text-accent-hover:hover { color: #4338CA !important; }
+.hover\:border-accent\/30:hover { border-color: rgb(79 70 229 / 0.3) !important; }
+.hover\:border-accent\/40:hover { border-color: rgb(79 70 229 / 0.4) !important; }
+
+/* Text */
+.text-text-primary { color: #1C1916 !important; }
+.text-text-secondary { color: #57534E !important; }
+.text-text-muted { color: #9C9A96 !important; }
+.hover\:text-text-primary:hover { color: #1C1916 !important; }
+.hover\:text-text-secondary:hover { color: #57534E !important; }
+.hover\:text-status-not-found:hover { color: #DC2626 !important; }
+.placeholder\:text-text-muted::placeholder { color: #9C9A96 !important; }
+
+/* Status */
+.text-status-not-sure { color: #D97706 !important; }
+
+/* Hover backgrounds */
+.hover\:bg-surface-2:hover { background-color: #F3F1EC !important; }
+
+/* Accent selected state */
+.border-accent.bg-accent\/8,
+[class*="border-accent"][class*="bg-accent"] { border-color: #4F46E5 !important; }
+
+/* Focus ring */
+.focus\:border-accent:focus { border-color: #4F46E5 !important; }
+.focus\:ring-accent\/20:focus { --tw-ring-color: rgb(79 70 229 / 0.2) !important; }
+
+/* Shadows */
+.shadow-card {
+  box-shadow: 0 1px 3px 0 rgba(0,0,0,0.07), 0 1px 2px -1px rgba(0,0,0,0.05) !important;
+}
+.shadow-panel {
+  box-shadow: 0 4px 24px -4px rgba(0,0,0,0.10), 0 2px 8px -2px rgba(0,0,0,0.06) !important;
+}
+
+/* ── AG Grid light theme ── */
+.ag-theme-alpine {
+  --ag-background-color: #FFFFFF;
+  --ag-odd-row-background-color: #FAFAF8;
+  --ag-header-background-color: #F3F1EC;
+  --ag-border-color: #E4E1D9;
+  --ag-row-border-color: #E4E1D9;
+  --ag-cell-horizontal-border: solid #E4E1D9;
+  --ag-header-column-separator-color: #E4E1D9;
+  --ag-foreground-color: #1C1916;
+  --ag-secondary-foreground-color: #57534E;
+  --ag-input-focus-border-color: #4F46E5;
+  --ag-range-selection-border-color: #4F46E5;
+  --ag-selected-row-background-color: rgba(79, 70, 229, 0.06);
+  --ag-row-hover-color: rgba(79, 70, 229, 0.04);
+  --ag-font-family: 'DM Sans', 'Inter', system-ui, sans-serif;
+  --ag-font-size: 13px;
+  --ag-grid-size: 4px;
+  --ag-row-height: 38px;
+  --ag-header-height: 40px;
+}
+
+.ag-theme-alpine .ag-header-cell-label {
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #9C9A96;
+}
+
+.ag-theme-alpine .ag-cell {
+  display: flex;
+  align-items: center;
+  line-height: 1.4;
+}
+
+.ag-theme-alpine .ag-cell.ag-cell-inline-editing {
+  background: #FFFFFF;
+  border: 1px solid #4F46E5 !important;
+  border-radius: 4px;
+  padding: 0 8px;
+}
+
+/* ── Base ── */
+body {
+  background: #F7F6F2;
+  color: #1C1916;
+  font-family: 'DM Sans', 'Inter', system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #F3F1EC; }
+::-webkit-scrollbar-thumb { background: #D6D3CA; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #B8B4AC; }
