@@ -43,7 +43,8 @@ _enrichment_mod.OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 _enrichment_mod.TAVILY_API_KEY     = os.getenv("TAVILY_API_KEY", "")
 
 APP_PASSWORD = os.getenv("APP_PASSWORD", "")
-SESSIONS_DIR = Path(__file__).parent / "sessions"
+# /tmp is always writable on Streamlit Cloud; the repo directory is read-only
+SESSIONS_DIR = Path("/tmp/enrichment_sessions")
 SESSIONS_DIR.mkdir(exist_ok=True)
 
 PRESETS = {
@@ -112,6 +113,22 @@ async def _enrich_one(firm: str, site: Optional[str], data_points: list) -> list
     async with httpx.AsyncClient(timeout=60) as client:
         return await enrich_row(firm, site, data_points, client)
 
+
+# ── Auth ───────────────────────────────────────────────────────────────────────
+
+if not st.session_state.get("authed"):
+    _, col, _ = st.columns([1, 1, 1])
+    with col:
+        st.markdown("## ⚖️ Lucio Enrichment")
+        st.caption("Data enrichment for law firm outreach")
+        pwd = st.text_input("Password", type="password")
+        if st.button("Enter", type="primary", use_container_width=True):
+            if pwd == APP_PASSWORD:
+                st.session_state.authed = True
+                st.rerun()
+            else:
+                st.error("Incorrect password")
+    st.stop()
 
 # ── Navigation ─────────────────────────────────────────────────────────────────
 
