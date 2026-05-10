@@ -14,18 +14,33 @@ import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
 
-# Inject secrets BEFORE importing enrichment — that module reads API keys at
-# module level via os.getenv, so env vars must be set first.
-load_dotenv()
-for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY", "TAVILY_API_KEY"):
-    if _key not in os.environ:
-        _val = st.secrets.get(_key, "")
-        if _val:
-            os.environ[_key] = _val
+# ── Page config — MUST be the very first Streamlit call ───────────────────────
+st.set_page_config(
+    page_title="Lucio Enrichment",
+    page_icon="⚖️",
+    layout="wide",
+)
 
-# Reuse enrichment engine from backend
+# ── Inject secrets into env before importing enrichment ───────────────────────
+# enrichment.py reads API keys at module level via os.getenv, so they must
+# be in the environment before the import runs.
+load_dotenv()
+try:
+    for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY", "TAVILY_API_KEY"):
+        if _key not in os.environ:
+            _val = st.secrets.get(_key, "")
+            if _val:
+                os.environ[_key] = _val
+except Exception:
+    pass  # no secrets file locally — that's fine
+
 sys.path.insert(0, str(Path(__file__).parent.parent / "backend"))
+import enrichment as _enrichment_mod
 from enrichment import enrich_row, PRESET_PROMPTS  # noqa: E402
+
+# Patch module-level key variables in case they were captured before secrets loaded
+_enrichment_mod.OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+_enrichment_mod.TAVILY_API_KEY     = os.getenv("TAVILY_API_KEY", "")
 
 APP_PASSWORD = os.getenv("APP_PASSWORD", "")
 SESSIONS_DIR = Path(__file__).parent / "sessions"
@@ -43,30 +58,6 @@ PRESETS = {
     "Office Locations":       "offices",
     "Practice Areas":         "practice_areas",
 }
-
-# ── Page config ────────────────────────────────────────────────────────────────
-
-st.set_page_config(
-    page_title="Lucio Enrichment",
-    page_icon="⚖️",
-    layout="wide",
-)
-
-# ── Auth ───────────────────────────────────────────────────────────────────────
-
-if not st.session_state.get("authed"):
-    _, col, _ = st.columns([1, 1, 1])
-    with col:
-        st.markdown("## ⚖️ Lucio Enrichment")
-        st.caption("Data enrichment for law firm outreach")
-        pwd = st.text_input("Password", type="password")
-        if st.button("Enter", type="primary", use_container_width=True):
-            if pwd == APP_PASSWORD:
-                st.session_state.authed = True
-                st.rerun()
-            else:
-                st.error("Incorrect password")
-    st.stop()
 
 # ── Session helpers ────────────────────────────────────────────────────────────
 
@@ -97,9 +88,10 @@ def load_df(session_id: str) -> Optional[pd.DataFrame]:
     return pd.read_parquet(p) if p.exists() else None
 
 
-# ── Async helper (no Streamlit calls inside) ───────────────────────────────────
+# ── Async helper ───────────────────────────────────────────────────────────────
 
 def run_async(coro):
+    """Run a coroutine in a fresh thread+event loop. No Streamlit calls inside."""
     result = {}
     error  = {}
     def _run():
@@ -113,6 +105,12 @@ def run_async(coro):
     if error:
         raise RuntimeError(error["msg"])
     return result.get("value")
+
+
+async def _enrich_one(firm: str, site: Optional[str], data_points: list) -> list:
+    """Enrich a single firm. Creates its own httpx client."""
+    async with httpx.AsyncClient(timeout=60) as client:
+        return await enrich_row(firm, site, data_points, client)
 
 
 # ── Navigation ─────────────────────────────────────────────────────────────────
@@ -180,8 +178,8 @@ if st.session_state.page == "sessions":
 
 elif st.session_state.page == "spreadsheet":
 
-    sid = st.session_state.session_id
-    df  = load_df(sid)
+    sid  = st.session_state.session_id
+    df   = load_df(sid)
     if df is None:
         st.error("Session not found.")
         st.session_state.page = "sessions"
@@ -246,7 +244,7 @@ elif st.session_state.page == "spreadsheet":
 
         st.divider()
 
-        if job:
+        if job and job.get("sid") == sid:
             if st.button("⛔ Cancel", use_container_width=True):
                 st.session_state.enrich_job = None
                 st.rerun()
@@ -272,61 +270,55 @@ elif st.session_state.page == "spreadsheet":
                     if not target_idx:
                         st.warning("No rows to enrich.")
                     else:
-                        # Add any new columns to df before starting
                         for dp in data_points:
                             if dp["column"] and dp["column"] not in df.columns:
                                 df[dp["column"]] = ""
                         save_session(sid, meta["name"], df)
 
                         st.session_state.enrich_job = {
-                            "sid":        sid,
-                            "target_idx": target_idx,
+                            "sid":         sid,
+                            "target_idx":  target_idx,
                             "data_points": data_points,
-                            "firm_col":   firm_col,
-                            "current":    0,
-                            "logs":       [],
-                            "error":      None,
+                            "firm_col":    firm_col,
+                            "current":     0,
+                            "logs":        [],
+                            "error":       None,
                         }
                         st.rerun()
 
     # ══════════════════════════════════════════════════════════════════════════
-    # ENRICHMENT — process one row per script run, rerun until done
+    # ENRICHMENT — one row per script run, rerun until all done
     # ══════════════════════════════════════════════════════════════════════════
 
-    if job and job["sid"] == sid:
+    if job and job.get("sid") == sid:
         total   = len(job["target_idx"])
         current = job["current"]
-        done    = current >= total
 
-        # Progress bar
-        st.progress(current / total if total else 1, text=f"Enriched {current} / {total} rows")
+        st.progress(current / total if total else 1,
+                    text=f"Enriched {current} / {total} rows")
 
-        # Live log of completed rows
-        if job["logs"]:
-            for entry in job["logs"]:
-                icon_map = {"found": "✅", "not_sure": "⚠️", "not_available": "🚫"}
-                cols_str = "  ·  ".join(
-                    f"{icon_map.get(r['status'], '—')} **{r['column']}**: {r.get('value') or r['status']}"
-                    for r in entry["results"]
-                )
-                st.caption(f"🔍 **{entry['firm']}** — {cols_str}")
+        # Show log of completed rows
+        icon_map = {"found": "✅", "not_sure": "⚠️", "not_available": "🚫"}
+        for entry in job["logs"]:
+            parts = "  ·  ".join(
+                f"{icon_map.get(r['status'], '—')} **{r['column']}**: {r.get('value') or r['status']}"
+                for r in entry["results"]
+            )
+            st.caption(f"🔍 **{entry['firm']}** — {parts}")
 
         if job["error"]:
-            st.error(f"Error on row {current}: {job['error']}")
+            st.error(f"Stopped on row {current + 1}: {job['error']}")
             st.session_state.enrich_job = None
 
-        elif not done:
-            # Process the next row
+        elif current < total:
             idx  = job["target_idx"][current]
-            df2  = load_df(sid)   # always reload from disk to avoid stale state
-            row  = df2.loc[idx]
-            firm = str(row.get(job["firm_col"], ""))
-            site = str(row.get("Website", "")) if "Website" in df2.columns else None
+            df2  = load_df(sid)
+            firm = str(df2.loc[idx].get(job["firm_col"], ""))
+            site = str(df2.loc[idx].get("Website", "")) if "Website" in df2.columns else None
 
-            with st.spinner(f"Enriching row {current + 1}/{total}: {firm}…"):
+            with st.spinner(f"Row {current + 1}/{total}: {firm}…"):
                 try:
-                    results = run_async(enrich_row(firm, site, job["data_points"],
-                                                   httpx.AsyncClient(timeout=60)))
+                    results = run_async(_enrich_one(firm, site, job["data_points"]))
                     for r in results:
                         df2.at[idx, r["column"]] = r.get("value") or r.get("status", "not_found")
                     save_session(sid, meta["name"], df2)
@@ -339,7 +331,6 @@ elif st.session_state.page == "spreadsheet":
             st.rerun()
 
         else:
-            # All done
             st.success(f"Done! Enriched {total} rows.")
             st.session_state.enrich_job = None
             st.rerun()
