@@ -1,14 +1,12 @@
 """
-Enrichment engine — Perplexity Sonar for research, Gemini for extraction.
+Enrichment engine — Tavily search + Gemini extraction.
 
 Flow per firm:
-  1. Group data points into research topics (leadership pack, firm info, custom)
-  2. ONE Perplexity Sonar call per group  →  natural-language research answer
-  3. ONE Gemini call  →  extract ALL fields as structured JSON
-
-Leadership pack (COO / Managing Partner / CIO) are always bundled into one
-targeted query so we find the firm's actual people page rather than scattered
-snippets.
+  1. Leadership pack (COO / MP / CIO): ONE targeted Tavily search for the
+     firm's people/leadership page, then ONE Gemini extraction call for all.
+  2. Firm-info fields: ONE Tavily search, ONE Gemini extraction.
+  3. Custom freeform fields: individual queries.
+  4. Fallback open-web search for anything still "not_found".
 """
 
 import asyncio
@@ -20,18 +18,23 @@ from typing import Any, List, Optional
 import httpx
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+TAVILY_API_KEY     = os.getenv("TAVILY_API_KEY", "")
 
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
+TAVILY_URL     = "https://api.tavily.com/search"
 
-RESEARCH_MODEL  = "perplexity/sonar"           # web search built-in
-EXTRACT_MODEL   = "google/gemini-2.0-flash-001" # structured JSON extraction
+MODEL = "google/gemini-2.0-flash-001"
 
-HEADERS = {
-    "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-    "Content-Type":  "application/json",
-    "HTTP-Referer":  "https://lucioai.com",
-    "X-Title":       "Lucio Enrichment",
-}
+
+def _or_headers() -> dict:
+    """Build OpenRouter headers dynamically so the API key is always current."""
+    return {
+        "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+        "Content-Type":  "application/json",
+        "HTTP-Referer":  "https://lucioai.com",
+        "X-Title":       "Lucio Enrichment",
+    }
+
 
 # ── Preset definitions ─────────────────────────────────────────────────────────
 
@@ -54,7 +57,6 @@ PRESET_PROMPTS: dict = {
     "practice_areas": "Main practice areas or specializations. Return as a comma-separated list.",
 }
 
-# Presets that belong to the leadership research bundle
 LEADERSHIP_PRESETS = {
     "coo_name", "coo_email", "coo_phone", "coo_linkedin",
     "mp_name",  "mp_email",  "mp_phone",  "mp_linkedin",
@@ -64,101 +66,88 @@ LEADERSHIP_PRESETS = {
 FIRM_INFO_PRESETS = {"attorney_count", "website", "offices", "practice_areas"}
 
 
-# ── Perplexity research call ───────────────────────────────────────────────────
+# ── Tavily search ──────────────────────────────────────────────────────────────
 
-async def _research(
-    question: str,
+async def _search(
+    query: str,
     client: httpx.AsyncClient,
-) -> str:
-    """
-    Ask Perplexity Sonar a targeted research question.
-    Returns the natural-language answer (with citations stripped).
-    """
+    include_domains: Optional[List[str]] = None,
+    max_results: int = 5,
+) -> List[dict]:
     try:
-        resp = await client.post(
-            OPENROUTER_URL,
-            headers=HEADERS,
-            json={
-                "model": RESEARCH_MODEL,
-                "messages": [
-                    {
-                        "role": "system",
-                        "content": (
-                            "You are a legal industry researcher. "
-                            "Answer with specific facts, names, and contact details. "
-                            "Be concise but complete. Include sources where possible."
-                        ),
-                    },
-                    {"role": "user", "content": question},
-                ],
-                "temperature": 0.1,
-                "max_tokens": 1024,
-            },
-            timeout=30,
-        )
+        payload: dict = {
+            "api_key":             TAVILY_API_KEY,
+            "query":               query,
+            "search_depth":        "advanced",
+            "max_results":         max_results,
+            "include_raw_content": True,
+        }
+        if include_domains:
+            payload["include_domains"] = include_domains
+        resp = await client.post(TAVILY_URL, json=payload, timeout=25)
         resp.raise_for_status()
-        return resp.json()["choices"][0]["message"]["content"].strip()
-    except Exception as e:
-        return f"[research failed: {e}]"
+        return resp.json().get("results", [])
+    except Exception:
+        return []
 
 
-# ── Gemini extraction call ─────────────────────────────────────────────────────
+# ── Gemini batch extraction ────────────────────────────────────────────────────
 
-async def _extract(
+def _build_context(results: List[dict], max_chars: int = 2500) -> str:
+    parts = []
+    for r in results[:5]:
+        content = (r.get("raw_content") or r.get("content") or "")[:max_chars]
+        parts.append(f"URL: {r.get('url', '')}\nTitle: {r.get('title', '')}\n{content}")
+    return "\n\n---\n\n".join(parts)
+
+
+async def _extract_batch(
     firm_name: str,
-    research_text: str,
-    data_points: List[dict],  # [{column, prompt_text}]
+    search_results: List[dict],
+    data_points: List[dict],
     client: httpx.AsyncClient,
 ) -> dict:
-    """
-    One Gemini call: extract all requested fields from research text as JSON.
-    Returns {column_name: {value, status, source_url}, ...}
-    """
-    if not research_text or research_text.startswith("[research failed"):
-        return {
-            dp["column"]: {"value": None, "status": "not_found", "source_url": None}
-            for dp in data_points
-        }
+    if not search_results:
+        return {dp["column"]: {"value": None, "status": "not_found", "source_url": None}
+                for dp in data_points}
 
-    fields_block = "\n".join(
-        f'- "{dp["column"]}": {dp["prompt_text"]}'
-        for dp in data_points
-    )
+    context     = _build_context(search_results)
+    fields_block = "\n".join(f'- "{dp["column"]}": {dp["prompt_text"]}' for dp in data_points)
 
     system_prompt = (
         "You are a precise data extraction assistant for law firm research.\n"
-        "Extract the requested fields from the research text provided.\n\n"
+        "Extract the requested fields from the search results provided.\n\n"
         "For each field return:\n"
         '  "value"      : the extracted string, or null\n'
         '  "status"     : "found" | "not_sure" | "not_available" | "not_found"\n'
         '  "source_url" : URL where found, or null\n\n'
         "Status guide:\n"
-        "  found        – confident answer in the research\n"
+        "  found        – confident answer in the sources\n"
         "  not_sure     – best guess, low confidence\n"
-        "  not_available – information clearly not made public by this firm\n"
-        "  not_found    – not mentioned in the research\n\n"
+        "  not_available – information clearly not made public\n"
+        "  not_found    – not in these sources\n\n"
         "Respond ONLY with a JSON object keyed by field name. No other text."
     )
 
     user_prompt = (
         f"Firm: {firm_name}\n\n"
         f"Fields to extract:\n{fields_block}\n\n"
-        f"Research:\n{research_text}\n\n"
+        f"Search results:\n{context}\n\n"
         "Respond with JSON only."
     )
 
     try:
         resp = await client.post(
             OPENROUTER_URL,
-            headers=HEADERS,
+            headers=_or_headers(),
             json={
-                "model": EXTRACT_MODEL,
-                "messages": [
+                "model":       MODEL,
+                "messages":    [
                     {"role": "system", "content": system_prompt},
                     {"role": "user",   "content": user_prompt},
                 ],
                 "temperature": 0.1,
-                "max_tokens": 512,
+                "max_tokens":  600,
             },
             timeout=30,
         )
@@ -187,10 +176,8 @@ async def _extract(
         return result
 
     except (json.JSONDecodeError, KeyError, Exception):
-        return {
-            dp["column"]: {"value": None, "status": "not_found", "source_url": None}
-            for dp in data_points
-        }
+        return {dp["column"]: {"value": None, "status": "not_found", "source_url": None}
+                for dp in data_points}
 
 
 # ── Main per-firm entry point ──────────────────────────────────────────────────
@@ -198,16 +185,13 @@ async def _extract(
 async def enrich_row(
     firm_name: str,
     website: Optional[str],
-    data_points: List[dict],   # [{column, prompt, preset}]
+    data_points: List[dict],
     client: httpx.AsyncClient,
 ) -> List[dict]:
     """
     Enrich all data points for one firm.
-    Leadership fields (COO / MP / CIO) are bundled into one targeted search.
-    Other fields are grouped into a second search.
-    Returns [{column, value, status, source_url}, ...]
+    Leadership fields (COO/MP/CIO) are bundled into one targeted search.
     """
-    # Resolve prompt text for every data point
     resolved = [
         {
             "column":      dp.get("column", ""),
@@ -220,51 +204,77 @@ async def enrich_row(
     if not resolved:
         return []
 
-    # Split into groups: leadership, firm-info, custom
     leadership_dps = [dp for dp in resolved if dp["preset"] in LEADERSHIP_PRESETS]
     firminfo_dps   = [dp for dp in resolved if dp["preset"] in FIRM_INFO_PRESETS]
     custom_dps     = [dp for dp in resolved if dp["preset"] not in LEADERSHIP_PRESETS | FIRM_INFO_PRESETS]
 
+    domain       = website.replace("https://", "").replace("http://", "").rstrip("/") if website else None
+    domains_list = [website] if website else None
     results: dict = {}
 
-    site_hint = f" Their website is {website}." if website else ""
-
-    # ── Leadership bundle ─────────────────────────────────────────────────────
+    # ── Leadership pack ───────────────────────────────────────────────────────
     if leadership_dps:
-        roles_wanted = []
-        if any(dp["preset"].startswith("mp_")  for dp in leadership_dps):
-            roles_wanted.append("Managing Partner (name, email, phone, LinkedIn)")
-        if any(dp["preset"].startswith("coo_") for dp in leadership_dps):
-            roles_wanted.append("COO / Firm Administrator / Director of Operations (name, email, phone, LinkedIn)")
-        if any(dp["preset"].startswith("cio_") for dp in leadership_dps):
-            roles_wanted.append("CIO / Director of Technology / IT Director (name, email, phone, LinkedIn)")
+        roles = []
+        if any(dp["preset"].startswith("mp_")  for dp in leadership_dps): roles.append("Managing Partner")
+        if any(dp["preset"].startswith("coo_") for dp in leadership_dps): roles.append("COO OR Firm Administrator OR Director of Operations")
+        if any(dp["preset"].startswith("cio_") for dp in leadership_dps): roles.append("CIO OR Director of Technology")
 
-        q = (
-            f"Find the following leadership contacts at {firm_name} law firm:{site_hint} "
-            + ", ".join(roles_wanted)
-            + ". Search their website's About, Leadership, Team, or People page. "
-            "Include full names, direct email addresses, phone numbers, and LinkedIn URLs where available."
+        # Target the firm's own people/about/leadership page first
+        roles_str = " OR ".join(f'"{r}"' for r in roles)
+        q_site = (
+            f'"{firm_name}" ({roles_str}) (site:{domain} OR "about" OR "leadership" OR "team" OR "people")'
+            if domain else
+            f'"{firm_name}" law firm ({roles_str}) leadership team'
         )
-        research = await _research(q, client)
-        batch = await _extract(firm_name, research, leadership_dps, client)
+        results1 = await _search(q_site, client, include_domains=domains_list, max_results=5)
+
+        # Fallback: open web if we didn't find much
+        if not results1:
+            results1 = await _search(
+                f'"{firm_name}" law firm {" ".join(roles)} contact',
+                client, max_results=5
+            )
+
+        batch = await _extract_batch(firm_name, results1, leadership_dps, client)
+
+        # Second pass: open web for any still missing
+        still_missing = [dp for dp in leadership_dps
+                         if batch.get(dp["column"], {}).get("status") == "not_found"]
+        if still_missing:
+            results2 = await _search(
+                f'"{firm_name}" law firm {" ".join(roles)} email contact directory',
+                client, max_results=5
+            )
+            if results2:
+                batch2 = await _extract_batch(firm_name, results2, still_missing, client)
+                for dp in still_missing:
+                    if batch2.get(dp["column"], {}).get("status") != "not_found":
+                        batch[dp["column"]] = batch2[dp["column"]]
+
         results.update(batch)
 
-    # ── Firm info bundle ──────────────────────────────────────────────────────
+    # ── Firm info ─────────────────────────────────────────────────────────────
     if firminfo_dps:
-        fields = ", ".join(dp["prompt_text"] for dp in firminfo_dps)
-        q = (
-            f"For {firm_name} law firm:{site_hint} find: {fields}. "
-            "Use their official website or authoritative legal directories."
+        q = f'"{firm_name}" law firm ' + " ".join(
+            {"attorney_count": "attorneys size headcount",
+             "website": "official website",
+             "offices": "office locations cities",
+             "practice_areas": "practice areas specialization"}.get(dp["preset"], dp["prompt_text"])
+            for dp in firminfo_dps
         )
-        research = await _research(q, client)
-        batch = await _extract(firm_name, research, firminfo_dps, client)
+        r = await _search(q, client, include_domains=domains_list, max_results=5)
+        if not r:
+            r = await _search(q, client, max_results=5)
+        batch = await _extract_batch(firm_name, r, firminfo_dps, client)
         results.update(batch)
 
-    # ── Custom fields (one query each) ────────────────────────────────────────
+    # ── Custom fields ─────────────────────────────────────────────────────────
     for dp in custom_dps:
-        q = f"For {firm_name} law firm:{site_hint} {dp['prompt_text']}"
-        research = await _research(q, client)
-        batch = await _extract(firm_name, research, [dp], client)
+        q = f'"{firm_name}" law firm {dp["prompt_text"]}'
+        r = await _search(q, client, include_domains=domains_list, max_results=5)
+        if not r:
+            r = await _search(q, client, max_results=5)
+        batch = await _extract_batch(firm_name, r, [dp], client)
         results.update(batch)
 
     return [{"column": col, **info} for col, info in results.items()]
