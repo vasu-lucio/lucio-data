@@ -200,23 +200,66 @@ async def enrich_row(
 ) -> List[dict]:
     """
     Enrich all data points for one firm.
-    Leadership fields (COO/MP/CIO) are bundled into one targeted search.
+
+    Supports two modes per data point:
+      - role_title + field_type  (new UI: user types "COO", gets Name/Email/Phone/LinkedIn)
+      - preset                   (legacy: coo_name, mp_email, etc.)
+    All data points with the same role_title are searched together.
     """
-    resolved = [
-        {
-            "column":      dp.get("column", ""),
-            "prompt_text": PRESET_PROMPTS.get(dp.get("preset") or "", "") or dp.get("prompt", ""),
-            "preset":      dp.get("preset") or "",
-        }
-        for dp in data_points
-        if dp.get("column")
-    ]
+    if not data_points:
+        return []
+
+    # ── Resolve to internal format ────────────────────────────────────────────
+    resolved = []
+    for dp in data_points:
+        if not dp.get("column"):
+            continue
+        role_title = dp.get("role_title", "").strip()
+        field_type = dp.get("field_type", "").lower()   # name / email / phone / linkedin
+        preset     = dp.get("preset") or ""
+
+        if role_title and field_type:
+            # New title-based mode — build prompt from role + field
+            field_prompts = {
+                "name":     f"Full name of the {role_title}.",
+                "email":    f"Direct email address of the {role_title}.",
+                "phone":    f"Direct phone number of the {role_title}.",
+                "linkedin": f"LinkedIn profile URL of the {role_title}.",
+            }
+            resolved.append({
+                "column":      dp["column"],
+                "prompt_text": field_prompts.get(field_type, f"{field_type} of the {role_title}."),
+                "preset":      preset,
+                "role_title":  role_title,
+                "field_type":  field_type,
+            })
+        else:
+            # Legacy preset mode
+            resolved.append({
+                "column":      dp["column"],
+                "prompt_text": PRESET_PROMPTS.get(preset, "") or dp.get("prompt", ""),
+                "preset":      preset,
+                "role_title":  "",
+                "field_type":  "",
+            })
+
     if not resolved:
         return []
 
-    leadership_dps = [dp for dp in resolved if dp["preset"] in LEADERSHIP_PRESETS]
-    firminfo_dps   = [dp for dp in resolved if dp["preset"] in FIRM_INFO_PRESETS]
-    custom_dps     = [dp for dp in resolved if dp["preset"] not in LEADERSHIP_PRESETS | FIRM_INFO_PRESETS]
+    # ── Group by role_title (for title-based) or legacy buckets ──────────────
+    from collections import defaultdict
+    role_groups: dict = defaultdict(list)   # role_title → [dps]
+    legacy_dps  = []
+
+    for dp in resolved:
+        if dp["role_title"]:
+            role_groups[dp["role_title"]].append(dp)
+        else:
+            legacy_dps.append(dp)
+
+    leadership_dps = [dp for dp in legacy_dps if dp["preset"] in LEADERSHIP_PRESETS]
+    firminfo_dps   = [dp for dp in legacy_dps if dp["preset"] in FIRM_INFO_PRESETS]
+    custom_dps     = [dp for dp in legacy_dps if dp["preset"] not in LEADERSHIP_PRESETS | FIRM_INFO_PRESETS]
 
     domain       = website.replace("https://", "").replace("http://", "").rstrip("/") if website else None
     domains_list = [website] if website else None
@@ -295,13 +338,51 @@ async def enrich_row(
         batch = await _extract_batch(firm_name, r, firminfo_dps, client)
         results.update(batch)
 
-    # ── Custom fields ─────────────────────────────────────────────────────────
+    # ── Custom fields (legacy) ────────────────────────────────────────────────
     for dp in custom_dps:
         q = f'"{firm_name}" law firm {dp["prompt_text"]}'
         r = await _search(q, client, include_domains=domains_list, max_results=5)
         if not r:
             r = await _search(q, client, max_results=5)
         batch = await _extract_batch(firm_name, r, [dp], client)
+        results.update(batch)
+
+    # ── Title-based role groups (new UI) ──────────────────────────────────────
+    firm_short = firm_name.replace(" LLP","").replace(" LLC","").replace(" PLLC","").replace(" P.A.","").strip()
+
+    for role_title, role_dps in role_groups.items():
+        # Pass 1: find the person on the firm's people/about/leadership page
+        q1 = (
+            f'"{firm_name}" "{role_title}" (site:{domain} OR leadership OR team OR people OR about)'
+            if domain else
+            f'"{firm_name}" law firm "{role_title}" leadership team people'
+        )
+        r1 = await _search(q1, client, include_domains=domains_list, max_results=5)
+        if not r1:
+            r1 = await _search(f'"{firm_name}" "{role_title}"', client, max_results=5)
+
+        batch = await _extract_batch(firm_name, r1, role_dps, client)
+
+        # Pass 2: find name first, then search by name for contact details
+        name_dp  = next((dp for dp in role_dps if dp["field_type"] == "name"), None)
+        found_name = batch.get(name_dp["column"], {}).get("value") if name_dp else None
+
+        contact_dps = [dp for dp in role_dps
+                       if dp["field_type"] in ("email", "phone", "linkedin")
+                       and batch.get(dp["column"], {}).get("status") in ("not_found", "not_available")]
+
+        if contact_dps:
+            if found_name:
+                q2 = f'"{found_name}" "{firm_short}" email phone linkedin profile'
+            else:
+                q2 = f'"{firm_name}" "{role_title}" email phone contact'
+            r2 = await _search(q2, client, include_domains=domains_list, max_results=5)
+            if r2:
+                b2 = await _extract_batch(firm_name, r2, contact_dps, client)
+                for dp in contact_dps:
+                    if b2.get(dp["column"], {}).get("status") == "found":
+                        batch[dp["column"]] = b2[dp["column"]]
+
         results.update(batch)
 
     return [{"column": col, **info} for col, info in results.items()]

@@ -338,23 +338,45 @@ elif st.session_state.page == "spreadsheet":
 
         firm_col = st.selectbox("Firm name column", df.columns.tolist())
 
-        st.markdown("**Data points**")
-        n = int(st.number_input("How many", 1, 6, 1))
+        st.divider()
+        st.markdown("**Roles to find**")
+        st.caption("Each role → Name, Email, Phone, LinkedIn")
 
+        if "role_titles" not in st.session_state:
+            st.session_state.role_titles = ["Managing Partner", "COO"]
+
+        for i, title in enumerate(st.session_state.role_titles):
+            c1, c2 = st.columns([5, 1])
+            with c1:
+                st.session_state.role_titles[i] = st.text_input(
+                    f"Role {i+1}", value=title, key=f"role_{i}",
+                    label_visibility="collapsed", placeholder="e.g. COO"
+                )
+            with c2:
+                if st.button("×", key=f"del_role_{i}", help="Remove"):
+                    st.session_state.role_titles.pop(i)
+                    st.rerun()
+
+        if st.button("+ Add role", use_container_width=True):
+            st.session_state.role_titles.append("")
+            st.rerun()
+
+        # Build data_points from role titles — each title expands to 4 fields
         data_points = []
-        for i in range(n):
-            with st.expander(f"Point {i + 1}", expanded=True):
-                use_preset = st.toggle("Use preset", key=f"use_preset_{i}")
-                if use_preset:
-                    label = st.selectbox("Preset", list(PRESETS.keys()), key=f"preset_{i}")
-                    data_points.append({"column": label, "prompt": "", "preset": PRESETS[label]})
-                else:
-                    col_name = st.text_input("Column name", key=f"col_{i}", placeholder="e.g. COO Name")
-                    prompt   = st.text_area("What to find", key=f"prompt_{i}", height=80,
-                                            placeholder="e.g. Find the Chief Operating Officer")
-                    if col_name.strip():
-                        data_points.append({"column": col_name.strip(), "prompt": prompt.strip(), "preset": None})
+        for title in st.session_state.role_titles:
+            t = title.strip()
+            if not t:
+                continue
+            for field in ("Name", "Email", "Phone", "LinkedIn"):
+                data_points.append({
+                    "column": f"{t} {field}",
+                    "prompt": f"{field} of the {t}.",
+                    "preset": None,
+                    "role_title": t,
+                    "field_type": field.lower(),
+                })
 
+        st.divider()
         scope   = st.radio("Scope", ["All rows", "Re-run not found"], horizontal=True)
         dry_run = st.checkbox("Dry run (estimate only)")
 
