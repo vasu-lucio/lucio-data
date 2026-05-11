@@ -26,7 +26,7 @@ st.set_page_config(
 # be in the environment before the import runs.
 load_dotenv()
 try:
-    for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY", "TAVILY_API_KEY"):
+    for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY"):
         if _key not in os.environ:
             _val = st.secrets.get(_key, "")
             if _val:
@@ -38,9 +38,8 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "backend"))
 import enrichment as _enrichment_mod
 from enrichment import enrich_row, PRESET_PROMPTS  # noqa: E402
 
-# Patch module-level key variables in case they were captured before secrets loaded
+# Patch module-level key in case it was captured before secrets loaded
 _enrichment_mod.OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
-_enrichment_mod.TAVILY_API_KEY     = os.getenv("TAVILY_API_KEY", "")
 
 APP_PASSWORD = os.getenv("APP_PASSWORD", "")
 # /tmp is always writable on Streamlit Cloud; the repo directory is read-only
@@ -48,16 +47,24 @@ SESSIONS_DIR = Path("/tmp/enrichment_sessions")
 SESSIONS_DIR.mkdir(exist_ok=True)
 
 PRESETS = {
-    "COO Name":               "coo_name",
-    "COO Email":              "coo_email",
-    "COO Phone":              "coo_phone",
-    "COO LinkedIn":           "coo_linkedin",
-    "Managing Partner Name":  "mp_name",
-    "Managing Partner Email": "mp_email",
-    "Attorney Count":         "attorney_count",
-    "Website":                "website",
-    "Office Locations":       "offices",
-    "Practice Areas":         "practice_areas",
+    # Leadership pack — all bundled into one targeted search
+    "Managing Partner Name":    "mp_name",
+    "Managing Partner Email":   "mp_email",
+    "Managing Partner Phone":   "mp_phone",
+    "Managing Partner LinkedIn":"mp_linkedin",
+    "COO Name":                 "coo_name",
+    "COO Email":                "coo_email",
+    "COO Phone":                "coo_phone",
+    "COO LinkedIn":             "coo_linkedin",
+    "CIO Name":                 "cio_name",
+    "CIO Email":                "cio_email",
+    "CIO Phone":                "cio_phone",
+    "CIO LinkedIn":             "cio_linkedin",
+    # Firm info
+    "Attorney Count":           "attorney_count",
+    "Website":                  "website",
+    "Office Locations":         "offices",
+    "Practice Areas":           "practice_areas",
 }
 
 # ── Session helpers ────────────────────────────────────────────────────────────
