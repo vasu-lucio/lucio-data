@@ -164,9 +164,10 @@ async def _extract_batch(
             if isinstance(entry, dict):
                 value  = entry.get("value")
                 status = entry.get("status", "not_found")
-                # Reject masked/redacted values (e.g. "m*****@domain.com")
-                if value and "*" in str(value):
-                    value, status = None, "not_found"
+                # Reject masked/redacted values (e.g. "m*****@domain.com", "440207710XXXX")
+                if value and ("*" in str(value) or "X" in str(value).upper().replace("EX", "").replace("AX", "")):
+                    if "*" in str(value) or bool(__import__('re').search(r'X{2,}', str(value), __import__('re').I)):
+                        value, status = None, "not_found"
                 # Reject initials-only names (e.g. "K. S." or "J. L.")
                 if value and dp.get("preset", "").endswith("_name"):
                     import re as _re
