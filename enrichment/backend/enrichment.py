@@ -115,17 +115,22 @@ async def _extract_batch(
     fields_block = "\n".join(f'- "{dp["column"]}": {dp["prompt_text"]}' for dp in data_points)
 
     system_prompt = (
-        "You are a precise data extraction assistant for law firm research.\n"
+        "You are a data extraction assistant for law firm research.\n"
         "Extract the requested fields from the search results provided.\n\n"
         "For each field return:\n"
         '  "value"      : the extracted string, or null\n'
-        '  "status"     : "found" | "not_sure" | "not_available" | "not_found"\n'
+        '  "status"     : "found" | "not_sure" | "not_found"\n'
         '  "source_url" : URL where found, or null\n\n'
         "Status guide:\n"
-        "  found        – confident answer in the sources\n"
-        "  not_sure     – best guess, low confidence\n"
-        "  not_available – information clearly not made public\n"
-        "  not_found    – not in these sources\n\n"
+        "  found     – value is clearly present in the sources\n"
+        "  not_sure  – best guess or inferred (e.g. founder treated as managing partner)\n"
+        "  not_found – genuinely not mentioned anywhere in the sources\n\n"
+        "Important rules:\n"
+        "- For NAME fields: if a LinkedIn URL is present, extract the name from the URL slug "
+        "(e.g. /in/jodie-ousley-esq → 'Jodie Ousley'). Mark as found.\n"
+        "- For small firms, treat Founder / Principal / Owner as equivalent to Managing Partner.\n"
+        "- Only return not_found if the person/info is truly absent. Do not use not_available.\n"
+        "- Never return null when a reasonable value can be inferred.\n\n"
         "Respond ONLY with a JSON object keyed by field name. No other text."
     )
 
@@ -165,13 +170,11 @@ async def _extract_batch(
                 value  = entry.get("value")
                 status = entry.get("status", "not_found")
                 # Reject masked/redacted values (e.g. "m*****@domain.com", "440207710XXXX")
-                if value and ("*" in str(value) or "X" in str(value).upper().replace("EX", "").replace("AX", "")):
-                    if "*" in str(value) or bool(__import__('re').search(r'X{2,}', str(value), __import__('re').I)):
-                        value, status = None, "not_found"
+                if value and ("*" in str(value) or bool(re.search(r'X{2,}', str(value), re.I))):
+                    value, status = None, "not_found"
                 # Reject initials-only names (e.g. "K. S." or "J. L.")
-                if value and dp.get("preset", "").endswith("_name"):
-                    import re as _re
-                    if _re.fullmatch(r"([A-Z]\.\s*)+", str(value).strip()):
+                if value and "name" in dp.get("field_type", dp.get("preset", "")):
+                    if re.fullmatch(r"([A-Z]\.\s*)+", str(value).strip()):
                         value, status = None, "not_found"
                 result[col] = {
                     "value":      value,
@@ -384,5 +387,32 @@ async def enrich_row(
                         batch[dp["column"]] = b2[dp["column"]]
 
         results.update(batch)
+
+    # ── Post-process: derive name from LinkedIn URL if name is missing ────────
+    _slug_re = re.compile(r"linkedin\.com/in/([^/?#\s]+)", re.I)
+    for dp in resolved:
+        if dp.get("field_type") == "name" or dp.get("preset", "").endswith("_name"):
+            col = dp["column"]
+            if results.get(col, {}).get("status") not in ("found", "not_sure"):
+                # Find the matching LinkedIn column for the same role
+                role = dp.get("role_title", "")
+                preset_prefix = dp.get("preset", "").rsplit("_", 1)[0]  # e.g. "mp"
+                linkedin_col = next(
+                    (c for c, v in results.items()
+                     if (role and role in c and "linkedin" in c.lower())
+                     or (preset_prefix and c.lower().endswith("linkedin") and preset_prefix in c.lower())
+                     if v.get("value")),
+                    None
+                )
+                if linkedin_col:
+                    url = results[linkedin_col].get("value", "")
+                    m = _slug_re.search(url or "")
+                    if m:
+                        slug = m.group(1).split("-")
+                        # Drop trailing numeric IDs and suffixes like "esq", "llm"
+                        name_parts = [p.capitalize() for p in slug
+                                      if p.lower() not in ("esq","llm","jd","phd","cpa","pe") and not p.isdigit()]
+                        if len(name_parts) >= 2:
+                            results[col] = {"value": " ".join(name_parts), "status": "not_sure", "source_url": url}
 
     return [{"column": col, **info} for col, info in results.items()]
