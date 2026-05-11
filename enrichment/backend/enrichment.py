@@ -39,14 +39,14 @@ def _or_headers() -> dict:
 # ── Preset definitions ─────────────────────────────────────────────────────────
 
 PRESET_PROMPTS: dict = {
-    "coo_name":       "Name of the Chief Operating Officer, Firm Administrator, or Director of Operations.",
-    "coo_email":      "Email address of the Chief Operating Officer or Firm Administrator.",
-    "coo_phone":      "Phone number of the Chief Operating Officer or Firm Administrator.",
-    "coo_linkedin":   "LinkedIn profile URL of the Chief Operating Officer or Firm Administrator.",
-    "mp_name":        "Name of the Managing Partner or Senior Partner.",
-    "mp_email":       "Email address of the Managing Partner or Senior Partner.",
-    "mp_phone":       "Phone number of the Managing Partner or Senior Partner.",
-    "mp_linkedin":    "LinkedIn profile URL of the Managing Partner or Senior Partner.",
+    "coo_name":       "Name of the Chief Operating Officer, Firm Administrator, Executive Director, or Director of Operations.",
+    "coo_email":      "Email address of the Chief Operating Officer, Firm Administrator, or Executive Director.",
+    "coo_phone":      "Direct phone number of the Chief Operating Officer, Firm Administrator, or Executive Director.",
+    "coo_linkedin":   "LinkedIn profile URL of the Chief Operating Officer, Firm Administrator, or Executive Director.",
+    "mp_name":        "Name of the Managing Partner, Managing Shareholder, Senior Partner, or firm CEO/head.",
+    "mp_email":       "Email address of the Managing Partner, Managing Shareholder, or Senior Partner.",
+    "mp_phone":       "Direct phone number of the Managing Partner, Managing Shareholder, or Senior Partner.",
+    "mp_linkedin":    "LinkedIn profile URL of the Managing Partner, Managing Shareholder, or Senior Partner.",
     "cio_name":       "Name of the Chief Information Officer or Director of Technology.",
     "cio_email":      "Email address of the Chief Information Officer or Director of Technology.",
     "cio_phone":      "Phone number of the Chief Information Officer or Director of Technology.",
@@ -162,17 +162,26 @@ async def _extract_batch(
             col   = dp["column"]
             entry = parsed.get(col, {})
             if isinstance(entry, dict):
+                value  = entry.get("value")
+                status = entry.get("status", "not_found")
+                # Reject masked/redacted values (e.g. "m*****@domain.com")
+                if value and "*" in str(value):
+                    value, status = None, "not_found"
+                # Reject initials-only names (e.g. "K. S." or "J. L.")
+                if value and dp.get("preset", "").endswith("_name"):
+                    import re as _re
+                    if _re.fullmatch(r"([A-Z]\.\s*)+", str(value).strip()):
+                        value, status = None, "not_found"
                 result[col] = {
-                    "value":      entry.get("value"),
-                    "status":     entry.get("status", "not_found"),
+                    "value":      value,
+                    "status":     status,
                     "source_url": entry.get("source_url"),
                 }
             else:
-                result[col] = {
-                    "value":      str(entry) if entry else None,
-                    "status":     "not_sure",
-                    "source_url": None,
-                }
+                value = str(entry) if entry else None
+                if value and "*" in value:
+                    value = None
+                result[col] = {"value": value, "status": "not_sure" if value else "not_found", "source_url": None}
         return result
 
     except (json.JSONDecodeError, KeyError, Exception):
@@ -218,38 +227,55 @@ async def enrich_row(
         if any(dp["preset"].startswith("mp_")  for dp in leadership_dps): roles.append("Managing Partner")
         if any(dp["preset"].startswith("coo_") for dp in leadership_dps): roles.append("COO OR Firm Administrator OR Director of Operations")
         if any(dp["preset"].startswith("cio_") for dp in leadership_dps): roles.append("CIO OR Director of Technology")
-
-        # Target the firm's own people/about/leadership page first
         roles_str = " OR ".join(f'"{r}"' for r in roles)
-        q_site = (
-            f'"{firm_name}" ({roles_str}) (site:{domain} OR "about" OR "leadership" OR "team" OR "people")'
-            if domain else
-            f'"{firm_name}" law firm ({roles_str}) leadership team'
-        )
-        results1 = await _search(q_site, client, include_domains=domains_list, max_results=5)
 
-        # Fallback: open web if we didn't find much
+        # Pass 1: find names from the firm's leadership/people page
+        q1 = (
+            f'"{firm_name}" ({roles_str}) (site:{domain} OR leadership OR team OR people OR about)'
+            if domain else
+            f'"{firm_name}" law firm ({roles_str}) leadership team people'
+        )
+        results1 = await _search(q1, client, include_domains=domains_list, max_results=5)
         if not results1:
-            results1 = await _search(
-                f'"{firm_name}" law firm {" ".join(roles)} contact',
-                client, max_results=5
-            )
+            results1 = await _search(f'"{firm_name}" law firm {" ".join(roles)}', client, max_results=5)
 
         batch = await _extract_batch(firm_name, results1, leadership_dps, client)
 
-        # Second pass: open web for any still missing
-        still_missing = [dp for dp in leadership_dps
-                         if batch.get(dp["column"], {}).get("status") == "not_found"]
-        if still_missing:
-            results2 = await _search(
-                f'"{firm_name}" law firm {" ".join(roles)} email contact directory',
-                client, max_results=5
-            )
-            if results2:
-                batch2 = await _extract_batch(firm_name, results2, still_missing, client)
-                for dp in still_missing:
-                    if batch2.get(dp["column"], {}).get("status") != "not_found":
-                        batch[dp["column"]] = batch2[dp["column"]]
+        # Pass 2: for each name we found, search their individual profile page for email/phone
+        # e.g. "Gary Rosen" "Becker Poliakoff" email phone → hits their bio page directly
+        contact_dps = [dp for dp in leadership_dps
+                       if any(x in dp["preset"] for x in ("email", "phone", "linkedin"))
+                       and batch.get(dp["column"], {}).get("status") in ("not_found", "not_available")]
+
+        if contact_dps:
+            # Collect names we already found to use in the targeted query
+            found_names = []
+            for role_prefix in ("mp_", "coo_", "cio_"):
+                name_col = next((dp["column"] for dp in leadership_dps if dp["preset"] == f"{role_prefix}name"), None)
+                if name_col and batch.get(name_col, {}).get("status") == "found":
+                    found_names.append(batch[name_col]["value"])
+
+            firm_short = firm_name.replace(" LLP", "").replace(" LLC", "").replace(" PLLC", "").replace(" P.A.", "").strip()
+            if found_names:
+                for name in found_names:
+                    q2 = f'"{name}" "{firm_short}" email phone profile'
+                    r2 = await _search(q2, client, include_domains=domains_list, max_results=4)
+                    if r2:
+                        b2 = await _extract_batch(firm_name, r2, contact_dps, client)
+                        for dp in contact_dps:
+                            col = dp["column"]
+                            if b2.get(col, {}).get("status") == "found":
+                                batch[col] = b2[col]
+            else:
+                # No names found yet — do a broader contact search
+                q2 = f'"{firm_name}" law firm {" ".join(roles)} email phone contact'
+                r2 = await _search(q2, client, max_results=5)
+                if r2:
+                    b2 = await _extract_batch(firm_name, r2, contact_dps, client)
+                    for dp in contact_dps:
+                        col = dp["column"]
+                        if b2.get(col, {}).get("status") == "found":
+                            batch[col] = b2[col]
 
         results.update(batch)
 
