@@ -26,7 +26,7 @@ st.set_page_config(
 # be in the environment before the import runs.
 load_dotenv()
 try:
-    for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY", "TAVILY_API_KEY"):
+    for _key in ("APP_PASSWORD", "OPENROUTER_API_KEY", "TAVILY_API_KEY", "SUPABASE_URL", "SUPABASE_KEY"):
         if _key not in os.environ:
             _val = st.secrets.get(_key, "")
             if _val:
@@ -43,8 +43,12 @@ from enrichment import enrich_row, PRESET_PROMPTS  # noqa: E402
 _enrichment_mod.OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
 _enrichment_mod.TAVILY_API_KEY     = os.getenv("TAVILY_API_KEY", "")
 
-APP_PASSWORD = os.getenv("APP_PASSWORD", "")
-# /tmp is always writable on Streamlit Cloud; the repo directory is read-only
+APP_PASSWORD  = os.getenv("APP_PASSWORD", "")
+SUPABASE_URL  = os.getenv("SUPABASE_URL", "")
+SUPABASE_KEY  = os.getenv("SUPABASE_KEY", "")
+USE_SUPABASE  = bool(SUPABASE_URL and SUPABASE_KEY)
+
+# Local fallback (ephemeral on Streamlit Cloud — wiped on reboot)
 SESSIONS_DIR = Path("/tmp/enrichment_sessions")
 SESSIONS_DIR.mkdir(exist_ok=True)
 
@@ -70,32 +74,119 @@ PRESETS = {
 }
 
 # ── Session helpers ────────────────────────────────────────────────────────────
+# If SUPABASE_URL + SUPABASE_KEY are set, sessions persist across reboots.
+# Otherwise, /tmp is used (wiped on reboot).
+
+import base64
+
+def _supa_post(path: str, payload: dict) -> dict:
+    r = httpx.post(
+        f"{SUPABASE_URL}/rest/v1/{path}",
+        headers={
+            "apikey": SUPABASE_KEY,
+            "Authorization": f"Bearer {SUPABASE_KEY}",
+            "Content-Type": "application/json",
+            "Prefer": "resolution=merge-duplicates,return=minimal",
+        },
+        json=payload,
+        timeout=15,
+    )
+    r.raise_for_status()
+    return r.json() if r.content else {}
+
+
+def _supa_get(path: str, params: dict = None) -> list:
+    r = httpx.get(
+        f"{SUPABASE_URL}/rest/v1/{path}",
+        headers={
+            "apikey": SUPABASE_KEY,
+            "Authorization": f"Bearer {SUPABASE_KEY}",
+        },
+        params=params or {},
+        timeout=15,
+    )
+    r.raise_for_status()
+    return r.json()
+
+
+def _supa_delete(path: str, params: dict) -> None:
+    httpx.delete(
+        f"{SUPABASE_URL}/rest/v1/{path}",
+        headers={
+            "apikey": SUPABASE_KEY,
+            "Authorization": f"Bearer {SUPABASE_KEY}",
+        },
+        params=params,
+        timeout=15,
+    )
+
+
+def _df_to_b64(df: pd.DataFrame) -> str:
+    buf = io.BytesIO()
+    df.to_parquet(buf, index=False)
+    return base64.b64encode(buf.getvalue()).decode()
+
+
+def _b64_to_df(b64: str) -> pd.DataFrame:
+    return pd.read_parquet(io.BytesIO(base64.b64decode(b64)))
+
 
 def save_session(session_id: str, name: str, df: pd.DataFrame):
-    df.to_parquet(SESSIONS_DIR / f"{session_id}.parquet", index=False)
-    meta = {
-        "id": session_id,
-        "name": name,
-        "row_count": len(df),
-        "columns": list(df.columns),
-        "updated_at": datetime.utcnow().isoformat(),
-    }
-    (SESSIONS_DIR / f"{session_id}.json").write_text(json.dumps(meta))
+    now = datetime.utcnow().isoformat()
+    if USE_SUPABASE:
+        _supa_post("sessions", {
+            "id":         session_id,
+            "name":       name,
+            "row_count":  len(df),
+            "columns":    json.dumps(list(df.columns)),
+            "data":       _df_to_b64(df),
+            "updated_at": now,
+        })
+    else:
+        df.to_parquet(SESSIONS_DIR / f"{session_id}.parquet", index=False)
+        (SESSIONS_DIR / f"{session_id}.json").write_text(json.dumps({
+            "id": session_id, "name": name,
+            "row_count": len(df), "columns": list(df.columns), "updated_at": now,
+        }))
 
 
-def list_sessions():
-    sessions = []
-    for p in SESSIONS_DIR.glob("*.json"):
+def list_sessions() -> list:
+    if USE_SUPABASE:
         try:
-            sessions.append(json.loads(p.read_text()))
+            rows = _supa_get("sessions", {"select": "id,name,row_count,columns,updated_at", "order": "updated_at.desc"})
+            for r in rows:
+                r["columns"] = json.loads(r["columns"]) if isinstance(r["columns"], str) else r["columns"]
+            return rows
         except Exception:
-            pass
-    return sorted(sessions, key=lambda s: s.get("updated_at", ""), reverse=True)
+            return []
+    else:
+        sessions = []
+        for p in SESSIONS_DIR.glob("*.json"):
+            try:
+                sessions.append(json.loads(p.read_text()))
+            except Exception:
+                pass
+        return sorted(sessions, key=lambda s: s.get("updated_at", ""), reverse=True)
 
 
 def load_df(session_id: str) -> Optional[pd.DataFrame]:
-    p = SESSIONS_DIR / f"{session_id}.parquet"
-    return pd.read_parquet(p) if p.exists() else None
+    if USE_SUPABASE:
+        try:
+            rows = _supa_get("sessions", {"select": "data", "id": f"eq.{session_id}"})
+            return _b64_to_df(rows[0]["data"]) if rows else None
+        except Exception:
+            return None
+    else:
+        p = SESSIONS_DIR / f"{session_id}.parquet"
+        return pd.read_parquet(p) if p.exists() else None
+
+
+def delete_session(session_id: str):
+    if USE_SUPABASE:
+        _supa_delete("sessions", {"id": f"eq.{session_id}"})
+    else:
+        (SESSIONS_DIR / f"{session_id}.parquet").unlink(missing_ok=True)
+        (SESSIONS_DIR / f"{session_id}.json").unlink(missing_ok=True)
 
 
 # ── Async helper ───────────────────────────────────────────────────────────────
@@ -194,8 +285,7 @@ if st.session_state.page == "sessions":
                     st.rerun()
             with c2:
                 if st.button("Delete", key=f"del_{s['id']}", use_container_width=True):
-                    (SESSIONS_DIR / f"{s['id']}.parquet").unlink(missing_ok=True)
-                    (SESSIONS_DIR / f"{s['id']}.json").unlink(missing_ok=True)
+                    delete_session(s["id"])
                     st.rerun()
 
 # ══════════════════════════════════════════════════════════════════════════════
